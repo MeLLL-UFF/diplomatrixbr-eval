@@ -1,0 +1,1 @@
+Os testes executados com os prompts definidos tiveram como base as redações dos candidatos aprovados no CACD de 2022.
