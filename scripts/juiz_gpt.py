@@ -64,6 +64,6 @@ with open(root_path+'/prompt_testing/sheets/redacoes2022.csv', encoding='utf-8')
 
           print(f"Temperatura testada: {i}")
 
-  with open(f'output_{response["modelo"]}_p1-5_criterios.json', 'w') as file:
+  with open(f'output_{response["modelo"]}.json', 'w') as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
