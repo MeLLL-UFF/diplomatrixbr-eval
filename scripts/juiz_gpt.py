@@ -20,11 +20,14 @@ class responseFormat(BaseModel):
 jsonGerado = []
 root_path = os.getcwd()
 
-with open(root_path+'/prompt_testing/prompts.yaml', 'r', encoding='utf-8') as file:
+path_prompts = os.path.join(root_path, "prompt_testing", "prompts.yaml")
+path_essays = os.path.join(root_path, "prompt_testing", "sheets", "redacoes2022.csv")
+
+with open(path_prompts, 'r', encoding='utf-8') as file:
     prompts_yaml = yaml.safe_load(file)
     prompts = prompts_yaml['prompts']
 
-with open(root_path+'/prompt_testing/sheets/redacoes2022.csv', encoding='utf-8') as arquivo_referencia:
+with open(path_essays, encoding='utf-8') as arquivo_referencia:
 
   tabela = csv.reader(arquivo_referencia, delimiter='|')
   numero_redacao = 0
