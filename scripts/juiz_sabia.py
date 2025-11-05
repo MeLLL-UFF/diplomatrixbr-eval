@@ -12,13 +12,25 @@ client = OpenAI(
 )
 temp = [0.0, 0.5, 0.9]
 
-class responseFormat(BaseModel):
-    nota_1A: float
-    nota_1B: float
-    nota_1C: float
-    numero_de_erros_gramaticais: int
-    erros_gramaticais: list[str]
-    feedbacks: list[str]
+class respostaPorCriterio(BaseModel):
+  nota_1A: float
+  nota_1B: float
+  nota_1C: float
+  numero_de_erros_gramaticais: int
+  erros_gramaticais: list[str]
+  feedbacks: list[str]
+
+class respostaFinal(BaseModel):
+  nota_final: float
+  numero_de_erros_gramaticais: int
+  erros_gramaticais: list[str]
+  feedbacks: list[str]  
+
+class respostaEmFaixa(BaseModel):
+  faixa: str
+  numero_de_erros_gramaticais: int
+  erros_gramaticais: list[str]
+  feedbacks: list[str] 
 
 jsonGerado = []
 root_path = os.getcwd()
@@ -57,7 +69,7 @@ with open(path_essays, encoding='utf-8') as arquivo_referencia:
                     {"role": "system", "content": "Você é um corretor de redações que deverá avaliar uma redação que concorre ao cargo de diplomata brasileiro. Retorne sua resposta seguindo a estrutura passada."},
                     {"role": "user", "content": prompt_formatado},
                 ],
-                response_format=responseFormat
+                response_format=respostaPorCriterio
             )
 
             response = json.loads(response.choices[0].message.content)
