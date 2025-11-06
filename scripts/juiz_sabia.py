@@ -5,7 +5,7 @@ import csv
 import json
 import yaml
 
-SABIA_API_KEY="66da53ea7442f2886ee00081_ab6e937fe188d188"
+SABIA_API_KEY="api-key"
 client = OpenAI(
     api_key=SABIA_API_KEY,
     base_url="https://chat.maritaca.ai/api",
