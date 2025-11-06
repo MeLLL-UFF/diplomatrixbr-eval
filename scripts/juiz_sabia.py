@@ -5,7 +5,7 @@ import csv
 import json
 import yaml
 
-SABIA_API_KEY=""
+SABIA_API_KEY="66da53ea7442f2886ee00081_ab6e937fe188d188"
 client = OpenAI(
     api_key=SABIA_API_KEY,
     base_url="https://chat.maritaca.ai/api",
@@ -98,8 +98,7 @@ with open(path_essays, encoding='utf-8') as arquivo_referencia:
 
           print(f"Temperatura testada: {i}")
 
-  output_path = os.path.join("prompt_tesing", f'output_{response["modelo"]}_LLM_prompt.json')
-
-  with open(output_path, 'w') as file:
+  output_path = os.path.join(os.getcwd(), "prompt_testing", f'output_{response["modelo"]}_LLM_prompt.json')
+  with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
