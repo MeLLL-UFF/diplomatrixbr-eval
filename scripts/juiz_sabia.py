@@ -5,7 +5,7 @@ import csv
 import json
 import yaml
 
-SABIA_API_KEY="api-key"
+SABIA_API_KEY=""
 client = OpenAI(
     api_key=SABIA_API_KEY,
     base_url="https://chat.maritaca.ai/api",
@@ -54,11 +54,26 @@ with open(path_essays, encoding='utf-8') as arquivo_referencia:
     for prompt in prompts:
 
       # Definir aqui intervalo de prompts a serem testados
-      if prompt['id'] >= 1 and prompt['id'] <= 5:
+      if prompt['id'] >= 7 and prompt['id'] <= 12:
         prompt_formatado = prompt['prompt'] + redacao
         prompt_formatado += "\n\n" + prompt['extras'] if 'extras' in prompt else ''
 
         print(f"Redação {numero_redacao} - Prompt {prompt['id']}")
+
+        formato_resposta = None
+
+        match prompt['id']:
+            # ADICIONAR NOVOS CASOS NO SWITCH CASE CONFORME FOR INTERESSANTE
+
+          case 7 | 10:
+            formato_resposta = respostaPorCriterio
+          case 8 | 11:
+            formato_resposta = respostaFinal
+          case 9 | 12:
+            formato_resposta = respostaEmFaixa
+
+        if formato_resposta == None:
+          raise ValueError("Atribua um valor a \"formato_resposta\"")
 
         for i in (temp):
           for j in range(3):
@@ -66,10 +81,11 @@ with open(path_essays, encoding='utf-8') as arquivo_referencia:
                 model="sabia-3.1",
                 temperature=i,
                 messages=[
-                    {"role": "system", "content": "Você é um corretor de redações que deverá avaliar uma redação que concorre ao cargo de diplomata brasileiro. Retorne sua resposta seguindo a estrutura passada."},
+                    #{"role": "system", "content": "Você é um corretor de redações que deverá avaliar uma redação que concorre ao cargo de diplomata brasileiro. Retorne sua resposta seguindo a estrutura passada."},
                     {"role": "user", "content": prompt_formatado},
                 ],
-                response_format=respostaPorCriterio
+                response_format=formato_resposta,
+                max_tokens=2048
             )
 
             response = json.loads(response.choices[0].message.content)
@@ -82,6 +98,8 @@ with open(path_essays, encoding='utf-8') as arquivo_referencia:
 
           print(f"Temperatura testada: {i}")
 
-  with open(f'output_{response["modelo"]}.json', 'w') as file:
+  output_path = os.path.join("prompt_tesing", f'output_{response["modelo"]}_LLM_prompt.json')
+
+  with open(output_path, 'w') as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
