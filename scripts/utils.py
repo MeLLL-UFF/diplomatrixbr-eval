@@ -43,7 +43,7 @@ def get_mean(filepath: str):
     for col in cols_to_agg:
         agg_dict[col] = "mean"
 
-    df = df.groupby("group").agg(agg_dict).reset_index(drop=True).drop(columns=["group"]).round(4)
+    df = df.groupby("group").agg(agg_dict).reset_index(drop=True).drop(columns=["group", "versao"]).round(4)
     # df = df.replace(np.nan, "-")
 
     return df
