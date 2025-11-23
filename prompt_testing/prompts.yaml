@@ -271,7 +271,7 @@ prompts:
     extras: "Depois de analisar a redação, forneça a Nota final considerando os critérios apresentados."
   
   - id: 6
-    description: "Prompt apenas com o enunciado e padrão de respostas."
+    description: "Prompt apenas com o enunciado e padrão de respostas"
     prompt: |
       ###Instrução
       Avalie a Redação do candidato considerando o Enunciado fornecido ao candidato e os Critérios de pontuação.
@@ -501,7 +501,7 @@ prompts:
       Caso algum aspecto não possa ser determinado a partir do texto, declare explicitamente como “indeterminado”.
 
   - id: 11
-    descricao: "Prompt gerado pelo GPT-5 mini com enunciado, a nota total e o padrão de resposta"
+    description: "Prompt gerado pelo GPT-5 mini com enunciado, a nota total e o padrão de resposta"
     prompt: |
       Você é um avaliador especializado em redações do Concurso de Admissão à Carreira Diplomática (CACD).
       Sua tarefa é analisar uma redação de acordo com os critérios oficiais e com base no padrão de resposta fornecido, atribuindo apenas a nota final numérica, entre 0,00 e 60,00 pontos, sem detalhar pontuações parciais.
@@ -545,7 +545,7 @@ prompts:
       Caso não seja possível determinar a nota, responda “indeterminado”.
 
   - id: 12
-    descricao: "Prompt gerado pelo GPT-5 mini apenas com enunciado, nota repartida em faixas e padrão de resposta"
+    description: "Prompt gerado pelo GPT-5 mini apenas com enunciado, nota repartida em faixas e padrão de resposta"
     prompt: |
       Você é um avaliador especializado em redações do Concurso de Admissão à Carreira Diplomática (CACD).
       Sua tarefa é analisar uma redação de acordo com os critérios oficiais e com base no padrão de resposta fornecido, atribuindo apenas uma classificação final em faixas:

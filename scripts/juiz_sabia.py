@@ -72,7 +72,7 @@ with open(path_essays, encoding='utf-8') as arquivo_referencia:
           case 9 | 12:
             formato_resposta = respostaEmFaixa
 
-        if formato_resposta == None:
+        if formato_resposta is None:
           raise ValueError("Atribua um valor a \"formato_resposta\"")
 
         for i in (temp):
