@@ -1,11 +1,14 @@
 import os
+from dotenv import load_dotenv
 from openai import OpenAI
 from pydantic import BaseModel
 import csv
 import json
 import yaml
 
-SABIA_API_KEY="api-key"
+load_dotenv()
+
+SABIA_API_KEY=os.getenv("SABIA_API_KEY")
 client = OpenAI(
     api_key=SABIA_API_KEY,
     base_url="https://chat.maritaca.ai/api",
@@ -54,7 +57,7 @@ with open(path_essays, encoding='utf-8') as arquivo_referencia:
     for prompt in prompts:
 
       # Definir aqui intervalo de prompts a serem testados
-      if prompt['id'] >= 7 and prompt['id'] <= 12:
+      if prompt['id'] >= 12 and prompt['id'] <= 12:
         prompt_formatado = prompt['prompt'] + redacao
         prompt_formatado += "\n\n" + prompt['extras'] if 'extras' in prompt else ''
 
@@ -98,7 +101,7 @@ with open(path_essays, encoding='utf-8') as arquivo_referencia:
 
           print(f"Temperatura testada: {i}")
 
-  output_path = os.path.join(os.getcwd(), "prompt_testing", f'output_{response["modelo"]}_LLM_prompt.json')
+  output_path = os.path.join(os.getcwd(), "prompt_testing", f'output_{response["modelo"]}_fixed_prompt_12.json')
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
