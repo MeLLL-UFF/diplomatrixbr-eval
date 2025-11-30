@@ -795,7 +795,7 @@
     "essay": 1
   },
   {
-    "faixa": "muito boa",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -817,10 +817,14 @@
     "essay": 1
   },
   {
-    "faixa": "Excelente",
+    "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      "Texto de altíssimo nível analítico e estilístico.",
+      "Argumentação sofisticada e domínio pleno do tema.",
+      "Riqueza vocabular e fluidez comparável à de um especialista."
+    ],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.9,
@@ -828,15 +832,10 @@
     "essay": 1
   },
   {
-    "faixa": "excelente",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      "Texto articulado e profundo, com argumentação sólida e análises relevantes.",
-      "Demonstra excelente domínio do tema e da linguagem, incluindo referências históricas e teóricas pertinentes.",
-      "A estrutura lógica do texto é clara, com um bom encadeamento das ideias.",
-      "Apresenta insight teórico e riqueza vocabular, mantendo fluidez e clareza."
-    ],
+    "feedbacks": [],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.9,
@@ -844,12 +843,10 @@
     "essay": 1
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.9,
@@ -1620,7 +1617,7 @@
     "essay": 2
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1642,7 +1639,7 @@
     "essay": 2
   },
   {
-    "faixa": "Excelente",
+    "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1656,12 +1653,7 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto é bem articulado, com uma argumentação profunda e relevante sobre o papel da diplomacia nas relações internacionais.",
-      "Demonstra excelente compreensão das ideias de Einstein, Freud e outros teóricos mencionados no enunciado.",
-      "A utilização de conceitos de psicologia social e teorias de Relações Internacionais enriquece a redação.",
-      "A analogia com Sísifo é uma metáfora poderosa e eficaz, ilustrando a incessante busca da diplomacia pela paz."
-    ],
+    "feedbacks": [],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.9,
@@ -1669,7 +1661,7 @@
     "essay": 2
   },
   {
-    "faixa": "muito boa",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -2518,7 +2510,7 @@
     "essay": 3
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -2529,7 +2521,7 @@
     "essay": 3
   },
   {
-    "faixa": "Excelente",
+    "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -2540,7 +2532,7 @@
     "essay": 3
   },
   {
-    "faixa": "excelente",
+    "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -3465,13 +3457,7 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      "A redação está excelente, com uma argumentação clara e bem estruturada.",
-      "O autor demonstra excelente compreensão do tema e utiliza exemplos históricos pertinentes.",
-      "A linguagem é correta, com vocabulário rico e fluidez no texto.",
-      "A articulação das ideias é sofisticada, evidenciando uma análise profunda e relevante.",
-      "A redação reflete uma visão madura e original sobre o papel da diplomacia na prevenção de conflitos."
-    ],
+    "feedbacks": [],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.5,
@@ -3482,9 +3468,7 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta uma argumentação sólida e relevante, abordando o papel da diplomacia na prevenção da guerra. Utiliza exemplos históricos e atuais para sustentar a tese, demonstrando domínio do tema. A linguagem é clara e coerente, com um estilo maduro e fluente. A redação segue os critérios de organização, desenvolvimento do tema e correção gramatical."
-    ],
+    "feedbacks": [],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.5,
@@ -3493,9 +3477,16 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Esqueceu-se de mencionar",
+      "É entendida como sendo"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e articulada, abordando o tema da diplomacia e prevenção de guerras com profundidade.",
+      "Argumentação consistente, embora previsível em alguns pontos, mencionando exemplos históricos pertinentes.",
+      "Domínio razoável da norma culta, com poucos deslizes gramaticais."
+    ],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.9,
@@ -3503,10 +3494,14 @@
     "essay": 4
   },
   {
-    "faixa": "muito boa",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "['Freud, pórem, esqueceu-se de mencionar o papel da diplomacia, pois ela sempre foi a principal razão de os humanos terem vivido prolongados períodos de paz.'] erro de pontuação. A conjunção 'pórem' deveria estar entre vírgulas."
+    ],
+    "feedbacks": [
+      "[A redação apresenta boa compreensão do tema, citando exemplos históricos relevantes e utilizando conceitos da psicologia social, como amor e identidade. A argumentação é clara e bem estruturada, abordando o papel da diplomacia na prevenção de guerras. O texto poderia ser aperfei૚do com uma ligeira melhora na fluidez e na correśầo gramatical.]"
+    ],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.9,
@@ -3514,13 +3509,15 @@
     "essay": 4
   },
   {
-    "faixa": "Excelente",
+    "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "os servidores brasileiros ainda buscam promover o amor e a irmandade"
+      "Freud, porém, esqueceu-se de mencionar"
     ],
     "feedbacks": [
-      "O texto apresenta excelente organização, desenvolvimento do tema e coerência, refletindo uma argumentação sólida e profunda. A utilização de exemplos históricos e a referência à ONU e ao Mercosul demonstram um bom domínio do tema e clareza nas ideias. A linguagem é apropriada e apresenta poucos erros gramaticais."
+      "A redação está bem estruturada e articulada, seguindo de forma coerente os argumentos apresentados.",
+      "O desenvolvimento do tema é relevante e pertinente, abordando a relação entre diplomacia, amor e identidade pacifista.",
+      "A utilização de exemplos históricos, como a mediação brasileira no conflito de Letícia e o envolvimento na Conferência de Anápolis, reforça a argumentação."
     ],
     "modelo": "sabia-3.1",
     "prompt": 12,
@@ -4376,13 +4373,9 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "dianteira desse processo"
-    ],
-    "feedbacks": [
-      "A redação apresenta uma argumentação sólida e bem estruturada, com exemplos históricos pertinentes e uma clara compreensão dos temas abordados por Einstein e Freud. A linguagem é formal e correta, com poucos deslizes gramaticais. A articulação entre ideias é fluida e a argumentação é sofisticada, destacando a relevância da diplomacia na prevenção de conflitos e na promoção da paz. O uso do termo 'dianteira' poderia ser substituído por 'vanguarda' para maior propriedade linguística."
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.0,
@@ -4402,13 +4395,9 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "dianteira desse processo"
-    ],
-    "feedbacks": [
-      "A redação apresenta uma argumentação sólida e bem estruturada, com exemplos históricos pertinentes e uma clara compreensão dos temas abordados. A linguagem é apropriada e há poucos deslizes gramaticais. A articulação entre os conceitos de diplomacia, guerra e cultura é feita de maneira eficiente e relevante, demonstrando um alto nível de reflexão e coesão."
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.0,
@@ -4427,14 +4416,10 @@
     "essay": 5
   },
   {
-    "faixa": "excelente",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "dianteira desse processo"
-    ],
-    "feedbacks": [
-      "A redação apresenta uma argumentação sólida e bem estruturada, com exemplos históricos pertinentes e uma clara compreensão das ideias de Freud e Einstein. A linguagem é apropriada e a correção gramatical é quase plena, com um pequeno deslize na expressão 'dianteira desse processo', que poderia ser 'vanguarda desse processo' para maior precisão. A articulação entre os conceitos de diplomacia e prevenção de conflitos é feita de maneira excelente, com insights originais e uma clareza que evidencia um domínio avançado do tema."
-    ],
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.5,
@@ -4442,18 +4427,13 @@
     "essay": 5
   },
   {
-    "faixa": "muito boa",
-    "numero_de_erros_gramaticais": 2,
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "A diplomacia desempenha papeis diferentes",
-      "a medacao entre iguais"
+      "dianteira desse processo"
     ],
     "feedbacks": [
-      "A redação apresenta excelente desenvolvimento do tema, com argumentação consistente e exemplos pertinentes.",
-      "Domínio avançado da norma culta, com poucos deslizes gramaticais.",
-      "O texto é claro e bem estruturado, com ideias articuladas e relevantes.",
-      "A utilização de conceitos de Freud e a menção a exemplos históricos, como a Guerra Fria e a Questão de Letícia, enriquecem a discussão.",
-      "O uso de termos técnicos, como diplomacia cultural e solução pacífica de controvérsias, demonstra conhecimento específico."
+      "A redação apresenta uma boa compreensão do tema, com argumentos bem desenvolvidos e articulados. A estrutura lógica é clara, e há uma boa reflexão sobre o papel da diplomacia na prevenção de conflitos. O texto menciona exemplos históricos relevantes, como a Guerra Fria e a Questão de Letícia, e faz uma conexão adequada com as ideias de Freud sobre a guerra e os laços emocionais. A linguagem é correta, com poucos deslizes gramaticais. Apenas um erro foi encontrado na expressão 'dianteira desse processo', onde o termo 'dianteira' poderia ser substituído por 'vanguarda' para maior propriedade linguística."
     ],
     "modelo": "sabia-3.1",
     "prompt": 12,
@@ -4463,12 +4443,15 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "dianteira desse processo."
+      "a Albert Einstein em 1932, o avanço das tecnologias",
+      "dianteira desse processo"
     ],
     "feedbacks": [
-      "A redação é clara, bem estruturada e desenvolve o tema de maneira coerente. A argumentação é sólida, com exemplos históricos pertinentes e uma boa articulação das ideias apresentadas. Apresenta uma pequena inadequação gramatical: 'dianteira desse processo.' deveria ser 'dianteira desse processo.' corretamente. No geral, demonstra um bom domínio da norma padrão e articulação argumentativa."
+      "A redação apresenta uma organização clara e articulada das ideias, abordando adequadamente o tema proposto. Contudo, há alguns deslizes gramaticais.",
+      "O texto evidencia uma argumentação consistente e exemplos pertinentes que sustentam os argumentos.",
+      "Possui um bom uso da linguagem, com poucas imprecisões."
     ],
     "modelo": "sabia-3.1",
     "prompt": 12,
@@ -4477,13 +4460,18 @@
     "essay": 5
   },
   {
-    "faixa": "excelente",
-    "numero_de_erros_gramaticais": 1,
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "diplomática"
+      "recorda",
+      "papeis"
     ],
     "feedbacks": [
-      "O texto é bem estruturado e articulado, com exemplos precisos e argumentação sólida. Apenas o erro gramatical na palavra 'diplomática' foi encontrado."
+      "Ótima estrutura e desenvolvimento do tema",
+      "Argumentação sólida e pertinentes alusões históricas",
+      "Alta fluidez e clareza no texto",
+      "Uso apropriado de conceitos das Relações Internacionais e psicologia social",
+      "Pequenos deslizes gramaticais não prejudicam a compreensão geral"
     ],
     "modelo": "sabia-3.1",
     "prompt": 12,
@@ -4492,17 +4480,10 @@
     "essay": 5
   },
   {
-    "faixa": "muito boa",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "A palavra 'mediação' foi escrita como 'mediacao'."
-    ],
-    "feedbacks": [
-      "O texto apresenta uma excelente articulação e profundidade, abordando os papeis da diplomacia na prevenção de conflitos com argumentos sólidos e exemplos pertinentes.",
-      "A compreensão do tema e das ideias de Freud e Einstein é clara e bem desenvolvida.",
-      "Há um uso sofisticado de termos técnicos e exemplos históricos relevantes, como a Guerra Fria e a Questão de Letícia.",
-      "O texto apresenta uma riqueza vocabular e fluidez comparável à de um especialista, com apenas um pequeno erro gramatical."
-    ],
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.9,
@@ -5294,7 +5275,7 @@
     "essay": 6
   },
   {
-    "faixa": "Excelente",
+    "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -5316,7 +5297,7 @@
     "essay": 6
   },
   {
-    "faixa": "muito boa",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -5327,10 +5308,15 @@
     "essay": 6
   },
   {
-    "faixa": "ótimo",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      "A redação apresenta argumentos sólidos e bem desenvolvidos.",
+      "O texto aborda o tema de maneira profunda e articulada.",
+      "Estilo maduro e linguagem apropriada são evidentes.",
+      "Originalidade e clareza destacam-se."
+    ],
     "modelo": "sabia-3.1",
     "prompt": 12,
     "temp": 0.9,
@@ -5338,7 +5324,7 @@
     "essay": 6
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
