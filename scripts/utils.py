@@ -23,27 +23,18 @@ def create_new_row(data: dict) -> dict:
 
 def get_mean(filepath: str):
     df = pd.read_csv(filepath)
-    cols_to_agg = ["nota_final", "1A", "1B", "1C", "CGPL", "num_errors", "faixa"]
+    cols_to_agg = ["nota_final", "1A", "1B", "1C", "CGPL", "num_errors", "faixa_numerica"]
 
     mapping_faixas = {
         "Excepcional": 60,
-        "Excelente": 50,
-        "Ótimo": 40,
-        "Boa": 30,
-        "Regular": 20,
-        "Fraco": 10,
+        "Excelente": 55,
+        "Ótimo": 50,
+        "Boa": 45,
+        "Regular": 40,
+        "Fraco": 30,
     }
 
-    # mapping_faixas = {
-    #     "Excepcional": 60,
-    #     "Excelente": 55,
-    #     "Ótimo": 50,
-    #     "Boa": 45,
-    #     "Regular": 40,
-    #     "Fraco": 30,
-    # }
-
-    df["faixa"] = df["faixa"].replace(mapping_faixas)
+    df["faixa_numerica"] = df["faixa"].replace(mapping_faixas)
     df[cols_to_agg] = df[cols_to_agg].apply(pd.to_numeric, errors='coerce')
     df["group"] = df.index // 3
 
