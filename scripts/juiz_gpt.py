@@ -1,11 +1,14 @@
 import os
+from dotenv import load_dotenv
 from openai import OpenAI
 from pydantic import BaseModel
 import csv
 import json
 import yaml
 
-OPENAI_API_KEY="api-key"
+load_dotenv()
+
+OPENAI_API_KEY=os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=OPENAI_API_KEY)
 temp = [0.0, 0.5, 0.9]
 
