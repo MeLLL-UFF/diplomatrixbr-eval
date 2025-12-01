@@ -29,11 +29,19 @@ def get_mean(filepath: str):
         "Excepcional": 60,
         "Excelente": 50,
         "Ótimo": 40,
-        "Muito Boa": 35, # remover !!!!!!
         "Boa": 30,
         "Regular": 20,
         "Fraco": 10,
     }
+
+    # mapping_faixas = {
+    #     "Excepcional": 60,
+    #     "Excelente": 55,
+    #     "Ótimo": 50,
+    #     "Boa": 45,
+    #     "Regular": 40,
+    #     "Fraco": 30,
+    # }
 
     df["faixa"] = df["faixa"].replace(mapping_faixas)
     df[cols_to_agg] = df[cols_to_agg].apply(pd.to_numeric, errors='coerce')
