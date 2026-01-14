@@ -1,0 +1,142 @@
+import matplotlib.pyplot as plt
+import textwrap
+import math
+import seaborn as sns
+
+def plot_distribuicao_notas(df_eval, df_human, prompts, output_path):
+    plot_ids = [0] + df_eval["prompt"].unique().tolist()
+    num_plots = len(plot_ids)
+    ncols = 3
+    nrows = math.ceil(num_plots / ncols)
+    
+    fig, axes = plt.subplots(nrows, ncols, figsize=(18, 5 * nrows))
+    axes = axes.flatten()
+
+    for idx, i in enumerate(plot_ids):
+        ax = axes[idx]
+        
+        # Seleção de dados e título (Lógica original)
+        if i == 0:
+            subset = df_human
+            title = "Avaliação Humana"
+        else:
+            subset = df_eval[df_eval['prompt'] == i]
+            desc = f"Prompt {i}: " + prompts[i+1]["description"]
+            title = "\n".join(textwrap.wrap(desc, width=40))
+
+        subset['nota_final'].plot(kind='hist', bins=20, ax=ax, color="#41ACCF" if i != 0 else "#1E9D1E", edgecolor='white')
+
+        ax.set_title(title, fontsize=12, fontweight='bold')
+        ax.set_xlabel("Nota")
+        ax.set_ylabel("Frequência")
+        ax.set_xlim(30, 60)
+        ax.set_ylim(0, 15)
+        ax.spines[['top', 'right']].set_visible(False)
+
+    # Remove eixos vazios
+    for j in range(idx + 1, len(axes)):
+        fig.delaxes(axes[j])
+
+    plt.tight_layout()
+    plt.savefig(f"{output_path}/distribuicao_notas.png", dpi=300, bbox_inches='tight')
+    plt.close()
+
+def plot_val_error(df, output_path):
+    g = sns.relplot(
+        data=df,
+        x="redacao",
+        y="val_error",
+        hue="prompt",
+        style="temp",
+        kind="line",
+        marker="o",
+        height=5,
+        aspect=1.2,
+        palette = ["#54B8D9", "#F83BBFB1", "#7ED07E", "#3030C0", "#D41111", "#2E772E"]
+    )
+
+    g._legend.set_bbox_to_anchor((1.15, 0.5))
+
+    plt.suptitle("Análise de Erro de Validação")
+    plt.tight_layout()
+    plt.xlabel("Redação")
+    plt.ylabel("Erro")
+    plt.savefig(f"{output_path}/area_val_error.png", dpi=300, bbox_inches='tight')
+    plt.close()
+
+def plot_eval_human_scores(df, output_path):
+    fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+
+    sns.lineplot(
+        data=df,
+        x="redacao",
+        y="nota_final",
+        hue="prompt",
+        style="temp",
+        marker="o",
+        palette=["#54B8D9", "#F83BBFB1", "#7ED07E", "#3030C0", "#D41111", "#2E772E"],
+        ax=axes[0]
+    )
+    axes[0].set_title("Análise de Nota Gerada por Redação")
+    axes[0].set_xlabel("Redação")
+    axes[0].set_ylabel("Nota Final")
+    axes[0].set_ylim(45, 60)
+    axes[0].legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
+    axes[0].spines[['top', 'right']].set_visible(False)
+
+    sns.lineplot(
+        data=df,
+        x="redacao",
+        y="nota_humana",
+        marker="o",
+        ax=axes[1]
+    )
+    axes[1].set_title("Análise de Nota Humana por Redação")
+    axes[1].set_xlabel("Redação")
+    axes[1].set_ylabel("Nota Final")
+    axes[1].set_ylim(45, 60)
+    axes[1].spines[['top', 'right']].set_visible(False)
+
+    plt.suptitle("Comparação de Nota Gerada e Nota Humana por Redação", fontsize=16)
+    plt.tight_layout(rect=[0, 0, 1.1, 0.95])
+    plt.savefig(f"{output_path}/comparacao_notas.png", dpi=300, bbox_inches='tight')
+    plt.close()
+
+def plot_eval_human_num_errors(df_merged, df_human, output_path):
+    fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+
+    sns.lineplot(
+        data=df_merged,
+        x="redacao",
+        y="num_errors",
+        hue="prompt",
+        style="temp",
+        marker="o",
+        palette=["#54B8D9", "#F83BBFB1", "#7ED07E", "#3030C0", "#D41111", "#2E772E"],
+        ax=axes[0]
+    )
+    axes[0].set_title("Análise de Número de Erros Gerados por Redação")
+    axes[0].set_xlabel("Redação")
+    axes[0].set_ylabel("Número de Erros")
+    axes[0].set_yticks([0, 1, 2, 3, 4])
+    axes[0].legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
+    axes[0].spines[['top', 'right']].set_visible(False)
+
+    sns.lineplot(
+        data=df_human,
+        x="redacao",
+        y="num_errors",
+        marker="o",
+        ax=axes[1]
+    )
+    axes[1].set_title("Análise de Número de Erros Humanos por Redação")
+    axes[1].set_xlabel("Redação")
+    axes[1].set_ylabel("Número de Erros")
+    axes[1].set_yticks([0, 1, 2, 3, 4, 5, 6])
+    axes[1].set_ylim(-0.2, 6)
+    axes[1].spines[['top', 'right']].set_visible(False)
+
+    plt.suptitle("Comparação de Número de Erros Gerados e Humanos por Redação", fontsize=16)
+    plt.tight_layout(rect=[0, 0, 1.1, 0.95])
+    plt.savefig(f"{output_path}/comparacao_num_erros.png", dpi=300, bbox_inches='tight')
+    plt.close()

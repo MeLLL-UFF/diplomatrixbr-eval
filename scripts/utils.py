@@ -45,8 +45,7 @@ def get_mean(filepath: str, num_runs: int) -> pd.DataFrame:
     df = df.groupby("group").agg(agg_dict).reset_index(drop=True).drop(columns=["group", "versao"]).round(4)
     df["nota_final"] = df["nota_final"].fillna(df["faixa_numerica"])
     df.drop(columns=["faixa_numerica"], inplace=True)
-
-    # df.drop(columns=["faixa"], inplace=True)
+    df.drop(columns=["faixa"], inplace=True)
 
     return df
     
