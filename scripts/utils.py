@@ -1,5 +1,14 @@
 import pandas as pd
 
+mapping_faixas = {
+    "Excepcional": 60,
+    "Excelente": 55,
+    "Ótimo": 50,
+    "Boa": 45,
+    "Regular": 40,
+    "Fraco": 30,
+}
+
 def create_new_row(data: dict) -> dict:
     nota_final = data.get("nota_final", None)
     if nota_final is None:
@@ -21,30 +30,23 @@ def create_new_row(data: dict) -> dict:
     new_row["faixa"] = data.get("faixa", "-")
     return new_row
 
-def get_mean(filepath: str):
+def get_mean(filepath: str, num_runs: int) -> pd.DataFrame:
     df = pd.read_csv(filepath)
     cols_to_agg = ["nota_final", "1A", "1B", "1C", "CGPL", "num_errors", "faixa_numerica"]
 
-    mapping_faixas = {
-        "Excepcional": 60,
-        "Excelente": 55,
-        "Ótimo": 50,
-        "Boa": 45,
-        "Regular": 40,
-        "Fraco": 30,
-    }
-
     df["faixa_numerica"] = df["faixa"].replace(mapping_faixas)
     df[cols_to_agg] = df[cols_to_agg].apply(pd.to_numeric, errors='coerce')
-    df["group"] = df.index // 3
+    df["group"] = df.index // num_runs
 
     agg_dict = {col: "first" for col in df.columns if col not in cols_to_agg}
     for col in cols_to_agg:
         agg_dict[col] = "mean"
 
     df = df.groupby("group").agg(agg_dict).reset_index(drop=True).drop(columns=["group", "versao"]).round(4)
-    # df = df.replace(np.nan, "-")
+    df["nota_final"] = df["nota_final"].fillna(df["faixa_numerica"])
+    df.drop(columns=["faixa_numerica"], inplace=True)
+
+    # df.drop(columns=["faixa"], inplace=True)
 
     return df
-
     
