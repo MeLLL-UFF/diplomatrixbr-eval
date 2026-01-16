@@ -3,9 +3,9 @@ import csv
 import os
 import time
 
-from scripts.utils import create_new_row
+from utils import create_new_row
 
-path_json_response = os.path.join(os.getcwd(), "prompt_testing", "output_sabia-3.1_p7-12.json")
+path_json_response = os.path.join(os.getcwd(), "prompt_testing", "output_sabia-3.1_p7-12_10r.json")
 data_atual = time.strftime("%d.%m.%Y-%H.%M.%S")
 
 with open(path_json_response, 'r') as json_file:
