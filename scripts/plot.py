@@ -29,7 +29,7 @@ def plot_distribuicao_notas(df_eval, df_human, prompts, output_path):
         ax.set_title(title, fontsize=12, fontweight='bold')
         ax.set_xlabel("Nota")
         ax.set_ylabel("Frequência")
-        ax.set_xlim(30, 60)
+        ax.set_xlim(40, 60)
         ax.set_ylim(0, 15)
         ax.spines[['top', 'right']].set_visible(False)
 
