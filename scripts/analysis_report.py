@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import argparse
 from datetime import datetime
+from sklearn.metrics import cohen_kappa_score, roc_auc_score
 
 import yaml
 
@@ -27,8 +28,12 @@ def main(num_runs, eval_path, human_path, model, model_version):
     areas = {}
     for (prompt, temp), group in df_merged.groupby(["prompt", "temp"]):  
         area = np.trapezoid(group["val_error"], group["redacao"])
-        areas[(prompt, temp)] = prompt, temp, area.round(4)
-    df_area_sob_grafico = pd.DataFrame.from_dict(areas, orient='index', columns=['prompt', 'temp', 'area_val_error']).reset_index(drop=True)
+        mae = group['val_error'].mean()
+        rmse = np.sqrt((group['val_error'] ** 2).mean())
+        # qwk = cohen_kappa_score(np.round(group["nota_humana"]).astype(int), np.round(group["nota_final"]).astype(int))
+        # auc_roc = roc_auc_score(np.round(group["nota_humana"]).astype(int), np.round(group["nota_final"]).astype(int))
+        areas[(prompt, temp)] = prompt, temp, area.round(4), mae.round(4), rmse.round(4) #, qwk.round(4), auc_roc.round(4)
+    df_area_sob_grafico = pd.DataFrame.from_dict(areas, orient='index', columns=['prompt', 'temp', 'area_sob_curva', 'mae', 'rmse']).reset_index(drop=True)
 
     # Gerando gráficos
     # 1. Distribuição de Notas
@@ -61,7 +66,7 @@ Nesta seção, apresentamos a comparação entre as notas finais geradas pelo mo
 
 ![Comparação Notas](comparacao_notas.png)
 
-## 3. Análise de Erro de Validação
+## 3. Análise de Erro Absoluto de Validação
 
 <table>
   <tr>

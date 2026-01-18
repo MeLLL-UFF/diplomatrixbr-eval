@@ -1,5 +1,5 @@
 # Relatório de Avaliação: sabia v3.1 - 10 execuções
-**Gerado em: 16/01/2026 21:13:32**
+**Gerado em: 18/01/2026 17:34:04**
 
 ## 1. Distribuição de Notas
 Nesta seção comparamos as notas atribuídas pelo modelo sabia em diferentes prompts/temperaturas versus a correção humana.
@@ -11,7 +11,7 @@ Nesta seção, apresentamos a comparação entre as notas finais geradas pelo mo
 
 ![Comparação Notas](comparacao_notas.png)
 
-## 3. Análise de Erro de Validação
+## 3. Análise de Erro Absoluto de Validação
 
 <table>
   <tr>
@@ -25,7 +25,9 @@ Nesta seção, apresentamos a comparação entre as notas finais geradas pelo mo
       <th></th>
       <th>prompt</th>
       <th>temp</th>
-      <th>area_val_error</th>
+      <th>area_sob_curva</th>
+      <th>mae</th>
+      <th>rmse</th>
     </tr>
   </thead>
   <tbody>
@@ -34,108 +36,144 @@ Nesta seção, apresentamos a comparação entre as notas finais geradas pelo mo
       <td>7</td>
       <td>0.0</td>
       <td>26.0100</td>
+      <td>4.8400</td>
+      <td>5.4591</td>
     </tr>
     <tr>
       <th>1</th>
       <td>7</td>
       <td>0.5</td>
       <td>25.2500</td>
+      <td>4.8750</td>
+      <td>5.1726</td>
     </tr>
     <tr>
       <th>2</th>
       <td>7</td>
       <td>0.9</td>
       <td>31.3950</td>
+      <td>6.0600</td>
+      <td>6.3669</td>
     </tr>
     <tr>
       <th>3</th>
       <td>8</td>
       <td>0.0</td>
       <td>7.5875</td>
+      <td>1.5917</td>
+      <td>1.6643</td>
     </tr>
     <tr>
       <th>4</th>
       <td>8</td>
       <td>0.5</td>
       <td>7.4550</td>
+      <td>1.4258</td>
+      <td>1.6043</td>
     </tr>
     <tr>
       <th>5</th>
       <td>8</td>
       <td>0.9</td>
       <td>7.9095</td>
+      <td>1.6178</td>
+      <td>1.8255</td>
     </tr>
     <tr>
       <th>6</th>
       <td>9</td>
       <td>0.0</td>
       <td>7.5000</td>
+      <td>1.5000</td>
+      <td>1.8019</td>
     </tr>
     <tr>
       <th>7</th>
       <td>9</td>
       <td>0.5</td>
       <td>7.9833</td>
+      <td>1.6222</td>
+      <td>2.0395</td>
     </tr>
     <tr>
       <th>8</th>
       <td>9</td>
       <td>0.9</td>
       <td>9.9556</td>
+      <td>1.9926</td>
+      <td>2.2390</td>
     </tr>
     <tr>
       <th>9</th>
       <td>10</td>
       <td>0.0</td>
       <td>22.6900</td>
+      <td>4.2067</td>
+      <td>4.9906</td>
     </tr>
     <tr>
       <th>10</th>
       <td>10</td>
       <td>0.5</td>
       <td>23.9250</td>
+      <td>4.4000</td>
+      <td>5.0700</td>
     </tr>
     <tr>
       <th>11</th>
       <td>10</td>
       <td>0.9</td>
       <td>25.1900</td>
+      <td>4.8083</td>
+      <td>5.1844</td>
     </tr>
     <tr>
       <th>12</th>
       <td>11</td>
       <td>0.0</td>
       <td>10.9250</td>
+      <td>2.2792</td>
+      <td>2.3924</td>
     </tr>
     <tr>
       <th>13</th>
       <td>11</td>
       <td>0.5</td>
       <td>11.4425</td>
+      <td>2.1550</td>
+      <td>2.6198</td>
     </tr>
     <tr>
       <th>14</th>
       <td>11</td>
       <td>0.9</td>
       <td>9.6730</td>
+      <td>1.8915</td>
+      <td>2.3154</td>
     </tr>
     <tr>
       <th>15</th>
       <td>12</td>
       <td>0.0</td>
       <td>7.7500</td>
+      <td>1.5833</td>
+      <td>1.9248</td>
     </tr>
     <tr>
       <th>16</th>
       <td>12</td>
       <td>0.5</td>
       <td>10.1500</td>
+      <td>2.1500</td>
+      <td>2.5010</td>
     </tr>
     <tr>
       <th>17</th>
       <td>12</td>
       <td>0.9</td>
       <td>7.9000</td>
+      <td>1.4833</td>
+      <td>2.0628</td>
     </tr>
   </tbody>
 </table>
