@@ -1617,16 +1617,93 @@
     "essay": 2
   },
   {
-    "nota_final": 58.0,
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 2
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.5,
+    "versao": 3,
+    "essay": 2
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 2
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 2
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 2
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "A redação demonstra uma organização clara e coerente, com desenvolvimento adequado do tema e argumentação sólida.",
-      "A linguagem é apropriada e a correção gramatical é impecável.",
-      "O texto apresenta uma reflexão profunda sobre o papel da diplomacia na prevenção de conflitos, alinhada com os critérios do CACD."
+      "1A: O texto apresenta uma excelente organização, com uma introdução clara, desenvolvimento coerente e conclusão bem estruturada. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. (9.5/10)",
+      "1B: A argumentação é sólida, com informações pertinentes e bem sistematizadas. O autor demonstra objetividade ao abordar o tema, utilizando exemplos históricos e conceitos diplomáticos de forma eficaz. (9.0/10)",
+      "1C: A capacidade de análise e reflexão é um dos pontos fortes do texto. O autor não apenas discute as ideias de Einstein e Freud, mas também as relaciona com a evolução da diplomacia, oferecendo uma visão crítica e aprofundada. A conexão entre teoria e prática é bem executada. (18.0/20)",
+      "CGPL: Não foram identificados erros gramaticais, e a linguagem é precisa e adequada ao contexto acadêmico e diplomático. (20.0/20)",
+      "Nota Final: 56.5"
     ],
     "modelo": "command-a-03-2025",
-    "prompt": 8,
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A. **Apresentação e impressão geral do texto (9.5/10):** O texto apresenta uma estrutura clara e coerente, com parágrafos bem organizados e uma progressão lógica de ideias. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. A única observação é que, em alguns momentos, a linguagem poderia ser mais concisa para evitar repetições desnecessárias.",
+      "1B. **Capacidade de argumentação (9.0/10):** A argumentação é sólida e bem fundamentada, com exemplos históricos e contemporâneos que apoiam a tese central. A objetividade é mantida ao longo do texto, e as informações são pertinentes ao tema. No entanto, em alguns pontos, a sistematização poderia ser mais clara, especialmente na transição entre parágrafos.",
+      "1C. **Capacidade de análise e reflexão (18.0/20):** O texto demonstra uma análise profunda e reflexiva sobre o papel da diplomacia na prevenção de conflitos, alinhando-se às ideias de Einstein e Freud. A conexão entre a teoria e a prática é bem executada, com exemplos concretos que ilustram a evolução da diplomacia. A única limitação é que, em alguns momentos, a reflexão poderia ir além da descrição de mecanismos diplomáticos, explorando mais profundamente as implicações filosóficas e éticas da questão.",
+      "Correção gramatical e propriedade da linguagem (20.0/20):** O texto está isento de erros gramaticais, com uso correto de concordância, ortografia, pontuação e regência. A linguagem é apropriada e formal, adequada ao contexto do CACD."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
     "temp": 0.0,
     "versao": 2,
     "essay": 3
@@ -1638,9 +1715,453 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "1A: O texto apresenta uma excelente organização, com introdução, desenvolvimento e conclusão bem estruturados. A coerência e a legibilidade são altas, e o estilo é formal e adequado ao tema. (9.5/10)",
-      "1B: A argumentação é clara e objetiva, com informações pertinentes e bem sistematizadas. O candidato demonstra domínio do tema e das referências teóricas, embora poderia explorar mais profundamente algumas teorias de Relações Internacionais. (9.0/10)",
-      "1C: A análise é profunda e reflexiva, especialmente ao relacionar as ideias de Freud e Einstein com a evolução da diplomacia. A discussão sobre o papel da ONU e dos princípios da diplomacia brasileira é bem desenvolvida. No entanto, a crítica às teses de globalização e paz pela expansão dos valores ocidentais poderia ser mais explorada. (18.0/20)",
+      "1A. Apresentação e impressão geral do texto: O texto apresenta uma estrutura clara e coerente, com parágrafos bem organizados e uma progressão lógica de ideias. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. A introdução e a conclusão são eficazes em enquadrar o tema e fechar a argumentação. (9.5/10)",
+      "1B. Capacidade de argumentação: A argumentação é objetiva e sistematizada, com informações pertinentes e bem integradas ao tema. O autor utiliza exemplos históricos e conceitos teóricos de forma eficaz para sustentar sua tese. No entanto, em alguns momentos, a argumentação poderia ser mais concisa, evitando repetições desnecessárias. (9.0/10)",
+      "1C. Capacidade de análise e reflexão: O texto demonstra uma análise profunda e reflexiva, especialmente ao relacionar as ideias de Freud com a evolução da diplomacia. O autor explora diferentes aspectos da diplomacia, como a contenção de tendências agressivas, a formação de laços emocionais e a promoção cultural, de maneira articulada e crítica. A referência ao mito de Sísifo na conclusão adiciona uma camada de profundidade à reflexão. (18.0/20)",
+      "Correção gramatical e propriedade da linguagem: O texto está isento de erros gramaticais, com uso correto de concordância, ortografia, pontuação e regência. A linguagem é precisa e adequada ao contexto acadêmico e diplomático. (20.0/20)"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma excelente organização, com introdução, desenvolvimento e conclusão bem estruturados. A coerência e a legibilidade são altas, e o estilo é formal e adequado ao contexto do CACD. A pontuação é próxima do máximo devido à clareza e à fluidez do texto.",
+      "1B: A argumentação é sólida e objetiva, com informações pertinentes e bem sistematizadas. O autor demonstra domínio do tema e utiliza exemplos históricos e contemporâneos de forma eficaz. A nota é alta, mas não máxima, pois poderia haver um maior aprofundamento em alguns pontos específicos.",
+      "1C: A capacidade de análise e reflexão é um dos pontos fortes do texto. O autor não apenas apresenta argumentos, mas também os conecta de maneira crítica e reflexiva, especialmente ao discutir o papel da diplomacia na mitigação de conflitos. A nota é alta, refletindo a profundidade da análise.",
+      "CGPL: Não foram identificados erros gramaticais, o que resulta em uma pontuação máxima para este critério."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.5,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A. Apresentação e impressão geral do texto: O texto apresenta uma estrutura clara e coerente, com parágrafos bem organizados e uma progressão lógica de ideias. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. A introdução e a conclusão são eficazes em enquadrar o tema e fechar a argumentação. (9.5/10)",
+      "1B. Capacidade de argumentação: A argumentação é objetiva e sistematizada, com informações pertinentes e bem integradas ao tema. O autor utiliza exemplos históricos e contemporâneos para sustentar sua tese, demonstrando conhecimento sólido sobre o assunto. No entanto, em alguns momentos, a argumentação poderia ser mais concisa. (9.0/10)",
+      "1C. Capacidade de análise e reflexão: O texto demonstra uma análise profunda e reflexiva, especialmente ao relacionar as ideias de Einstein e Freud com a evolução da diplomacia. O autor explora diferentes aspectos da diplomacia, como a contenção de tendências agressivas, a formação de laços emocionais e a promoção cultural, de forma articulada e crítica. A referência ao mito de Sísifo na conclusão adiciona uma camada de profundidade filosófica. (18.0/20)",
+      "Correção gramatical e propriedade da linguagem: O texto está isento de erros gramaticais, com uso adequado de concordância, ortografia, pontuação e regência. A linguagem é precisa e apropriada ao contexto acadêmico e diplomático. (20.0/20)"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma excelente organização, com uma introdução clara, desenvolvimento coerente e conclusão bem estruturada. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. (9.5/10)",
+      "1B: A argumentação é sólida, com informações pertinentes e bem sistematizadas. O autor demonstra objetividade ao abordar o tema, utilizando exemplos históricos e conceitos teóricos de forma eficaz. (9.0/10)",
+      "1C: A capacidade de análise e reflexão é um dos pontos fortes do texto. O autor não apenas discute as ideias de Einstein e Freud, mas também as relaciona com a evolução da diplomacia e exemplos concretos, demonstrando uma profunda compreensão do tema. (18.0/20)",
+      "CGPL: Não foram identificados erros gramaticais, e a linguagem é precisa e adequada ao contexto acadêmico e diplomático. (20.0/20)",
+      "Nota final de correção gramatical: 20.0 (calculada com base na ausência de erros)."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.5,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A. Apresentação e impressão geral do texto: O texto demonstra coerência, legibilidade e estilo adequado, com uma estrutura clara e bem organizada. A introdução apresenta o contexto histórico e as perguntas de Einstein e Freud, enquanto o desenvolvimento explora o papel da diplomacia na prevenção de conflitos. A conclusão sintetiza as ideias de forma coesa. (9.5/10)",
+      "1B. Capacidade de argumentação: O autor apresenta argumentos objetivos e pertinentes, com informações bem sistematizadas. A análise da evolução da diplomacia e sua relação com a prevenção de guerras é convincente. No entanto, alguns pontos poderiam ser mais aprofundados, como a crítica à visão de Freud. (9.0/10)",
+      "1C. Capacidade de análise e reflexão: O texto demonstra uma análise profunda e reflexiva, especialmente ao relacionar as ideias de Freud com o papel da diplomacia contemporânea. A discussão sobre os diferentes tipos de laços emocionais e a aproximação cultural é rica e bem desenvolvida. A comparação com o mito de Sísifo na conclusão adiciona uma camada de profundidade. (18.5/20)",
+      "Correção gramatical e propriedade da linguagem: O texto está isento de erros gramaticais, com uso adequado de concordância, ortografia, pontuação e regência. A linguagem é formal e apropriada para o contexto do CACD. (20.0/20)"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A. Apresentação e impressão geral do texto: O texto demonstra coerência, legibilidade e estilo adequado. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. A linguagem é formal e apropriada para o contexto do CACD. (9.5/10)",
+      "1B. Capacidade de argumentação: O autor apresenta argumentos objetivos e sistematizados, com conteúdo pertinente ao tema. A redação utiliza exemplos históricos e conceitos teóricos de forma coerente, embora em alguns momentos poderia aprofundar mais a conexão entre as ideias. (9.0/10)",
+      "1C. Capacidade de análise e reflexão: O texto demonstra boa capacidade de análise ao relacionar as ideias de Einstein e Freud com a evolução da diplomacia. A reflexão sobre o papel da diplomacia na prevenção de conflitos é bem desenvolvida, com exemplos concretos. No entanto, poderia explorar mais as limitações e desafios da diplomacia contemporânea. (18.0/20)",
+      "Correção gramatical e propriedade da linguagem: O texto está livre de erros gramaticais, com uso correto de concordância, ortografia, pontuação e regência. A linguagem é precisa e adequada ao contexto. (20.0/20)"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma excelente organização e clareza, com uma estrutura lógica e coerente. A introdução contextualiza bem o tema, e a conclusão fecha o raciocínio de forma satisfatória. A legibilidade é alta, e o estilo é formal e adequado ao contexto diplomático. (9.5/10)",
+      "1B: A argumentação é sólida e objetiva, com informações pertinentes e bem sistematizadas. O autor utiliza exemplos históricos e contemporâneos para sustentar sua tese, demonstrando domínio do tema. No entanto, alguns argumentos poderiam ser mais desenvolvidos para evitar repetições. (9.0/10)",
+      "1C: A capacidade de análise e reflexão é um dos pontos fortes do texto. O autor estabelece uma conexão eficaz entre as ideias de Einstein e Freud e a evolução da diplomacia, oferecendo insights profundos sobre o papel da diplomacia na prevenção de conflitos. A reflexão sobre a utopia do fim das guerras é particularmente bem elaborada. (18.0/20)",
+      "CGPL: Não foram identificados erros gramaticais, e a linguagem é apropriada e precisa. A pontuação, concordância, ortografia e regência estão corretas. (20.0/20)",
+      "Nota final de Correção Gramatical e Propriedade da Linguagem: 20.0"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização clara e coerente, com desenvolvimento adequado do tema, refletindo sobre as ideias de Einstein e Freud e relacionando-as à evolução da diplomacia.",
+      "A argumentação é sólida, com exemplos históricos e contemporâneos que sustentam a tese de que a diplomacia pode livrar a humanidade da ameaça da guerra.",
+      "A linguagem é apropriada e formal, adequada ao contexto do CACD, com uso correto de vocabulário e estruturação de parágrafos.",
+      "A redação apresenta uma conclusão bem elaborada, que resume os pontos principais e reforça a tese, mantendo a coerência com o desenvolvimento do texto."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização clara e coerente, com desenvolvimento adequado do tema e argumentação sólida.",
+      "A linguagem é apropriada e a correção gramatical é impecável.",
+      "O texto apresenta uma reflexão profunda sobre o papel da diplomacia na prevenção de conflitos, alinhando-se bem com as ideias de Einstein e Freud.",
+      "A utilização de exemplos históricos e contemporâneos enriquece a argumentação e demonstra conhecimento do tema."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização clara e coerente, com desenvolvimento adequado do tema, refletindo sobre as ideias de Einstein e Freud e relacionando-as à evolução da diplomacia.",
+      "A argumentação é sólida, com exemplos históricos e contemporâneos que sustentam a tese de que a diplomacia pode livrar a humanidade da ameaça de guerra.",
+      "A linguagem é adequada ao contexto, com uso correto de vocabulário e estrutura gramatical, embora haja espaço para maior sofisticação na construção de algumas frases.",
+      "A conclusão é bem elaborada, reforçando a tese e oferecendo uma perspectiva equilibrada sobre o papel da diplomacia e a persistência da utopia de eliminar completamente os conflitos."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão, o que contribui para a coerência e clareza do texto.",
+      "O autor demonstra boa capacidade de argumentação, utilizando exemplos históricos e conceitos teóricos para sustentar sua tese.",
+      "A linguagem é adequada ao contexto e ao tema, com uso correto de vocabulário e termos técnicos.",
+      "A redação aborda o tema de forma abrangente, considerando diferentes aspectos da diplomacia e sua relação com a prevenção de conflitos.",
+      "A conclusão é satisfatória, retomando a questão inicial e oferecendo uma resposta bem fundamentada."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.5,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização clara e coerente, com desenvolvimento adequado do tema, refletindo sobre as ideias de Einstein e Freud e relacionando-as à evolução da diplomacia.",
+      "A argumentação é sólida, com exemplos históricos e contemporâneos que sustentam a tese de que a diplomacia pode livrar a humanidade da ameaça da guerra.",
+      "A linguagem é apropriada e a correção gramatical é impecável, sem erros identificados.",
+      "A redação poderia explorar mais profundamente as nuances das teorias de Freud e Einstein, mas o tratamento dado ao tema é satisfatório e bem estruturado."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma excelente organização do texto, com ideias bem encadeadas e uma argumentação sólida.",
+      "O desenvolvimento do tema é coerente e reflete uma profunda reflexão sobre o papel da diplomacia na prevenção de conflitos.",
+      "A linguagem é adequada ao contexto e a correção gramatical é impecável.",
+      "A capacidade de integrar citações e exemplos históricos enriquece a discussão, embora poderia explorar mais a complexidade das relações internacionais contemporâneas."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.5,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização clara e coerente, com desenvolvimento adequado do tema.",
+      "A argumentação é sólida e reflete uma boa compreensão do diálogo entre Einstein e Freud.",
+      "A linguagem é apropriada e a correção gramatical é impecável.",
+      "O texto apresenta uma reflexão profunda sobre o papel da diplomacia na prevenção de conflitos.",
+      "A conclusão é bem elaborada e encerra o texto de forma satisfatória."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma compreensão profunda do tema e dos argumentos de Einstein e Freud, desenvolvendo-os de forma coerente e bem estruturada.",
+      "A argumentação é clara e bem encadeada, com exemplos históricos e contemporâneos que reforçam a tese apresentada.",
+      "A linguagem é adequada ao contexto, com uso correto de vocabulário e termos técnicos relacionados à diplomacia.",
+      "A redação mantém uma progressão lógica, com introdução, desenvolvimento e conclusão bem definidos.",
+      "A ausência de erros gramaticais e a propriedade da linguagem contribuem para a alta pontuação."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma organização clara e coerente, com desenvolvimento adequado do tema.",
+      "A argumentação é sólida e bem estruturada, demonstrando reflexão profunda sobre o tema.",
+      "A linguagem é apropriada e a correção gramatical é impecável.",
+      "O texto demonstra domínio do conteúdo e capacidade de análise crítica."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra uma organização clara e coerente, com um desenvolvimento temático bem estruturado. A argumentação é sólida e articulada, evidenciando reflexão sobre o tema proposto.",
+      "A linguagem é adequada e formal, com uso correto da norma culta. Não foram identificados erros gramaticais significativos.",
+      "A redação apresenta uma análise relevante da evolução da diplomacia e sua relação com a prevenção de conflitos, alinhando-se às ideias de Einstein e Freud de forma pertinente.",
+      "A conclusão é bem elaborada, reforçando a tese de que a diplomacia é uma ferramenta essencial para a paz, embora reconheça a utopia do fim completo das guerras."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra domínio temático e linguístico avançado, com argumentação sólida e análises relevantes.",
+      "A estrutura do texto é clara e bem organizada, com encadeamento lógico das ideias.",
+      "A redação apresenta reflexão profunda sobre o tema, evidenciando insight teórico e maturidade no tratamento do assunto.",
+      "A linguagem é adequada ao contexto, com riqueza vocabular e fluidez comparável à de um especialista.",
+      "O autor utiliza exemplos históricos e contemporâneos de forma pertinente para sustentar sua argumentação."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra domínio temático e linguístico avançado, com argumentação sólida e análises relevantes.",
+      "A estrutura do texto é clara e bem organizada, com encadeamento lógico das ideias.",
+      "A redação apresenta reflexão profunda sobre o tema, evidenciando insight teórico e maturidade no tratamento do assunto.",
+      "A linguagem é adequada ao contexto, com riqueza vocabular e fluidez comparável à de um especialista.",
+      "O autor utiliza exemplos históricos e contemporâneos de forma pertinente para sustentar sua argumentação."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra uma organização clara e coerente, com desenvolvimento temático pertinente e estrutura lógica.",
+      "A argumentação é bem articulada, evidenciando reflexão sobre o tema e domínio consistente do conteúdo.",
+      "A linguagem é adequada ao contexto, com vocabulário variado e uso correto da norma culta.",
+      "A redação apresenta exemplos históricos e contemporâneos que enriquecem a discussão, reforçando a tese proposta.",
+      "A conclusão é satisfatória, sintetizando as ideias principais e oferecendo uma perspectiva otimista, ainda que realista, sobre o papel da diplomacia."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.5,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra domínio temático avançado, articulando com clareza e profundidade as ideias de Einstein e Freud com a evolução da diplomacia.",
+      "A argumentação é sólida, com exemplos históricos e contemporâneos bem integrados para sustentar a tese.",
+      "A estrutura do texto é lógica e coesa, com encadeamento fluente de ideias e parágrafos bem organizados.",
+      "A linguagem é adequada, formal e precisa, sem erros gramaticais evidentes.",
+      "A conclusão é pertinente e reflexiva, conectando-se ao mito de Sísifo para reforçar a ideia de esforço contínuo na diplomacia."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra uma organização clara e coerente, com um desenvolvimento temático bem estruturado. A argumentação é sólida e articulada, evidenciando reflexão sobre o tema proposto.",
+      "A linguagem é adequada e formal, com uso correto da norma culta e vocabulário variado. Não foram identificados erros gramaticais significativos.",
+      "A redação apresenta uma análise pertinente da troca de cartas entre Einstein e Freud, relacionando-a com a evolução da diplomacia e sua capacidade de prevenir conflitos. A inclusão de exemplos históricos e contemporâneos enriquece a discussão.",
+      "A conclusão é bem elaborada, reforçando a tese de que a diplomacia pode livrar a humanidade da ameaça de guerra, embora reconheça a persistência de desafios."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.5,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra domínio temático e linguístico avançado, com argumentação sólida e análises relevantes.",
+      "A estrutura do texto é clara e bem organizada, com encadeamento lógico das ideias.",
+      "A linguagem é adequada ao contexto e ao tema, com uso preciso de vocabulário e referências históricas e diplomáticas.",
+      "O autor apresenta uma reflexão profunda sobre o papel da diplomacia na prevenção de conflitos, estabelecendo uma conexão coerente com as ideias de Einstein e Freud.",
+      "A conclusão é bem elaborada, reforçando a tese central e oferecendo uma perspectiva otimista, ainda que realista, sobre o futuro da diplomacia."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra uma organização clara e coerente, com um desenvolvimento temático bem estruturado. A argumentação é sólida e articulada, evidenciando reflexão sobre o tema proposto.",
+      "A linguagem é adequada e formal, com uso correto da norma culta e sem erros gramaticais identificáveis.",
+      "A redação apresenta uma análise pertinente da evolução da diplomacia e sua relação com a prevenção de conflitos, alinhando-se às ideias de Einstein e Freud de forma coerente.",
+      "A conclusão é bem elaborada, reforçando a tese de que a diplomacia pode livrar a humanidade da ameaça de guerra, embora reconheça a utopia do fim completo dos conflitos."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra uma estrutura clara e lógica, com introdução, desenvolvimento e conclusão bem definidos.",
+      "A argumentação é consistente e bem articulada, utilizando exemplos históricos e conceitos teóricos para apoiar as ideias.",
+      "O autor mostra domínio do tema, integrando de forma pertinente as ideias de Einstein e Freud com a evolução da diplomacia.",
+      "A linguagem é adequada ao contexto, com vocabulário variado e uso correto da norma culta.",
+      "A redação apresenta uma reflexão profunda sobre o papel da diplomacia na prevenção de conflitos, embora possa ser ainda mais original em algumas análises."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma excelente organização, com uma introdução clara, desenvolvimento coerente e conclusão bem estruturada. A legibilidade é alta, e o estilo é formal e adequado ao tema. (9.5/10)",
+      "1B: A argumentação é sólida, com informações pertinentes e bem sistematizadas. O candidato demonstra domínio do tema e utiliza exemplos históricos e teóricos de forma eficaz. (9.0/10)",
+      "1C: A análise é profunda, com reflexões relevantes sobre o papel da diplomacia na prevenção de conflitos. O candidato conecta bem as ideias de Einstein e Freud com a prática diplomática contemporânea, destacando o papel da ONU e de outras instituições. (18.0/20)",
+      "CGPL: Não foram identificados erros gramaticais. A linguagem é precisa e adequada ao contexto acadêmico. (20.0/20)",
+      "Nota Final: 56.5"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 10,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma excelente organização, com uma introdução clara, desenvolvimento coerente e conclusão bem estruturada. A legibilidade é alta, e o estilo é formal e adequado ao tema. (9.5/10)",
+      "1B: A argumentação é sólida, com informações pertinentes e bem sistematizadas. O candidato demonstra objetividade ao abordar os pontos-chave do tema, como o papel da diplomacia e a evolução cultural. (9.0/10)",
+      "1C: A análise é profunda, com reflexões bem elaboradas sobre as ideias de Einstein e Freud. O candidato conecta eficazmente as teorias psicológicas e políticas à prática diplomática, destacando exemplos históricos e contemporâneos. (18.0/20)",
       "CGPL: O texto está gramaticalmente correto, sem erros de concordância, ortografia, pontuação ou regência. A linguagem é precisa e adequada ao contexto acadêmico. (20.0/20)",
       "Nota Final: 56.5"
     ],
@@ -1653,20 +2174,264 @@
   {
     "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma excelente organização, com introdução, desenvolvimento e conclusão bem estruturados. A coerência e a legibilidade são altas, e o estilo é formal e adequado ao tema. (9.5/10)",
+      "1B: A argumentação é sólida e objetiva, com informações pertinentes e bem sistematizadas. O candidato demonstra domínio do tema e das referências teóricas. (9.0/10)",
+      "1C: A análise é profunda e reflexiva, conectando as ideias de Einstein e Freud à evolução da diplomacia. O candidato explora bem o papel da ONU, operações de paz, blocos regionais e aproximação cultural, demonstrando capacidade crítica. (18.0/20)",
+      "CGPL: Não foram identificados erros gramaticais. A linguagem é precisa e adequada ao contexto acadêmico. (20.0/20)",
+      "Nota Final: 56.5/60"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 10,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma excelente organização, com introdução, desenvolvimento e conclusão bem estruturados. A coerência e a legibilidade são altas, e o estilo é formal e adequado ao tema. A pontuação é próxima do máximo devido à clareza e fluidez do texto.",
+      "1B: A argumentação é sólida e objetiva, com informações pertinentes e bem sistematizadas. O candidato demonstra domínio do tema e das referências teóricas, embora poderia explorar mais profundamente algumas teorias de Relações Internacionais. A pontuação reflete a qualidade da argumentação.",
+      "1C: A capacidade de análise e reflexão é notável, com uma discussão equilibrada entre as ideias de Einstein e Freud e a aplicação prática da diplomacia. O candidato conecta bem os conceitos teóricos com exemplos históricos e contemporâneos, demonstrando uma compreensão profunda do tema. A pontuação é alta devido à profundidade e à relevância da análise.",
+      "CGPL: Não foram identificados erros gramaticais, e a linguagem é precisa e adequada ao contexto acadêmico. A pontuação máxima é justificada pela correção e propriedade da linguagem."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 10,
+    "temp": 0.5,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma excelente organização, com introdução, desenvolvimento e conclusão bem estruturados. A coerência e a legibilidade são altas, e o estilo é formal e adequado ao tema. A pontuação é próxima do máximo devido à clareza e à fluidez da narrativa.",
+      "1B: A argumentação é sólida e objetiva, com informações pertinentes e bem sistematizadas. O candidato demonstra domínio do tema e das referências teóricas, embora poderia explorar mais profundamente algumas teorias de Relações Internacionais. A nota reflete a qualidade da argumentação, mas deixa espaço para maior profundidade.",
+      "1C: A capacidade de análise e reflexão é um dos pontos fortes do texto. O candidato articula bem as ideias de Einstein e Freud, relacionando-as com exemplos históricos e o papel da diplomacia. A reflexão sobre a evolução da diplomacia e sua eficácia é bem desenvolvida, embora poderia explorar mais críticas ou limitações. A nota é alta, mas não máxima, devido à possibilidade de maior profundidade crítica.",
+      "CGPL: Não foram identificados erros gramaticais. A linguagem é precisa e adequada ao contexto acadêmico e diplomático. A pontuação máxima é justificada pela correção e propriedade da linguagem."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 10,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma excelente organização, com uma introdução clara, desenvolvimento coerente e conclusão bem estruturada. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. (9.5/10)",
+      "1B: A argumentação é objetiva e bem sistematizada, com informações pertinentes e bem integradas ao tema. O candidato demonstra domínio do conteúdo e das referências teóricas, embora poderia explorar mais profundamente algumas teorias de Relações Internacionais. (9.0/10)",
+      "1C: A capacidade de análise e reflexão é notável, com uma discussão equilibrada entre as ideias de Einstein e Freud e a aplicação prática da diplomacia. O candidato articula bem os conceitos de laços emocionais, identificação e aproximação cultural, relacionando-os ao papel da diplomacia. A menção a exemplos históricos e contemporâneos enriquece a análise. (18.0/20)",
+      "CGPL: O texto está gramaticalmente correto, sem erros de concordância, ortografia, pontuação ou regência. A linguagem é precisa e adequada ao contexto acadêmico e diplomático. (20.0/20)",
+      "Nota Final: 56.5/60"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 10,
+    "temp": 0.5,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
       "1A: O texto apresenta uma excelente organização, com uma introdução clara, desenvolvimento coerente e conclusão bem estruturada. A legibilidade é alta, e o estilo é formal e adequado ao tema. (9.5/10)",
-      "1B: A argumentação é sólida, com uso pertinente das referências de Einstein e Freud. O candidato demonstra objetividade e sistematização ao abordar os diferentes aspectos da diplomacia como instrumento de paz. (9.0/10)",
-      "1C: A análise é profunda, com reflexões bem elaboradas sobre o papel da diplomacia na contenção de conflitos e na promoção de laços emocionais e culturais. A menção a exemplos históricos e contemporâneos enriquece o texto. (18.5/20)",
-      "CGPL: O texto está gramaticalmente correto, sem erros de concordância, ortografia, pontuação ou regência. A linguagem é precisa e adequada ao contexto. (20.0/20)",
-      "Nota Final: 57.0"
+      "1B: A argumentação é sólida, com uso pertinente das referências de Einstein e Freud. O candidato demonstra objetividade e sistematização ao abordar as causas da guerra e o papel da diplomacia. (9.0/10)",
+      "1C: A análise é profunda, com reflexões relevantes sobre a evolução da diplomacia, o papel da ONU e a aproximação cultural. O candidato estabelece conexões eficazes entre teoria e prática, embora poderia explorar mais criticamente as limitações da diplomacia. (18.0/20)",
+      "CGPL: O texto está gramaticalmente correto, sem erros identificados. A linguagem é precisa e apropriada ao contexto acadêmico. (20.0/20)",
+      "Nota Final: 56.5/60"
     ],
     "modelo": "command-a-03-2025",
     "prompt": 10,
     "temp": 0.9,
     "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma impressão geral positiva, com coerência e legibilidade. O estilo é claro e objetivo, embora possa ser aprimorado com uma variação maior de estruturas sintáticas. (9.5/10)",
+      "1B: A argumentação é sólida e bem estruturada, com informações pertinentes e objetivas. No entanto, alguns pontos poderiam ser desenvolvidos com maior profundidade, como a crítica às teses de globalização e paz pela expansão dos valores ocidentais. (9.0/10)",
+      "1C: A análise e reflexão são pontos fortes do texto, com uma interpretação criativa e bem fundamentada das ideias de Einstein e Freud. A conexão entre a diplomacia e os conceitos psicológicos é bem explorada, embora a discussão sobre o papel da ONU e dos princípios da diplomacia brasileira pudesse ser mais detalhada. (18.0/20)",
+      "CGPL: Não foram identificados erros gramaticais, demonstrando um excelente domínio da língua portuguesa. (20.0/20)",
+      "Nota Final: 56.5"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 10,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma excelente organização, com uma introdução clara, desenvolvimento coerente e conclusão bem estruturada. A legibilidade é alta, e o estilo é formal e adequado ao contexto. (9.5/10)",
+      "1B: A argumentação é sólida, com informações pertinentes e bem sistematizadas. O autor demonstra objetividade ao abordar o tema, utilizando exemplos históricos e teóricos de forma eficaz. (9.0/10)",
+      "1C: A capacidade de análise e reflexão é notável. O autor explora profundamente as ideias de Einstein e Freud, relacionando-as com a evolução da diplomacia e exemplos concretos. A discussão sobre o papel da ONU, operações de paz e aproximação cultural é especialmente rica. (18.5/20)",
+      "CGPL: Não foram identificados erros gramaticais. A linguagem é precisa e adequada ao contexto acadêmico. (20.0/20)",
+      "Nota Final: 57.0"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 10,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 11,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 11,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 11,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 11,
+    "temp": 0.5,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 11,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 11,
+    "temp": 0.5,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 11,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 11,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 11,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.0,
+    "versao": 3,
     "essay": 3
   },
   {
@@ -1681,17 +2446,573 @@
     "essay": 3
   },
   {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.5,
+    "versao": 3,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 3
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 3
+  },
+  {
     "nota_1A": 9.0,
     "nota_1B": 8.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "1A: A redação apresenta uma boa organização e impressão geral. O texto é coerente, legível e possui um estilo adequado ao tema proposto. A introdução contextualiza bem o diálogo entre Einstein e Freud, e a conclusão reforça a tese central de forma clara. (9.0)",
-      "1B: A capacidade de argumentação é sólida, com informações pertinentes e bem sistematizadas. O autor utiliza exemplos históricos e contemporâneos para sustentar sua tese, como a mediação brasileira no conflito entre Peru e Colômbia e o papel do Brasil na Conferência de Anápolis. No entanto, a repetição excessiva do termo 'amor' e a falta de diversidade na abordagem de teorias e autores de Relações Internacionais limitam a pontuação. (8.5)",
-      "1C: A análise e reflexão são bem desenvolvidas, especialmente ao relacionar a diplomacia com a promoção de uma cultura pacifista e a criação de identidades globais. A discussão sobre o papel da ONU e do Mercosul é relevante e bem articulada. No entanto, a simplificação excessiva de conceitos como 'amor' e 'identidade pacifista' e a falta de crítica a limitações da diplomacia em contextos específicos impedem a pontuação máxima. (18.0)",
-      "CGPL: Não foram identificados erros gramaticais. A linguagem é clara, precisa e adequada ao contexto formal da redação. (20.0)",
-      "Nota Final: 55.5"
+      "1A: O texto apresenta uma boa organização e clareza, com parágrafos bem estruturados e uma progressão lógica de ideias. A coerência é mantida ao longo do texto, e o estilo é adequado ao tema proposto. (9.0)",
+      "1B: A argumentação é sólida, com exemplos históricos e contemporâneos que apoiam a tese central. O autor demonstra objetividade e sistematização ao abordar o papel da diplomacia na prevenção de conflitos. No entanto, poderia explorar mais profundamente as contradições ou limitações da diplomacia em certos contextos. (8.5)",
+      "1C: A análise é bem desenvolvida, especialmente ao relacionar o amor e a identidade pacifista com a diplomacia. O autor reflete sobre o impacto da diplomacia em diferentes níveis, desde o nacional até o internacional, e apresenta uma visão crítica sobre a ausência de diplomacia como causa de conflitos. No entanto, a reflexão poderia ser mais profunda ao considerar outras variáveis que influenciam a paz além da diplomacia. (18.0)",
+      "CGPL: Não foram identificados erros gramaticais, e a linguagem é apropriada e precisa. (20.0)"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma boa organização e impressão geral. A coerência é mantida ao longo da redação, com uma progressão lógica das ideias. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. No entanto, a introdução poderia ser mais direta e impactante, evitando repetições desnecessárias.",
+      "1B: A capacidade de argumentação é sólida, com objetividade e sistematização evidentes. O autor utiliza exemplos históricos e contemporâneos para sustentar sua tese, demonstrando conhecimento sobre o tema. A pertinência das informações é alta, embora em alguns momentos a argumentação poderia ser mais concisa.",
+      "1C: A análise e reflexão são profundas, especialmente ao discutir o papel da diplomacia na promoção da paz. O autor explora bem a relação entre amor, identidade pacifista e diplomacia, conectando-os ao diálogo entre Einstein e Freud. No entanto, a crítica à ausência de diplomacia como causa de conflitos poderia ser mais desenvolvida, com exemplos mais específicos e variados.",
+      "CGPL: Não foram identificados erros gramaticais. A linguagem é clara, precisa e adequada ao contexto acadêmico e diplomático."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A. **Apresentação e impressão geral do texto (9.0):** O texto apresenta uma estrutura clara e coerente, com parágrafos bem organizados e uma progressão lógica de ideias. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. No entanto, há uma leve repetição de termos como 'amor' e 'diplomacia', que poderia ser diversificada para enriquecer o texto.",
+      "1B. **Capacidade de argumentação (8.5):** A argumentação é sólida e objetiva, com exemplos históricos pertinentes (como a mediação do Brasil na controvérsia entre Peru e Colômbia e a Conferência de Anápolis). No entanto, a sistematização poderia ser aprimorada, pois alguns pontos são repetidos ao longo do texto, como o papel do amor e da diplomacia. A pertinência das informações é alta, mas a objetividade poderia ser maior em alguns momentos.",
+      "1C. **Capacidade de análise e reflexão (18.0):** O texto demonstra uma análise profunda do papel da diplomacia na prevenção de conflitos, com reflexões relevantes sobre o amor, a identidade pacifista e a influência de instituições internacionais. A conexão entre a teoria de Freud e a prática diplomática é bem explorada. No entanto, a crítica à ausência de diplomacia como causa de conflitos poderia ser mais desenvolvida, com exemplos mais concretos e uma análise mais nuanced.",
+      "CGPL. **Correção gramatical e propriedade da linguagem (20.0):** O texto está gramaticalmente correto, sem erros de concordância, ortografia, pontuação ou regência. A linguagem é apropriada e formal, adequada ao contexto do CACD."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma boa organização e impressão geral. A coerência é mantida ao longo da redação, com uma estrutura clara e lógica. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. No entanto, a introdução poderia ser mais impactante e a conclusão, embora consistente, poderia ser mais sintética e contundente. (9.0)",
+      "1B: A capacidade de argumentação é sólida, com objetividade e sistematização evidentes. O autor utiliza exemplos históricos e contemporâneos para sustentar sua tese, demonstrando conhecimento sobre o tema. A pertinência das informações é alta, embora em alguns momentos a repetição de ideias (como o conceito de 'amor' e 'pacifismo') possa ser otimizada. (8.5)",
+      "1C: A capacidade de análise e reflexão é o ponto forte do texto. O autor não apenas discute o papel da diplomacia na prevenção de guerras, mas também analisa criticamente casos específicos, como a mediação brasileira na controvérsia de Letícia e a atuação do Brasil na Conferência de Anápolis. A reflexão sobre a influência da cultura pacifista em órgãos internacionais, como a ONU e o Mercosul, é profunda e bem articulada. No entanto, a análise poderia explorar mais as limitações da diplomacia, além de mencionar brevemente a dissolução da instituição diplomática francesa como exemplo de falha. (18.0)",
+      "CGPL: Não foram identificados erros gramaticais. O texto demonstra domínio da língua portuguesa, com uso correto de concordância, ortografia, pontuação e regência. (20.0)",
+      "Nota Final: 45.5"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.5,
+    "versao": 1,
+    "essay": 4
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A. Apresentação e impressão geral do texto: O texto demonstra coerência e legibilidade, com um estilo claro e objetivo. A estrutura é bem organizada, com introdução, desenvolvimento e conclusão. A nota 9,0 reflete a qualidade geral da apresentação, com pequena margem para melhoria na variedade de vocabulário e na sofisticação da linguagem.",
+      "1B. Capacidade de argumentação: O autor apresenta argumentos objetivos e pertinentes, com sistematização lógica das ideias. A utilização de exemplos históricos, como a mediação do Brasil no conflito entre Peru e Colômbia, fortalece a argumentação. A nota 8,5 considera a eficácia da argumentação, sugerindo maior aprofundamento em alguns pontos para alcançar a nota máxima.",
+      "1C. Capacidade de análise e reflexão: O texto demonstra boa capacidade de análise ao relacionar a diplomacia com a promoção do amor e da identidade pacifista. A reflexão sobre o papel da diplomacia na prevenção de conflitos é bem desenvolvida, com exemplos concretos. A nota 18,0 reflete a profundidade da análise, com espaço para maior exploração de contra-argumentos e nuances.",
+      "Correção gramatical e propriedade da linguagem: Não foram identificados erros gramaticais. A linguagem é adequada e formal, condizente com o contexto do CACD. A nota final de correção gramatical é 20,0."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma boa organização e impressão geral. A coerência é mantida ao longo da redação, com uma progressão lógica de ideias. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. No entanto, a introdução poderia ser mais impactante e a conclusão, embora consistente, poderia ser mais sintética. (9.0)",
+      "1B: A capacidade de argumentação é sólida, com objetividade e sistematização evidentes. O autor utiliza exemplos históricos e contemporâneos para sustentar sua tese, como o caso da mediação brasileira na controvérsia entre Peru e Colômbia e a atuação do Brasil na Conferência de Anápolis. No entanto, alguns argumentos poderiam ser mais aprofundados, especialmente ao relacionar o amor e a identidade pacifista com a diplomacia. (8.5)",
+      "1C: A capacidade de análise e reflexão é o ponto forte da redação. O autor demonstra compreensão profunda do papel da diplomacia na prevenção de conflitos, destacando a criação de uma cultura pacifista em órgãos internacionais como a ONU e o Mercosul. A crítica à dissolução da instituição de formação de diplomatas na França é pertinente e bem articulada. No entanto, a análise poderia explorar mais as limitações da diplomacia em contextos onde há desprezo por sua atuação. (18.0)",
+      "CGPL: Não foram identificados erros gramaticais. A linguagem é clara, precisa e adequada ao tema. (20.0)"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.5,
+    "versao": 3,
+    "essay": 4
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 8.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A. Apresentação e impressão geral do texto: O texto apresenta uma estrutura clara e coerente, com parágrafos bem organizados e uma progressão lógica de ideias. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. A introdução e a conclusão são bem elaboradas, o que contribui para uma impressão geral positiva. (9.5/10)",
+      "1B. Capacidade de argumentação: O autor demonstra objetividade e sistematização ao desenvolver sua tese sobre o papel da diplomacia na prevenção de guerras. As informações são pertinentes e bem integradas ao tema, embora em alguns momentos haja uma repetição de ideias, como o ênfase excessivo no conceito de 'amor' como ferramenta diplomática. (8.5/10)",
+      "1C. Capacidade de análise e reflexão: O texto apresenta uma análise sólida, especialmente ao relacionar a diplomacia com a criação de uma cultura pacifista e ao utilizar exemplos históricos e contemporâneos, como o caso de Letícia e a Conferência de Anápolis. No entanto, a reflexão poderia ser mais aprofundada ao explorar contradições ou limitações da diplomacia, como a influência de líderes que desprezam a atuação diplomática. (18.0/20)",
+      "Correção gramatical e propriedade da linguagem: O texto está livre de erros gramaticais, com uso adequado de concordância, ortografia, pontuação e regência. A linguagem é precisa e adequada ao contexto formal do CACD. (20.0/20)",
+      "Nota final de correção gramatical: 20.0 (0 erros gramaticais)"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 4
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma boa organização e impressão geral. A coerência é mantida ao longo da redação, com uma progressão lógica das ideias. A legibilidade é alta, e o estilo é formal e adequado ao contexto do CACD. A introdução e a conclusão são claras e bem estruturadas. (9.5/10)",
+      "1B: A capacidade de argumentação é sólida, com objetividade e sistematização evidentes. O autor utiliza exemplos históricos e conceitos relevantes para sustentar sua tese. No entanto, algumas informações poderiam ser mais aprofundadas, como a relação entre o Positivismo e a diplomacia brasileira. (8.0/10)",
+      "1C: A análise e reflexão são bem desenvolvidas, especialmente na discussão sobre o papel da diplomacia na promoção da paz. O autor demonstra capacidade de conectar teoria e prática, como no caso dos Protocolos de Brasília e Olivos. No entanto, a crítica à falta de diplomacia como causa de conflitos poderia ser mais explorada, com exemplos mais contemporâneos e diversificados. (16.0/20)",
+      "CGPL: Não foram identificados erros gramaticais. A linguagem é precisa e adequada ao contexto acadêmico. (20.0/20)",
+      "Nota Final: 53.5"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: O texto apresenta uma boa organização e coerência, com estilo claro e legível. A introdução contextualiza bem o tema, e a conclusão reforça a tese de forma eficaz. A pontuação é alta devido à fluidez e à estrutura lógica do texto.",
+      "1B: A argumentação é objetiva e bem sistematizada, com informações pertinentes ao tema. O autor utiliza exemplos históricos e contemporâneos para sustentar sua tese, demonstrando capacidade de articular ideias de forma coerente. A pontuação reflete a solidez da argumentação.",
+      "1C: A análise e reflexão são profundas, especialmente ao relacionar a diplomacia com a promoção do amor e da identidade pacifista. O autor explora bem os mecanismos internacionais e os exemplos práticos, como o Mercosul e a ONU. A pontuação é alta devido à capacidade de ir além da superfície do tema e apresentar insights relevantes.",
+      "CGPL: Não foram identificados erros gramaticais. A linguagem é adequada e a propriedade da linguagem é mantida ao longo do texto, com uso correto de vocabulário e estruturas gramaticais. A pontuação máxima é atribuída."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 7,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 4
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização clara e coerente, com um desenvolvimento temático sólido que aborda a questão da prevenção da guerra por meio da diplomacia.",
+      "O texto apresenta uma argumentação bem estruturada, utilizando exemplos históricos e contemporâneos para sustentar a tese.",
+      "A linguagem é adequada ao contexto e a correção gramatical é impecável, sem erros ortográficos, de concordância ou pontuação.",
+      "A reflexão sobre o tema é profunda, destacando o papel do amor e da identidade pacifista na promoção da paz.",
+      "A nota final reflete a excelência na organização, desenvolvimento e correção gramatical, com uma argumentação persuasiva e bem fundamentada."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra boa organização e desenvolvimento do tema, com argumentos claros e bem encadeados.",
+      "A linguagem é adequada e a correção gramatical é satisfatória.",
+      "O texto apresenta uma reflexão profunda sobre o papel da diplomacia na prevenção de conflitos, alinhando-se ao tema proposto.",
+      "A utilização de exemplos históricos e contemporâneos enriquece a argumentação.",
+      "A conclusão reforça a tese de forma coerente e impactante."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização clara e coerente, com um desenvolvimento temático sólido que aborda a questão da prevenção da guerra por meio da diplomacia.",
+      "O texto apresenta uma argumentação bem estruturada, utilizando exemplos históricos e contemporâneos para sustentar a tese.",
+      "A linguagem é adequada ao contexto e a correção gramatical é impecável, sem erros ortográficos, de concordância ou pontuação.",
+      "A reflexão sobre o tema é profunda, integrando as ideias de Einstein e Freud de forma criativa e relevante.",
+      "A nota final reflete a excelência na organização, desenvolvimento, correção gramatical e propriedade da linguagem, com uma argumentação persuasiva e bem fundamentada."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra boa organização e desenvolvimento do tema, com argumentos claros e bem encadeados.",
+      "A linguagem é adequada e a correção gramatical é satisfatória.",
+      "O texto apresenta uma reflexão profunda sobre o papel da diplomacia na prevenção de conflitos, alinhando-se ao tema proposto.",
+      "A utilização de exemplos históricos e contemporâneos enriquece a argumentação.",
+      "A conclusão reforça a tese de forma coerente e impactante."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.5,
+    "versao": 1,
+    "essay": 4
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização coerente e clara, com um desenvolvimento temático que aborda eficazmente a questão proposta.",
+      "A argumentação é sólida, com exemplos históricos e contemporâneos que sustentam a tese central sobre o papel da diplomacia na prevenção de conflitos.",
+      "A linguagem é adequada ao contexto, com uso correto de vocabulário e estrutura gramatical, embora em alguns momentos possa ser mais concisa.",
+      "A reflexão sobre o tema é profunda, integrando bem as ideias de Einstein e Freud com a análise do papel da diplomacia.",
+      "A conclusão reforça a tese de forma convincente, embora poderia explorar mais as nuances da diplomacia em cenários complexos."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização clara e coerente, com um desenvolvimento temático sólido que aborda a questão da prevenção da guerra por meio da diplomacia.",
+      "O texto apresenta uma argumentação bem estruturada, utilizando exemplos históricos e contemporâneos para sustentar a tese.",
+      "A linguagem é adequada ao contexto, com uso correto de vocabulário e termos técnicos relacionados à diplomacia.",
+      "A redação mantém uma progressão lógica das ideias, com transições suaves entre os parágrafos.",
+      "A ausência de erros gramaticais contribui para a fluidez e clareza do texto.",
+      "A conclusão reforça a tese de forma eficaz, resumindo os pontos principais e deixando uma impressão duradoura."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.5,
+    "versao": 3,
+    "essay": 4
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra boa organização e desenvolvimento do tema, com argumentos claros e bem encadeados.",
+      "A linguagem é adequada ao contexto e não foram identificados erros gramaticais.",
+      "O texto apresenta uma reflexão consistente sobre o papel da diplomacia na prevenção de conflitos, alinhando-se ao tema proposto.",
+      "A nota final reflete a qualidade global da redação, considerando todos os critérios de avaliação."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 4
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização clara e coerente, com um desenvolvimento temático sólido que responde diretamente ao enunciado.",
+      "A argumentação é bem estruturada, utilizando exemplos históricos e contemporâneos para sustentar a tese.",
+      "A linguagem é adequada ao contexto, com uso correto de vocabulário e termos técnicos.",
+      "A redação apresenta uma reflexão profunda sobre o papel da diplomacia na prevenção de conflitos, alinhada com as ideias de Einstein e Freud.",
+      "A conclusão reforça a tese de forma convincente, destacando a importância da diplomacia na manutenção da paz."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "nota_final": 58.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma organização clara e coerente, com um desenvolvimento temático sólido que aborda a questão da prevenção da guerra através da diplomacia.",
+      "A argumentação é bem estruturada, utilizando exemplos históricos e contemporâneos para sustentar a tese.",
+      "A linguagem é adequada ao contexto, com uso correto de vocabulário e termos técnicos.",
+      "A redação apresenta uma reflexão profunda sobre o papel da diplomacia na promoção da paz, alinhada com as ideias de Einstein e Freud.",
+      "A conclusão reforça a tese de forma convincente, destacando a importância da diplomacia na prevenção de conflitos."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 8,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 4
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra uma estrutura lógica e coerente, desenvolvendo o tema de forma pertinente. A argumentação é clara e bem encadeada, destacando o papel da diplomacia na prevenção de guerras.",
+      "A linguagem é adequada ao contexto e o autor demonstra domínio da norma culta, sem erros gramaticais evidentes.",
+      "A redação apresenta uma reflexão relevante sobre o tema, utilizando exemplos históricos e contemporâneos para sustentar a tese.",
+      "No entanto, a argumentação poderia ser mais sofisticada e menos repetitiva, explorando nuances adicionais do tema. A abordagem é um tanto previsível, focando principalmente no amor e na identidade pacifista como elementos centrais da diplomacia.",
+      "A conclusão reforça a tese de forma eficaz, mas poderia incluir uma análise mais profunda sobre os limites da diplomacia em contextos complexos."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra uma estrutura lógica e desenvolvimento coerente do tema, com argumentos bem encadeados e reflexão sobre o papel da diplomacia na prevenção de guerras.",
+      "A linguagem é adequada e o autor demonstra domínio da norma culta, sem erros gramaticais evidentes.",
+      "A análise do tema é pertinente, embora a argumentação possa ser considerada um tanto previsível e pouco sofisticada em alguns momentos.",
+      "A citação de exemplos históricos e a referência a instituições internacionais enriquecem a discussão, mas a falta de uma análise mais profunda e original limita a classificação a 'Bom'."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra boa organização e desenvolvimento do tema, com uma estrutura lógica e coerente. O autor apresenta uma argumentação clara e pertinente, destacando o papel da diplomacia na prevenção de guerras.",
+      "A linguagem é adequada e o texto é bem escrito, com um bom domínio da norma culta. No entanto, a argumentação poderia ser mais sofisticada e menos repetitiva, especialmente na ênfase excessiva no conceito de 'amor' como ferramenta diplomática.",
+      "A análise do papel da diplomacia é relevante, mas a falta de exploração de outras perspectivas ou contra-argumentos limita a profundidade do texto. A citação de exemplos históricos é um ponto positivo, mas a generalização sobre o 'amor' como solução pode ser considerada simplista.",
+      "A conclusão é coerente, mas não traz insights novos ou uma reflexão mais profunda sobre o tema. O texto cumpre os critérios de forma satisfatória, mas não se destaca por originalidade ou análise avançada."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra boa organização e desenvolvimento do tema, com uma estrutura lógica e coerente. O autor apresenta uma argumentação clara e pertinente, destacando o papel da diplomacia na prevenção de conflitos.",
+      "A linguagem é adequada e o texto apresenta domínio razoável da norma culta, sem erros gramaticais evidentes.",
+      "No entanto, a argumentação poderia ser mais sofisticada e menos repetitiva, explorando com maior profundidade as nuances do tema. A reflexão sobre o papel da diplomacia, embora bem conduzida, poderia ser mais original e menos previsível.",
+      "A citação de exemplos históricos, como a mediação do Brasil no conflito entre Peru e Colômbia, é um ponto positivo, mas a análise poderia ser mais crítica e menos descritiva."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.5,
+    "versao": 1,
+    "essay": 4
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra boa organização e desenvolvimento do tema, com uma estrutura lógica e coerente. O autor apresenta uma argumentação clara e pertinente, embora em alguns momentos a reflexão possa ser considerada previsível.",
+      "A linguagem é adequada ao contexto e o domínio da norma culta é razoável, sem erros gramaticais evidentes.",
+      "A redação poderia ser aprimorada com uma análise mais profunda e original do tema, explorando nuances e complexidades da diplomacia e sua relação com a prevenção de conflitos.",
+      "A citação de exemplos históricos e a menção a figuras como Getúlio Vargas e Lula da Silva enriquecem o texto, mas poderiam ser mais bem integradas à argumentação principal."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra boa organização e desenvolvimento do tema, com uma estrutura lógica e coerente. O autor apresenta uma argumentação clara e pertinente, destacando o papel da diplomacia na prevenção de guerras.",
+      "A linguagem é adequada e o texto apresenta domínio razoável da norma culta, sem erros gramaticais evidentes.",
+      "No entanto, a argumentação poderia ser mais sofisticada e menos repetitiva, explorando mais profundamente as nuances do tema. A reflexão sobre o papel da diplomacia, embora bem conduzida, poderia ser mais original e menos previsível.",
+      "A citação de exemplos históricos, como a mediação do Brasil na controvérsia entre Peru e Colômbia, é um ponto positivo, mas a análise poderia ser mais crítica e menos descritiva."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.5,
+    "versao": 3,
+    "essay": 4
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra uma estrutura clara e lógica, com introdução, desenvolvimento e conclusão bem definidos. O autor apresenta uma tese central (o papel da diplomacia na prevenção de guerras) e a desenvolve de forma coerente, utilizando exemplos históricos e contemporâneos.",
+      "A argumentação é sólida, com uso adequado de evidências para sustentar as afirmações. A menção a casos específicos, como a mediação brasileira no conflito entre Peru e Colômbia e a atuação do Brasil na Conferência de Anápolis, enriquece a discussão.",
+      "A linguagem é apropriada e formal, adequada ao contexto de uma redação para o CACD. O vocabulário é variado e preciso, contribuindo para a clareza e a persuasão do texto.",
+      "O texto evidencia reflexão sobre o tema, ao conectar as ideias de Freud sobre amor e identidade com o papel da diplomacia na promoção da paz. A análise da influência da diplomacia na criação de uma cultura pacifista é particularmente relevante.",
+      "Embora o texto seja de alta qualidade, poderia explorar mais profundamente as limitações da diplomacia ou considerar perspectivas alternativas, como o papel de outros fatores (econômicos, políticos) na prevenção de conflitos. Isso adicionaria complexidade à argumentação."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 4
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra uma estrutura lógica e desenvolvimento coerente do tema, com argumentos bem encadeados.",
+      "A linguagem é adequada e a norma culta é bem empregada, sem erros gramaticais evidentes.",
+      "A reflexão sobre o papel da diplomacia na prevenção de guerras é pertinente e bem articulada.",
+      "No entanto, a argumentação poderia ser mais sofisticada e menos repetitiva, especialmente na ênfase excessiva no conceito de 'amor' como ferramenta diplomática.",
+      "A análise poderia explorar mais profundamente as limitações da diplomacia e as complexidades dos conflitos internacionais, em vez de atribuir a guerra exclusivamente à ausência de diplomacia."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra uma estrutura lógica e coerente, desenvolvendo o tema de forma pertinente. A argumentação é clara e bem encadeada, destacando o papel da diplomacia na prevenção de guerras.",
+      "A linguagem é adequada ao contexto, com uso correto da norma culta e vocabulário variado.",
+      "A redação apresenta uma reflexão relevante sobre o tema, embora a argumentação possa ser considerada um tanto previsível e com pouca originalidade.",
+      "A citação de exemplos históricos, como a mediação do Brasil no conflito entre Peru e Colômbia e a Conferência de Anápolis, enriquece a discussão.",
+      "No entanto, o texto poderia explorar mais profundamente a complexidade do tema, considerando outras perspectivas e limitações da diplomacia na prevenção de conflitos."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 9,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 4
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: A redação apresenta uma boa organização e impressão geral. O texto é coerente e legível, com um estilo claro e direto. A introdução e a conclusão são bem estruturadas, e a progressão das ideias é lógica. No entanto, a falta de variação na estrutura das frases e a repetição de algumas palavras poderiam ser melhoradas para aumentar a fluidez e o impacto do texto. (8.5/10)",
+      "1B: A capacidade de argumentação é sólida, com informações pertinentes e bem sistematizadas. O autor demonstra conhecimento sobre o tema, citando exemplos históricos e teóricos relevantes. No entanto, a argumentação poderia ser mais objetiva em alguns momentos, evitando repetições desnecessárias. A conexão entre as ideias de Freud e a prática diplomática poderia ser mais profundamente explorada. (8.0/10)",
+      "1C: A capacidade de análise e reflexão é um dos pontos fortes da redação. O autor demonstra uma compreensão profunda das relações entre psicologia, política e diplomacia, aplicando-as de forma criativa ao tema. A análise do papel da diplomacia na promoção da paz é bem desenvolvida, com exemplos concretos e uma visão crítica sobre os limites da diplomacia. No entanto, a discussão sobre o amor e a identidade pacifista poderia ser mais matizada, considerando as complexidades e contradições dessas noções no contexto internacional. (16.0/20)",
+      "CGPL: A redação não apresenta erros gramaticais, demonstrando um excelente domínio da língua portuguesa. A linguagem é apropriada e formal, adequada ao contexto do concurso. (20.0/20)"
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 10,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A (8.5/10): O texto apresenta uma boa organização e impressão geral. A coerência e a legibilidade são satisfatórias, com um estilo claro e direto. No entanto, a introdução poderia ser mais impactante e a conclusão, embora adequada, não traz elementos novos que reforcem a argumentação de forma inovadora.",
+      "1B (8.0/10): A capacidade de argumentação é sólida, com informações pertinentes e bem sistematizadas. O candidato demonstra objetividade ao abordar o tema, mas poderia explorar mais profundamente as teorias e autores de Relações Internacionais mencionados no padrão de resposta. A menção ao Positivismo e à atuação do Brasil é um ponto positivo, mas a argumentação poderia ser mais diversificada.",
+      "1C (16.0/20): A análise e reflexão são bem desenvolvidas, especialmente ao relacionar a diplomacia com a promoção do amor e da identidade pacifista. A discussão sobre o papel da ONU e do Mercosul é relevante e bem articulada. No entanto, a crítica à França e a Emmanuel Macron parece superficial e poderia ser mais bem fundamentada. Além disso, a afirmação de que a guerra ocorre apenas pela ausência da diplomacia, e não por sua falha, é um tanto reducionista e mereceria uma análise mais complexa.",
+      "CGPL (20.0/20): O texto está gramaticalmente correto, sem erros de concordância, ortografia, pontuação ou regência. A linguagem é apropriada e formal, adequada ao contexto do CACD."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 10,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A (8.5/10): O texto apresenta uma boa coerência e legibilidade, com um estilo claro e direto. A introdução e a conclusão são bem estruturadas, mas a transição entre parágrafos poderia ser mais suave, melhorando a fluidez geral.",
+      "1B (8.0/10): A argumentação é objetiva e pertinente, com informações bem sistematizadas. No entanto, alguns pontos poderiam ser mais desenvolvidos, como a relação entre o Positivismo e a diplomacia brasileira, para fortalecer a tese central.",
+      "1C (16.0/20): A análise é reflexiva e demonstra compreensão do tema, especialmente ao relacionar a diplomacia com a promoção da paz. A menção a exemplos históricos e contemporâneos é relevante, mas a crítica à ausência de diplomacia como causa de conflitos poderia ser mais aprofundada, explorando contradições ou limitações da tese.",
+      "CGPL (20.0/20): O texto está gramaticalmente correto, com linguagem apropriada e sem erros identificados."
     ],
     "modelo": "command-a-03-2025",
     "prompt": 10,
@@ -1706,10 +3027,10 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "1A (Apresentação e impressão geral do texto): O texto apresenta uma estrutura clara e coerente, com parágrafos bem organizados e uma progressão lógica de ideias. A legibilidade é boa, e o estilo é formal e adequado ao contexto do CACD. No entanto, a repetição excessiva do termo 'amor' e a falta de variação lexical em alguns momentos podem ser melhoradas. Nota: 8.5.",
-      "1B (Capacidade de argumentação): O candidato demonstra objetividade e sistematização ao abordar o tema, utilizando exemplos históricos e conceitos relevantes. A argumentação é pertinente e bem fundamentada, especialmente ao relacionar a diplomacia com a promoção da paz. Contudo, a simplificação de alguns conceitos, como o 'amor' em relações internacionais, poderia ser mais aprofundada. Nota: 8.0.",
-      "1C (Capacidade de análise e reflexão): O texto apresenta uma análise sólida, destacando o papel da diplomacia na prevenção de conflitos e a importância de instituições como a ONU e o Mercosul. A reflexão sobre a influência da cultura pacifista e a crítica à ausência de diplomacia em certos contextos são pontos fortes. No entanto, a abordagem poderia explorar mais profundamente as teorias de Relações Internacionais e os princípios da política externa brasileira. Nota: 16.0.",
-      "Correção gramatical e propriedade da linguagem: O texto está isento de erros gramaticais, com uso correto de concordância, ortografia, pontuação e regência. A linguagem é apropriada e formal, adequada ao contexto do concurso. Número de erros gramaticais: 0."
+      "1A (8.5/10): O texto apresenta boa coerência e legibilidade, com estilo claro e adequado ao tema. No entanto, a estrutura poderia ser mais refinada, especialmente na transição entre parágrafos, para melhorar a fluidez da argumentação.",
+      "1B (8.0/10): A argumentação é objetiva e pertinente, mas falta sistematização em alguns pontos, como na conexão entre o Positivismo e a diplomacia brasileira. O conteúdo é relevante, mas poderia explorar mais profundamente as teorias e autores de Relações Internacionais.",
+      "1C (16.0/20): A análise é sólida, destacando o papel da diplomacia na promoção da paz e a criação de uma identidade pacifista. No entanto, a reflexão sobre a falha da diplomacia em alguns casos poderia ser mais aprofundada, especialmente ao discutir exemplos como a dissolução da instituição de formação de diplomatas na França.",
+      "CGPL (20.0/20): O texto está gramaticalmente correto, com linguagem apropriada e sem erros identificados."
     ],
     "modelo": "command-a-03-2025",
     "prompt": 10,
@@ -1718,16 +3039,16 @@
     "essay": 4
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "1A (Apresentação e impressão geral do texto): A redação apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. O estilo é formal e adequado ao contexto do CACD, embora em alguns momentos o texto possa parecer repetitivo na ênfase ao 'amor' como elemento central da diplomacia. Nota: 8.5.",
-      "1B (Capacidade de argumentação): O texto demonstra objetividade e sistematização ao abordar o tema, utilizando exemplos históricos pertinentes, como a mediação brasileira no conflito entre Peru e Colômbia e a Conferência de Anápolis. No entanto, a argumentação poderia ser mais diversificada, incorporando teorias de Relações Internacionais ou autores mencionados no padrão de resposta. Nota: 8.0.",
-      "1C (Capacidade de análise e reflexão): A redação apresenta uma análise reflexiva sobre o papel da diplomacia na prevenção de conflitos, destacando a criação de uma cultura pacifista por meio de instituições como a ONU e o Mercosul. No entanto, a ênfase excessiva no 'amor' como conceito central limita a profundidade da análise, especialmente ao não explorar criticamente as limitações da diplomacia ou teorias alternativas. Nota: 16.0.",
-      "Correção gramatical e propriedade da linguagem: O texto está gramaticalmente correto, com uso adequado da linguagem formal e ausência de erros de concordância, ortografia, pontuação e regência. Número de erros gramaticais: 0."
+      "1A: A redação apresenta uma boa organização e impressão geral. O texto é coerente, legível e possui um estilo adequado ao tema proposto. A introdução e a conclusão são claras e bem estruturadas, embora a transição entre parágrafos pudesse ser mais suave em alguns momentos. (9.0)",
+      "1B: A capacidade de argumentação é sólida, com informações pertinentes e objetivas. O candidato demonstra conhecimento sobre o tema, citando exemplos históricos e teóricos relevantes. No entanto, algumas afirmações, como a de que a diplomacia 'sempre foi a principal razão de os humanos terem vivido prolongados períodos de paz', poderiam ser mais matizadas. (8.5)",
+      "1C: A análise e reflexão são bem desenvolvidas, especialmente ao relacionar as ideias de Freud e Einstein com o papel da diplomacia. O candidato demonstra profundidade ao discutir o amor e a identidade pacifista como ferramentas diplomáticas. No entanto, a crítica à ausência de diplomacia como causa de conflitos poderia ser mais explorada, considerando outros fatores geopolíticos e estruturais. (18.0)",
+      "CGPL: Não foram identificados erros gramaticais. A linguagem é adequada e a redação segue as normas cultas da língua portuguesa. (20.0)"
     ],
     "modelo": "command-a-03-2025",
     "prompt": 10,
@@ -1742,10 +3063,10 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "1A (8.5/10): O texto apresenta uma boa coerência e legibilidade, com um estilo claro e direto. No entanto, a estrutura poderia ser mais refinada, especialmente na transição entre parágrafos, para melhorar a fluidez geral.",
-      "1B (8.0/10): A argumentação é objetiva e bem sistematizada, com informações pertinentes ao tema. Contudo, alguns pontos poderiam ser mais desenvolvidos, como a relação entre o Positivismo e a diplomacia brasileira, para fortalecer a tese central.",
-      "1C (16.0/20): A análise é profunda e reflexiva, destacando o papel da diplomacia na prevenção de conflitos. A menção a exemplos históricos e a crítica à ausência de diplomacia em certos contextos são bem articuladas. No entanto, a ênfase excessiva no 'amor' como conceito central poderia ser equilibrada com uma discussão mais ampla sobre outros mecanismos diplomáticos.",
-      "CGPL (20.0/20): O texto está gramaticalmente correto, com linguagem apropriada e sem erros identificados."
+      "1A (8.5/10): O texto apresenta uma boa organização geral, com introdução, desenvolvimento e conclusão claros. A coerência é mantida ao longo do texto, e o estilo é adequado ao tema. No entanto, a legibilidade poderia ser aprimorada com parágrafos mais curtos e transições mais suaves entre as ideias.",
+      "1B (8.0/10): A argumentação é objetiva e pertinente, com informações bem sistematizadas. O candidato demonstra conhecimento sobre o papel da diplomacia e sua relação com a paz. Contudo, alguns pontos poderiam ser mais desenvolvidos, como a crítica à ausência de diplomacia em certos contextos.",
+      "1C (16.0/20): A análise é reflexiva e bem estruturada, destacando o papel da diplomacia na prevenção de conflitos. O candidato faz boas conexões entre teoria e prática, como no exemplo do Brasil na mediação entre Peru e Colômbia. No entanto, a ênfase excessiva no 'amor' como conceito central pode ser considerada simplista, e a análise poderia explorar mais profundamente outras teorias e autores de Relações Internacionais.",
+      "CGPL (20.0/20): O texto está gramaticalmente correto, sem erros de concordância, ortografia, pontuação ou regência. A linguagem é adequada e formal, condizente com o contexto do CACD."
     ],
     "modelo": "command-a-03-2025",
     "prompt": 10,
@@ -1760,33 +3081,15 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "1A (8.5/10): O texto apresenta boa coerência e legibilidade, com estilo claro e adequado ao tema. No entanto, a estrutura poderia ser mais refinada, especialmente na transição entre parágrafos, para melhorar a fluidez.",
-      "1B (8.0/10): A argumentação é objetiva e pertinente, com informações bem sistematizadas. Contudo, alguns pontos poderiam ser mais desenvolvidos, como a relação entre o Positivismo e a diplomacia brasileira, para fortalecer a tese central.",
-      "1C (16.0/20): A análise é sólida, refletindo sobre o papel da diplomacia na prevenção de conflitos. A menção a exemplos históricos, como a mediação brasileira na controvérsia entre Peru e Colômbia, enriquece o texto. No entanto, a ênfase excessiva no 'amor' como conceito central poderia ser equilibrada com uma discussão mais aprofundada sobre mecanismos diplomáticos concretos, como o direito internacional e a ONU.",
-      "CGPL (20.0/20): O texto está gramaticalmente correto, sem erros identificados. A linguagem é apropriada e formal, adequada ao contexto do CACD."
+      "1A (8.5/10): O texto apresenta boa coerência e legibilidade, com um estilo claro e direto. No entanto, a estrutura poderia ser mais refinada, especialmente na transição entre parágrafos, para melhorar a fluidez geral.",
+      "1B (8.0/10): A argumentação é objetiva e sistematizada, com informações pertinentes ao tema. Contudo, alguns pontos poderiam ser mais desenvolvidos, como a relação entre o Positivismo e a diplomacia brasileira, para fortalecer a tese central.",
+      "1C (16.0/20): A análise é profunda e reflexiva, especialmente ao relacionar a diplomacia com a promoção do amor e da identidade pacifista. A menção a exemplos históricos e contemporâneos, como a mediação do Brasil no conflito entre Peru e Colômbia e a Conferência de Anápolis, enriquece o texto. No entanto, a crítica à falta de diplomacia como causa de conflitos poderia ser mais explorada, com exemplos mais concretos e variados.",
+      "CGPL (20.0/20): O texto está gramaticalmente correto, sem erros de concordância, ortografia, pontuação ou regência. A linguagem é apropriada e formal, adequada ao contexto do CACD."
     ],
     "modelo": "command-a-03-2025",
     "prompt": 10,
     "temp": 0.9,
     "versao": 1,
-    "essay": 4
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "1A (Apresentação e impressão geral do texto): A redação apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. O estilo é formal e adequado ao contexto do CACD, embora em alguns momentos a repetição da palavra 'amor' e a ênfase excessiva no conceito possam comprometer a fluidez do texto. Pontuação: 8.5/10.",
-      "1B (Capacidade de argumentação): O texto demonstra objetividade e sistematização ao abordar o tema, utilizando exemplos históricos pertinentes, como a mediação brasileira no conflito entre Peru e Colômbia e a Conferência de Anápolis. No entanto, a argumentação poderia ser mais equilibrada, evitando a repetição excessiva do conceito de 'amor' e explorando outras dimensões da diplomacia. Pontuação: 8.0/10.",
-      "1C (Capacidade de análise e reflexão): A redação apresenta uma análise reflexiva sobre o papel da diplomacia na prevenção de conflitos, destacando a importância de órgãos internacionais como a ONU e o Mercosul. No entanto, a ênfase excessiva no 'amor' como elemento central da diplomacia limita a profundidade da análise, deixando de lado outras dimensões relevantes, como o direito internacional e a negociação estratégica. Pontuação: 16.0/20.",
-      "CGPL (Correção gramatical e propriedade da linguagem): O texto está gramaticalmente correto, com uso adequado da linguagem formal e ausência de erros de concordância, ortografia, pontuação e regência. Pontuação: 20.0/20."
-    ],
-    "modelo": "command-a-03-2025",
-    "prompt": 10,
-    "temp": 0.9,
-    "versao": 2,
     "essay": 4
   },
   {
@@ -1796,10 +3099,28 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "1A: O texto apresenta uma boa organização, com introdução, desenvolvimento e conclusão claros. A coerência e a legibilidade são satisfatórias, e o estilo é adequado ao tema. A pontuação é alta devido à estrutura sólida e à fluidez do texto.",
-      "1B: A argumentação é bem desenvolvida, com informações pertinentes e objetivas. O candidato demonstra capacidade de sistematizar ideias e conectar os conceitos de amor, identidade e diplomacia à prevenção de guerras. A pontuação reflete a qualidade da argumentação.",
-      "1C: A análise e reflexão são profundas, especialmente ao relacionar a diplomacia com a promoção do amor e da identidade pacifista. O candidato explora bem o papel da ONU e de órgãos regionais, como o Mercosul, e apresenta exemplos históricos relevantes. A pontuação é alta devido à complexidade e à profundidade da análise.",
-      "CGPL: Não foram identificados erros gramaticais, o que resulta em uma pontuação máxima neste critério."
+      "1A (9.0): O texto apresenta uma boa organização e impressão geral. A coerência é mantida ao longo da redação, com uma progressão lógica das ideias. A legibilidade é alta, e o estilo é claro e direto, facilitando a compreensão do leitor. No entanto, a introdução poderia ser mais impactante, e a conclusão, embora adequada, poderia reforçar melhor os argumentos principais.",
+      "1B (8.5): A capacidade de argumentação é sólida, com informações pertinentes e bem sistematizadas. O autor demonstra objetividade ao abordar o tema, utilizando exemplos históricos e teóricos para sustentar suas afirmações. Contudo, alguns argumentos poderiam ser mais aprofundados, especialmente no que diz respeito à relação entre amor e diplomacia, que é central no texto.",
+      "1C (18.0): A análise e reflexão são pontos fortes da redação. O autor estabelece uma conexão eficaz entre as ideias de Freud e o papel da diplomacia, destacando a importância do amor e da identidade pacifista. A discussão sobre a ONU e o Mercosul é bem articulada, demonstrando uma compreensão profunda do tema. No entanto, a crítica à ausência de diplomacia como causa de conflitos poderia ser mais desenvolvida, com exemplos mais contemporâneos ou diversificados.",
+      "CGPL (20.0): Não foram identificados erros gramaticais. A linguagem é adequada e a propriedade lexical é consistente, contribuindo para a clareza e precisão do texto."
+    ],
+    "modelo": "command-a-03-2025",
+    "prompt": 10,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A (8.5): O texto apresenta boa coerência e legibilidade, com estilo claro e adequado ao tema. No entanto, há espaço para melhoria na estruturação dos parágrafos, que poderiam ser mais equilibrados e fluídos.",
+      "1B (8.0): A argumentação é objetiva e pertinente, mas falta sistematização em alguns pontos. O conteúdo é relevante, mas poderia explorar mais profundamente as teorias e autores de Relações Internacionais mencionados no padrão de resposta.",
+      "1C (16.0): A análise é sólida, especialmente ao relacionar a diplomacia com a promoção da paz e ao citar exemplos históricos. No entanto, a reflexão sobre o papel da ONU e dos princípios da diplomacia brasileira poderia ser mais crítica e abrangente, considerando também as limitações e desafios contemporâneos.",
+      "CGPL (20.0): O texto está gramaticalmente correto, sem erros identificados. A linguagem é adequada e proprietária, demonstrando domínio da norma culta."
     ],
     "modelo": "command-a-03-2025",
     "prompt": 10,
