@@ -3305,6 +3305,28 @@
     "essay": 4
   },
   {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 4
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "command-a-03-2025",
+    "prompt": 12,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 4
+  },
+  {
     "nota_1A": 9.0,
     "nota_1B": 8.5,
     "nota_1C": 18.0,
