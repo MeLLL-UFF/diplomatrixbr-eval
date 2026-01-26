@@ -5,6 +5,7 @@ import argparse
 from datetime import datetime
 from sklearn.metrics import cohen_kappa_score, roc_auc_score
 
+from sklearn.preprocessing import MinMaxScaler
 import yaml
 
 from plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error
@@ -39,7 +40,11 @@ def main(num_runs, eval_path, human_path, model, model_version):
         # auc_roc = roc_auc_score(np.round(group["nota_humana"]).astype(int), np.round(group["nota_final"]).astype(int))
         areas[(prompt, temp)] = prompt, temp, area.round(4), mae.round(4), rmse.round(4) #, qwk.round(4), auc_roc.round(4)
         df_notas[f"p{prompt}, t{temp}"] = group["nota_final"].values
+    
     df_area_sob_grafico = pd.DataFrame.from_dict(areas, orient='index', columns=['prompt', 'temp', 'area_sob_curva', 'mae', 'rmse']).reset_index(drop=True)
+    # scaler = MinMaxScaler()
+    # df_notas_normalizado = scaler.fit_transform(df_notas)
+    # df_notas_normalizado = pd.DataFrame(df_notas_normalizado, columns=df_notas.columns, index=df_notas.index)
 
     # Gerando gráficos
     # 1. Distribuição de Notas
