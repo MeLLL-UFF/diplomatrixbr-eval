@@ -24,7 +24,7 @@ def plot_distribuicao_notas(df_eval, df_human, prompts, output_path):
             desc = f"Prompt {i}: " + prompts[i+1]["description"]
             title = "\n".join(textwrap.wrap(desc, width=40))
 
-        subset['nota_final'].plot(kind='hist', bins=20, ax=ax, color="#41ACCF" if i != 0 else "#1E9D1E", edgecolor='white')
+        sns.histplot(subset["nota_final"], kde=True, ax=ax, color="#41ACCF" if i != 0 else "#1E9D1E")
 
         ax.set_title(title, fontsize=12, fontweight='bold')
         ax.set_xlabel("Nota")

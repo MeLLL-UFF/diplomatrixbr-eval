@@ -25,6 +25,11 @@ def main(num_runs, eval_path, human_path, model, model_version):
     df_human[["redacao", "nota_final"]].rename(columns={"nota_final": "nota_humana"}), on="redacao")
     df_merged["val_error"] =  abs(df_merged["nota_humana"] - df_merged["nota_final"])
 
+    df_notas = pd.DataFrame()
+    df_notas['redacao'] = df_merged["redacao"].unique()
+    df_notas = df_notas.set_index('redacao')
+    df_notas['human'] = df_human["nota_final"].values
+
     areas = {}
     for (prompt, temp), group in df_merged.groupby(["prompt", "temp"]):  
         area = np.trapezoid(group["val_error"], group["redacao"])
@@ -33,6 +38,7 @@ def main(num_runs, eval_path, human_path, model, model_version):
         # qwk = cohen_kappa_score(np.round(group["nota_humana"]).astype(int), np.round(group["nota_final"]).astype(int))
         # auc_roc = roc_auc_score(np.round(group["nota_humana"]).astype(int), np.round(group["nota_final"]).astype(int))
         areas[(prompt, temp)] = prompt, temp, area.round(4), mae.round(4), rmse.round(4) #, qwk.round(4), auc_roc.round(4)
+        df_notas[f"p{prompt}, t{temp}"] = group["nota_final"].values
     df_area_sob_grafico = pd.DataFrame.from_dict(areas, orient='index', columns=['prompt', 'temp', 'area_sob_curva', 'mae', 'rmse']).reset_index(drop=True)
 
     # Gerando gráficos
@@ -74,7 +80,7 @@ Nesta seção, apresentamos a comparação entre as notas finais geradas pelo mo
       <img src="area_val_error.png" width="700">
     </td>
     <td>
-      {df_area_sob_grafico.to_html()}
+      {df_area_sob_grafico.to_html(index=False, justify="center")}
     </td>
   </tr>
 </table>
@@ -84,7 +90,13 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 
 ![Comparação de Número de Erros](comparacao_num_erros.png)
 
-## 4. Estatísticas Descritivas
+## 5. Correlação de Pearson
+{df_notas.corr(method='pearson').to_markdown()}
+
+## 6. Correlação de Spearman
+{df_notas.corr(method='spearman').to_markdown()}
+
+## Estatísticas Descritivas
 ### Modelo {model} v{model_version}
 {df_eval.describe().to_markdown()}
 
