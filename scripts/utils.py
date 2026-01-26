@@ -4,6 +4,7 @@ mapping_faixas = {
     "Excepcional": 60,
     "Excelente": 55,
     "Ótimo": 50,
+    "Bom": 45,
     "Boa": 45,
     "Regular": 40,
     "Fraco": 30,

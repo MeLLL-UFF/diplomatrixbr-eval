@@ -12,7 +12,7 @@ from utils import get_mean
 
 def main(num_runs, eval_path, human_path, model, model_version):
     root_path = os.getcwd()
-    output_path = os.path.join(root_path, "prompt_testing", "reports", f"{model}_v{model_version}_{num_runs}_runs")
+    output_path = os.path.join(root_path, "prompt_testing", "reports", f"{model}-{model_version}_{num_runs}_runs")
     os.makedirs(output_path, exist_ok=True)
 
     # Carregando dados
@@ -53,7 +53,7 @@ def main(num_runs, eval_path, human_path, model, model_version):
     plot_eval_human_num_errors(df_merged, df_human, output_path)
 
     # Gerando resumo em markdown
-    md_content = f"""# Relatório de Avaliação: {model} v{model_version} - {num_runs} execuções
+    md_content = f"""# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
 **Gerado em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}**
 
 ## 1. Distribuição de Notas
