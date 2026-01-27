@@ -102,7 +102,7 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 {df_notas.corr(method='spearman').to_markdown()}
 
 ## Estatísticas Descritivas
-### Modelo {model} v{model_version}
+### Modelo {model}-{model_version}
 {df_eval.describe().to_markdown()}
 
 ### Humano

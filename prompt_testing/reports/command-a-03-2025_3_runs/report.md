@@ -214,7 +214,7 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 | p12, t0.9 | -0.130931 |   0.141421 |   0.26968  |   0.664211 |   1        |   1        |   1        |   0.6742   |   0.6742   |   0.707107 |    0.664211 |    0.664211 |    0.664211 |    1        |    1        |    1        |    1        |    1        |    1        |
 
 ## Estatísticas Descritivas
-### Modelo command-a v03-2025
+### Modelo command-a-03-2025
 |       |    prompt |       temp |   redacao |   nota_final |        1A |       1B |        1C |      CGPL |   num_errors |
 |:------|----------:|-----------:|----------:|-------------:|----------:|---------:|----------:|----------:|-------------:|
 | count | 108       | 108        | 108       |    108       | 36        | 36       | 36        | 36        |   108        |
