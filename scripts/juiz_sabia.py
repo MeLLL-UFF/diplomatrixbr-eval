@@ -45,10 +45,8 @@ def main(n_iteracoes, temps, anos, lista_prompts):
       base_url="https://chat.maritaca.ai/api",
   )
 
-  #temp = [0.0, 0.5, 0.9]
   temp = temps
   num_runs = n_iteracoes # DEFINIR NÚMERO DE EXECUÇÕES POR PROMPT/TEMPERATURA
-  #ano = "2013"
   ano = anos
 
   jsonGerado = []
@@ -61,9 +59,6 @@ def main(n_iteracoes, temps, anos, lista_prompts):
       prompts_yaml = yaml.safe_load(file)
       prompts = prompts_yaml['prompts']
 
-  #with open(path_essays, encoding='utf-8') as arquivo_referencia:
-
-  #tabela = csv.reader(arquivo_referencia, delimiter='|')
   dados_candidatos = diplomatrix["Candidates_Essays"][ano]["Candidates"]
   numero_redacao = 0
 
@@ -101,7 +96,6 @@ def main(n_iteracoes, temps, anos, lista_prompts):
                   model="sabia-3.1",
                   temperature=i,
                   messages=[
-                      #{"role": "system", "content": "Você é um corretor de redações que deverá avaliar uma redação que concorre ao cargo de diplomata brasileiro. Retorne sua resposta seguindo a estrutura passada."},
                       {"role": "user", "content": prompt_formatado},
                   ],
                   response_format=formato_resposta,
