@@ -1,0 +1,56 @@
+[
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "desconsiderar",
+      "sobrescrita"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. O texto é legível e o estilo é apropriado para uma dissertação acadêmica.",
+      "A argumentação é objetiva e sistematizada, com informações pertinentes ao tema. O candidato articula bem as ideias de Alexander Wendt e da UNESCO, relacionando-as ao contexto da inteligência artificial (IA) e diplomacia.",
+      "O candidato demonstra excelente capacidade de análise e reflexão ao discutir tanto os benefícios quanto os desafios da IA nas relações internacionais. A menção de exemplos prǁticos, como a simulação de confer⍌ias internacionais e o uso da IA na educa⌚o e meio ambiente, enriquece a an≪lise. A discuss≺o sobre regulamenta�������������������������������c3o internacional da IA tambem ▶reflete uma compreensao profunda do tema.",
+      "Foram identificados dois erros gramaticais: 'desconsiderar' deveria ser 'considerar' e 'sobrescrita' n≺o se aplica ao contexto. No geral, a correção gramatical ▶e a propriedade da linguagem sãoforampreservadas com alta qualidade."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "desconsiderar sobrescrita desvantagens"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, abordando tanto os benefícios quanto os desafios da inteligência artificial na diplomacia. A argumentação é clara e coerente, com exemplos pertinentes e uma reflexão adequada sobre o papel da diplomacia na regulamentação da IA. A linguagem é apropriada, embora haja um erro gramatical menor que não compromete significativamente a compreensão do texto. A correção gramatical é quase perfeita, e a propriedade da linguagem está alinhada com o contexto acadêmico e diplomático."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "desconsiderar"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma boa estrutura e desenvolvimento do tema, abordando tanto os benefícios quanto os desafios da IA na diplomacia. A argumentação é clara e coerente, embora um pouco previsível. O uso da linguagem está dentro dos padrões da norma culta, com poucos deslizes gramaticais."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  }
+]
