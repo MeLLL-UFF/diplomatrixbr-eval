@@ -478,11 +478,7 @@ prompts:
       Mas pode não ser uma esperança utópica que a influência desses dois fatores, da atitude cultural e do justificado medo das consequências de uma guerra futura, venha a terminar com as guerras. Tudo o que promove a evolução cultural também trabalha contra a guerra.”
 
       ###Padrão de Resposta
-      Com base nas referências oferecidas, o(a) candidato(a) deve articular uma ou várias ideias mencionadas nos trechos, como causas psicológicas e políticas da guerra, comportamento humano, poder e violência, direito, crescente letalidade da guerra, suas motivações nobres e baixas, instintos de destruição e de união, ligação emocional, identificação, potencial de destruição total, justificação da guerra em alguns casos e evolução cultural.
-      Deve demonstrar o papel da diplomacia para evitar a guerra por meio da negociação, da aproximação cultural e da construção de entidades internacionais, bilaterais ou multilaterais; da solução pacífica de controvérsias; do direito internacional, especialmente o humanitário e o de controle de armamentos.
-      Pode citar exemplos históricos como o período entre guerras, as convenções de Haia e de Genebra, o papel da Organização das Nações Unidas (ONU) e de seus órgãos, a construção de alianças militares regionais, a Guerra Fria, a desagregação da estrutura de defesa no Leste Europeu, as teses de globalização e de paz pela expansão dos valores ocidentais (democracia e capitalismo) e suas críticas, bem como a ordem do pós-Guerra Fria e sua contestação por forças transnacionais e potências rivais.
-      Serão valorizadas alusões a teorias e autores de Relações Internacionais, teses de psicologia social sobre violência e solidariedade, e referências aos princípios constitucionais da política externa brasileira e sua aplicação histórica.
-      Em síntese, a valorização da diplomacia na construção da paz deve ser enfatizada, com menção positiva ao papel da ONU e aos princípios tradicionais e constitucionais da diplomacia brasileira.
+      {padrao_resposta}
 
       ###Critérios de Avaliação
 
@@ -528,11 +524,7 @@ prompts:
       Mas pode não ser uma esperança utópica que a influência desses dois fatores, da atitude cultural e do justificado medo das consequências de uma guerra futura, venha a terminar com as guerras. Tudo o que promove a evolução cultural também trabalha contra a guerra.”
 
       ###Padrão de Resposta
-      Com base nas referências oferecidas, o(a) candidato(a) deve articular uma ou várias ideias mencionadas nos trechos, como causas psicológicas e políticas da guerra, comportamento humano, poder e violência, direito, crescente letalidade da guerra, suas motivações nobres e baixas, instintos de destruição e de união, ligação emocional, identificação, potencial de destruição total, justificação da guerra em alguns casos e evolução cultural.
-      Deve demonstrar o papel da diplomacia para evitar a guerra por meio da negociação, da aproximação cultural e da construção de entidades internacionais, bilaterais ou multilaterais; da solução pacífica de controvérsias; do direito internacional, especialmente o humanitário e o de controle de armamentos.
-      Pode citar exemplos históricos como o período entre guerras, as convenções de Haia e de Genebra, o papel da Organização das Nações Unidas (ONU) e de seus órgãos, a construção de alianças militares regionais, a Guerra Fria, a desagregação da estrutura de defesa no Leste Europeu, as teses de globalização e de paz pela expansão dos valores ocidentais (democracia e capitalismo) e suas críticas, bem como a ordem do pós-Guerra Fria e sua contestação por forças transnacionais e potências rivais.
-      Serão valorizadas alusões a teorias e autores de Relações Internacionais, teses de psicologia social sobre violência e solidariedade, e referências aos princípios constitucionais da política externa brasileira e sua aplicação histórica.
-      Em síntese, a valorização da diplomacia na construção da paz deve ser enfatizada, com menção positiva ao papel da ONU e aos princípios tradicionais e constitucionais da diplomacia brasileira.
+      {padrao_resposta}
 
       ###Critérios de Avaliação
       Avalie a redação considerando:
@@ -571,12 +563,7 @@ prompts:
       Mas pode não ser uma esperança utópica que a influência desses dois fatores, da atitude cultural e do justificado medo das consequências de uma guerra futura, venha a terminar com as guerras. Tudo o que promove a evolução cultural também trabalha contra a guerra.”
 
       ###Padrão de Resposta
-
-      Com base nas referências oferecidas, o(a) candidato(a) deve articular uma ou várias ideias mencionadas nos trechos, como causas psicológicas e políticas da guerra, comportamento humano, poder e violência, direito, crescente letalidade da guerra, suas motivações nobres e baixas, instintos de destruição e de união, ligação emocional, identificação, potencial de destruição total, justificação da guerra em alguns casos e evolução cultural.
-      Deve demonstrar o papel da diplomacia para evitar a guerra por meio da negociação, da aproximação cultural e da construção de entidades internacionais, bilaterais ou multilaterais; da solução pacífica de controvérsias; do direito internacional, especialmente o humanitário e o de controle de armamentos.
-      Pode citar exemplos históricos como o período entre guerras, as convenções de Haia e de Genebra, o papel da Organização das Nações Unidas (ONU) e de seus órgãos, a construção de alianças militares regionais, a Guerra Fria, a desagregação da estrutura de defesa no Leste Europeu, as teses de globalização e de paz pela expansão dos valores ocidentais (democracia e capitalismo) e suas críticas, bem como a ordem do pós-Guerra Fria e sua contestação por forças transnacionais e potências rivais.
-      Serão valorizadas alusões a teorias e autores de Relações Internacionais, teses de psicologia social sobre violência e solidariedade, e referências aos princípios constitucionais da política externa brasileira e sua aplicação histórica.
-      Em síntese, a valorização da diplomacia na construção da paz deve ser enfatizada, com menção positiva ao papel da ONU e aos princípios tradicionais e constitucionais da diplomacia brasileira.
+      {padrao_resposta}
 
       ###Critérios de Avaliação
       Avalie a redação considerando:
@@ -595,3 +582,23 @@ prompts:
 
       Retorne somente a faixa classificatória final, sem justificativas adicionais.
       Caso não seja possível determinar a classificação, responda “indeterminado”.
+
+  - id: 13
+    description: "Prompt enviado pela Aline (gerado por algum modelo de linguagem?), nota final usando Chain of Thought"
+    prompt: |
+      Avalie a redação anexa para o concurso de Diplomata seguindo estes passos lógicos:
+
+      Passo 1: Identifique a tese central do candidato e liste os argumentos principais apresentados.
+      Passo 2: Analise se a estrutura do texto respeita a progressão (Introdução, Desenvolvimento e Conclusão) e se há lacunas lógicas entre os parágrafos.
+      Passo 3: Verifique a correção gramatical e o nível do vocabulário (registro formal culto).
+      Passo 4: Com base nas análises anteriores, sintetize os pontos fortes e as fraquezas.
+      Passo 5: Finalmente, atribua a nota final de 0 a 60.
+
+      Padrão de Resposta:
+      Com base nas referências oferecidas, o(a) candidato(a) deve articular uma ou várias ideias mencionadas nos trechos, como causas psicológicas e políticas da guerra, comportamento humano, poder e violência, direito, crescente letalidade da guerra, suas motivações nobres e baixas, instintos de destruição e de união, ligação emocional, identificação, potencial de destruição total, justificação da guerra em alguns casos e evolução cultural.
+      Deve demonstrar o papel da diplomacia para evitar a guerra por meio da negociação, da aproximação cultural e da construção de entidades internacionais, bilaterais ou multilaterais; da solução pacífica de controvérsias; do direito internacional, especialmente o humanitário e o de controle de armamentos.
+      Pode citar exemplos históricos como o período entre guerras, as convenções de Haia e de Genebra, o papel da Organização das Nações Unidas (ONU) e de seus órgãos, a construção de alianças militares regionais, a Guerra Fria, a desagregação da estrutura de defesa no Leste Europeu, as teses de globalização e de paz pela expansão dos valores ocidentais (democracia e capitalismo) e suas críticas, bem como a ordem do pós-Guerra Fria e sua contestação por forças transnacionais e potências rivais.
+      Serão valorizadas alusões a teorias e autores de Relações Internacionais, teses de psicologia social sobre violência e solidariedade, e referências aos princípios constitucionais da política externa brasileira e sua aplicação histórica.
+      Em síntese, a valorização da diplomacia na construção da paz deve ser enfatizada, com menção positiva ao papel da ONU e aos princípios tradicionais e constitucionais da diplomacia brasileira.
+
+      Redação:

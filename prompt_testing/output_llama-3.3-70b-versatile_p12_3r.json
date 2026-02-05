@@ -1,0 +1,303 @@
+[
+  {
+    "erros_gramaticais": [
+      "ponto de vista não claro em alguns trechos",
+      "algumas frases longas e complexas"
+    ],
+    "feedbacks": [
+      "a redação apresenta uma boa estrutura e organização",
+      "o autor demonstra uma boa compreensão do tema e apresenta argumentos relevantes",
+      "a redação poderia ser melhorada com a utilização de frases mais concisas e claras"
+    ],
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 7,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [
+      "Erro de pontuação na frase 3",
+      "Erro de concordância na frase 10"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente",
+      "A argumentação é objetiva e bem fundamentada",
+      "A análise e reflexão sobre o tema são profundas e relevantes"
+    ],
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 7,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [
+      "Erro de pontuação na frase 3",
+      "Erro de concordância na frase 10"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente",
+      "A argumentação é objetiva e bem fundamentada",
+      "A análise e reflexão sobre o tema são profundas e relevantes"
+    ],
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 7,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [
+      "Erro de pontuacao",
+      "Erro de concordancia"
+    ],
+    "feedbacks": [
+      "A redacao apresenta uma estrutura logica e coerente",
+      "A argumentacao e a analise sao objetivas e pertinentes",
+      "A linguagem e a propriedade da linguagem sao adequadas"
+    ],
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 7,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com introdução, desenvolvimento e conclusão bem definidos.",
+      "A argumentação é objetiva e sistematizada, com informações pertinentes e relevantes para o tema.",
+      "A análise e reflexão sobre o tema são profundas e demonstram uma compreensão clara do assunto."
+    ],
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 7,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com introdução, desenvolvimento e conclusão bem definidos.",
+      "A linguagem utilizada é formal e apropriada para o tema, com vocabulário amplo e preciso.",
+      "A argumentação é objetiva e sistematizada, com uso de fontes e referências adequadas."
+    ],
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 7,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema, um desenvolvimento que explora as ideias principais e uma conclusão que resume as principais contribuições.",
+      "O texto demonstra uma boa capacidade de argumentação e reflexão sobre o tema, com a apresentação de diferentes perspectivas e a análise de conceitos relevantes.",
+      "A linguagem é apropriada e formal, com uma ortografia, concordância, pontuação e regência adequadas.",
+      "No entanto, em alguns trechos, a redação poderia ser mais concisa e objetiva, evitando a repetição de ideias e a utilização de expressões muito longas ou complexas."
+    ],
+    "nota_final": 55,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 8,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com uma introdução clara e um desenvolvimento do tema que demonstra uma boa compreensão do assunto.",
+      "A linguagem utilizada é apropriada e formal, com uma boa escolha de vocabulário e uma estrutura de frases complexas e bem construídas.",
+      "A redação apresenta uma boa capacidade de argumentação e reflexão sobre o tema, com uma análise crítica e objetiva dos conceitos apresentados.",
+      "No entanto, a redação poderia ser melhorada com uma maior profundidade na análise dos conceitos e uma maior clareza na apresentação das ideias."
+    ],
+    "nota_final": 55,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 8,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com uma introdução clara e um desenvolvimento do tema que demonstra uma boa compreensão do assunto.",
+      "A linguagem utilizada é apropriada e formal, com uma boa escolha de vocabulário e uma estrutura de frases complexas e bem construídas.",
+      "A redação apresenta uma boa capacidade de argumentação e reflexão sobre o tema, com uma análise crítica e objetiva dos conceitos apresentados.",
+      "No entanto, a redação poderia ser melhorada com uma maior profundidade na análise dos conceitos e uma maior clareza na apresentação das ideias."
+    ],
+    "nota_final": 55,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 8,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema, um desenvolvimento que explora as ideias principais e uma conclusão que resume as principais contribuições.",
+      "A linguagem utilizada é apropriada e formal, demonstrando um bom domínio da norma culta da língua portuguesa.",
+      "A argumentação é consistente e bem fundamentada, com a apresentação de exemplos e referências que sustentam as ideias defendidas.",
+      "A redação demonstra uma boa compreensão do tema e uma capacidade de analisar e refletir sobre as questões abordadas."
+    ],
+    "nota_final": 58,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 8,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema, um desenvolvimento que explora as ideias principais e uma conclusão que resume as principais contribuições.",
+      "A linguagem utilizada é apropriada e formal, adequada ao contexto da diplomacia e das relações internacionais.",
+      "A argumentação é sólida e bem fundamentada, com referências a autores e conceitos relevantes para o tema.",
+      "No entanto, em alguns momentos, a redação poderia ser mais concisa e direta, evitando a repetição de ideias e a utilização de frases longas e complexas."
+    ],
+    "nota_final": 55,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 8,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com uma introdução clara e um desenvolvimento detalhado do tema.",
+      "A linguagem utilizada é apropriada e formal, adequada ao contexto da diplomacia brasileira.",
+      "A redação apresenta uma boa capacidade de argumentação e reflexão sobre o tema, com a apresentação de diferentes perspectivas e exemplos concretos."
+    ],
+    "nota_final": 55,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 8,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "faixa": "Excelente",
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com argumentação sólida e análises relevantes.",
+      "O texto demonstra domínio temático e linguístico avançado, com originalidade e clareza.",
+      "A linguagem é apropriada e formal, sem erros gramaticais ou de pontuação."
+    ],
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 9,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "faixa": "Excelente",
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com argumentação sólida e análises relevantes.",
+      "O texto demonstra domínio temático e linguístico avançado, com originalidade e clareza.",
+      "A linguagem é apropriada e formal, sem erros gramaticais ou de pontuação."
+    ],
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 9,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "faixa": "Excelente",
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com argumentação sólida e análises relevantes.",
+      "O texto demonstra domínio temático e linguístico avançado, com originalidade e clareza.",
+      "A linguagem é apropriada e formal, sem erros gramaticais ou de pontuação."
+    ],
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 9,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "faixa": "Excelente",
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com ideias claras e bem articuladas.",
+      "O texto demonstra domínio temático e linguístico avançado, com poucos deslizes gramaticais.",
+      "A argumentação é sólida e madura, com análises relevantes e estilo apropriado."
+    ],
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 9,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "erros_gramaticais": [],
+    "faixa": "Excelente",
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com argumentação sólida e análises relevantes.",
+      "O texto demonstra domínio temático e linguístico avançado, com originalidade e clareza.",
+      "A utilização da linguagem é apropriada e formal, sem erros gramaticais ou de pontuação."
+    ],
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 9,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2014"
+  }
+]

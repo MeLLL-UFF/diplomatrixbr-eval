@@ -1,0 +1,1689 @@
+[
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "A afirmação por Souza Dantas de que o perturbador da paz está sempre errado traz em si um princípio histórico da política externa brasileira",
+      "A participação brasileira em coalizões de geometria variável como o BRICS",
+      "Embora seja crítico à existência de condomínios de poder nas relações internacionais"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma boa coerência e legibilidade, com uma estrutura clara e organizada. No entanto, algumas frases poderiam ser mais concisas e diretas para melhorar o estilo.",
+      "A argumentação é objetiva e bem sistematizada, com uso pertinente de informações históricas e atuais para sustentar os pontos levantados.",
+      "O autor demonstra uma excelente capacidade de análise e reflexão ao relacionar os discursos dos embaixadores com a política externa brasileira contempor≪nea. No entanto, houve alguns deslizes gramaticais que afetaram a fluidez do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Embora seja crítico à existência de condomínios de poder nas relações internacionais, o Brasil reconhece ser necessário confiar nas grandes potências, como afirmou Velloso em 1946.",
+      "A participação brasileira em coalizões de geometria variável como o BRICS, o IBAS e o G20 Comercial revela o compromisso do país com a construção de uma ordem internacional mais justa e materialmente igualitária na atualidade.",
+      "Ao buscar a construção de consensos que envolvam as grandes potências, o Brasil mostra-se realista e ciente de que a desigualdade de poder não pode ser superada de modo leviano e voluntarista."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência e legibilidade, com uma estrutura clara e organizada. No entanto, algumas frases são longas demais e poderiam ser simplificadas para melhorar a fluidez.",
+      "A argumentação é objetiva e bem fundamentada, com exemplos históricos e atuais que sustentam os pontos levantados. A sistematização das ideias 겫a sendo um pouco prejudicada por algumas frases complexas.",
+      "O autor demonstra excelente capacidade de anlise e reflexao ao relacionar os discursos dos embaixadores com a polac3adtica externa brasileira contemporac3a2nea. No entanto, houve alguns pequenos deslizes gramaticais que poderiam ser evitados."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Embora seja crítico à existência de condomínios de poder nas relações internacionais, o Brasil reconhece ser necessário confiar nas grandes potências, como afirmou Velloso em 1946.",
+      "A participação brasileira em coalizões de geometria variável como o BRICS, o IBAS e o G20 Comercial revela o compromisso do país com a construção de uma ordem internacional mais justa e materialmente igualitária na atualidade.",
+      "Ao buscar a construção de consensos que envolvam as grandes potências, o Brasil mostra-se realista e ciente de que a desigualdade de poder não pode ser superada de modo leviano e voluntarista."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência e legibilidade, com uma estrutura clara e organizada. No entanto, alguns trechos poderiam ser mais concisos para melhorar o estilo.",
+      "A argumentação é objetiva e bem fundamentada, utilizando exemplos históricos e atuais para sustentar os pontos. Contudo, houve pequenas falhas na sistematização das ideias.",
+      "A análise é profunda e reflexiva, conectando os discursos dos embaixadores com a política externa brasileira contempor≪nea. A reda≬ento demonstra uma compreens≼ão clara dos princpios diplomticos abordados."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.0,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Além de ter como maiores parceiros comerciais a China e os Estados Unidos, o Brasil é membro assíduo do Conselho de Segurança na categoria de não-permanente."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura coerente e legível, com uma boa articulação entre os argumentos (1A: 8.0). No entanto, poderia ter um estilo mais fluente e menos repetitivo em termos de estrutura frasal.",
+      "A capacidade de argumentação é consistente e bem fundamentada, com uso apropriado de informações históricas e contemporâneas para sustentar a defesa da paz e o realismo político (1B: 7.5).",
+      "A análise é profunda e reflexiva, mostrando compreensão dos princípios da diplomacia brasileira e sua aplicação atual (1C: 15.0).",
+      "Foram identificados dois erros gramaticais: 'Além de ter como maiores parceiros comerciais a China e os Estados Unidos, o Brasil é membro assíduo' deveria ser 'membro assuo', e falta clareza na frase 'Ao aliar-se a pa⏭ses que tamb⌳m buscam aumentar seu poder relativo do sistema internacional' que deveria ser 'Ao aliar-se a pa⎎ses que tamb⌳m buscam aumentar seu poder relativo no sistema internacional' (CGPL: -2 erros).",
+      "Considerando os crit⎩rios avaliados, a nota final seria: Nota 1A + Nota 1B + Nota 1C = 8 + 7 + 15 = 3\nPara CGPL, cada erro gramatical reduz 1 ponto da nota m≤xima de 2\nEntão CGPL = 2 - 2 =  ̈zerö\nNota final = (3 * 14) + CGPL = (3 * 14) + zero = **46**.\nSugiro revisar o texto para evitar erros gramaticais e melhorar a fluidez do estilo."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'hodiernamente' pode ser considerado um termo excessivamente formal e raro em textos menos especializados",
+      "'Embora seja crítico' deveria ser 'Embora o Brasil seja crítico' para maior clareza e correção gramatical"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura coerente e legível, com um estilo adequado ao contexto acadêmico e diplomático, embora alguns termos possam ser ajustados para maior fluidez.",
+      "A argumentação é objetiva, sistematizada e rica em informações pertinentes sobre a política externa brasileira, abordando a defesa da paz e o realismo político de maneira clara.",
+      "Demonstra excelente capacidade de análise e reflexão ao relacionar os discursos históricos dos embaixadores com a prática contemporânea da diplomacia brasileira.",
+      "Foram identificados poucos erros gramaticais, que não comprometem significativamente a qualidade do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'hodiernamente' é um termo pouco utilizado e pode ser considerado inadequado para a formalidade do texto",
+      "'de no seio' parece ser um erro de digitação, o correto seria 'no seio'",
+      "faltou a palavra 'que' antes de 'não pode ser superada'"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta boa coerência e legibilidade. No entanto, alguns termos e erros de digitação prejudicam a fluidez e a clareza.",
+      "1B: A argumentação é objetiva e bem estruturada. Utiliza exemplos claros e pertinentes para ilustrar os princípios da diplomacia brasileira.",
+      "1C: Demonstra excelente capacidade de análise e reflexão ao relacionar os discursos dos embaixadores com a política externa brasileira atual.",
+      "CGPL: A redação apresenta poucos erros gramaticais. Recomenda-se uma revisão cuidadosa para evitar erros de digitação e utilizar vocabulário mais adequado ao contexto formal."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 45.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "hodiernamente",
+      "ao aliar-se a países",
+      "o Brasil reconhece ser necessário confiar nas grandes potências"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes. No entanto, há alguns erros gramaticais e de estilo que afetam a propriedade da linguagem. A expressão 'hodiernamente' é pouco usual e poderia ser substituída por 'atualmente'. A frase 'ao aliar-se a países' deveria ser 'ao aliar-se com países'. A frase 'o Brasil reconhece ser necessário confiar nas grandes potências' está correta, mas o uso da conjunção 'como' logo após poderia melhorar a fluidez: 'o Brasil reconhece ser necessário confiar nas grandes potências, como afirmou Velloso em 1946'. No geral, o texto demonstra um bom domínio do tema e uma argumentação consistente."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "hodiernamente",
+      "Ao aliar-se a países"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes. A linguagem é adequada, embora haja alguns deslizes gramaticais. O uso de 'hodiernamente' é inadequado e pode ser substituído por 'atualmente'. Na frase 'Ao aliar-se a países', falta a preposição 'com', para ficar 'Ao aliar-se com países'. No geral, a redação demonstra um bom domínio do tema e uma argumentação consistente."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "hodiernamente",
+      "Ao aliar-se a países"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes. A linguagem é adequada, embora haja alguns deslizes gramaticais.",
+      "O uso de termos como 'hodiernamente' pode ser considerado rebuscado e não está de acordo com a propriedade da linguagem esperada.",
+      "A expressão 'Ao aliar-se a países' deveria ser 'Ao aliar-se com países' para manter a correção gramatical.",
+      "A argumentação é consistente e reflete um bom domínio do tema, mencionando exemplos relevantes como o MERCOSUL, PROSUL e missões de paz da ONU."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 30.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "hodiernamente",
+      "o Brasil de no",
+      "nomeadamente",
+      "voluntarista"
+    ],
+    "feedbacks": [
+      "O uso da palavra 'hodiernamente' é inadequado e pouco usual em textos formais.",
+      "A expressão 'o Brasil de no' contém um erro de digitação ou sintaxe.",
+      "'Nomeadamente' é um termo pouco comum e pode ser substituído por 'especificamente' ou 'particularmente'.",
+      "'Voluntarista' não é um termo reconhecido no contexto formal da redação."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 45.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ademais, o Brasil de no seio do G4",
+      "o Brasil mostra-se realista e ciente de que a desigualdade de poder não pode ser superada de modo leviano e voluntarista."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização textual e desenvolvimento coerente do tema.",
+      "Há poucos erros gramaticais que prejudicam minimamente a fluidez do texto.",
+      "A argumentação é clara e reflete uma compreensão adequada dos princípios discutidos pelos embaixadores.",
+      "A linguagem é apropriada para o contexto diplomático, embora alguns trechos possam ser mais concisos."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 45.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "hodiernamente",
+      "ao aliar-se a países",
+      "Ao buscar"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e bem estruturados. No entanto, há alguns erros gramaticais e de estilo que comprometem a fluidez do texto.",
+      "A linguagem é geralmente adequada, mas poderia ser mais propria e refinada em alguns trechos.",
+      "A correção gramatical precisa ser aprimorada para alcançar uma nota mais alta."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A participação brasileira em coalizões de geometria variável",
+      "o Brasil sustenta uma política externa pragmática"
+    ],
+    "feedbacks": [
+      "O texto apresenta argumentação sólida e coerente, com clareza na exposição das ideias.",
+      "Demonstra excelente compreensão do tema e uso apropriado de exemplos históricos e atuais.",
+      "A linguagem é formal e adequada, com poucos deslizes gramaticais que não comprometem a qualidade geral."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Embora seja crítico à existência de condomínios de poder nas relações internacionais, o Brasil reconhece ser necessário confiar nas grandes potências, como afirmou Velloso em 1946.",
+      "A participação brasileira em coalizões de geometria variável como o BRICS, o IBAS e o G20 Comercial revela o compromisso do país com a construção de uma ordem internacional mais justa e materialmente igualitária na atualidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma boa organização e desenvolvimento do tema, com argumentaç▞s claras e coerentes.",
+      "Houve dois pequenos erros gramaticais que n▚o comprometeram a clareza geral do texto.",
+      "A articulaç▚o entre os parágrafos ▞ficou muito boa, evidenciando uma compreens▚o profunda dos princ▚pios diplom▚ticos brasileiros."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ademais, o Brasil de no seio do G4 a ampliação do Conselho de Segurança",
+      "Embora seja crítico à existência de condomínios de poder nas relações internacionais"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação sólida e coerente com o tema proposto, abordando a defesa da paz e o realismo político na política externa brasileira. A estrutura do texto é clara, com ideias bem articuladas e desenvolvidas. Contudo, há dois erros gramaticais que não comprometem significativamente a qualidade do texto.",
+      "O texto demonstra um domínio avançado da norma culta e uma capacidade de reflexão profunda sobre o tema. A utilização de conceitos como 'coalizŕes de geometria variável' e 'perturbador da paz' evidencia um vocabulário rico e apropriado para o contexto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura coerente e legível, com um estilo adequado ao contexto acadêmico e diplomático. O texto segue uma linha de raciocínio clara e é bem organizado.",
+      "A capacidade de argumentação é robusta, com informações pertinentes e objetivas que sustentam a análise do tema. A sistematização das ideias é eficiente e as referências históricas são relevantes.",
+      "A redação demonstra uma excelente capacidade de análise e reflexão sobre o tema proposto. O autor faz conexões entre eventos históricos e suas implica⑞s na governan≚ global contemporânea, evidenciando uma compreens≼ profunda das dinâmicas internacionais."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A postura unilateral dos EUA, após o ataque terrorista às Torres Gêmeas, em 11 de setembro de 2001, promovendo a guerra contra o terror em detrimento das deliberações do CSNU",
+      "Isso amplia o risco de surgimento de novas variantes do coronavírus, contra as quais as vacinas utilizadas nos EUA e na Europa poderão não ser eficazes"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma boa coerência e legibilidade, com um estilo claro e objetivo. Contudo, poderia ser mais conciso em algumas partes.",
+      "A argumentação é objetiva e bem sistematizada. O autor utiliza exemplos históricos pertinentes para sustentar suas posições.",
+      "O autor demonstra uma excelente capacidade de análise e reflexão sobre os temas propostos. A discussão é profunda e aborda diferentes aspectos da governança global.",
+      "Erros gramaticais identificados: 1) uso incorreto de 'CSNU' sem ter sido previamente definido; 2) uso do futuro do presente 'poderão' que deveria ser 'podem' para manter a consistência temporal."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura coerente e clara, com uma boa legibilidade e estilo apropriado para um texto dissertativo-argumentativo. A argumentação é objetiva e bem sistematizada, utilizando exemplos históricos pertinentes para sustentar o ponto de vista. A análise é profunda e reflexiva, abordando diferentes aspectos das relações internacionais e da eficácia da ONU. No entanto, a redação poderia ter explorado mais profundamente as implicações culturais e psicológicas da guerra, conforme sugerido pelos pensamentos de Einstein e Freud no enunciado."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta boa coerência e legibilidade, com estilo claro e adequado ao contexto formal. A argumentação é objetiva e bem sistematizada, utilizando exemplos históricos pertinentes para ilustrar a frustração das expectativas em torno do projeto de governança global da ONU. Demonstra excelente capacidade de análise e reflexão ao discutir a evolução das relações de poder e a necessidade de reforma na organização internacional."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura coerente e clara, com argumentos bem desenvolvidos e organizados. O autor segue uma linha lógica de raciocínio, partindo da criação da ONU e suas expectativas iniciais, passando por eventos críticos como a guerra ao terror e a crise financeira de 2008, e finalizando com a atual crise sanitária. A argumentação é objetiva e rica em exemplos históricos pertinentes. A análise é profunda, refletindo sobre a evolução das relações internacionais e a necessidade de reformulação da ONU para incluir novos atores globais. A linguagem utilizada é apropriada para um texto acadêmico, sem erros gramaticais identificáveis."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a ocasião",
+      "a distribuição de vacinas entre nações"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma boa coerência e legibilidade, com algumas falhas pontuais na estrutura e uso de termos. A argumentação é objetiva e bem sistematizada, com informações pertinentes ao tema e desenvolvidas de forma clara. A análise e reflexão são profundas e bem fundamentadas, abordando diferentes aspectos do tema proposto. Contudo, há pequenos deslizes gramaticais que poderiam ser evitados."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes.",
+      "O texto demonstra um bom domínio da norma culta da língua portuguesa.",
+      "A argumentação é consistente e reflete sobre o tema proposto, embora poderia ser mais aprofundada em alguns pontos.",
+      "O uso de exemplos históricos e contemporâneos enriquece a análise."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes.",
+      "A linguagem é apropriada para o contexto, com correção gramatical e uso adequado de vocabulário.",
+      "O texto faz uma reflexão profunda sobre a evolução das relações internacionais e a necessidade de reforma da ONU.",
+      "A argumentação é consistente e bem fundamentada, embora possa ser um pouco mais concisa em algumas partes."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes. O texto aborda a evolução das relações internacionais pós-Segunda Guerra Mundial, a atuação unilateral dos EUA, as crises financeiras e a pandemia de coronavírus, evidenciando mudanças na distribuição do poder global. A linguagem é formal e adequada ao contexto, sem erros gramaticais evidentes.",
+      "O candidato demonstra excelente domínio do tema proposto, integrando-o com eventos históricos relevantes e suas implicações para a governança global.",
+      "A argumentação é consistente e reflete uma análise crítica das falhas e desafios enfrentados pela ONU e pelas grandes potências no cumprimento de seus compromissos com a paz e cooperação internacional.",
+      "A redação mantém um alto nível de correção gramatical e propriedade linguística, embora algumas passagens possam ser ligeiramente simplificadas para maior clareza."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma boa coerência e legibilidade, com um estilo claro e objetivo. (1A: 9)",
+      "A argumentação é bem desenvolvida e sistematizada, com informações pertinentes ao tema. (1B: 8)",
+      "Demonstra excelente capacidade de análise e reflexão ao relacionar eventos históricos com a situação atual e ao discutir a necessidade de reforma das instituições internacionais. (1C: 18)",
+      "Nenhum erro gramatical foi identificado. (CGPL: 20)"
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema e uma conclusão que reafirma a importância das lições históricas. A legibilidade é excelente e o estilo é apropriado para um texto acadêmico e diplomático (nota 1A: 9).",
+      "A argumentação é objetiva e bem sistematizada, utilizando exemplos históricos pertinentes para discutir a relevância do tema da guerra e da paz no contexto atual. As informações são relevantes e diretamente ligadas ao tema proposto (nota 1B: 8).",
+      "A capacidade de análise e reflexão é evidente, especialmente na discussão sobre a necessidade de reforma do Conselho de Seguran쪭as Naŵes Unidas para refletir o equilibrion de poder atual. O autor demonstra uma compreens≽o profunda das complexidades envolvidas na prevenção de guerras e na manutenção da paz (nota 1C: 18).",
+      "A correção gramatical é impecável, sem erros ortográficos ou de pontuação (número de erros gramaticais:  ́zero).",
+      "Feedbacks adicionais: O texto utiliza vocabulário avançado e estruturas sintáticas complexas corretamente, o que demonstra um excelente domínio da língua portuguesa. A redação é rica em referências históricas e diplomáticas pertinentes, reforçando a argumentação com exemplos concretos."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma boa coerência e legibilidade, com um estilo claro e objetivo. (1A: 9)",
+      "A argumentação é bem desenvolvida, utilizando exemplos históricos e atuais para sustentar o ponto de vista. (1B: 8)",
+      "O autor demonstra uma excelente capacidade de análise e reflexão ao relacionar eventos passados com o presente e ao discutir a necessidade de reforma do Conselho de Segurança das Nações Unidas. (1C: 18)",
+      "O texto está livre de erros gramaticais. (CGPL: 20)"
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma progressão lógica de ideias que relaciona os discursos dos embaixadores ao contexto atual e à necessidade de reforma das instituições internacionais.",
+      "A argumentação é objetiva e bem sistematizada, com informações pertinentes sobre a criação da ONU e a atualidade dos discursos de Souza Dantas e Leão Velloso.",
+      "A capacidade de análise e reflexão é evidente, especialmente na crítica ao fortalecimento de grupos extremistas e na defesa da reforma do Conselho de Segurança da ONU para refletir o equilíbrio de poder atual.",
+      "A redação não apresenta erros gramaticais, demonstrando um excelente domínio da norma culta do português."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta boa coerência e legibilidade, com um estilo claro e objetivo.",
+      "A argumentação é consistente e bem desenvolvida, utilizando exemplos históricos relevantes para sustentar a tese.",
+      "Há uma excelente capacidade de análise e reflexão sobre os temas propostos, com discussões pertinentes sobre a atualidade das palavras dos embaixadores.",
+      "A redação está livre de erros gramaticais.",
+      "Feedback geral: o texto apresenta uma boa estrutura e desenvolvimento do tema, argumentações claras e pertinentes ao contexto histórico e diplomático abordado. A reflexão é profunda e alinhada com as questões atuais da ONU e da diplomacia brasileira. A linguagem é formal e adequada ao estilo exigido."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A. O texto apresenta coerência e clareza na exposição das ideias, com uma estrutura bem organizada e uma transição fluida entre os parágrafos. A legibilidade é excelente e o estilo é apropriado para uma redação de cunho diplomático.",
+      "1B. A argumentação é objetiva e sistematizada, com uma boa seleção de informações pertinentes ao tema. O autor faz uso de exemplos históricos e compara o passado com o presente para fortalecer seus argumentos.",
+      "1C. O autor demonstra uma excelente capacidade de análise e reflexão ao relacionar os discursos dos embaixadores com a realidade atual e ao discutir a necessidade de reformas na ONU. A reflexão sobre a evolução das rela␾s internacionais e a import≤ncia de aprender com o passado evidenciam profundidade no tratamento do tema.",
+      "Correção gramatical e propriedade da linguagem: O texto não apresenta erros gramaticais ou ortográficos, mantendo um alto padrão de correção linguística.",
+      "Nota final: 37"
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "não podem ser condenadas igualmente todas as espécies de guerras",
+      "um cálculo realista sobre as necessidades do momento"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, abordando a relevância das lições históricas e a necessidade de reforma da ONU.",
+      "A argumentação é clara e consistente, embora haja pequenos erros gramaticais.",
+      "O texto demonstra um bom domínio da linguagem formal e propriedade no uso de conceitos relacionados à diplomacia e às relações internacionais."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização do texto e desenvolvimento do tema, com coerência, clareza e argumentação sólida.",
+      "A linguagem é adequada e correta, sem erros gramaticais.",
+      "A reflexão sobre o tema é profunda e bem articulada com o padrão de resposta fornecido."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma organização clara e desenvolvimento consistente do tema, com argumentos bem estruturados e reflexões pertinentes.",
+      "A correção gramatical é excelente, sem erros gramaticais.",
+      "A linguagem é apropriada e formal, adequada ao contexto de uma redação para o CACD.",
+      "A argumentação poderia ser um pouco mais robusta, explorando mais profundamente as ligações entre os discursos de Souza Dantas e Leão Velloso com a situação atual, mas ainda assim é muito boa."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto articulado e profundo, com argumentação sólida, análises relevantes e estilo maduro.",
+      "Demonstra domínio temático e linguístico avançado.",
+      "Originalidade e clareza na abordagem do tema.",
+      "Excelente compreensão e desenvolvimento do tema proposto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que situa o leitor no contexto histórico e diplomático relevante. O texto é legível e possui um estilo apropriado para um concurso de carreira diplomática.",
+      "A argumentação é objetiva e bem sistematizada, utilizando informações históricas e exemplos concretos para sustentar a posição do Brasil em relação ao Conselho de Segurança da ONU. As informações são pertinentes e refletem conhecimento aprofundado do tema.",
+      "A análise é profunda e reflexiva, abordando tanto a história da participaⱪo brasileira na ONU quanto as mudanⱪs na ordem internacional contemporânea. O candidato demonstra uma compreensⱪo clara dos desafios enfrentados pelo Conselho de Segurança e a necessidade de reforma para garantir sua legitimidade e eficácia.",
+      "O texto estⱪ livre de erros gramaticais, o que evidencia um excelente domínio da norma padrão da língua portuguesa."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza a eleição do Brasil no Conselho de Segurança da ONU e uma progressão lógica que aborda a história da participação brasileira e a necessidade de reforma do Conselho. A legibilidade é excelente e o estilo é formal e adequado ao contexto diplomático (nota 1A: 8).",
+      "A argumentação é objetiva e bem fundamentada, utilizando exemplos históricos concretos como a participação do Brasil em operaçs de paz e a criação do Comitê de Consolida≜ảo da Paz. A sistematiza≜ảo das informa≜ảes ≥ pertinente ao tema proposto (nota 1B: 9).",
+      "A capacidade de an≥lise e reflexão ≥ evidente, especialmente na cr≥tica ≥ estrutura desigual do Conselho de Segurança e na defesa da necessidade de sua reforma para refletir a ordem internacional contemporânea. O autor demonstra uma compreensão profunda das dinâmicas internacionais e das posições históricas do Brasil (nota 1C: 18).",
+      "A redação está livre de erros gramaticais, ortográficos ou de pontuação, o que demonstra um excelente domínio da língua portuguesa (erros gramaticais:  none)."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma boa legibilidade e estilo adequado ao contexto diplomático.",
+      "A argumentação é objetiva e bem sistematizada, com informações pertinentes e devidamente contextualizadas.",
+      "Demonstra excelente capacidade de análise e reflexão sobre o tema proposto, abordando a evolução do sistema internacional e a posição do Brasil de maneira crítica e fundamentada."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta boa coerência e legibilidade, com um estilo formal e apropriado para uma redação de concurso diplomático. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos.",
+      "A argumentação é objetiva e sistemática, utilizando exemplos históricos pertinentes e informações relevantes sobre a posição do Brasil na ONU. A redação demonstra uma boa capacidade de sistematização das informaçs.",
+      "A análise é profunda e reflexiva, abordando tanto a história da participa≜≜ão do Brasil no Conselho de Segurança quanto a necessidade de reforma desse 곌edrg곌edao para refletir a ordem internacional contemporânea. A reflexão sobre a legitimidade e democracia na governan������ça ������cada vez mais multipolar demonstra uma compreens������o avan������fda din�����￟mica internacional.",
+      "O texto est≜ livre de erros gramaticais. A linguagem 곌ed propriedade adequada para o contexto diplom곌edtico."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O Brasil, recentemente, foi eleito, pela 11ª vez, para ocupar uma cadeira... (vírgula desnecessária após 'recentemente')",
+      "Desse modo, não mais se deve 'confiar nas grandes potências'. (uso inadequado de aspas)"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura coerente e legível, com um estilo adequado ao contexto diplomático e acadêmico. Há clareza na apresentação dos argumentos e no desenvolvimento do tema.",
+      "A capacidade de argumentação é objetiva e bem sistematizada. O texto faz uso pertinente de informações históricas e contextuais sobre a participação do Brasil na ONU e no Conselho de Segurança.",
+      "A redação demonstra excelente capacidade de análise e reflexão ao discutir a evolução do sistema internacional, a legitimidade do Conselho de Segurança e a necessidade de reforma. O autor reflete criticamente sobre a posição do Brasil ao longo das décadas.",
+      "Foram identificados dois erros gramaticais: uso inadequado de vírgula e aspas."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que situa o leitor no contexto histórico e diplomático relevante. O texto é legível e de estilo apropriado para o CACD.",
+      "A argumentação é objetiva e sistematizada, com uso eficiente de informações pertinentes ao tema. A redação aborda aspectos históricos e contemporâneos da posição do Brasil no Conselho de Segurança da ONU.",
+      "A análise é profunda e reflexiva, destacando a evolução das posiçﱞs brasileiras ao longo do tempo e a necessidade de reforma do Conselho de Seguranⱪ da ONU para aumentar sua legitimidade e efetividade."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização e desenvolvimento do tema, com argumentos claros e bem fundamentados.",
+      "A linguagem é apropriada para o contexto, com correção gramatical e uso adequado de vocabulário.",
+      "O texto demonstra um profundo conhecimento sobre a história da ONU e a posição do Brasil em relação ao Conselho de Segurança.",
+      "A argumentação é consistente e reflete uma análise crítica da evolução do sistema internacional.",
+      "A redação mantém um foco claro na defesa da paz e na necessidade de reforma do Conselho de Segurança, alinhando-se ao padrão de resposta fornecido."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Excelente desenvolvimento do tema e argumentação consistente.",
+      "Domínio avançado da linguagem e correção gramatical.",
+      "Clareza e coerência no encadeamento das ideias.",
+      "Reflexão profunda sobre o tema proposto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.67,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 17,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema e uma conclusão que sintetiza os argumentos apresentados. O texto é legível e possui um estilo apropriado para uma redação de concurso diplomático.",
+      "A argumentação é objetiva e bem sistematizada, com informações pertinentes ao tema. O autor utiliza exemplos históricos e contemporâneos para fundamentar suas posições.",
+      "A análise é profunda e reflexiva, abordando diferentes aspectos das relações internacionais e do papel do Brasil na ONU. A redação explora temas complexos como a reforma do Conselho de Segurança, desarmamento nuclear e preven⋃o de conflitos com clareza e perspicuidade.",
+      "A reda⋃o est⊥ livre de erros gramaticais. A linguagem utilizada ⋃ formal e propria para o contexto diplom⋁tico."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta boa coerência e legibilidade, com um estilo claro e objetivo. (nota_1A: 9)",
+      "A argumentação é bem desenvolvida e sistematizada, com informações pertinentes ao tema. (nota_1B: 8)",
+      "Demonstra excelente capacidade de análise e reflexão sobre o tema proposto, abordando diferentes aspectos das relações internacionais e do papel do Brasil. (nota_1C: 18)",
+      "Não foram identificados erros gramaticais. (numero_de_erros_gramaticais: 0)"
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema e uma conclusão que sintetiza os argumentos apresentados. A legibilidade é excelente e o estilo é apropriado para um texto acadêmico e diplomático.",
+      "A capacidade de argumentação é robusta, com uma abordagem sistemática e objetiva. O autor utiliza exemplos históricos e contemporâneos para fundamentar suas posições, demonstrando conhecimento pertinente sobre o assunto.",
+      "O texto revela uma profunda capacidade de análise e reflexão ao discutir a legitimidade do Conselho de Segurança das Nações Unidas e os desafios do desarmamento nuclear e prevenção de conflitos. O autor faz conexões claras entre os argumentos dos embaixadores e a situação atual.",
+      "A redação está livre de erros gramaticais, ortográficos e de pontuaˈcao. A linguagem ⋯utilizada ⋯propriedade ⋯contexto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta boa legibilidade e estilo adequado, com argumentos coerentes e bem estruturados.",
+      "A capacidade de argumentação é sólida, com exemplos claros e pertinentes que sustentam a tese.",
+      "Demonstra excelente capacidade de análise e reflexão sobre o tema proposto, relacionando-o com o contexto histórico e atual das relações internacionais.",
+      "Correção gramatical e propriedade da linguagem estão impecáveis, sem erros identificáveis."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma argumentação clara e coerente, com bom uso de vocabulário e estilo adequado ao contexto acadêmico e diplomático.",
+      "O desenvolvimento do tema é bem estruturado, com argumentos objetivos e informações pertinentes que sustentam a posição do autor. A sistematização é clara e as ideias são apresentadas de forma lógica.",
+      "A capacidade de análise e reflexão é excelente. O autor faz conexões relevantes entre os argumentos dos embaixadores brasileiros na ONU e os desafios contemporâneos, demonstrando uma compreensão profunda das dinâmicas internacionais.",
+      "A redação está livre de erros gramaticais. A ortografia, pontuação e concordância estǁo corretas, o que contribui para a legibilidade e profissionalismo do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação clara e coerente, com boa legibilidade e estilo adequado ao contexto diplomático.",
+      "A capacidade de argumentação é robusta, com uso eficiente de exemplos históricos e análises pertinentes ao contexto das relações internacionais. A sistematização das ideias é clara e objetiva.",
+      "A reflexão sobre a legitimidade e eficácia do Conselho de Segurança das Nações Unidas ≤ CSNU ≤, especialmente no que tange ≤ aos desafios da reforma institucional, desarmamento nuclear e prevenç≤ao de conflitos, demonstra uma compreens≤ao profunda e analítica dos temas abordados."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma argumentação clara e coerente, com bom desenvolvimento do tema. O autor utiliza exemplos históricos e atuais para sustentar sua posição, mostrando conhecimento do contexto das relações internacionais e do papel do Brasil na ONU. A linguagem é formal e adequada ao contexto acadêmico e diplomático. No entanto, há alguns pontos que poderiam ser aprimorados, como a maior precisão na articulação de certas ideias e uma abordagem mais direta em relação aos critérios de direito e poder, bem como ao instinto de destruição discutidos por Einstein e Freud. Apesar disso, a redação está bem estruturada e respeita a norma culta da língua portuguesa."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. O texto é legível e o estilo é apropriado para uma redação de concurso diplomático.",
+      "A argumentação é objetiva e sistematizada, com uso pertinente de informações históricas e contextuais. A redação faz referência a eventos históricos relevantes e utiliza dados concretos para sustentar suas posições.",
+      "A capacidade de análise e reflexão ≥ evidente. O autor faz uma conex≤o clara entre os princ≤pios do pacifismo e da igualdade entre nações, discutindo a complexidade do veto no CSNU e a evolução da ordem internacional pós-II Guerra Mundial. A reflexão sobre a necessidade de reforma do CSNU demonstra uma compreensão profunda das dinâmicas internacionais contemporâneas."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema e uma conclusão que sintetiza os argumentos. O texto é legível e possui um estilo apropriado para um concurso de carreira diplomática.",
+      "A argumentação é objetiva e bem sistematizada, utilizando exemplos históricos pertinentes para ilustrar os pontos discutidos. As informações são relevantes e diretamente ligadas ao tema proposto.",
+      "A análise é profunda e reflexiva, abordando a complexidade das relações internacionais e a evolução do conceito de guerra no contexto da ONU. O candidato demonstra uma excelente capacidade de refletir sobre os princípios do pacifismo e da igualdade entre naç⓵es."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com introdução que contextualiza o tema e estabelece a tese central. O desenvolvimento é bem organizado, abordando os três elementos estruturantes da diplomacia brasileira: manutenção da paz, defesa da igualdade entre os Estados e equilíbrio entre idealismo e pragmatismo. A argumentação é objetiva e sistematizada, utilizando exemplos históricos pertinentes para ilustrar os pontos discutidos.",
+      "A capacidade de análise e reflexão é evidente na discussão sobre a efetividade do Conselho de Segurança da ONU (CSNU) e na proposta de reforma para aumentar a representatividade e legitimidade do órgão. O autor reflete sobre a evolução do conceito de guerra desde a II Guerra Mundial até os dias atuais, destacando a transição do jus ad bellum para o jus contra bellum.",
+      "A redação estabelece uma conexão clara entre os princípios discutidos por Einstein e Freud no enunciado e a política externa brasileira. A linguagem é formal e adequada ao contexto acadīmico do CACD, sem erros gramaticais identificáveis."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: A redação apresenta uma estrutura clara e coerente, com uma boa legibilidade e estilo formal apropriado para o contexto diplomático.",
+      "1B: A argumentação é objetiva e sistematizada, utilizando exemplos históricos pertinentes para defender os pontos de vista.",
+      "1C: Demonstra excelente capacidade de análise e reflexão ao discutir a complexidade das relações internacionais e a necessidade de equilibrar idealismo e pragmatismo na busca pela paz.",
+      "CGPL: A correção gramatical é impecável, sem erros ortográficos ou de pontuação."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma boa coerência e legibilidade, com um estilo claro e formal adequado ao contexto acadêmico e diplomático.",
+      "A argumentação é objetiva e bem sistematizada, com informações pertinentes sobre a atuação diplomática brasileira e a estrutura da ONU.",
+      "O texto demonstra uma excelente capacidade de análise e reflexão ao abordar a evolução do conceito de guerra no contexto internacional pós-Segunda Guerra Mundial e a relevância de uma reforma no Conselho de Segurança da ONU para promover igualdade sem comprometer a efetividade na manutenção da paz."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com introdução que contextualiza o tema e uma conclusão que retoma os argumentos principais. O texto é legível e possui um estilo apropriado para um documento acadêmico.",
+      "A argumentação é objetiva e bem sistematizada, utilizando exemplos históricos para ilustrar os pontos discutidos. As informações são pertinentes e diretamente relacionadas ao tema proposto.",
+      "A análise e reflexão são profundas e abrangentes, demonstrando uma excelente compreensão dos princípios diplomáticos brasileiros e das dinâmicas internacionais. O autor articula de maneira eficaz a relação entre idealismo e pragmatismo na diplomacia.",
+      "Corre��o gramatical e propriedade da linguagem estão excelentes, sem erros gramaticais identificados."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma argumentação sólida e clara sobre a relevância dos princípios do pacifismo e da igualdade entre as nações na diplomacia brasileira, especialmente no contexto das Nações Unidas. O autor demonstra um excelente domínio do tema, utilizando exemplos históricos pertinentes e discutindo a evolução do papel do Conselho de Segurança da ONU (CSNU) na manutenção da paz. A linguagem é formal e adequada, sem erros gramaticais evidentes. A estrutura do texto é bem organizada, com introdução, desenvolvimento e conclusão claramente definidos. A argumentação é consistente e reflete uma compreensão profunda das complexidades das relações internacionais. No entanto, há pequenas oportunidades para aprofundar certos pontos e garantir uma reflexão ainda mais rica sobre o tema, o que justifica uma nota ligeiramente abaixo do máximo."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização do texto e desenvolvimento do tema, com argumentação clara e coerente. A linguagem é apropriada para o contexto, com correção gramatical e propriedade na utilização da língua portuguesa. A reflexão sobre o tema é profunda e bem fundamentada, utilizando exemplos históricos pertinentes para ilustrar os argumentos. Apenas a nota foi ajustada considerando a complexidade da argumentação e a necessidade de uma conclusão ligeiramente mais impactante."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente organização e desenvolvimento do tema, com argumentação clara e reflexiva sobre a questão da guerra e da diplomacia brasileira.",
+      "Correção gramatical impecável, sem erros ortográficos, de concordância ou de pontuação.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, refletindo um alto grau de domínio do idioma e do tema.",
+      "O candidato demonstrou habilidade em conectar história, princípios diplomáticos e situações contempor≪neas, enriquecendo a discuss≺o.",
+      "O texto segue estritamente os crit≞rios de organiza≺o lógica e clareza na exposi≺o dos argumentos."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 55.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização e desenvolvimento do tema, abordando de maneira clara e coerente os princípios do pacifismo e da igualdade entre as nações. A argumentação é robusta e bem fundamentada, com exemplos históricos pertinentes que enriquecem a discussão. A linguagem é apropriada para o contexto, com correção gramatical e vocabulário avançado. A reflexão sobre a reforma do Conselho de Segurança da ONU é relevante e articulada de forma convincente.",
+      "A redação poderia ser ainda mais completa se incluísse uma análise mais aprofundada sobre os instintos humanos de agressividade e destruição mencionados por Freud, relacionando-os diretamente com as políticas internacionais e a necessidade de evoluơo cultural para mitigar tais tend겁ncias.",
+      "A conclus겁o reforca bem a ideia de que uma reforma no CSNU pode equilibrar idealismo e pragmatismo, mas poderia ser um pouco mais enfatizada na soluac83o proposta para os conflitos contemporac82neos."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  }
+]

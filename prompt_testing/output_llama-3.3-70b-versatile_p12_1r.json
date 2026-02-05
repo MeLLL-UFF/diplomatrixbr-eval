@@ -1,0 +1,123 @@
+[
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e objetiva, com uma introdução que contextualiza os discursos dos embaixadores Souza Dantas e Pedro Leão Velloso.",
+      "A argumentação é coerente e bem fundamentada, com referências históricas e conceituais relevantes.",
+      "A análise e reflexão sobre a política externa brasileira e sua relação com a defesa da paz e a busca pela igualdade material entre as nações são profundas e bem articuladas.",
+      "A redação não apresenta erros gramaticais ou de pontuação.",
+      "A linguagem é clara e objetiva, com um estilo apropriado para uma redação acadêmica."
+    ],
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "erros_gramaticais": [
+      "pode-se notar um pequeno erro de pontuação",
+      "e um erro de concordância verbal"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente",
+      "O candidato demonstra uma boa compreensão do tema e dos critérios de avaliação",
+      "A redação poderia ser melhorada com uma revisão mais cuidadosa da gramática e da pontuação"
+    ],
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "erros_gramaticais": [
+      "pequeno erro de pontuacao",
+      "erro de concordancia"
+    ],
+    "feedbacks": [
+      "A redacao apresenta uma boa estrutura e organizacao",
+      "A argumentacao e a analise sao objetivas e pertinentes",
+      "A redacao demonstra uma boa compreensao do tema e dos autores citados"
+    ],
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "erros_gramaticais": [
+      "poucos erros de pontuação",
+      "algumas frases longas e complexas"
+    ],
+    "feedbacks": [
+      "a redação apresenta uma boa estrutura e organização",
+      "a argumentação é clara e objetiva",
+      "a análise e reflexão sobre o tema são profundas e bem fundamentadas",
+      "a redação poderia ser melhorada com uma revisão mais cuidadosa da pontuação e da estrutura das frases"
+    ],
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com introdução, desenvolvimento e conclusão bem definidos.",
+      "O texto demonstra uma boa capacidade de argumentação, com uso de exemplos históricos e referências a teorias e autores de Relações Internacionais.",
+      "A linguagem é clara e objetiva, com boa escolha de palavras e frases.",
+      "A redação apresenta uma boa análise e reflexão sobre o tema, com consideração de diferentes perspectivas e críticas."
+    ],
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura lógica e coerente, com introdução, desenvolvimento e conclusão bem definidos.",
+      "O texto demonstra uma boa capacidade de argumentação, com uso de exemplos históricos e referências a teorias e autores de Relações Internacionais.",
+      "A linguagem é clara e objetiva, com boa escolha de vocabulário e estrutura de frases."
+    ],
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "modelo": "llama-3.3-70b-versatile",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  }
+]
