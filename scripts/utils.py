@@ -38,13 +38,22 @@ def get_mean(filepath: str, num_runs: int) -> pd.DataFrame:
     df["faixa_numerica"] = df["faixa"].replace(mapping_faixas)
     df[cols_to_agg] = df[cols_to_agg].apply(pd.to_numeric, errors='coerce')
     df["group"] = df.index // num_runs
+    df["nota_final"] = df["nota_final"].fillna(df["faixa_numerica"])
 
     agg_dict = {col: "first" for col in df.columns if col not in cols_to_agg}
     for col in cols_to_agg:
-        agg_dict[col] = "mean"
+        if col == "nota_final":
+            agg_dict[col] = ["mean", "std"]
+        else:
+            agg_dict[col] = "mean"
 
     df = df.groupby("group").agg(agg_dict).reset_index(drop=True).drop(columns=["group", "versao"]).round(4)
-    df["nota_final"] = df["nota_final"].fillna(df["faixa_numerica"])
+    
+    df.columns = [
+        f"{col}_{stat}" if stat == "std" else col
+        for col, stat in df.columns
+    ]
+
     df.drop(columns=["faixa_numerica"], inplace=True)
     df.drop(columns=["faixa"], inplace=True)
 
