@@ -1,0 +1,45 @@
+[
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema e uma conclusão que sintetiza os argumentos apresentados. O texto é legível e segue um estilo apropriado para um concurso de carreira diplomática.",
+      "A argumentação é objetiva e bem sistematizada, com exemplos históricos pertinentes e referências claras ao desenvolvimento do comércio internacional e ao papel da diplomacia brasileira. As informações são relevantes e diretamente ligadas ao tema proposto.",
+      "O candidato demonstra uma excelente capacidade de análise e reflexão ao conectar a teoria de Huntington com a realidade do comércio internacional contemporâneo. A evolução do papel do Brasil no cenário mundial ≤ econômico ≤ ≤ ≤ tambêm ≤ ≤ ≤ ≤ abordada de maneira perspicaz, destacando a importância da cooperaç≤o multilateral.",
+      "O texto estạ livre de erros gramaticais, o que demonstra um excelente domínio da norma padrão da língua portuguesa."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 10,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 45.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  }
+]
