@@ -126,7 +126,7 @@ def main(n_iteracoes, temps, anos, lista_prompts):
       json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
       file.close()
 
-  output_path = os.path.join(os.getcwd(), "prompt_testing", f'output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+  output_path = os.path.join(os.getcwd(), "prompt_testing", f'0.9_output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
