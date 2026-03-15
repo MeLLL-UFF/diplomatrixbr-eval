@@ -42,9 +42,9 @@ def main(num_runs, eval_path, human_path, model, model_version):
         df_notas[f"p{prompt}, t{temp}"] = group["nota_final"].values
     
     df_area_sob_grafico = pd.DataFrame.from_dict(areas, orient='index', columns=['prompt', 'temp', 'area_sob_curva', 'mae', 'rmse']).reset_index(drop=True)
-    # scaler = MinMaxScaler()
-    # df_notas_normalizado = scaler.fit_transform(df_notas)
-    # df_notas_normalizado = pd.DataFrame(df_notas_normalizado, columns=df_notas.columns, index=df_notas.index)
+    scaler = MinMaxScaler()
+    df_notas_normalizado = scaler.fit_transform(df_notas)
+    df_notas_normalizado = pd.DataFrame(df_notas_normalizado, columns=df_notas.columns, index=df_notas.index)
 
     # Gerando gráficos
     # 1. Distribuição de Notas
@@ -96,10 +96,10 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 ![Comparação de Número de Erros](comparacao_num_erros.png)
 
 ## 5. Correlação de Pearson
-{df_notas.corr(method='pearson').to_markdown()}
+{df_notas_normalizado.corr(method='pearson').to_markdown()}
 
 ## 6. Correlação de Spearman
-{df_notas.corr(method='spearman').to_markdown()}
+{df_notas_normalizado.corr(method='spearman').to_markdown()}
 
 ## Estatísticas Descritivas
 ### Modelo {model}-{model_version}

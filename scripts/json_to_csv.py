@@ -5,7 +5,7 @@ import time
 
 from utils import create_new_row
 
-path_json_response = os.path.join(os.getcwd(), "prompt_testing", "output_sabia-3.1_p7-12_10r.json")
+path_json_response = os.path.join(os.getcwd(), "prompt_testing", "output_sabia-3.1_2018_p7-12_3r.json")
 data_atual = time.strftime("%d.%m.%Y-%H.%M.%S")
 
 with open(path_json_response, 'r') as json_file:
