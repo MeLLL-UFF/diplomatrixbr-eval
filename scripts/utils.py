@@ -8,6 +8,7 @@ mapping_faixas = {
     "Boa": 45,
     "Regular": 40,
     "Fraco": 30,
+    "indeterminado": 0
 }
 
 def create_new_row(data: dict) -> dict:

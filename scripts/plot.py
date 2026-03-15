@@ -80,7 +80,7 @@ def plot_eval_human_scores(df, output_path):
     axes[0].set_title("Análise de Nota Gerada por Redação")
     axes[0].set_xlabel("Redação")
     axes[0].set_ylabel("Nota Final")
-    axes[0].set_ylim(45, 60)
+    axes[0].set_ylim(35, 60)
     axes[0].legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
     axes[0].spines[['top', 'right']].set_visible(False)
 
@@ -94,7 +94,7 @@ def plot_eval_human_scores(df, output_path):
     axes[1].set_title("Análise de Nota Humana por Redação")
     axes[1].set_xlabel("Redação")
     axes[1].set_ylabel("Nota Final")
-    axes[1].set_ylim(45, 60)
+    axes[1].set_ylim(35, 60)
     axes[1].spines[['top', 'right']].set_visible(False)
 
     plt.suptitle("Comparação de Nota Gerada e Nota Humana por Redação", fontsize=16)
