@@ -8,8 +8,8 @@ from sklearn.metrics import cohen_kappa_score, roc_auc_score
 from sklearn.preprocessing import MinMaxScaler
 import yaml
 
-from plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error
-from utils import get_mean
+from .plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error
+from .utils import get_mean
 
 def main(num_runs, eval_path, human_path, model, model_version):
     root_path = os.getcwd()
@@ -18,6 +18,13 @@ def main(num_runs, eval_path, human_path, model, model_version):
 
     # Carregando dados
     df_eval = get_mean(eval_path, num_runs)
+
+    #Tratando apenas hiperparâmetros desejáveis
+    df_eval["prompt"] = df_eval["prompt"].astype(int)
+    df_eval = df_eval[(df_eval["prompt"] != 7) & (df_eval["prompt"] != 10)]
+    df_eval["temp"] = df_eval["temp"].astype(float)
+    df_eval = df_eval[df_eval["temp"] != 0.9]
+
     df_human = pd.read_csv(human_path)
     df_human.drop(columns=["versao", "prompt", "temp", "faixa"], inplace=True)
 
@@ -26,13 +33,15 @@ def main(num_runs, eval_path, human_path, model, model_version):
     df_human[["redacao", "nota_final"]].rename(columns={"nota_final": "nota_humana"}), on="redacao")
     df_merged["val_error"] =  abs(df_merged["nota_humana"] - df_merged["nota_final"])
 
+    #print(df_merged)
+
     df_notas = pd.DataFrame()
     df_notas['redacao'] = df_merged["redacao"].unique()
     df_notas = df_notas.set_index('redacao')
     df_notas['human'] = df_human["nota_final"].values
 
     areas = {}
-    for (prompt, temp), group in df_merged.groupby(["prompt", "temp"]):  
+    for (prompt, temp), group in df_merged.groupby(["prompt", "temp"]):
         area = np.trapezoid(group["val_error"], group["redacao"])
         mae = group['val_error'].mean()
         rmse = np.sqrt((group['val_error'] ** 2).mean())

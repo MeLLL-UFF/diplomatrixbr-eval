@@ -42,6 +42,11 @@ def plot_distribuicao_notas(df_eval, df_human, prompts, output_path):
     plt.close()
 
 def plot_val_error(df, output_path):
+
+    df = df.copy()
+    df["prompt"] = df["prompt"].astype(str)
+    df["prompt"] = df["prompt"].replace({"8":"8 - Critério SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Critério COM padrão", "12":"12 - Faixa COM padrão"})
+
     g = sns.relplot(
         data=df,
         x="redacao",
@@ -52,7 +57,7 @@ def plot_val_error(df, output_path):
         marker="o",
         height=5,
         aspect=1.2,
-        palette = ["#54B8D9", "#F83BBFB1", "#7ED07E", "#3030C0", "#D41111", "#2E772E"]
+        palette = ["#FF8400FF", "#7ED07E", "#D41111", "#2E772E"]
     )
 
     g._legend.set_bbox_to_anchor((1.15, 0.5))
@@ -66,6 +71,12 @@ def plot_val_error(df, output_path):
 
 def plot_eval_human_scores(df, output_path):
     fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+    
+    df = df.copy()
+    df = df.sort_values(by=["prompt", "nota_humana"], ascending=[True, False])
+    df["redacao"] = df["redacao"].astype(str)
+    df["prompt"] = df["prompt"].astype(str)
+    df["prompt"] = df["prompt"].replace({"8":"8 - Critério SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Critério COM padrão", "12":"12 - Faixa COM padrão"})
 
     sns.lineplot(
         data=df,
@@ -74,8 +85,9 @@ def plot_eval_human_scores(df, output_path):
         hue="prompt",
         style="temp",
         marker="o",
-        palette=["#54B8D9", "#F83BBFB1", "#7ED07E", "#3030C0", "#D41111", "#2E772E"],
-        ax=axes[0]
+        palette=["#FF8400FF", "#7ED07E", "#D41111", "#2E772E"],
+        ax=axes[0],
+        sort=False
     )
     axes[0].set_title("Análise de Nota Gerada por Redação")
     axes[0].set_xlabel("Redação")
@@ -89,7 +101,8 @@ def plot_eval_human_scores(df, output_path):
         x="redacao",
         y="nota_humana",
         marker="o",
-        ax=axes[1]
+        ax=axes[1],
+        sort=False
     )
     axes[1].set_title("Análise de Nota Humana por Redação")
     axes[1].set_xlabel("Redação")
@@ -105,6 +118,18 @@ def plot_eval_human_scores(df, output_path):
 def plot_eval_human_num_errors(df_merged, df_human, output_path):
     fig, axes = plt.subplots(1, 2, figsize=(14, 5))
 
+    df_human = df_human.copy()
+    df_human = df_human.sort_values(by=["num_errors"], ascending=False)
+    df_human["redacao"] = df_human["redacao"].astype(str)
+
+    df_merged = df_merged.copy()
+    df_merged = df_merged.sort_values(by=["prompt", "num_errors"], ascending=[True,False])
+    df_merged["redacao"] = df_merged["redacao"].astype(str)
+
+    df_merged["prompt"] = df_merged["prompt"].astype(str)
+    df_merged["prompt"] = df_merged["prompt"].replace({"8":"8 - Critério SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Critério COM padrão", "12":"12 - Faixa COM padrão"})
+
+
     sns.lineplot(
         data=df_merged,
         x="redacao",
@@ -112,7 +137,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path):
         hue="prompt",
         style="temp",
         marker="o",
-        palette=["#54B8D9", "#F83BBFB1", "#7ED07E", "#3030C0", "#D41111", "#2E772E"],
+        palette=["#FF8400FF", "#7ED07E", "#D41111", "#2E772E"],
         ax=axes[0]
     )
     axes[0].set_title("Análise de Número de Erros Gerados por Redação")
@@ -127,7 +152,8 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path):
         x="redacao",
         y="num_errors",
         marker="o",
-        ax=axes[1]
+        ax=axes[1],
+        sort=False
     )
     axes[1].set_title("Análise de Número de Erros Humanos por Redação")
     axes[1].set_xlabel("Redação")
