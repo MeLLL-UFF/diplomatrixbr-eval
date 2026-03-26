@@ -33,8 +33,6 @@ def main(num_runs, eval_path, human_path, model, model_version):
     df_human[["redacao", "nota_final", "num_errors"]].rename(columns={"nota_final": "nota_humana", "num_errors": "erros_humano"}), on="redacao")
     df_merged["val_error"] =  abs(df_merged["nota_humana"] - df_merged["nota_final"])
 
-    #print(df_merged)
-
     df_notas = pd.DataFrame()
     df_notas['redacao'] = df_merged["redacao"].unique()
     df_notas = df_notas.set_index('redacao')

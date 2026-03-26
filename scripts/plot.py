@@ -64,7 +64,11 @@ def plot_val_error(df, output_path):
     ax.set_ylabel("Erro")
     ax.spines[['top', 'right']].set_visible(False)
     ax.legend(bbox_to_anchor=(0.97, 0.8), loc="upper left")
-    ax.set_ylim(0,30)
+    
+    if (max(df["val_error"].to_list()) > 30):
+        ax.set_ylim(0,30)
+    else:
+        ax.set_ylim()
 
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
     plt.savefig(f"{output_path}/area_val_error.png", dpi=300, bbox_inches='tight')
@@ -126,7 +130,6 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path):
     df_merged = df_merged.copy()
     df_merged = df_merged.sort_values(by=["erros_humano", "redacao"], ascending=[False, True])
     df_merged["redacao"] = df_merged["redacao"].astype(str)
-    print(df_merged[["redacao", "prompt", "num_errors", "erros_humano"]])
 
     df_merged["prompt"] = df_merged["prompt"].astype(str)
     df_merged["prompt"] = df_merged["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
