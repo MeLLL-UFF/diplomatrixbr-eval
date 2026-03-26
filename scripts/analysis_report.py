@@ -21,7 +21,7 @@ def main(num_runs, eval_path, human_path, model, model_version):
 
     #Tratando apenas hiperparâmetros desejáveis
     df_eval["prompt"] = df_eval["prompt"].astype(int)
-    df_eval = df_eval[(df_eval["prompt"] != 7) & (df_eval["prompt"] != 10)]
+    df_eval = df_eval[(df_eval["prompt"] != 10)]
     df_eval["temp"] = df_eval["temp"].astype(float)
     df_eval = df_eval[df_eval["temp"] != 0.9]
 
@@ -30,7 +30,7 @@ def main(num_runs, eval_path, human_path, model, model_version):
 
     # Calculando métricas adicionais
     df_merged = df_eval.merge(
-    df_human[["redacao", "nota_final"]].rename(columns={"nota_final": "nota_humana"}), on="redacao")
+    df_human[["redacao", "nota_final", "num_errors"]].rename(columns={"nota_final": "nota_humana", "num_errors": "erros_humano"}), on="redacao")
     df_merged["val_error"] =  abs(df_merged["nota_humana"] - df_merged["nota_final"])
 
     #print(df_merged)

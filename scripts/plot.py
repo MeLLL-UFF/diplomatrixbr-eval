@@ -42,30 +42,31 @@ def plot_distribuicao_notas(df_eval, df_human, prompts, output_path):
     plt.close()
 
 def plot_val_error(df, output_path):
+    fig, ax = plt.subplots(figsize=(10, 6))
 
     df = df.copy()
     df["prompt"] = df["prompt"].astype(str)
-    df["prompt"] = df["prompt"].replace({"8":"8 - Critério SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Critério COM padrão", "12":"12 - Faixa COM padrão"})
+    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
 
-    g = sns.relplot(
+    sns.lineplot(
         data=df,
         x="redacao",
         y="val_error",
         hue="prompt",
         style="temp",
-        kind="line",
         marker="o",
-        height=5,
-        aspect=1.2,
-        palette = ["#FF8400FF", "#7ED07E", "#D41111", "#2E772E"]
+        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#D41111", "#2E772E"],
+        ax=ax
     )
 
-    g._legend.set_bbox_to_anchor((1.15, 0.5))
+    ax.set_title("Análise de Erro de Validação")
+    ax.set_xlabel("Redação")
+    ax.set_ylabel("Erro")
+    ax.spines[['top', 'right']].set_visible(False)
+    ax.legend(bbox_to_anchor=(0.97, 0.8), loc="upper left")
+    ax.set_ylim(0,30)
 
-    plt.suptitle("Análise de Erro de Validação")
-    plt.tight_layout()
-    plt.xlabel("Redação")
-    plt.ylabel("Erro")
+    plt.tight_layout(rect=[0, 0, 1.1, 0.95])
     plt.savefig(f"{output_path}/area_val_error.png", dpi=300, bbox_inches='tight')
     plt.close()
 
@@ -76,7 +77,7 @@ def plot_eval_human_scores(df, output_path):
     df = df.sort_values(by=["prompt", "nota_humana"], ascending=[True, False])
     df["redacao"] = df["redacao"].astype(str)
     df["prompt"] = df["prompt"].astype(str)
-    df["prompt"] = df["prompt"].replace({"8":"8 - Critério SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Critério COM padrão", "12":"12 - Faixa COM padrão"})
+    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
 
     sns.lineplot(
         data=df,
@@ -85,7 +86,7 @@ def plot_eval_human_scores(df, output_path):
         hue="prompt",
         style="temp",
         marker="o",
-        palette=["#FF8400FF", "#7ED07E", "#D41111", "#2E772E"],
+        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#D41111", "#2E772E"],
         ax=axes[0],
         sort=False
     )
@@ -119,15 +120,16 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path):
     fig, axes = plt.subplots(1, 2, figsize=(14, 5))
 
     df_human = df_human.copy()
-    df_human = df_human.sort_values(by=["num_errors"], ascending=False)
+    df_human = df_human.sort_values(by=["num_errors", "redacao"], ascending=[False, True])
     df_human["redacao"] = df_human["redacao"].astype(str)
 
     df_merged = df_merged.copy()
-    df_merged = df_merged.sort_values(by=["prompt", "num_errors"], ascending=[True,False])
+    df_merged = df_merged.sort_values(by=["erros_humano", "redacao"], ascending=[False, True])
     df_merged["redacao"] = df_merged["redacao"].astype(str)
+    print(df_merged[["redacao", "prompt", "num_errors", "erros_humano"]])
 
     df_merged["prompt"] = df_merged["prompt"].astype(str)
-    df_merged["prompt"] = df_merged["prompt"].replace({"8":"8 - Critério SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Critério COM padrão", "12":"12 - Faixa COM padrão"})
+    df_merged["prompt"] = df_merged["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
 
 
     sns.lineplot(
@@ -137,7 +139,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path):
         hue="prompt",
         style="temp",
         marker="o",
-        palette=["#FF8400FF", "#7ED07E", "#D41111", "#2E772E"],
+        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#D41111", "#2E772E"],
         ax=axes[0]
     )
     axes[0].set_title("Análise de Número de Erros Gerados por Redação")
