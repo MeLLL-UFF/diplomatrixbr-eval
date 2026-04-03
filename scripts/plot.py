@@ -46,7 +46,7 @@ def plot_val_error(df, output_path):
 
     df = df.copy()
     df["prompt"] = df["prompt"].astype(str)
-    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
+    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
 
     sns.lineplot(
         data=df,
@@ -55,7 +55,7 @@ def plot_val_error(df, output_path):
         hue="prompt",
         style="temp",
         marker="o",
-        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#D41111", "#2E772E"],
+        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E"],
         ax=ax
     )
 
@@ -81,7 +81,7 @@ def plot_eval_human_scores(df, output_path):
     df = df.sort_values(by=["prompt", "nota_humana"], ascending=[True, False])
     df["redacao"] = df["redacao"].astype(str)
     df["prompt"] = df["prompt"].astype(str)
-    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
+    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
 
     sns.lineplot(
         data=df,
@@ -90,7 +90,7 @@ def plot_eval_human_scores(df, output_path):
         hue="prompt",
         style="temp",
         marker="o",
-        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#D41111", "#2E772E"],
+        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E"],
         ax=axes[0],
         sort=False
     )
@@ -132,7 +132,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path):
     df_merged["redacao"] = df_merged["redacao"].astype(str)
 
     df_merged["prompt"] = df_merged["prompt"].astype(str)
-    df_merged["prompt"] = df_merged["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
+    df_merged["prompt"] = df_merged["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
 
 
     sns.lineplot(
@@ -142,7 +142,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path):
         hue="prompt",
         style="temp",
         marker="o",
-        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#D41111", "#2E772E"],
+        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E"],
         ax=axes[0]
     )
     axes[0].set_title("Análise de Número de Erros Gerados por Redação")

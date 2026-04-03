@@ -1,0 +1,398 @@
+[
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação fluida e concatenada sobre o papel do diplomata como produtor de informação confiável e privilegiada, abordando a evolução da atividade diplomática desde o século XIX até a atualidade. A linguagem é clara, correta e adequada ao contexto, com poucos erros gramaticais. A estrutura lógica do texto é coerente, e a reflexão e análise são bem desenvolvidas. Apenas um erro gramatical foi encontrado, relacionado à falta de um artigo antes de 'consequências imediatas'."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação fluida e concatenada sobre o papel do diplomata como produtor de informação confiável e privilegiada, abordando a evolução da atividade diplomática desde o século XIX até a atualidade. A linguagem é clara e correta, com poucos erros gramaticais. O texto é bem estruturado, com uma boa interpretação do tema proposto e uma argumentação consistente. Apenas um erro gramatical foi encontrado, relacionado à falta de um artigo antes de 'consequências imediatas'. A nota reflete a capacidade de reflexão e análise, bem como a qualidade da linguagem empregada."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 55.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação fluida e concatenada sobre o papel do diplomata como produtor de informação confiável e privilegiada, abordando a evolução da atividade diplomática desde o século XIX até a atualidade. A linguagem é clara e correta, com poucos erros gramaticais. A estrutura lógica do texto é bem desenvolvida, e a fluidez de expressão é excelente. A reflexão e análise são profundas, e a argumentação é original e autônoma. Apenas um pequeno erro gramatical foi encontrado, onde deveria ser 'consequências imediatas,' em vez de 'consequências imediatas*'."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação fluida e concatenada sobre o papel do diplomata como produtor de informação confiável diante das transformações tecnológicas. A estrutura lógica do texto é clara, com uma boa interpretação do tema proposto. A linguagem é adequada e correta, com poucos desvios gramaticais. A argumentação é consistente, embora possa ser um pouco mais aprofundada em alguns pontos. A correção gramatical é excelente, exceto pelo uso inadequado do asterisco em 'consequências imediatas*', que parece ser um erro de digitação ou formatação."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação fluida e concatenada sobre o papel do diplomata como produtor de informação confiável diante das transformações tecnológicas. A estrutura lógica do texto é clara e a reflexão é profunda, abordando tanto a evolução histórica quanto a realidade contemporânea da diplomacia. A linguagem é apropriada, com poucos erros gramaticais. A argumentação é robusta, embora possa ser aprimorada em alguns pontos para alcançar a nota máxima."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação clara e bem estruturada sobre o papel do diplomata na produção de informação confiável em um contexto de transformação tecnológica e social. O texto aborda coerentemente os três momentos cronológicos mencionados no enunciado e faz uso eficiente das informações apresentadas. A linguagem é formal e adequada, com poucos erros gramaticais. A argumentação é fluida e bem concatenada, embora haja pequenas falhas de fluidez e um erro de pontuação."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 45.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "*al",
+      "consequências imediatas"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação clara e bem desenvolvida sobre a evolução do papel do diplomata ao longo dos séculos, abordando adequadamente a transição de um papel mais sigiloso e de relato para um papel de análise e divulgação criteriosa de informações em um contexto de comunicação digital e redes sociais.",
+      "A estrutura do texto é lógica e fluida, com boa interpretação do tema proposto.",
+      "A linguagem é correta e adequada ao contexto, embora haja alguns deslizes gramaticais menores, como a ausência de um 'de' antes de 'consequências imediatas' e a palavra 'al' solta no texto, provavelmente um erro de digitação.",
+      "A reflexão e análise são profundas, mostrando agilidade intelectual e capacidade de relacionar diferentes épocas e contextos.",
+      "Originalidade e autonomia no raciocínio são evidentes, com uma perspectiva clara sobre o papel atual da diplomacia."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma boa organização e desenvolvimento do tema, com argumentação clara e coerente. A linguagem é correta e adequada ao contexto, com poucos desvios gramaticais. A reflexão sobre o papel do diplomata na era digital é pertinente e bem fundamentada, embora haja pequenos deslizes na fluidez e estruturação de algumas ideias, como no uso do asterisco sem explicação."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização do texto e desenvolvimento do tema, com argumentação clara e reflexão sobre o papel do diplomata na era digital. A linguagem é correta e adequada ao contexto, com poucos desvios gramaticais. O uso de pontuação é geralmente bem feito, exceto por um erro de pontuação que poderia ser corrigido para melhorar a fluidez. A argumentação é fluida e bem concatenada, abordando as transformações na diplomacia e a importância da produção de informação confiável e responsável."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização do texto e desenvolvimento do tema. A argumentação é fluida, bem concatenada e reflete sobre o papel do diplomata ao longo dos séculos XIX e XX, além de conectar esses períodos com a realidade contemporânea. A linguagem utilizada é adequada e correta, embora haja um erro gramatical leve e um uso inadequado de pontuação em 'consequências imediatas*' que deveria ser 'consequências imediatas,'. A interpretação do texto proposto e a capacidade de argumentação são satisfatórias e apresentam originalidade e autonomia."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.9",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma argumentação fluida e concatenada sobre o papel do diplomata na produção e divulgação de informações confiáveis. Contudo, é identificado um erro de pontuação com o uso inadequado de asterisco ao invés de uma vírgula ou ponto. A linguagem é adequada e o texto é bem estruturado, apresentando um bom encadeamento lógico, com interpretação e análise claras das transformações na diplomacia ao longo do tempo, em especial com o advento das comunicações digitais."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.9",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "*consequências imediatas, as informações produzidas pelos diplomatas constituem narrativas"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, com uma argumentação fluida e bem concatenada, destacando as diferenças temporais entre os períodos analisados e enfatizando o papel do diplomata na produção de informações confiáveis e relevantes. A estrutura do texto é lógica, com boa interpretação do trecho de Oliveira Lima. O uso da linguagem é apropriado e a correção gramatical é quase impecável. Apenas um erro gramatical menor foi detectado, que não comprometeu significativamente a clareza do texto. A argumentação é rigorosa, original e autônoma, proporcionando uma análise aprofundada e uma perspectiva crítica sobre o papel da diplomacia na era digital."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 11,
+    "temp": "0.9",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação sólida e bem estruturada, abordando de maneira clara e coerente a evolução do papel do diplomata ao longo dos séculos. A reflexão sobre a diplomacia pública e a importância da informação confiável no contexto contemporâneo é relevante e bem fundamentada. A linguagem empregada é adequada e correta, com poucos deslizes gramaticais. A fluidez e a clareza do texto evidenciam um alto nível de compreensão e domínio do tema proposto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "Texto articulado e profundo, com argumentação sólida e relevante.",
+      "Estilo maduro e linguagem adequada ao contexto.",
+      "Apresenta poucos deslizes gramaticais, como a falta de uma conjunção após 'consequências imediatas' para conectar a ideia.",
+      "Demonstra excelente compreensão e desenvolvimento do tema proposto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação sólida e bem estruturada, abordando de maneira clara e coerente a evolução do papel do diplomata ao longo dos séculos. A reflexão sobre a diplomacia pública e a importância da informação confiável no contexto contemporâneo é relevante e bem fundamentada. A linguagem é apropriada e o texto é fluido, com poucos deslizes gramaticais. Apenas um erro gramatical foi encontrado, que não compromete a qualidade geral do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.0",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "Texto articulado e profundo, com argumentação sólida e relevante.",
+      "Estilo maduro e linguagem adequada ao contexto.",
+      "Apenas um erro gramatical, que não compromete a clareza do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma argumentação sólida e bem estruturada, abordando as transformações na diplomacia desde o século XIX até os dias atuais. A reflexão sobre o papel do diplomata na era digital é profunda e relevante, com exemplos claros e uma análise detalhada das implicações do uso de tecnologias modernas na diplomacia. A linguagem é formal e adequada, com poucos deslizes gramaticais. A fluidez e a clareza do texto são notáveis, assim como a capacidade de interpretação e articulação das ideias. Apenas um pequeno erro de pontuação foi encontrado, onde deveria haver uma vírgula ou ponto após 'consequências imediatas'."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação sólida e bem estruturada, abordando de maneira clara e profunda o papel do diplomata na produção de informação confiável em diferentes épocas. A comparação entre os séculos XIX, XX e a realidade contemporânea é feita com rigor e originalidade. A linguagem empregada é adequada e correta, com poucos deslizes gramaticais. A fluidez de expressão e a coesão textual são notáveis, refletindo um alto nível de compreensão e desenvolvimento do tema proposto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação sólida e coesa sobre o papel do diplomata como produtor de informação confiável, abordando as transformações tecnológicas e suas implicações na diplomacia. A análise é profunda e relevante, com uso adequado da norma culta e fluidez de expressão. Apenas um erro gramatical foi encontrado, relacionado a uma pontuação inadequada, que não compromete a qualidade geral do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma argumentação sólida e relevante, com uma boa compreensão do tema e uma estrutura lógica clara. A linguagem é apropriada e reflete um bom domínio da norma culta, com exceção de um pequeno erro de pontuação. As ideias são articuladas de maneira profunda e com originalidade, evidenciando um excelente nível analítico e estilístico."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "consequências imediatas*"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação sólida e articulada, abordando as transformações na diplomacia desde o século XIX até os dias atuais. A análise é profunda, relevante e bem fundamentada, com uso apropriado de exemplos e uma clara compreensão do papel do diplomata na era digital. O texto é claro, coeso e reflete um excelente domínio da norma culta, com um erro gramatical mínimo que não compromete a qualidade geral do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.5",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "áreas da avaliação histórica"
+    ],
+    "feedbacks": [
+      "Ótimo desenvolvimento do tema, com argumentação sólida e linguagem culta. Apenas uma pequena falha gramatical na expressão 'para a avaliação histórica'."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.9",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "*para além das consequências imediatas,"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente compreensão e desenvolvimento do tema proposto, com uma argumentação sofisticada e bem fundamentada, evidenciando um alto nível de reflexão e análise. A estrutura é clara e coerente, facilitando a compreensão do leitor. A linguagem é apropriada, com poucos deslizes gramaticais, notando-se um erro de pontuação que não compromete a qualidade do texto. O autor articula com precisão a evolução do papel do diplomata ao longo dos séculos, desde o período pós-independência até a era digital, demonstrando um profundo domínio temático e linguístico."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.9",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto é claro, bem estruturado e apresenta uma argumentação profunda sobre o papel do diplomata.",
+      "Análise temática relevante e coerente com o padrão de resposta.",
+      "Linguagem adequada, sem erros gramaticais significantes.",
+      "Apresenta insights e reflexões pertinentes.",
+      "Boa fluidez de expressão e coesão textual."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 12,
+    "temp": "0.9",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  }
+]
