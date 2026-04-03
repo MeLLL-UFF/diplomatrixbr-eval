@@ -111,7 +111,7 @@ def main(n_iteracoes, temps, anos, lista_prompts):
               response = json.loads(response.choices[0].message.content)
               response['modelo'] = 'sabia-3.1'
               response['prompt'] = prompt['id']
-              response['temp'] = i
+              response['temp'] = float(i)
               response['versao'] = j + 1
               response['essay'] = numero_redacao
               response['ano'] = ano

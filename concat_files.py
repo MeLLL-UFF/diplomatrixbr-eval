@@ -57,12 +57,8 @@ def concat_iter_aux(file_path, **kwargs):
 
     return concatenador
 
-def concat_iter():
+def concat_iter(matriz_reqs):
     #Matriz de requisições: Quais iterações serão concatenadas (arquivo, prompts, temperatura (opcional))
-    matriz_reqs = [
-        {"path": "prompt_testing\output_sabia-3.1_2022_p7-12_3r.json", "prompts" :[7, 8, 9]},
-        {"path": "prompt_testing\\0.0_0.2_0.5_0.9_output_sabia-3.1_2022_p10-12_3r.json"}
-    ]
     if "path" in matriz_reqs[0]:
         path = matriz_reqs[0]["path"]
     else:
@@ -103,10 +99,16 @@ def concat_iter():
         
         i += 1
 
-    json_ordenado = sorted(json_concat, key=lambda item: item["essay"])
+    json_ordenado = sorted(json_concat, key=lambda item: (item["essay"], item["prompt"], float(item["temp"])))
 
-    with open("prompt_testing\\FIX_0.0_0.2_0.5_0.9_output_sabia-3.1_2022_p7-12_3r.json", "w", encoding="utf-8") as file:
+#FIX_0.0_0.2_0.5_0.9_output_sabia-3.1_2022_p7-12_3r
+    with open("prompt_testing\\teste.json", "w", encoding="utf-8") as file:
         json.dump(json_ordenado, file, ensure_ascii=False)
         
 
-concat_iter()
+matriz_reqs = [
+        {"path": "prompt_testing\\0.2_output_sabia-3.1_2022_p7-9_3r.json"},
+        {"path": "prompt_testing\\0.0_0.2_0.5_0.9_output_sabia-3.1_2022_p7-12_3r.json"}
+    ]
+
+concat_iter(matriz_reqs)
