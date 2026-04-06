@@ -83,11 +83,11 @@ def main(n_iteracoes, temps, anos, lista_prompts):
 
         match prompt['id']:
           # ADICIONAR NOVOS CASOS NO SWITCH CASE CONFORME FOR INTERESSANTE
-          case 7 | 10:
+          case 7 | 10 | 13:
             formato_resposta = respostaPorCriterio
-          case 8 | 11:
+          case 8 | 11 | 14:
             formato_resposta = respostaFinal
-          case 9 | 12:
+          case 9 | 12 | 15:
             formato_resposta = respostaEmFaixa
 
         if formato_resposta is None:
@@ -115,18 +115,17 @@ def main(n_iteracoes, temps, anos, lista_prompts):
               response['ano'] = ano
               jsonGerado.append(response)
               print(f"Temperatura testada: {i}")
-              2
             except Exception as e:
               print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
     
     # Salvar resultados parciais por redação pra evitar perda de dados
     # Pode ser removido se não for necessário
-    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_{numero_redacao}_output_{response["modelo"]}_p7-12_{num_runs}r.json')
+    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_{numero_redacao}_output_{response["modelo"]}_p13-15_{num_runs}r.json')
     with open(output_path, 'w', encoding="utf-8") as file:
       json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
       file.close()
 
-  output_path = os.path.join(os.getcwd(), "prompt_testing", f'0.9_output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+  output_path = os.path.join(os.getcwd(), "prompt_testing", f'output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
