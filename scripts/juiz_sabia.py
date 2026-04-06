@@ -85,11 +85,11 @@ def main(n_iteracoes, temps, anos, lista_prompts):
 
         match prompt['id']:
           # ADICIONAR NOVOS CASOS NO SWITCH CASE CONFORME FOR INTERESSANTE
-          case 7 | 10:
+          case 7 | 10 | 13:
             formato_resposta = respostaPorCriterio
-          case 8 | 11:
+          case 8 | 11 | 14:
             formato_resposta = respostaFinal
-          case 9 | 12:
+          case 9 | 12 | 15:
             formato_resposta = respostaEmFaixa
 
         if formato_resposta is None:
@@ -123,7 +123,7 @@ def main(n_iteracoes, temps, anos, lista_prompts):
     
     # Salvar resultados parciais por redação pra evitar perda de dados
     # Pode ser removido se não for necessário
-    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_{numero_redacao}_output_{response["modelo"]}_p7-12_{num_runs}r.json')
+    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_{numero_redacao}_output_{response["modelo"]}_p13-15_{num_runs}r.json')
     with open(output_path, 'w', encoding="utf-8") as file:
       json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
       file.close()
