@@ -61,7 +61,8 @@ def main(n_iteracoes, temps, anos, lista_prompts):
 
   dados_candidatos = diplomatrix["Candidates_Essays"][ano]["Candidates"]
   try:
-    padrao_de_resposta = diplomatrix["Candidates_Essay"][ano]["Answer_Pattern"]
+    padrao_de_resposta = diplomatrix["Candidates_Essays"][ano]["Answer_Pattern"]
+    enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
   except KeyError:
     padrao_de_resposta = ""
   numero_redacao = 0
@@ -74,7 +75,8 @@ def main(n_iteracoes, temps, anos, lista_prompts):
 
       # DEFINIR AQUI QUAIS PROMPTS SERÃO TESTADOS
       if prompt['id'] in lista_prompts:
-        prompt_formatado = prompt['prompt'].replace("{padrao_resposta}", str(padrao_de_resposta)) + redacao
+        prompt_formatado = prompt['prompt'].replace("{enunciado}", str(enunciado))
+        prompt_formatado = prompt_formatado.replace("{padrao_resposta}", str(padrao_de_resposta)) + redacao
         prompt_formatado += "\n\n" + prompt['extras'] if 'extras' in prompt else ''
 
         print(f"Redação {numero_redacao} - Prompt {prompt['id']}")
@@ -109,13 +111,13 @@ def main(n_iteracoes, temps, anos, lista_prompts):
               response = json.loads(response.choices[0].message.content)
               response['modelo'] = 'sabia-3.1'
               response['prompt'] = prompt['id']
-              response['temp'] = i
+              response['temp'] = float(i)
               response['versao'] = j + 1
               response['essay'] = numero_redacao
               response['ano'] = ano
               jsonGerado.append(response)
               print(f"Temperatura testada: {i}")
-              2
+
             except Exception as e:
               print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
     
@@ -125,8 +127,12 @@ def main(n_iteracoes, temps, anos, lista_prompts):
     with open(output_path, 'w', encoding="utf-8") as file:
       json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
       file.close()
+  
+  listtemps = ""
+  for i in temp:
+    listtemps += i + "_"
 
-  output_path = os.path.join(os.getcwd(), "prompt_testing", f'0.9_output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+  output_path = os.path.join(os.getcwd(), "prompt_testing", f'{listtemps}output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()

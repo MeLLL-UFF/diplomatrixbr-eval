@@ -21,9 +21,9 @@ def main(num_runs, eval_path, human_path, model, model_version):
 
     #Tratando apenas hiperparâmetros desejáveis
     df_eval["prompt"] = df_eval["prompt"].astype(int)
-    df_eval = df_eval[(df_eval["prompt"] != 10)]
+    #df_eval = df_eval[(df_eval["prompt"] != 10)]
     df_eval["temp"] = df_eval["temp"].astype(float)
-    df_eval = df_eval[df_eval["temp"] != 0.9]
+    #df_eval = df_eval[df_eval["temp"] != 0.9]
 
     df_human = pd.read_csv(human_path)
     df_human.drop(columns=["versao", "prompt", "temp", "faixa"], inplace=True)

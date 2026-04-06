@@ -1,0 +1,982 @@
+[
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em Uma história da guerra, os conflitos são algo inerente à natureza humana à vida em comunidade. (faltou uma vírgula antes de 'à vida' para melhor clareza)",
+      "A ação diplomática teve uma função essencial na construção do regime internacional de não-proliferação nuclear, por meio de tratados que não só falam sobre o desarmamento, mas também exigem que os Estados detentores de tecnologias nucleares apresentem relatórios transparentes sobre seu arsenal e sobre suas políticas de segurança. (o uso de 'falam' é inadequado, seria melhor 'tratam' ou 'abordam')"
+    ],
+    "feedbacks": [
+      "1A: O texto é bem organizado, com uma estrutura clara e lógica. A argumentação flui de maneira coerente, e o estilo é adequado para uma redação de concurso, embora haja pequenos deslizes na pontuação e na escolha de palavras.",
+      "1B: A argumentação é objetiva e bem sistematizada, com referências históricas pertinentes e informações que sustentam os pontos levantados. O candidato faz uma boa conexão entre as ideias de Einstein e Freud e a prática da diplomacia.",
+      "1C: O candidato demonstra uma excelente capacidade de análise e reflexão ao discutir o papel da diplomacia na construção de uma cultura de paz. As referências a momentos históricos, como a mediação do Vaticano no Canal de Beagle e os acordos de desarmamento nuclear, enriquecem a discussão e mostram uma compreensão profunda do tema.",
+      "CGPL: O texto apresenta poucos erros gramaticais, indicando um bom domínio da norma culta da língua portuguesa. As correções sugeridas melhorariam ainda mais a clareza e a precisão do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema e uma conclusão que sintetiza os argumentos apresentados. O texto é legível e o estilo é adequado para uma redação acadêmica.",
+      "1B: A argumentação é objetiva e bem sistematizada, com referências pertinentes aos textos de Einstein e Freud, além de exemplos históricos relevantes. As informações são apresentadas de forma lógica e fundamentada.",
+      "1C: A análise é profunda e reflexiva, abordando diferentes aspectos da diplomacia e sua relação com a guerra. O autor faz conexões entre as ideias de Freud e momentos históricos, como a Guerra Fria e a mediação do Vaticano no conflito do Canal de Beagle, demonstrando uma compreensão ampla do tema.",
+      "CGPL: Não foram identificados erros gramaticais, ortográficos ou de pontuação, o que evidencia um excelente domínio da língua portuguesa e das normas de escrita."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Organização do texto é clara e coerente, com uma estrutura lógica e legível que facilita a compreensão. O estilo é apropriado para uma redação acadêmica.",
+      "A capacidade de argumentação é sólida, com informações pertinentes e objetivas que sustentam o ponto de vista. Há sistematização e conteúdo relevante.",
+      "A capacidade de análise e reflexão é excelente, com referências apropriadas às ideias de Freud e Einstein, além de momentos históricos relevantes, como a mediação do Vaticano no conflito do Canal de Beagle e a Guerra Fria.",
+      "Não foram identificados erros gramaticais, o que demonstra um excelente domínio da norma culta da língua portuguesa."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização do texto e desenvolvimento do tema, com coerência, clareza e capacidade de argumentação. O autor faz referência a ideias mencionadas nos textos apresentados e a momentos históricos relevantes. A correção gramatical e a propriedade da linguagem são adequadas, sem erros gramaticais significativos. A linguagem é formal e apropriada para o contexto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização do texto e desenvolvimento do tema, com coerência, clareza e capacidade de argumentação. As ideias são apresentadas de forma lógica e bem encadeadas, fazendo referência apropriada aos textos de Einstein e Freud, bem como a momentos históricos relevantes. A linguagem é adequada ao contexto, com correção gramatical e propriedade. A argumentação é robusta e reflete uma boa compreensão do papel da diplomacia na prevenção de conflitos, utilizando exemplos históricos pertinentes como a mediação do Vaticano no conflito do Canal de Beagle e os acordos de desarmamento nuclear durante a Guerra Fria.",
+      "A redação utiliza corretamente os conceitos de sociedade e sistema internacional de Hedley Bull, reforçando a ideia de que a evolução cultural e a construção de uma sociedade internacional com princípios de paz são essenciais para mitigar a violência.",
+      "O texto conclui de maneira eficaz, conectando as ideias discutidas com a realidade atual e a necessidade contínua de uma diplomacia eficiente. A menção à revolução tecnológica nos meios de comunicação como facilitador das relações internacionais é uma reflexão contemporânea e relevante."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização do texto e desenvolvimento do tema, com coerência, clareza e um bom encadeamento das ideias. O autor argumenta de maneira sólida e reflexiva sobre o papel da diplomacia na erradicação da guerra, utilizando exemplos históricos pertinentes e referências aos textos de Einstein e Freud. A linguagem é apropriada ao contexto, com uso correto de ortografia, concordância, pontuação e regência, sem erros gramaticais. A redação poderia alcançar uma pontuação ainda mais alta se apresentasse uma conclusão mais robusta e integrada, reforçando a tese central de maneira mais enfática."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação profunda e articulada, abordando o papel da diplomacia na prevenção de guerras e na construção de uma cultura de paz.",
+      "Referências históricas são pertinentes e bem integradas, como o exemplo da mediação do Vaticano no conflito do Canal de Beagle e os acordos nucleares durante a Guerra Fria.",
+      "A compreensão do tema é clara e a redação faz uso eficiente das ideias de Freud e Einstein, relacionando-as com conceitos de relações internacionais.",
+      "A linguagem é formal e adequada ao contexto, com um estilo maduro e fluente.",
+      "A estrutura lógica do texto é excelente, com uma progressão clara de ideias e uma conclusão que reitera a importância da diplomacia na era atual."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação profunda e bem estruturada, abordando a temática da guerra e da diplomacia com clareza e relevância.",
+      "A autora faz referência a ideias de Freud e Einstein, bem como a momentos históricos, como a mediação do Vaticano no conflito do Canal de Beagle e a Guerra Fria, demonstrando um excelente domínio do tema.",
+      "A linguagem é formal e adequada ao contexto, sem erros gramaticais, e o texto é coeso, com uma boa articulação entre os argumentos.",
+      "A autora utiliza exemplos históricos para reforçar a importância da diplomacia na prevenção de conflitos e na promoção da paz, mostrando uma compreensão clara e sofisticada do papel da diplomacia.",
+      "A conclusão é impactante e reflete uma visão esperançosa e realista sobre o futuro da diplomacia e a possibilidade de tornar a guerra um fenômeno obsoleto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação clara e bem estruturada, abordando o papel da diplomacia na prevenção de guerras e fazendo referência a ideias de Freud e Einstein.",
+      "A redação utiliza exemplos históricos pertinentes, como a mediação do Vaticano no conflito do Canal de Beagle e os acordos de não-proliferação nuclear durante a Guerra Fria, para sustentar seus argumentos.",
+      "A linguagem é formal e adequada ao contexto, sem erros gramaticais significativos.",
+      "O autor demonstra um entendimento profundo do tema e dos critérios apresentados, utilizando conceitos de Clausewitz e Bull para enriquecer a discussão.",
+      "A redação é coesa e articulada, com uma conclusão que reitera a importância da diplomacia e da evolução cultural para a construção de uma sociedade internacional pacífica."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: A redação apresenta uma estrutura clara e coerente, com uma introdução que estabelece a analogia entre Sísifo e a diplomacia, seguida por um desenvolvimento que explora diferentes aspectos do papel da diplomacia nas relações internacionais, conforme solicitado no enunciado. O texto é legível e possui um estilo apropriado para uma redação acadêmica.",
+      "1B: A argumentação é objetiva e bem sistematizada, com referências pertinentes aos textos de Einstein e Freud, além de exemplos históricos relevantes, como a Guerra Fria, a invasão do Iraque e a invasão da Ucrânia pela Rússia. As informações são apresentadas de forma clara e com uma análise crítica consistente.",
+      "1C: A redação demonstra uma excelente capacidade de análise e reflexão, ao integrar conceitos de diferentes áreas (filosofia, psicologia, relações internacionais) e autores (Einstein, Freud, Said, Arendt, Keohane) para discutir o papel da diplomacia. A analogia com Sísifo é bem desenvolvida e reforça a ideia de que, apesar dos desafios, a diplomacia é essencial para mitigar a violência nas relações internacionais.",
+      "CGPL: Não foram identificados erros gramaticais, ortográficos ou de pontuação. A linguagem é apropriada e formal, respeitando o estilo exigido para o CACD."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: A redação apresenta uma estrutura clara e coerente, com uma introdução que estabelece a analogia entre Sísifo e a diplomacia, seguida de desenvolvimento que explora diferentes aspectos do tema, e uma conclusão que reforça a analogia inicial. O texto é legível e o estilo é adequado, embora possa ser um pouco mais conciso em algumas partes.",
+      "1B: A argumentação é objetiva e bem sistematizada, com referências pertinentes aos textos de Einstein e Freud, além de momentos históricos relevantes como a Guerra Fria e a Segunda Guerra Mundial. As informações são apresentadas de forma clara e com boa articulação entre os pontos discutidos.",
+      "1C: A análise é profunda e reflexiva, abordando a diplomacia sob diferentes perspectivas: cultural, securitária e normativa. O autor faz uso eficiente das ideias de Freud, como a atitude cultural e o medo das consequências de uma guerra, e as relaciona com conceitos de outros teóricos, como Edward Said e Hannah Arendt, enriquecendo a discussão. A referência a Albert Camus na conclusão reforça a ideia de persistência e valor da tarefa diplomática.",
+      "CGPL: Não foram identificados erros gramaticais, ortográficos ou de pontuação. A linguagem é formal e apropriada para o contexto acadêmico e profissional do concurso."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que estabelece a analogia entre Sísifo e a diplomacia, seguida por desenvolvimento que explora diferentes aspectos do papel da diplomacia nas relações internacionais, e uma conclusão que reforça a analogia inicial.",
+      "A argumentação é objetiva e bem sistematizada, com referências pertinentes aos textos de Einstein e Freud, além de momentos históricos relevantes como a Guerra Fria e a Segunda Guerra Mundial.",
+      "A análise e reflexão são profundas, conectando conceitos complexos como 'Orientalismo' de Edward Said e 'Banalidade do Mal' de Hannah Arendt ao papel da diplomacia. A redação também faz uso eficiente das ideias de Freud sobre a evolução da violência para o direito e a importância da atitude cultural.",
+      "A linguagem é formal e apropriada para um texto acadêmico, sem erros gramaticais. A ortografia, pontuação e concordância estão corretas, e o estilo é legível e fluente."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização e desenvolvimento do tema, com argumentos claros e bem fundamentados. O texto faz referências pertinentes a ideias mencionadas nos excertos, como a atitude cultural e o medo das consequências de uma guerra, e a momentos históricos, como a Guerra Fria e a invasão da Ucrânia pela Rússia. A linguagem é apropriada, com correção gramatical e uso adequado de vocabulário. A analogia com Sísifo e a utilização de conceitos de Hannah Arendt e Edward Said enriquecem a discussão e demonstram uma boa capacidade de reflexão sobre o tema."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização e desenvolvimento do tema, com argumentos claros e bem encadeados, referenciando adequadamente as ideias de Einstein, Freud, Arendt e Said. A linguagem é propriedade e correta, sem erros gramaticais. A análise histórica é pertinente e rica, abordando momentos como a Guerra Fria, a Crise dos Mísseis, a invasão do Iraque e da Ucrânia. A analogia com Sísifo é criativa e reforça o papel contínuo e desafiador da diplomacia. A conclusão é coerente e reafirma a importância da diplomacia na promoção da paz e na evolução do direito internacional."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente organização e desenvolvimento do tema, com argumentos claros, coerentes e bem fundamentados, referenciando adequadamente as ideias de Einstein, Freud, Arendt e Said. A linguagem é propriedade e correta, sem erros gramaticais. A abordagem histórica é relevante e bem articulada, mostrando a importância da diplomacia em diferentes contextos. A analogia com Sísifo é criativa e reforça o argumento central da redação. Apenas a nota foi ligeiramente reduzida por uma pequena falta de profundidade na discussão sobre a eficácia da ONU e a persistência da guerra, que poderia ter sido mais explorada."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação profunda e articulada, fazendo uso de analogias e referências históricas pertinentes.",
+      "A redação aborda o tema da diplomacia e da guerra de maneira clara e coerente, utilizando ideias de Einstein e Freud, bem como conceitos de outros teóricos como Edward Said e Hannah Arendt.",
+      "A estrutura lógica do texto é excelente, com uma progressão de ideias bem delineada e conexões claras entre os argumentos.",
+      "O autor demonstra um domínio avançado da norma culta, com uso adequado de vocabulário e fluidez na escrita.",
+      "A redação é rica em exemplos históricos, como a Crise dos Mísseis e a invasão da Ucrânia pela Rússia, que reforçam a argumentação e evidenciam uma compreensão profunda do tema.",
+      "O texto conclui de maneira brilhante, ao ressignificar a figura de Sísifo e relacioná-la com o papel da diplomacia, demonstrando originalidade e clareza."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação profunda e articulada, fazendo uso eficiente das ideias de Einstein, Freud e outros teóricos mencionados.",
+      "A analogia com Sísifo é criativa e relevante, demonstrando uma compreensão sofisticada do papel da diplomacia nas relações internacionais.",
+      "O autor utiliza exemplos históricos concretos e pertinentes, como a Crise dos Mísseis e a invasão da Ucrânia pela Rússia, para sustentar seus argumentos.",
+      "A linguagem é clara, precisa e adequada à norma culta, sem erros gramaticais.",
+      "O texto apresenta uma estrutura lógica e coesa, com transições fluidas entre os parágrafos e ideias."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação profunda e articulada, fazendo uso de analogias e referências históricas pertinentes.",
+      "A redação aborda o tema de forma clara e coerente, utilizando ideias de Albert Einstein, Sigmund Freud, Hannah Arendt e Edward Said para fundamentar a discussão.",
+      "A estrutura lógica é bem desenvolvida, com exemplos históricos como a Guerra Fria e a invasão da Ucrânia pela Rússia, que enriquecem a análise.",
+      "A linguagem é apropriada, com vocabulário rico e fluidez na exposição das ideias.",
+      "O autor demonstra uma compreensão avançada do papel da diplomacia nas relações internacionais, destacando sua importância na construção de paz e normas internacionais."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A palavra 'cerceia' no penúltimo parágrafo poderia ser substituída por 'limita' ou 'restringe' para melhor clareza.",
+      "No último parágrafo, a frase 'a indagação feita por Einstein' deveria ser 'à indagação feita por Einstein' para correta regência verbal."
+    ],
+    "feedbacks": [
+      "1A: A redação apresenta boa organização, com uma estrutura clara e lógica. O texto é coerente e legível, com um estilo formal e apropriado para o contexto acadêmico do CACD. Há poucos deslizes gramaticais que não comprometem significativamente a qualidade geral.",
+      "1B: A argumentação é objetiva e bem sistematizada, com referências pertinentes aos textos de Einstein e Freud e a momentos históricos relevantes. As informações são apresentadas de forma clara e sustentam efetivamente os pontos de vista defendidos.",
+      "1C: A análise é profunda e reflexiva, conectando a diplomacia com os conceitos de violência e cultura discutidos por Freud e Einstein. O autor demonstra capacidade de relacionar ideias abstratas com eventos concretos da história, evidenciando um entendimento sofisticado do tema.",
+      "CGPL: A redação apresenta poucos erros gramaticais, indicando um bom domínio da norma culta da língua portuguesa. A correção gramatical é quase impecável, com apenas dois erros identificados."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A palavra 'cerceia' poderia ser substituída por 'limita' ou 'restringe' para melhor clareza.",
+      "A expressão 'o esforço seja interminável' poderia ser 'o esforço é interminável' para manter a coerência do tempo verbal."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. O estilo é formal e adequado ao contexto do CACD.",
+      "A argumentação é objetiva e bem sistematizada, com referências pertinentes aos textos de Einstein e Freud e a momentos históricos relevantes.",
+      "A análise e reflexão são profundas, abordando diferentes aspectos do papel da diplomacia e relacionando-os com as ideias dos autores mencionados.",
+      "A redação contém poucos erros gramaticais, que não comprometem significativamente a legibilidade e a compreensão do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. O texto é legível e o estilo é apropriado para uma redação acadêmica.",
+      "A argumentação é objetiva e sistematizada, com exemplos históricos pertinentes e bem integrados ao desenvolvimento do tema. As informações são relevantes e diretamente relacionadas às ideias de Einstein e Freud.",
+      "A análise é profunda e reflexiva, abordando diferentes aspectos do papel da diplomacia, como a contenção da violência, a criação de laços emocionais e a promoção da aproximação cultural. O autor faz conexões claras entre esses aspectos e as ideias apresentadas nos excertos.",
+      "A redação está livre de erros gramaticais, com uso correto de ortografia, pontuação e concordância. A linguagem é formal e apropriada para o contexto do CACD."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização e desenvolvimento do tema, com argumentos claros e bem encadeados que respondem às indagações de Einstein e Freud. A linguagem é apropriada e correta, sem erros gramaticais. A análise histórica é relevante e bem articulada, destacando a importância da diplomacia em momentos críticos e na promoção da cultura e aproximação entre nações. A conclusão é coerente e reforça a ideia central de que a diplomacia é essencial para evitar conflitos, mesmo que a eliminação total das guerras permaneça uma utopia."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização do texto e desenvolvimento do tema, com argumentos claros e coerentes que se alinham às ideias de Einstein e Freud. A linguagem é apropriada e correta, sem erros gramaticais. A análise histórica é relevante e bem articulada, demonstrando uma boa compreensão do papel da diplomacia na prevenção de conflitos e na promoção da cultura e dos laços emocionais entre nações. A conclusão é consistente com a argumentação apresentada, reforçando o papel nobre da diplomacia."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização do texto e desenvolvimento do tema, com argumentos claros, coerentes e bem encadeados. A linguagem é apropriada para o contexto, com correção gramatical e propriedade no uso da linguagem. O autor faz referências pertinentes a momentos históricos e utiliza ideias mencionadas nos textos de Einstein e Freud para fundamentar sua posição sobre o papel da diplomacia na prevenção de conflitos e promoção da paz. Apenas a frase 'A diplomacia é uma forma de livrar a humanidade da ameaça de guerra, embora o esforço seja interminável, como no mito de Sísifo.' poderia ser mais clara, mas não compromete a qualidade geral do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e bem articulada, com argumentos pertinentes e uma progressão lógica das ideias.",
+      "O autor faz uso eficiente das referências aos textos de Einstein e Freud, integrando-as de maneira relevante ao desenvolvimento do tema.",
+      "A redação demonstra um excelente domínio da norma culta, sem erros gramaticais.",
+      "O texto é rico em exemplos históricos e diplomáticos, evidenciando uma compreensão profunda do papel da diplomacia.",
+      "A argumentação é sofisticada, abordando diferentes aspectos da diplomacia e sua relevância na prevenção de conflitos.",
+      "O estilo é maduro e a linguagem é apropriada para o contexto, com clareza e fluidez."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma excelente organização e desenvolvimento do tema, com argumentos claros, bem articulados e pertinentes ao enunciado.",
+      "O texto faz referência a ideias de Einstein e Freud, integrando-as de maneira coesa e relevante.",
+      "A autora demonstra um profundo conhecimento histórico e da diplomacia, mencionando exemplos concretos e variados.",
+      "A linguagem é formal e adequada, com vocabulário rico e uso correto da norma padrão.",
+      "O texto apresenta uma reflexão profunda e original sobre o papel da diplomacia na prevenção de conflitos e na promoção da paz.",
+      "A estrutura lógica é impecável, com transições suaves entre os parágrafos e uma conclusão coerente."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação clara e bem estruturada, abordando o papel da diplomacia em diferentes contextos históricos e relacionando-os com as ideias de Einstein e Freud.",
+      "A redação demonstra um excelente domínio da norma culta, sem erros gramaticais, ortográficos ou de pontuação.",
+      "O autor utiliza exemplos históricos pertinentes e variados para sustentar seus argumentos, como a Conferência de São Francisco, a UNCTAD, o G77, o MERCOSUL, o fórum IBAS e a estratégia dos EUA durante a Segunda Guerra Mundial.",
+      "A linguagem é apropriada e formal, adequada ao contexto do concurso, e o texto apresenta um alto nível de coesão e fluidez.",
+      "O autor conclui de maneira convincente, reafirmando o papel crucial da diplomacia na prevenção de conflitos e na promoção da paz, enquanto reconhece que a eliminação total das guerras permanece uma utopia."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Freud, pórém, esqueceu-se de mencionar o papel da diplomacia",
+      "a diplomacia brasileira não mais orientar-se pelo Positivismo",
+      "há países que desprezam a atuação de diplomatas",
+      "coibindo a valorização do amor e do pacifismo"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa coerência e legibilidade, com estrutura clara e argumentos organizados. No entanto, o uso de algumas expressões poderia ser mais refinado para melhorar o estilo.",
+      "A argumentação é objetiva e bem sistematizada, com exemplos históricos pertinentes. Contudo, a redação poderia se beneficiar de uma análise mais aprofundada das ideias de Freud e Einstein.",
+      "A análise e reflexão são fortes, com boas referências históricas e uma conexão clara com os conceitos de amor e identidade pacifista. A redação defende bem a importância da diplomacia.",
+      "A correção gramatical é boa, mas existem alguns erros que precisam ser corrigidos para melhorar a propriedade da linguagem."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Freud, porém, esqueceu-se de mencionar o papel da diplomacia, pois ela sempre foi a principal razão de os humanos terem vivido prolongados períodos de paz.",
+      "A propósito, mesmo quando a diplomacia falha em salientar o amor entre os povos, ela pode impedir a guerra, pois o exercício de relações diplomáticas cria uma cultura pacifista.",
+      "O presidente Emmanuel Macron, por exemplo, dissolveu a instituição responsável pela formação de diplomatas na França, expondo sua nação à violência, já que os assuntos externos do país poderão ser conduzidos por funcionários públicos sem experiência diplomática.",
+      "Como não estão habituados à diplomacia, esses servidores não sofreram a influência do amor e do pacifismo próprios à atuação do diplomata."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem organizado, com uma estrutura clara e argumentos bem delineados. No entanto, algumas frases são longas e poderiam ser mais concisas, o que melhoraria a legibilidade.",
+      "1B: A redação apresenta argumentos sólidos e pertinentes, fazendo referência a momentos históricos específicos como a mediação do Brasil na controvérsia de Letícia e a atuação na Conferência de Anápolis. Contudo, a argumentação poderia ser mais objetiva em alguns pontos, evitando repetições.",
+      "1C: O autor demonstra uma boa capacidade de análise ao relacionar a diplomacia com a promoção do amor e da identidade pacifista, conforme mencionado por Freud. A referência à dissolução de uma instituição diplomática na França por Macron é um exemplo contemporâneo relevante, embora a interpretação possa ser vista como simplista.",
+      "CGPL: A redação apresenta alguns erros gramaticais, como falta de clareza em algumas frases e uso inadequado de vírgulas e preposições. A correção gramatical deve ser melhorada para garantir a fluidez e a propriedade da linguagem."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Freud, pórém, esqueceu-se de mencionar o papel da diplomacia",
+      "A diplomacia tem a capacidade de evitar guerras, pois promove o amor entre os povos.",
+      "Portanto, a diplomacia é e sempre será a principal responsável por impedir o flagelo da guerra."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa coerência e legibilidade, com um estilo claro e objetivo, embora algumas frases possam ser mais concisas. (8/10)",
+      "A argumentação é objetiva e bem sistematizada, com exemplos históricos pertinentes que sustentam os pontos de vista. (9/10)",
+      "A análise e reflexão são profundas, fazendo boas conexões entre as ideias de Freud e Einstein e o papel da diplomacia. Contudo, a redação poderia ser mais crítica e explorar nuances adicionais. (16/20)"
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Freud, pórém, esqueceu-se de mencionar",
+      "Portanto, a diplomacia é e sempre será"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização e desenvolvimento do tema, com argumentos claros e coerentes. Contudo, há alguns erros gramaticais e repetição de ideias. A linguagem é adequada, mas poderia ser mais refinada em alguns trechos.",
+      "O texto faz boas referências históricas e aos excertos apresentados, demonstrando compreensão do tema e capacidade de argumentação. A conclusão é lógica e bem fundamentada."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 55.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Freud, pórem, esqueceu-se",
+      "a diplomacia ainda orientar-se",
+      "a falha dela."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes sobre o papel da diplomacia na prevenção de guerras. A redação faz referências históricas pertinentes, como a mediação brasileira na crise de Letícia e a atuação na Conferência de Anápolis, que sustentam a argumentação. Contudo, há alguns erros gramaticais e de concordância, como 'Freud, pórem, esqueceu-se' que deveria ser 'Freud, pórém, esqueceu-se', 'a diplomacia ainda orientar-se' que deveria ser 'a diplomacia ainda se orientar', e 'a falha dela.' que deveria ser 'a falha dela,' para manter a coesão e a fluidez do texto. A linguagem é adequada ao contexto, mas a correção gramatical poderia ser melhorada para alcançar uma nota mais alta."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 55.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Freud, pórem, esqueceu-se de mencionar o papel da diplomacia",
+      "A diplomacia tem a capacidade de evitar guerras, pois promove o amor entre os povos"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes que relacionam a diplomacia ao amor e à identidade pacifista, conforme sugerido por Freud. Contudo, há alguns deslizes gramaticais, como o uso incorreto de 'pórem' que deveria ser 'porém' e a falta de clareza na frase 'A diplomacia tem a capacidade de evitar guerras, pois promove o amor entre os povos', que poderia ser melhor estruturada. A argumentação é robusta, com exemplos históricos pertinentes, como a mediação brasileira na crise de Letícia e o envolvimento na Conferência de Anápolis. No entanto, a conclusão poderia ser mais equilibrada, evitando uma visão excessivamente idealista da diplomacia. A linguagem é geralmente apropriada, mas alguns trechos poderiam ser mais refinados para atender às exigências de um concurso de alto nível como o CACD."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Freud, porém, esqueceu-se de mencionar o papel da diplomacia"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma argumentação clara, coerente e bem estruturada, com exemplos históricos pertinentes que ilustram o papel da diplomacia na prevenção de conflitos. A redação é articulada, com uso apropriado de vocabulário e fluidez na exposição das ideias. A referência ao Positivismo e ao envolvimento do Brasil em diferentes momentos históricos demonstra uma compreensão profunda do tema e uma capacidade de reflexão crítica. Apenas um pequeno erro gramatical foi encontrado, mas isso não compromete a qualidade geral do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação clara e bem estruturada, com exemplos históricos pertinentes e uma compreensão profunda do tema proposto.",
+      "A redação articula as ideias de Freud sobre amor e identidade com o papel da diplomacia na prevenção de guerras, demonstrando uma capacidade de reflexão e análise relevante.",
+      "A linguagem é formal e adequada ao contexto, sem erros gramaticais. O uso de termos técnicos e históricos, como “conflagração” e “Protocolos de Brasília e Olivos”, enriquece o texto.",
+      "A redação apresenta uma progressão lógica e coesa, com parágrafos bem conectados por meio de transições claras e eficazes.",
+      "O autor demonstra conhecimento histórico e capacidade de aplicar teorias ao contexto diplomático, evidenciando uma compreensão abrangente e sofisticada do tema."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação clara, coerente e bem estruturada, abordando o papel da diplomacia na prevenção de guerras, em consonância com as ideias de Freud sobre amor e identidade. A redação utiliza exemplos históricos pertinentes, como a mediação brasileira no conflito entre Peru e Colômbia e a atuação do Brasil na Conferência de Anápolis, para sustentar a argumentação. A discussão sobre a cultura pacifista criada pela ONU e pelo Mercosul reforça a relevância da diplomacia. O texto também aborda a questão da ausência de diplomacia como causa de conflitos, utilizando o exemplo da França sob Macron. A linguagem é apropriada, sem erros gramaticais, e o estilo é maduro e articulado.",
+      "A redação demonstra excelente compreensão do tema e utiliza uma abordagem reflexiva e profunda, além de apresentar uma estrutura lógica e coesa. A argumentação é robusta e os exemplos históricos são pertinentes e bem integrados ao texto.",
+      "O autor conseguiu articular uma resposta que não apenas se refere aos conceitos apresentados nos excertos, mas também os expande com exemplos práticos e uma análise crítica, evidenciando uma compreensão avançada do papel da diplomacia na história e na atualidade."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "psicólogo",
+      "dianteira",
+      "diplomáticos que visam"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. O texto é legível e o estilo é adequado, embora possa ser aprimorado com maior variedade de vocabulário.",
+      "A argumentação é objetiva e bem sistematizada, com uso pertinente de informações históricas para sustentar os pontos de vista. A redação faz referência direta às ideias de Freud sobre a guerra e a diplomacia.",
+      "A análise é profunda e reflexiva, conectando a diplomacia com a prevenção de conflitos, a mediação e a aproximação cultural. O candidato demonstra compreensão das ideias de Freud e habilidade em aplicá-las a contextos históricos específicos.",
+      "Erros gramaticais identificados: 'psicólogo' deve ser 'psicólogo', 'dianteira' deve ser 'vanguarda' ou manter 'dianteira' se o contexto permitir, e 'diplomáticos que visam' deve ser 'diplomáticos, que visam'. A correção gramatical é quase perfeita, mas esses pequenos deslizes afetam a pontuação."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 17,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "psicólogo",
+      "dianteira",
+      "diplomáticos",
+      "medicação"
+    ],
+    "feedbacks": [
+      "1A: O texto é bem organizado e apresenta uma estrutura clara, com introdução, desenvolvimento e conclusão. A argumentação é coerente e as ideias são apresentadas de forma lógica. No entanto, a legibilidade é ligeiramente afetada pelos erros gramaticais e há pouca variação no estilo.",
+      "1B: A argumentação é objetiva e bem fundamentada, com exemplos históricos pertinentes, como a Guerra Fria e a Questão de Letícia, que ilustram o papel da diplomacia na prevenção de conflitos. As informações são sistematizadas e diretamente relacionadas ao tema proposto.",
+      "1C: O autor demonstra uma capacidade analítica robusta ao relacionar a diplomacia com a prevenção de conflitos, utilizando as ideias de Freud sobre laços emocionais e a evolução cultural. A reflexão é profunda e aborda diferentes aspectos da diplomacia, como a mediação e a diplomacia cultural.",
+      "CGPL: A redação contém alguns erros gramaticais: 'psicólogo' deve ser 'psicólogo', 'dianteira' deve ser 'vanguarda' ou manter 'dianteira' se o contexto permitir sem alterar o sentido, 'diplomáticos' deve ser 'diplomáticas' para concordar com 'ações', e 'medicação' deve ser 'mediação'. A correção gramatical e a propriedade da linguagem são boas, mas esses erros afetam a pontuação."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "psicólogo",
+      "dianteira",
+      "diplomáticos que visam"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema e uma conclusão que reafirma a importância da diplomacia. A legibilidade é boa, embora haja alguns erros gramaticais.",
+      "A argumentação é objetiva e bem sistematizada, com exemplos históricos pertinentes que ilustram os pontos discutidos. As informações são relevantes e diretamente ligadas ao tema proposto.",
+      "A análise e reflexão são profundas e bem desenvolvidas, com referências claras às ideias de Freud sobre a guerra e a cultura. O candidato demonstra capacidade de relacionar essas ideias a momentos históricos específicos, como a Guerra Fria e a Questão de Letícia.",
+      "A redação apresenta três erros gramaticais: 'psicólogo' deve ser 'psicólogo', 'dianteira' deve ser 'vanguarda' ou manter 'dianteira' se o contexto permitir, e 'diplomáticos que visam' deve ser 'diplomáticos, que visam'."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "psicólogo",
+      "dianteira",
+      "diplomática"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes. A associação entre diplomacia e prevenção de conflitos é bem fundamentada com exemplos históricos relevantes, como a Guerra Fria e a Questão de Letícia. A linguagem é geralmente adequada, embora haja alguns erros gramaticais e de ortografia, como 'psicólogo' (escrito incorretamente como 'psicólogo'), 'dianteira' (que deveria ser 'vanguarda' ou similar para melhor propriedade linguística) e 'diplomática' (escrito incorretamente como 'diplomáticos'). A argumentação poderia ser mais robusta ao aprofundar a conexão entre a diplomacia e os conceitos de Freud, mas o texto é informativo e bem estruturado. A conclusão reforça a importância da diplomacia na prevenção de guerras, alinhando-se com a ideia de Freud de que a evolução cultural trabalha contra a guerra."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 55.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "psicólogo",
+      "dianteira",
+      "diplomática"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes. No entanto, há alguns erros gramaticais e de ortografia, como 'psicólogo' (escrito incorretamente como 'psicólogo'), 'diplomática' (escrito incorretamente como 'diplomáticos') e 'dianteira' (escrito sem acento). A linguagem é adequada ao contexto, mas a correção poderia ser melhorada. A referência a momentos históricos, como a Guerra Fria e a Questão de Letícia, enriquece a argumentação e demonstra conhecimento sobre o papel da diplomacia na prevenção de conflitos."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 55.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a psicólogo",
+      "a medicação"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e bem encadeados. A associação da diplomacia com a prevenção de conflitos e a evolução cultural é feita de maneira coerente, utilizando exemplos históricos pertinentes, como a Guerra Fria e a Questão de Letícia. Há poucos erros gramaticais, como 'a psicólogo' (correto: 'o psicólogo') e 'a medicação' (correto: 'a mediação'), que não comprometem significativamente a compreensão do texto. A linguagem é adequada ao contexto, embora possa ser aprimorada em alguns pontos para maior formalidade e precisão."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "dianteira desse processo",
+      "dianteira",
+      "deveria ser ",
+      "vanguarda"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma argumentação clara, coerente e bem estruturada, abordando a diplomacia sob três perspectivas distintas e complementares: prevenção de conflitos, mediação e aproximação cultural. A autora utiliza exemplos históricos pertinentes, como a Guerra Fria e a Questão de Letícia, para sustentar suas ideias, demonstrando uma boa compreensão do tema e do contexto apresentado. A linguagem é formal e adequada, com poucos deslizes gramaticais. Apenas uma pequena imprecisão vocabular ao usar 'dianteira' em vez de 'vanguarda' no final do texto. No geral, o texto evidencia uma excelente capacidade de reflexão e articulação das ideias, com um bom domínio da norma culta.",
+      "A autora faz uma boa conexão entre as ideias de Freud e situações históricas reais, o que fortalece a argumentação e demonstra uma compreensão aprofundada do papel da diplomacia na prevenção de conflitos.",
+      "O uso de exemplos como a Guerra Fria e a Questão de Letícia ilustra bem como a diplomacia pode atuar em diferentes contextos para evitar ou resolver conflitos.",
+      "A referência à diplomacia cultural no Leste Asiático, com os conceitos de 'Hanfeng' e 'Hallyu', é uma adição interessante e relevante, mostrando a capacidade da diplomacia de criar laços emocionais e promover a paz."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "dianteira desse processo",
+      "a medicação entre iguais"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma argumentação sólida e bem estruturada, com exemplos históricos pertinentes e uma clara compreensão do tema proposto. A redação articula ideias de Freud de maneira relevante e contextualiza-as em momentos históricos específicos, como a Guerra Fria e a Questão de Letícia. Há poucos erros gramaticais, sendo que a expressão correta seria 'mediação' em vez de 'medicação' e 'na vanguarda' em vez de 'na dianteira'. A linguagem é formal e adequada ao contexto, com riqueza vocabular e fluidez na exposição das ideias.",
+      "A redação demonstra um excelente domínio temático e linguístico, com argumentos claros e coesos. A utilização de exemplos concretos, como a Guerra Fria e a diplomacia cultural no Leste Asiático, reforça a relevância e a profundidade da análise. A correção gramatical é quase impecável, com apenas dois pequenos deslizes que não comprometem a qualidade geral do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "dianteira desse processo",
+      "a mediação entre iguais"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma argumentação sólida e bem estruturada, com exemplos históricos pertinentes que ilustram os pontos discutidos. A compreensão do tema é profunda, com referências claras e pertinentes às ideias de Freud sobre a guerra e a cultura. A linguagem é formal e adequada, com poucos deslizes gramaticais menores que não comprometem a clareza. A articulação entre os parágrafos é fluida, e as ideias são desenvolvidas de maneira coerente e lógica.",
+      "Correção: 'a mediação entre iguais' e 'está na vanguarda desse processo'."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema e uma conclusão que sintetiza os argumentos. O texto é legível e o estilo é adequado para um ensaio acadêmico, embora possa ser um pouco mais conciso em algumas partes.",
+      "1B: A argumentação é objetiva e bem sistematizada, com referências pertinentes aos textos de Einstein e Freud e a momentos históricos relevantes. As informações são apresentadas de maneira lógica e fundamentada.",
+      "1C: A análise é profunda e reflexiva, conectando as ideias dos autores com teorias das Relações Internacionais e momentos históricos específicos. A redação explora a diplomacia como ferramenta para a cooperação e equilíbrio de poder, mostrando uma compreensão avançada do tema.",
+      "CGPL: Não foram identificados erros gramaticais, ortográficos ou de pontuação. A linguagem é apropriada e formal, conforme exigido para o CACD."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma introdução que contextualiza o tema e uma argumentação que se desenvolve de forma lógica e sistemática. O texto é legível e possui um estilo acadêmico apropriado para o CACD.",
+      "A argumentação é objetiva e bem sistematizada, fazendo uso de informações pertinentes e relacionadas ao tema. O candidato demonstra conhecimento histórico e teórico sobre as origens da guerra e o papel da diplomacia.",
+      "A análise e reflexão são profundas e bem desenvolvidas, conectando as ideias de Einstein e Freud com as teorias das Relações Internacionais e momentos históricos relevantes. O candidato demonstra uma excelente capacidade de traçar paralelos entre a natureza humana e a política internacional.",
+      "O texto não apresenta erros gramaticais, o que evidencia um excelente domínio da norma culta da língua portuguesa."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e coerente, com uma boa legibilidade e estilo adequado ao contexto acadêmico e diplomático.",
+      "A capacidade de argumentação é robusta, com uma abordagem objetiva e sistematizada das ideias de Einstein e Freud, bem como a relevância histórica e teórica da diplomacia.",
+      "A análise e reflexão são profundas, conectando efetivamente as ideias dos autores com teorias das Relações Internacionais e momentos históricos relevantes.",
+      "A redação está livre de erros gramaticais, demonstrando excelente domínio da norma padrão da língua portuguesa."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma análise coerente e bem desenvolvida sobre o papel da diplomacia, fazendo referência a ideias de Einstein e Freud e a momentos históricos relevantes. A argumentação é clara e bem encadeada, demonstrando uma excelente capacidade de reflexão sobre o tema. A linguagem é apropriada, sem erros gramaticais, e o texto respeita as normas de ortografia, concordância, pontuação e regência."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 55.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes que fazem referência às ideias de Einstein e Freud, bem como a momentos históricos relevantes. A linguagem é apropriada e correta, sem erros gramaticais. A análise é bem fundamentada e demonstra uma boa capacidade de reflexão sobre o papel da diplomacia na prevenção de conflitos e promoção da paz. No entanto, a redação poderia ser um pouco mais detalhada em alguns pontos, como na discussão sobre a diplomacia secreta e suas implicações, ou na análise da Liga das Nações e suas limitações. Apesar disso, a redação está dentro dos critérios de avaliação e apresenta uma boa qualidade global."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentos claros e coerentes. O texto faz referência a ideias de Einstein e Freud, assim como a momentos históricos relevantes, como a Primeira Guerra Mundial e a criação da Liga das Nações. A linguagem é apropriada e correta, sem erros gramaticais. A redação poderia ser melhorada com uma análise mais aprofundada das ideias dos autores e uma maior integração entre os diferentes aspectos abordados, mas ainda assim é uma redação de alta qualidade."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 8,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma excelente organização e desenvolvimento do tema, com argumentação sólida e relevante, além de um estilo maduro e fluente.",
+      "A redação faz referência apropriada às ideias de Einstein e Freud, bem como a momentos históricos significativos, como a criação da Liga das Nações e a Primeira Guerra Mundial.",
+      "Não foram identificados erros gramaticais, o que demonstra um excelente domínio da norma culta da língua portuguesa.",
+      "O autor apresenta uma compreensão profunda do papel da diplomacia na manutenção da paz, articulando conceitos de teorias das Relações Internacionais com os argumentos dos excertos fornecidos.",
+      "A redação é clara, coesa e bem estruturada, com um encadeamento lógico de ideias que evidencia reflexão e análise crítica."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação profunda e bem estruturada, relacionando a diplomacia com a prevenção de conflitos e a evolução cultural.",
+      "Há uma clara compreensão do tema e uma excelente capacidade de articulação entre as ideias de Einstein e Freud com conceitos das Relações Internacionais.",
+      "O autor utiliza exemplos históricos pertinentes, como a Liga das Nações e a “paz cartaginesa”, para fundamentar sua argumentação.",
+      "A linguagem é precisa e apropriada para o contexto acadêmico, sem erros gramaticais.",
+      "O texto demonstra uma reflexão sofisticada e relevante, com uma conclusão que sintetiza bem os argumentos apresentados."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação profunda e bem estruturada, relacionando a diplomacia com os debates sobre a origem da guerra e a possibilidade de paz, conforme discutido por Einstein e Freud.",
+      "A redação faz uso eficiente de exemplos históricos, como a Liga das Nações e a diplomacia secreta, para sustentar suas ideias.",
+      "O autor demonstra um excelente domínio da norma culta, com linguagem clara, concisa e sem erros gramaticais.",
+      "A análise é relevante e coesa, integrando conceitos de teorias das Relações Internacionais e os pensamentos de Einstein e Freud de maneira lógica e articulada.",
+      "O texto reflete uma compreensão avançada do tema, com insights sobre a importância da diplomacia na promoção da paz e no equilíbrio de poder."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 9,
+    "temp": "0.2",
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  }
+]
