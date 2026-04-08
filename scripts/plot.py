@@ -51,7 +51,7 @@ def plot_distribuicao_notas(df_eval, df_human, prompts, output_path):
     plt.savefig(f"{output_path}/distribuicao_notas.png", dpi=300, bbox_inches='tight')
     plt.close()
 
-def plot_val_error(df, output_path):
+def plot_val_error(df, output_path, temp=None):
     fig, ax = plt.subplots(figsize=(10, 6))
 
     df = df.copy()
@@ -69,7 +69,11 @@ def plot_val_error(df, output_path):
         ax=ax
     )
 
-    ax.set_title("Análise de Erro de Validação")
+    if temp is not None:
+        ax.set_title(f"Análise de Erro de Validação \n Temperatura {temp}")
+    else:
+        ax.set_title(f"Análise de Erro de Validação")
+
     ax.set_xlabel("Redação")
     ax.set_ylabel("Erro")
     ax.spines[['top', 'right']].set_visible(False)

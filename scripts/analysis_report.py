@@ -88,7 +88,7 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
       os.makedirs(temppaths, exist_ok=True)
       df_per_temp = df_merged[df_merged["temp"] == temperatura]
     
-      plot_val_error(df_per_temp, temppaths)
+      plot_val_error(df_per_temp, temppaths, temperatura)
       
       df_per_temp = pd.concat([df_per_temp, df_human_aligned], ignore_index=True)
       df_per_temp["prompt"] = df_per_temp["prompt"].fillna("Humano")
