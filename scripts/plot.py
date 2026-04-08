@@ -56,7 +56,7 @@ def plot_val_error(df, output_path, temp=None):
 
     df = df.copy()
     df["prompt"] = df["prompt"].astype(str)
-    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
+    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão", "13":"13 - Critério COM genérico", "14":"14 - Total COM genérico", "15":"15 - Faixa COM genérico"})
 
     sns.lineplot(
         data=df,
@@ -65,7 +65,7 @@ def plot_val_error(df, output_path, temp=None):
         hue="prompt",
         style="temp",
         marker="o",
-        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E"],
+        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD"],
         ax=ax
     )
 
@@ -98,7 +98,7 @@ def plot_eval_human_scores(df, output_path, temp=None):
     df = df.sort_values(by=["prompt", "nota_humana"], ascending=[True, False])
     df["redacao"] = df["redacao"].astype(str)
     df["prompt"] = df["prompt"].astype(str)
-    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
+    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão", "13":"13 - Critério COM genérico", "14":"14 - Total COM genérico", "15":"15 - Faixa COM genérico"})
 
     if temp == None:
         sns.lineplot(
@@ -108,7 +108,7 @@ def plot_eval_human_scores(df, output_path, temp=None):
             hue="prompt",
             style="temp",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E"],
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD"],
             ax=axes[0],
             sort=False
         )
@@ -141,7 +141,7 @@ def plot_eval_human_scores(df, output_path, temp=None):
             y="nota_final",
             hue="prompt",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#000000"],
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD", "#000000"],
             ax=axes,
             sort=False
         )
@@ -176,7 +176,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, temp=None):
     df_merged["redacao"] = df_merged["redacao"].astype(str)
 
     df_merged["prompt"] = df_merged["prompt"].astype(str)
-    df_merged["prompt"] = df_merged["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
+    df_merged["prompt"] = df_merged["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão", "13":"13 - Critério COM genérico", "14":"14 - Total COM genérico", "15":"15 - Faixa COM genérico"})
 
 
     if temp == None:
@@ -187,7 +187,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, temp=None):
             hue="prompt",
             style="temp",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E"],
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD"],
             ax=axes[0]
         )
         axes[0].set_title("Análise de Número de Erros Gerados por Redação")
@@ -220,7 +220,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, temp=None):
             y="num_errors",
             hue="prompt",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#000000"],
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD", "#000000"],
             ax=axes,
             sort=False
         )

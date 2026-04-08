@@ -8,8 +8,8 @@ from sklearn.metrics import cohen_kappa_score, roc_auc_score
 from sklearn.preprocessing import MinMaxScaler
 import yaml
 
-from .plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error
-from .utils import get_mean
+from plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error
+from utils import get_mean
 
 def print_full(df):
     pd.set_option('display.max_rows', len(df))
@@ -99,7 +99,7 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
       plot_eval_human_num_errors(df_per_temp, df_human, temppaths, temperatura)
 
     # Gerando resumo em markdown
-    md_content = """f# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
+    md_content = f"""# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
 **Gerado em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}**
 
 ## 1. Distribuição de Notas
