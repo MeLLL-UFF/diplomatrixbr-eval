@@ -5,17 +5,14 @@ import time
 
 from utils import create_new_row
 
-path_json_response = os.path.join(os.getcwd(), "prompt_testing", "0.0_0.2_0.5_0.9_output_sabia-3.1_2018_p7-12_3r.json")
+year = 2022
+path_json_response = os.path.join(os.getcwd(), "prompt_testing", f"output_sabia-3.1_{year}_p7-15_3r.json")
 data_atual = time.strftime("%d.%m.%Y-%H.%M.%S")
 
 with open(path_json_response, 'r', encoding="utf-8") as json_file:
     data = json.load(json_file)
 
-# path_notas = os.path.join(os.getcwd(), "prompt_testing", "sheets", "notas_humanas_2022.csv")
-# with open(path_notas, 'r') as input_file:
-# notas_humanas = csv.reader(input_file)
-
-filename = f'prompt_testing\sheets\output_{data_atual}.csv'
+filename = f'prompt_testing/sheets/sabia_{year}_p7-15_3r.csv'
 with open(filename, 'w', newline='', encoding="utf-8") as output_file:
     writer = csv.DictWriter(output_file, fieldnames=["judge", "versao", "prompt", "temp", "redacao", "nota_final", "1A", "1B", "1C", "CGPL", "num_errors", "faixa"])
     writer.writeheader()

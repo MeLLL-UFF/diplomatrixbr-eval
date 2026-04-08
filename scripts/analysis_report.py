@@ -11,9 +11,19 @@ import yaml
 from .plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error
 from .utils import get_mean
 
-def main(num_runs, eval_path, human_path, model, model_version):
+def print_full(df):
+    pd.set_option('display.max_rows', len(df))
+    pd.set_option('display.max_columns', len(df.columns))
+    pd.set_option('display.expand_frame_repr', False)
+    print(df)
+    pd.reset_option('display.max_columns')
+    pd.reset_option('display.max_rows')
+    pd.reset_option('display.expand_frame_repr')
+
+def main(num_runs, eval_path, human_path, model, model_version, year):
+    pd.set_option('future.no_silent_downcasting', True)
     root_path = os.getcwd()
-    output_path = os.path.join(root_path, "prompt_testing", "reports", f"{model}-{model_version}_{num_runs}_runs")
+    output_path = os.path.join(root_path, "prompt_testing", "reports", f"{model}-{model_version}_{year}_{num_runs}_runs")
     os.makedirs(output_path, exist_ok=True)
 
     # Carregando dados
@@ -59,16 +69,50 @@ def main(num_runs, eval_path, human_path, model, model_version):
         prompts_yaml = yaml.safe_load(file)
         prompts = prompts_yaml['prompts']
 
-    plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
+    #plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
 
     # 2. Comparação entre Notas Geradas e Humanas
-    plot_eval_human_scores(df_merged, output_path)
+    #plot_eval_human_scores(df_merged, output_path)
 
     # 3. Erro de Validação
-    plot_val_error(df_merged, output_path)
+    #plot_val_error(df_merged, output_path)
 
     # 4. Comparação entre Números de Erros Gerados e Humanos
-    plot_eval_human_num_errors(df_merged, df_human, output_path)
+    #plot_eval_human_num_errors(df_merged, df_human, output_path)
+    
+    df_human_aligned = df_human.reindex(columns=df_merged.columns)
+
+		# 5. Avaliaação por Temperatura
+    for temperatura in df_merged["temp"].unique():
+      temppaths = os.path.join(output_path, "temps", f"temp {str(temperatura)}")
+      os.makedirs(temppaths, exist_ok=True)
+      df_per_temp = df_merged[df_merged["temp"] == temperatura]
+    
+      plot_val_error(df_per_temp, temppaths, temp=temperatura)
+      
+      df_per_temp = pd.concat([df_per_temp, df_human_aligned], ignore_index=True)
+      df_per_temp["prompt"] = df_per_temp["prompt"].fillna("Humano")
+      df_per_temp["num_errors"] = df_per_temp["num_errors"].replace("-", 0)
+
+      plot_eval_human_scores(df_per_temp, temppaths, temp=temperatura)
+
+      plot_eval_human_num_errors(df_per_temp, df_human, temppaths, temp=temperatura)
+
+    # 6. Avaliação por Prompt
+    for prompt in df_merged["prompt"].unique():
+      promptpaths = os.path.join(output_path, "prompts", f"prompt {str(prompt)}")
+      os.makedirs(promptpaths, exist_ok=True)
+      df_per_prompt = df_merged[df_merged["prompt"] == prompt]
+    
+      plot_val_error(df_per_prompt, promptpaths, prompt=prompt)
+      
+      df_per_prompt = pd.concat([df_per_prompt, df_human_aligned], ignore_index=True)
+      df_per_prompt["prompt"] = df_per_prompt["prompt"].fillna("Humano")
+      df_per_prompt["num_errors"] = df_per_prompt["num_errors"].replace("-", 0)
+
+      plot_eval_human_scores(df_per_prompt, promptpaths, prompt=prompt)
+
+      plot_eval_human_num_errors(df_per_prompt, df_human, promptpaths, prompt=prompt)
 
     # Gerando resumo em markdown
     md_content = f"""# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
@@ -130,5 +174,6 @@ if __name__ == "__main__":
     parser.add_argument("--human_path", required=True)
     parser.add_argument("--model", required=True)
     parser.add_argument("--model_version", required=True)
+    parser.add_argument("--year", required=True, type=str)
     args = parser.parse_args()
-    main(args.num_runs, args.eval_path, args.human_path, args.model, args.model_version)
+    main(args.num_runs, args.eval_path, args.human_path, args.model, args.model_version, args.year)
