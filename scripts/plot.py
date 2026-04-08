@@ -51,28 +51,42 @@ def plot_distribuicao_notas(df_eval, df_human, prompts, output_path):
     plt.savefig(f"{output_path}/distribuicao_notas.png", dpi=300, bbox_inches='tight')
     plt.close()
 
-def plot_val_error(df, output_path, temp=None):
+def plot_val_error(df, output_path, *, temp=None, prompt=None):
     fig, ax = plt.subplots(figsize=(10, 6))
 
     df = df.copy()
     df["prompt"] = df["prompt"].astype(str)
     df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão", "13":"13 - Critério COM genérico", "14":"14 - Total COM genérico", "15":"15 - Faixa COM genérico"})
 
-    sns.lineplot(
-        data=df,
-        x="redacao",
-        y="val_error",
-        hue="prompt",
-        style="temp",
-        marker="o",
-        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD"],
-        ax=ax
-    )
-
-    if temp is not None:
-        ax.set_title(f"Análise de Erro de Validação \n Temperatura {temp}")
+    if prompt is None:
+        sns.lineplot(
+            data=df,
+            x="redacao",
+            y="val_error",
+            hue="prompt",
+            style="temp",
+            marker="o",
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD"],
+            ax=ax
+        )
     else:
-        ax.set_title(f"Análise de Erro de Validação")
+        sns.lineplot(
+            data=df,
+            x="redacao",
+            y="val_error",
+            hue="prompt",
+            style="temp",
+            marker="o",
+            palette=["#000000"],
+            ax=ax
+        )
+
+    title = "Análise de Erro de Validação"
+    if temp is not None:
+        title += f"\n Temperatura {temp}"
+    if prompt is not None:
+        title += f"\n Prompt {prompt}"
+    ax.set_title(title)
 
     ax.set_xlabel("Redação")
     ax.set_ylabel("Erro")
@@ -88,8 +102,8 @@ def plot_val_error(df, output_path, temp=None):
     plt.savefig(f"{output_path}/area_val_error.png", dpi=300, bbox_inches='tight')
     plt.close()
 
-def plot_eval_human_scores(df, output_path, temp=None):
-    if temp == None:
+def plot_eval_human_scores(df, output_path, *, temp=None, prompt=None):
+    if temp == None and prompt == None:
         fig, axes = plt.subplots(1, 2, figsize=(14, 5))
     else:
         fig, axes = plt.subplots(figsize=(7, 5))
@@ -100,7 +114,14 @@ def plot_eval_human_scores(df, output_path, temp=None):
     df["prompt"] = df["prompt"].astype(str)
     df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão", "13":"13 - Critério COM genérico", "14":"14 - Total COM genérico", "15":"15 - Faixa COM genérico"})
 
-    if temp == None:
+    if prompt is not None:
+        df["temp"] = df["temp"].astype(str)
+        mask_humano = df["judge"] == "humano"
+        df.loc[mask_humano, "temp"] = "Humano"
+
+    title = "Comparação de Nota Gerada e Nota Humana por Redação"
+
+    if temp == None and prompt == None:
         sns.lineplot(
             data=df,
             x="redacao",
@@ -133,8 +154,9 @@ def plot_eval_human_scores(df, output_path, temp=None):
         axes[1].set_ylim(35, 60)
         axes[1].spines[['top', 'right']].set_visible(False)
 
-        plt.suptitle("Comparação de Nota Gerada e Nota Humana por Redação", fontsize=16)
-    else:
+        plt.suptitle(title, fontsize=16)
+
+    elif temp != None:
         sns.lineplot(
             data=df,
             x="redacao",
@@ -145,27 +167,49 @@ def plot_eval_human_scores(df, output_path, temp=None):
             ax=axes,
             sort=False
         )
-        axes.set_title("Análise de Nota Gerada por Redação")
         axes.set_xlabel("Redação")
         axes.set_ylabel("Nota Final")
         axes.set_ylim(35, 60)
         axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
         axes.spines[['top', 'right']].set_visible(False)
-        plt.suptitle(f"Comparação de Nota Gerada e Nota Humana por Redação \n Temperatura: {temp}", fontsize=16)
+        plt.suptitle(f"{title}\n Temperatura: {temp}", fontsize=16)
+    elif prompt != None:
+        sns.lineplot(
+            data=df,
+            x="redacao",
+            y="nota_final",
+            hue="temp",
+            marker="o",
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#000000"],
+            ax=axes,
+            sort=False
+        )
+        axes.set_xlabel("Redação")
+        axes.set_ylabel("Nota Final")
+        axes.set_ylim(35, 60)
+        axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
+        axes.spines[['top', 'right']].set_visible(False)
+        plt.suptitle(f"{title}\n Prompt: {prompt}", fontsize=16)
+
     
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
     plt.savefig(f"{output_path}/comparacao_notas.png", dpi=300, bbox_inches='tight')
     plt.close()
 
-def plot_eval_human_num_errors(df_merged, df_human, output_path, temp=None):
-    if temp == None:
+def plot_eval_human_num_errors(df_merged, df_human, output_path, *, temp=None, prompt=None):
+    if temp == None and prompt == None:
         fig, axes = plt.subplots(1, 2, figsize=(14, 5))
     else:
         fig, axes = plt.subplots(figsize=(7, 5))
 
-    if temp is not None:
+    if temp is not None or prompt is not None:
         mask_humano = df_merged["judge"] == "humano"
         df_merged.loc[mask_humano, "erros_humano"] = df_merged.loc[mask_humano, "num_errors"]
+    
+    if prompt is not None:
+        df_merged["temp"] = df_merged["temp"].astype(str)
+        mask_humano = df_merged["judge"] == "humano"
+        df_merged.loc[mask_humano, "temp"] = "Humano"
 
     df_human = df_human.copy()
     df_human = df_human.sort_values(by=["num_errors", "redacao"], ascending=[False, True])
@@ -178,8 +222,9 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, temp=None):
     df_merged["prompt"] = df_merged["prompt"].astype(str)
     df_merged["prompt"] = df_merged["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão", "13":"13 - Critério COM genérico", "14":"14 - Total COM genérico", "15":"15 - Faixa COM genérico"})
 
+    title = "Comparação de Número de Erros Gerados e Humanos por Redação"
 
-    if temp == None:
+    if temp == None and prompt == None:
         sns.lineplot(
             data=df_merged,
             x="redacao",
@@ -212,8 +257,8 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, temp=None):
         axes[1].set_ylim(-0.2, 6)
         axes[1].spines[['top', 'right']].set_visible(False)
 
-        plt.suptitle("Comparação de Número de Erros Gerados e Humanos por Redação", fontsize=16)
-    else:
+        plt.suptitle(title, fontsize=16)
+    elif temp != None:
         sns.lineplot(
             data=df_merged,
             x="redacao",
@@ -224,13 +269,29 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, temp=None):
             ax=axes,
             sort=False
         )
-        axes.set_title("Análise de Número de Erros Gerados por Redação")
         axes.set_xlabel("Redação")
         axes.set_ylabel("Número de Erros")
         axes.set_yticks([0, 1, 2, 3, 4])
         axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
         axes.spines[['top', 'right']].set_visible(False)
-        plt.suptitle(f"Comparação de Número de Erros Gerados e Humanos por Redação \n Temperatura: {temp}", fontsize=16)
+        plt.suptitle(f"{title}\n Temperatura: {temp}", fontsize=16)
+    elif prompt != None:
+        sns.lineplot(
+            data=df_merged,
+            x="redacao",
+            y="num_errors",
+            hue="temp",
+            marker="o",
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#000000"],
+            ax=axes,
+            sort=False
+        )
+        axes.set_xlabel("Redação")
+        axes.set_ylabel("Número de Erros")
+        axes.set_yticks([0, 1, 2, 3, 4])
+        axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
+        axes.spines[['top', 'right']].set_visible(False)
+        plt.suptitle(f"{title}\n Prompt: {prompt}", fontsize=16)
 
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
     plt.savefig(f"{output_path}/comparacao_num_erros.png", dpi=300, bbox_inches='tight')

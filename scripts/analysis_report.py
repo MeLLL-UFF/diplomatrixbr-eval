@@ -69,34 +69,50 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
         prompts_yaml = yaml.safe_load(file)
         prompts = prompts_yaml['prompts']
 
-    plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
+    #plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
 
     # 2. Comparação entre Notas Geradas e Humanas
-    plot_eval_human_scores(df_merged, output_path)
+    #plot_eval_human_scores(df_merged, output_path)
 
     # 3. Erro de Validação
-    plot_val_error(df_merged, output_path)
+    #plot_val_error(df_merged, output_path)
 
     # 4. Comparação entre Números de Erros Gerados e Humanos
-    plot_eval_human_num_errors(df_merged, df_human, output_path)
+    #plot_eval_human_num_errors(df_merged, df_human, output_path)
     
     df_human_aligned = df_human.reindex(columns=df_merged.columns)
 
 		# 5. Avaliaação por Temperatura
     for temperatura in df_merged["temp"].unique():
-      temppaths = os.path.join(output_path, f"temp {str(temperatura)}")
+      temppaths = os.path.join(output_path, "temps", f"temp {str(temperatura)}")
       os.makedirs(temppaths, exist_ok=True)
       df_per_temp = df_merged[df_merged["temp"] == temperatura]
     
-      plot_val_error(df_per_temp, temppaths, temperatura)
+      plot_val_error(df_per_temp, temppaths, temp=temperatura)
       
       df_per_temp = pd.concat([df_per_temp, df_human_aligned], ignore_index=True)
       df_per_temp["prompt"] = df_per_temp["prompt"].fillna("Humano")
       df_per_temp["num_errors"] = df_per_temp["num_errors"].replace("-", 0)
 
-      plot_eval_human_scores(df_per_temp, temppaths, temperatura)
+      plot_eval_human_scores(df_per_temp, temppaths, temp=temperatura)
 
-      plot_eval_human_num_errors(df_per_temp, df_human, temppaths, temperatura)
+      plot_eval_human_num_errors(df_per_temp, df_human, temppaths, temp=temperatura)
+
+    # 6. Avaliação por Prompt
+    for prompt in df_merged["prompt"].unique():
+      promptpaths = os.path.join(output_path, "prompts", f"prompt {str(prompt)}")
+      os.makedirs(promptpaths, exist_ok=True)
+      df_per_prompt = df_merged[df_merged["prompt"] == prompt]
+    
+      plot_val_error(df_per_prompt, promptpaths, prompt=prompt)
+      
+      df_per_prompt = pd.concat([df_per_prompt, df_human_aligned], ignore_index=True)
+      df_per_prompt["prompt"] = df_per_prompt["prompt"].fillna("Humano")
+      df_per_prompt["num_errors"] = df_per_prompt["num_errors"].replace("-", 0)
+
+      plot_eval_human_scores(df_per_prompt, promptpaths, prompt=prompt)
+
+      plot_eval_human_num_errors(df_per_prompt, df_human, promptpaths, prompt=prompt)
 
     # Gerando resumo em markdown
     md_content = f"""# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
