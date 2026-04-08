@@ -2,6 +2,16 @@ import matplotlib.pyplot as plt
 import textwrap
 import math
 import seaborn as sns
+import pandas as pd
+
+def print_full(df):
+    pd.set_option('display.max_rows', len(df))
+    pd.set_option('display.max_columns', len(df.columns))
+    pd.set_option('display.expand_frame_repr', False)
+    print(df)
+    pd.reset_option('display.max_columns')
+    pd.reset_option('display.max_rows')
+    pd.reset_option('display.expand_frame_repr')
 
 def plot_distribuicao_notas(df_eval, df_human, prompts, output_path):
     plot_ids = [0] + df_eval["prompt"].unique().tolist()
@@ -74,8 +84,11 @@ def plot_val_error(df, output_path):
     plt.savefig(f"{output_path}/area_val_error.png", dpi=300, bbox_inches='tight')
     plt.close()
 
-def plot_eval_human_scores(df, output_path):
-    fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+def plot_eval_human_scores(df, output_path, temp=None):
+    if temp == None:
+        fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+    else:
+        fig, axes = plt.subplots(figsize=(7, 5))
     
     df = df.copy()
     df = df.sort_values(by=["prompt", "nota_humana"], ascending=[True, False])
@@ -83,45 +96,72 @@ def plot_eval_human_scores(df, output_path):
     df["prompt"] = df["prompt"].astype(str)
     df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
 
-    sns.lineplot(
-        data=df,
-        x="redacao",
-        y="nota_final",
-        hue="prompt",
-        style="temp",
-        marker="o",
-        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E"],
-        ax=axes[0],
-        sort=False
-    )
-    axes[0].set_title("Análise de Nota Gerada por Redação")
-    axes[0].set_xlabel("Redação")
-    axes[0].set_ylabel("Nota Final")
-    axes[0].set_ylim(35, 60)
-    axes[0].legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
-    axes[0].spines[['top', 'right']].set_visible(False)
+    if temp == None:
+        sns.lineplot(
+            data=df,
+            x="redacao",
+            y="nota_final",
+            hue="prompt",
+            style="temp",
+            marker="o",
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E"],
+            ax=axes[0],
+            sort=False
+        )
+        axes[0].set_title("Análise de Nota Gerada por Redação")
+        axes[0].set_xlabel("Redação")
+        axes[0].set_ylabel("Nota Final")
+        axes[0].set_ylim(35, 60)
+        axes[0].legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
+        axes[0].spines[['top', 'right']].set_visible(False)
 
-    sns.lineplot(
-        data=df,
-        x="redacao",
-        y="nota_humana",
-        marker="o",
-        ax=axes[1],
-        sort=False
-    )
-    axes[1].set_title("Análise de Nota Humana por Redação")
-    axes[1].set_xlabel("Redação")
-    axes[1].set_ylabel("Nota Final")
-    axes[1].set_ylim(35, 60)
-    axes[1].spines[['top', 'right']].set_visible(False)
+        sns.lineplot(
+            data=df,
+            x="redacao",
+            y="nota_humana",
+            marker="o",
+            ax=axes[1],
+            sort=False
+        )
+        axes[1].set_title("Análise de Nota Humana por Redação")
+        axes[1].set_xlabel("Redação")
+        axes[1].set_ylabel("Nota Final")
+        axes[1].set_ylim(35, 60)
+        axes[1].spines[['top', 'right']].set_visible(False)
 
-    plt.suptitle("Comparação de Nota Gerada e Nota Humana por Redação", fontsize=16)
+        plt.suptitle("Comparação de Nota Gerada e Nota Humana por Redação", fontsize=16)
+    else:
+        sns.lineplot(
+            data=df,
+            x="redacao",
+            y="nota_final",
+            hue="prompt",
+            marker="o",
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#000000"],
+            ax=axes,
+            sort=False
+        )
+        axes.set_title("Análise de Nota Gerada por Redação")
+        axes.set_xlabel("Redação")
+        axes.set_ylabel("Nota Final")
+        axes.set_ylim(35, 60)
+        axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
+        axes.spines[['top', 'right']].set_visible(False)
+        plt.suptitle(f"Comparação de Nota Gerada e Nota Humana por Redação \n Temperatura: {temp}", fontsize=16)
+    
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
     plt.savefig(f"{output_path}/comparacao_notas.png", dpi=300, bbox_inches='tight')
     plt.close()
 
-def plot_eval_human_num_errors(df_merged, df_human, output_path):
-    fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+def plot_eval_human_num_errors(df_merged, df_human, output_path, temp=None):
+    if temp == None:
+        fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+    else:
+        fig, axes = plt.subplots(figsize=(7, 5))
+
+    if temp is not None:
+        mask_humano = df_merged["judge"] == "humano"
+        df_merged.loc[mask_humano, "erros_humano"] = df_merged.loc[mask_humano, "num_errors"]
 
     df_human = df_human.copy()
     df_human = df_human.sort_values(by=["num_errors", "redacao"], ascending=[False, True])
@@ -135,39 +175,59 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path):
     df_merged["prompt"] = df_merged["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão"})
 
 
-    sns.lineplot(
-        data=df_merged,
-        x="redacao",
-        y="num_errors",
-        hue="prompt",
-        style="temp",
-        marker="o",
-        palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E"],
-        ax=axes[0]
-    )
-    axes[0].set_title("Análise de Número de Erros Gerados por Redação")
-    axes[0].set_xlabel("Redação")
-    axes[0].set_ylabel("Número de Erros")
-    axes[0].set_yticks([0, 1, 2, 3, 4])
-    axes[0].legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
-    axes[0].spines[['top', 'right']].set_visible(False)
+    if temp == None:
+        sns.lineplot(
+            data=df_merged,
+            x="redacao",
+            y="num_errors",
+            hue="prompt",
+            style="temp",
+            marker="o",
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E"],
+            ax=axes[0]
+        )
+        axes[0].set_title("Análise de Número de Erros Gerados por Redação")
+        axes[0].set_xlabel("Redação")
+        axes[0].set_ylabel("Número de Erros")
+        axes[0].set_yticks([0, 1, 2, 3, 4])
+        axes[0].legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
+        axes[0].spines[['top', 'right']].set_visible(False)
 
-    sns.lineplot(
-        data=df_human,
-        x="redacao",
-        y="num_errors",
-        marker="o",
-        ax=axes[1],
-        sort=False
-    )
-    axes[1].set_title("Análise de Número de Erros Humanos por Redação")
-    axes[1].set_xlabel("Redação")
-    axes[1].set_ylabel("Número de Erros")
-    axes[1].set_yticks([0, 1, 2, 3, 4, 5, 6])
-    axes[1].set_ylim(-0.2, 6)
-    axes[1].spines[['top', 'right']].set_visible(False)
+        sns.lineplot(
+            data=df_human,
+            x="redacao",
+            y="num_errors",
+            marker="o",
+            ax=axes[1],
+            sort=False
+        )
+        axes[1].set_title("Análise de Número de Erros Humanos por Redação")
+        axes[1].set_xlabel("Redação")
+        axes[1].set_ylabel("Número de Erros")
+        axes[1].set_yticks([0, 1, 2, 3, 4, 5, 6])
+        axes[1].set_ylim(-0.2, 6)
+        axes[1].spines[['top', 'right']].set_visible(False)
 
-    plt.suptitle("Comparação de Número de Erros Gerados e Humanos por Redação", fontsize=16)
+        plt.suptitle("Comparação de Número de Erros Gerados e Humanos por Redação", fontsize=16)
+    else:
+        sns.lineplot(
+            data=df_merged,
+            x="redacao",
+            y="num_errors",
+            hue="prompt",
+            marker="o",
+            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#000000"],
+            ax=axes,
+            sort=False
+        )
+        axes.set_title("Análise de Número de Erros Gerados por Redação")
+        axes.set_xlabel("Redação")
+        axes.set_ylabel("Número de Erros")
+        axes.set_yticks([0, 1, 2, 3, 4])
+        axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
+        axes.spines[['top', 'right']].set_visible(False)
+        plt.suptitle(f"Comparação de Número de Erros Gerados e Humanos por Redação \n Temperatura: {temp}", fontsize=16)
+
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
     plt.savefig(f"{output_path}/comparacao_num_erros.png", dpi=300, bbox_inches='tight')
     plt.close()
