@@ -28,7 +28,7 @@ class respostaEmFaixa(BaseModel):
   erros_gramaticais: list[str]
   feedbacks: list[str]
 
-def main(n_iteracoes, temps, anos, lista_prompts):
+def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   url = "https://raw.githubusercontent.com/MeLLL-UFF/diplomatrixbr-gen/main/Diplomatrix.json"
   requisicao = requests.get(url)
 
@@ -45,7 +45,7 @@ def main(n_iteracoes, temps, anos, lista_prompts):
       base_url="https://chat.maritaca.ai/api",
   )
 
-  temp = temps
+  temp = list(map(float, temps))
   num_runs = n_iteracoes # DEFINIR NÚMERO DE EXECUÇÕES POR PROMPT/TEMPERATURA
   ano = anos
 
@@ -69,6 +69,8 @@ def main(n_iteracoes, temps, anos, lista_prompts):
 
   for candidato in dados_candidatos:
     numero_redacao += 1
+    if lista_redacao != None and numero_redacao not in lista_redacao:
+      continue
     redacao = candidato["Essay"]
 
     for prompt in prompts:
@@ -130,7 +132,7 @@ def main(n_iteracoes, temps, anos, lista_prompts):
   
   listtemps = ""
   for i in temp:
-    listtemps += i + "_"
+    listtemps += str(i) + "_"
 
   output_path = os.path.join(os.getcwd(), "prompt_testing", f'{listtemps}output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
   with open(output_path, 'w', encoding="utf-8") as file:
@@ -143,7 +145,8 @@ if __name__ == "__main__":
   parser.add_argument("--temps", type=str, nargs="+", required=True, help="Temperaturas usadas.")
   parser.add_argument("--anos", type=str, required=True, help="Anos avaliados.")
   parser.add_argument("--prompts", type=int, nargs="+", required=True, help="Prompts testados.")
+  parser.add_argument("--redacoes", type=int, nargs="+", required=False, help="Redação a ser avaliada.")
 
   args = parser.parse_args()
 
-  main(args.n_iteracoes, args.temps, args.anos, args.prompts)
+  main(args.n_iteracoes, args.temps, args.anos, args.prompts, args.redacoes)
