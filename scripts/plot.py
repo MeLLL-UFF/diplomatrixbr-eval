@@ -66,7 +66,7 @@ def plot_val_error(df, output_path, *, temp=None, prompt=None):
             hue="prompt",
             style="temp",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD"],
+            palette=["#11F9DE", "#FFD918", "#A3FF22", "#1995BF", "#FF8400FF", "#02B202", "#3131BD", "#D41111", "#2E772E"],
             ax=ax
         )
     else:
@@ -128,7 +128,7 @@ def plot_eval_human_scores(df, output_path, *, temp=None, prompt=None):
             hue="prompt",
             style="temp",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD"],
+            palette=["#11F9DE", "#FFD918", "#A3FF22", "#1995BF", "#FF8400FF", "#02B202", "#3131BD", "#D41111", "#2E772E"],
             ax=axes[0],
             sort=False
         )
@@ -162,7 +162,7 @@ def plot_eval_human_scores(df, output_path, *, temp=None, prompt=None):
             y="nota_final",
             hue="prompt",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD", "#000000"],
+            palette=["#11F9DE", "#FFD918", "#A3FF22", "#1995BF", "#FF8400FF", "#02B202", "#3131BD", "#D41111", "#2E772E", "#000000"],
             ax=axes,
             sort=False
         )
@@ -179,7 +179,7 @@ def plot_eval_human_scores(df, output_path, *, temp=None, prompt=None):
             y="nota_final",
             hue="temp",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#000000"],
+            palette=["#444DFA", "#FA4743", "#FAD543", "#43FA7F", "#000000"],
             ax=axes,
             sort=False
         )
@@ -231,7 +231,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, *, temp=None, p
             hue="prompt",
             style="temp",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD"],
+            palette=["#11F9DE", "#FFD918", "#A3FF22", "#1995BF", "#FF8400FF", "#02B202", "#3131BD", "#D41111", "#2E772E"],
             ax=axes[0]
         )
         axes[0].set_title("Análise de Número de Erros Gerados por Redação")
@@ -264,7 +264,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, *, temp=None, p
             y="num_errors",
             hue="prompt",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#D41111", "#2E772E", "#11F9DE", "#E6E026", "#A51CBD", "#000000"],
+            palette=["#11F9DE", "#FFD918", "#A3FF22", "#1995BF", "#FF8400FF", "#02B202", "#3131BD", "#D41111", "#2E772E", "#000000"],
             ax=axes,
             sort=False
         )
@@ -281,7 +281,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, *, temp=None, p
             y="num_errors",
             hue="temp",
             marker="o",
-            palette=["#54B8D9", "#FF8400FF", "#7ED07E", "#3131BD", "#000000"],
+            palette=["#444DFA", "#FA4743", "#FAD543", "#43FA7F", "#000000"],
             ax=axes,
             sort=False
         )

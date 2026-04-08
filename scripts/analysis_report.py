@@ -69,16 +69,16 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
         prompts_yaml = yaml.safe_load(file)
         prompts = prompts_yaml['prompts']
 
-    #plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
+    plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
 
     # 2. Comparação entre Notas Geradas e Humanas
-    #plot_eval_human_scores(df_merged, output_path)
+    plot_eval_human_scores(df_merged, output_path)
 
     # 3. Erro de Validação
-    #plot_val_error(df_merged, output_path)
+    plot_val_error(df_merged, output_path)
 
     # 4. Comparação entre Números de Erros Gerados e Humanos
-    #plot_eval_human_num_errors(df_merged, df_human, output_path)
+    plot_eval_human_num_errors(df_merged, df_human, output_path)
     
     df_human_aligned = df_human.reindex(columns=df_merged.columns)
 

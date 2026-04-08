@@ -1,4 +1,4 @@
-YEAR="2018"
+YEAR="2022"
 EVALPATH="prompt_testing\sheets\sabia_${YEAR}_p7-15_3r.csv"
 HUMANPATH="prompt_testing\sheets\notas_humanas_${YEAR}.csv"
 
