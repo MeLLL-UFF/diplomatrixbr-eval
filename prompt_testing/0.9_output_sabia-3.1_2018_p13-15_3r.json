@@ -1,0 +1,1066 @@
+[
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "é fecundo em documentos.",
+      "novos canis de transmissão"
+    ],
+    "feedbacks": [
+      "A redação é bem estruturada com introdução clara, desenvolvimento coerente e conclusão consistente. O autor demonstra excelente capacidade de argumentação e interpretação do texto proposto, apresentando ideias articuladas e relevantes.",
+      "A argumentação é objetiva, com progressão lógica das ideias e informações pertinentes, fazendo um bom uso das referências ao texto de Oliveira Lima.",
+      "O autor realiza uma análise crítica e profunda, destacando a importância da informação diplomática confiável e como ela se diferencia das notícias propagadas em redes sociais e outros meios digitais. Demonstra também uma boa capacidade de reflexão e articulação das ideias.",
+      "A linguagem é adequada, fluente e clara, embora sejam identificados dois erros gramaticais."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "novos canis de transmissão de informações",
+      "Portanto",
+      "feedbacks"
+    ],
+    "feedbacks": [
+      "1A: A redação é bem estruturada, com uma introdução clara, desenvolvimento lógico e conclusão coesa. O texto é legível e fluido, e os parágrafos são bem articulados entre si.",
+      "1B: O candidato apresenta boa capacidade de argumentação, utilizando as informações de Oliveira Lima para fundamentar a tese de que o papel do diplomata é essencial em meio à proliferação de notícias falsas.",
+      "1C: O candidato demonstra uma análise crítica e profunda do tema, evidenciando a necessidade de adaptação dos diplomatas aos novos meios de comunicação e destacando a importância da informação confiável e privilegiada.",
+      "Erro gramatical: O correto é 'novos canais de transmissão de informações' em vez de 'novos canis de transmissão de informações'.",
+      "Erro gramatical: A palavra 'Portanto' deve iniciar com letra maiúscula após o parágrafo, pois indica o início de um novo parágrafo com sentido de conclusão.",
+      "Observação: Apesar dos erros gramaticais, a redação apresenta um bom nível de correção gramatical e propriedade na linguagem, com vocabulário preciso e adequado para o contexto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.5,
+    "nota_1C": 19,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "canais",
+      "o diplomata contemporâneo deve buscar explorar toda a potencialidade oferecida pelos novos canis de transmissão de informações"
+    ],
+    "feedbacks": [
+      "A redação possui uma estrutura clara, coerente e bem organizada, com uma introdução que estabelece o problema, um desenvolvimento que discute e argumenta a tese e uma conclusão que reafirma e sintetiza as ideias apresentadas.",
+      "A capacidade de argumentação é sólida, o candidato utiliza de forma eficiente as informações fornecidas no enunciado, especialmente as observações de Oliveira Lima, para sustentar sua tese sobre a importância da produção de informações confiáveis e privilegiadas pelo diplomata contemporâneo.",
+      "A análise é profunda e crítica, destacando não apenas o papel histórico do diplomata como produtor de informação, mas também enfatizando a relevância dessa função no contexto atual de disseminação de notícias falsas e imprecisas.",
+      "O texto apresenta fluidez e clareza, com vocabulário preciso e adequado, mantendo um alto nível de legibilidade. Contudo, pequenos erros gramaticais foram identificados e precisam ser corrigidos."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 55.3,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "canis deve ser substituído por canais"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa interpretação do tema, argumentação clara e consistente, e reflexão crítica relevante. O texto é bem estruturado, com introdução, desenvolvimento e conclusão coerentes e articuladas. As ideias são desenvolvidas de maneira lógica e progressiva. No entanto, há um erro gramatical na palavra 'canis', que deve ser 'canais'. A linguagem é precisa e adequada ao contexto, embora alguns trechos possam ser ligeiramente mais concisos. A referência a Oliveira Lima e a contextualização histórica demonstram um bom entendimento do tema."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 58.25,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O uso de 'canis' em vez de 'canais' é um erro ortográfico."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma ótima interpretação do texto proposto e do enunciado, demonstrando clareza e coerência ao desenvolver o tema. A argumentação é robusta e articulada, sustentada por exemplos pertinentes e referências claras a Oliveira Lima. A estrutura do texto segue uma progressão lógica, e o autor demonstra boa capacidade de análise e reflexão crítica.\nA linguagem utilizada é adequada e formal, com vocabulário preciso, apesar de um pequeno erro ortográfico. O texto é fluido e respeita as normas gramaticais, com exceção do erro mencionado. \nO candidato mostra originalidade e autonomia ao discutir a necessidade de adaptação dos diplomatas aos novos meios de comunicação e sua importância na era digital, reforçando o papel do diplomata como fonte de informação confiável e autorizada.\nA nota final reflete a alta qualidade do texto e a pequena falha ortográfica."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "meios digitais",
+      "novos canis"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa compreensão e interpretação do tema, com argumentos coerentes e bem fundamentados.",
+      "A linguagem é clara, objetiva e formal, com um bom domínio das normas gramaticais.",
+      "Existe um encadeamento lógico das ideias, demonstrando uma capacidade de sistematização e progressão.",
+      "Contudo, há dois erros gramaticais: 'novos canis' deveria ser 'novos canais' e a expressão 'meios digitais' poderia ser mais bem articulada, mantendo a fluidez.",
+      "O texto demonstra autonomia, reflexão crítica e é consistente ao defender a importância do diplomata na produção de informações confiáveis em meio à proliferação de notícias falsas.",
+      "Além disso, a estrutura do texto é bem elaborada, com uma introdução, desenvolvimento e conclusão claramente definidos.",
+      "A pertinência das informações e a utilização de referências à fala de Oliveira Lima evidenciam a capacidade de conectar passado e presente de maneira eficaz."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação é muito bem estruturada, seguindo uma progressão lógica e clara das ideias.",
+      "Há uma excelente capacidade de argumentação sobre o tema, com teses sustentadas de forma coerente e consistente.",
+      "O texto demonstra uma análise crítica e reflexão profunda sobre a evolução do papel do diplomata na produção de informações confiáveis.",
+      "O uso de referências ao trecho de Oliveira Lima é pertinente e bem integrado ao desenvolvimento do argumento.",
+      "O estilo é maduro, com riqueza vocabular e fluidez que facilitam a compreensão do leitor."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "corrigir \"canis\" para \"canais\""
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise profunda e coerente sobre o papel do diplomata como produtor de informação confiável e privilegiada, abordando tanto o passado quanto a realidade atual.",
+      "O candidato demonstra uma excelente interpretação do tema, articulando com propriedade a mudança no papel dos diplomatas em face da revolução tecnológica e da comunicação.",
+      "O desenvolvimento da redação é lógico e organizado, com argumentação sólida e bem fundamentada, fazendo uso pertinente das informações históricas fornecidas no enunciado.",
+      "A redação possui clareza e fluidez, com um vocabulário rico e adequado ao contexto formal e diplomático.",
+      "Há um bom uso de referências, especialmente a Oliveira Lima, que enriquecem o texto e reforçam a argumentação.",
+      "A redação atende plenamente aos critérios de correção gramatical e propriedade da linguagem, com pouquíssimos deslizes."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "canis"
+    ],
+    "feedbacks": [
+      "A redação possui uma boa estrutura, com clareza nas ideias e uma progressão lógica. A argumentação é consistente e bem fundamentada, fazendo uso das conferências de Oliveira Lima de forma relevante e pertinente. Apenas um erro gramatical foi encontrado no uso da palavra 'canis' em vez de 'canais'. A linguagem é adequada e demonstra um bom domínio da norma culta, com fluidez e precisão vocabular."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Na contemporaneidade, o surgimento da rede mundial de computadores 'a' difusão das redes sociais",
+      "o risco revela 'se' equivocado",
+      "recurso 'a' fim de prevenir"
+    ],
+    "feedbacks": [
+      "1A: A redação apresenta boa organização estrutural, com introdução, desenvolvimento e conclusão claramente delimitados. A argumentação é coesa e a leitura flui de maneira legível e coerente. Apenas algumas pequenas falhas de coesão entre parágrafos, e um uso um pouco excessivo de conjunções e advérbios que poderiam ser simplificados para maior fluidez.",
+      "1B: Argumentação sólida e bem estruturada, com exemplos claros e pertinentes que ilustram a tese. O candidato estabelece conexões claras entre o advento das redes sociais e a necessidade de renovação das funções diplomáticas, mostrando compreensão aprofundada do tema proposto.",
+      "1C: Análise crítica profunda e bem articulada, sobretudo na discussão sobre a obsolescência ou atualização do papel do diplomata face às novas tecnologias. Há clareza na argumentação sobre como as redes sociais podem ser utilizadas estrategicamente pela diplomacia, indicando maturidade intelectual e capacidade de reflexão.",
+      "CGPL: A redação apresenta poucos erros gramaticais, principalmente relacionados à crase e à colocação pronominal. Apesar disso, a linguagem é geralmente clara, precisa e adequada ao contexto formal e acadêmico. Poderia haver uma maior concisão para melhorar a fluidez do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 9.0,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Na contemporaneidade, o surgimento da rede mundial de computadores A difusão das redes sociais impõem",
+      "A disseminação de discursos de ódio e de notícias falsas exemplificam, nesse sentido,",
+      "Nesse contexto, as redes sociais representam ferramentas de baixo custo, em comparação aos meios de comunicação tradicionais.",
+      "Dessa maneira, os diplomatas tornam-se produtores de informação sobre o processo decisório, com a finalidade de fortalecer a legitimidade interna da diplomacia."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta boa estrutura com introdução, desenvolvimento e conclusão claros. A argumentação é coerente e legível, ainda que algumas frases sejam longas e complexas, o que pode prejudicar a fluidez do texto.",
+      "1B: O candidato apresenta argumentos objetivos e pertinentes sobre a evolução da função informacional do diplomata diante das novas tecnologias de comunicação. As ideias progridem de maneira lógica e articulada.",
+      "1C: Demonstra excelente capacidade de análise e reflexão crítica, abordando diferentes perspectivas e consequências das inovações comunicacionais na diplomacia. O raciocínio é rigoroso e profundamente articulado.",
+      "CGPL: O texto contém alguns erros gramaticais, como concordância em 'impõem' e 'exemplificam', e uma frase com problemas de clareza e fluidez ao final do terceiro parágrafo. Além disso, a linguagem é, no geral, adequada e precisa, mas poderia ser simplificada em algumas passagens complexas."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Na contemporaneidade, o surgimento da rede mundial de computadores 'a' difusão das redes sociais...",
+      "A necessidade de adaptação do diplomata.",
+      "...a fim de que possam discernir a magnitude dos acontecimentos."
+    ],
+    "feedbacks": [
+      "1A: O texto é coerente, possui legibilidade e clareza adequadas, e segue uma estrutura de introdução, desenvolvimento e conclusão bem definida. A linguagem é formal e a argumentação é fluída, embora possa ser mais sucinta em algumas partes.",
+      "1B: O candidato apresenta argumentos objetivos e sistematizados sobre o papel do diplomata em um contexto de avanços nos meios de comunicação. As ideias progridem de forma lógica e as informações são pertinentes e bem articuladas.",
+      "1C: A análise é profunda, crítica e articulada. O candidato demonstra uma compreensão clara das mudanças na função do diplomata e como estas se relacionam com a evolução dos meios de comunicação. A reflexão é consistente e rigorosa, defendendo com eficácia a tese de que a função informacional do diplomata é atualizada, mas não obsoleta.",
+      "CGPL: Há poucos erros gramaticais que não prejudicam significativamente a fluidez do texto. A linguagem é precisa e adequada ao contexto formal de uma redação do CACD."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Os diplomatas tornam-se produtores de informação para os públicos de diversos países.",
+      "Diante da disseminação das redes sociais e das ameaças à veracidade das informações veiculadas, as competências analíticas do diplomata tornam-se indispensáveis."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma organização clara e desenvolvimento coerente do tema, mostrando boa capacidade de interpretação do texto proposto e de argumentação sobre o tema. O candidato faz uma reflexão crítica e articulada, valorizando a renovação das funções do diplomata na era digital, a disseminação de informações qualificadas e o fortalecimento da transparência e legitimidade interna da diplomacia. É evidente a fluidez e clareza da expressão, com uso pertinente de referências e exemplos que sustentam a argumentação, e uma estruturação lógica do texto. Há apenas dois erros gramaticais menores: na primeira ocorrência, falta um 's' no final de 'países' e na segunda, 'veracidade' está escrito incorretamente como 'veracidade'."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "O diplomata continuará, sendo, dessa maneira, um produtor de informações imprescindível.",
+      "O aprimoramento das tecnologias de comunicação não redunda na obsolescência da função informacional do diplomata,",
+      "o monitoramento internacional sobre a política interna acentua-se"
+    ],
+    "feedbacks": [
+      "Excelente interpretação do tema proposto, com coerência, clareza e encadeamento das ideias.",
+      "Boa capacidade de argumentação e análise crítica, apresentando um desenvolvimento lógico.",
+      "O texto apresenta um bom uso de referências e exemplos pertinentes, como a citação de Oliveira Lima e os esclarecimentos sobre a Operação Carne Fraca.",
+      "Apenas poucos erros gramaticais foram identificados, prejudicando um pouco a fluidez e a precisão vocabular.",
+      "Originalidade e autonomia são evidentes, com uma perspectiva bem articulada sobre a evolução do papel do diplomata diante da era digital."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "tratam-se",
+      "na contemporaneidade",
+      "redunda"
+    ],
+    "feedbacks": [
+      "Excelente capacidade de argumentação e reflexão crítica sobre o tema, demonstrando excelente interpretação do texto de Oliveira Lima e das implicações da evolução das comunicações para a diplomacia contemporânea.",
+      "A redação apresenta progressão lógica clara, com ideias bem encadeadas e desenvolvidas.",
+      "Há um bom uso de exemplos e referências, como a Operação Carne Fraca, para sustentar os argumentos apresentados.",
+      "O texto é coeso e coerente, embora contenha alguns erros gramaticais menores.",
+      "A linguagem é formal e adequada ao contexto, mantendo a fluidez e clareza da expressão."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "o uso da palavra 'proscrição' que pode ser entendida como banimento, mas no contexto talvez 'diminuição' fosse mais apropriado",
+      "falta de crase em 'a fim de que possam discernir a magnitude dos acontecimentos', deveria ser 'à magnitude'",
+      "redundância em 'dotam a comunicação diplomática de maior agilidade, de forma a reforçar', poderia ser simplificado para 'dotam a comunicação diplomática de agilidade, reforçando'"
+    ],
+    "feedbacks": [
+      "A redação é bem articulada e desenvolve o tema com profundidade, utilizando argumentos sólidos e exemplos pertinentes, como a Operação Carne Fraca. Há uma excelente interpretação do texto de Oliveira Lima, mostrando que a função informacional do diplomata permanece relevante na era digital. A estrutura lógica do texto é clara e progride de maneira coerente, abordando tanto os desafios quanto as oportunidades trazidas pelas novas tecnologias de comunicação. A linguagem é formal e adequada, com poucos deslizes gramaticais que não comprometem a clareza geral do texto. A redação evidencia uma boa capacidade de reflexão e análise crítica, mantendo a objetividade e sistematização das ideias."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "à medida que",
+      "serão"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação robusta, estabelecendo conexões lógicas e profundas entre o avanço dos meios de comunicação e o papel contemporâneo do diplomata. A interpretação do texto de Oliveira Lima é pertinente, refletindo uma compreensão clara do contexto histórico e de suas implicações atuais. A argumentação se desenvolve de maneira coerente, sistematizada e progressiva, evidenciando análises relevantes e um alto nível de reflexão crítica. A linguagem é clara, precisa e articulada, com raras ocorrências de erros gramaticais que não chegam a prejudicar o entendimento global do texto. A estrutura lógica e a coesão textual são exemplares, proporcionando uma leitura fluente e envolvente. A originalidade se destaca nos exemplos citados, como a operação Carne Fraca, que reforçam a tese defendida de maneira eficaz."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "o uso do acento grave (crase) em 'a fim de que possam discernir a magnitude' deveria ser 'a fim de que possam discernir a magnitude dos acontecimentos'",
+      "o correto seria 'À medida que' em vez de 'À medida que os regimes'",
+      "o uso da conjunção 'como' em 'como ilustram os esforços' gerou uma pausa desnecessária, o correto seria 'Ilustram os esforços'",
+      "o verbo 'sobrepujar' deveria ser 'sobrepujam' para concordar com 'riscos'"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma argumentação clara, coerente e bem desenvolvida sobre o papel do diplomata na era digital.",
+      "A redação articula historicamente o contexto de Oliveira Lima com a realidade atual, mostrando compreensão ampla do tema.",
+      "Há poucos erros gramaticais, que não prejudicam significativamente a fluidez e clareza do texto.",
+      "O autor utiliza exemplos concretos e pertinentes para reforçar sua argumentação, como a 'Operação Carne Fraca', o que demonstra ágil capacidade de articular fatos recentes com o tema proposto.",
+      "O uso de redes sociais como ferramentas diplomáticas é bem explorado, com argumentos robustos e insights relevantes.",
+      "O texto mantém uma estrutura lógica e progressiva, facilitando a compreensão e o seguimento das ideias.",
+      "A redação atende plenamente aos critérios de fluidez, precisão vocabular e adequação à norma culta.",
+      "Originalidade e clareza são evidentes na abordagem do tema, posicionando a discussão em um nível analítico elevado."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Um erro de concordância verbal: 'uma vereadora recentemente assassinada no Rio de Janeiro teria relações' deveria ser 'uma vereadora, recentemente assassinada no Rio de Janeiro, teria tido relações'",
+      "Um erro de uso da crase: 'a fim de compreender o verdadeiro significado dos fatos' deveria ser 'a fim de compreender à verdadeira significação dos fatos'",
+      "Um erro de regência verbal: 'a fim de ser compreendido por seu interlocutor' deveria ser 'a fim de ser compreendido pelo seu interlocutor'"
+    ],
+    "feedbacks": [
+      "1A: A redação apresenta uma estrutura clara, com introdução, desenvolvimento e conclusão. As ideias são apresentadas de maneira coerente e o texto é legível, porém algumas frases são longas demais, comprometendo a fluidez. Há também uma repetição do termo 'atividade diplomática', o que poderia ser evitado com sinônimos.",
+      "1B: A argumentação é objetiva e segue uma progressão lógica, articulando bem o contexto histórico com a realidade atual. Contudo, há pouca sistematização de ideias, deixando a impressão de que alguns argumentos são esparsos.",
+      "1C: O candidato apresenta uma reflexão crítica e uma análise profunda sobre como a tecnologia influenciou a diplomacia. Mostra compreensão dos desafios contemporâneos e os contrasta com a realidade do passado, evidenciando a continuidade das habilidades necessárias aos diplomatas. Contudo, poderia aprofundar mais no impacto específico das fake news e na estratégia de verificação de informações.",
+      "CGPL: Há poucos erros gramaticais e o vocabulário utilizado é adequado e preciso, embora a repetição de certas construções frasais e termos possa ser melhorada."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Considerando a dificuldade de distribuição das notícias em razão da inexistência do telégrafo bem como o menor desenvolvimento dos jornais, o diplomata deveria escrever extensos relatos, a fim de manter o governo corretamente informado dos acontecimentos mundiais. (O uso de 'bem como' pode ser substituído por 'e', para maior fluidez)",
+      "visto que essas pessoas podem auxiliar na tarefa de melhor entender a realidade local. (O correto seria 'visto que essas pessoas podem auxiliar na tarefa de entender melhor a realidade local.')"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta uma estrutura clara, com introdução, desenvolvimento e conclusão identificáveis. A linguagem é formal e adequada ao contexto, mas poderia ser mais fluida em algumas passagens para aumentar a legibilidade e a coerência.",
+      "1B: A argumentação é objetiva, com uma boa sistematização das ideias. O candidato demonstra compreensão do tema e apresenta argumentos pertinentes, embora pudesse ser mais contundente em algumas conexões entre ideias.",
+      "1C: Há uma análise crítica e profunda, que articula bem a realidade antiga e atual da diplomacia, enfatizando o desafio crescente de lidar com a informação. A reflexão sobre a importância contínua das habilidades dos diplomatas é consistente e bem sustentada.",
+      "CGPL: O candidato demonstra correção gramatical quase perfeita, com apenas dois pequenos deslizes. A propriedade da linguagem e precisão vocabular são adequadas para o nível do concurso, embora algumas frases possam ser simplificadas para melhorar a fluidez."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "é importante ressaltar, entretanto, que uma vez que seu trabalho é dificultado pelo excesso de informações",
+      "é importante ressaltar, entretanto, que uma vez que o trabalho do diplomata é dificultado pelo excesso de informações"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura, com introdução clara, desenvolvimento consistente e conclusão. O texto é legível, mas em alguns momentos, a fluidez poderia ser melhorada. Os argumentos são apresentados de forma coerente e articulada.",
+      "A capacidade de argumentação é evidente, com ideias sistematizadas e progressão lógica. A defesa do ponto de vista é feita com uso pertinente de informações e exemplos.",
+      "A análise crítica é profunda e bem articulada, mostrando boa capacidade de reflexão. O candidato faz boas comparações entre diferentes períodos históricos e contextos tecnológicos, abordando a pluralização das fontes de informação e a disseminação de notícias falsas.",
+      "Dois erros gramaticais foram identificados, mas de forma geral, a linguagem é precisa e adequada ao contexto. A fluidez da expressão poderia ser melhorada em algumas passagens para maior clareza."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra excelente capacidade de interpretação do texto de Oliveira Lima, argumentando de maneira coerente e crítica sobre o papel do diplomata na era digital. A estrutura lógica do texto é clara e objetiva, com progressão lógica das ideias e uso pertinente de exemplos para sustentar a tese. A linguagem é precisa e fluida, sem erros gramaticais, e a análise feita reflete um entendimento profundo dos desafios e continuidades na atividade diplomática. Apenas um pequeno desconto foi aplicado por uma leve repetição de ideias e pela necessidade de maior brevidade em algumas seções."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "produzem notícias falsas com relativa facilidade, como foi o caso da divulgação, a fim de se atingir objetivo político espúrio, da informação de que uma vereadora recentemente assassinada no Rio de Janeiro teria relações com narcotraficantes"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma análise coerente e clara do papel do diplomata na produção de informações confiáveis, destacando a evolução da telecomunicação e seus impactos.",
+      "O candidato demonstrou excelente capacidade de argumentação e reflexão crítica, conectando o contexto histórico com a atualidade de forma relevante.",
+      "O texto segue uma estrutura lógica e organizada, com progressão natural das ideias e uma boa sistematização.",
+      "Erros gramaticais foram encontrados, mas não comprometeram significativamente a clareza e fluidez do texto.",
+      "O uso da linguagem é apropriado, com precisão vocabular e articulação de ideias de forma objetiva."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "impõe aos governantes a necessidade de se posicionarem rapidamente"
+    ],
+    "feedbacks": [
+      "O texto apresenta um excelente desenvolvimento do tema, com coerência e clareza, bem como uma interpretação precisa do texto de Oliveira Lima. A argumentação é consistente e reflete análise crítica do papel do diplomata na produção de informações confiáveis em uma era de superabundância de informações e notícias falsas. A estrutura do texto é lógica, com progressão clara das ideias. A fluidez e clareza da expressão são exemplos de rigor lógico e propriedade da linguagem. A redação valoriza a capacidade de articulação e a reflexão sobre o impacto das novas tecnologias e métodos de comunicação. No entanto, há um erro gramatical de concordância e um pequeno excesso na repetição de argumentos, o que poderia ser refinado para uma nota mais alta."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra uma compreensão clara do tema, conectando a evolução dos meios de comunicação com a atividade diplomática. Apresenta uma boa interpretação do texto de Oliveira Lima e utiliza exemplos contemporâneos para fortalecer a argumentação. A estrutura lógica do texto é evidente, com ideias apresentadas de maneira coerente e progressiva.",
+      "A linguagem é correta e adequada, respeitando a norma culta e a fluidez do texto. Embora a argumentação seja bastante clara e bem estruturada, observa-se uma abordagem previsível, sem aprofundamento em nuances que poderiam enriquecer a discursão, como, por exemplo, a discussão sobre a seleção e a verificação das fontes de informação.",
+      "O texto faz bom uso de exemplos práticos para ilustrar os desafios enfrentados pelos diplomatas modernos, como o caso da vereadora assassinada. No entanto, poderia ser mais eficiente na articulação das habilidades exigidas dos diplomatas com os desafios apresentados, como a verificação de notícias falsas e a análise de diversas narrativas.",
+      "A conclusão é satisfatória, reafirmando a importância da produção de informações confiáveis pelos diplomatas e a necessidade de aprimoramento contínuo. Contudo, poderia oferecer uma reflexão mais profunda sobre como essas habilidades tradicionais se adaptam à realidade atual.",
+      "No geral, a redação é clara, coerente e atende aos requisitos básicos do tema proposto. A utilização da linguagem é apropriada e sem erros gramaticais, embora careça de maior sofisticação e diversidade vocabular."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta um excelente desenvolvimento do tema, com argumentação clara, relevante e bem estruturada, destacando a evolução da atividade diplomática em diferentes contextos históricos e tecnológicos.",
+      "A abordagem é profunda, conectando a escassez de informações na era de Oliveira Lima com o excesso e a desinformação na era digital atual, o que demonstra reflexão crítica e análise sofisticada.",
+      "O candidato utiliza exemplos concretos e pertinentes para ilustrar a disseminação de notícias falsas, como o caso da vereadora do Rio de Janeiro, conferindo maior credibilidade e riqueza ao texto.",
+      "O domínio da norma culta é exemplar, com fluidez e clareza na expressão das ideias, sem erros gramaticais que comprometam a qualidade do texto.",
+      "A redação mantém-se aderente ao tema proposto, sem desvios ou superfluidades, e faz uso adequado de referências à realidade contemporânea, o que reforça a pertinência e atualidade da discussão."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma boa interpretação do tema proposto, relacionando-o com a realidade atual de maneira coerente e ágil.",
+      "A redação tem desenvolvimento lógico e progressão de ideias clara.",
+      "A argumentação é consistente, com exemplos concretos e referências pertinentes ao tema.",
+      "O uso de linguagem é apropriado para o contexto, apresentando fluidez e clareza."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "se nos tempos de Oliveira Lima",
+      "de outras formas, os filtros",
+      "a função de informar dos diplomatas tende a ser renovada"
+    ],
+    "feedbacks": [
+      "1A: A redação apresenta uma estrutura clara com introdução, desenvolvimento e conclusão bem definidos. Há fluidez na leitura e as ideias estão bem articuladas, mantendo coerência e coesão ao longo do texto. No entanto, em algumas partes, a complexidade das frases e a utilização de termos menos comuns poderiam dificultar a legibilidade para o leitor médio. A introdução estabelece bem a relação com o trecho proposto por Oliveira Lima, mas algumas transições poderiam ser mais suaves.",
+      "1B: O candidato argumenta de forma objetiva e apresenta progressão lógica das ideias, relacionando a função do diplomata na era pré-telégrafo com a realidade atual. Há uso eficiente de exemplos, como a citação de Mário Vargas Llosa, e a argumentação é consistente e bem fundamentada, abordando diferentes facetas do papel da mídia tradicional e das redes sociais.",
+      "1C: A análise é profunda e crítica, destacando o paradoxo da necessidade de rigor analítico em um contexto de imediaticidade e abundância de informações. Há uma boa articulação entre as ideias e uma reflexão crítica sobre a importância da diplomacia na atualidade. O texto apresenta uma tese clara e é desenvolvido com rigor lógico e autonomia de pensamento.",
+      "CGPL: O texto possui apenas alguns erros gramaticais leves e demonstra um uso adequado da linguagem, apesar de pequenas falhas na concordância e regência."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a legitimada questionada",
+      "as capacidades de"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura, clareza e coerência. A introdução estabelece uma conexão efetiva entre o passado e o presente, contextualizando o papel do diplomata conforme descrito por Oliveira Lima. O desenvolvimento aborda diferentes aspectos da difusão da informação e a necessidade de análise crítica, apoiando a tese com argumentos consistentes e progressão lógica. A conclusão é clara e resgata os pontos principais discutidos.\nA capacidade de argumentação é objetiva e bem estruturada, com exemplos e referências que corroboram o ponto de vista do candidato, como a menção a Mário Vargas Llosa.\nA análise crítica é aprofundada e articulada, explorando o papel dos diplomatas em uma realidade onde a confiabilidade das informações é questionada. A redação demonstra autonomia e reflexão, além de apresentar uma visão equilibrada sobre a importância da comunicação diplomática em contraste com a comunicação tradicional e digital.",
+      "A correção gramatical é geralmente boa, mas observam-se dois erros gramaticais que prejudicam a fluidez e a precisão vocabular: “a legitimada questionada” deveria ser “a legitimidade questionada” e “as capacidades de” poderia ser “a capacidade de” para evitar redundância e melhorar a clareza. A linguagem é adequada ao contexto formal da redação."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "a minúcia analítica que caracterizava o serviço diplomático, como indicado por Oliveira Lima, é fundamental em contexto de questionamento da legitimidade de informações e verdadeiro excesso de estímulo e distrações."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara com introdução, desenvolvimento e conclusão. A coerência e a legibilidade são mantidas ao longo do texto. A argumentação é objetiva, progride de forma lógica e apresenta informações pertinentes e articuladas, embora poderia ser mais incisiva em alguns pontos. A análise é profunda, crítica e bem-articulada, apresentando uma tese clara e sustentada com éxito. A linguagem é precisa, com poucos erros gramaticais e adequada ao contexto formal. Sugere-se maior atenção à concordância e ao uso de preposições."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "filtros impostos pelas redes sociais, que, em última análise, são monopólios como as mídias tradicionais. Se a competição entre o dinamismo das redes sociais e o profissionalismo das antigas mídias contribui para a difusão das informações, exige, igualmente, capacidade crítica dos leitores em contexto em que imperam as distrações."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação clara e coerente, desenvolvendo o tema de maneira lógica e abrangente, com interpretação adequada do texto proposto.",
+      "A análise crítica e reflexão sobre o papel do diplomata na produção de informações confiáveis em tempos de mídias digitais é bem elaborada e fundamentada, com uso pertinente de referências externas como Mário Vargas Llosa.",
+      "A estrutura do texto é sólida, com introdução, desenvolvimento e conclusão bem delineados. O candidato articula as ideias de forma original e autônoma, respeitando o rigor lógico.",
+      "A linguagem utilizada é adequada, com vocabulário preciso e fluidez, embora haja dois pequenos erros gramaticais: 'mídia' no singular deveria estar acompanhada de artigo e 'f iltros' possui um espaço desnecessário.",
+      "Apesar dos erros menores, a redação demonstra capacidade de agilidade intelectual e articulação de ideias, enfatizando a importância da diplomacia pública e a transição da política externa para uma política pública mais abrangente."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 56.3,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "filtros impostos pelas redes sociais, que, em última análise, são monopólios como as mídias tradicionais. Se a competição entre o dinamismo das redes sociais e o profissionalismo das antigas mídias contribui para a difusão das informações, exige, igualmente, capacidade crítica dos leitores em contexto em que imperam as distrações. (Erro: 'em que' poderia ser substituído por 'no qual' para melhor fluidez e clareza)",
+      "As capacidades de produção de informações confiáveis e de análise crítica dos diplomatas adquirem, nesse contexto, papel central. (Erro: Concordância. O correto seria 'A capacidade de produção de informações confiáveis e de análise crítica dos diplomatas adquire, nesse contexto, papel central.')",
+      "no caso da política externa, a função de informar dos diplomatas tende as ser renovada. (Erro: O correto é 'a função de informar dos diplomatas tende a ser renovada.')"
+    ],
+    "feedbacks": [
+      "A redação é bem estruturada e desenvolve o tema com clareza, coerência e profundidade.",
+      "A argumentação é robusta, utilizando-se de referências como Mário Vargas Llosa para fundamentar a análise crítica sobre a legitimidade e a confiabilidade das informações na era digital.",
+      "O candidato demonstra excelente capacidade de interpretação do texto de Oliveira Lima e articula de forma muito eficiente a relação entre a produção de informações por diplomatas no passado e na atualidade.",
+      "O uso de linguagem é adequado e fluente, com apenas poucos deslizes gramaticais que não prejudicam significativamente a compreensão do texto.",
+      "A tese defendida, de que as capacidades analíticas e críticas dos diplomatas são ainda mais necessárias em um mundo saturado de informações, é original e bem sustentada.",
+      "O candidato evidencia habilidade em combinar a necessidade de preservação de métodos tradicionais de produção de informação com a integração de novas tecnologias, exemplificando com o uso das mídias sociais pelo Itamaraty."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 55.33,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "f iltros impostos pelas redes sociais"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma interpretação coerente e articulada do tema, com ágil intelectualidade e articulação de ideias. A argumentação é bem fundamentada, com reflexão crítica e uso de referências pertinentes como Mário Vargas Llosa. A estrutura lógica é clara e a progressão das ideias é fluida. A linguagem é apropriada, embora haja um erro gramatical menor, possivelmente fruto de uma digitação apressada. A discussão sobre o papel atual do diplomata como produtor de informação confiável, em contraste com a era de Oliveira Lima, é relevante e bem desenvolvida, refletindo uma compreensão robusta da realidade contemporânea e seus desafios."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"legitimada\" deve ser substituído por \"legitimidade\".",
+      "\"f iltros\" deveria ser escrito como \"filtros\" (sem espaço)"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente interpretação do tema e habilidade para argumentar com coerência e clareza. As ideias são desenvolvidas de maneira sistemática, com boa progressão lógica e pertinência das informações apresentadas.",
+      "O texto é bem estruturado, apresentando uma análise crítica da evolução dos meios de comunicação e seu impacto sobre a função dos diplomatas. O candidato evidencia reflexão aprofundada e argumentação sólida.",
+      "A linguagem é correta e fluente, com poucos deslizes gramaticais. O uso de vocabulário preciso e apropriado, assim como a referência a Mário Vargas Llosa, enriquecem a argumentação.",
+      "Os insights sobre a função renovada dos diplomatas como produtores de informações confiáveis em uma era de fake news são pertinentes e refletem uma boa compreensão do papel da diplomacia na contemporaneidade.",
+      "A conclusão reitera a importância da função dos diplomatas, defendendo a sua evolução em face dos desafios atuais, sem negar a comunicação como parte vital do processo. A ideia de \"diplomacia pública\" é articulada com clareza."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "f iltros"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente interpretação do tema, desenvolvendo argumentos robustos e profundamente articulados. A defesa da tese é clara e coesa, e o texto evidencia uma compreensão sofisticada da realidade atual, especialmente no que tange ao papel do diplomata na era da informação. A linguagem é precisa, com vocabulário rico e fluente, e a estrutura lógica é exemplar. O candidato demonstra um excelente domínio do tema, utilizando de maneira eficiente as referências fornecidas, como Oliveira Lima e Mário Vargas Llosa, para reforçar sua argumentação. A qualidade da análise e a profundidade das ideias apresentadas denotam originalidade e reflexão crítica. Apenas um erro de digitação foi identificado (“filtros”), o que não compromete a excelência geral do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "último 'traço' de escrevinhadores, digamos antes de escritores, a fim de não amarrotar-lhes a memória, que distingue principalmente os agentes políticos de outrora dos seus confrades atuais..."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma excelente interpretação do tema proposto, articulando-se de maneira clara, coerente e com uma progressão lógica. O candidato demonstra uma compreensão profunda do papel do diplomata como produtor de informações confiáveis em um contexto de informação imediata e muitas vezes volátil. A argumentação é sofisticada e sustentada com exemplos pertinentes, como a citação de Mário Vargas Llosa. A linguagem é apropriada e refletida, evidenciando um excelente domínio da norma padrão e uma riqueza vocabular. Ótima capacidade de reflexão e análise crítica, destacando-se também a originalidade e clareza na exposição das ideias. Nota-se uma pequena imprecisão no uso de referências ou expressões, que não compromete o conjunto do texto."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "no trecho 'cabe a eles interpretar a realidade', o verbo 'interpretar' deveria estar no infinitivo pessoal, 'interpretarem', para concordar com o sujeito 'eles'.",
+      "no trecho 'o diplomata deve produzir informações acerca de diversas questões técnicas', a palavra 'acerca' deveria ser substituída por 'a cerca', para indicar 'sobre diversas questões técnicas'.",
+      "no trecho 'A atuação diplomática, hoje, é mais importante que no passado', seria mais adequado usar 'do que' no lugar de 'que', para uma melhor clareza e fluidez."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta boa legibilidade, clareza e estrutura, dividindo-se em introdução, desenvolvimento e conclusão. Há coerência na articulação das ideias, embora algumas frases poderiam ser mais concisas para melhorar a fluidez.",
+      "1B: A capacidade de argumentação é robusta. O candidato utiliza exemplos pertinentes, como a negociação comercial entre o Mercosul e a União Europeia, para sustentar a tese. Há progressão lógica clara nas ideias apresentadas.",
+      "1C: A análise é profunda e crítica, abordando a evolução do papel do diplomata e a relevância da diplomacia pública no século XXI. Há uma boa articulação de ideias, com argumentos bem fundamentados e coerentes.",
+      "CGPL: Apesar dos poucos erros gramaticais, o texto apresenta excelente estrutura e clareza, além de uso pertinente de referências e argumentos. A fluidez e a precisão vocabular são adequadas, ainda que algumas pequenas correções gramaticais possam melhorar a expressão."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A: A redação apresenta uma estrutura clara, com introdução que contextualiza o tema, desenvolvimento que argumenta a importância da diplomacia na atualidade e conclusão que reforça essa relevância. A linguagem é coerente, legível e clara, com boa articulação entre as ideias. A fluidez do texto é mantida por meio de uma estruturação lógica.",
+      "1B: A argumentação é sólida e objetiva, cobrindo diferentes dimensões da atuação do diplomata contemporâneo. Há uma sistematização das ideias, desde a formação rigorosa dos diplomatas até a sua contribuição para a política pública e a democracia. As informações apresentadas são pertinentes e bem articuladas, evidenciando a capacidade de argumentação do autor.",
+      "1C: O texto é crítico e analítico, abordando profundamente a evolução do papel do diplomata em um mundo saturado de informações e fake news. O autor articula bem a ideia de que a diplomacia moderna envolve não só a produção de informação confiável para o Estado, mas também para a sociedade, e faz uma reflexão original sobre a atuação dos diplomatas como promotores da democracia e intermediários entre a incerteza global e as comunidades nacionais. O rigor lógico é mantido ao longo do texto.",
+      "CGPL: Não foram identificados erros gramaticais, e a linguagem usada é apropriada para um texto desse nível, apresentando clareza, precisão vocabular e adequação ao contexto formal e acadêmico do concurso."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "nenhum erro gramatical significativo, mas correção de \"cabe aos diplomatas\" para \"compete aos diplomatas\" melhoraria a precisão vocabular."
+    ],
+    "feedbacks": [
+      "O candidato demonstrou boa organização textual, com introdução, desenvolvimento e conclusão claros e coerentes, mas poderia ter utilizado parágrafos mais distintos para melhorar a legibilidade.",
+      "A capacidade de argumentação foi bem estruturada e progressiva, mantendo a objetividade e a pertinência das informações ao tema proposto.",
+      "A análise crítica e reflexão foram profundas e articuladas, mostrando entendimento dos desafios contemporâneos da diplomacia e a relevância do papel do diplomata em um cenário de difusão imediata de notícias.",
+      "A linguagem foi precisa e adequada, embora um ajuste vocabular poderia enriquecer ainda mais o texto. Pontuação e ortografia foram, em geral, muito boas."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O telégrafo ainda não existia."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com coerência, clareza e progressão lógica das ideias. O autor utiliza exemplos pertinentes para sustentar suas argumentações, evidenciando uma interpretação crítica e aprofundada do tema. A linguagem é formal e adequada, com apenas um pequeno deslize gramatical (no caso, seria uma correção meramente estilística, visto que a frase 'O telégrafo ainda não existia.' está de acordo com a norma culta, mas poderia ser mais bem integrada ao fluxo do texto). A redação é rica em vocabulário, com estrutura bem-articulada, e o candidato demonstra excelente capacidade de argumentação e autonomia. Apenas algumas ideias poderiam ser mais aprofundadas ou detalhadas para alcançar a nota máxima."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma interpretação profunda e coerente do papel dos diplomatas como produtores de informação confiável e privilegiada, especialmente em um contexto de crescimento das notícias falsas e difusão imediata da informação. O candidato articula de forma clara a evolução da função diplomática e sua relevância atual. Não foram encontrados erros gramaticais, e a linguagem é apropriada para a prova, com vocabulário preciso e uso fluente da norma culta. A argumentação é sólida e faz uso eficiente de referências históricas e conceituais para reforçar a tese central. A progressão lógica das ideias está bem construída, contribuindo para uma análise crítica e abrangente do tema."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 55.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "cabe aos diplomatas e não “aos diplomatas\" (falta de crase)",
+      "em negociações diplomáticas complexas (redundância)",
+      "o diplomata deve produzir informações acerca de diversas questões técnicas (repetição da palavra 'informações' próxima)"
+    ],
+    "feedbacks": [
+      "A redação demonstra boa capacidade de interpretação do tema proposto, abordando o papel do diplomata na produção de informação confiável e privilegiada em uma realidade marcada pela difusão imediata e abrangente de notícias.",
+      "O texto apresenta argumentação clara, coerente e bem desenvolvida, destacando a importância da formação rigorosa e da atuação em diversas frentes, incluindo o fornecimento de informações precisas e privilegiadas para tomadores de decisão e a sociedade.",
+      "A progressão lógica das ideias é satisfatória, com a utilização de exemplos pertinentes e o reforço da importância da diplomacia pública para garantir a transparência e a coerência da política externa com as necessidades da sociedade.",
+      "O uso de linguagem é adequado, ainda que haja alguns deslizes gramaticais como a falta de crase, redundância e repetição de termos. Em geral, a expressão é fluida e clara.",
+      "O candidato mostra uma visão abrangente e crítica sobre o papel do diplomata moderno, alinhada com a realidade de um mundo onde a informação circula rápida e abundantemente, nem sempre com confiabilidade."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "em crescentes tensões globais",
+      "em Formação Histórica da Nacionalidade Brasileira",
+      "ao passo que o diplomata não é"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma boa estrutura, com argumentação clara e coerente sobre a importância dos diplomatas como produtores de informação confiável e privilegiada no contexto atual.",
+      "A comparação entre o papel dos diplomatas no passado e no presente foi bem elaborada, sustentando a tese de que a função se mantém essencial, mas com novas nuances.",
+      "Pequenos erros gramaticais foram identificados, como a falta de crase, uso incorreto de maiúsculas e problemas de concordância verbal, que não comprometem a qualidade geral.",
+      "O texto demonstra capacidade de reflexão e análise crítica, citando exemplos relevantes e utilizando conceitos de maneira articulada e precisa.",
+      "A argumentação é consistente e as ideias progridem logicamente, ainda que a originalidade e profundidade não alcancem níveis excepcionais."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "em crescentes tensões globais",
+      "em razão disso",
+      "crescente irracionalismo"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa compreensão e interpretação do tema proposto, bem como uma argumentação clara e coerente. A estrutura lógica é adequada e as ideias são bem articuladas. A linguagem é correta, com poucos erros gramaticais e um vocabulário apropriado para o nível de complexidade exigido. Apresenta exemplos pertinentes e discute o papel do diplomata na sociedade atual com proficiência.",
+      "O candidato demonstrou uma excelente capacidade de argumentação sobre o tema, destacando a importância da produção de informações confiáveis e privilegiadas pelos diplomatas frente à difusão de notícias, inclusive falsas, na atualidade.",
+      "Algumas imprecisões linguísticas foram identificadas e são pontuais. A fluidez e a clareza do texto não foram prejudicadas de forma significativa.",
+      "O uso de exemplos, como a negociação entre o Mercosul e a União Europeia, ilustrou de maneira eficaz a argumentação e contribuiu para a compreensão do papel do diplomata na elaboração de políticas externas."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação demonstra excelente interpretação do tema, articulação de ideias e argumentação consistente.",
+      "O texto apresenta boa estrutura lógica, clareza e fluidez, facilitando a compreensão do leitor.",
+      "A argumentação é desenvolvida com profundidade e relevância, integrando bem o contexto histórico e a realidade atual.",
+      "O uso de referências, como a citação de Oliveira Lima e exemplos concretos, enriquece a discussão e mostra domínio temático avançado.",
+      "O texto é objetivo, sistemático e progressivo, abordando diferentes aspectos do papel do diplomata contemporaneamente.",
+      "A linguagem é formal e adequada, sem apresentar erros gramaticais significativos."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 8,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "potencialmente",
+      "desinformação",
+      "para além das consequências imediatas*"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta boa coerência e clareza, além de uma estrutura que segue a divisão introdução-desenvolvimento-conclusão. Contudo, há momentos de menor fluidez e alguns parágrafos poderiam ser melhor organizados para facilitar a leitura.",
+      "1B: A argumentação é sólida e objetiva, com boa progressão das ideias e informações pertinentes, embora ocasionalmente o desenvolvimento de alguns pontos careça de mais detalhamento ou exemplos concretos.",
+      "1C: A análise e reflexão crítica são bem desenvolvidas, com ideias articuladas e profundas. O candidato demonstra autonomia no raciocínio e capacidade de integrar o contexto histórico com a realidade contemporânea.",
+      "CGPL: Há poucos erros gramaticais, a linguagem é geralmente precisa e adequada, embora existam algumas incorreções de ortografia e pontuação que comprometem a fluidez e clareza. A palavra 'potencialmente' apresenta um erro de digitação (ausência de acento), 'desinformação' foi usada de forma correta mas poderia ser melhor articulada no contexto, e o uso de '*' após 'imediatas' é inadequado, provavelmente um erro de digitação."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "ao início do século XIX* (deveria ser \"ao início do século XIX,\", faltou uma vírgula)",
+      "para evitar desinformação junto ao público doméstico – como no caso de manipulações eleitorais – e junto às sociedades estrangeiras – para evitar prejuízos... (deveria ser \"...doméstico, como no caso de manipulações eleitorais, e junto às sociedades estrangeiras para evitar prejuízos...\", vírgulas para separar orações)",
+      "constituem narrativas. Por vezes, esse processo dá-se de forma deliberada... (deveria ser \"constituem narrativas, e por vezes esse processo dá-se de forma deliberada...\", conjunção 'e' para unir frases curtas e evitar uma pausa desnecessária)"
+    ],
+    "feedbacks": [
+      "1A: A redação apresenta boa estrutura, coerência e clareza. O autor introduz a temática com um panorama histórico, desenvolve argumentos sólidos ao longo do texto, e conclui de maneira articulada. Há poucos desvios de estilo e estrutura que não prejudicam a legibilidade geral.",
+      "1B: A capacidade de argumentação é evidente, com análise objetiva e progressão lógica que incorpora as transformações da diplomacia ao longo dos séculos. Os argumentos são relevantes e contribuem para a defesa da tese, que a função do diplomata evoluiu de simplesmente relatar para analisar e difundir informações de modo criterioso.",
+      "1C: A análise crítica é profunda e articulada, abordando a democratização da informação, os desafios de sigilo e a responsabilidade do diplomata. A argumentação é autônoma e reflete uma compreensão robusta do papel contemporâneo da diplomacia, atendendo ao rigor lógico exigido.",
+      "CGPL: Foram identificados poucos erros gramaticais e há adequação geral da linguagem ao contexto formal exigido pela prova. A expressão é fluida e precisa, apesar de algumas falhas pontuais em pontuação e estilo."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "*pontualização - no início do século XIX",
+      "o que motiva, por vezes, mistificações."
+    ],
+    "feedbacks": [
+      "1A: O texto é claro, bem estruturado e apresenta boa fluidez, embora poderia ser mais conciso em alguns trechos para evitar a redundância e melhorar a legibilidade.",
+      "1B: A capacidade de argumentação é robusta, com progressão lógica e pertinência das informações. As ideias são apresentadas de forma objetiva e sistemática.",
+      "1C: Demonstra excelente capacidade de análise e reflexão crítica, abordando a evolução do papel da diplomacia de forma profunda e articulada, com originalidade e autonomia de pensamento.",
+      "CGPL: A correção gramatical é bastante boa, com poucos erros. O uso da linguagem é adequado, embora tenha alguns deslizes em precisão vocabular e pontuação."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 13,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 55.67,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "*imediatas"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente capacidade de interpretação e articulação em torno do tema proposto, com argumentação consistente e reflexão crítica sobre o papel dos diplomatas na era digital. A estrutura lógica é clara e flui bem, proporcionando uma boa compreensão e desenvolvimento progressivo das ideias. O uso de referências como Oliveira Lima e a análise da transição histórica da diplomacia conferem profundidade ao texto. A linguagem é adequada, com precisão vocabular, embora haja um erro de digitação menor (“imediatas” no lugar de “consequências imediatas”)."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "*imediatas"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma análise clara e coerente sobre a evolução do papel do diplomata desde o século XIX até os dias atuais. O texto utiliza argumentos pertinentes e é bem-estruturado, com uma progressão lógica das ideias. A interpretação do contexto histórico e a reflexão sobre a relevância atual da diplomacia são destacadas. Contudo, há um pequeno erro gramatical que compromete minimamente a fluidez. A linguagem é adequada e precisa, com uso pertinente de referências ao contexto histórico e técnico da diplomacia. A tese é defendida com articulação e originalidade."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "*além das consequências imediatas,"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma boa organização e desenvolvimento do tema, com argumentação clara, coerente e baseada em uma interpretação sólida do contexto histórico e diplomático. A análise das transformações na diplomacia ao longo do tempo é perspicaz e bem fundamentada, mostrando uma excelente capacidade de reflexão e articulação de ideias. A estrutura lógica é fluida, com progressão clara das ideias. A linguagem utilizada é apropriada e precisa, com apenas um pequeno erro gramatical na frase 'para além das consequências imediatas* as informações produzidas pelos diplomatas constituem narrativas', onde falta uma vírgula após 'imediatas'. O uso de referências históricas e a discussão das implicações das comunicações digitais na diplomacia são pertinentes e enriquecem a discussão. A conclusão é bem conectada com a argumentação apresentada ao longo do texto, destacando a evolução do papel do diplomata e a importância da produção de informações confiáveis e relevantes."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 14,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "*imediata: as informações produzidas pelos diplomatas constituem narrativas. Por vezes, esse processo dá-se de forma deliberada, nos discursos e na interpretação opinativa da política corrente, por meio de artigos jornalísticos ou da produção acadêmica."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente capacidade de interpretação do texto proposto por Oliveira Lima, abordando o tema de maneira clara, coerente e profunda. O autor apresenta uma argumentação sofisticada e estruturada, utilizando exemplos relevantes e atuais para sustentar seu ponto de vista. A reflexão crítica e a análise são bem desenvolvidas, evidenciando um pensamento ágil e articulado. O texto está livre de erros gramaticais significativos, exceto por uma pequena imprecisão na concordância (“para além das consequências imediatas” em vez de “para além das consequências imediatas”), mas isso não compromete a qualidade geral do texto. A linguagem é apropriada, com uso efetivo de vocabulário avançado e fluidez na expressão. A redação apresenta insights teóricos e uma compreensão matura do tema, caracterizando-se por uma abordagem original e clara. A progressão lógica e a sistematização das ideias são exemplares, destacando o papel contemporâneo do diplomata na era digital e o contraste com a realidade histórica descrita por Oliveira Lima."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "para além das consequências imediatas* as",
+      "para a avaliação histórico"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma argumentação clara e estruturada sobre o papel do diplomata na realidade atual, comparando diferentes épocas e contextos. O texto é coeso e as ideias fluem logicamente, com boa articulação entre os parágrafos e dentro deles. O autor sustenta suas teses com exemplos pertinentes e analisa a complexidade do tema de maneira ágil e intelectualmente articulada.",
+      "Apesar disso, existem dois erros gramaticais: o uso incorreto do asterisco em vez de uma vírgula em 'para além das consequências imediatas* as' e a falta de concordância em 'para a avaliação histórico', que deveria ser 'para a avaliação histórica'.",
+      "A linguagem é apropriada para o contexto, demonstrando domínio razoável da norma padrão, mas com poucos deslizes gramaticais que não comprometem a qualidade do texto.",
+      "O uso de referências à Oliveira Lima e a comparação histórica com o período do início do século XIX evidenciam uma boa capacidade de reflexão e análise crítica, além de originalidade no desenvolvimento do tema."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "*para além das consequências imediatas* (deveria estar sem asteriscos e possivelmente com uma vírgula)",
+      "registro automático e imediato (redundante, poderia ser simplificado)",
+      "produção acadêmica (possivelmente deveria estar junto, sem espaço)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e é coerente ao desenvolver a ideia de que o papel do diplomata mudou ao longo do tempo, tornando-se mais complexo devido às transformações nas comunicações e na política. Contudo, há alguns deslizes gramaticais e pequenas redundâncias que podem ser aprimoradas.",
+      "O candidato demonstra boa capacidade de argumentação e utiliza exemplos relevantes para sustentar sua tese, abordando aspectos importantes como a evolução das comunicações, a necessidade de transparência e responsabilidade na diplomacia moderna.",
+      "A redação poderia ser mais fluida e precisa em alguns trechos, mas o conteúdo é adequado e pertinente ao tema proposto.",
+      "A conclusão é clara e coesa, ressaltando a importância do diplomata na atualidade como filtrador de informações confiáveis em um cenário de abundância informativa."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 15,
+    "temp": 0.9,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  }
+]
