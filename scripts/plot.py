@@ -74,10 +74,9 @@ def plot_val_error(df, output_path, *, temp=None, prompt=None):
             data=df,
             x="redacao",
             y="val_error",
-            hue="prompt",
-            style="temp",
+            hue="temp",
             marker="o",
-            palette=["#000000"],
+            palette=["#444DFA", "#FA4743", "#FAD543", "#43FA7F"],
             ax=ax
         )
 
@@ -85,7 +84,7 @@ def plot_val_error(df, output_path, *, temp=None, prompt=None):
     if temp is not None:
         title += f"\n Temperatura {temp}"
     if prompt is not None:
-        title += f"\n Prompt {prompt}"
+        title += f"\n Prompt {df.iloc[0, 1]}"
     ax.set_title(title)
 
     ax.set_xlabel("Redação")
@@ -189,7 +188,7 @@ def plot_eval_human_scores(df, output_path, *, temp=None, prompt=None):
         axes.set_ylim(35, 60)
         axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
         axes.spines[['top', 'right']].set_visible(False)
-        plt.suptitle(f"{title}\n Prompt: {prompt}", fontsize=16)
+        plt.suptitle(f"{title}\n Prompt: {df.iloc[0, 1]}", fontsize=16)
 
     
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
@@ -291,7 +290,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, *, temp=None, p
         axes.set_yticks([0, 1, 2, 3, 4])
         axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
         axes.spines[['top', 'right']].set_visible(False)
-        plt.suptitle(f"{title}\n Prompt: {prompt}", fontsize=16)
+        plt.suptitle(f"{title}\n Prompt: {df_merged.iloc[0, 1]}", fontsize=16)
 
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
     plt.savefig(f"{output_path}/comparacao_num_erros.png", dpi=300, bbox_inches='tight')
