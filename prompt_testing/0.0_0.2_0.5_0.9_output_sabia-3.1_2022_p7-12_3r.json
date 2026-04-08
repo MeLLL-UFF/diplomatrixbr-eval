@@ -645,7 +645,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 1,
         "ano": "2022"
@@ -664,7 +664,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 1,
         "ano": "2022"
@@ -685,7 +685,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 1,
         "ano": "2022"
@@ -767,7 +767,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 1,
         "ano": "2022"
@@ -787,7 +787,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 1,
         "ano": "2022"
@@ -806,7 +806,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 1,
         "ano": "2022"
@@ -825,7 +825,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 1,
         "ano": "2022"
@@ -843,7 +843,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 1,
         "ano": "2022"
@@ -867,7 +867,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 1,
         "ano": "2022"
@@ -885,7 +885,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 1,
         "ano": "2022"
@@ -903,7 +903,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 1,
         "ano": "2022"
@@ -917,7 +917,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 1,
         "ano": "2022"
@@ -977,7 +977,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 1,
         "ano": "2022"
@@ -991,7 +991,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 1,
         "ano": "2022"
@@ -1005,7 +1005,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 1,
         "ano": "2022"
@@ -1019,7 +1019,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 1,
         "ano": "2022"
@@ -1031,7 +1031,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 1,
         "ano": "2022"
@@ -1051,7 +1051,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 1,
         "ano": "2022"
@@ -1063,7 +1063,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 1,
         "ano": "2022"
@@ -1077,7 +1077,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 1,
         "ano": "2022"
@@ -1089,7 +1089,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 1,
         "ano": "2022"
@@ -1150,7 +1150,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 1,
         "ano": "2022"
@@ -1162,7 +1162,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 1,
         "ano": "2022"
@@ -1174,7 +1174,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 1,
         "ano": "2022"
@@ -1188,7 +1188,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 1,
         "ano": "2022"
@@ -1206,7 +1206,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 1,
         "ano": "2022"
@@ -1218,7 +1218,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 1,
         "ano": "2022"
@@ -1852,7 +1852,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 2,
         "ano": "2022"
@@ -1871,7 +1871,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 2,
         "ano": "2022"
@@ -1891,7 +1891,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 2,
         "ano": "2022"
@@ -1967,7 +1967,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 2,
         "ano": "2022"
@@ -1986,7 +1986,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 2,
         "ano": "2022"
@@ -2006,7 +2006,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 2,
         "ano": "2022"
@@ -2025,7 +2025,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 2,
         "ano": "2022"
@@ -2044,7 +2044,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 2,
         "ano": "2022"
@@ -2068,7 +2068,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 2,
         "ano": "2022"
@@ -2086,7 +2086,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 2,
         "ano": "2022"
@@ -2104,7 +2104,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 2,
         "ano": "2022"
@@ -2122,7 +2122,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 2,
         "ano": "2022"
@@ -2182,7 +2182,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 2,
         "ano": "2022"
@@ -2194,7 +2194,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 2,
         "ano": "2022"
@@ -2208,7 +2208,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 2,
         "ano": "2022"
@@ -2230,7 +2230,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 2,
         "ano": "2022"
@@ -2242,7 +2242,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 2,
         "ano": "2022"
@@ -2256,7 +2256,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 2,
         "ano": "2022"
@@ -2274,7 +2274,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 2,
         "ano": "2022"
@@ -2292,7 +2292,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 2,
         "ano": "2022"
@@ -2304,7 +2304,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 2,
         "ano": "2022"
@@ -2365,7 +2365,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 2,
         "ano": "2022"
@@ -2382,7 +2382,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 2,
         "ano": "2022"
@@ -2398,7 +2398,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 2,
         "ano": "2022"
@@ -2415,7 +2415,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 2,
         "ano": "2022"
@@ -2427,7 +2427,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 2,
         "ano": "2022"
@@ -2439,7 +2439,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 2,
         "ano": "2022"
@@ -3088,7 +3088,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 3,
         "ano": "2022"
@@ -3107,7 +3107,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 3,
         "ano": "2022"
@@ -3126,7 +3126,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 3,
         "ano": "2022"
@@ -3210,7 +3210,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 3,
         "ano": "2022"
@@ -3231,7 +3231,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 3,
         "ano": "2022"
@@ -3251,7 +3251,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 3,
         "ano": "2022"
@@ -3274,7 +3274,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 3,
         "ano": "2022"
@@ -3298,7 +3298,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 3,
         "ano": "2022"
@@ -3320,7 +3320,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 3,
         "ano": "2022"
@@ -3334,7 +3334,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 3,
         "ano": "2022"
@@ -3348,7 +3348,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 3,
         "ano": "2022"
@@ -3362,7 +3362,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 3,
         "ano": "2022"
@@ -3421,7 +3421,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 3,
         "ano": "2022"
@@ -3435,7 +3435,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 3,
         "ano": "2022"
@@ -3449,7 +3449,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 3,
         "ano": "2022"
@@ -3470,7 +3470,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 3,
         "ano": "2022"
@@ -3486,7 +3486,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 3,
         "ano": "2022"
@@ -3500,7 +3500,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 3,
         "ano": "2022"
@@ -3516,7 +3516,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 3,
         "ano": "2022"
@@ -3533,7 +3533,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 3,
         "ano": "2022"
@@ -3551,7 +3551,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 3,
         "ano": "2022"
@@ -3614,7 +3614,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 3,
         "ano": "2022"
@@ -3626,7 +3626,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 3,
         "ano": "2022"
@@ -3640,7 +3640,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 3,
         "ano": "2022"
@@ -3658,7 +3658,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 3,
         "ano": "2022"
@@ -3674,7 +3674,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 3,
         "ano": "2022"
@@ -3686,7 +3686,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 3,
         "ano": "2022"
@@ -4397,7 +4397,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 4,
         "ano": "2022"
@@ -4420,7 +4420,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 4,
         "ano": "2022"
@@ -4443,7 +4443,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 4,
         "ano": "2022"
@@ -4536,7 +4536,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 4,
         "ano": "2022"
@@ -4554,7 +4554,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 4,
         "ano": "2022"
@@ -4575,7 +4575,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 4,
         "ano": "2022"
@@ -4597,7 +4597,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 4,
         "ano": "2022"
@@ -4617,7 +4617,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 4,
         "ano": "2022"
@@ -4640,7 +4640,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 4,
         "ano": "2022"
@@ -4658,7 +4658,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 4,
         "ano": "2022"
@@ -4675,7 +4675,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 4,
         "ano": "2022"
@@ -4692,7 +4692,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 4,
         "ano": "2022"
@@ -4763,7 +4763,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 4,
         "ano": "2022"
@@ -4784,7 +4784,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 4,
         "ano": "2022"
@@ -4798,7 +4798,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 4,
         "ano": "2022"
@@ -4817,7 +4817,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 4,
         "ano": "2022"
@@ -4841,7 +4841,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 4,
         "ano": "2022"
@@ -4855,7 +4855,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 4,
         "ano": "2022"
@@ -4872,7 +4872,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 4,
         "ano": "2022"
@@ -4890,7 +4890,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 4,
         "ano": "2022"
@@ -4908,7 +4908,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 4,
         "ano": "2022"
@@ -4972,7 +4972,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 4,
         "ano": "2022"
@@ -4988,7 +4988,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 4,
         "ano": "2022"
@@ -5000,7 +5000,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 4,
         "ano": "2022"
@@ -5012,7 +5012,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 4,
         "ano": "2022"
@@ -5024,7 +5024,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 4,
         "ano": "2022"
@@ -5038,7 +5038,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 4,
         "ano": "2022"
@@ -5739,7 +5739,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 5,
         "ano": "2022"
@@ -5762,7 +5762,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 5,
         "ano": "2022"
@@ -5785,7 +5785,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 5,
         "ano": "2022"
@@ -5871,7 +5871,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 5,
         "ano": "2022"
@@ -5894,7 +5894,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 5,
         "ano": "2022"
@@ -5918,7 +5918,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 5,
         "ano": "2022"
@@ -5941,7 +5941,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 5,
         "ano": "2022"
@@ -5962,7 +5962,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 5,
         "ano": "2022"
@@ -5984,7 +5984,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 5,
         "ano": "2022"
@@ -6002,7 +6002,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 5,
         "ano": "2022"
@@ -6019,7 +6019,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 5,
         "ano": "2022"
@@ -6036,7 +6036,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 5,
         "ano": "2022"
@@ -6104,7 +6104,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 5,
         "ano": "2022"
@@ -6125,7 +6125,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 5,
         "ano": "2022"
@@ -6141,7 +6141,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 5,
         "ano": "2022"
@@ -6160,7 +6160,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 5,
         "ano": "2022"
@@ -6174,12 +6174,28 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 5,
         "ano": "2022"
     },
-    
+    {
+        "nota_final": 52.5,
+        "numero_de_erros_gramaticais": 2,
+        "erros_gramaticais": [
+            "papeis",
+            "dianteira"
+        ],
+        "feedbacks": [
+            "A redação aborda o papel da diplomacia em diferentes contextos, com uma boa argumentação. Contudo, há alguns erros de ortografia, como 'papeis' (deveria ser 'papéis') e 'dianteira' (deveria ser 'vanguarda' ou 'linha de frente' para melhor ajuste no contexto). A expressão 'diplomáticos' no trecho sobre diplomacia cultural deveria ser 'diplomáticas' para concordar com 'ações'. No geral, o texto apresenta boa organizção, desenvolvimento claro do tema e relevância histórica. Argumentações são consistentes e há referências adequadas ao padrão de resposta, embora possa haver uma pequena melhoria na propriedade linguística."
+        ],
+        "modelo": "sabia-3.1",
+        "prompt": 11,
+        "temp": 0.9,
+        "versao": 3,
+        "essay": 5,
+        "ano": "2022"
+    },
     {
         "faixa": "Excelente",
         "numero_de_erros_gramaticais": 0,
@@ -6189,7 +6205,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 5,
         "ano": "2022"
@@ -6207,7 +6223,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 5,
         "ano": "2022"
@@ -6223,7 +6239,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 5,
         "ano": "2022"
@@ -6277,7 +6293,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 5,
         "ano": "2022"
@@ -6291,7 +6307,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 5,
         "ano": "2022"
@@ -6305,7 +6321,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 5,
         "ano": "2022"
@@ -6323,7 +6339,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 5,
         "ano": "2022"
@@ -6339,7 +6355,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 5,
         "ano": "2022"
@@ -6359,7 +6375,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 5,
         "ano": "2022"
@@ -6976,7 +6992,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 6,
         "ano": "2022"
@@ -6995,7 +7011,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 6,
         "ano": "2022"
@@ -7014,7 +7030,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 6,
         "ano": "2022"
@@ -7092,7 +7108,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 6,
         "ano": "2022"
@@ -7111,7 +7127,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 6,
         "ano": "2022"
@@ -7132,7 +7148,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 6,
         "ano": "2022"
@@ -7151,7 +7167,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 6,
         "ano": "2022"
@@ -7171,7 +7187,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 6,
         "ano": "2022"
@@ -7190,7 +7206,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 10,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 6,
         "ano": "2022"
@@ -7208,7 +7224,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 6,
         "ano": "2022"
@@ -7222,7 +7238,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 6,
         "ano": "2022"
@@ -7239,7 +7255,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 6,
         "ano": "2022"
@@ -7302,7 +7318,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 6,
         "ano": "2022"
@@ -7320,7 +7336,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 6,
         "ano": "2022"
@@ -7334,7 +7350,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 6,
         "ano": "2022"
@@ -7350,7 +7366,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 6,
         "ano": "2022"
@@ -7364,7 +7380,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 6,
         "ano": "2022"
@@ -7382,7 +7398,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 11,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 6,
         "ano": "2022"
@@ -7399,7 +7415,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 1,
         "essay": 6,
         "ano": "2022"
@@ -7414,7 +7430,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 2,
         "essay": 6,
         "ano": "2022"
@@ -7426,7 +7442,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.0",
+        "temp": 0.0,
         "versao": 3,
         "essay": 6,
         "ano": "2022"
@@ -7482,7 +7498,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 1,
         "essay": 6,
         "ano": "2022"
@@ -7494,7 +7510,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 2,
         "essay": 6,
         "ano": "2022"
@@ -7512,7 +7528,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.5",
+        "temp": 0.5,
         "versao": 3,
         "essay": 6,
         "ano": "2022"
@@ -7526,7 +7542,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 1,
         "essay": 6,
         "ano": "2022"
@@ -7543,7 +7559,7 @@
         ],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 2,
         "essay": 6,
         "ano": "2022"
@@ -7555,7 +7571,7 @@
         "feedbacks": [],
         "modelo": "sabia-3.1",
         "prompt": 12,
-        "temp": "0.9",
+        "temp": 0.9,
         "versao": 3,
         "essay": 6,
         "ano": "2022"

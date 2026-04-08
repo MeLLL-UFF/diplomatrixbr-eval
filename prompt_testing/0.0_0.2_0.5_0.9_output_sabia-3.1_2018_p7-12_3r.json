@@ -4060,7 +4060,28 @@
     "essay": 4,
     "ano": "2018"
   },
-  
+  {
+    "nota_1A": 8,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "legitimada questionada",
+      "f iltros impostos"
+    ],
+    "feedbacks": [
+      "1A: A redação apresenta boa coerência e legibilidade, com um estilo claro e adequado ao tema. Contudo, a transição entre algumas ideias poderia ser mais suave, e o uso de parágrafos poderia ser melhor distribuído para melhorar a leitura.",
+      "1B: O candidato demonstra excelente capacidade de argumentação, com objetividade e sistematização. As informações são pertinentes e bem desenvolvidas, conectando o passado com o presente de forma lógica.",
+      "1C: A análise crítica é muito bem realizada, abordando a questão da confiabilidade das informações em um mundo saturado de notícias e destacando o papel renovado da diplomacia. O candidato apresenta reflexões profundas e pertinentes, conectando-as com o contexto histórico e atual.",
+      "CGPL: Há dois erros gramaticais: em 'legitimada questionada' o correto seria 'legitimidade questionada', e 'f iltros impostos' deveria ser 'filtros impostos' (remover o espaço desnecessário). No geral, a linguagem é propriedade e a correção gramatical é adequada."
+    ],
+    "modelo": "sabia-3.1",
+    "prompt": 7,
+    "temp": 0.5,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
   {
     "nota_1A": 9,
     "nota_1B": 8,
