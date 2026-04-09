@@ -306,3 +306,16 @@ def plot_error_heatmap(df, outputpath):
     axes = sns.heatmap(df_treated, annot=True, cmap="magma", vmin=1, vmax=9)
     plt.suptitle("RMSE notas")
     plt.savefig(f"{outputpath}/RMSE_notas_heatmap.png")
+
+def plot_corr_heatmap(df, year):
+    fig, axes = plt.subplots(1, 2, figsize=(12,10))
+    df_corr_pearson = df.corr(method="pearson")
+    df_corr_pearson = pd.DataFrame(df_corr_pearson["human"])
+    df_corr_spearman = df.corr(method="spearman")
+    df_corr_spearman = pd.DataFrame(df_corr_spearman["human"])
+    axes[0] = sns.heatmap(df_corr_pearson, annot=True, vmax=1, vmin=-1, cmap="RdYlGn", fmt=".4f", ax=axes[0], cbar=False)
+    axes[0].set_title("Correlação de Pearson")
+    axes[1] = sns.heatmap(df_corr_spearman, annot=True, vmax=1, vmin=-1, cmap="RdYlGn", fmt=".4f", ax=axes[1])
+    axes[1].set_title("Correlação de Spearman")
+    plt.suptitle(f"Correlações {year}")
+    plt.show()

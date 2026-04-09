@@ -8,7 +8,7 @@ from sklearn.metrics import cohen_kappa_score, roc_auc_score
 from sklearn.preprocessing import MinMaxScaler
 import yaml
 
-from .plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error, plot_error_heatmap
+from .plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error, plot_error_heatmap, plot_corr_heatmap
 from .utils import get_mean
 
 def print_full(df):
@@ -70,8 +70,6 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
         prompts_yaml = yaml.safe_load(file)
         prompts = prompts_yaml['prompts']
 
-    plot_error_heatmap(df_merged, output_path)
-
     plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
 
     # 2. Comparação entre Notas Geradas e Humanas
@@ -116,6 +114,12 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
       plot_eval_human_scores(df_per_prompt, promptpaths, prompt=prompt)
 
       plot_eval_human_num_errors(df_per_prompt, df_human, promptpaths, prompt=prompt)
+
+    # 7. Plotando heatmap dos erros
+    plot_error_heatmap(df_merged, output_path)
+
+    # 8. Plotando heatmap das correlações
+    plot_corr_heatmap(df_notas_normalizado, year)
 
     # Gerando resumo em markdown
     md_content = f"""# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
