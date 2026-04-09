@@ -299,10 +299,10 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, *, temp=None, p
 def plot_error_heatmap(df, outputpath):
     df_treated = df[["temp", "prompt", "val_error_squared"]]
     df_treated = df_treated.groupby(by=["temp", "prompt"]).mean()
+    df_treated["val_error_squared"] = df_treated["val_error_squared"] ** 0.5
     df_treated = df_treated.reset_index()
     df_treated = df_treated.pivot(index="temp", columns="prompt", values="val_error_squared")
     fig, axes = plt.subplots(figsize=(10,6))
     axes = sns.heatmap(df_treated, annot=True, cmap="magma")
-    plt.suptitle("MSE notas")
-    plt.show()
-    plt.close()
+    plt.suptitle("RMSE notas")
+    plt.savefig(f"{outputpath}/MSE_notas_heatmap.png")
