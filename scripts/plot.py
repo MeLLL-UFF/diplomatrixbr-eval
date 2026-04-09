@@ -51,7 +51,7 @@ def plot_distribuicao_notas(df_eval, df_human, prompts, output_path):
     plt.savefig(f"{output_path}/distribuicao_notas.png", dpi=300, bbox_inches='tight')
     plt.close()
 
-def plot_val_error(df, output_path, *, temp=None, prompt=None):
+def plot_val_error(df, output_path, year, *, temp=None, prompt=None):
     fig, ax = plt.subplots(figsize=(10, 6))
 
     df = df.copy()
@@ -80,7 +80,7 @@ def plot_val_error(df, output_path, *, temp=None, prompt=None):
             ax=ax
         )
 
-    title = "Análise de Erro de Validação"
+    title = f"Análise de Erro de Validação \n {year}"
     if temp is not None:
         title += f"\n Temperatura {temp}"
     if prompt is not None:
@@ -101,7 +101,7 @@ def plot_val_error(df, output_path, *, temp=None, prompt=None):
     plt.savefig(f"{output_path}/area_val_error.png", dpi=300, bbox_inches='tight')
     plt.close()
 
-def plot_eval_human_scores(df, output_path, *, temp=None, prompt=None):
+def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
     if temp == None and prompt == None:
         fig, axes = plt.subplots(1, 2, figsize=(14, 5))
     else:
@@ -118,7 +118,7 @@ def plot_eval_human_scores(df, output_path, *, temp=None, prompt=None):
         mask_humano = df["judge"] == "humano"
         df.loc[mask_humano, "temp"] = "Humano"
 
-    title = "Comparação de Nota Gerada e Nota Humana por Redação"
+    title = f"Comparação de Nota Gerada e Nota Humana por Redação \n {year}"
 
     if temp == None and prompt == None:
         sns.lineplot(
@@ -195,7 +195,7 @@ def plot_eval_human_scores(df, output_path, *, temp=None, prompt=None):
     plt.savefig(f"{output_path}/comparacao_notas.png", dpi=300, bbox_inches='tight')
     plt.close()
 
-def plot_eval_human_num_errors(df_merged, df_human, output_path, *, temp=None, prompt=None):
+def plot_eval_human_num_errors(df_merged, df_human, output_path, year, *, temp=None, prompt=None):
     if temp == None and prompt == None:
         fig, axes = plt.subplots(1, 2, figsize=(14, 5))
     else:
@@ -221,7 +221,7 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, *, temp=None, p
     df_merged["prompt"] = df_merged["prompt"].astype(str)
     df_merged["prompt"] = df_merged["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão", "13":"13 - Critério COM genérico", "14":"14 - Total COM genérico", "15":"15 - Faixa COM genérico"})
 
-    title = "Comparação de Número de Erros Gerados e Humanos por Redação"
+    title = f"Comparação de Número de Erros Gerados e Humanos por Redação \n {year}"
 
     if temp == None and prompt == None:
         sns.lineplot(
@@ -296,13 +296,26 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, *, temp=None, p
     plt.savefig(f"{output_path}/comparacao_num_erros.png", dpi=300, bbox_inches='tight')
     plt.close()
 
-def plot_error_heatmap(df, outputpath):
+def plot_error_heatmap(df, outputpath, year):
     df_treated = df[["temp", "prompt", "val_error_squared"]]
     df_treated = df_treated.groupby(by=["temp", "prompt"]).mean()
     df_treated["val_error_squared"] = df_treated["val_error_squared"] ** 0.5
     df_treated = df_treated.reset_index()
     df_treated = df_treated.pivot(index="temp", columns="prompt", values="val_error_squared")
     fig, axes = plt.subplots(figsize=(10,6))
-    axes = sns.heatmap(df_treated, annot=True, cmap="magma", vmin=1, vmax=9)
-    plt.suptitle("RMSE notas")
+    axes = sns.heatmap(df_treated, annot=True, cmap="RdYlGn_r", vmin=1, vmax=9)
+    plt.suptitle(f"RMSE notas {year}")
     plt.savefig(f"{outputpath}/RMSE_notas_heatmap.png")
+
+def plot_corr_heatmap(df, outputpath, year):
+    fig, axes = plt.subplots(1, 2, figsize=(12,10))
+    df_corr_pearson = df.corr(method="pearson")
+    df_corr_pearson = pd.DataFrame(df_corr_pearson["human"])
+    df_corr_spearman = df.corr(method="spearman")
+    df_corr_spearman = pd.DataFrame(df_corr_spearman["human"])
+    axes[0] = sns.heatmap(df_corr_pearson, annot=True, vmax=1, vmin=-1, cmap="RdYlGn", fmt=".4f", ax=axes[0], cbar=False)
+    axes[0].set_title("Correlação de Pearson")
+    axes[1] = sns.heatmap(df_corr_spearman, annot=True, vmax=1, vmin=-1, cmap="RdYlGn", fmt=".4f", ax=axes[1])
+    axes[1].set_title("Correlação de Spearman")
+    plt.suptitle(f"Correlações {year}")
+    plt.savefig(f"{outputpath}/correlacoes.png")
