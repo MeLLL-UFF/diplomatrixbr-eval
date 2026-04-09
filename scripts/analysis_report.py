@@ -144,15 +144,20 @@ Nesta seção, apresentamos a comparação entre as notas finais geradas pelo mo
   </tr>
 </table>
 
-## 4. Análise de Erros Gramaticais
+## 4. Análise de RMSE por Prompt e Temperatura
+Nesta seção, apresentamos o heatmap de RMSE calculado por combinação de prompt e temperatura.
+
+![Heatmap RMSE](RMSE_notas_heatmap.png)
+
+## 5. Análise de Erros Gramaticais
 Comparação da sensibilidade do modelo na detecção/geração de erros em relação ao padrão humano.
 
 ![Comparação de Número de Erros](comparacao_num_erros.png)
 
-## 5. Correlação de Pearson
+## 6. Correlação de Pearson
 {df_notas_normalizado.corr(method='pearson').to_markdown()}
 
-## 6. Correlação de Spearman
+## 7. Correlação de Spearman
 {df_notas_normalizado.corr(method='spearman').to_markdown()}
 
 ## Estatísticas Descritivas
