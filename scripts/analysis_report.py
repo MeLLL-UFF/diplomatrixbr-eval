@@ -8,7 +8,7 @@ from sklearn.metrics import cohen_kappa_score, roc_auc_score
 from sklearn.preprocessing import MinMaxScaler
 import yaml
 
-from .plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error
+from .plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error, plot_error_heatmap
 from .utils import get_mean
 
 def print_full(df):
@@ -31,7 +31,7 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
 
     #Tratando apenas hiperparâmetros desejáveis
     df_eval["prompt"] = df_eval["prompt"].astype(int)
-    #df_eval = df_eval[(df_eval["prompt"] != 10)]
+    #df_eval = df_eval[(df_eval["prompt"] != 10) & (df_eval["prompt"] != 7) & (df_eval["prompt"] != 13)]
     df_eval["temp"] = df_eval["temp"].astype(float)
     #df_eval = df_eval[df_eval["temp"] != 0.9]
 
@@ -42,6 +42,7 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
     df_merged = df_eval.merge(
     df_human[["redacao", "nota_final", "num_errors"]].rename(columns={"nota_final": "nota_humana", "num_errors": "erros_humano"}), on="redacao")
     df_merged["val_error"] =  abs(df_merged["nota_humana"] - df_merged["nota_final"])
+    df_merged["val_error_squared"] = df_merged["val_error"] ** 2
 
     df_notas = pd.DataFrame()
     df_notas['redacao'] = df_merged["redacao"].unique()
@@ -69,19 +70,21 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
         prompts_yaml = yaml.safe_load(file)
         prompts = prompts_yaml['prompts']
 
-    plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
+    plot_error_heatmap(df_merged, output_path)
+
+    #plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
 
     # 2. Comparação entre Notas Geradas e Humanas
-    plot_eval_human_scores(df_merged, output_path)
+    #plot_eval_human_scores(df_merged, output_path)
 
     # 3. Erro de Validação
-    plot_val_error(df_merged, output_path)
+    #plot_val_error(df_merged, output_path)
 
     # 4. Comparação entre Números de Erros Gerados e Humanos
-    plot_eval_human_num_errors(df_merged, df_human, output_path)
+    #plot_eval_human_num_errors(df_merged, df_human, output_path)
     
     df_human_aligned = df_human.reindex(columns=df_merged.columns)
-
+    """
 		# 5. Avaliaação por Temperatura
     for temperatura in df_merged["temp"].unique():
       temppaths = os.path.join(output_path, "temps", f"temp {str(temperatura)}")
@@ -113,7 +116,7 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
       plot_eval_human_scores(df_per_prompt, promptpaths, prompt=prompt)
 
       plot_eval_human_num_errors(df_per_prompt, df_human, promptpaths, prompt=prompt)
-
+    """
     # Gerando resumo em markdown
     md_content = f"""# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
 **Gerado em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}**
