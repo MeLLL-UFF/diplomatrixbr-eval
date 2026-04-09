@@ -303,6 +303,6 @@ def plot_error_heatmap(df, outputpath):
     df_treated = df_treated.reset_index()
     df_treated = df_treated.pivot(index="temp", columns="prompt", values="val_error_squared")
     fig, axes = plt.subplots(figsize=(10,6))
-    axes = sns.heatmap(df_treated, annot=True, cmap="magma")
+    axes = sns.heatmap(df_treated, annot=True, cmap="magma", vmin=1, vmax=9)
     plt.suptitle("RMSE notas")
     plt.savefig(f"{outputpath}/RMSE_notas_heatmap.png")

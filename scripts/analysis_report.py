@@ -116,7 +116,7 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
       plot_eval_human_scores(df_per_prompt, promptpaths, prompt=prompt)
 
       plot_eval_human_num_errors(df_per_prompt, df_human, promptpaths, prompt=prompt)
-      
+
     # Gerando resumo em markdown
     md_content = f"""# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
 **Gerado em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}**
