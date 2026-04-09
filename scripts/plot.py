@@ -295,3 +295,14 @@ def plot_eval_human_num_errors(df_merged, df_human, output_path, *, temp=None, p
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
     plt.savefig(f"{output_path}/comparacao_num_erros.png", dpi=300, bbox_inches='tight')
     plt.close()
+
+def plot_error_heatmap(df, outputpath):
+    df_treated = df[["temp", "prompt", "val_error_squared"]]
+    df_treated = df_treated.groupby(by=["temp", "prompt"]).mean()
+    df_treated = df_treated.reset_index()
+    df_treated = df_treated.pivot(index="temp", columns="prompt", values="val_error_squared")
+    fig, axes = plt.subplots(figsize=(10,6))
+    axes = sns.heatmap(df_treated, annot=True, cmap="magma")
+    plt.suptitle("MSE notas")
+    plt.show()
+    plt.close()
