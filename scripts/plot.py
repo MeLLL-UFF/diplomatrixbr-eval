@@ -305,4 +305,4 @@ def plot_error_heatmap(df, outputpath):
     fig, axes = plt.subplots(figsize=(10,6))
     axes = sns.heatmap(df_treated, annot=True, cmap="magma")
     plt.suptitle("RMSE notas")
-    plt.savefig(f"{outputpath}/MSE_notas_heatmap.png")
+    plt.savefig(f"{outputpath}/RMSE_notas_heatmap.png")
