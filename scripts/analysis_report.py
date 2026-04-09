@@ -72,19 +72,19 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
 
     plot_error_heatmap(df_merged, output_path)
 
-    #plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
+    plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
 
     # 2. Comparação entre Notas Geradas e Humanas
-    #plot_eval_human_scores(df_merged, output_path)
+    plot_eval_human_scores(df_merged, output_path)
 
     # 3. Erro de Validação
-    #plot_val_error(df_merged, output_path)
+    plot_val_error(df_merged, output_path)
 
     # 4. Comparação entre Números de Erros Gerados e Humanos
-    #plot_eval_human_num_errors(df_merged, df_human, output_path)
+    plot_eval_human_num_errors(df_merged, df_human, output_path)
     
     df_human_aligned = df_human.reindex(columns=df_merged.columns)
-    """
+
 		# 5. Avaliaação por Temperatura
     for temperatura in df_merged["temp"].unique():
       temppaths = os.path.join(output_path, "temps", f"temp {str(temperatura)}")
@@ -116,7 +116,7 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
       plot_eval_human_scores(df_per_prompt, promptpaths, prompt=prompt)
 
       plot_eval_human_num_errors(df_per_prompt, df_human, promptpaths, prompt=prompt)
-    """
+      
     # Gerando resumo em markdown
     md_content = f"""# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
 **Gerado em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}**
