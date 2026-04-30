@@ -115,13 +115,11 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
                 contents=prompt_formatado,
                 config=types.GenerateContentConfig(
                   temperature=i,
-                  # max_output_tokens=2048,
-                  response_mime_type="application/json",
+                  max_output_tokens=4096,
+                  # response_mime_type="application/json",
                   response_schema=formato_resposta,
                 ),
               )
-
-              print(f"Resposta bruta: {response.text}")
 
               response = extrair_json(response.text)
               response['modelo'] = 'gemma-4-31b-it'

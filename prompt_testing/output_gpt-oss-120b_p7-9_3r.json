@@ -1,0 +1,455 @@
+[
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 17,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta o artigo \"da\" em \"possibilidade de erradicação guerra\"",
+      "Erro de concordância em \"os conflitos são algo inerente\" (singular/plural)",
+      "Vírgula desnecessária em \"a guerra acontece, quando\"",
+      "Ausência de espaço após ponto antes de \"Uma diplomacia bem‑sucedida\"",
+      "Hifenização incorreta em \"apoiou- se\" (deve ser \"apoiou‑se\")"
+    ],
+    "feedbacks": [
+      "Apresentação geral: texto bem organizado em parágrafos, fonte legível e estilo adequado, embora apresente algumas falhas pontuais de pontuação; nota 8/10.",
+      "Argumentação: argumentos bem fundamentados com referências históricas e teóricas pertinentes, porém com leves repetições e algumas formulações pouco precisas; nota 8/10.",
+      "Análise e reflexão: demonstra compreensão profunda das ideias de Einstein e Freud, relacionando-as à diplomacia e a episódios históricos relevantes, oferecendo reflexão crítica consistente; nota 17/20."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência do artigo definido em 'possibilidade de erradicação guerra' (deve ser 'da guerra')",
+      "Vírgula desnecessária após 'esforço' na frase 'é necessário um esforço, para estabelecer...'",
+      "Vírgula antes de 'quando' em 'a guerra acontece, quando a política...' (vírgula indevida)",
+      "Falta de espaço após ponto antes de 'Uma diplomacia bem-sucedida...'",
+      "Erro de hifenização em 'apoiou- se' (deve ser 'apoiou-se')"
+    ],
+    "feedbacks": [
+      "Apresentação geral boa, com coerência e estilo adequado, porém pequenos deslizes de pontuação.",
+      "Argumentação bem estruturada, com referências históricas pertinentes, embora algumas repetições enfraqueçam a objetividade.",
+      "Análise profunda e reflexiva, conectando as ideias de Einstein, Freud e a diplomacia a contextos históricos relevantes.",
+      "Foram identificados 5 erros gramaticais/pontuação, resultando em nota 15/20 para correção gramatical."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8,
+    "nota_1C": 17,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "faltou a preposição \"da\" em \"erradicação guerra\"",
+      "concordância verbal incorreta em \"os conflitos são algo\"",
+      "vírgula desnecessária após \"esforço,\"",
+      "vírgula desnecessária após \"acontece,\"",
+      "concordância de gênero em \"tendências agressivas humanas mencionados\" (deveria ser \"mencionadas\")",
+      "ausência de espaço após o ponto antes de \"Uma diplomacia bem-sucedida\"",
+      "hífen incorreto em \"apoiou- se\""
+    ],
+    "feedbacks": [
+      "Apresentação clara, boa legibilidade e estilo adequado, com organização em parágrafos; pequenos deslizes de pontuação.",
+      "Argumentação consistente, uso pertinente de fontes históricas e teóricas; porém algumas repetições e falta de aprofundamento em alguns pontos.",
+      "Análise profunda, relacionando diplomacia com ideias de Einstein e Freud e trazendo exemplos históricos relevantes; reflexão crítica bem desenvolvida.",
+      "Identificados 7 erros gramaticais (preposição ausente, concordância verbal, vírgulas desnecessárias, concordância de gênero, espaço faltante, hífen incorreto)."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "faltou a preposição 'da' em 'erradicação guerra'",
+      "preposição extra 'à' em 'natureza humana à vida em comunidade'",
+      "erro tipográfico 'apoiou- se' ao invés de 'apoiou-se'"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com boa coesão e uso adequado de referências históricas e teóricas",
+      "Alguns deslizes gramaticais e de pontuação comprometem a perfeição; revise preposições e correções tipográficas"
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 53.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta do artigo definido em \"possibilidade de erradicação guerra\" (deveria ser \"da guerra\").",
+      "Concordância verbal incorreta em \"os conflitos são algo inerente\" (deveria ser \"é algo inerente\" ou \"são algo inerentes\").",
+      "Erro de hifenização em \"apoiou- se\" (deveria ser \"apoiou-se\")."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização, com introdução, desenvolvimento e conclusão claros, e utiliza bem referências históricas e teóricas para sustentar o argumento.",
+      "Os exemplos de mediação diplomática e dos acordos de não‑proliferação nuclear enriquecem a argumentação e demonstram domínio do tema.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão, mas recomenda‑se revisão de concordância e atenção à pontuação e à ortografia para melhorar a apresentação."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "‘possibilidade de erradicação guerra’ – falta o artigo ‘da’ antes de ‘guerra’",
+      "‘a guerra acontece, quando…’ – vírgula desnecessária antes de ‘quando’",
+      "‘apoiou- se’ – hífen e espaço incorretos; o correto é ‘apoiou‑se’"
+    ],
+    "feedbacks": [
+      "Redação bem estruturada, com boa introdução, desenvolvimento e conclusão, e uso adequado de referências históricas.",
+      "Argumentação coerente e demonstra domínio do tema, relacionando diplomacia e os textos de Einstein e Freud.",
+      "Cuidado com pequenos deslizes gramaticais e de pontuação, como o uso de artigos, vírgulas e hífens."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência da preposição 'da' em 'erradicação guerra' (deve ser 'erradicação da guerra').",
+      "Vírgula desnecessária após 'acontece' na frase 'a guerra acontece, quando a política...'",
+      "Uso incorreto do infinitivo 'desenvolverem' após o verbo 'fez'; o correto é 'desenvolver'.",
+      "Falta de espaço após o ponto antes de 'Uma diplomacia bem-sucedida...'",
+      "Hifenização incorreta em 'apoiou- se'; o correto é 'apoiou-se'."
+    ],
+    "feedbacks": [
+      "Revisar pontuação para evitar vírgulas desnecessárias.",
+      "Atentar à concordância verbal e ao uso correto dos infinitivos.",
+      "Verificar a ortografia e a correta separação de palavras (espaços após pontuação).",
+      "Cuidar da grafia de preposições e artigos para garantir clareza.",
+      "Manter a estrutura coesa, mas buscar maior sofisticação lexical para avançar para a faixa 'Excelente'."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Falta de preposição em 'possibilidade de erradicação guerra' (deve ser 'erradicação da guerra')",
+      "Conjunção ausente em 'algo inerente à natureza humana à vida em comunidade' (deve ser 'e')",
+      "Vírgula desnecessária antes de 'quando' em 'a guerra acontece, quando a política...'",
+      "Uso incorreto de infinitivo após 'fez' em 'fez as potências desenvolverem' (deve ser 'desenvolver')",
+      "Ausência de espaço após ponto em 'causar.Uma'",
+      "Hífen incorreto em 'apoiou- se' (deve ser 'apoiou-se')"
+    ],
+    "feedbacks": [
+      "Revisar o uso de preposições para garantir concordância correta.",
+      "Atentar para a pontuação, evitando vírgulas desnecessárias que interrompem a fluidez.",
+      "Corrigir construções verbais após verbos como 'fez', usando o infinitivo simples.",
+      "Verificar a formatação de espaços após pontos finais.",
+      "Ajustar a ortografia de palavras compostas e hífens.",
+      "Continuar mantendo a estrutura argumentativa sólida e o uso de referências históricas."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Ausência da preposição \"da\" em \"erradicação guerra\" (deveria ser \"erradicação da guerra\").",
+      "Falta de conjunção ou pontuação em \"algo inerente à natureza humana à vida em comunidade\" (deveria ser \"à natureza humana e à vida em comunidade\").",
+      "Vírgula desnecessária em \"a guerra acontece, quando\".",
+      "Erro de concordância verbal em \"fez as potências desenvolverem\" (deveria ser \"fez as potências desenvolver\").",
+      "Ausência de espaço após o ponto em \"...poder causar.Uma diplomacia...\".",
+      "Hifenização incorreta em \"apoiou- se\" (deveria ser \"apoiou-se\")."
+    ],
+    "feedbacks": [
+      "Reforce a revisão de preposições e conjunções para garantir fluidez e correção sintática.",
+      "Cuidado com vírgulas excessivas que podem interromper o fluxo da frase.",
+      "Atente-se à concordância verbal, especialmente em construções com verbos auxiliares como \"fez\".",
+      "Revise a pontuação final de sentenças para evitar erros de espaçamento.",
+      "Verifique a ortografia de palavras compostas e hifenizações para evitar quebras desnecessárias."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 8,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"Por haver enganado a morte\" deve ser \"Por ter enganado a morte\" (uso incorreto do infinitivo composto).",
+      "\"Apesar de a ONU haver sido capaz\" deve ser \"Apesar de a ONU ter sido capaz\" (conjugação verbal inadequada)."
+    ],
+    "feedbacks": [
+      "Apresentação e impressão geral: o texto é coerente e demonstra bom domínio de estilo, embora contenha frases extensas e alguns desvios de pontuação que comprometem a legibilidade (nota 7,5/10).",
+      "Capacidade de argumentação: o candidato estrutura bem os argumentos, relaciona teoria e exemplos históricos e mantém pertinência ao tema, apesar de pequenas digressões que não enfraquecem a linha argumentativa (nota 8/10).",
+      "Capacidade de análise e reflexão: demonstra análise profunda das ideias de Einstein e Freud, conecta-as ao papel da diplomacia e traz reflexões históricas relevantes, porém poderia aprofundar mais a crítica ao realismo versus liberalismo (nota 16/20).",
+      "Correção gramatical: foram identificados dois erros claros de concordância verbal; o restante do texto apresenta boa ortografia e pontuação, embora haja alguns deslizes menores de regência."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 7,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso incorreto do infinitivo em \"Por haver enganado a morte\"; o correto seria \"por ter enganado\"",
+      "Ausência de artigo definido em \"par antitético violência‑direito\"; deveria ser \"o par antitético violência‑direito\"",
+      "Formatação incorreta da referência ao artigo da ONU: \"art. 2 (4)\" deveria ser \"art. 2(4)\"",
+      "Construção verbal inadequada em \"Apesar de a ONU haver sido capaz\"; o correto é \"Apesar de a ONU ter sido capaz\""
+    ],
+    "feedbacks": [
+      "Apresentação geral boa, com coerência e estilo adequado, embora algumas frases longas comprometam a legibilidade (nota 1A).",
+      "Argumentação bem estruturada e com repertório histórico e teórico pertinente, porém com pequenas digressões que enfraquecem a objetividade (nota 1B).",
+      "Análise profunda do papel da diplomacia, relacionando Einstein, Freud e casos históricos; porém poderia aprofundar a reflexão crítica sobre limites das instituições (nota 1C)."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 8,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso incorreto de \"haver\" em \"Por haver enganado a morte\"; o correto seria \"Por ter enganado a morte\".",
+      "Preposição inadequada em \"representava um risco muito grande aos EUA\"; o correto seria \"para os EUA\".",
+      "Construção verbal errada em \"Apesar de a ONU haver sido capaz\"; o correto seria \"Apesar de a ONU ter sido capaz\"."
+    ],
+    "feedbacks": [
+      "Apresentação e impressão geral: o texto é coerente, bem estruturado e demonstra estilo adequado, embora algumas frases sejam excessivamente longas e a pontuação possa ser otimizada (nota 7,5/10).",
+      "Capacidade de argumentação: argumentos são relevantes, bem fundamentados com referências históricas e teóricas, porém há pequenas digressões que enfraquecem a objetividade (nota 8/10).",
+      "Capacidade de análise e reflexão: demonstra boa reflexão sobre o papel da diplomacia, integrando metáfora de Sísifo e teorias de Freud, Einstein, e outros autores, mas poderia aprofundar mais a análise das instituições diplomáticas (nota 15/20).",
+      "Correção gramatical: foram identificados três erros gramaticais que comprometem a formalidade do texto; apesar disso, a maioria das construções está correta."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso incorreto de \"haver\" em \"Por haver enganado a morte\"; o correto seria \"Por ter enganado a morte\".",
+      "Uso incorreto de \"haver\" em \"Apesar de a ONU haver sido capaz\"; o correto seria \"Apesar de a ONU ter sido capaz\"."
+    ],
+    "feedbacks": [
+      "A redação demonstra amplo domínio do tema, integrando referências históricas e teóricas de forma coerente e bem estruturada.",
+      "A argumentação é consistente e apresenta exemplos relevantes que sustentam a reflexão sobre o papel da diplomacia.",
+      "Apesar de poucos deslizes gramaticais, o texto mantém boa clareza e fluidez, merecendo pontuação elevada."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Por haver enganado a morte... → Por ter enganado a morte...",
+      "conquanto busque... → contudo busque... (should be 'conquanto')",
+      "Apesar de a ONU haver sido... → Apesar de a ONU ter sido..."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com boa coesão e argumentação, abordando o tema de forma ampla e pertinente.",
+      "Apresenta referências históricas e teóricas relevantes, demonstrando domínio do conteúdo.",
+      "Alguns erros gramaticais foram identificados, mas não comprometem a compreensão geral."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "“Por haver enganado a morte…” → correto: “Por ter enganado a morte…”.",
+      "“o humano foi obrigado…” → mais adequado: “o homem foi obrigado…”.",
+      "“cabe à diplomacia construir relações culturais entre os alemães e os povos que desumanizaram…” → a construção está confusa; deveria ser “povos que foram desumanizados”.",
+      "“representava um risco muito grande aos EUA” → uso de preposição inadequado; o correto é “para os EUA”.",
+      "“Apesar de a ONU haver sido capaz…” → forma correta: “Apesar de a ONU ter sido capaz…”."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução, desenvolvimento e conclusão claros, e boa integração de referências teóricas (Einstein, Freud, Camus, Said, Arendt, Keohane).",
+      "Argumentação consistente, demonstrando compreensão do papel da diplomacia e relacionando-a ao tema proposto.",
+      "Uso adequado de conectores e coesão textual, facilitando o encadeamento das ideias.",
+      "Alguns deslizes gramaticais e de concordância foram identificados, o que impacta levemente a correção formal.",
+      "Recomenda‑se revisar as construções verbais e a escolha de preposições para aprimorar a precisão linguística."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de \"Por haver enganado a morte\" em vez de \"Por ter enganado a morte\" (infinitivo pessoal inadequado).",
+      "Construção \"apesar de a ONU haver sido capaz\" deveria ser \"apesar de a ONU ter sido capaz\" (uso incorreto do verbo auxiliar).",
+      "Uso de \"O humano\" é pouco usual; recomenda‑se \"O ser humano\" para adequação lexical."
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando referências históricas, filosóficas e teóricas de forma coerente e bem estruturada, com argumentos claros e boa progressão lógica.",
+      "Para aprimorar ainda mais, reveja as construções verbais apontadas e substitua expressões menos formais por termos mais convencionais, garantindo plena correção gramatical."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"Por haver enganado a morte\" – construção infinitiva inadequada; o correto seria \"por ter enganado a morte\".",
+      "\"Sísifo perde as forças\" – discordância de número; o adequado é \"perde a força\".",
+      "\"À diplomacia, caberia construir relações culturais entre os alemães e os povos que desumanizaram\" – falta de voz passiva; o correto seria \"povos que foram desumanizados\".",
+      "\"Apesar de a ONU haver sido capaz\" – uso incorreto do verbo; o correto é \"apesar de a ONU ter sido capaz\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara, com introdução, desenvolvimento e conclusão bem definidos, demonstrando boa organização das ideias.",
+      "A argumentação é consistente e faz uso pertinente de referências históricas e teóricas (Einstein, Freud, Camus, Keohane), enriquecendo a discussão sobre o papel da diplomacia.",
+      "A linguagem é, em geral, adequada ao padrão culto, com vocabulário preciso e uso correto de termos técnicos das relações internacionais.",
+      "Os poucos deslizes gramaticais identificados não comprometem a compreensão, mas devem ser corrigidos para alcançar excelência plena."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "mostrou- se → mostrou-se (espaço indevido após hífen)",
+      "eliminá- la → eliminá-la (espaço indevido após hífen)",
+      "faltou espaço após ponto antes de \"A diplomacia tem, demais,\"",
+      "cessar fogo → cessar-fogo (hífen ausente)",
+      "uso inadequado de \"demais\" em \"tem, demais, a função\" (advérbio fora de contexto)"
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: o texto apresenta boa legibilidade, estrutura em parágrafos e estilo adequado, embora haja pequenos problemas de formatação e pontuação. Nota 8.",
+      "1B – Capacidade de argumentação: argumentos bem fundamentados, uso de exemplos históricos relevantes, porém há repetições e alguns exemplos menos pertinentes (ex.: Zé Carioca). Nota 8.",
+      "1C – Capacidade de análise e reflexão: demonstra compreensão das ideias de Einstein e Freud e relaciona‑as à diplomacia, oferecendo análise histórica consistente. Poderia aprofundar mais a reflexão teórica. Nota 16.",
+      "Correção gramatical: foram identificados 5 erros de ortografia/pontuação e uso inadequado de advérbio, o que impacta levemente a clareza. Nota de gramática será reduzida proporcionalmente."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "mostrou- se → mostrou-se",
+      "eliminá- la → eliminá-la",
+      "Falta de espaço após ponto antes de “A diplomacia tem, demais...”.",
+      "Uso inadequado da palavra “demais” em vez de “ademais”."
+    ],
+    "feedbacks": [
+      "1A – Apresentação: o texto é coerente e legível, porém apresenta repetições e alguns desvios de estilo; nota 8.",
+      "1B – Argumentação: argumentos bem estruturados com exemplos históricos, embora haja algumas imprecisões factuais; nota 7.",
+      "1C – Análise e reflexão: demonstra boa capacidade de análise ao relacionar diplomacia com as ideias de Einstein e Freud, porém a profundidade poderia ser maior; nota 14.",
+      "CGPL – Correção gramatical: foram identificados 4 erros gramaticais listados; a pontuação total da redação será a soma das notas (29) sem desconto adicional, pois a avaliação de gramática não possui pontuação separada no esquema."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "mostrou- se (hiphenação incorreta; correto: mostrou-se)",
+      "eliminá- la (hiphenação incorreta; correto: eliminá-la)",
+      "cessar fogo (deveria ser cessar-fogo)",
+      "tem, demais, (uso inadequado da vírgula e expressão; poderia ser tem, ainda, ou tem também)"
+    ],
+    "feedbacks": [
+      "Boa organização e encadeamento lógico das ideias, com introdução, desenvolvimento e conclusão claros.",
+      "Apresentou referências históricas pertinentes que sustentam a argumentação sobre o papel da diplomacia.",
+      "Conectou de forma eficaz as ideias de Einstein e Freud ao contexto diplomático contemporâneo.",
+      "Erros de hifenização e uso inadequado de vírgulas comprometem a correção gramatical; atenção a essas questões pode melhorar a nota."
+    ],
+    "modelo": "openai/gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  }
+]

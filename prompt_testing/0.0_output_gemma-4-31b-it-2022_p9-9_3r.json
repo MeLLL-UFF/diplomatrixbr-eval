@@ -281,5 +281,59 @@
     "versao": 3,
     "essay": 5,
     "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta um domínio excepcional do tema, integrando com precisão as reflexões filosóficas e psicológicas de Einstein e Freud às teorias de Relações Internacionais (Liberalismo e Realismo).",
+      "A articulação entre os excertos fornecidos e os momentos históricos (Primeira Guerra Mundial, Liga das Nações, Guerra Fria/Destruição Mútua Assegurada) é fluida e demonstra profundidade analítica.",
+      "A estrutura argumentativa é sólida, com progressão lógica clara e conclusão que sintetiza adequadamente a tese defendida.",
+      "A linguagem é formal, precisa e adequada ao nível de exigência do CACD, sem erros gramaticais ou de pontuação detectados.",
+      "O candidato demonstrou originalidade ao conectar a 'diplomacia secreta' e a 'paz cartaginesa' aos conceitos de 'laços emocionais' e 'psicoses do ódio' presentes nos textos de apoio."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta um domínio excepcional do tema, integrando com precisão as reflexões filosóficas e psicológicas de Einstein e Freud às teorias de Relações Internacionais (Liberalismo e Realismo).",
+      "A articulação entre os excertos fornecidos e os momentos históricos (Primeira Guerra Mundial, Liga das Nações, Guerra Fria/Destruição Mútua Assegurada) é fluida e demonstra profundidade analítica.",
+      "A estrutura argumentativa é sólida, com progressão lógica clara e conclusão que sintetiza adequadamente a tese defendida.",
+      "A linguagem é formal, precisa e adequada ao nível de exigência do CACD, sem erros gramaticais ou de pontuação detectados.",
+      "O candidato demonstrou originalidade ao conectar a 'diplomacia secreta' e a 'paz cartaginesa' aos conceitos de 'laços emocionais' e 'psicoses do ódio' presentes nos textos de apoio."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta um domínio excepcional do tema, integrando com precisão as reflexões filosóficas e psicológicas de Einstein e Freud às teorias de Relações Internacionais (Liberalismo e Realismo).",
+      "A articulação entre os excertos fornecidos e os momentos históricos (Primeira Guerra Mundial, Liga das Nações, Guerra Fria/Destruição Mútua Assegurada) é fluida e demonstra profundidade analítica.",
+      "A estrutura argumentativa é sólida, com progressão lógica clara e conclusão que sintetiza adequadamente a tese defendida.",
+      "A linguagem é formal, precisa e adequada ao nível de exigência do CACD, sem erros gramaticais ou de pontuação detectados.",
+      "O candidato demonstrou originalidade ao conectar a 'diplomacia secreta' e a 'paz cartaginesa' aos conceitos de 'laços emocionais' e 'psicoses do ódio' presentes nos textos de apoio."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
   }
 ]
