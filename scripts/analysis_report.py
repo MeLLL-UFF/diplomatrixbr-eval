@@ -8,8 +8,8 @@ from sklearn.metrics import cohen_kappa_score, roc_auc_score
 from sklearn.preprocessing import MinMaxScaler
 import yaml
 
-from .plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error, plot_error_heatmap, plot_corr_heatmap
-from .utils import get_mean
+from plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error, plot_error_heatmap, plot_corr_heatmap
+from utils import get_mean
 
 def print_full(df):
     pd.set_option('display.max_rows', len(df))
