@@ -55,7 +55,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
 
   load_dotenv()
 
-  GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY_UFF")
+  GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
   client = genai.Client(api_key=GOOGLE_API_KEY)
 
   temp = list(map(float, temps))
@@ -115,11 +115,13 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
                 contents=prompt_formatado,
                 config=types.GenerateContentConfig(
                   temperature=i,
-                  max_output_tokens=2048,
+                  # max_output_tokens=2048,
                   response_mime_type="application/json",
                   response_schema=formato_resposta,
                 ),
               )
+
+              print(f"Resposta bruta: {response.text}")
 
               response = extrair_json(response.text)
               response['modelo'] = 'gemma-4-31b-it'
