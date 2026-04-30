@@ -119,7 +119,7 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
     plot_error_heatmap(df_merged, output_path, year)
 
     # 8. Plotando heatmap das correlações
-    #plot_corr_heatmap(df_notas_normalizado, output_path, year)
+    plot_corr_heatmap(df_notas_normalizado, output_path, year)
 
     # Gerando resumo em markdown
     md_content = f"""# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
