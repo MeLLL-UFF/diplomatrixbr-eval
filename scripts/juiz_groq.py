@@ -118,6 +118,11 @@ def main(n_iteracoes, temps, anos, lista_prompts, modelo):
       prompts = prompts_yaml['prompts']
 
   dados_candidatos = diplomatrix["Candidates_Essays"][ano]["Candidates"]
+  try:
+    padrao_de_resposta = diplomatrix["Candidates_Essays"][ano]["Answer_Pattern"]
+    enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
+  except KeyError:
+    padrao_de_resposta = ""
   numero_redacao = 0
 
   for candidato in dados_candidatos:
@@ -128,7 +133,8 @@ def main(n_iteracoes, temps, anos, lista_prompts, modelo):
 
       # DEFINIR AQUI QUAIS PROMPTS SERÃO TESTADOS
       if prompt['id'] in lista_prompts:
-        prompt_formatado = prompt['prompt'] + "\nRetorne em formato de JSON\n" + redacao
+        prompt_formatado = prompt['prompt'].replace("{enunciado}", str(enunciado))
+        prompt_formatado = prompt_formatado.replace("{padrao_resposta}", str(padrao_de_resposta)) + redacao
         prompt_formatado += "\n\n" + prompt['extras'] if 'extras' in prompt else ''
 
         print(f"Redação {numero_redacao} - Prompt {prompt['id']}")
@@ -136,12 +142,11 @@ def main(n_iteracoes, temps, anos, lista_prompts, modelo):
         formato_resposta = None
 
         match prompt['id']:
-          # ADICIONAR NOVOS CASOS NO SWITCH CASE CONFORME FOR INTERESSANTE
-          case 7 | 10:
+          case 7 | 10 | 13:
             formato_resposta = respostaPorCriterio
-          case 8 | 11:
+          case 8 | 11 | 14:
             formato_resposta = respostaFinal
-          case 9 | 12:
+          case 9 | 12 | 15:
             formato_resposta = respostaEmFaixa
 
         if formato_resposta is None:
@@ -175,13 +180,13 @@ def main(n_iteracoes, temps, anos, lista_prompts, modelo):
               response = json.loads(response.choices[0].message.tool_calls[0].function.arguments)
               response['modelo'] = modelo
               response['prompt'] = prompt['id']
-              response['temp'] = i
+              response['temp'] = float(i)
               response['versao'] = j + 1
               response['essay'] = numero_redacao
               response['ano'] = ano
               jsonGerado.append(response)
               print(f"Temperatura testada: {i}")
-              2
+
             except Exception as e:
               print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
     
