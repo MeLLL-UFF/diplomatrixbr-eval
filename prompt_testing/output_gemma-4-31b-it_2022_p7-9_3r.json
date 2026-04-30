@@ -1,0 +1,1044 @@
+[
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "erradicação guerra (falta a preposição 'da')",
+      "a guerra acontece, quando a política (vírgula separando oração principal de subordinada adverbial temporal)",
+      "apoiou- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com progressão lógica e fluidez, demonstrando domínio do estilo formal exigido pelo CACD.",
+      "A argumentação é robusta e pertinente, integrando com precisão as ideias de Einstein e Freud aos conceitos de Clausewitz, Hedley Bull e John Keegan, além de exemplos históricos concretos (Canal de Beagle, Guerra Fria, ONU).",
+      "A capacidade de análise e reflexão é superior, conseguindo transpor a discussão teórica dos textos de apoio para a realidade da diplomacia e do sistema internacional, propondo uma síntese coerente entre a natureza humana e a construção institucional da paz.",
+      "Foram identificados poucos erros gramaticais, a maioria de natureza pontual (digitação e pontuação), que não prejudicam a compreensão, mas devem ser observados para a nota máxima em correção gramatical."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "erradicação guerra (falta a preposição 'da')",
+      "a guerra acontece, quando a política (vírgula separando oração principal de subordinada adverbial temporal)",
+      "apoiou- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com progressão lógica e fluidez, demonstrando domínio do estilo formal exigido pelo CACD.",
+      "A argumentação é robusta e pertinente, integrando com precisão as ideias de Einstein e Freud aos conceitos de Clausewitz, Hedley Bull e John Keegan, além de exemplos históricos concretos (Canal de Beagle, Guerra Fria, ONU).",
+      "A capacidade de análise e reflexão é superior, conseguindo transpor a discussão teórica dos textos de apoio para a realidade da diplomacia e do sistema internacional, propondo uma síntese coerente entre a natureza humana e a construção institucional da paz.",
+      "Foram identificados poucos erros gramaticais, a maioria de natureza pontual (digitação e pontuação), que não prejudicam a compreensão, mas devem ser observados para a nota máxima em correção gramatical."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "erradicação guerra (falta a preposição 'da')",
+      "a guerra acontece, quando a política (vírgula separando oração principal de subordinada adverbial temporal)",
+      "apoiou- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com progressão lógica e fluidez, demonstrando domínio do estilo formal exigido pelo CACD.",
+      "A argumentação é robusta e pertinente, integrando com precisão as ideias de Einstein e Freud aos conceitos de Clausewitz, Hedley Bull e John Keegan, além de exemplos históricos concretos (Canal de Beagle, Guerra Fria, ONU).",
+      "A capacidade de análise e reflexão é superior, conseguindo transpor a discussão teórica sobre a natureza humana e a violência para a aplicação prática da diplomacia como instrumento de evolução cultural e mitigação de conflitos.",
+      "A correção gramatical é quase impecável, com apenas lapsos pontuais de digitação e pontuação que não prejudicam a compreensão."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "The text is exceptionally well-structured, with a sophisticated introduction using the myth of Sisyphus to create a thematic frame that is elegantly closed in the conclusion.",
+      "The candidate demonstrates a high level of coherence and a refined writing style, perfectly suited for the diplomatic career exam.",
+      "The argumentation is objective and systematic, effectively integrating the provided texts (Einstein and Freud) with external theoretical frameworks such as Edward Said, Hannah Arendt, and Robert Keohane.",
+      "The analysis is deep and reflective, connecting the psychological aspects of war mentioned in the prompts to practical diplomatic functions: cultural promotion, security communication, and the creation of international norms.",
+      "Historical examples (Cuban Missile Crisis, UN Charter, Iraq and Ukraine conflicts) are used with precision to support the theoretical arguments.",
+      "The grammar and language usage are flawless, showing complete mastery of the formal Portuguese language."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "The text is exceptionally well-structured, with a sophisticated introduction using the myth of Sisyphus to create a thematic frame that is elegantly closed in the conclusion.",
+      "The candidate demonstrates a high level of coherence and a refined writing style, perfectly suited for the diplomatic career exam.",
+      "The argumentation is objective and systematic, effectively integrating the provided texts (Einstein and Freud) with external theoretical frameworks such as Edward Said, Hannah Arendt, and Robert Keohane.",
+      "The analysis is deep and reflective, connecting the psychological aspects of war mentioned in the prompts to practical diplomatic functions: cultural promotion, security communication, and the creation of international norms.",
+      "Historical examples (Cuban Missile Crisis, UN Charter, Iraq and Ukraine conflicts) are used with precision to support the theoretical arguments.",
+      "The grammar and language usage are flawless, showing complete mastery of the formal Portuguese language."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "The text is exceptionally well-structured, with a sophisticated introduction using the myth of Sisyphus to create a thematic frame that is elegantly closed in the conclusion.",
+      "The candidate demonstrates a high level of coherence and a refined writing style, perfectly suited for the diplomatic career exam.",
+      "The argumentation is objective and systematic, effectively integrating the provided texts (Einstein and Freud) with external theoretical frameworks such as Edward Said, Hannah Arendt, and Robert Keohane.",
+      "The analysis is deep and reflective, connecting the psychological aspects of war mentioned in the prompts to practical diplomatic functions: cultural promotion, security communication, and the creation of international norms.",
+      "Historical examples (Cuban Missile Crisis, UN Charter, Iraq and Ukraine conflicts) are used with precision to support the theoretical arguments.",
+      "The grammar and language usage are flawless, showing complete mastery of the formal Portuguese language."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10,
+    "nota_1B": 10,
+    "nota_1C": 20,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, legibilidade e estilo, com progressão lógica e fluida. A estrutura é clara e a estrutura argumentativa é sólida.",
+      "A argumentação é objetiva e sistematizada, utilizando exemplos históricos concretos (ONU, UNEF-I, MINUSTAH, G77, MERCOSUL, IBAS, Zé Carioca) para sustentar a a tese. A pertinência das informações é alta, relacionando a teoria de Freud e Einstein com a prática diplomática.",
+      "A capacidade de análise e reflexão é demonstrada ao conectar a discussão filosófica/psicológica dos textos de apoio com a realidade das relações internacionais, propondo que a diplomacia atua como o antagonista do instinto de destruição através da identificação e da cultura.",
+      "O texto não apresenta erros gramaticais, demonstrando domínio pleno da norma culta da língua portuguesa."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10,
+    "nota_1B": 10,
+    "nota_1C": 20,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, legibilidade e estilo, com progressão lógica e fluida. A estrutura é clara e a estrutura argumentativa é sólida.",
+      "A argumentação é objetiva e sistematizada, utilizando exemplos históricos concretos (ONU, UNEF-I, MINUSTAH, G77, MERCOSUL, IBAS, Zé Carioca) para sustentar a a tese. A pertinência das informações é alta, relacionando a teoria de Freud e Einstein com a prática diplomática.",
+      "A capacidade de análise e reflexão é demonstrada ao conectar a discussão filosófica/psicológica dos textos de apoio com a realidade das relações internacionais, propondo que a diplomacia atua como o antagonista do instinto de destruição através da identificação e da cultura.",
+      "O texto não apresenta erros gramaticais, demonstrando domínio pleno da norma culta da língua portuguesa."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10,
+    "nota_1B": 10,
+    "nota_1C": 20,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, legibilidade e estilo, com progressão lógica e fluida. A estrutura é clara e a estrutura argumentativa é sólida.",
+      "A argumentação é objetiva e sistematizada, utilizando exemplos históricos concretos (ONU, UNEF-I, MINUSTAH, G77, MERCOSUL, IBAS, Zé Carioca) para sustentar a a tese. A pertinência das informações é alta, relacionando a teoria de Freud e Einstein com a prática diplomática.",
+      "A capacidade de análise e reflexão é demonstrada ao conectar a discussão filosófica/psicológica dos textos de apoio com a realidade das relações internacionais, propondo que a diplomacia atua como o antagonista do instinto de destruição através da identificação e da cultura.",
+      "O texto não apresenta erros gramaticais, demonstrando domínio pleno da norma culta da língua portuguesa."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "esqueceu- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente legibilidade, coerência e um estilo formal adequado ao padrão exigido pelo CACD.",
+      "A argumentação é bem sistematizada, conectando as ideias de Freud e Einstein ao papel da diplomacia com clareza. O candidato demonstra boa capacidade de síntese e objetividade.",
+      "A análise é pertinente, utilizando exemplos históricos concretos (Caso de Letícia, ONU, Mercosul) para embasar a tese. Contudo, a interpretação dos conceitos de 'amor' e 'identidade' de Freud foi simplificada para se adequar à narrativa diplomática, perdendo-se parte da profundidade psicológica do texto base.",
+      "A redação demonstra domínio da norma culta, com apenas um erro material de digitação/espaçamento."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "esqueceu- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente legibilidade, coerência e um estilo formal adequado ao padrão exigido pelo CACD.",
+      "A argumentação é bem sistematizada, conectando as ideias de Freud e Einstein ao papel da diplomacia com clareza. O candidato demonstra boa capacidade de síntese e objetividade.",
+      "A análise é pertinente, utilizando exemplos históricos concretos (Caso de Letícia, ONU, Mercosul) para embasar a tese. Contudo, a interpretação dos conceitos de 'amor' e 'identidade' de Freud foi simplificada para se adequar à narrativa diplomática, perdendo-se parte da profundidade psicológica do texto base.",
+      "A redação demonstra domínio da norma culta, com apenas um erro material de digitação/espaçamento."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "esqueceu- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente legibilidade, coerência e um estilo formal adequado ao padrão exigido pelo CACD.",
+      "A argumentação é bem sistematizada, conectando as ideias de Freud e Einstein ao papel da diplomacia com clareza. O candidato demonstra boa capacidade de síntese e objetividade.",
+      "A análise é pertinente, utilizando exemplos históricos concretos (Caso de Letícia, ONU, Mercosul) para embasar a tese. Contudo, a interpretação dos conceitos de 'amor' e 'identidade' de Freud foi simplificada para se adequar à narrativa diplomática, perdendo-se parte da profundidade psicológica do texto base.",
+      "A redação demonstra domínio da norma culta, com apenas um erro material de digitação/espaçamento."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10,
+    "nota_1B": 10,
+    "nota_1C": 20,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo (erro de concordância nominal de gênero)",
+      "ações diplomáticos (erro de concordância nominal de gênero)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com introdução, desenvolvimento e conclusão bem definidos. A legibilidade é alta e o estilo é formal e adequado ao padrão exigido pelo CACD.",
+      "A argumentação é extremamente objetiva e sistematizada. O candidato conseguiu integrar as ideias de Freud e Einstein (especificamente a noção de destruição mútua, a importância de laços emocionais e a evolução cultural) com exemplos históricos concretos e pertinentes, como a Guerra Fria, a Questão de Letícia e a diplomacia cultural no Leste Asiático.",
+      "A capacidade de análise e reflexão é superior. O autor não se limitou a resumir os textos de apoio, mas utilizou as premissas teóricas para analisar a função da diplomacia em diferentes escalas (estratégica/existencial, regional/territorial e cultural/identitária), demonstrando profundidade intelectual e domínio do tema.",
+      "Foram identificados dois erros pontuais de concordância nominal ('Para a psicólogo' e 'ações diplomáticos'), que não prejudicam a compreensão do texto, mas devem ser observados."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10,
+    "nota_1B": 10,
+    "nota_1C": 20,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo (erro de concordância nominal de gênero)",
+      "ações diplomáticos (erro de concordância nominal de gênero)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com introdução, desenvolvimento e conclusão bem definidos. A legibilidade é alta e o estilo é formal e adequado ao padrão exigido pelo CACD.",
+      "A argumentação é extremamente objetiva e sistematizada. O candidato conseguiu integrar as ideias de Freud e Einstein (especificamente a noção de destruição mútua, a importância de laços emocionais e a evolução cultural) com exemplos históricos concretos e pertinentes, como a Guerra Fria, a Questão de Letícia e a diplomacia cultural no Leste Asiático.",
+      "A capacidade de análise e reflexão é superior. O autor não se limitou a resumir os textos de apoio, mas utilizou as premissas teóricas para analisar a função da diplomacia em diferentes escalas (estratégica/existencial, regional/territorial e cultural/identitária), demonstrando profundidade intelectual e domínio do tema.",
+      "Foram identificados dois erros pontuais de concordância nominal ('Para a psicólogo' e 'ações diplomáticos'), que não prejudicam a compreensão do texto, mas devem ser observados."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10,
+    "nota_1B": 10,
+    "nota_1C": 20,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo (erro de concordância nominal de gênero)",
+      "ações diplomáticos (erro de concordância nominal de gênero)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com introdução, desenvolvimento e conclusão bem definidos. A legibilidade é alta e o estilo é formal e adequado ao padrão exigido pelo CACD.",
+      "A argumentação é extremamente objetiva e sistematizada. O candidato conseguiu integrar as ideias de Freud e Einstein (especificamente a noção de destruição mútua, a importância de laços emocionais e a evolução cultural) com exemplos históricos concretos e pertinentes, como a Guerra Fria, a Questão de Letícia e a diplomacia cultural no Leste Asiático.",
+      "A capacidade de análise e reflexão é superior. O autor não se limitou a resumir os textos de apoio, mas utilizou as premissas teóricas para analisar a função da diplomacia em diferentes escalas (estratégica/existencial, regional/territorial e cultural/identitária), demonstrando profundidade intelectual e domínio do tema.",
+      "Foram identificados dois erros pontuais de concordância nominal ('Para a psicólogo' e 'ações diplomáticos'), que não prejudicam a compreensão do texto, mas devem ser observados."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10,
+    "nota_1B": 10,
+    "nota_1C": 20,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com progressão lógica e fluidez, demonstrando domínio do estilo formal exigido pelo CACD.",
+      "A argumentação é extremamente objetiva e bem sistematizada, integrando com precisão a teoria das Relações Internacionais (liberalismo e realismo) ao debate proposto pelos excertos.",
+      "A capacidade de análise e reflexão é superior, conseguindo conectar as provocações filosóficas de Einstein e Freud a fatos históricos concretos, como a Liga das Nações, a 'paz cartaginesa' e a Doutrina de Destruição Mútua Assegurada.",
+      "O candidato demonstrou plena compreensão do enunciado, utilizando as referências textuais para fundamentar a discussão sobre o papel da diplomacia como ferramenta de cooperação e de equilíbrio de poder."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10,
+    "nota_1B": 10,
+    "nota_1C": 20,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com progressão lógica e fluidez, demonstrando domínio do estilo formal exigido pelo CACD.",
+      "A argumentação é extremamente objetiva e bem sistematizada, integrando com precisão a teoria das Relações Internacionais (liberalismo e realismo) ao debate proposto pelos excertos.",
+      "A capacidade de análise e reflexão é superior, conseguindo conectar as provocações filosóficas de Einstein e Freud a fatos históricos concretos, como a Liga das Nações, a 'paz cartaginesa' e a Doutrina de Destruição Mútua Assegurada.",
+      "O candidato demonstrou plena compreensão do enunciado, utilizando as referências textuais para fundamentar a discussão sobre o papel da diplomacia como ferramenta de cooperação e de equilíbrio de poder."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10,
+    "nota_1B": 10,
+    "nota_1C": 20,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com progressão lógica e fluidez, demonstrando domínio do estilo formal exigido pelo CACD.",
+      "A argumentação é extremamente objetiva e sistematizada, integrando com precisão as teorias de Relações Internacionais (liberalismo e realismo) ao debate proposto pelos excertos.",
+      "A capacidade de análise e reflexão é superior, conseguindo conectar as provocações filosóficas de Einstein e Freud a fatos históricos concretos, como a Liga das Nações, a 'paz cartaginesa' e a Doutrina de Destruição Mútua Assegurada.",
+      "O candidato demonstrou plena compreensão do enunciado, utilizando as referências textuais para fundamentar a discussão sobre o papel da diplomacia como ferramenta de cooperação e de equilíbrio de poder."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "erradicação guerra (falta a preposição 'da')",
+      "a guerra acontece, quando a política (vírgula separando oração principal de subordinada adverbial temporal)",
+      "apoiou- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação sólida e coerente, integrando com precisão as ideias de Einstein e Freud aos conceitos de Relações Internacionais e História.",
+      "A capacidade de síntese e a articulação entre a teoria (Clausewitz, Hedley Bull) e exemplos históricos (Canal de Beagle, Guerra Fria, ONU) é excepcional.",
+      "A estrutura textual é clara, com progressão lógica e conclusão convincente.",
+      "Houve pequenos deslizes gramaticais (omissão de preposição, pontuação inadequada e erro de digitação), que impactam minimamente a nota final."
+    ],
+    "modelo": "gemma-4-26b-a4b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "erradicação guerra (falta de preposição 'de' ou 'do')",
+      "a guerra acontece, quando a política não fornece (vírgula separando oração subordinada adverbial temporal/condicional deslocada ou não, mas aqui a vírgula prevents the main clause from flowing into the same temporal context, it's unnecessary/incorrect in addition to the relação own clause)",
+      "apoiou- se (espaço indevido antes do hífen)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação sólida e uma excelente integração a autores autores como Keegan, Clausewitz, Bull e a base teórica de Freud e Einstein. "
+    ],
+    "modelo": "gemma-4-26b-a4b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "erradicação guerra (falta a preposição 'da')",
+      "a guerra acontece, quando a política (vírgula separando oração principal de subordinada adverbial temporal)",
+      "apoiou- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação sólida e coerente, integrando com precisão as ideias de Einstein e Freud aos conceitos de Relações Internacionais e História.",
+      "A capacidade de síntese e a articulação entre a teoria (Clausewitz, Hedley Bull) e exemplos históricos (Canal de Beagle, Guerra Fria, ONU) é excepcional.",
+      "A estrutura textual é clara, com progressão lógica e conclusão convincente.",
+      "Houve pequenos deslizes gramaticais (omissão de preposição, pontuação inadequada e erro de digitação), que impactam minimamente a nota final."
+    ],
+    "modelo": "gemma-4-26b-a4b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "The essay is exceptionally well-structured, demonstrating a high level of coherence and a sophisticated use of language. The introduction using the Myth of Sisyphus provides a a strong conceptual framework that is elegantly tied back to the conclusion.",
+      "The candidate successfully integrated the provided texts (Einstein and Freud) with a wide range of relevant theoretical frameworks (Edward Said, Hannah Arendt, Realism, Liberalism/Keohane) and historical examples (Cold War, Cuban Missile Crisis, Iraq, Ukraine), fulfilling all requirements of the prompt.",
+      "The argumentation is fluid and the transition between paragraphs is seamless. The use of vocabulary is precise and and appropriate for the diplomatic career exam (CACD).",
+      "The text is grammatically flawless, showing complete mastery of the same."
+    ],
+    "modelo": "gemma-4-26b-a4b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "The essay is exceptionally well-structured, demonstrating a high level of coherence and a sophisticated use of language. The introduction using the Myth of Sisyphus provides a a strong conceptual framework that is elegantly tied back to the conclusion.",
+      "The candidate successfully integrated the provided texts (Einstein and Freud) with a wide range of relevant theoretical frameworks (Edward Said, Hannah Arendt, Realism, Liberalism/Keohane) and historical examples (Cold War, Cuban Missile Crisis, Iraq, Ukraine), fulfilling all requirements of the prompt.",
+      "The argumentation is fluid and the transition between paragraphs is seamless. The use of vocabulary is precise and and appropriate for the diplomatic career exam (CACD).",
+      "The text is grammatically flawless, showing complete mastery of the same."
+    ],
+    "modelo": "gemma-4-26b-a4b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "The essay is exceptionally well-structured, demonstrating a high level of coherence and a sophisticated use of language. The introduction using the Myth of Sisyphus provides a a strong conceptual framework that is elegantly tied back to the conclusion.",
+      "The candidate successfully integrated the provided texts (Einstein and Freud) with a wide range of relevant theoretical frameworks (Edward Said, Hannah Arendt, Realism, Liberalism/Keohane) and historical examples (Cold War, Cuban Missile Crisis, Iraq, Ukraine), fulfilling all requirements of the prompt.",
+      "The argumentation is fluid and the transition between paragraphs is seamless. The use of vocabulary is precise and and appropriate for the diplomatic career exam (CACD).",
+      "The text is grammatically flawless, showing complete mastery of the same."
+    ],
+    "modelo": "gemma-4-26b-a4b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "The text is exceptionally well-structured, demonstrating a high level of coherence and coherence. Ideals from the same authors (Einstein and Freud) provided in the prompt are integrated seamlessly into the same argument.",
+      "The historical examples provided (UN Charter, UN peacekeeping operations, UNFEP-I, MINUSTAH, Cold War, UNCTAD, G77, G77, G77, and IBAS) are precise and historical context is used to effectively support the arguments.",
+      ""
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "The text is exceptionally well-structured, demonstrating a high level of coherence and coherence. Ideals from the same authors (Einstein and Freud) provided in the prompt are integrated seamlessly into the same argument.",
+      "The historical examples provided (UN Charter, UN peacekeeping operations, UNFEP-I, MINUSTAH, Cold War, UNCTAD, G77, G77, G77, and IBAS) are precise and historical context is used to effectively support the arguments.",
+      ""
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "The text is exceptionally well-structured, demonstrating a high level of coherence and coherence. Ideals from the same authors (Einstein and Freud) provided in the prompt are integrated seamlessly into the same argument.",
+      "The historical examples provided (UN Charter, UN peacekeeping operations, UNFEP-I, MINUSTAH, Cold War, UNCTAD, G77, G77, G77, and IBAS) are precise and historical context is used to effectively support the arguments.",
+      ""
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "esqueceu- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta e estrutura dissertativa clara, com introdução, desenvolvimento e conclusão bem definidos.",
+      "O candidato conseguiu integrar as ideias de Freud (amor e identificação) ao conceito de diplomacia, transformando conceitos psicanalíticos em categorias de análise política (relações fraternais e identidade global), o que demonstra capacidade de abstração e reflexão.",
+      "A argumentação é consistente e bem fundamentada em exemplos históricos e contemporâneos (Caso de Letícia, ONU, Mercosul, e a menção à situação na França), atendendo plenamente ao comando do enunciado.",
+      "A redação flui com naturalidade, apresentando coesão textual e encadeamento lógico de ideias.",
+      "A nota reflete a alta qualidade do texto, com a pequena penalização devida a um erro material de digitação/pontuação no uso do hífen."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "esqueceu- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta e estrutura dissertativa clara, com introdução, desenvolvimento e conclusão bem definidos.",
+      "O candidato conseguiu integrar as ideias de Freud (amor e identificação) ao conceito de diplomacia, transformando conceitos psicanalíticos em categorias de análise política (relações fraternais e identidade global), o que demonstra capacidade de abstração e reflexão.",
+      "A argumentação é consistente e bem fundamentada em exemplos históricos e contemporâneos (Caso de Letícia, ONU, Mercosul, e a menção à situação na França), atendendo plenamente ao comando do enunciado.",
+      "A redação flui com naturalidade, apresentando coesão textual e encadeamento lógico de ideias.",
+      "A nota reflete a alta qualidade do texto, com a pequena penalização devida a um erro material de digitação/pontuação no uso do hífen."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "esqueceu- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta e estrutura dissertativa clara, com introdução, desenvolvimento e conclusão bem definidos.",
+      "O candidato conseguiu integrar as ideias de Freud (amor e identificação) ao conceito de diplomacia, transformando conceitos psicanalíticos em categorias de análise política (relações fraternais e identidade global), o que demonstra capacidade de abstração e reflexão.",
+      "A argumentação é consistente e bem fundamentada em exemplos históricos e contemporâneos (Caso de Letícia, ONU, Mercosul, e a menção à situação na França), atendendo plenamente ao comando do enunciado.",
+      "A redação flui com naturalidade, apresentando coesão textual e encadeamento lógico de ideias.",
+      "A nota reflete a alta qualidade do texto, com a pequena penalização devida a um erro material de digitação/pontuação no uso do hífen."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Para a psicólogo (erro de concordância nominal: deveria ser 'Para o psicólogo')",
+      "ações diplomáticos (erro de concordância nominal: deveria ser 'ações diplomáticas')",
+      "a medicação entre iguais (erro lexical/ortográfico: o contexto exige 'mediação')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação sólida e coerente. O candidato conseguiu integrar as ideias de Freud e Einstein ao papel da diplomacia de forma orgânica, utilizando exemplos históricos precisos (Guerra Fria, Questão de Letícia e diplomacia cultural no Leste Asiático).",
+      "A estrutura textual é clara, com introdução, desenvolvimento e conclusão bem encadeados, demonstrando fluidez e clareza na exposição das ideias.",
+      "Houve a ocorrência de alguns erros gramaticais pontuais de concordância e um erro lexical ('medicação' em vez de 'mediação'), que impactam a nota final, mas não prejudicam a compreensão do texto."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Para a psicólogo (erro de concordância nominal: deveria ser 'Para o psicólogo')",
+      "ações diplomáticos (erro de concordância nominal: deveria ser 'ações diplomáticas')",
+      "a medicação entre iguais (erro lexical/ortográfico: o contexto exige 'mediação')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação sólida e coerente. O candidato conseguiu integrar as ideias de Freud e Einstein ao papel da diplomacia de forma orgânica, utilizando exemplos históricos precisos (Guerra Fria, Questão de Letícia e diplomacia cultural no Leste Asiático).",
+      "A estrutura textual é clara, com introdução, desenvolvimento e conclusão bem encadeados, demonstrando fluidez e clareza na exposição das ideias.",
+      "Houve a ocorrência de alguns erros gramaticais pontuais de concordância e um erro lexical ('medicação' em vez de 'mediação'), que impactam a nota final, mas não prejudicam a compreensão do texto."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Para a psicólogo (erro de concordância nominal: deveria ser 'Para o psicólogo')",
+      "ações diplomáticos (erro de concordância nominal: deveria ser 'ações diplomáticas')",
+      "a medicação entre iguais (erro lexical/ortográfico: o contexto exige 'mediação')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação sólida e coerente. O candidato conseguiu integrar as ideias de Freud e Einstein ao papel da diplomacia de forma orgânica, utilizando exemplos históricos precisos (Guerra Fria, Questão de Letícia e diplomacia cultural no Leste Asiático).",
+      "A estrutura textual é clara, com introdução, desenvolvimento e conclusão bem encadeados, demonstrando fluidez e clareza na exposição das ideias.",
+      "Houve a ocorrência de alguns erros gramaticais pontuais de concordância e um erro lexical ('medicação' em vez de 'mediação'), que impactam a nota final, mas não prejudicam a compreensão do texto."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, integrando com precisão as reflexões de Einstein e Freud às teorias de Relações Internacionais (Liberalismo e Realismo) e a fatos históricos concretos (Primeira Guerra Mundial, Liga das Nações, Segunda Guerra Mundial e Guerra Fria).",
+      "A estrutura argumentativa é fluida, coerente e demonstra alta capacidade de síntese e reflexão, atendendo plenamente ao comando do enunciado.",
+      "A linguagem é formal, precisa e adequada ao padrão exigido para o CACD, sem erros gramaticais ou de ortografia detectados.",
+      "A articulação entre a 'diplomacia secreta' e a 'diplomacia pública' como resposta aos impulsos humanos discutidos nos textos de apoio foi um ponto alto da redação."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, integrando com precisão as reflexões de Einstein e Freud às teorias de Relações Internacionais (Liberalismo e Realismo) e a fatos históricos concretos (Primeira Guerra Mundial, Liga das Nações, Segunda Guerra Mundial e Guerra Fria).",
+      "A estrutura argumentativa é fluida, coerente e demonstra alta capacidade de síntese e reflexão, atendendo plenamente ao comando do enunciado.",
+      "A linguagem é formal, precisa e adequada ao padrão exigido para o CACD, sem erros gramaticais ou de ortografia detectados.",
+      "A articulação entre a 'diplomacia secreta' e a 'diplomacia pública' como resposta aos impulsos humanos discutidos nos textos de apoio foi um ponto alto da redação."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, integrando com precisão as reflexões de Einstein e Freud às teorias de Relações Internacionais (Liberalismo e Realismo) e a fatos históricos concretos (Primeira Guerra Mundial, Liga das Nações, Segunda Guerra Mundial e Guerra Fria).",
+      "A estrutura argumentativa é fluida, coerente e demonstra alta capacidade de síntese e reflexão, atendendo plenamente ao comando do enunciado.",
+      "A linguagem é formal, precisa e adequada ao padrão exigido para o CACD, sem erros gramaticais ou de ortografia detectados.",
+      "A articulação entre a 'diplomacia secreta' e a 'diplomacia pública' como resposta aos impulsos humanos discutidos nos textos de apoio foi um ponto alto da redação."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "erradicação guerra (falta a preposição 'da')",
+      "a guerra acontece, quando a política (vírgula desnecessária separando a oração principal da subordinada adverbial temporal)",
+      "mísseis que levam armas nucleares (imprecisão vocabular: 'levam' em vez de 'carregam' ou 'transportam')",
+      "apoiou- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura excepcional, com introdução, desenvolvimento e conclusão bem articulados.",
+      "A capacidade de integrar as ideias de Einstein e Freud com referências teóricas sólidas (John Keegan, Clausewitz, Hedley Bull) demonstra um nível de erudição compatível com as exigências do CACD.",
+      "O uso de exemplos históricos concretos (Canal de Beagle, Guerra Fria, TNP, ONU) fundamenta a argumentação de forma robusta e pertinente.",
+      "A redação demonstra fluidez, clareza e um domínio avançado da norma culta, com erros gramaticais mínimos que não comprometem a compreensão.",
+      "A reflexão final conecta o diálogo histórico ao contexto contemporâneo, fechando o ciclo argumentativo com maturidade."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "erradicação guerra (falta a preposição 'da')",
+      "a guerra acontece, quando a política (vírgula desnecessária separando a oração principal da subordinada adverbial temporal)",
+      "mísseis que levam armas nucleares (imprecisão vocabular: 'levam' em vez de 'carregam' ou 'transportam')",
+      "apoiou- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura excepcional, com introdução, desenvolvimento e conclusão bem articulados.",
+      "A capacidade de integrar as ideias de Einstein e Freud com referências teóricas sólidas (John Keegan, Clausewitz, Hedley Bull) demonstra um nível de erudição compatível com as exigências do CACD.",
+      "O uso de exemplos históricos concretos (Canal de Beagle, Guerra Fria, TNP, ONU) fundamenta a argumentação de forma robusta e pertinente.",
+      "A redação demonstra fluidez, clareza e um domínio avançado da norma culta, com erros gramaticais mínimos que não comprometem a compreensão.",
+      "A reflexão final conecta o diálogo histórico ao contexto contemporâneo, fechando o ciclo argumentativo com maturidade."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "erradicação guerra (falta a preposição 'da')",
+      "a guerra acontece, quando a política (vírgula desnecessária separando a oração principal da subordinada adverbial temporal)",
+      "mísseis que levam armas nucleares (imprecisão vocabular: 'levam' em vez de 'carregam' ou 'transportam')",
+      "apoiou- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura excepcional, com introdução, desenvolvimento e conclusão bem articulados.",
+      "A capacidade de integrar as ideias de Einstein e Freud com referências teóricas sólidas (John Keegan, Clausewitz, Hedley Bull) demonstra um nível de erudição compatível com as exigências do CACD.",
+      "O uso de exemplos históricos concretos (Canal de Beagle, Guerra Fria, TNP, ONU) fundamenta a argumentação de forma robusta e pertinente.",
+      "A redação demonstra fluidez, clareza e um domínio avançado da norma culta, com erros gramaticais mínimos que não comprometem a compreensão.",
+      "A reflexão final conecta o diálogo histórico ao contexto contemporâneo, fechando o ciclo argumentativo com maturidade."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta um nível analítico e estilístico altíssimo, com uma estrutura circular e sofisticada, iniciando e encerrando com a metáfora de Sísifo (Camus), o que confere fluidez e maturidade ao estilo.",
+      "A argumentação é sólida e profundamente fundamentada, integrando com precisão os conceitos de Einstein e Freud aos paradigmas das Relações Internacionais (Realismo, Liberalismo/Keohane) e a teorias sociopolíticas (Edward Said, Hannah Arendt).",
+      "O candidato demonstrou domínio pleno do tema, respondendo integralmente ao enunciado ao discutir o papel da diplomacia através de referências históricas precisas (Guerra Fria, Crise dos Mísseis, ONU, Invasão do Iraque e Ucrânia).",
+      "A linguagem é culta, precisa e a correção gramatical é impecável, sem deslizes de concordância, regência ou pontuação."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta um domínio excepcional do tema e uma sofisticação argumentativa superior.",
+      "A articulação entre a filosofia (Sísifo/Camus), a teoria das Relações Internacionais (Realismo, Liberalismo, Keohane) e os textos de base (Einstein/Freud) foi feita de forma fluida e erudita.",
+      "O candidato demonstra plena capacidade de integrar referências externas (Edward Said, Hannah Arendt) para aprofundar a análise sobre a desumanização e a diplomacia.",
+      "A estrutura do texto é coerência e coesão, com uma introdução e conclusão que fecham o ciclo argumentativo de forma elegante.",
+      "A norma culta da língua portuguesa foi empregada com precisão, sem erros gramaticais detectáveis."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta um nível analítico e estilístico altíssimo, com uma estrutura circular e sofisticada, iniciando e encerrando com a metáfora de Sísifo (Camus), o que confere fluidez e maturidade ao estilo.",
+      "A argumentação é sólida e profundamente fundamentada, integrando com precisão os conceitos de Einstein e Freud aos paradigmas das Relações Internacionais (Realismo, Liberalismo/Keohane) e a teorias sociopolíticas (Edward Said, Hannah Arendt).",
+      "O candidato demonstrou domínio pleno do tema, respondendo integralmente ao enunciado ao discutir o papel da diplomacia através de referências históricas precisas (Guerra Fria, Crise dos Mísseis, ONU, Invasão do Iraque e Ucrânia).",
+      "A linguagem é culta, precisa e a correção gramatical é impecável, sem deslizes de concordância, regência ou pontuação."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma excelente articulação entre a teoria proposta pelos excertos de Einstein e Freud e a aplicação prática na diplomacia. O candidato demonstra domínio consistente do tema, utilizando exemplos históricos concretos (Carta da ONU, Crise de Suez, MINUSTAH, G77, IBAS, Zé Carioca) para sustentar a argumentação. A estrutura é lógica, a coerente e a linguagem é formal e precisa, sem erros gramaticais aparentes. A conclusão sintetiza bem a discussão, retornando aos autores do enunciado e fechando o ciclo argumentativo com a referência ao mito de Sísifo, demonstrando maturidade estilística."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma excelente articulação entre a teoria proposta pelos excertos de Einstein e Freud e a aplicação prática na diplomacia. O candidato demonstra domínio consistente do tema, utilizando exemplos históricos concretos (Carta da ONU, Crise de Suez, MINUSTAH, G77, IBAS, Zé Carioca) para sustentar a argumentação. A estrutura é lógica, a coerente e a linguagem é formal e precisa, sem erros gramaticais aparentes. A conclusão sintetiza bem a discussão, retornando aos autores do enunciado e fechando o ciclo argumentativo com a referência ao mito de Sísifo, demonstrando maturidade estilística."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma excelente articulação entre a teoria proposta pelos excertos de Einstein e Freud e a aplicação prática na diplomacia. O candidato demonstra domínio consistente do tema, utilizando exemplos históricos concretos (Carta da ONU, Crise de Suez, MINUSTAH, G77, IBAS, Zé Carioca) para sustentar a argumentação. A estrutura é lógica, a coerente e a linguagem é formal e precisa, sem erros gramaticais aparentes. A conclusão sintetiza bem a discussão, retornando aos autores do enunciado e fechando o ciclo argumentativo com a referência ao mito de Sísifo, demonstrando maturidade estilística."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "esqueceu- se"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura lógica e coerente, respondendo adequadamente ao comando do enunciado, relacionando as ideias de Freud e Einstein com a função da diplomacia e exemplos históricos (Caso de Letícia, Letícia, ONU, Mercosul).",
+      "A argumentação, embora correta, é simplista ao tentar forçar a analogia entre o 'amor' mencionado por Freud (em um sentido psicanalítico/emocional) e as relações fraternais entre Estados, que são baseadas em interesses e pragmatismo, o que torna a análise superficial em um caso de exame de alta complexidade como o CACD.",
+      "O texto demonstra domínio razoável da norma culta, com apenas um erro de pontuação/digitação no uso do hífen ('esqueceu- se').",
+      "A qualidade da linguagem é adequada, mas falta profundidade analítica e a relação entre a diplomacia e a 'psicose do ódio' mencionada no texto base seria mais sofisticada se explorada a tensão entre realismo e idealismo nas relações internacionais."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "esqueceu- se"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura lógica e coerente, respondendo adequadamente ao comando do enunciado, relacionando as ideias de Freud e Einstein com a função da diplomacia e exemplos históricos (Caso de Letícia, Letícia, ONU, Mercosul).",
+      "A argumentação, embora correta, é simplista ao tentar forçar a analogia entre o 'amor' mencionado por Freud (em um sentido psicanalítico/emocional) e as relações fraternais entre Estados, que são baseadas em interesses e pragmatismo, o que torna a análise superficial em um caso de exame de alta complexidade como o CACD.",
+      "O texto demonstra domínio razoável da norma culta, com apenas um erro de pontuação/digitação no uso do hífen ('esqueceu- se').",
+      "A qualidade da linguagem é adequada, mas falta profundidade analítica e a relação entre a diplomacia e a 'psicose do ódio' mencionada no texto base seria mais sofisticada se explorada a tensão entre realismo e idealismo nas relações internacionais."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "esqueceu- se"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura lógica e coerente, respondendo adequadamente ao comando do enunciado, relacionando as ideias de Freud e Einstein com a função da diplomacia e exemplos históricos (Caso de Letícia, Letícia, ONU, Mercosul).",
+      "A argumentação, embora correta, é simplista ao tentar forçar a analogia entre o 'amor' mencionado por Freud (em um sentido psicanalítico/emocional) e as relações fraternais entre Estados, que são baseadas em interesses e pragmatismo, o que torna a análise superficial em um caso de exame de alta complexidade como o CACD.",
+      "O texto demonstra domínio razoável da norma culta, com apenas um erro de pontuação/digitação no uso do hífen ('esqueceu- se').",
+      "A qualidade da linguagem é adequada, mas falta profundidade analítica e a relação entre a diplomacia e a 'psicose do ódio' mencionada no texto base seria mais sofisticada se explorada a tensão entre realismo e idealismo nas relações internacionais."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo (erro de concordância nominal de gênero)",
+      "ações diplomáticos (erro de concordância nominal de gênero)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura excepcional, com introdução, desenvolvimento e conclusão bem articulados.",
+      "A capacidade de integrar as ideias de Freud e Einstein ao papel da diplomacia foi feita de forma orgânica e sofisticada.",
+      "O uso de exemplos históricos (Guerra Fria, Questão de Letícia, diplomacia cultural no Leste Asiático) demonstra amplo domínio temático e capacidade de contextualização.",
+      "A argumentação é sólida, coerente e flui com naturalidade, elevando o nível do texto para além do previsível.",
+      "Apesar de dois deslizes pontuais de concordância nominal, a propriedade da linguagem é elevada e o vocabulário é preciso."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo (erro de concordância nominal de gênero)",
+      "ações diplomáticos (erro de concordância nominal de gênero)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura excepcional, com introdução, desenvolvimento e conclusão bem articulados.",
+      "A capacidade de integrar as ideias de Freud e Einstein ao papel da diplomacia foi feita de forma orgânica e sofisticada.",
+      "O uso de exemplos históricos (Guerra Fria, Questão de Letícia, diplomacia cultural no Leste Asiático) demonstra amplo domínio temático e capacidade de contextualização.",
+      "A argumentação é sólida, coerente e flui com naturalidade, elevando o nível do texto para além do previsível.",
+      "Apesar de dois deslizes pontuais de concordância nominal, a propriedade da linguagem é elevada e o vocabulário é preciso."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo (erro de concordância nominal de gênero)",
+      "ações diplomáticos (erro de concordância nominal de gênero)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura excepcional, com introdução, desenvolvimento e conclusão bem articulados.",
+      "A capacidade de integrar as ideias de Freud e Einstein ao papel da diplomacia foi feita de forma orgânica e sofisticada.",
+      "O uso de exemplos históricos (Guerra Fria, Questão de Letícia, diplomacia cultural no Leste Asiático) demonstra amplo domínio temático e capacidade de contextualização.",
+      "A argumentação é sólida, coerente e flui com naturalidade, elevando o nível do texto para além do previsível.",
+      "Apesar de dois deslizes pontuais de concordância nominal, a propriedade da linguagem é elevada e o vocabulário é preciso."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta um domínio excepcional do tema, integrando com precisão as reflexões filosóficas e psicológicas de Einstein e Freud às teorias de Relações Internacionais (Liberalismo e Realismo).",
+      "A articulação entre os excertos fornecidos e os momentos históricos (Primeira Guerra Mundial, Liga das Nações, Guerra Fria/Destruição Mútua Assegurada) é fluida e demonstra profundidade analítica.",
+      "A estrutura argumentativa é sólida, com progressão lógica clara e conclusão que sintetiza adequadamente a tese defendida.",
+      "A linguagem é formal, precisa e adequada ao nível de exigência do CACD, sem erros gramaticais ou de pontuação detectados.",
+      "O candidato demonstrou originalidade ao conectar a 'diplomacia secreta' e a 'paz cartaginesa' aos conceitos de 'laços emocionais' e 'psicoses do ódio' presentes nos textos de apoio."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta um domínio excepcional do tema, integrando com precisão as reflexões filosóficas e psicológicas de Einstein e Freud às teorias de Relações Internacionais (Liberalismo e Realismo).",
+      "A articulação entre os excertos fornecidos e os momentos históricos (Primeira Guerra Mundial, Liga das Nações, Guerra Fria/Destruição Mútua Assegurada) é fluida e demonstra profundidade analítica.",
+      "A estrutura argumentativa é sólida, com progressão lógica clara e conclusão que sintetiza adequadamente a tese defendida.",
+      "A linguagem é formal, precisa e adequada ao nível de exigência do CACD, sem erros gramaticais ou de pontuação detectados.",
+      "O candidato demonstrou originalidade ao conectar a 'diplomacia secreta' e a 'paz cartaginesa' aos conceitos de 'laços emocionais' e 'psicoses do ódio' presentes nos textos de apoio."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta um domínio excepcional do tema, integrando com precisão as reflexões filosóficas e psicológicas de Einstein e Freud às teorias de Relações Internacionais (Liberalismo e Realismo).",
+      "A articulação entre os excertos fornecidos e os momentos históricos (Primeira Guerra Mundial, Liga das Nações, Guerra Fria/Destruição Mútua Assegurada) é fluida e demonstra profundidade analítica.",
+      "A estrutura argumentativa é sólida, com progressão lógica clara e conclusão que sintetiza adequadamente a tese defendida.",
+      "A linguagem é formal, precisa e adequada ao nível de exigência do CACD, sem erros gramaticais ou de pontuação detectados.",
+      "O candidato demonstrou originalidade ao conectar a 'diplomacia secreta' e a 'paz cartaginesa' aos conceitos de 'laços emocionais' e 'psicoses do ódio' presentes nos textos de apoio."
+    ],
+    "modelo": "gemma-4-31b-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  }
+]
