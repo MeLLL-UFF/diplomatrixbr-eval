@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
-from openai import OpenAI
+from google import genai
+from google.genai import types
 from pydantic import BaseModel
 import json
 import yaml
@@ -27,6 +28,22 @@ class respostaEmFaixa(BaseModel):
   erros_gramaticais: list[str]
   feedbacks: list[str]
 
+def extrair_json(texto):
+    inicio = texto.find('{')
+    if inicio == -1:
+        raise ValueError(f"Nenhum JSON encontrado: {texto}")
+    
+    profundidade = 0
+    for i, char in enumerate(texto[inicio:], start=inicio):
+        if char == '{':
+            profundidade += 1
+        elif char == '}':
+            profundidade -= 1
+            if profundidade == 0:
+                return json.loads(texto[inicio:i+1])
+    
+    raise ValueError(f"JSON incompleto: {texto}")
+
 def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   url = "https://raw.githubusercontent.com/MeLLL-UFF/diplomatrixbr-gen/main/Diplomatrix.json"
   requisicao = requests.get(url)
@@ -38,21 +55,17 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
 
   load_dotenv()
 
-  SABIA_API_KEY=os.getenv("SABIA_API_KEY")
-  client = OpenAI(
-      api_key=SABIA_API_KEY,
-      base_url="https://chat.maritaca.ai/api",
-  )
+  GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY_UFF")
+  client = genai.Client(api_key=GOOGLE_API_KEY)
 
   temp = list(map(float, temps))
-  num_runs = n_iteracoes # DEFINIR NÚMERO DE EXECUÇÕES POR PROMPT/TEMPERATURA
+  num_runs = n_iteracoes
   ano = anos
 
   jsonGerado = []
   root_path = os.getcwd()
 
   path_prompts = os.path.join(root_path, "prompt_testing", "prompts.yaml")
-  #path_essays = os.path.join(root_path, "prompt_testing", "sheets", "redacoes2022.csv")
 
   with open(path_prompts, 'r', encoding='utf-8') as file:
       prompts_yaml = yaml.safe_load(file)
@@ -74,7 +87,6 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
 
     for prompt in prompts:
 
-      # DEFINIR AQUI QUAIS PROMPTS SERÃO TESTADOS
       if prompt['id'] in lista_prompts:
         prompt_formatado = prompt['prompt'].replace("{enunciado}", str(enunciado))
         prompt_formatado = prompt_formatado.replace("{padrao_resposta}", str(padrao_de_resposta)) + redacao
@@ -85,7 +97,6 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
         formato_resposta = None
 
         match prompt['id']:
-          # ADICIONAR NOVOS CASOS NO SWITCH CASE CONFORME FOR INTERESSANTE
           case 7 | 10 | 13:
             formato_resposta = respostaPorCriterio
           case 8 | 11 | 14:
@@ -96,21 +107,22 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
         if formato_resposta is None:
           raise ValueError("Atribua um valor a \"formato_resposta\"")
 
-        for i in (temp):
+        for i in temp:
           for j in range(num_runs):
             try:
-              response = client.beta.chat.completions.parse(
-                  model="sabia-3.1",
+              response = client.models.generate_content(
+                model="gemma-4-31b-it",
+                contents=prompt_formatado,
+                config=types.GenerateContentConfig(
                   temperature=i,
-                  messages=[
-                      {"role": "user", "content": prompt_formatado},
-                  ],
-                  response_format=formato_resposta,
-                  max_tokens=2048
+                  max_output_tokens=2048,
+                  response_mime_type="application/json",
+                  response_schema=formato_resposta,
+                ),
               )
 
-              response = json.loads(response.choices[0].message.content)
-              response['modelo'] = 'sabia-3.1'
+              response = extrair_json(response.text)
+              response['modelo'] = 'gemma-4-31b-it'
               response['prompt'] = prompt['id']
               response['temp'] = float(i)
               response['versao'] = j + 1
@@ -122,13 +134,10 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
             except Exception as e:
               print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
     
-    # Salvar resultados parciais por redação pra evitar perda de dados
-    # Pode ser removido se não for necessário
-    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_{numero_redacao}_output_{response["modelo"]}_p13-15_{num_runs}r.json')
+    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_{numero_redacao}_output_{response["modelo"]}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
     with open(output_path, 'w', encoding="utf-8") as file:
       json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
-      file.close()
-  
+
   listtemps = ""
   for i in temp:
     listtemps += str(i) + "_"
@@ -136,10 +145,9 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   output_path = os.path.join(os.getcwd(), "prompt_testing", f'{listtemps}output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
-    file.close()
 
 if __name__ == "__main__":
-  parser = argparse.ArgumentParser(description="Avalia redações de um determinado ano do CACD com Sabia-3.")
+  parser = argparse.ArgumentParser(description="Avalia redações de um determinado ano do CACD com Gemma 4.")
   parser.add_argument("--n_iteracoes", type=int, required=True, help="Quantas iterações por redação.")
   parser.add_argument("--temps", type=str, nargs="+", required=True, help="Temperaturas usadas.")
   parser.add_argument("--anos", type=str, required=True, help="Anos avaliados.")
