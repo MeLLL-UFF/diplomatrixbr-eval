@@ -1,11 +1,14 @@
 import os
 from dotenv import load_dotenv
-from openai import OpenAI
 from pydantic import BaseModel
 import json
 import yaml
 import requests
 import argparse
+
+from huggingface_hub import login
+import torch
+import transformers
 
 class respostaPorCriterio(BaseModel):
   nota_1A: float
@@ -38,10 +41,25 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
 
   load_dotenv()
 
-  SABIA_API_KEY=os.getenv("SABIA_API_KEY")
-  client = OpenAI(
-      api_key=SABIA_API_KEY,
-      base_url="https://chat.maritaca.ai/api",
+  login(token=os.getenv("HUGGINGFACE_API_KEY"))
+
+  device = f'cuda' if torch.cuda.is_available() else 'cpu'
+
+  model_id = "Rta-AILabs/Nandi-Mini-150M-Instruct"
+
+  tokenizer = None
+  try:
+    tokenizer = transformers.AutoTokenizer.from_pretrained(model_id, trust_remote_code=True)
+  except ValueError:
+    pass
+
+  pipeline = transformers.pipeline(
+    task="text-generation",
+    trust_remote_code=True,
+    model=model_id,
+    # The quantization line
+    model_kwargs={"dtype": torch.bfloat16},
+    device=device,
   )
 
   temp = list(map(float, temps))
@@ -98,17 +116,15 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
         for i in (temp):
           for j in range(num_runs):
             try:
-              response = client.beta.chat.completions.parse(
-                  model="sabia-3.1",
+              outputs = pipeline(
+                  prompt_formatado,
+                  max_new_tokens=2048,
+                  do_sample=True,
                   temperature=i,
-                  messages=[
-                      {"role": "user", "content": prompt_formatado},
-                  ],
-                  response_format=formato_resposta,
-                  max_tokens=2048
-              )
+                  response_format=formato_resposta
+                )
 
-              response = json.loads(response.choices[0].message.content)
+              response = json.loads(outputs[0]["generated_text"][1]['content'])
               response['modelo'] = 'sabia-3.1'
               response['prompt'] = prompt['id']
               response['temp'] = float(i)
