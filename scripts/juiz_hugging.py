@@ -5,6 +5,7 @@ import json
 import yaml
 import requests
 import argparse
+import outlines
 
 from huggingface_hub import login
 import torch
@@ -45,7 +46,8 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
 
   device = f'cuda' if torch.cuda.is_available() else 'cpu'
 
-  model_id = "Rta-AILabs/Nandi-Mini-150M-Instruct"
+  model_id = "google/gemma-3-1b-it"
+  hf_model = transformers.AutoModelForCausalLM.from_pretrained(model_id, device_map=device, dtype=torch.bfloat16, trust_remote_code=True)
 
   tokenizer = None
   try:
@@ -53,14 +55,18 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   except ValueError:
     pass
 
-  pipeline = transformers.pipeline(
-    task="text-generation",
-    trust_remote_code=True,
-    model=model_id,
-    # The quantization line
-    model_kwargs={"dtype": torch.bfloat16},
-    device=device,
-  )
+  hf_model.resize_token_embeddings(len(tokenizer))
+  created_model = outlines.from_transformers(hf_model, tokenizer)
+
+  #pipeline = transformers.pipeline(
+  #  task="text-generation",
+  #  trust_remote_code=True,
+  #  model=model_id,
+  #  # The quantization line
+  #  tokenizer = tokenizer,
+  #  dtype = torch.float16,
+  #  device=device,
+  #)
 
   temp = list(map(float, temps))
   num_runs = n_iteracoes # DEFINIR NÚMERO DE EXECUÇÕES POR PROMPT/TEMPERATURA
@@ -114,17 +120,33 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
           raise ValueError("Atribua um valor a \"formato_resposta\"")
 
         for i in (temp):
+          generation_config = transformers.GenerationConfig(
+            max_new_tokens=2048,
+            do_sample=True,
+            temperature=i
+          )
+
           for j in range(num_runs):
             try:
-              outputs = pipeline(
+              outputs = created_model(
                   prompt_formatado,
+                  #generation_config = generation_config,
+                  output_type=formato_resposta,
                   max_new_tokens=2048,
-                  do_sample=True,
-                  temperature=i,
-                  response_format=formato_resposta
+                  temperature=i
+                  #do_sample=True,
+                  #response_format=formato_resposta
                 )
+              print(outputs)
 
-              response = json.loads(outputs[0]["generated_text"][1]['content'])
+            except Exception as e:
+              print(outputs)
+              print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
+
+
+""" 
+            with open("dump.txt", 'w', encoding="utf=8") as f:
+              f.write(outputs[0]["generated_text"])
               response['modelo'] = 'sabia-3.1'
               response['prompt'] = prompt['id']
               response['temp'] = float(i)
@@ -134,8 +156,6 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
               jsonGerado.append(response)
               print(f"Temperatura testada: {i}")
 
-            except Exception as e:
-              print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
     
     # Salvar resultados parciais por redação pra evitar perda de dados
     # Pode ser removido se não for necessário
@@ -152,6 +172,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
+"""
 
 if __name__ == "__main__":
   parser = argparse.ArgumentParser(description="Avalia redações de um determinado ano do CACD com Sabia-3.")
