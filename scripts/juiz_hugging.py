@@ -31,7 +31,7 @@ class respostaEmFaixa(BaseModel):
   erros_gramaticais: list[str]
   feedbacks: list[str]
 
-def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
+def main(n_iteracoes, temps, anos, lista_prompts, nome_completo_modelo, lista_redacao=None):
   url = "https://raw.githubusercontent.com/MeLLL-UFF/diplomatrixbr-gen/main/Diplomatrix.json"
   requisicao = requests.get(url)
 
@@ -120,41 +120,35 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
           raise ValueError("Atribua um valor a \"formato_resposta\"")
 
         for i in (temp):
-          generation_config = transformers.GenerationConfig(
-            max_new_tokens=2048,
-            do_sample=True,
-            temperature=i
-          )
-
           for j in range(num_runs):
             try:
+              sample = False if i == 0.0 else True
               outputs = created_model(
                   prompt_formatado,
-                  #generation_config = generation_config,
                   output_type=formato_resposta,
                   max_new_tokens=2048,
+                  do_sample=sample,
                   temperature=i
-                  #do_sample=True,
-                  #response_format=formato_resposta
                 )
+              print(sample)
               print(outputs)
 
             except Exception as e:
               print(outputs)
               print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
 
-
+            response = json.loads(outputs)
+            response['modelo'] = nome_completo_modelo.split("/")[-1]
+            response['prompt'] = prompt['id']
+            response['temp'] = float(i)
+            response['versao'] = j + 1
+            response['essay'] = numero_redacao
+            response['ano'] = ano
+            jsonGerado.append(response)
+            print(f"Temperatura testada: {i}")\
+            
+            print(response)
 """ 
-            with open("dump.txt", 'w', encoding="utf=8") as f:
-              f.write(outputs[0]["generated_text"])
-              response['modelo'] = 'sabia-3.1'
-              response['prompt'] = prompt['id']
-              response['temp'] = float(i)
-              response['versao'] = j + 1
-              response['essay'] = numero_redacao
-              response['ano'] = ano
-              jsonGerado.append(response)
-              print(f"Temperatura testada: {i}")
 
     
     # Salvar resultados parciais por redação pra evitar perda de dados
@@ -180,8 +174,9 @@ if __name__ == "__main__":
   parser.add_argument("--temps", type=str, nargs="+", required=True, help="Temperaturas usadas.")
   parser.add_argument("--anos", type=str, required=True, help="Anos avaliados.")
   parser.add_argument("--prompts", type=int, nargs="+", required=True, help="Prompts testados.")
+  parser.add_argument("--nome_modelo", type=str, required=True, help="Nome do modelo a ser testado.")
   parser.add_argument("--redacoes", type=int, nargs="+", required=False, help="Redação a ser avaliada.")
 
   args = parser.parse_args()
 
-  main(args.n_iteracoes, args.temps, args.anos, args.prompts, args.redacoes)
+  main(args.n_iteracoes, args.temps, args.anos, args.prompts, args.nome_modelo, args.redacoes)
