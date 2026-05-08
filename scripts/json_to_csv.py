@@ -13,7 +13,7 @@ data_atual = time.strftime("%d.%m.%Y-%H.%M.%S")
 with open(path_json_response, 'r', encoding="utf-8") as json_file:
     data = json.load(json_file)
 
-filename = f'prompt_testing/sheets/{model}_{year}_p7-9_3r.csv'
+filename = f'prompt_testing/sheets/{model}/{model}_{year}_p7-9_3r.csv'
 with open(filename, 'w', newline='', encoding="utf-8") as output_file:
     writer = csv.DictWriter(output_file, fieldnames=["judge", "versao", "prompt", "temp", "redacao", "nota_final", "1A", "1B", "1C", "CGPL", "num_errors", "faixa"])
     writer.writeheader()
