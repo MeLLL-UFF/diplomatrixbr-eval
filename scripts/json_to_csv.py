@@ -5,8 +5,8 @@ import time
 
 from utils import create_new_row
 
-year = 2018
-model = "gemma-4-31b-it"
+year = 2022
+model = "sabia-4"
 path_json_response = os.path.join(os.getcwd(), "prompt_testing", f"output_{model}_{year}_p7-9_3r.json")
 data_atual = time.strftime("%d.%m.%Y-%H.%M.%S")
 
