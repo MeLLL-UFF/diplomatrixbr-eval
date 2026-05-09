@@ -1,7 +1,5 @@
 import os
 from dotenv import load_dotenv
-from openai import OpenAI
-from pydantic import BaseModel
 import json
 import yaml
 import requests
@@ -9,84 +7,80 @@ import argparse
 from groq import Groq
 
 respostaPorCriterio = {
-  "type": "object",
-  "properties": {
-    "nota_1A": {
-      "type": "number"
-      },
-    "nota_1B": {
-      "type": "number"
-      },
-    "nota_1C": {
-      "type": "number"
-      },
-    "numero_de_erros_gramaticais": {
-      "type": "integer"
-      },
-    "erros_gramaticais": {
-      "type": "array",
-      "items": {
-        "type" : "string"
+  "type": "json_schema",
+  "json_schema": {
+    "name": "resposta_por_criterio",
+    "strict": True,
+    "schema": {
+      "type": "object",
+      "properties": {
+        "nota_1A": {"type": "number"},
+        "nota_1B": {"type": "number"},
+        "nota_1C": {"type": "number"},
+        "numero_de_erros_gramaticais": {"type": "integer"},
+        "erros_gramaticais": {
+          "type": "array",
+          "items": {"type": "string"}
         },
-      },
-    "feedbacks": {
-      "type": "array",
-      "items": {
-        "type": "string"
+        "feedbacks": {
+          "type": "array",
+          "items": {"type": "string"}
         }
-      }
-  },
-  "required": ["nota_1A", "nota_1B", "nota_1C", "numero_de_erros_gramaticais", "erros_gramaticais", "feedbacks"]
+      },
+      "required": ["nota_1A", "nota_1B", "nota_1C", "numero_de_erros_gramaticais", "erros_gramaticais", "feedbacks"],
+      "additionalProperties": False
+    }
+  }
 }
 
 respostaFinal = {
-  "type": "object",
-  "properties": {
-    "nota_final": {
-      "type": "number"
-      },
-    "numero_de_erros_gramaticais": {
-      "type": "integer"
-      },
-    "erros_gramaticais": {
-      "type": "array",
-      "items": {
-        "type" : "string"
+  "type": "json_schema",
+  "json_schema": {
+    "name": "resposta_final",
+    "strict": True,
+    "schema": {
+      "type": "object",
+      "properties": {
+        "nota_final": {"type": "number"},
+        "numero_de_erros_gramaticais": {"type": "integer"},
+        "erros_gramaticais": {
+          "type": "array",
+          "items": {"type": "string"}
         },
-      },
-    "feedbacks": {
-      "type": "array",
-      "items": {
-        "type": "string"
+        "feedbacks": {
+          "type": "array",
+          "items": {"type": "string"}
         }
-      }
-  },
-  "required": ["nota_final", "numero_de_erros_gramaticais", "erros_gramaticais", "feedbacks"]
+      },
+      "required": ["nota_final", "numero_de_erros_gramaticais", "erros_gramaticais", "feedbacks"],
+      "additionalProperties": False
+    }
+  }
 }
 
 respostaEmFaixa = {
-  "type": "object",
-  "properties": {
-    "faixa": {
-      "type": "string"
-      },
-    "numero_de_erros_gramaticais": {
-      "type": "integer"
-      },
-    "erros_gramaticais": {
-      "type": "array",
-      "items": {
-        "type" : "string"
+  "type": "json_schema",
+  "json_schema": {
+    "name": "resposta_em_faixa",
+    "strict": True,
+    "schema": {
+      "type": "object",
+      "properties": {
+        "faixa": {"type": "string"},
+        "numero_de_erros_gramaticais": {"type": "integer"},
+        "erros_gramaticais": {
+          "type": "array",
+          "items": {"type": "string"}
         },
-      },
-    "feedbacks": {
-      "type": "array",
-      "items": {
-        "type": "string"
+        "feedbacks": {
+          "type": "array",
+          "items": {"type": "string"}
         }
-      }
-  },
-  "required": ["faixa", "numero_de_erros_gramaticais", "erros_gramaticais", "feedbacks"]
+      },
+      "required": ["faixa", "numero_de_erros_gramaticais", "erros_gramaticais", "feedbacks"],
+      "additionalProperties": False
+    }
+  }
 }
 
 def main(n_iteracoes, temps, anos, lista_prompts, modelo):
@@ -118,6 +112,11 @@ def main(n_iteracoes, temps, anos, lista_prompts, modelo):
       prompts = prompts_yaml['prompts']
 
   dados_candidatos = diplomatrix["Candidates_Essays"][ano]["Candidates"]
+  try:
+    padrao_de_resposta = diplomatrix["Candidates_Essays"][ano]["Answer_Pattern"]
+    enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
+  except KeyError:
+    padrao_de_resposta = ""
   numero_redacao = 0
 
   for candidato in dados_candidatos:
@@ -128,7 +127,8 @@ def main(n_iteracoes, temps, anos, lista_prompts, modelo):
 
       # DEFINIR AQUI QUAIS PROMPTS SERÃO TESTADOS
       if prompt['id'] in lista_prompts:
-        prompt_formatado = prompt['prompt'] + "\nRetorne em formato de JSON\n" + redacao
+        prompt_formatado = prompt['prompt'].replace("{enunciado}", str(enunciado))
+        prompt_formatado = prompt_formatado.replace("{padrao_resposta}", str(padrao_de_resposta)) + redacao
         prompt_formatado += "\n\n" + prompt['extras'] if 'extras' in prompt else ''
 
         print(f"Redação {numero_redacao} - Prompt {prompt['id']}")
@@ -136,12 +136,11 @@ def main(n_iteracoes, temps, anos, lista_prompts, modelo):
         formato_resposta = None
 
         match prompt['id']:
-          # ADICIONAR NOVOS CASOS NO SWITCH CASE CONFORME FOR INTERESSANTE
-          case 7 | 10:
+          case 7 | 10 | 13:
             formato_resposta = respostaPorCriterio
-          case 8 | 11:
+          case 8 | 11 | 14:
             formato_resposta = respostaFinal
-          case 9 | 12:
+          case 9 | 12 | 15:
             formato_resposta = respostaEmFaixa
 
         if formato_resposta is None:
@@ -151,48 +150,36 @@ def main(n_iteracoes, temps, anos, lista_prompts, modelo):
           for j in range(num_runs):
             try:
               response = client.chat.completions.create(
-                  model=modelo,
-                  temperature=float(i),
-                  messages=[
-                      {"role": "user", "content": prompt_formatado},
-                  ],
-                  tools=[{
-                    "type": "function",
-                    "function": {
-                        "name": "process_evaluation",
-                        "parameters": formato_resposta,
-                    }
-                  }],
-                  tool_choice={
-                    "type": "function",
-                    "function": {
-                        "name": "process_evaluation"
-                    }
-                  },
-                  max_tokens=2048
+                model=modelo,
+                temperature=float(i),
+                messages=[
+                    {"role": "user", "content": prompt_formatado},
+                ],
+                response_format=formato_resposta,
+                max_tokens=4096
               )
 
-              response = json.loads(response.choices[0].message.tool_calls[0].function.arguments)
+              response = json.loads(response.choices[0].message.content)
               response['modelo'] = modelo
               response['prompt'] = prompt['id']
-              response['temp'] = i
+              response['temp'] = float(i)
               response['versao'] = j + 1
               response['essay'] = numero_redacao
               response['ano'] = ano
               jsonGerado.append(response)
               print(f"Temperatura testada: {i}")
-              2
+
             except Exception as e:
               print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
     
     # Salvar resultados parciais por redação pra evitar perda de dados
     # Pode ser removido se não for necessário
-    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_prompt{prompt["id"]}_{numero_redacao}_output_{response["modelo"]}_p7-12_{num_runs}r.json')
+    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_prompt{prompt["id"]}_{numero_redacao}_output_gpt-oss-120b_p7-9_{num_runs}r.json')
     with open(output_path, 'w', encoding="utf-8") as file:
       json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
       file.close()
 
-  output_path = os.path.join(os.getcwd(), "prompt_testing", f'output_{response["modelo"]}_p12_{num_runs}r.json')
+  output_path = os.path.join(os.getcwd(), "prompt_testing", f'output_gpt-oss-120b_p7-9_{num_runs}r.json')
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
