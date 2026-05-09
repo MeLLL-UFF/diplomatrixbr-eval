@@ -99,8 +99,9 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
         for i in (temp):
           for j in range(num_runs):
             try:
+              model_name = "sabia-4"
               response = client.beta.chat.completions.parse(
-                  model="sabia-3.1",
+                  model=model_name,
                   temperature=i,
                   messages=[
                       {"role": "user", "content": prompt_formatado},
@@ -110,7 +111,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
               )
 
               response = json.loads(response.choices[0].message.content)
-              response['modelo'] = 'sabia-3.1'
+              response['modelo'] = model_name
               response['prompt'] = prompt['id']
               response['temp'] = float(i)
               response['versao'] = j + 1
@@ -124,7 +125,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
     
     # Salvar resultados parciais por redação pra evitar perda de dados
     # Pode ser removido se não for necessário
-    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_{numero_redacao}_output_{response["modelo"]}_p13-15_{num_runs}r.json')
+    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_{numero_redacao}_output_{response["modelo"]}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
     with open(output_path, 'w', encoding="utf-8") as file:
       json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
       file.close()
@@ -139,7 +140,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
     file.close()
 
 if __name__ == "__main__":
-  parser = argparse.ArgumentParser(description="Avalia redações de um determinado ano do CACD com Sabia-3.")
+  parser = argparse.ArgumentParser(description="Avalia redações de um determinado ano do CACD com Sabia.")
   parser.add_argument("--n_iteracoes", type=int, required=True, help="Quantas iterações por redação.")
   parser.add_argument("--temps", type=str, nargs="+", required=True, help="Temperaturas usadas.")
   parser.add_argument("--anos", type=str, required=True, help="Anos avaliados.")
