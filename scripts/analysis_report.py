@@ -8,8 +8,8 @@ from sklearn.metrics import cohen_kappa_score, roc_auc_score
 from sklearn.preprocessing import MinMaxScaler
 import yaml
 
-from plot import plot_distribuicao_notas, plot_eval_human_num_errors, plot_eval_human_scores, plot_val_error, plot_error_heatmap, plot_corr_heatmap
-from utils import get_mean
+from .plot import *
+from .utils import get_mean
 
 def print_full(df):
     pd.set_option('display.max_rows', len(df))
@@ -20,10 +20,10 @@ def print_full(df):
     pd.reset_option('display.max_rows')
     pd.reset_option('display.expand_frame_repr')
 
-def main(num_runs, eval_path, human_path, model, model_version, year):
+def main(num_runs, eval_path, human_path, model, year):
     pd.set_option('future.no_silent_downcasting', True)
     root_path = os.getcwd()
-    output_path = os.path.join(root_path, "prompt_testing", "reports", f"{model}-{model_version}_{year}_{num_runs}_runs")
+    output_path = os.path.join(root_path, "prompt_testing", "reports", f"{model}_{year}_{num_runs}_runs")
     os.makedirs(output_path, exist_ok=True)
 
     # Carregando dados
@@ -122,7 +122,7 @@ def main(num_runs, eval_path, human_path, model, model_version, year):
     plot_corr_heatmap(df_notas_normalizado, output_path, year)
 
     # Gerando resumo em markdown
-    md_content = f"""# Relatório de Avaliação: {model}-{model_version} - {num_runs} execuções
+    md_content = f"""# Relatório de Avaliação: {model} - {num_runs} execuções
 **Gerado em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}**
 
 ## 1. Distribuição de Notas
@@ -162,7 +162,7 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 ![Correlações](correlacoes.png)
 
 ## Estatísticas Descritivas
-### Modelo {model}-{model_version}
+### Modelo {model}
 {df_eval.describe().to_markdown()}
 
 ### Humano
@@ -182,7 +182,6 @@ if __name__ == "__main__":
     parser.add_argument("--eval_path", required=True)
     parser.add_argument("--human_path", required=True)
     parser.add_argument("--model", required=True)
-    parser.add_argument("--model_version", required=True)
     parser.add_argument("--year", required=True, type=str)
     args = parser.parse_args()
-    main(args.num_runs, args.eval_path, args.human_path, args.model, args.model_version, args.year)
+    main(args.num_runs, args.eval_path, args.human_path, args.model, args.year)
