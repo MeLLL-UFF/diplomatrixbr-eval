@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 import textwrap
 import math
 import seaborn as sns
@@ -319,3 +320,43 @@ def plot_corr_heatmap(df, outputpath, year):
     axes[1].set_title("Correlação de Spearman")
     plt.suptitle(f"Correlações {year}")
     plt.savefig(f"{outputpath}/correlacoes.png")
+
+def plot_co_var_temp(df, year, model):
+    fig, axes = plt.subplots(1, figsize=(8, 8))
+    df_treated = df[["redacao", "prompt", "nota_final"]]
+    df_std = df_treated.groupby(by=["prompt", "redacao"]).std()
+    df_mean = df_treated.groupby(by=["prompt", "redacao"]).mean()
+
+    df_result = (df_std/df_mean)*100
+    df_result = df_result.rename(columns={"nota_final":"coeficiente de variacao"})
+
+    sns.histplot(df_result, stat="count", ax=axes)
+    axes.set_title(f"Coeficiente de variação das temperaturas \n {year} \n {model}")
+    axes.set_xlabel("Coeficiente em %")
+    axes.yaxis.set_major_locator(MaxNLocator(integer=True))
+
+    #plt.show()
+
+def plot_co_var_redacao(df, year, model):
+    fig, axes = plt.subplots(1, figsize=(8, 8))
+    df_treated = df[["temp", "prompt", "nota_final"]]
+    df_std = df_treated.groupby(by=["prompt", "temp"]).std()
+    df_mean = df_treated.groupby(by=["prompt", "temp"]).mean()
+
+    df_result = (df_std/df_mean)*100
+    df_result = df_result.rename(columns={"nota_final":"coeficiente de variacao"})
+
+    sns.histplot(df_result, stat="count", ax=axes)
+    axes.set_title(f"Coeficiente de variação das redações \n {year} \n {model}")
+    axes.set_xlabel("Coeficiente em %")
+    axes.yaxis.set_major_locator(MaxNLocator(integer=True))
+    #plt.show()
+
+def plot_co_var_human(df, year):
+    df_treated = df[["nota_final"]]
+    df_std = df_treated.std()
+    df_mean = df_treated.mean()
+
+    df_result = (df_std/df_mean)*100
+    result = float(df_result.iloc[0])
+    print(f"{year} - {result:.4f}")
