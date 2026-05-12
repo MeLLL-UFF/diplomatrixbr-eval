@@ -133,7 +133,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   for i in temp:
     listtemps += str(i) + "_"
 
-  output_path = os.path.join(os.getcwd(), "prompt_testing", f'{listtemps}output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+  output_path = os.path.join(os.getcwd(), "prompt_testing", "outputs", model_name, f'{listtemps}output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
