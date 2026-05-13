@@ -1,0 +1,736 @@
+[
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "erro de concordância nominal: 'os seus colega' (deveria ser 'os seus colegas')",
+      "erro de regência verbal: 'visar cidadãos estrangeiros' (o verbo visar, no sentido de ter como alvo, é transitivo direto; o correto seria 'visar cidadãos estrangeiros' ou 'ter como alvo cidadãos estrangeiros', mas a forma 'visar a' é para no sentido de almejar. No entanto, 'visar' como 'mirar' é TD. A frase 'visar cidadãos estrangeiros' está gramaticalmente correta se o sentido for 'ter como alvo'. Vou considerar que não há erro aqui, ou que o erro é de pontuação ou estilo. Vou reler: 'Grupos terroristas poderiam visar cidadãos estrangeiros...' - 'visar' como 'mirar' é TD. Está correto. Vou procurar outros erros. 'A IA não pode findar por causar' - 'findar por' é uma construção um pouco arcaica ou pouco usual, mas não necessariamente errada. 'findar' significa terminar. 'findar por' significa terminar por. Está aceitável. 'A mesma lógica vale para as metas brasileiras de educação: a IA pode complementar o ensino brasileiro, conforme evoca o Objetivo de Desenvolvimento Sustentável 4.' - 'evoca' é um verbo que pode ser usado, mas 'prevê' ou 'estabelece' seria mais comum. Não é erro. 'Cada ator escutaria, em seu idioma nativo, os seus colega.' -> 'os seus colegas'. Este é um erro claro. 'A existência de numerosos benefícios não permite elidir desconsiderar [sobrescrita] desvantagens...' -> 'elidir desconsiderar' é uma redundância ou erro de digitação que foi corrigido pelo candidato com a sobrescrita. O texto final é 'desconsiderar desvantagens'. 'não permite desconsiderar desvantagens' está correto. 'O aumento das lacunas socioeconômicas entre os Estados seria refletido nas relações de poder entre eles...' -> 'seria refletido' está correto. 'Os Estados devem estabelecer tratados internacionais que regulamentem os usos da IA.' -> 'que regulamentem' está correto. 'É necessário banir a utilização desta em guerras...' -> 'desta' refere-se a 'utilização' ou 'IA'? Se for 'IA', deveria ser 'dessa' ou 'dela'. 'desta' é demonstrativo que indica proximidade. 'banir a utilização desta [IA] em guerras' - 'desta' pode ser considerado erro de pronome demonstrativo, pois a IA foi mencionada anteriormente, não está próxima. Deveria ser 'dessa' ou 'dela'. Vou considerar este como um erro de pronome demonstrativo. 'A IA não pode findar por causar mais conflitos...' -> 'findar por' é aceitável. 'Não se pode tolerar que as desigualdades entre Estados continuem aumentando.' -> 'continuem' está correto. 'Pode-se, por exemplo, fomentar o uso de IA para a implementação de novos setores econômicos em países de menor desenvolvimento relativo.' -> correto. 'Do mesmo modo, as desigualdades podem ser mitigadas por intermédio de inteligência artificial em setores competitivos de países periféricos, como a agricultura de precisão e a extração mineral com o apoio de satélites.' -> correto. 'Neste caso, os satélites indicariam onde há mais recursos a serem explorados.' -> correto. 'Caso os Estados obtenham êxito na regulamentação da inteligência artificial, os aspectos positivos dessa tecnologia predominariam ante os negativos.' -> 'predominariam ante' está correto. 'Difundindo-se aceleradamente, a inteligência artificial compreende, em seu âmago, oportunidades e desafios, que os Estados precisam reconhecer.' -> 'desafios, que' - a vírgula antes de 'que' é inadequada, pois a oração 'que os Estados precisam reconhecer' é restritiva (especifica quais desafios). Deveria ser 'desafios que os Estados precisam reconhecer'. Este é um erro de pontuação. 'É essencial que as diplomacias de cada Estado atuem em coordenação...' -> 'as diplomacias' é um pouco estranho, mas aceitável. 'para delimitar os usos de novas tecnologias...' -> correto. 'A cooperação internacional deve ditar os rumos do futuro...' -> correto. Resumindo os erros: 1. 'os seus colega' (concordância nominal) 2. 'desta' (pronome demonstrativo inadequado) 3. 'desafios, que' (vírgula inadequada) Total: 3 erros. Nota CGPL: 20 - 3 = 17.0. Vou revisar a nota 1C. O candidato faz uma análise boa, mas superficial em alguns pontos. Usa Wendt, mas não aprofunda. Os exemplos são bons, mas a análise dos impactos na diplomacia poderia ser mais profunda. 16.0 parece justo. Nota 1B: 8.0. Argumentação clara, mas falta profundidade em alguns pontos. Nota 1A: 8.5. Texto bem organizado, estilo adequado, mas com alguns deslizes. Nota final: 8.5 + 8.0 + 16.0 + 17.0 = 49.5. Vou estruturar a resposta. }}</think>: { "
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta estrutura clara, com introdução, desenvolvimento e conclusão bem definidos. A progressão temática é lógica, e o estilo é formal e adequado ao concurso. Há pequenos deslizes de pontuação e escolha lexical que não comprometem a legibilidade, mas impedem a nota máxima.",
+      "1B: A argumentação é objetiva e sistematizada, com exemplos concretos (simulação de conferências, agricultura de precisão, drones). No entanto, a análise dos impactos na diplomacia poderia ser mais aprofundada, especialmente no que tange à transformação das práticas diplomáticas tradicionais e à governança global da IA. A pertinência das informações é boa, mas falta maior densidade analítica.",
+      "1C: O candidato demonstra capacidade de reflexão ao articular teoria (Wendt) e prática, e ao propor soluções globais. A análise é equilibrada, mas permanece em um nível descritivo em alguns trechos, sem explorar contradições ou nuances mais complexas (ex.: tensão entre soberania e governança global da IA). A reflexão é competente, mas não excepcional.",
+      "CGPL: O texto apresenta três erros gramaticais: (1) erro de concordância nominal em 'os seus colega' (deveria ser 'os seus colegas'); (2) uso inadequado de pronome demonstrativo em 'desta' (deveria ser 'dessa' ou 'dela', pois a IA não está próxima); (3) vírgula inadequada em 'desafios, que' (a oração é restritiva, não havendo necessidade de pausa). A correção desses pontos elevaria a nota para 19,0."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "seus colega"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente domínio da estrutura dissertativo-argumentativa, com introdução, desenvolvimento e conclusão bem articulados. O candidato demonstra amplo conhecimento teórico (Wendt, Portinari) e contextualiza adequadamente o tema da IA na diplomacia, abordando tanto impactos positivos quanto negativos, conforme solicitado. A linguagem é formal, precisa e adequada ao contexto do concurso. Há apenas um erro gramatical pontual: 'seus colega' (concordância nominal), que deveria ser 'seus colegas'. A coerência e a coesão são notáveis, com uso eficiente de conectivos e encadeamento lógico das ideias. A conclusão é forte e sintetiza bem a proposta de regulação internacional. O texto atende plenamente aos critérios de avaliação, justificando uma nota alta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "seus colega"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente domínio da estrutura dissertativo-argumentativa, com introdução, desenvolvimento e conclusão bem articulados. O candidato demonstra amplo conhecimento teórico (Wendt) e capacidade de aplicar conceitos de Relações Internacionais ao tema proposto. A argumentação é rica, cobrindo impactos positivos e negativos da IA na diplomacia, com exemplos concretos e uma proposta de intervenção coerente. A linguagem é formal, precisa e adequada ao contexto do concurso. Há apenas um erro gramatical pontual: 'seus colega' (concordância nominal), que não compromete a fluidez ou a compreensão do texto. A redação atende plenamente aos critérios de organização, desenvolvimento do tema, correção gramatical e propriedade da linguagem."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "seus colega"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente domínio da estrutura dissertativo-argumentativa, com introdução, desenvolvimento e conclusão bem articulados. O candidato demonstra amplo conhecimento teórico (Wendt, Portinari) e contextualiza adequadamente o tema da IA na diplomacia, abordando tanto impactos positivos quanto negativos, conforme solicitado. A linguagem é formal, precisa e adequada ao contexto do concurso. Há apenas um erro gramatical pontual: 'seus colega' (concordância nominal), que deveria ser 'seus colegas'. A coerência e a coesão são notáveis, com uso eficiente de conectivos e encadeamento lógico das ideias. A conclusão é forte e sintetiza bem a proposta de regulamentação internacional. O texto atende plenamente aos critérios de avaliação, com destaque para a capacidade de reflexão crítica e a propriedade da linguagem."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "cada ator escutaria, em seu idioma nativo, os seus colega."
+    ],
+    "feedbacks": [
+      "O texto demonstra domínio avançado do tema, articulando teoria das Relações Internacionais (Wendt) com a aplicação prática da IA na diplomacia. A estrutura é lógica e bem encadeada, com introdução, desenvolvimento (benefícios, desvantagens e respostas diplomáticas) e conclusão coerentes. A argumentação é sólida, com exemplos concretos e uma visão crítica sobre desigualdades e riscos éticos. A linguagem é formal, precisa e adequada ao contexto diplomático, com riqueza vocabular e estilo maduro. Há apenas um deslize gramatical menor (concordância nominal: 'os seus colega' em vez de 'os seus colegas'), que não compromete a qualidade geral do texto. A reflexão é profunda, original e alinhada aos critérios do CACD, evidenciando maturidade analítica e capacidade de síntese."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "cada ator escutaria, em seu idioma nativo, os seus colega."
+    ],
+    "feedbacks": [
+      "O texto demonstra domínio avançado do tema, articulando teoria das Relações Internacionais (Wendt) com a aplicação prática da IA na diplomacia. A estrutura é lógica e bem encadeada, com introdução, desenvolvimento (benefícios, desvantagens e respostas diplomáticas) e conclusão impactante. A argumentação é sólida, com exemplos concretos (simulação de conferências, erradicação do desmatamento, uso em armas) e uma reflexão crítica sobre desigualdades e governança global. A linguagem é formal, precisa e rica vocabularmente, com poucas deslizes gramaticais. A referência à UNESCO e a menção a Portinari na conclusão agregam profundidade e originalidade. O texto atende plenamente aos critérios de um candidato à carreira diplomática."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "cada ator escutaria, em seu idioma nativo, os seus colega."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. A argumentação é profunda, abordando tanto os impactos positivos quanto negativos da IA na diplomacia, com exemplos concretos e uma reflexão teórica relevante (Wendt). A linguagem é madura, com vocabulário rico e adequado ao contexto acadêmico e diplomático. A coesão e a coerência são excelentes, com transições bem elaboradas entre os parágrafos. Há uma única falha gramatical identificada: 'os seus colega' deveria ser 'os seus colegas'. Apesar disso, o texto demonstra domínio avançado do tema e da norma culta, com originalidade e clareza, caracterizando-se como um texto de nível excelente."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal/verbal: 'O surgimento de novas tecnologias contribuíram' (deveria ser 'contribuiu')",
+      "regência: 'crimes contra à humanidade' (o 'a' de 'contra' é preposição, não exige crase; o correto é 'contra a humanidade' ou 'contra a humanidade' sem crase, mas aqui o erro é a crase indevida)",
+      "concordância verbal: 'a diplomacia pode ser importante' (o 'pode' está correto, mas a frase 'de maneira que a diplomacia pode ser importante' soa um pouco forçada, mas não é erro gramatical. Vou focar nos erros claros)."
+    ],
+    "feedbacks": [
+      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão. A escrita é clara e objetiva. O estilo é adequado para uma redação de concurso. A coerência é boa, com transições entre os parágrafos. A legibilidade é alta.",
+      "1B: A argumentação é pertinente ao tema, abordando impactos positivos e negativos da IA na diplomacia. O conteúdo é relevante, citando exemplos como Cambridge Analytica, Brexit, Rohingyas, guerra na Ucrânia e Amazônia. A sistematização é boa, com parágrafos temáticos. A objetividade é mantida, embora haja algumas repetições de ideias.",
+      "1C: A análise e reflexão são satisfatórias. O candidato consegue articular conceitos de globalização, tecnologia e diplomacia. A reflexão sobre a regulamentação da IA e seu papel na promoção de direitos humanos e meio ambiente é pertinente. No entanto, a análise poderia ser mais aprofundada, explorando mais as nuances dos impactos da IA na diplomacia, como a automação de tarefas diplomáticas, a análise de dados para políticas externas, ou os desafios éticos específicos da diplomacia digital.",
+      "CGPL: O texto apresenta três erros gramaticais claros: 1) 'O surgimento de novas tecnologias contribuíram' (concordância: 'surgimento' é singular, então o verbo deve ser 'contribuiu'); 2) 'crimes contra à humanidade' (crase indevida: 'contra' é preposição, não exige crase antes de artigo definido feminino, a menos que haja uma palavra feminina antecedente, o que não é o caso aqui; o correto é 'contra a humanidade'); 3) 'a diplomacia pode ser importante' (não é um erro gramatical, mas a frase 'de maneira que a diplomacia pode ser importante' é um pouco ambígua. No entanto, não é um erro claro. Vou considerar apenas os dois erros anteriores e um terceiro: 'a inteligência artificial pode ser importante, também, para o monitoramento' (a vírgula após 'importante' é opcional, mas não é erro. Vou procurar outro erro. Ah, 'crimes contra à humanidade' é um erro de crase. 'O surgimento de novas tecnologias contribuíram' é erro de concordância. 'a diplomacia pode ser importante' não é erro. 'a inteligência artificial pode facilitar o trabalho dos diplomatas, porque ela permite a criação veloz de resumos' (não há erro). 'a inteligência artificial também facilita a tradução simultânea em cúpulas, bem como ajuda negociadores a criarem cenários distintos' (não há erro). 'a inteligência artificial pode ser importante, também, para o monitoramento de acordos nucleares' (não há erro). 'a inteligência artificial tem o potencial de contribuir, de forma ainda mais efetiva, para o objetivo brasileiro de zerar o desmatamento ilegal na região, até 2030' (não há erro). 'O modo pelo qual os indivíduos, os governos e as organizações internacionais utilizam novas técnicas é uma decisão política' (não há erro). 'Se regulamentada, a inteligência artificial tem o potencial de afetar a diplomacia positivamente' (não há erro). Vou reconsiderar. O erro de 'contribuíram' é claro. O erro de 'contra à' é claro. Há um terceiro? 'a diplomacia pode ser importante nesse processo' (não há erro). 'a inteligência artificial pode contribuir para a resolução de conflitos' (não há erro). 'a inteligência artificial pode facilitar o trabalho dos diplomatas' (não há erro). 'a inteligência artificial também facilita a tradução simultânea' (não há erro). 'a inteligência artificial pode ser importante, também, para o monitoramento' (não há erro). 'a inteligência artificial tem o potencial de contribuir' (não há erro). 'O surgimento de tecnologias sempre afeta e continuará afetando a sociedade' (não há erro). 'O modo pelo qual os indivíduos... utilizam novas técnicas é uma decisão política' (não há erro). 'Se regulamentada, a inteligência artificial tem o potencial de afetar a diplomacia positivamente' (não há erro). Talvez não haja um terceiro erro claro. Vou considerar apenas dois erros. Mas a instrução pede para contabilizar os erros. Vou listar os dois erros claros e considerar que o terceiro pode ser uma questão de estilo ou pontuação. No entanto, para ser rigoroso, vou considerar apenas os dois erros gramaticais claros. Mas a nota de CGPL é baseada no número de erros. Vou ajustar a nota de CGPL para 18,00, considerando 2 erros. Mas a instrução diz 'Contabilize os erros gramaticais'. Vou listar os dois erros e a nota correspondente."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal/verbal: 'O surgimento de novas tecnologias contribuíram' (deveria ser 'contribuiu')",
+      "regência: 'crimes contra à humanidade' (o 'a' de 'contra' é preposição, não exige crase; o correto é 'contra a humanidade' ou 'contra a humanidade' sem crase, mas aqui o erro é a crase indevida)",
+      "concordância verbal: 'a diplomacia pode ser importante' (o 'pode' está correto, mas a frase 'de maneira que a diplomacia pode ser importante' soa um pouco forçada, mas não é erro gramatical. Vou focar nos erros claros)."
+    ],
+    "feedbacks": [
+      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão. A escrita é clara e fluida. No entanto, há uma repetição excessiva da expressão 'inteligência artificial' no desenvolvimento, o que poderia ser mitigado com o uso de sinônimos ou pronomes. A pontuação é adequada, mas algumas frases poderiam ser mais concisas.",
+      "1B: O candidato apresenta argumentos pertinentes e bem fundamentados, utilizando exemplos concretos (Primavera Árabe, Cambridge Analytica, Ucrânia, Amazônia). A argumentação é objetiva e sistematizada. No entanto, a conexão entre os exemplos e o tema central (diplomacia) poderia ser mais explícita em alguns momentos. A pertinência das informações é boa, mas a análise poderia ser mais aprofundada em relação aos mecanismos específicos de impacto da IA na diplomacia.",
+      "1C: O candidato demonstra capacidade de análise e reflexão, conectando a IA a questões de direitos humanos, meio ambiente e paz internacional. A reflexão é coerente com o enunciado. No entanto, a análise poderia ser mais crítica, explorando mais os dilemas éticos e os desafios de governança global da IA, que são centrais no texto-base da UNESCO. A reflexão é boa, mas não atinge o nível de profundidade e originalidade esperados para uma nota máxima.",
+      "CGPL: O texto apresenta três erros gramaticais claros: 1) 'O surgimento de novas tecnologias contribuíram' (concordância verbal: 'surgimento' é singular, então o verbo deve ser 'contribuiu'); 2) 'crimes contra à humanidade' (crase indevida: 'contra' é preposição, não exige crase antes de artigo definido feminino, a menos que haja uma palavra feminina anterior que a exija, o que não é o caso aqui; o correto é 'contra a humanidade'); 3) 'a diplomacia pode ser importante' (não é um erro gramatical, mas a frase 'de maneira que a diplomacia pode ser importante' é um pouco ambígua. Vou considerar apenas os dois erros claros e um terceiro erro de pontuação ou regência se houver. Revisando: 'crimes contra à humanidade' é erro de crase. 'O surgimento de novas tecnologias contribuíram' é erro de concordância. Há um terceiro erro? 'a diplomacia pode ser importante' não é erro. 'criarem cenários' (infinitivo flexionado) é aceitável em português do Brasil, mas em normas mais rígidas pode ser considerado erro. Vou considerar 'criarem' como erro de regência/concordância do infinitivo. Então, três erros: concordância verbal, crase indevida e flexão do infinitivo."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal/verbal: 'O surgimento de novas tecnologias contribuíram' (deveria ser 'contribuiu')",
+      "regência: 'crimes contra à humanidade' (o 'a' de 'contra' é preposição, não exige crase; o correto é 'contra a humanidade' ou 'contra a humanidade' sem crase, mas aqui o erro é a crase indevida)",
+      "concordância verbal: 'a diplomacia pode ser importante' (o 'pode' está correto, mas a frase 'de maneira que a diplomacia pode ser importante' soa um pouco forçada, mas não é erro gramatical. Vou considerar apenas os erros claros. Na verdade, 'de maneira que' pode indicar consequência ou finalidade. Aqui parece ser consequência. 'de maneira que a diplomacia pode ser importante' está gramaticalmente correto. Vou revisar os erros. 1. 'O surgimento de novas tecnologias contribuíram' -> erro de concordância. 2. 'crimes contra à humanidade' -> erro de crase. 3. 'a inteligência artificial pode ser importante, também, para o monitoramento' -> a vírgula após 'também' é opcível, mas não é erro. Vou procurar mais um. 'A inteligência artificial também facilita a tradução simultânea em cúpulas, bem como ajuda negociadores a criarem cenários distintos' -> 'a criarem' está correto. 'A inteligência artificial pode facilitar o trabalho dos diplomatas, porque ela permite a criação veloz de resumos' -> 'criação veloz' é um pouco estranho, mas não é erro. 'A inteligência artificial também facilita a tradução simultânea em cúpulas, bem como ajuda negociadores a criarem cenários distintos durante a negociação e a identificarem possíveis interesses por meio de tecnologias de reconhecimento facial.' -> 'a identificarem' está correto. 'A inteligência artificial pode ser importante, também, para o monitoramento de acordos nucleares, já que ela consegue perceber, facilmente, a realização de testes nucleares mediante resíduos atômicos na atmosfera.' -> 'perceber, facilmente,' -> a vírgula é opcional. 'A promoção da diplomacia dos direitos humanos e do meio ambiente é uma possível consequência da inteligência artificial.' -> 'consequência' não é a palavra mais adequada, mas é aceitável. 'No contexto da guerra na Ucrânia, essa tecnologia tem sido utilizada para a documentação de graves crimes contra à humanidade' -> erro de crase. 'os quais têm sido investigados pelo Tribunal Penal Internacional (TPI).' -> correto. 'Durante conflitos armados, violações de direitos humanos são agravadas, uma vez que políticos e instituições nacionais não conseguem, de forma efetiva, proteger os indivíduos, razão pela qual a inteligência artificial pode ser uma consequência positiva para a diplomacia.' -> 'razão pela qual' está correto. 'Além disso, considerando-se que a mudança climática é um dos temas mais sensíveis na atualidade, a inteligência artificial pode auxiliar governos e organizações internacionais na preservação de ecossistemas.' -> correto. 'Na Amazônia, tecnologias como satélites são essenciais para o monitoramento do desmatamento da floresta, de maneira que a inteligência artificial tem o potencial de contribuir, de forma ainda mais efetiva, para o objetivo brasileiro de zerar o desmatamento ilegal na região, até 2030.' -> correto. 'O surgimento de tecnologias sempre afeta e continuará afetando a sociedade, porque elas representam a maneira pela qual os seres humanos se relacionam com a natureza.' -> correto. 'O modo pelo qual os indivíduos, os governos e as organizações internacionais utilizam novas técnicas é uma decisão política, de forma que a inteligência artificial, assim como qualquer outra criação da humanidade, pode manter injustiças ou mudar o estado de coisas.' -> correto. 'Se regulamentada, a inteligência artificial tem o potencial de afetar a diplomacia positivamente, ao auxiliar na negociação de acordos de paz e ao promover os direitos humanos e o meio ambiente.' -> correto. Então, tenho 2 erros claros. Vou considerar 2 erros. A nota de CGPL será 18.0. Mas o enunciado pede para contabilizar os erros. Vou listar os 2 erros. Nota CGPL: 18.0. Nota final: 8.5 + 8.0 + 15.0 + 18.0 = 49.5. Vou revisar a nota 1C. A análise é boa, mas poderia ser mais profunda em alguns pontos. 15.0 parece justo. Nota 1B: 8.0. A argumentação é clara, mas a conexão com o texto base é um pouco fraca. O texto base fala de UNESCO, direitos humanos, transparência, etc. O candidato fala de Cambridge Analytica, Brexit, Rohingyas, Ucrânia, Amazônia. São exemplos pertinentes, mas a ligação com a recomendação da UNESCO não é explícita. Isso pode baixar a nota de 1B. Vou manter 8.0. Nota 1A: 8.5. O texto é bem escrito, coerente, mas tem alguns trechos um pouco repetitivos. 8.5 é justo. Nota final: 49.5. Vou estruturar a resposta. "
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta boa coerência e coesão, com parágrafos bem estruturados e progressão temática clara. O estilo é formal e adequado ao concurso, embora haja alguma repetição de estruturas e vocabulário. A legibilidade é alta.",
+      "1B: A argumentação é objetiva e sistematizada, com exemplos pertinentes (Cambridge Analytica, Ucrânia, Amazônia) que ilustram os impactos da IA na diplomacia. No entanto, a conexão explícita com a recomendação da UNESCO citada no enunciado é fraca, o que limita a pertinência das informações em relação ao texto base.",
+      "1C: A análise é reflexiva e aborda tanto aspectos positivos quanto negativos, com boa capacidade de síntese. A reflexão sobre a regulação e o papel da diplomacia é pertinente, mas poderia ser aprofundada em termos de implicações geopolíticas mais específicas e na relação direta com os princípios da UNESCO (transparência, responsabilidade, etc.).",
+      "CGPL: O texto apresenta 2 erros gramaticais claros: 1) 'O surgimento de novas tecnologias contribuíram' (concordância verbal: deveria ser 'contribuiu'); 2) 'crimes contra à humanidade' (crase indevida: o correto é 'contra a humanidade'). Os demais trechos estão corretos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "contra à humanidade"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. O candidato aborda tanto os impactos positivos quanto negativos da IA na diplomacia, conforme solicitado no enunciado. A argumentação é coerente e bem encadeada, com exemplos concretos que sustentam as ideias apresentadas. A linguagem é adequada ao contexto acadêmico e diplomático, demonstrando domínio da norma culta. Há apenas um erro gramatical pontual: 'contra à humanidade', onde o artigo definido 'a' não deve ser utilizado após a preposição 'contra'. A redação é muito bem elaborada, com bom domínio do tema e capacidade de reflexão crítica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "contra à humanidade"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. O candidato aborda tanto os impactos positivos quanto negativos da IA na diplomacia, conforme solicitado no enunciado. A argumentação é coerente e bem encadeada, com exemplos concretos (Primavera Árabe, Cambridge Analytica, Brexit, Rohingyas, guerra na Ucrânia, Amazônia) que enriquecem a análise. A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e variado. Há apenas um erro gramatical pontual: 'contra à humanidade' (o correto é 'contra a humanidade', pois 'contra' é preposição e 'humanidade' é substantivo, não havendo necessidade de crase). A redação demonstra domínio do tema, capacidade de reflexão crítica e conhecimento de atualidades e conceitos de relações internacionais. A conclusão retoma a tese inicial e reforça a importância da regulamentação ética da IA para a diplomacia. O texto atende plenamente aos critérios de avaliação, com exceção do erro gramatical mencionado, que é de menor gravidade e não compromete a compreensão global do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "contra à humanidade"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. O candidato aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, conforme solicitado no enunciado. A argumentação é coerente e bem encadeada, com exemplos concretos (Primavera Árabe, Cambridge Analytica, Brexit, Rohingyas, guerra na Ucrânia, Amazônia) que enriquecem a análise. A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e variado. Há apenas um erro gramatical pontual: 'contra à humanidade' (o correto é 'contra a humanidade', sem crase, pois 'contra' é preposição e 'humanidade' é substantivo feminino que não aceita crase nesse contexto). A redação demonstra domínio do tema, capacidade de reflexão crítica e conhecimento de atualidades e conceitos de relações internacionais. A conclusão retoma a tese inicial e reforça a importância da regulamentação ética da IA para a diplomacia, fechando bem o texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância verbal: 'O surgimento de novas tecnologias contribuíram' (deveria ser 'contribuiu')",
+      "crase: 'crimes contra à humanidade' (deveria ser 'contra a humanidade')"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "A argumentação é coerente e aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, conforme solicitado no enunciado.",
+      "Há um bom uso de exemplos concretos (Primavera Árabe, Cambridge Analytica, guerra na Ucrânia, Amazônia) para sustentar os argumentos.",
+      "A linguagem é adequada ao contexto acadêmico/diplomático, com vocabulário preciso e estilo formal.",
+      "A reflexão sobre a necessidade de regulamentação ética e internacional da IA é pertinente e bem articulada.",
+      "O texto demonstra domínio do tema e capacidade de articulação entre tecnologia, diplomacia e direitos humanos.",
+      "A conclusão retoma a tese inicial e reforça a importância da regulamentação, fechando o ciclo argumentativo de forma satisfatória."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância verbal: 'O surgimento de novas tecnologias contribuíram' (deveria ser 'contribuiu')",
+      "crase: 'crimes contra à humanidade' (deveria ser 'contra a humanidade')"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é lógica e aborda tanto os aspectos positivos quanto negativos da IA na diplomacia, conforme solicitado no enunciado.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e uso correto de conectivos. No entanto, há dois erros gramaticais pontuais que não comprometem a compreensão geral do texto.",
+      "A argumentação é sólida, mas pode ser considerada previsível em alguns pontos, como a menção à Cambridge Analytica e à Primavera Árabe, que são exemplos comuns nesse tipo de análise. A reflexão sobre a regulamentação da IA e seu impacto na diplomacia é pertinente e bem desenvolvida.",
+      "O texto demonstra domínio razoável da norma culta e do tema, mas não atinge um nível de sofisticação ou originalidade que o eleve para a faixa 'Ótimo' ou 'Excelente'. A análise é competente, mas não excepcional."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância verbal: 'O surgimento de novas tecnologias contribuíram' (deveria ser 'contribuiu')",
+      "crase: 'crimes contra à humanidade' (deveria ser 'contra a humanidade')"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "A argumentação é coerente e aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, conforme solicitado no enunciado.",
+      "Há um bom uso de exemplos concretos (Primavera Árabe, Cambridge Analytica, guerra na Ucrânia, Amazônia) para sustentar os argumentos.",
+      "A linguagem é adequada ao contexto acadêmico/diplomático, com vocabulário preciso e estilo formal.",
+      "A reflexão sobre a necessidade de regulamentação ética e internacional da IA é pertinente e bem articulada.",
+      "O texto demonstra domínio do tema e capacidade de articulação entre tecnologia, diplomacia e direitos humanos.",
+      "A conclusão retoma a tese inicial e reforça a importância da regulamentação, fechando o ciclo argumentativo de forma satisfatória."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "acesso ágil"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente domínio da estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão que sintetiza os argumentos. O tema é abordado com profundidade, conectando os impactos da IA à diplomacia de forma coerente e reflexiva. A linguagem é formal, adequada ao contexto do concurso, e o vocabulário é preciso e variado. Há apenas um erro gramatical pontual: 'acesso ágil' (o correto é 'acesso ágil' com crase, pois 'acesso' é masculino e 'ágil' é adjetivo, não havendo necessidade de crase; ou, se a intenção era usar a crase, o correto seria 'à agilidade', mas no contexto, 'acesso ágil' está correto sem crase. No entanto, a redação usa 'acesso ágil' sem crase, o que está correto. Reavaliando: 'acesso ágil' está correto, pois 'acesso' é masculino e 'ágil' é adjetivo, não havendo artigo definido antes de 'ágil'. Portanto, não há erro. A redação está impecável."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "acesso ágil"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. O tema é abordado de forma abrangente, discutindo tanto os impactos positivos quanto os negativos da IA na diplomacia. A argumentação é coerente e bem encadeada, com exemplos concretos que ilustram os pontos apresentados. A linguagem é adequada ao contexto, com vocabulário preciso e variado. No entanto, há um erro gramatical: 'acesso ágil' deveria ser 'acesso ágil' (com crase, pois 'acesso' é um substantivo masculino que exige a preposição 'a' e o artigo 'a' antes de 'ágil', que é um adjetivo feminino). Apesar desse erro, a redação é de alta qualidade e demonstra um bom domínio do tema e da língua portuguesa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "acesso ágil"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. A análise dos impactos positivos e negativos da IA na diplomacia é coerente e bem fundamentada, utilizando exemplos concretos e referências ao texto-base. A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e variado. Há apenas um erro gramatical identificado: 'acesso ágil' deveria ser 'acesso ágil' (com crase, pois 'acesso' é masculino e 'ágil' é adjetivo, não havendo necessidade de crase). No entanto, este erro é isolado e não compromete a compreensão do texto. A redação demonstra domínio do tema, capacidade de argumentação e propriedade da linguagem, atendendo aos critérios de avaliação do CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "acesso ágil",
+      "preferência do pesquisa dor"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, conforme solicitado no enunciado. O uso de exemplos concretos, como a compilação de informações ambientais, enriquece a análise. No entanto, a argumentação, embora sólida, segue um padrão previsível e não explora nuances mais profundas ou originais sobre o tema. Há um domínio razoável da norma culta, mas com alguns deslizes gramaticais pontuais que não comprometem a compreensão geral do texto. A linguagem é adequada ao contexto, mas poderia ser mais sofisticada em alguns trechos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "acesso ágil",
+      "preferência do pesquisa dor"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, conforme solicitado no enunciado.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e uso correto de conectivos para encadear as ideias.",
+      "Há dois erros gramaticais pontuais: 'acesso ágil' (deveria ser 'acesso ágil' ou 'acesso rápido', mas 'ágil' não é o termo mais comum nesse contexto) e 'preferência do pesquisa dor' (erro de digitação, deveria ser 'pesquisador').",
+      "A análise é sólida, mas poderia ser aprofundada com exemplos mais concretos de como a IA já está sendo utilizada em contextos diplomáticos ou com uma discussão mais detalhada sobre os parâmetros éticos mencionados no texto-base.",
+      "A conclusão é adequada, sintetizando os pontos principais e reafirmando a dualidade de impactos da IA na diplomacia."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "acesso ágil",
+      "preferência do pesquisa dor"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, conforme solicitado no enunciado.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e uso correto de conectivos para encadear as ideias.",
+      "Há dois erros gramaticais pontuais: 'acesso ágil' (deveria ser 'acesso ágil' ou 'acesso rápido', mas 'ágil' não é o termo mais comum nesse contexto) e 'preferência do pesquisa dor' (erro de digitação, deveria ser 'pesquisador').",
+      "A análise é sólida, mas poderia ser aprofundada com exemplos mais concretos de como a IA já está sendo utilizada em contextos diplomáticos ou com uma discussão mais detalhada sobre os parâmetros éticos mencionados no texto-base.",
+      "A conclusão é adequada, sintetizando os pontos principais e reafirmando a dualidade de impactos da IA na diplomacia."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "aumentar as desigualdades globais (concordância verbal: deveria ser 'aumentem' para concordar com 'impactos negativos' ou 'aumentam' se sujeito for 'impactos', mas a estrutura 'de modo a evitar que os impactos negativos aumentem' exige subjuntivo; a forma 'aumentam' está no indicativo, o que é um erro de regência/concordância no contexto de 'evitar que'."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto diplomático. A legibilidade é boa, embora haja alguns trechos um pouco longos que poderiam ser divididos para maior clareza.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato apresenta informações pertinentes e bem contextualizadas, relacionando a IA com a diplomacia de forma coerente. No entanto, a argumentação poderia ser mais aprofundada em alguns pontos, como a relação específica entre a recomendação da UNESCO e as práticas diplomáticas brasileiras.",
+      "1C: A análise e reflexão são sólidas. O candidato demonstra capacidade de articular conceitos de ética, tecnologia e diplomacia, com exemplos concretos. A reflexão sobre a desigualdade na distribuição da IA e o papel da diplomacia é pertinente e bem fundamentada. No entanto, a análise poderia ser mais crítica em relação aos desafios práticos da implementação de políticas éticas na IA no âmbito diplomático."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "aumentar as desigualdades globais (concordância verbal: deveria ser 'aumentem' para concordar com 'impactos negativos' ou 'aumentam' se sujeito for 'impactos', mas a estrutura 'de modo a evitar que os impactos negativos aumentem' exige subjuntivo; a forma 'aumentam' está no indicativo, o que é um erro de regência/concordância no contexto de 'evitar que'."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto diplomático. A legibilidade é boa, embora haja alguns trechos um pouco longos que poderiam ser divididos para maior clareza.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, com exemplos concretos (diplomacia pública, articulação entre esferas de poder, concentração tecnológica). As informações são pertinentes e bem relacionadas ao tema.",
+      "1C: A análise é profunda e reflexiva, indo além da descrição superficial. O candidato discute a necessidade de governança ética, a desigualdade na distribuição tecnológica e o papel da diplomacia na mitigação dos riscos. A referência à UNESCO e à ONU é bem integrada ao argumento.",
+      "CGPL: Há um erro de concordância verbal no trecho 'de modo a evitar que os impactos negativos aumentam as desigualdades globais'. O verbo 'aumentar' deveria estar no subjuntivo ('aumentem') para concordar com a estrutura 'evitar que'. Além disso, há um erro de regência no trecho 'por meio de um compromisso convencional multilateral que distribua, de maneira equitativa, os recursos da IA, a diplomacia... terá mais instrumentos para buscar a consecução dos objetivos socialmente pertinentes.' A frase está um pouco confusa, mas não é um erro gramatical grave. Outro ponto é a repetição de 'compartilhados' e 'compartidos' (erro de ortografia: 'compartilhados' é o correto)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "aumentar as desigualdades globais (concordância verbal: deveria ser 'aumentem' para concordar com 'impactos negativos' ou 'aumentam' se sujeito for 'impactos', mas a estrutura 'de modo a evitar que os impactos negativos aumentem' exige subjuntivo; a forma 'aumentam' está no indicativo, o que é um erro de regência/concordância no contexto de 'evitar que'."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto diplomático. A legibilidade é boa, embora haja alguns trechos um pouco longos que poderiam ser divididos para maior clareza.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato apresenta informações pertinentes e bem contextualizadas, relacionando a IA com a diplomacia de forma coerente. A pertinência das informações é alta, com exemplos concretos e referências a documentos internacionais.",
+      "1C: A análise e reflexão são profundas e bem fundamentadas. O candidato demonstra capacidade de articular conceitos complexos, como ética, desigualdade global e diplomacia, com uma visão crítica e propositiva. A reflexão é consistente e alinhada aos princípios da diplomacia brasileira.",
+      "CGPL: O texto apresenta poucos erros gramaticais, o que demonstra boa domínio da norma culta. A pontuação e a regência estão, em geral, corretas, com exceção de um erro de concordância verbal no uso do subjuntivo."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "aumentar as desigualdades globais",
+      "compartilhamento dessas tecnologias"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. A análise dos impactos positivos e negativos da IA na diplomacia é profunda e bem fundamentada, com exemplos concretos e referências a documentos internacionais (UNESCO, ONU, G77). A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário rico e preciso. A argumentação é original e mostra domínio temático avançado, com insights relevantes sobre a concentração tecnológica e a necessidade de governança ética. A coesão e a coerência são excelentes, com transições suaves entre os parágrafos. Há apenas dois pequenos deslizes gramaticais que não comprometem a qualidade geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "aumentar as desigualdades globais",
+      "compartilhamento dessas tecnologias"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. A análise dos impactos positivos e negativos da IA na diplomacia é profunda e bem fundamentada, com exemplos concretos e referências a documentos internacionais (UNESCO, ONU, G77). A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário rico e preciso. A argumentação é original e mostra domínio temático avançado, conectando a IA a questões de desigualdade global, governança e direitos humanos. A conclusão é forte e sintetiza bem a tese central. Há apenas dois pequenos deslizes gramaticais que não comprometem a qualidade geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "aumentar as desigualdades globais",
+      "compartilhamento dessas tecnologias"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. A análise dos impactos positivos e negativos da IA na diplomacia é profunda e bem fundamentada, com exemplos concretos e referências a documentos internacionais (UNESCO, ONU, G77). A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário rico e preciso. A argumentação é original e mostra domínio temático avançado, conectando a IA a questões de desigualdade global, governança e direitos humanos. A conclusão é forte e sintetiza bem a tese central. Há apenas dois pequenos deslizes gramaticais que não comprometem a qualidade geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Apesar de uso das técnicas de IA buscar...",
+      "A exemplo disso, é possível citar...",
+      "conforme recomendado pela UNESCO, em 2011."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. Uso adequado de conectivos. Estilo formal e adequado ao concurso. Pequenas falhas de coesão pontuais.",
+      "Argumentação sólida e bem fundamentada. Uso de exemplos concretos (negociação, tradução, análise de sentimento). Pertinência ao tema. Pouca profundidade em alguns pontos, mas dentro do esperado.",
+      "Boa capacidade de análise, identificando impactos positivos e negativos. Reflexão sobre desigualdades e riscos éticos. Sugestão de governança alinhada à UNESCO. Poderia aprofundar mais a relação entre IA e a natureza da diplomacia.",
+      "Três erros gramaticais identificados: 1. 'Apesar de uso' (falta artigo: 'Apesar do uso'); 2. 'A exemplo disso' (uso inadequado de 'a' antes de 'exemplo'; o correto é 'Por exemplo' ou 'A exemplo' sem 'isso', mas a construção está awkward); 3. 'conforme recomendado pela UNESCO, em 2011' (erro factual: a recomendação é de 2021, não 2011. Isso configura erro de informação factual, que pode ser considerado erro de propriedade da linguagem ou de conteúdo. Vou considerar como erro gramatical/ortográfico/factual. Na verdade, é um erro de conteúdo, mas afeta a correção. Vou manter como erro gramatical/factual).",
+      "Nota final: 34.5"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Apesar de uso das técnicas de IA buscar...",
+      "A exemplo disso, é possível citar...",
+      "conforme recomendado pela UNESCO, em 2011."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. Uso adequado de conectivos. Estilo formal e adequado ao concurso. Pequenas falhas de coesão pontuais.",
+      "Argumentação sólida e bem fundamentada. Desenvolvimento do tema com pertinência e sistematização. Uso de exemplos concretos e análise crítica.",
+      "Boa capacidade de análise e reflexão. Identifica impactos positivos e negativos, relacionando com a diplomacia. Sugere soluções e reflexões éticas.",
+      "Três erros gramaticais identificados: 1. 'Apesar de uso' (falta artigo: 'Apesar do uso'); 2. 'A exemplo disso' (uso inadequado de 'a' antes de 'exemplo'; o correto é 'Por exemplo' ou 'A exemplo' sem 'isso', mas 'A exemplo disso' é considerado erro de regência/uso); 3. 'em 2011' (erro factual: a recomendação da UNESCO é de 2021, não 2011. Isso configura erro de informação factual, que pode ser considerado erro de propriedade da linguagem ou de conteúdo. No entanto, como o critério é gramatical, vou considerar apenas os erros de forma. Mas a instrução pede para contabilizar erros gramaticais. Vou manter apenas os erros de forma. O erro factual é de conteúdo, não de gramática. Portanto, vou ajustar para 2 erros gramaticais estritos: 1. 'Apesar de uso' (falta artigo); 2. 'A exemplo disso' (erro de regência/uso). O erro de 2011 é factual, não gramatical. Vou corrigir a contagem."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Apesar de uso das técnicas de IA buscar...",
+      "A exemplo disso, é possível citar...",
+      "conforme recomendado pela UNESCO, em 2011."
+    ],
+    "feedbacks": [
+      "1A: Texto bem estruturado, com parágrafos bem definidos e progressão lógica. Uso de conectivos adequado. Pequena falha de regência/concordância no início do 2º parágrafo.",
+      "1B: Argumentação sólida, com exemplos concretos (negociação, tradução, análise de sentimento). Pertinência ao tema da diplomacia. Boa sistematização.",
+      "1C: Análise profunda, considerando tanto aspectos técnicos quanto éticos e geopolíticos. Reflexão sobre desigualdade e regulação. Boa conexão com o texto-base (UNESCO).",
+      "CGPL: 3 erros gramaticais identificados. Regência e concordância são os principais pontos de atenção."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. O candidato aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, conforme solicitado no enunciado. A argumentação é coerente e bem encadeada, com transições suaves entre os parágrafos. A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e variado. Não foram identificados erros gramaticais significativos. A redação demonstra um bom domínio do tema e uma capacidade de reflexão crítica sobre os impactos da IA na diplomacia. A menção à UNESCO e aos princípios éticos no final da redação mostra uma boa conexão com o texto-base. No entanto, a redação poderia ser aprimorada com uma análise mais aprofundada de alguns dos pontos levantados, como a aplicação da computação quântica na negociação de acordos, que é um tópico interessante, mas que poderia ser explorado com mais detalhes. Além disso, a redação poderia se beneficiar de uma maior diversidade de exemplos concretos de como a IA já está sendo utilizada na diplomacia. Apesar disso, a redação é muito boa e demonstra um alto nível de competência na escrita acadêmica e na análise crítica do tema."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Apesar de uso das técnicas de IA buscar o aperfeiçoamento da prática diplomática, é preciso considerar, no entanto, que a diplomacia não estará isenta de incorporar, concomitantemente, os pontos negativos que acompanham a implementação dessas novas tecnologias, permeadas de vieses e de dilemas éticos."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa sólida, com introdução clara, desenvolvimento bem articulado e conclusão que sintetiza as ideias e retoma o enunciado. A capacidade de argumentação e reflexão sobre o tema é excelente, demonstrando domínio do assunto e capacidade de análise crítica. A linguagem é formal, adequada ao contexto e demonstra vocabulário rico e preciso. Há apenas dois erros gramaticais pontuais: 'Apesar de uso' (deveria ser 'Apesar do uso') e 'permeadas de vieses' (deveria ser 'permeadas por vieses'). A correção desses erros elevaria a nota para o máximo. A redação é muito bem elaborada, com boa coerência, clareza e encadeamento das ideias. A capacidade de argumentação e de reflexão sobre o tema é excelente. A linguagem é formal, adequada ao contexto e demonstra vocabulário rico e preciso. A redação atende a todos os critérios de avaliação de forma exemplar, com apenas pequenos deslizes gramaticais que não comprometem a qualidade geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. O tema é abordado de forma abrangente, considerando tanto os impactos positivos quanto negativos da IA na diplomacia, conforme solicitado no enunciado. A argumentação é sólida, com exemplos concretos e bem fundamentados, como a negociação de acordos, a análise quantitativa de textos e vídeos, e a difusão de ferramentas de IA. A linguagem é adequada ao contexto, com vocabulário preciso e variado, e a pontuação é correta. A redação também demonstra conhecimento do tema, citando a recomendação da UNESCO sobre a ética da IA. No entanto, há um erro de digitação na última frase, onde a data da recomendação da UNESCO está incorreta (deveria ser 2021, e não 2011). Além disso, há uma rasura no texto, que pode ser considerada um erro de apresentação. Apesar desses pequenos problemas, a redação é muito boa e merece uma nota alta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Apesar de uso das técnicas de IA buscar o aperfeiçoamento da prática diplomática, é preciso considerar, no entanto, que a diplomacia não estará isenta de incorporar, concomitantemente, os pontos negativos que acompanham a implementação dessas novas tecnologias, permeadas de vieses e de dilemas éticos. (Erro de regência/concordância: 'permeadas de' deveria ser 'permeadas por' ou 'impregnadas de'. Além disso, a frase está um pouco longa e poderia ser mais clara.)",
+      "A exemplo disso, é possível citar o direito à privacidade, relacionado à necessidade de efetiva governança no tratamento dos dados utilizados para alimentar os sistemas de IA, inclusive no que diz respeito à propriedade intelectual. (Erro de regência: 'A exemplo de' é uma construção considerada inadequada pela norma culta; o correto seria 'Por exemplo' ou 'Como exemplo'.)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, conforme solicitado no enunciado.",
+      "O candidato demonstra bom domínio do vocabulário e da norma culta, embora com alguns deslizes pontuais de regência e concordância. A linguagem é adequada ao contexto acadêmico e diplomático.",
+      "A análise dos impactos positivos e negativos é pertinente e bem fundamentada, com exemplos concretos de aplicações da IA na negociação de acordos, análise de sentimentos e governança de dados. A referência à UNESCO no final do texto é um ponto forte, pois conecta a argumentação do candidato ao texto-base.",
+      "A conclusão é adequada, reforçando a necessidade de cautela e governança na implementação da IA na diplomacia, em consonância com os princípios éticos da UNESCO. No entanto, poderia ser mais incisiva e sintetizar melhor os pontos principais do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Apesar de uso das técnicas de IA buscar o aperfeiçoamento da prática diplomática, é preciso considerar, no entanto, que a diplomacia não estará isenta de incorporar, concomitantemente, os pontos negativos que acompanham a implementação dessas novas tecnologias, permeadas de vieses e de dilemas éticos. (Erro de regência/concordância: 'permeadas de' deveria ser 'permeadas por' ou 'impregnadas de'. Além disso, a frase está um pouco longa e poderia ser mais clara.)",
+      "A exemplo disso, é possível citar o direito à privacidade, relacionado à necessidade de efetiva governança no tratamento dos dados utilizados para alimentar os sistemas de IA, inclusive no que diz respeito à propriedade intelectual. (Uso inadequado de 'A exemplo disso'. O correto seria 'Por exemplo' ou 'Como exemplo'. 'A exemplo' é uma construção considerada inadequada pela norma culta, pois 'exemplo' não se usa com preposição 'a' nesse sentido.)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, conforme solicitado no enunciado.",
+      "O candidato demonstra bom domínio do vocabulário e da norma culta, embora com alguns deslizes pontuais (como 'permeadas de' e 'A exemplo disso').",
+      "A análise é pertinente e mostra uma compreensão sólida do tema, conectando a IA com aspectos específicos da diplomacia, como negociações, tradução, análise de sentimentos e desigualdades entre países.",
+      "A conclusão retoma os pontos principais e reforça a necessidade de governança e ética, alinhando-se bem com a recomendação da UNESCO citada no enunciado.",
+      "O texto poderia ser aprimorado com uma análise mais profunda sobre os desafios éticos específicos da diplomacia, como a soberania nacional e a neutralidade, mas no geral é um texto sólido e bem elaborado."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Apesar de uso das técnicas de IA buscar o aperfeiçoamento da prática diplomática, é preciso considerar, no entanto, que a diplomacia não estará isenta de incorporar, concomitantemente, os pontos negativos que acompanham a implementação dessas novas tecnologias, permeadas de vieses e de dilemas éticos. (Erro de regência/concordância: 'permeadas de' deveria ser 'permeadas por' ou 'impregnadas de'. Além disso, a frase está um pouco longa e poderia ser melhor estruturada, mas o erro principal é a regência.)",
+      "A exemplo disso, é possível citar o direito à privacidade, relacionado à necessidade de efetiva governança no tratamento dos dados utilizados para alimentar os sistemas de IA, inclusive no que diz respeito à propriedade intelectual. (Uso inadequado de 'A exemplo disso'. O correto seria 'Por exemplo' ou 'Como exemplo'. 'A exemplo de' é uma construção que indica semelhança, não exemplificação.)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e aborda tanto os impactos positivos quanto os negativos da IA na diplomacia, conforme solicitado no enunciado.",
+      "O candidato demonstra bom domínio do vocabulário e da norma culta, utilizando termos técnicos e conceitos relacionados à diplomacia e à IA de forma adequada.",
+      "A análise dos impactos positivos (negociação, tradução, análise de sentimentos) e negativos (desigualdade, riscos éticos) é pertinente e bem fundamentada.",
+      "A referência à UNESCO no final do texto é um ponto forte, pois conecta a argumentação do candidato ao texto-base do enunciado.",
+      "Há alguns pequenos deslizes gramaticais, como o uso de 'permeadas de' em vez de 'permeadas por' e 'A exemplo disso' em vez de 'Por exemplo'. Esses erros, embora não comprometam a compreensão do texto, indicam que o domínio da norma culta não é pleno.",
+      "A menção à 'computação quântica' no segundo parágrafo pode ser considerada um desvio temático, pois o enunciado foca em IA. Embora a computação quântica possa ser usada em conjunto com IA, a distinção não é feita no texto, o que pode gerar confusão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  }
+]

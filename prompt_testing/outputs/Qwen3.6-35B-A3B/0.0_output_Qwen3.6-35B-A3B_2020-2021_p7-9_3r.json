@@ -1,0 +1,929 @@
+[
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "1. 'nos âmbitos e regional e multilateral' -> 'nos âmbitos regional e multilateral' (erro de digitação/redundância)",
+      "2. 'o Brasil de no seio do G4 a ampliação' -> 'o Brasil defende no seio do G4 a ampliação' (erro de digitação/omissão de verbo)",
+      "3. 'atualmente desfrutam' -> 'atualmente desfrutam' (concordância nominal/verbal: 'potências' é plural, 'desfrutam' está correto, mas a frase 'cinco grandes potências atualmente desfrutam' está sintaticamente incorreta, deveria ser 'cinco grandes potências que atualmente desfrutam' ou 'cinco grandes potências, atualmente, desfrutam')"
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto. A coerência e a coesão são boas, embora haja alguns pequenos deslizes de digitação que afetam a legibilidade.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato utiliza informações pertinentes e pertinentes ao tema, como a Constituição Federal de 1988, o MERCOSUL, o PROSUL, o BRICS, o IBAS, o G20 e o G4. A pertinência das informações é alta.",
+      "1C: A análise e reflexão são sólidas. O candidato consegue articular os argumentos dos embaixadores com a política externa brasileira contemporânea, demonstrando uma boa capacidade de análise e reflexão. No entanto, a análise poderia ser mais aprofundada em alguns pontos, como a crítica ao veto e a desigualdade de poder.",
+      "CGPL: O texto apresenta três erros gramaticais, que são pequenos deslizes de digitação e um erro de concordância. A correção desses erros melhoraria significativamente a qualidade do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "1. 'nos âmbitos e regional' -> 'nos âmbitos regional'",
+      "2. 'Brasil de no seio do G4 a ampliação' -> 'Brasil defende no seio do G4 a ampliação'",
+      "3. 'potências atualmente desfrutam' -> 'potências que atualmente desfrutam'"
+    ],
+    "feedbacks": [
+      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A linguagem é formal e adequada ao contexto. A coerência é boa, embora haja um erro de digitação que prejudica ligeiramente a legibilidade.",
+      "1B: Argumentação objetiva e sistematizada. O candidato utiliza informações pertinentes e pertinentes ao tema, como a Constituição de 1988, o MERCOSUL, o PROSUL, o BRICS, o IBAS, o G20 e o G4. A pertinência das informações é alta.",
+      "1C: Capacidade de análise e reflexão é boa. O candidato consegue relacionar os argumentos dos embaixadores com a política externa brasileira atual, demonstrando uma compreensão sólida do tema. No entanto, a análise poderia ser mais profunda em alguns pontos, como a crítica ao veto e a desigualdade de poder.",
+      "CGPL: O texto apresenta três erros gramaticais, que são erros de digitação ou de construção frasal. A correção desses erros melhoraria significativamente a qualidade do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O Brasil de no seio do G4 a ampliação do Conselho de Segurança"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa sólida, com introdução, desenvolvimento e conclusão bem articulados. A análise dos trechos é pertinente e bem fundamentada, demonstrando conhecimento do tema e da política externa brasileira. A linguagem é adequada e formal, com bom uso de vocabulário técnico. No entanto, há um erro gramatical significativo no terceiro parágrafo: 'O Brasil de no seio do G4 a ampliação do Conselho de Segurança' está incompleto e sem sentido, o que compromete a clareza e a correção do texto. Além disso, há um erro de concordância na frase 'as cinco grandes potências atualmente desfrutam do poder de veto', onde deveria ser 'que desfrutam' ou 'desfrutam'. Esses erros, embora pontuais, impactam negativamente a avaliação geral."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O Brasil de no seio do G4 a ampliação do Conselho de Segurança"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa sólida, com introdução, desenvolvimento e conclusão bem articulados. A análise dos trechos dos discursos é pertinente e bem fundamentada, com exemplos concretos da política externa brasileira contemporânea. A linguagem é adequada ao contexto acadêmico e diplomático, demonstrando domínio do vocabulário técnico. No entanto, há um erro gramatical significativo no terceiro parágrafo: 'O Brasil de no seio do G4 a ampliação do Conselho de Segurança' está incompleto e sem verbo principal, o que compromete a clareza da frase. Além disso, há um erro de concordância na frase 'as cinco grandes potências atualmente desfrutam do poder de veto', onde deveria ser 'desfrutam' ou 'desfruta' dependendo do sujeito, mas a estrutura está confusa. Apesar desses pequenos deslizes, o texto é muito bem elaborado e demonstra um bom nível de argumentação e conhecimento do tema."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e bem encadeada, demonstrando capacidade de reflexão sobre o tema. A linguagem é adequada ao contexto, com uso correto de termos técnicos e vocabulário variado. No entanto, há um erro gramatical significativo na frase: 'O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto.' Esta frase está incompleta e confusa, o que prejudica a clareza e a correção gramatical do texto. Além disso, há um erro de concordância na frase: 'as cinco grandes potências atualmente desfrutam do poder de veto.' O verbo 'desfrutam' deveria estar no singular, concordando com 'potência', ou a frase deveria ser reestruturada para evitar ambiguidade. Apesar desses erros, o texto é bem escrito e demonstra um bom domínio da língua portuguesa e do tema proposto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto.",
+      "O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é lógica e aborda os elementos solicitados no enunciado de forma pertinente.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e uso correto de conectivos. No entanto, há um erro gramatical significativo na frase: 'O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto.' Esta frase está sintaticamente incorreta e confusa, o que prejudica a clareza do argumento.",
+      "O texto demonstra domínio do tema e capacidade de articular os discursos históricos com a política externa contemporânea do Brasil. A análise é pertinente e bem fundamentada, embora possa ser considerada previsível em alguns aspectos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto.",
+      "O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é lógica e aborda os elementos solicitados no enunciado de forma pertinente.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e uso correto de conectivos. No entanto, há um erro gramatical significativo na frase: 'O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto.' Esta frase está incompleta e apresenta problemas de concordância e regência.",
+      "A análise dos discursos é pertinente e bem articulada, com exemplos concretos (MERCOSUL, PROSUL, BRICS, IBAS, G20, G4) que ilustram os argumentos. A reflexão sobre a atualidade dos princípios é sólida e demonstra conhecimento do tema.",
+      "A conclusão reforça os pontos principais e sintetiza bem a argumentação, destacando a solidez dos objetivos da política externa brasileira. O texto é coerente e bem estruturado, mas o erro gramatical mencionado acima impede uma classificação mais alta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto.",
+      "O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é lógica e aborda os elementos solicitados no enunciado de forma pertinente.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e uso correto de conectivos. No entanto, há um erro gramatical significativo no segundo parágrafo: 'O Brasil de no seio do G4 a ampliação do Conselho de Segurança, o que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto.' Esta frase está sintaticamente incorreta e confusa, o que prejudica a clareza do argumento.",
+      "A análise dos discursos é pertinente e bem articulada, com exemplos concretos (MERCOSUL, PROSUL, BRICS, IBAS, G20, G4) que ilustram os argumentos. A reflexão sobre a atualidade dos princípios é sólida e demonstra conhecimento do tema.",
+      "A conclusão reforça os pontos principais e sintetiza bem a argumentação, destacando a solidez dos objetivos da política externa brasileira. O texto é coerente e bem estruturado, mas o erro gramatical mencionado impede que seja classificado como 'Ótimo' ou 'Excelente'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "uso de 'forca' no lugar de 'força'",
+      "uso de 'maiores participação' no lugar de 'maior participação'",
+      "uso de 'são países como China e Rússia' no lugar de 'são países como a China e a Rússia' (ou 'são a China e a Rússia')"
+    ],
+    "feedbacks": [
+      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A linguagem é adequada ao contexto acadêmico/diplomático. A coerência e a progressão temática são boas. A legibilidade é excelente. A pontuação é alta, mas não máxima devido a pequenos deslizes de regência e concordância que afetam levemente a fluidez.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato utiliza informações pertinentes e pertinentes ao tema, ilustrando os argumentos com exemplos históricos e contemporâneos (guerra ao terror, crise de 2008, pandemia). A pertinência das informações é alta, mas a análise poderia ser mais aprofundada em alguns pontos, como a relação mais direta entre os trechos dos discursos e a atualidade, além de algumas generalizações que poderiam ser matizadas.",
+      "1C: A capacidade de análise e reflexão é boa. O candidato consegue articular os discursos de 1946 com a realidade contemporânea, identificando fraturas no projeto da ONU e a emergência de novos atores. A reflexão é coerente e bem fundamentada. No entanto, a análise poderia ser mais crítica e aprofundada, explorando mais as nuances das relações de poder e os desafios específicos da reforma da ONU. A conclusão é adequada, mas poderia ser mais contundente.",
+      "CGPL: O texto apresenta três erros gramaticais: 'forca' (ortografia), 'maiores participação' (concordância) e 'são países como China e Rússia' (regência/articulação). Esses erros são pontuais e não comprometem a compreensão do texto, mas afetam a pontuação máxima."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "uso de 'forca' no lugar de 'força'",
+      "uso de 'maiores participação' no lugar de 'maior participação'",
+      "uso de 'são países como China e Rússia' no lugar de 'são a China e a Rússia' ou 'são países como a China e a Rússia'"
+    ],
+    "feedbacks": [
+      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A linguagem é adequada ao contexto acadêmico/diplomático. A coerência e a coesão são boas, embora haja alguns deslizes pontuais de pontuação e regência que não comprometem a legibilidade geral.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato apresenta informações pertinentes e bem selecionadas, relacionando os trechos dos discursos com o contexto atual. A pertinência das informações é alta, mas a sistematização poderia ser mais aprofundada em alguns pontos, como a relação entre a crise de 2008 e a ONU.",
+      "1C: A análise e a reflexão são sólidas. O candidato demonstra capacidade de articular os argumentos dos discursos com eventos históricos e contemporâneos, refletindo sobre a atualidade dos princípios da ONU. A reflexão é crítica e bem fundamentada, embora possa ser mais aprofundada em alguns aspectos, como a relação entre a multipolaridade e a reforma da ONU."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "uso de 'forca' em vez de 'força'",
+      "uso de 'maiores participação' em vez de 'maior participação' ou 'maiores participações'"
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto. No entanto, há um erro de ortografia ('forca') e um erro de concordância ('maiores participação'), o que afeta ligeiramente a legibilidade e a correção gramatical.",
+      "1B: A argumentação é objetiva e sistematizada, com informações pertinentes e bem organizadas. O candidato aborda os elementos solicitados no enunciado, como a confiança nas grandes potências e o preço pago por pequenos e médios países. No entanto, a análise poderia ser mais aprofundada em alguns pontos, como a relação entre a crise de 2008 e a reforma da ONU.",
+      "1C: A capacidade de análise e reflexão é boa, com uma visão crítica sobre a atualidade dos argumentos dos discursos. O candidato consegue conectar os eventos históricos com a realidade contemporânea, mas a análise poderia ser mais crítica e aprofundada, especialmente no que diz respeito às implicações da multipolaridade para a governança global."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "forca"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise muito bem estruturada, com argumentos sólidos e bem encadeados, demonstrando domínio do tema e do contexto histórico. A capacidade de argumentação e reflexão é excelente, com ilustrações pertinentes e atuais. A linguagem é adequada e formal, adequada ao contexto do concurso. Há apenas um erro gramatical: 'forca' em vez de 'força'.",
+      "A organização do texto é clara e coerente, com uma introdução que contextualiza o tema, um desenvolvimento que apresenta argumentos e exemplos, e uma conclusão que sintetiza as ideias e propõe uma reflexão. O encadeamento das ideias é fluido e a argumentação é bem fundamentada.",
+      "A correção gramatical é muito boa, com apenas um erro de ortografia. A propriedade da linguagem é adequada ao contexto, com um vocabulário rico e preciso. A pontuação e a concordância estão corretas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "forca"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise muito bem estruturada, com argumentos sólidos e bem encadeados, demonstrando domínio do tema e do contexto histórico. A capacidade de argumentação e reflexão é excelente, com ilustrações pertinentes e atuais. A linguagem é adequada e formal, adequada ao contexto do concurso. Há apenas um erro gramatical: 'forca' em vez de 'força'.",
+      "A organização do texto é clara e coerente, com uma introdução que contextualiza o tema, um desenvolvimento que apresenta argumentos e exemplos, e uma conclusão que sintetiza as ideias e propõe uma reflexão. O encadeamento das ideias é fluido e a argumentação é bem fundamentada.",
+      "A correção gramatical é excelente, com apenas um erro de ortografia ('forca' em vez de 'força'). A pontuação, concordância e regência estão corretas. A linguagem é formal e adequada ao contexto do concurso."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "forca"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise muito bem estruturada, com argumentos sólidos e bem encadeados, demonstrando domínio do tema e do contexto histórico. A capacidade de argumentação e reflexão é excelente, com ilustrações pertinentes e atuais. A linguagem é adequada e formal, adequada ao contexto do concurso. Há apenas um erro gramatical de ortografia ('forca' em vez de 'força'), que é um erro pontual e não compromete a qualidade geral do texto. A nota final reflete a alta qualidade da redação, considerando a correção gramatical e a propriedade da linguagem."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "forca",
+      "maiores"
+    ],
+    "feedbacks": [
+      "O texto demonstra domínio avançado do tema, articulando os discursos históricos com a realidade contemporânea de forma coerente e bem fundamentada.",
+      "A argumentação é sólida, com exemplos concretos (guerra ao terror, crise de 2008, pandemia) que ilustram bem a tese central sobre a necessidade de reformulação da ONU.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico-diplomático, com boa variedade vocabular e estruturação lógica.",
+      "Há dois pequenos deslizes gramaticais: 'forca' (deveria ser 'força') e 'maiores participação' (deveria ser 'maior participação').",
+      "O texto atende plenamente aos critérios de organização, desenvolvimento do tema, correção gramatical e propriedade da linguagem, evidenciando maturidade analítica e estilo maduro."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "forca",
+      "maiores"
+    ],
+    "feedbacks": [
+      "O texto demonstra domínio avançado do tema, articulando os discursos históricos com a realidade contemporânea de forma coerente e bem fundamentada.",
+      "A argumentação é sólida, com exemplos concretos (guerra ao terror, crise de 2008, pandemia) que ilustram bem a tese central sobre a necessidade de reformulação da ONU.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico-diplomático, com boa variedade vocabular e estruturação lógica.",
+      "Há dois pequenos deslizes gramaticais: 'forca' (deveria ser 'força') e 'maiores participação' (deveria ser 'maior participação').",
+      "O texto atende plenamente aos critérios de organização, desenvolvimento do tema, correção gramatical e propriedade da linguagem, evidenciando maturidade analítica e estilo maduro."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "forca",
+      "maiores"
+    ],
+    "feedbacks": [
+      "O texto demonstra domínio avançado do tema, articulando os discursos históricos com a realidade contemporânea de forma coerente e bem fundamentada.",
+      "A argumentação é sólida, com exemplos concretos (guerra ao terror, crise de 2008, pandemia) que ilustram bem a perda de confiança nas grandes potências e a necessidade de reformulação da ONU.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico-diplomático, com boa variedade vocabular e estruturação lógica das ideias.",
+      "Há apenas dois deslizes gramaticais pontuais: 'forca' (deveria ser 'força') e 'maiores participação' (deveria ser 'maior participação').",
+      "O texto atende plenamente aos critérios de organização, desenvolvimento do tema, correção gramatical e propriedade da linguagem, evidenciando reflexão crítica e originalidade."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição de 'discursos' na primeira frase ('discursos dos discursos').",
+      "Uso inadequado de 'muito embora' no início do primeiro parágrafo (conjunção concessiva mal empregada ou redundante em relação ao 'muito')."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto. Há uma repetição de palavra ('discursos dos discursos') que prejudica ligeiramente a legibilidade e o estilo.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato aborda os trechos do enunciado e os relaciona com o contexto atual, citando exemplos como o G4 e a reforma do CSNU. No entanto, a análise poderia ser mais aprofundada em alguns pontos, como a relação direta entre 'perturbador da paz' e os exemplos atuais (neonazismo), que fogem um pouco ao escopo estrito de 'relações exteriores no Brasil' e 'Nações Unidas' no sentido geopolítico clássico.",
+      "1C: A reflexão é pertinente e demonstra capacidade de análise histórica e política. O candidato conecta os discursos de 1946 com a atualidade, discutindo a reforma do CSNU e o pragmatismo brasileiro. A análise é coerente, mas poderia explorar mais as nuances do 'preço alto' pago pelos pequenos países e a complexidade do veto no cenário contemporâneo.",
+      "CGPL: O texto apresenta dois erros gramaticais: repetição de palavra e uso inadequado de 'muito embora'. A pontuação e a concordância estão, em geral, corretas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição de 'discursos' na primeira frase ('discursos dos discursos').",
+      "Uso inadequado de 'muito embora' no início do primeiro parágrafo (conjunção concessiva mal empregada ou redundante em relação ao 'muito')."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto. Há uma repetição de palavra ('discursos dos discursos') que prejudica ligeiramente a fluidez. A coerência e a progressão temática são boas.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato aborda os dois trechos e os elementos solicitados. No entanto, a análise do primeiro trecho foca excessivamente em 'nazismo' e 'liberdade de expressão', desviando-se um pouco da ideia central de 'perturbador da paz' no contexto das relações internacionais e da ONU. A ilustração do G4 é pertinente para o segundo trecho.",
+      "1C: A reflexão é pertinente, mas a análise do primeiro trecho é superficial e um tanto fora do foco (foca em intolerância interna/discursos de ódio em vez de agressões interestatais ou perturbações da paz internacional). A análise do segundo trecho é mais sólida, conectando o veto ao pragmatismo e à reforma do CSNU. A conclusão é adequada, mas a citação final sobre 'história' é um pouco genérica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição de 'discursos' na primeira frase ('discursos dos discursos').",
+      "Uso inadequado de 'muito embora' no início do primeiro parágrafo (conjunção concessiva mal empregada ou redundante em relação ao 'muito')."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto. Há uma repetição de palavra ('discursos dos discursos') que prejudica ligeiramente a fluidez. A coerência e a progressão temática são boas.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato aborda os dois trechos e os elementos solicitados. No entanto, a análise do primeiro trecho foca excessivamente em 'nazismo' e 'liberdade de expressão', desviando-se um pouco da ideia central de 'perturbador da paz' no contexto das relações internacionais e da ONU. A ilustração do G4 é pertinente para o segundo trecho.",
+      "1C: A reflexão é pertinente, mas a análise do primeiro trecho é superficial e um tanto fora do foco diplomático (foca em discurso de ódio interno, não na dinâmica internacional de 'perturbadores da paz'). A análise do segundo trecho é mais sólida, conectando o veto à reforma do CSNU e ao G4. A conclusão é adequada, mas a citação final sobre 'história' é um pouco genérica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Os trechos dos discursos dos discursos dos Embaixadores Luiz Martins de Souza Dantas e Pedro Leão Velloso, muito embora transcrevam falas proferidas no ano de 1946, são dotados de profunda atualidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e demonstra capacidade de reflexão sobre o tema, relacionando os discursos históricos com o contexto atual das relações internacionais e da política externa brasileira. A propriedade da linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e frases bem construídas. No entanto, há um erro gramatical na primeira frase, com a repetição desnecessária da palavra 'discursos'. Este erro, embora pontual, deve ser considerado na avaliação final."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Os trechos dos discursos dos discursos dos Embaixadores Luiz Martins de Souza Dantas e Pedro Leão Velloso, muito embora transcrevam falas proferidas no ano de 1946, são dotados de profunda atualidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e demonstra capacidade de reflexão sobre o tema, relacionando os discursos históricos com o contexto atual das relações internacionais e da política externa brasileira. A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e variado. No entanto, há um erro de repetição na primeira frase: 'Os trechos dos discursos dos discursos dos Embaixadores...'. Este tipo de erro, embora pontual, pode ser considerado uma falha na revisão final do texto. A redação cumpre bem os requisitos do enunciado, discutindo a atualidade dos argumentos e ilustrando com exemplos relevantes, como a atuação do Brasil no G4 e a defesa da reforma do CSNU. A conclusão é sólida e sintetiza bem as ideias apresentadas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Os trechos dos discursos dos discursos dos Embaixadores Luiz Martins de Souza Dantas e Pedro Leão Velloso, muito embora transcrevam falas proferidas no ano de 1946, são dotados de profunda atualidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e demonstra capacidade de reflexão sobre o tema, conectando os discursos históricos com o contexto atual das relações internacionais e da política externa brasileira. A propriedade da linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e frases bem construídas. No entanto, há um erro gramatical na primeira frase, com a repetição desnecessária da palavra 'discursos', o que pode ser considerado uma falha de revisão. Apesar disso, o texto como um todo é sólido e demonstra um bom domínio do conteúdo e da forma."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Os trechos dos discursos dos discursos dos Embaixadores Luiz Martins de Souza Dantas e Pedro Leão Velloso, muito embora transcrevam falas proferidas no ano de 1946, são dotados de profunda atualidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é lógica e aborda os elementos solicitados no enunciado, como a atualidade dos discursos e a posição do Brasil sobre a reforma do Conselho de Segurança. No entanto, há um erro de digitação na primeira frase ('discursos dos discursos'), que, embora não comprometa a compreensão, indica uma falta de revisão. A linguagem é adequada e o vocabulário é preciso, mas a argumentação, embora sólida, segue um padrão previsível e não explora nuances mais profundas ou contrapontos complexos, o que impede uma classificação superior. A análise histórica e política é correta, mas carece de uma reflexão mais crítica sobre as limitações do sistema atual e as implicações práticas da reforma do CSNU."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Os trechos dos discursos dos discursos dos Embaixadores Luiz Martins de Souza Dantas e Pedro Leão Velloso, muito embora transcrevam falas proferidas no ano de 1946, são dotados de profunda atualidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é lógica e aborda os elementos solicitados no enunciado, como a atualidade dos discursos e a posição do Brasil sobre a reforma do Conselho de Segurança. No entanto, há um erro de digitação na primeira frase ('discursos dos discursos'), que, embora não comprometa a compreensão, indica uma falta de revisão. A linguagem é adequada e o vocabulário é preciso, demonstrando domínio da norma culta. A análise é pertinente, mas poderia ser aprofundada com exemplos mais específicos de 'perturbadores da paz' contemporâneos ou uma discussão mais detalhada sobre os limites do 'pragmatismo' brasileiro. A conclusão é sólida, mas um pouco genérica. No geral, o texto é bem escrito e atende aos critérios de avaliação, mas não alcança o nível de 'Ótimo' devido à superficialidade em alguns pontos e ao erro de digitação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Os trechos dos discursos dos discursos dos Embaixadores Luiz Martins de Souza Dantas e Pedro Leão Velloso, muito embora transcrevam falas proferidas no ano de 1946, são dotados de profunda atualidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é lógica e aborda os elementos solicitados no enunciado, como a atualidade dos discursos e a posição do Brasil sobre o veto e a reforma do CSNU. No entanto, há um erro de digitação na primeira frase ('discursos dos discursos'), que, embora não comprometa a compreensão geral, indica uma falta de revisão. A linguagem é adequada e o domínio da norma culta é razoável, mas a argumentação, embora sólida, não alcança um nível de sofisticação ou originalidade que caracterizaria as faixas superiores. O texto é compreensível e bem organizado, mas poderia se beneficiar de uma análise mais aprofundada e de uma linguagem mais precisa e variada."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Não-permanente (hífen desnecessário)",
+      "revelou- se (hífen desnecessário)"
+    ],
+    "feedbacks": [
+      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A linguagem é formal e adequada ao contexto. A coerência e a coesão são boas, embora haja uma leve repetição de ideias no desenvolvimento.",
+      "1B: Argumentação sólida e objetiva. O candidato sistematiza bem as informações, relacionando os discursos históricos com a atualidade. O conteúdo é pertinente e bem fundamentado.",
+      "1C: Análise e reflexão são profundas e bem articuladas. O candidato demonstra capacidade de crítica e de propor soluções (reforma do CS). A reflexão é consistente e bem embasada.",
+      "CGPL: O texto apresenta apenas dois erros gramaticais menores (hífen desnecessário em 'não-permanente' e 'revelou- se'). A linguagem é, de modo geral, correta e adequada."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Não-permanente (com hífen) - O correto é 'não permanente' (sem hífen, pois 'não' é advérbio e 'permanente' é adjetivo, não formando um composto).",
+      "revelou- se (hífen com espaço) - O correto é 'revelou-se' (sem espaço)."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto. A coerência e a coesão são boas, embora haja um pequeno erro de pontuação (hífen com espaço) que não compromete a legibilidade.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato utiliza informações pertinentes e relevantes para o tema, como a eleição do Brasil para o Conselho de Segurança, a tradição pacifista brasileira e a inoperância do Conselho de Segurança. No entanto, a argumentação poderia ser mais aprofundada em alguns pontos, como a relação entre a reforma do Conselho de Segurança e a legitimidade do órgão.",
+      "1C: A análise e a reflexão são sólidas. O candidato demonstra capacidade de contextualizar os discursos históricos no cenário atual e de refletir sobre a pertinência dos argumentos apresentados. A conclusão é bem fundamentada e coerente com o desenvolvimento do texto. No entanto, a análise poderia ser mais crítica em relação à própria posição do Brasil, considerando as contradições entre a retórica pacifista e a atuação prática em algumas crises internacionais.",
+      "CGPL: O texto apresenta dois erros gramaticais: 'não-permanente' (deveria ser 'não permanente') e 'revelou- se' (deveria ser 'revelou-se'). Esses erros são pontuais e não comprometem a compreensão do texto. A regência, a concordância e a ortografia estão corretas no restante do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Não-permanente (hífen desnecessário)",
+      "revelou- se (hífen desnecessário)"
+    ],
+    "feedbacks": [
+      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A linguagem é formal e adequada ao contexto. A coerência é boa, mas há pequenas falhas de pontuação e uso de hífen.",
+      "1B: Argumentação sólida, com boa sistematização e pertinência. O candidato utiliza bem as informações do enunciado e as contextualiza historicamente. A objetividade é mantida, mas há um leve excesso de detalhes em alguns trechos.",
+      "1C: Análise e reflexão são profundas e bem fundamentadas. O candidato demonstra capacidade de conectar os discursos históricos com a atualidade, discutindo a reforma do Conselho de Segurança e a multipolaridade. A reflexão é crítica e bem elaborada.",
+      "CGPL: O texto apresenta apenas dois erros gramaticais menores, ambos relacionados ao uso indevido de hífen. A correção gramatical é excelente."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação do candidato apresenta uma análise profunda e bem estruturada dos argumentos contidos nos discursos históricos, relacionando-os com a atualidade e o contexto recente das relações exteriores do Brasil. O texto demonstra domínio do tema, coerência argumentativa e propriedade linguística. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. O candidato aborda todos os elementos solicitados no enunciado, discutindo a atualidade dos argumentos e ilustrando com exemplos concretos, como a participação do Brasil em missões de paz e a atuação no G-4. A linguagem é formal e adequada ao contexto acadêmico e diplomático. Não foram identificados erros gramaticais, ortográficos ou de pontuação. A redação atende a todos os critérios de avaliação, demonstrando capacidade de reflexão crítica e argumentação sólida."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação do candidato apresenta uma análise profunda e bem estruturada dos argumentos contidos nos discursos históricos, relacionando-os com a atualidade e o contexto recente das relações exteriores do Brasil. O texto demonstra domínio do tema, coerência argumentativa e propriedade linguística. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. O candidato aborda todos os elementos solicitados no enunciado, discutindo a atualidade dos argumentos e ilustrando com exemplos concretos, como a participação do Brasil em missões de paz e a atuação no G-4. A linguagem é formal e adequada ao contexto acadêmico e diplomático. Não foram identificados erros gramaticais, ortográficos ou de pontuação. A redação atende a todos os critérios de avaliação, demonstrando capacidade de reflexão crítica e argumentação sólida."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação do candidato apresenta uma análise profunda e bem estruturada dos argumentos contidos nos discursos históricos, relacionando-os com a atualidade e o contexto recente das relações exteriores do Brasil. O texto demonstra domínio do tema, coerência argumentativa e propriedade da linguagem, atendendo aos critérios de avaliação do concurso. A nota final reflete a excelência da redação, considerando a qualidade do conteúdo e a correção gramatical."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. A análise dos trechos dos discursos é pertinente e contextualizada historicamente, demonstrando domínio do tema e da linguagem. A argumentação é sofisticada, com insights relevantes sobre a reforma do Conselho de Segurança e a mudança no cenário internacional. O estilo é maduro, com vocabulário rico e preciso, e a fluidez do texto é comparável à de um especialista. Não há erros gramaticais ou de pontuação que comprometam a compreensão ou a qualidade do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra domínio avançado do tema, articulando com precisão os discursos históricos com a atualidade da política externa brasileira e a reforma do Conselho de Segurança.",
+      "A argumentação é sólida, bem estruturada e progressiva, conectando de forma coerente os conceitos de igualdade jurídica, veto, pragmatismo e multipolaridade.",
+      "O uso de referências históricas e conceituais (Constituição de 1891, G-4, John Galtung, Galtropolaridade) é pertinente e enriquece a análise.",
+      "A linguagem é formal, precisa e adequada ao nível de exigência do concurso, com excelente coesão e coerência.",
+      "O texto atende plenamente ao enunciado, analisando a atualidade dos argumentos e discutindo os elementos solicitados com profundidade e clareza."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. A análise dos trechos dos discursos é pertinente e contextualizada historicamente, demonstrando domínio do tema e da linguagem. A argumentação é sofisticada, com insights relevantes sobre a reforma do Conselho de Segurança e a mudança no cenário internacional. O estilo é maduro, com vocabulário rico e preciso, e a fluidez do texto é comparável à de um especialista. Não há erros gramaticais ou de pontuação que comprometam a compreensão ou a qualidade do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "1. 'das nações Unidas' (p. 1, l. 12) -> 'das Nações Unidas' (erro de capitalização de nome próprio/instituição).",
+      "2. 'da Paz' (p. 4, l. 10) -> 'da paz' (erro de capitalização desnecessária em substantivo comum).",
+      "3. 'a aquela' (p. 5, l. 12) -> 'aquela' (erro de redundância/pleonasmo vicioso)."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução clara, desenvolvimento em tópicos lógicos e conclusão coesa. A linguagem é formal e adequada ao concurso. A legibilidade é excelente.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato utiliza exemplos concretos (G-4, TPAN, Líbia) para sustentar seus pontos. O conteúdo é pertinente e bem relacionado aos enunciados.",
+      "1C: A análise é profunda e reflexiva. O candidato não apenas descreve, mas avalia a atualidade dos argumentos, qualificando-os e mostrando como o contexto mudou. A reflexão sobre a perda de confiança nas grandes potências é bem fundamentada.",
+      "CGPL: O texto apresenta apenas 3 erros gramaticais menores (capitalização e redundância). A regência, concordância e ortografia estão corretas. A pontuação é adequada."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "1. 'das nações Unidas' (p. 1, l. 15) -> 'das Nações Unidas' (erro de capitalização).",
+      "2. 'da Paz' (p. 4, l. 10) -> 'da paz' (erro de capitalização).",
+      "3. 'a aquela' (p. 5, l. 12) -> 'aquela' (erro de redundância/pleonasmo vicioso)."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução clara, desenvolvimento organizado em tópicos (reforma, desarmamento, prevenção) e conclusão sintética. A linguagem é formal e adequada ao concurso. A legibilidade é excelente. A pontuação de 8,5 reflete a qualidade geral, com leve ressalva pela repetição de algumas estruturas e pela necessidade de maior refinamento estilístico em alguns trechos.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato utiliza informações pertinentes (G-4, P5, TPAN, Resolução 1973) para sustentar a tese de que os argumentos de 1946 permanecem atuais, mas com a qualificação de que a confiança nas grandes potências foi desfeita. A pertinência é alta, mas a análise poderia ser mais aprofundada em alguns pontos, como a relação entre o veto e a inação do CSNU.",
+      "1C: A capacidade de análise é boa. O candidato consegue articular os trechos do enunciado com o contexto atual, identificando contradições (ex.: grandes potências como perturbadoras da paz) e propondo uma leitura crítica da experiência brasileira. A reflexão é coerente, mas falta um pouco mais de originalidade e profundidade na conexão entre os argumentos históricos e as dinâmicas contemporâneas de poder.",
+      "CGPL: O texto apresenta três erros gramaticais menores, todos relacionados a capitalização e redundância. Não há erros de concordância, regência ou ortografia que comprometam a compreensão. A pontuação de 17,0 reflete a correção geral, com leve desconto pelos erros identificados."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "1. 'das nações Unidas' (p. 1, l. 12) -> 'das Nações Unidas' (erro de capitalização de nome próprio/instituição).",
+      "2. 'da Paz' (p. 4, l. 10) -> 'da paz' (erro de capitalização desnecessária em substantivo comum).",
+      "3. 'a aquela' (p. 5, l. 12) -> 'aquela' (erro de redundância/pleonasmo vicioso)."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução clara, desenvolvimento organizado em tópicos (reforma do CSNU, desarmamento nuclear, prevenção de conflitos) e conclusão sintética. A linguagem é formal e adequada ao concurso. A legibilidade é excelente. A pontuação reflete a qualidade geral, com leve ressalva pela repetição de algumas estruturas e pela necessidade de maior refinamento estilístico em alguns trechos.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato utiliza informações pertinentes e pertinentes ao tema, como a reforma do CSNU, o G-4, o TPAN e o caso da Líbia. A pertinência das informações é alta, pois todas contribuem para a análise da atualidade dos argumentos. A pontuação reflete a solidez da argumentação, com leve ressalva pela falta de aprofundamento em alguns pontos (ex: a relação entre o TPAN e o veto não é explorada em profundidade).",
+      "1C: A capacidade de análise e reflexão é muito boa. O candidato não apenas descreve os argumentos, mas os qualifica, mostrando como a confiança nas grandes potências foi perdida e como o veto tem sido um obstáculo. A análise é crítica e bem fundamentada, com ilustrações concretas. A pontuação reflete a qualidade da análise, com leve ressalva pela necessidade de maior conexão entre os tópicos (ex: como a reforma do CSNU se relaciona com o desarmamento nuclear).",
+      "CGPL: O texto apresenta três erros gramaticais menores, todos relacionados a capitalização e redundância. Não há erros de concordância, regência ou ortografia. A pontuação reflete a correção geral do texto, com leve ressalva pelos erros de capitalização."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "desavenças históricas com a Índia e com o Japão"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura argumentativa sólida, com introdução clara, desenvolvimento bem articulado e conclusão coerente. A análise dos trechos propostos é pertinente e bem fundamentada, com exemplos concretos (Ilhas Marshall, Líbia, TPAN) que ilustram os argumentos. A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e coesão textual eficiente. Há apenas dois erros gramaticais menores: 'desavenças históricas' (deveria ser 'desavenças históricas' ou 'desavenças históricas' - na verdade, o correto é 'desavenças históricas' ou 'desavenças históricas', mas o texto usa 'desavenças históricas', o que está correto. O segundo erro é 'a aquela' (deveria ser 'aquela' ou 'a aquela' - na verdade, o correto é 'aquela' ou 'a aquela', mas o texto usa 'a aquela', o que está incorreto)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "desavenças históricas com a Índia e com o Japão"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma análise profunda e bem estruturada dos argumentos dos embaixadores Souza Dantas e Velloso, conectando-os de forma crítica ao contexto contemporâneo das relações exteriores do Brasil. O desenvolvimento é coerente, com argumentos bem encadeados e ilustrações pertinentes (reforma do CSNU, desarmamento nuclear, conflito na Líbia). A linguagem é adequada ao nível de um concurso de alto nível, demonstrando domínio do vocabulário técnico e da norma culta. Há apenas um erro gramatical pontual: 'desavenças históricas com a Índia e com o Japão' deveria ser 'desavenças históricas com a Índia e com o Japão' (ortografia). Outro ponto de atenção é a repetição de 'de forma' em 'de forma mais contundente' e 'de forma holística', que poderia ser evitada para maior elegância, mas não compromete a correção. A nota reflete a excelência do texto, com leve penalização pelo erro ortográfico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "desavenças históricas com a Índia e com o Japão, dois países que, junto ao Brasil, integram o G-4, grupo de países que almeja uma reforma ambiciosa e democrática das Nações Unidas. Em segundo lugar, porque os membros do P5 defendem uma abordagem gradual e cautelosa para a reforma. Essa cautela, porém, transformou-se em inação, o que vem aumentando o “preço muito alto pago por pequenos e médios países”, como argumentou Velloso, em 1946.  No campo do desarmamento nuclear,  a confiança dada às grandes potências não tem, na atualidade, gerado resultados práticos. Ao contrário, o poder de veto do P5 tem permitido que “perturbadores da paz”, conforme Souza Dantas, permaneçam impunes. Mais que isso, as grandes potências são, em muitos casos, os próprios perturbadores da Paz. Exemplo disso foi o caso das Ilhas Marshall, em que a Corte Internacional de Justiça da ONU, infelizmente, não pôde contribuir de forma mais contundente para a causa do desarmamento total. O Brasil, contudo, junto a outros países igualmente amantes da paz, foi protagonista na “Iniciativa Humanitária”, a qual fundamentou o desarmamento nuclear em termos morais e humanitários e resultou na aprovação do TPAN. Esse tratado bane, de maneira completa, as armas nucleares, contribuindo, dessa forma, com um espírito construtivo para obtenção de resultados práticos.  É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos mais danosos do poder de veto, no curto prazo, e a atualidade dos argumentos dos embaixadores. De fato, a sociedade internacional contemporânea carece de medidas eficazes para os problemas complexos e urgentes dos conflitos internacionais. O caso da Líbia, em 2011, ilustra essa realidade. A Resolução 1973 do CSNU, a qual estabelecia uma área de exclusão aérea foi oferecida como solução para o sofrimento do povo daquele país. O Brasil, de maneira acertada e em consonância com os argumentos dos embaixadores Souza Dantas e Velloso, absteve-se na votação, pois entendeu que a aquela não era uma medida de adequada para se alcançar soluções de paz duradouras. Em vez de contribuir para a prevenção e o de tensionamento de conflitos, a medida acirrava-os. Em contraste, o Brasil entende que a prevenção de conflitos deve ser vista de forma holística, de modo a incorporar as dimensões sociais, econômicas e humanitárias dos conflitos, sejam internos ou internacionais. Essa perspectiva, contudo, só poderá ser integralmente adotada por meio de um CSNU renovado.  Se os argumentos dos embaixadores Souza Dantas e Velloso permanecem pertinentes no atual contexto das relações exteriores do Brasil, a confiança conferida pelo Brasil às grandes potências, em 1946, foi perdida. Diante das necessidades complexas e urgentes atuais da comunidade internacional, sobretudo dos “pequenos e médios países”, conforme Velloso, as grandes potências não apenas entregaram poucos resultados práticos, como também dificultaram reformas que permitam que outros países, como o Brasil, entreguem soluções adequadas. As consequências de longo prazo dessa inação vão, contudo, muito além do campo da segurança internacional, tendo também custos econômicos, sociais e humanitários."
+    ],
+    "feedbacks": [
+      "O texto demonstra um domínio excepcional do tema, articulando com precisão os argumentos históricos dos embaixadores Souza Dantas e Velloso com a realidade contemporânea das relações internacionais. A análise é profunda, bem estruturada e apresenta uma argumentação sólida, com exemplos concretos (G-4, TPAN, Líbia) que enriquecem a reflexão. O estilo é maduro, a linguagem é adequada e a coesão é excelente. Há apenas dois deslizes gramaticais menores, que não comprometem a qualidade geral do texto. A redação se destaca pela originalidade, clareza e profundidade analítica, caracterizando-se como um texto de altíssimo nível."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "desavenças históricas com a Índia e com o Japão, dois países que, junto ao Brasil, integram o G-4, grupo de países que almeja uma reforma ambiciosa e democrática das Nações Unidas. Em segundo lugar, porque os membros do P5 defendem uma abordagem gradual e cautelosa para a reforma. Essa cautela, porém, transformou-se em inação, o que vem aumentando o “preço muito alto pago por pequenos e médios países”, como argumentou Velloso, em 1946.  No campo do desarmamento nuclear,  a confiança dada às grandes potências não tem, na atualidade, gerado resultados práticos. Ao contrário, o poder de veto do P5 tem permitido que “perturbadores da paz”, conforme Souza Dantas, permaneçam impunes. Mais que isso, as grandes potências são, em muitos casos, os próprios perturbadores da Paz. Exemplo disso foi o caso das Ilhas Marshall, em que a Corte Internacional de Justiça da ONU, infelizmente, não pôde contribuir de forma mais contundente para a causa do desarmamento total. O Brasil, contudo, junto a outros países igualmente amantes da paz, foi protagonista na “Iniciativa Humanitária”, a qual fundamentou o desarmamento nuclear em termos morais e humanitários e resultou na aprovação do TPAN. Esse tratado bane, de maneira completa, as armas nucleares, contribuindo, dessa forma, com um espírito construtivo para obtenção de resultados práticos.  É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos mais danosos do poder de veto, no curto prazo, e a atualidade dos argumentos dos embaixadores. De fato, a sociedade internacional contemporânea carece de medidas eficazes para os problemas complexos e urgentes dos conflitos internacionais. O caso da Líbia, em 2011, ilustra essa realidade. A Resolução 1973 do CSNU, a qual estabelecia uma área de exclusão aérea foi oferecida como solução para o sofrimento do povo daquele país. O Brasil, de maneira acertada e em consonância com os argumentos dos embaixadores Souza Dantas e Velloso, absteve-se na votação, pois entendeu que a aquela não era uma medida de adequada para se alcançar soluções de paz duradouras. Em vez de contribuir para a prevenção e o de tensionamento de conflitos, a medida acirrava-os. Em contraste, o Brasil entende que a prevenção de conflitos deve ser vista de forma holística, de modo a incorporar as dimensões sociais, econômicas e humanitárias dos conflitos, sejam internos ou internacionais. Essa perspectiva, contudo, só poderá ser integralmente adotada por meio de um CSNU renovado.  Se os argumentos dos embaixadores Souza Dantas e Velloso permanecem pertinentes no atual contexto das relações exteriores do Brasil, a confiança conferida pelo Brasil às grandes potências, em 1946, foi perdida. Diante das necessidades complexas e urgentes atuais da comunidade internacional, sobretudo dos “pequenos e médios países”, conforme Velloso, as grandes potências não apenas entregaram poucos resultados práticos, como também dificultaram reformas que permitam que outros países, como o Brasil, entreguem soluções adequadas. As consequências de longo prazo dessa inação vão, contudo, muito além do campo da segurança internacional, tendo também custos econômicos, sociais e humanitários."
+    ],
+    "feedbacks": [
+      "O texto demonstra um domínio excepcional do tema, articulando de forma sofisticada os argumentos históricos com a realidade contemporânea das relações internacionais. A análise é profunda, original e bem fundamentada, com exemplos concretos e relevantes (G-4, TPAN, Líbia).",
+      "A estrutura do texto é clara e lógica, com uma introdução que apresenta a tese, desenvolvimento que explora os argumentos de forma detalhada e uma conclusão que sintetiza a análise de maneira impactante. A coesão e a coerência são excelentes.",
+      "A linguagem é madura, precisa e adequada ao contexto acadêmico e diplomático. O vocabulário é rico e variado, e a sintaxe é complexa, mas bem construída. Há apenas dois deslizes gramaticais menores, que não comprometem a qualidade geral do texto.",
+      "O texto evidencia uma reflexão crítica e original, indo além da mera descrição ou repetição dos argumentos dos embaixadores. O candidato demonstra capacidade de análise, síntese e argumentação de alto nível, características essenciais para um diplomata."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "desavenças históricas com a Índia e com o Japão, dois países que, junto ao Brasil, integram o G-4, grupo de países que almeja uma reforma ambiciosa e democrática das Nações Unidas. Em segundo lugar, porque os membros do P5 defendem uma abordagem gradual e cautelosa para a reforma. Essa cautela, porém, transformou-se em inação, o que vem aumentando o “preço muito alto pago por pequenos e médios países”, como argumentou Velloso, em 1946.  No campo do desarmamento nuclear,  a confiança dada às grandes potências não tem, na atualidade, gerado resultados práticos. Ao contrário, o poder de veto do P5 tem permitido que “perturbadores da paz”, conforme Souza Dantas, permaneçam impunes. Mais que isso, as grandes potências são, em muitos casos, os próprios perturbadores da Paz. Exemplo disso foi o caso das Ilhas Marshall, em que a Corte Internacional de Justiça da ONU, infelizmente, não pôde contribuir de forma mais contundente para a causa do desarmamento total. O Brasil, contudo, junto a outros países igualmente amantes da paz, foi protagonista na “Iniciativa Humanitária”, a qual fundamentou o desarmamento nuclear em termos morais e humanitários e resultou na aprovação do TPAN. Esse tratado bane, de maneira completa, as armas nucleares, contribuindo, dessa forma, com um espírito construtivo para obtenção de resultados práticos.  É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos mais danosos do poder de veto, no curto prazo, e a atualidade dos argumentos dos embaixadores. De fato, a sociedade internacional contemporânea carece de medidas eficazes para os problemas complexos e urgentes dos conflitos internacionais. O caso da Líbia, em 2011, ilustra essa realidade. A Resolução 1973 do CSNU, a qual estabelecia uma área de exclusão aérea foi oferecida como solução para o sofrimento do povo daquele país. O Brasil, de maneira acertada e em consonância com os argumentos dos embaixadores Souza Dantas e Velloso, absteve-se na votação, pois entendeu que a aquela não era uma medida de adequada para se alcançar soluções de paz duradouras. Em vez de contribuir para a prevenção e o de tensionamento de conflitos, a medida acirrava-os. Em contraste, o Brasil entende que a prevenção de conflitos deve ser vista de forma holística, de modo a incorporar as dimensões sociais, econômicas e humanitárias dos conflitos, sejam internos ou internacionais. Essa perspectiva, contudo, só poderá ser integralmente adotada por meio de um CSNU renovado.  Se os argumentos dos embaixadores Souza Dantas e Velloso permanecem pertinentes no atual contexto das relações exteriores do Brasil, a confiança conferida pelo Brasil às grandes potências, em 1946, foi perdida. Diante das necessidades complexas e urgentes atuais da comunidade internacional, sobretudo dos “pequenos e médios países”, conforme Velloso, as grandes potências não apenas entregaram poucos resultados práticos, como também dificultaram reformas que permitam que outros países, como o Brasil, entreguem soluções adequadas. As consequências de longo prazo dessa inação vão, contudo, muito além do campo da segurança internacional, tendo também custos econômicos, sociais e humanitários."
+    ],
+    "feedbacks": [
+      "O texto demonstra um domínio avançado do tema, articulando os argumentos históricos com a atualidade das relações internacionais de forma coerente e profunda. A análise é bem estruturada, com introdução clara, desenvolvimento argumentativo sólido e conclusão que sintetiza a tese de forma eficaz. O uso de exemplos concretos, como o caso da Líbia e a Iniciativa Humanitária, enriquece a argumentação. A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático. Há apenas dois deslizes gramaticais menores, que não comprometem a qualidade geral do texto. A reflexão é madura, original e demonstra uma compreensão sofisticada das dinâmicas internacionais e do papel do Brasil no cenário global."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso indevido de hífen em 'jus contra bellum' (deveria ser 'jus contra bellum' ou 'jus contra-bellum', mas o mais comum é 'jus contra bellum' sem hífen ou 'jus contra-bellum' como adjetivo composto. No entanto, a expressão latina geralmente é escrita sem hífen. O erro é a pontuação ou a grafia. Vou considerar como erro de pontuação/ortografia.",
+      "Uso de vírgula após 'célere' em 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque...' (vírgula separando orações independentes sem conjunção, deveria ser ponto final ou ponto e vírgula).",
+      "Uso de vírgula em 'Hoje, um CSNU mais justo, é, também, um CNU mais efetivo.' (vírgulas isolando 'é, também,' estão corretas, mas a vírgula após 'justo' é desnecessária e quebra a fluidez, ou seja, 'Hoje, um CSNU mais justo é, também, um CNU mais efetivo.' seria melhor. Vou considerar como erro de pontuação)."
+    ],
+    "feedbacks": [
+      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto. A legibilidade é boa, embora haja alguns pequenos deslizes de pontuação.",
+      "1B: A argumentação é objetiva e sistematizada. O candidato aborda os elementos solicitados e os relaciona com o contexto atual. As informações são pertinentes e bem selecionadas.",
+      "1C: A análise é profunda e reflexiva, conectando os discursos históricos com a realidade contemporânea. O candidato demonstra capacidade de síntese e crítica, propondo uma reforma do CSNU como solução para o dilema entre igualdade e efetividade.",
+      "CGPL: O texto apresenta três erros gramaticais, principalmente de pontuação. A concordância e a regência estão corretas. A ortografia está adequada."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "resguardado no capítulo VI da Carta da ONU"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente domínio do tema, articulando de forma coerente os trechos da Carta da ONU e os discursos históricos com a atualidade da política externa brasileira. O desenvolvimento é bem estruturado, com argumentos sólidos e ilustrações pertinentes (Golfo, Síria, Irã, Líbia, G4). A linguagem é formal, precisa e adequada ao contexto diplomático. Há apenas um erro gramatical pontual (uso de 'resguardado' no lugar de 'resguardado' ou 'reservado', embora 'resguardado' seja aceitável, o contexto sugere 'reservado' ou 'garantido' como mais preciso, mas não é um erro grave). A nota reflete a alta qualidade do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "resguardado no capítulo VI da Carta da ONU"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente domínio do tema, articulando de forma coerente os trechos da Carta da ONU e os discursos históricos com a atualidade da política externa brasileira. O desenvolvimento é bem estruturado, com argumentos sólidos e ilustrações pertinentes (Golfo, Síria, Irã, Líbia, G4). A linguagem é formal, precisa e adequada ao contexto diplomático. Há apenas um erro gramatical pontual: 'resguardado no capítulo VI' deveria ser 'resguardado no Capítulo VI' (inicial maiúscula para referência a documento oficial) ou, preferencialmente, 'previsto no Capítulo VI'. Outro ponto de atenção é a repetição de 'mudança de paradigma' no segundo parágrafo, que poderia ser evitada para maior elegância. No geral, é uma redação de altíssimo nível, próxima da perfeição."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "resguardado no capítulo VI da Carta da ONU"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente domínio do tema, articulando de forma coerente os trechos da Carta da ONU e os discursos históricos com a atualidade da política externa brasileira. O desenvolvimento é bem estruturado, com argumentos sólidos e ilustrações pertinentes (Golfo, Síria, Irã, Líbia, G4). A linguagem é formal, precisa e adequada ao contexto diplomático. Há apenas um erro gramatical pontual (uso de 'resguardado' no lugar de 'resguardado' ou 'reservado', embora 'resguardado' seja aceitável, o contexto sugere 'reservado' ou 'garantido' como mais preciso, mas não é um erro grave). A nota reflete a alta qualidade do texto, com apenas uma pequena ressalva gramatical."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A resposta da comunidade internacional foi célere, O CSNU condenou o ataque, e as grandes potências enviaram tropas que permitiram a desocupação do Kuwait."
+    ],
+    "feedbacks": [
+      "O texto demonstra um domínio avançado do tema, articulando com clareza e profundidade os argumentos dos dois embaixadores brasileiros de 1946 com a realidade contemporânea das relações internacionais. A análise é sofisticada, mostrando como o pragmatismo e o idealismo se complementam na diplomacia brasileira, e utiliza exemplos históricos e contemporâneos de forma pertinente (Golfo, Síria, Irã, Líbia, G4). A estrutura é lógica e bem encadeada, com uma introdução clara, desenvolvimento argumentativo sólido e uma conclusão que sintetiza a reflexão de maneira original e madura. A linguagem é culta, precisa e adequada ao contexto acadêmico-diplomático. Há apenas um deslize gramatical pontual (vírgula no lugar de ponto final), que não compromete a fluidez ou a qualidade geral do texto. O texto evidencia insight teórico, riqueza vocabular e uma análise que vai além do óbvio, caracterizando-se como excepcional."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A resposta da comunidade internacional foi célere, O CSNU condenou o ataque, e as grandes potências enviaram tropas que permitiram a desocupação do Kuwait. (Erro de pontuação: vírgula no lugar de ponto final ou ponto e vírgula após 'célere')",
+      "Hoje, um CSNU mais justo, é, também, um CNU mais efetivo. (Erro de pontuação: vírgulas desnecessárias isolando 'é, também,' e erro de digitação 'CNU' em vez de 'CSNU')"
+    ],
+    "feedbacks": [
+      "O texto demonstra um domínio excepcional do tema, articulando com clareza e profundidade os argumentos dos dois embaixadores e conectando-os à atualidade da política externa brasileira. A estrutura é lógica e bem encadeada, passando da análise histórica para a crítica institucional e, finalmente, para propostas concretas de reforma.",
+      "A argumentação é sólida e bem ilustrada com exemplos históricos e contemporâneos (Ruanda, Golfo, Síria, Irã, Líbia, G4), demonstrando ampla cultura diplomática e capacidade analítica. O uso de conceitos como 'jus ad bellum' e 'jus contra bellum' é preciso e enriquece o texto.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico-diplomático. Há apenas dois deslizes pontuais de pontuação, que não comprometem a fluidez ou a compreensão do texto. O estilo é maduro e demonstra originalidade na síntese dos argumentos.",
+      "O texto cumpre perfeitamente a proposta do enunciado, analisando a atualidade dos argumentos e discutindo os elementos solicitados com riqueza de detalhes e coerência. A conclusão é forte e sintetiza bem a tese central."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A resposta da comunidade internacional foi célere, O CSNU condenou o ataque, e as grandes potências enviaram tropas que permitiram a desocupação do Kuwait. (Erro de pontuação: vírgula no lugar de ponto final ou ponto e vírgula após 'célere')",
+      "Hoje, um CSNU mais justo, é, também, um CNU mais efetivo. (Erro de pontuação: vírgulas desnecessárias isolando 'é, também,' e erro de digitação 'CNU' em vez de 'CSNU')"
+    ],
+    "feedbacks": [
+      "O texto demonstra um domínio excepcional do tema, articulando com clareza e profundidade os argumentos dos dois embaixadores e conectando-os à atualidade da política externa brasileira. A estrutura é lógica e bem encadeada, passando da análise histórica para a crítica institucional e, finalmente, para propostas concretas de reforma.",
+      "A argumentação é sólida e bem ilustrada, utilizando exemplos históricos relevantes (Golfo, Síria, Irã, Líbia) e conceitos doutrinários precisos (jus ad bellum, jus contra bellum, soft power, R2P). A capacidade de síntese e a originalidade na proposição de uma reforma do CSNU que concilie pragmatismo e idealismo são pontos fortes.",
+      "A linguagem é formal, precisa e adequada ao contexto diplomático e acadêmico. O vocabulário é rico e variado, demonstrando maturidade estilística. A coesão e a coerência são excelentes, com transições suaves entre os parágrafos e ideias.",
+      "Há apenas dois deslizes pontuais de pontuação e uma possível digitação ('CNU' em vez de 'CSNU'), que não comprometem a compreensão ou a qualidade geral do texto. O nível de escrita é comparável ao de um especialista na área."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  }
+]
