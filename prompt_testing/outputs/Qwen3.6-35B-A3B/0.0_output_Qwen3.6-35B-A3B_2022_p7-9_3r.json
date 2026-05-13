@@ -3,17 +3,15 @@
     "nota_1A": 9,
     "nota_1B": 9,
     "nota_1C": 18,
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "erradicação guerra (falta de preposição: 'da guerra')",
-      "apoiou- se (espaço incorreto no hífen)",
-      "adotarem (concordância verbal: deveria ser 'adotassem' ou 'adotassem' dependendo do contexto, mas aqui 'levou os Estados a adotarem' está correto, então vou revisar. Na verdade, 'levou os Estados a adotarem' está correto. Vou reler. Ah, 'levou os Estados a adotarem' está correto. Onde está o erro? 'apoiou- se' é erro de digitação. 'erradicação guerra' é erro de regência/preposição. 'adotarem' está correto. Vou contar 2 erros graves e 1 leve? Não, vou ser rigoroso. 'erradicação guerra' (1), 'apoiou- se' (1). Mais algum? 'uma boa parte dos líderes mundiais continua' (concordância: parte é singular, continua está correto). 'levou os Estados a adotarem' (correto). 'que inaugurou uma fase de maior estabilidade, na Guerra Fria' (vírgula desnecessária, mas não erro grave). Vou considerar 2 erros gramaticais significativos. Nota CGPL: 18/20. }, "
+      "erradicação *da* guerra",
+      "apoio *a*"
     ],
     "feedbacks": [
-      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. Estilo formal e adequado ao concurso. Coerência e coesão são boas. Apenas um pequeno deslize de digitação ('apoiou- se').",
-      "1B: Argumentação sólida, com uso pertinente de autores (Keegan, Clausewitz, Bull) e exemplos históricos (Canal de Beagle, Guerra Fria, ONU). A relação com o enunciado é clara.",
-      "1C: Análise profunda, conectando as ideias de Freud e Einstein à diplomacia contemporânea. Reflexão sobre a sociedade internacional e a evolução cultural é bem desenvolvida.",
-      "CGPL: Dois erros gramaticais: 'erradicação guerra' (falta de preposição) e 'apoiou- se' (espaço incorreto). O restante está correto."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado e conclusão sólida.",
+      "Argumentação robusta, integrando adequadamente as citações de Freud e referenciando autores relevantes (Keegan, Clausewitz, Bull).",
+      "Análise profunda, conectando teoria psicológica/histórica com exemplos concretos (Canal de Beagle, Guerra Fria, ONU)."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -28,15 +26,36 @@
     "nota_1C": 18,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "erradicação guerra (falta de preposição: erradicação da guerra)",
-      "apoiou- se (espaço incorreto no hífen: apoiou-se)",
-      "adotarem (concordância verbal: os Estados adotaram/adotasse, ou melhor, 'levar os Estados a adotar' está correto, mas 'adotarem' como sujeito de 'diminuam' pode ser considerado erro de regência/concordância no contexto 'acordos que diminuíam o alcance de mísseis que levam armas nucleares. Isso foi consequência da ampliação do medo dos efeitos catastróficos que um ataque nuclear poderia causar.' -> Na verdade, o erro está em 'levar os Estados a adotarem'. A norma culta prefere 'levar os Estados a adotar' (infinitivo impessoal) ou 'fizerem os Estados adotarem'. Vou considerar 'adotarem' como erro de regência/concordância do infinitivo. Outro erro: 'apoiou- se' (espaço antes do hífen). 'erradicação guerra' (falta de preposição). Total: 3 erros."
+      "erradicação *da* guerra",
+      "acontece*,* quando",
+      "apoio*-**se*",
+      "Freud estava cert**o**, ao"
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao concurso. A coerência e a coesão são boas, com uso adequado de conectivos. A legibilidade é excelente.",
-      "1B: A argumentação é objetiva e sistematizada. O candidato utiliza informações pertinentes, citando autores relevantes (Keegan, Clausewitz, Bull) e momentos históricos (Canal de Beagle, Guerra Fria, ONU). O conteúdo é rico e bem fundamentado.",
-      "1C: A análise e reflexão são profundas. O candidato consegue articular as ideias de Einstein e Freud com o papel da diplomacia, utilizando exemplos históricos para ilustrar seus argumentos. A reflexão sobre a sociedade internacional e a cultura de paz é sofisticada.",
-      "CGPL: O texto apresenta três erros gramaticais: 1) 'erradicação guerra' (falta de preposição); 2) 'apoiou- se' (espaço incorreto no hífen); 3) 'adotarem' (uso do infinitivo flexionado após 'levar', quando o impessoal é preferível na norma culta). A pontuação e a regência estão, em geral, corretas."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada.",
+      "Argumentação sólida, com uso pertinente de autores clássicos e exemplos históricos relevantes.",
+      "Análise reflexiva profunda, conectando teoria freudiana/einsteiniana com prática diplomática contemporânea."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "erradicação *da* guerra",
+      "apoio *a*"
+    ],
+    "feedbacks": [
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado e conclusão sólida.",
+      "Argumentação robusta, integrando referências teóricas (Freud, Keegan, Clausewitz, Bull) e exemplos históricos pertinentes (Canal de Beagle, Guerra Fria, pós-Segunda Guerra).",
+      "Análise reflexiva profunda, conectando eficazmente as ideias dos autores às funções contemporâneas da diplomacia."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -46,17 +65,15 @@
     "ano": "2022"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "possibilidade de erradicação guerra",
+      "possibilidade de erradicação guerra.",
       "apoio- se"
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida, com introdução clara, desenvolvimento bem articulado e conclusão coerente. A relação entre os textos de Einstein e Freud e o papel da diplomacia é bem explorada, com referências históricas pertinentes (Canal de Beagle, Guerra Fria, ONU).",
-      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e uso correto de conectivos. A argumentação é lógica e bem fundamentada.",
-      "Há dois erros gramaticais pontuais: 'possibilidade de erradicação guerra' (falta de preposição 'da') e 'apoio- se' (erro de digitação/espaçamento). Esses erros são mínimos e não comprometem a compreensão do texto.",
-      "A redação atende plenamente ao enunciado, discutindo o papel da diplomacia com base nas ideias dos textos e em momentos históricos, demonstrando domínio do tema e capacidade de reflexão crítica."
+      "Possível erro de digitação: 'erradicação guerra' deveria ser 'erradicação da guerra'.",
+      "Erro de grafia/acentuação: 'apoio-' deveria ser 'apoiou-', pois o verbo está no pretérito perfeito."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -66,13 +83,15 @@
     "ano": "2022"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "erradicação guerra"
+      "possibilidade de erradicação guerra.",
+      "apoio- se"
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida, com introdução clara, desenvolvimento bem articulado e conclusão pertinente. A relação entre os textos de Einstein e Freud e o papel da diplomacia é bem explorada, com referências históricas relevantes (Canal de Beagle, Guerra Fria, ONU) e teóricos (Keegan, Clausewitz, Bull). A linguagem é adequada ao contexto acadêmico e diplomático, com bom uso de conectivos e vocabulário preciso. Há apenas um erro gramatical perceptível: 'erradicação guerra' (falta de preposição 'da'). A coerência e a clareza são excelentes, e a argumentação é bem fundamentada. A nota reflete a alta qualidade do texto, com leve penalização pelo erro gramatical."
+      "Possível erro de digitação: 'erradicação guerra' deveria ser 'erradicação da guerra'.",
+      "Erro de grafia/acentuação: 'apoio- se' deveria ser 'apoiou-se'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -82,13 +101,15 @@
     "ano": "2022"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "erradicação guerra"
+      "possibilidade de erradicação guerra.",
+      "apoio- se"
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida, com introdução, desenvolvimento e conclusão bem definidos. A tese central é clara e sustentada por exemplos históricos relevantes (Canal de Beagle, Guerra Fria, ONU). A integração das ideias de Freud e Einstein com a teoria diplomática (Clausewitz, Bull) é coerente e demonstra domínio do tema. A linguagem é formal e adequada ao contexto acadêmico/diplomático. Há apenas um erro gramatical evidente: 'erradicação guerra' (falta de preposição 'da'). A pontuação e a concordância estão, em geral, corretas. O texto atende plenamente ao enunciado, discutindo o papel da diplomacia com referência às ideias dos textos e a momentos históricos."
+      "Possível erro de digitação: 'erradicação guerra' deveria ser 'erradicação da guerra'.",
+      "Erro de grafia/acentuação: 'apoio-' deveria ser 'apoiou-', pois o verbo está no pretérito perfeito."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -99,16 +120,18 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "A frase 'A diplomacia é um instrumento indispensável para a construção da paz, uma vez que favorece o processo de evolução cultural que, um dia, pode levar ao fim da guerra.' contém uma pontuação inadequada. A vírgula após 'que' é desnecessária e quebra a fluidez da oração.",
-      "A frase 'A ação diplomática teve uma função essencial na construção do regime internacional de não-proliferação nuclear, por meio de tratados que não só falam sobre o desarmamento, mas também exigem que os Estados detentores de tecnologias nucleares apresentem relatórios transparentes sobre seu arsenal e sobre suas políticas de segurança.' apresenta um erro de concordância verbal. O sujeito 'tratados' está no plural, mas o verbo 'falam' está no singular. O correto seria 'tratados que não só falam'."
+      "erradicação guerra -> erradicação da guerra",
+      "acontece, quando -> acontece quando",
+      "não-proliferação -> não proliferação",
+      "apoio- se -> apoia-se"
     ],
     "feedbacks": [
-      "O texto demonstra um domínio excepcional do tema, articulando de forma sofisticada as ideias de Einstein e Freud com conceitos de Relações Internacionais e História. A argumentação é sólida, bem estruturada e apresenta uma visão crítica e madura sobre o papel da diplomacia.",
-      "A capacidade de integrar referências teóricas (Keegan, Clausewitz, Bull) e exemplos históricos (Canal de Beagle, Guerra Fria, ONU) de maneira coesa e relevante é um ponto forte. O texto vai além da simples descrição, oferecendo uma análise profunda sobre como a diplomacia opera como mecanismo de desvio da violência e construção de uma sociedade internacional.",
-      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático. A fluidez do texto é notável, com transições bem elaboradas entre os parágrafos e ideias. A conclusão é impactante e reforça a tese central de forma elegante.",
-      "Apesar da alta qualidade geral, há dois pequenos deslizes gramaticais que impedem a classificação como 'Excepcional'. A pontuação na frase sobre a evolução cultural e o erro de concordância na frase sobre os tratados de não-proliferação nuclear são erros que, embora não comprometam a compreensão, indicam uma falta de revisão final mais rigorosa."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e conclusão impactante.",
+      "Demonstra excelente domínio do tema, articulando perfeitamente as citações de Freud e Einstein com teorias de Relações Internacionais (Clausewitz, Bull) e casos concretos (Canal de Beagle, Guerra Fria, ONU).",
+      "Linguagem formal, precisa e adequada ao nível de um concursando CACD, com bom uso de conectivos e vocabulário técnico.",
+      "Pequenos deslizes gramaticais (artigo faltando, vírgula desnecessária, hífen indevido) não comprometem a excelência geral do texto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -119,16 +142,18 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "A frase 'A diplomacia é um instrumento indispensável para a construção da paz, uma vez que favorece o processo de evolução cultural que, um dia, pode levar ao fim da guerra.' contém uma pontuação inadequada. A vírgula após 'que' é desnecessária e quebra a fluidez da oração.",
-      "A frase 'A ação diplomática teve uma função essencial na construção do regime internacional de não-proliferação nuclear, por meio de tratados que não só falam sobre o desarmamento, mas também exigem que os Estados detentores de tecnologias nucleares apresentem relatórios transparentes sobre seu arsenal e sobre suas políticas de segurança.' contém um erro de concordância verbal. O sujeito 'tratados' está no plural, mas o verbo 'falam' está no singular. O correto seria 'falam' para concordar com 'tratados'."
+      "erradicação guerra -> erradicação da guerra",
+      "acontece, quando -> acontece quando",
+      "não-proliferação -> não proliferação",
+      "apoio- se -> apoia-se"
     ],
     "feedbacks": [
-      "O texto demonstra um domínio excepcional do tema, articulando de forma sofisticada as ideias de Einstein e Freud com conceitos de Relações Internacionais e História. A argumentação é sólida, bem estruturada e apresenta uma visão crítica e madura sobre o papel da diplomacia.",
-      "A propriedade da linguagem é notável, com um vocabulário rico e preciso, adequado ao contexto acadêmico e diplomático. A coesão e a coerência são excelentes, com um encadeamento lógico das ideias que facilita a compreensão e a reflexão.",
-      "A referência a momentos históricos, como a mediação do Vaticano no Canal de Beagle e a diplomacia durante a Guerra Fria, é pertinente e bem integrada à argumentação. A análise de Hedley Bull sobre sistema e sociedade internacional adiciona profundidade teórica ao texto.",
-      "A conclusão é forte e reflexiva, retomando o diálogo entre Einstein e Freud e destacando a relevância contemporânea do tema. A menção à revolução tecnológica nos meios de comunicação é um insight interessante que amplia a discussão."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e conclusão impactante.",
+      "Demonstra excelente domínio do tema, articulando perfeitamente as citações de Freud e Einstein com teorias de Relações Internacionais (Clausewitz, Bull) e casos concretos (Canal de Beagle, Guerra Fria, ONU).",
+      "Linguagem formal, precisa e adequada ao nível do CACD, com bom uso de conectivos e transições.",
+      "Pequenos deslizes gramaticais (artigo faltando, vírgula desnecessária, hífen indevido) não comprometem a excelência geral do texto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -139,16 +164,18 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "A frase 'o físico Albert Einstein apresenta um questionamento sobre a possibilidade de erradicação guerra.' está faltando a preposição 'da' antes de 'guerra'.",
-      "A frase 'A diplomacia norte-americana apoiou- se em uma proposta...' apresenta um hífen desnecessário após 'apoiou'."
+      "erradicação guerra -> erradicação da guerra",
+      "acontece, quando -> acontece quando",
+      "não-proliferação -> não proliferação",
+      "apoio- se -> apoia-se"
     ],
     "feedbacks": [
-      "O texto demonstra um domínio excepcional do tema, articulando de forma sofisticada as ideias de Freud e Einstein com conceitos de Relações Internacionais (Hedley Bull, sistema vs. sociedade internacional) e exemplos históricos precisos (Canal de Beagle, Guerra Fria, ONU).",
-      "A argumentação é densa, bem estruturada e mostra uma capacidade analítica avançada, indo além da mera descrição para uma reflexão crítica sobre o papel da diplomacia na construção de uma 'sociedade internacional'.",
-      "A linguagem é culta, precisa e adequada ao nível exigido pelo CACD, com um vocabulário rico e variado.",
-      "A única observação é a presença de dois pequenos deslizes gramaticais (falta de preposição e hífen desnecessário), que não comprometem a fluidez ou a qualidade geral do texto, mas impedem a classificação máxima 'Excepcional'."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e conclusão impactante.",
+      "Demonstra excelente domínio do tema, articulando perfeitamente as citações de Freud e Einstein com a prática diplomática.",
+      "Uso pertinente de referências teóricas adicionais (Keegan, Clausewitz, Bull) enriquecem a argumentação.",
+      "Linguagem formal, adequada ao contexto acadêmico/diplomático, com bom uso de conectivos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -158,11 +185,78 @@
     "ano": "2022"
   },
   {
-    "nota_final": 58.5,
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'conquanto busque' deveria ser 'buscam', pois o sujeito é 'diplomacia' (singular) -> correto, mas 'busquem'? Não, 'diplomacia busca'. Erro menor.",
+      "Pontuação/Vírgula: 'Trata-se da \"atitude cultural\", referenciada...' vírgula desnecessária."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, mas algumas transições poderiam ser mais fluidas.",
+      "Argumentação sólida, mas alguns conceitos estão soltos sem conexão clara com a tese central.",
+      "Boa análise histórica, mas faltou aprofundar a crítica às limitações da diplomacia frente a crises contemporâneas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'conquanto busque' deveria ser 'buscam', pois o sujeito é 'diplomacia' (singular) -> correto, mas 'busquem'? Não, 'diplomacia busca'. Erro menor.",
+      "Pontuação/Vírgula: 'Trata-se da \"atitude cultural\", referenciada...' vírgula desnecessária."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, mas a introdução mitológica consome espaço valioso sem conexão direta forte com o núcleo da questão inicial.",
+      "Argumentação sólida, mas dispersa em muitos autores/conceitos (Camus, Said, Arendt, Realismo, Liberalismo) sem profundidade analítica suficiente em cada um deles.",
+      "Análise reflexiva adequada, conectando teoria e prática histórica, embora algumas transições sejam bruscas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'conquanto busque' deveria ser 'buscam', pois o sujeito é 'diplomacia' (singular) -> correto, mas 'busquem'? Não, 'diplomacia busca'. Erro menor.",
+      "Pontuação/Vírgula: 'Trata-se da \"atitude cultural\", referenciada...' vírgula desnecessária."
+    ],
+    "feedbacks": [
+      "1A: Texto bem estruturado, introdução clara, desenvolvimento organizado e conclusão coesa. Estilo acadêmico adequado. Pequenas falhas de fluidez em alguns períodos longos.",
+      "1B: Argumentação sólida, boa articulação entre teoria e prática. Uso pertinente de conceitos (Orientalismo, Banalidade do Mal, Realismo/Liberalismo). Alguns trechos parecem forçados na conexão direta com o enunciado.",
+      "1CGPL: Poucos erros gramaticais. Linguagem formal e precisa. Pontuação geralmente correta, com exceção de algumas vírgulas dispensáveis."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "A redação apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. O uso de referências teóricas (Freud, Einstein, Camus, Said, Arendt, Keohane) e exemplos históricos (Segunda Guerra Mundial, Crise dos Mísseis, invasão do Iraque e da Ucrânia) demonstra domínio do tema e capacidade de interdisciplinaridade. A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático. Não foram identificados erros gramaticais, de ortografia ou de pontuação. A coerência e a coesão textuais são excelentes, com encadeamento lógico das ideias e transições suaves entre os parágrafos. A redação atende plenamente aos critérios de avaliação, demonstrando alta qualidade na organização do texto, no desenvolvimento do tema e na correção gramatical."
+      "A redação apresenta excelente organização estrutural, com introdução clara, desenvolvimento bem articulado e conclusão coesa.",
+      "Há forte capacidade de argumentação, integrando adequadamente as citações de Einstein e Freud ao longo do texto.",
+      "Os exemplos históricos (Segunda Guerra, Guerra Fria, Crise dos Mísseis, Invasão do Iraque e da Ucrânia) são pertinentes e bem contextualizados.",
+      "A linguagem é formal, precisa e adequada ao nível exigido pelo CACD.",
+      "As conexões lógicas entre os parágrafos são fluidas e demonstram maturidade analítica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -172,11 +266,15 @@
     "ano": "2022"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 57.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "A redação apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. O uso de referências teóricas (Freud, Einstein, Camus, Said, Arendt, Keohane) e exemplos históricos (Segunda Guerra Mundial, Guerra Fria, Crise dos Mísseis, invasão do Iraque e da Ucrânia) demonstra domínio do tema e capacidade de contextualização. A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático. Não foram identificados erros gramaticais, de ortografia, concordância ou regência. O texto é coerente, coeso e demonstra reflexão crítica sobre o papel da diplomacia na prevenção de conflitos e na promoção do direito internacional."
+      "A redação apresenta excelente organização estrutural, com introdução clara, desenvolvimento bem articulado e conclusão coesa.",
+      "Há forte capacidade de argumentação, integrando adequadamente as citações de Einstein e Freud ao longo do texto.",
+      "Os exemplos históricos (Segunda Guerra Mundial, Crise dos Mísseis, Invasão do Iraque, Invasão da Ucrânia) são pertinentes e bem contextualizados.",
+      "A linguagem é formal, precisa e adequada ao nível exigido pelo CACD.",
+      "As conexões lógicas entre os parágrafos são fluidas e facilitam a compreensão do raciocínio."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -186,11 +284,15 @@
     "ano": "2022"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 57.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "A redação apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. O uso da metáfora de Sísifo é original e bem explorada, servindo como fio condutor do texto. A análise do tema é profunda, conectando as ideias de Einstein e Freud com conceitos de Relações Internacionais (Orientalismo, Banalidade do Mal, Realismo, Liberalismo, Interdependência Complexa) e momentos históricos relevantes (Segunda Guerra Mundial, Guerra Fria, Crise dos Mísseis, invasão do Iraque e da Ucrânia). A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático. Não foram identificados erros gramaticais, de ortografia ou de pontuação. A redação cumpre todos os requisitos do enunciado, fazendo referência às ideias dos textos e a momentos históricos, e discorre sobre o papel da diplomacia de forma coerente e bem fundamentada."
+      "A redação apresenta excelente organização estrutural, com introdução clara, desenvolvimento bem articulado e conclusão coesa.",
+      "Há forte capacidade de argumentação, integrando adequadamente as citações de Einstein e Freud ao longo do texto.",
+      "Os exemplos históricos (Segunda Guerra Mundial, Crise dos Mísseis, Invasão do Iraque, Invasão da Ucrânia) são pertinentes e bem contextualizados.",
+      "A linguagem é formal, precisa e adequada ao nível exigido pelo CACD.",
+      "As conexões lógicas entre os parágrafos são fluidas e facilitam a compreensão do raciocínio."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -204,10 +306,10 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sofisticada, articulando de forma coerente as ideias dos textos-base (Einstein e Freud) com conceitos teóricos das Relações Internacionais (Realismo, Liberalismo, Orientalismo, Banalidade do Mal) e momentos históricos relevantes (Guerra Fria, Crise dos Mísseis, Carta da ONU, invasões do Iraque e da Ucrânia).",
-      "A linguagem é madura, precisa e adequada ao nível de exigência do concurso, com vocabulário técnico bem empregado e fluidez na progressão temática.",
-      "A reflexão sobre o papel da diplomacia é profunda, indo além da mera descrição e estabelecendo conexões analíticas entre a teoria psicanalítica, a filosofia existencialista (Camus) e a prática diplomática contemporânea.",
-      "A conclusão é impactante e resgata a metáfora inicial (Sísifo) de forma original, conferindo ao texto um fechamento coeso e reflexivo."
+      "Texto articula com maestria a metáfora inicial de Sísifo, estabelecendo uma tese clara e profunda sobre a natureza contínua e necessária da ação diplomática.",
+      "Demonstração excepcional de erudição, integrando conceitos de Relações Internacionais (Realismo, Liberalismo, Interdependência Complexa), Filosofia (Camus, Arendt) e Direito Internacional (Carta da ONU) de forma orgânica e pertinente.",
+      "Uso magistral dos excertos de Freud e Einstein, conectando-os diretamente às funções contemporâneas da diplomacia (construção cultural, gestão de segurança/normas) e validando-as através de exemplos históricos precisos (Guerra Fria, Invasão do Iraque/Ucrânia).",
+      "Linguagem extremamente refinada, precisa e acadêmica, com excelente controle sintático e vocabulário técnico apropriado ao nível exigido pelo CACD."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -221,10 +323,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sofisticada, articulando de forma coerente as ideias dos textos-base (Einstein e Freud) com conceitos teóricos das Relações Internacionais (Realismo, Liberalismo, Orientalismo, Banalidade do Mal) e momentos históricos relevantes (Guerra Fria, Crise dos Mísseis, Carta da ONU, invasões do Iraque e Ucrânia).",
-      "A linguagem é madura, precisa e adequada ao contexto acadêmico e diplomático, com uso correto de terminologia técnica e conectivos que garantem a coesão textual.",
-      "A reflexão sobre o papel da diplomacia é profunda e original, utilizando a metáfora de Sísifo de forma eficaz para ilustrar a natureza contínua e desafiadora da construção da paz, sem cair em simplificações.",
-      "O texto demonstra domínio temático avançado, integrando teoria e prática de maneira fluida e convincente, atendendo plenamente aos critérios de avaliação do CACD."
+      "Texto articula com maestria a metáfora inicial (Sísifo) ao longo de toda a dissertação, criando uma unidade temática forte.",
+      "Demonstração excepcional de repertório sociocultural, integrando conceitos de Relações Internacionais (Realismo, Liberalismo, Interdependência Complexa), Filosofia (Camus, Arendt) e História Contemporânea (Guerra Fria, ONU, Invasão da Ucrânia)."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -238,11 +338,10 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sofisticada, articulando de forma coerente os conceitos de Freud e Einstein com a prática diplomática e teorias de Relações Internacionais.",
-      "A análise teórica é profunda, integrando referências a Edward Said, Hannah Arendt, Keohane e Camus de maneira pertinente e enriquecedora.",
-      "A linguagem é madura, precisa e demonstra domínio avançado da norma culta e do vocabulário técnico da área.",
-      "A argumentação é sólida, com exemplos históricos bem escolhidos (Crise dos Mísseis, Carta da ONU, invasão da Ucrânia) que sustentam a tese central.",
-      "O texto demonstra originalidade na ressignificação do mito de Sísifo para ilustrar o papel da diplomacia, culminando em uma conclusão filosófica e prática de alto nível."
+      "Texto articula com maestria a metáfora inicial (Sísifo) ao longo de toda a argumentação, criando uma unidade temática excepcional.",
+      "Demonstração profunda de conhecimento histórico e teórico, integrando adequadamente conceitos de Relações Internacionais (Realismo, Liberalismo), filosofia (Camus, Arendt, Said) e Direito Internacional (Carta da ONU).",
+      "Uso impecável da norma culta, com vocabulário rico e sintaxe variada, conferindo ao texto um tom acadêmico e elegante.",
+      "Argumentação densa e bem encadeada, conectando claramente as citações de Freud/Einstein às funções contemporâneas da diplomacia."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -254,13 +353,16 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 17.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "após o final da Segunda Guerra Mundial, a diplomacia mostrou- se capaz de conter as tendências agressivas humanas, de produzir laços emocionais entre os países e de promover a aproximação cultural. Dessa forma, em resposta à indagação de Einstein, torna-se evidente que a diplomacia, ao contribuir para estreitar os vínculos entre os povos, pode livrar a humanidade da ameaça da guerra. Freud sustenta que a violência é o “estado original” do ser humano, de modo que seria impossível eliminá- la. Pode-se, contudo, tentar mitigá-la. Com efeito, a diplomacia é o principal instrumento capaz de conter as tendências agressivas humanas. Na Conferência de São Francisco, em 1945, os Estados participantes lograram a aprovação do artigo 2º, § 4º, da Carta das Nações Unidas. Esse dispositivo proibiu o uso da força nas relações internacionais, embora haja exceções, como a legítima defesa. Ademais, a ONU inovou ao promover a criação das operações de paz, as quais se destinam a prevenir e a solucionar conflitos armados. Durante a crise de Suez, por exemplo, a UNEF-I foi essencial para assegurar o cessar fogo. No século XXI, a MINUSTAH, por meio de especialistas das mais diversas áreas, contribuiu para aperfeiçoar as instituições do Haiti. Por fim, deve-se reconhecer que, durante a Guerra Fria, Estados Unidos e União Soviética não se enfrentaram em uma guerra direta, o que só foi possível graças à existência de contatos diplomáticos regulares. Assim, embora conflitos continuem existindo, a diplomacia evitou outra guerra de grandes proporções. A atividade diplomática também pode ser entendida como uma antagonista ao instinto de destruição, uma vez que permite o segundo tipo de ligação emocional mencionado por Freud, a identificação. As missões diplomáticas e as conferências internacionais são espaços em que os países podem intensificar o conhecimento recíproco e promover a aproximação. Nos anos 1960, a Conferência das Nações Unidas para o Comércio e Desenvolvimento (UNCTAD) resultou na formação do G77, grupo de países em desenvolvimento que, devido a interesses comuns, pleiteava a reforma da ordem internacional. Muitos desses países eram consideravelmente diferentes, de modo que, na ausência da diplomacia, dificilmente se aproximariam. Outros blocos e agrupamentos também permitiram maior identificação entre nações. A proximidade geográfica foi a base para a formação do MERCOSUL, ao passo que, no âmbito do fórum IBAS, África do Sul, Brasil e Índia se reconhecem como democracias multiétnicas e multiculturais. Mais recentemente, no contexto do conflito na Ucrânia, o presidente ucraniano, Volodimir Zelensky, busca ressaltar a identificação em seus discursos no parlamento de diversos países. Assim, em virtude de produzir laços emocionais entre os povos, a diplomacia possui o papel de construir pontes, prevenindo conflitos armados.A diplomacia tem, demais, a função de promover a aproximação cultural. Como, segundo Freud, “tudo o que promove a evolução cultural também trabalha contra a guerra”, trata-se de outro aspecto que comprova o poder, intrínseco à atividade diplomática, de fomentar a paz. A aproximação cultural, feita por meio de missões diplomáticas ou de feiras no exterior, fortalece o conhecimento mútuo e inibe o desejo de se recorrer à força militar. Essa foi a estratégia utilizada pelos EUA durante a Segunda Guerra Mundial, quando Washington buscava o apoio dos países latino-americanos. A personagem Zé Carioca, por exemplo, aproximou o povo brasileiro ao povo norte-americano. Além disso, é frequente a prática de intercâmbio entre academias diplomáticas, o que gera redução de desconfianças e intensificação das relações bilaterais. Finalmente, deve-se destacar que a diplomacia brasileira confere papel central a questões culturais. As novelas brasileiras são apreciadas em Angola, e as escolas brasileiras de futebol são fatores de aproximação com a Rússia. Portanto, a diplomacia, por possibilitar o intercâmbio cultural, diminui a possibilidade do recurso à violência. O papel da diplomacia é nobre. A atividade diplomática cerceia as tendências agressivas humanas, permite a formação de laços emocionais e promove a aproximação cultural. Em virtude dessas funções, é possível responder afirmativamente à indagação feita por Einstein. A diplomacia é uma forma de livrar a humanidade da ameaça de guerra, embora o esforço seja interminável, como no mito de Sísifo. O fim completo dos conflitos continua a ser uma utopia, como pensava Freud. No entanto, os avanços da atividade diplomática indicam um futuro auspicioso."
+      "após o final",
+      "lograram a aprovação"
     ],
     "feedbacks": [
-      "1A: O texto apresenta boa coerência e legibilidade. O estilo é formal e adequado ao concurso. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. Há uma progressão lógica das ideias. A pontuação é, em geral, correta, embora haja alguns pequenos deslizes (como a falta de espaço após o hífen em "
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado em tópicos lógicos e conclusão coesa.",
+      "Argumentação sólida, com boa articulação entre as ideias de Freud/Einstein e exemplos históricos pertinentes.",
+      "Análise reflexiva demonstra compreensão profunda do tema, conectando teoria e prática diplomática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -272,17 +374,16 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 17.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "após o final da Segunda Guerra Mundial, a diplomacia mostrou- se capaz de conter as tendências agressivas humanas, de produzir laços emocionais entre os países e de promover a aproximação cultural. Dessa forma, em resposta à indagação de Einstein, torna-se evidente que a diplomacia, ao contribuir para estreitar os vínculos entre os povos, pode livrar a humanidade da ameaça da guerra. Freud sustenta que a violência é o “estado original” do ser humano, de modo que seria impossível eliminá- la. Pode-se, contudo, tentar mitigá-la. Com efeito, a diplomacia é o principal instrumento capaz de conter as tendências agressivas humanas. Na Conferência de São Francisco, em 1945, os Estados participantes lograram a aprovação do artigo 2º, § 4º, da Carta das Nações Unidas. Esse dispositivo proibiu o uso da força nas relações internacionais, embora haja exceções, como a legítima defesa. Ademais, a ONU inovou ao promover a criação das operações de paz, as quais se destinam a prevenir e a solucionar conflitos armados. Durante a crise de Suez, por exemplo, a UNEF-I foi essencial para assegurar o cessar fogo. No século XXI, a MINUSTAH, por meio do auxílio de especialistas das mais diversas áreas, contribuiu para aperfeiçoar as instituições do Haiti. Por fim, deve-se reconhecer que, durante a Guerra Fria, Estados Unidos e União Soviética não se enfrentaram em uma guerra direta, o que só foi possível graças à existência de contatos diplomáticos regulares. Assim, embora conflitos continuem existindo, a diplomacia evitou outra guerra de grandes proporções. A atividade diplomática também pode ser entendida como uma antagonista ao instinto de destruição, uma vez que permite o segundo tipo de ligação emocional mencionado por Freud, a identificação. As missões diplomáticas e as conferências internacionais são espaços em que os países podem intensificar o conhecimento recíproco e promover a aproximação. Nos anos 1960, a Conferência das Nações Unidas para o Comércio e Desenvolvimento (UNCTAD) resultou na formação do G77, grupo de países em desenvolvimento que, devido a interesses comuns, pleiteava a reforma da ordem internacional. Muitos desses países eram consideravelmente diferentes, de modo que, na ausência da diplomacia, dificilmente se aproximariam. Outros blocos e agrupamentos também permitiram maior identificação entre nações. A proximidade geográfica foi a base para a formação do MERCOSUL, ao passo que, no âmbito do fórum IBAS, África do Sul, Brasil e Índia se reconhecem como democracias multiétnicas e multiculturais. Mais recentemente, no contexto do conflito na Ucrânia, o presidente ucraniano, Volodimir Zelensky, busca ressaltar a identificação em seus discursos no parlamento de diversos países. Assim, em virtude de produzir laços emocionais entre os povos, a diplomacia possui o papel de construir pontes, prevenindo conflitos armados.A diplomacia tem, demais, a função de promover a aproximação cultural. Como, segundo Freud, “tudo o que promove a evolução cultural também trabalha contra a guerra”, trata-se de outro aspecto que comprova o poder, intrínseco à atividade diplomática, de fomentar a paz. A aproximação cultural, feita por meio das missões diplomáticas ou de feiras no exterior, fortalece o conhecimento mútuo e inibe o desejo de se recorrer à força militar. Essa foi a estratégia utilizada pelos EUA durante a Segunda Guerra Mundial, quando Washington buscava o apoio dos países latino-americanos. A personagem Zé Carioca, por exemplo, aproximou o povo brasileiro ao povo norte-americano. Além disso, é frequente a prática de intercâmbio entre academias diplomáticas, o que gera redução de desconfianças e intensificação das relações bilaterais. Finalmente, deve-se destacar que a diplomacia brasileira confere papel central a questões culturais. As novelas brasileiras são apreciadas em Angola, e as escolas brasileiras de futebol são fatores de aproximação com a Rússia. Portanto, a diplomacia, por possibilitar o intercâmbio cultural, diminui a possibilidade do recurso à violência. O papel da diplomacia é nobre. A atividade diplomática cerceia as tendências agressivas humanas, permite a formação de laços emocionais e promove a aproximação cultural. Em virtude dessas funções, é possível responder afirmativamente à indagação feita por Einstein. A diplomacia é uma forma de livrar a humanidade da ameaça de guerra, embora o esforço seja interminável, como no mito de Sísifo. O fim completo dos conflitos continua a ser uma utopia, como pensava Freud. No entanto, os avanços da atividade diplomática indicam um futuro auspicioso."
+      "após o final",
+      "lograram a aprovação"
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura clara e coesa, com introdução, desenvolvimento e conclusão bem definidos. A progressão temática é lógica, passando da análise dos textos de Freud e Einstein para a aplicação prática da diplomacia em diferentes contextos históricos. O estilo é formal e adequado ao concurso, com vocabulário preciso e frases bem construídas. A legibilidade é alta, facilitando a compreensão das ideias apresentadas.",
-      "O candidato demonstra excelente capacidade de argumentação, sistematizando as ideias de forma objetiva e pertinente. As informações são bem selecionadas e relacionadas aos textos base, com exemplos históricos concretos que reforçam a tese principal. A argumentação é consistente, com transições suaves entre os parágrafos e uma progressão lógica das ideias. O conteúdo é relevante e demonstra domínio do tema, com referências precisas a eventos históricos e conceitos diplomáticos.",
-      "O candidato apresenta uma análise profunda e reflexiva, conectando as ideias de Freud e Einstein com a prática diplomática contemporânea. A reflexão é crítica, reconhecendo as limitações da diplomacia (como a utopia do fim completo dos conflitos) enquanto destaca seus avanços. A capacidade de síntese é evidente, com uma conclusão que sintetiza os argumentos principais e responde diretamente à pergunta do enunciado. A análise é original, indo além da mera descrição dos textos base para propor uma interpretação crítica do papel da diplomacia.",
-      "O texto apresenta três erros gramaticais: 1) 'mostrou- se' (espaço incorreto após o hífen); 2) 'eliminá- la' (espaço incorreto após o hífen); 3) 'tem, demais,' (uso incorreto de vírgula, o correto seria 'tem, ademais,' ou 'tem, além disso,').",
-      "A nota final é calculada somando-se as notas dos subcritérios: 8.5 (1A) + 9.0 (1B) + 17.0 (1C) + 17.0 (CGPL) = 51.5 pontos. A nota máxima possível é 60.0 pontos, portanto, a redação obteve 85.8% da pontuação máxima."
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado em tópicos e conclusão coesa.",
+      "Argumentação sólida, com boa articulação entre teoria e exemplos históricos concretos.",
+      "Análise reflexiva demonstra compreensão profunda do tema e capacidade crítica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -297,15 +398,13 @@
     "nota_1C": 17.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "após o final da Segunda Guerra Mundial, a diplomacia mostrou- se capaz...",
-      "Freud sustenta que a violência é o “estado original” do ser humano, de modo que seria impossível eliminá- la.",
-      "A diplomacia tem, demais, a função..."
+      "após o final",
+      "lograram a aprovação"
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto. Há uma pequena falha de pontuação na primeira frase do segundo parágrafo (espaço após o hífen em 'mostrou- se') e na terceira frase do terceiro parágrafo (espaço após o hífen em 'eliminá- la'). A expressão 'tem, demais,' no quarto parágrafo é um erro de regência/ortografia (deveria ser 'tem, ademais,' ou 'tem, além disso,'), mas não compromete a legibilidade geral. O estilo é coerente e o texto é bem organizado.",
-      "1B: O candidato demonstra boa capacidade de argumentação, sistematizando as ideias de forma lógica. As informações são pertinentes e objetivas, com exemplos históricos bem escolhidos (ONU, Guerra Fria, G77, MERCOSUL, IBAS, Zé Carioca, etc.). A argumentação é consistente e bem fundamentada.",
-      "1C: O candidato apresenta uma análise e reflexão profundas, conectando as ideias de Freud e Einstein com o papel da diplomacia de forma criativa e original. A reflexão sobre a utopia do fim das guerras e o papel da diplomacia como mitigadora de conflitos é bem desenvolvida. O uso de exemplos históricos é pertinente e enriquece a análise.",
-      "CGPL: O texto apresenta três erros gramaticais: 1) 'mostrou- se' (espaço indevido após o hífen); 2) 'eliminá- la' (espaço indevido após o hífen); 3) 'tem, demais,' (erro de regência/ortografia, deveria ser 'tem, ademais,' ou 'tem, além disso,'). Os erros são pontuais e não comprometem a compreensão do texto."
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado em tópicos e conclusão coesa.",
+      "Argumentação sólida, com boa articulação entre teoria e exemplos históricos concretos.",
+      "Análise reflexiva demonstra compreensão profunda do tema e capacidade crítica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -316,12 +415,14 @@
   },
   {
     "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "A diplomacia mostrou- se capaz de conter as tendências agressivas humanas, de produzir laços emocionais entre os países e de promover a aproximação cultural."
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [
-      "A redação apresenta uma estrutura argumentativa sólida, com introdução, desenvolvimento e conclusão bem definidos. O candidato demonstra domínio do tema, articulando as ideias de Freud e Einstein com exemplos históricos relevantes e precisos. A linguagem é formal e adequada ao contexto, com boa coesão e coerência. Há apenas um erro gramatical pontual (espaçamento indevido em 'mostrou- se'), que não compromete a qualidade geral do texto. A argumentação é bem fundamentada, com referências históricas precisas e uma conclusão que sintetiza bem o raciocínio desenvolvido."
+      "A redação apresenta excelente organização estrutural, com introdução clara, desenvolvimento bem articulado e conclusão coesa.",
+      "Há forte integração entre as ideias dos autores citados (Einstein e Freud) e o tema proposto (papel da diplomacia), demonstrando compreensão profunda do material base.",
+      "Os exemplos históricos utilizados (ONU, UNEF-I, MINUSTAH, Guerra Fria, UNCTAD/G77, MERCOSUL, IBAS, Ucrânia, Zé Carioca, etc.) são pertinentes, diversificados e bem contextualizados, enriquecendo substancialmente a argumentação.",
+      "A linguagem é formal, precisa e adequada ao nível exigido pelo CACD, com bom domínio vocabular e sintaxe complexa.",
+      "Apesar da alta qualidade geral, pequenos ajustes estilísticos poderiam elevar ainda mais o texto (ex.: 'mostrou- se' deveria ser 'mostrou-se'; 'tem, demais,' soa ligeiramente coloquial/informal nesse registro)."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -332,12 +433,13 @@
   },
   {
     "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "A diplomacia mostrou- se capaz de conter as tendências agressivas humanas, de produzir laços emocionais entre os países e de promover a aproximação cultural."
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [
-      "A redação apresenta uma estrutura argumentativa sólida, com introdução, desenvolvimento e conclusão bem definidos. O candidato demonstra domínio do tema, articulando as ideias de Freud e Einstein com exemplos históricos relevantes e precisos. A linguagem é formal e adequada ao contexto, com boa coesão e coerência. Há apenas um erro gramatical pontual (espaçamento indevido em 'mostrou- se'), que não compromete a qualidade geral do texto. A argumentação é bem fundamentada, com referências históricas precisas e uma conclusão que sintetiza bem o raciocínio desenvolvido."
+      "A redação apresenta excelente organização estrutural, com introdução clara, desenvolvimento bem articulado e conclusão coesa.",
+      "Há forte integração entre as ideias dos autores citados (Einstein e Freud) e o tema proposto (papel da diplomacia), demonstrando compreensão profunda do material-base.",
+      "Os exemplos históricos utilizados (ONU, UNEF-I, MINUSTAH, Guerra Fria, UNCTAD/G77, MERCOSUL, IBAS, Ucrânia, Zé Carioca, etc.) são pertinentes, diversificados e bem contextualizados, reforçando a argumentação.",
+      "A linguagem é formal, precisa e adequada ao nível exigido pelo CACD, com boa variedade sintática e vocabulário técnico apropriado."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -348,12 +450,12 @@
   },
   {
     "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "A diplomacia mostrou- se capaz de conter as tendências agressivas humanas, de produzir laços emocionais entre os países e de promover a aproximação cultural."
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [
-      "A redação apresenta uma estrutura argumentativa sólida, com introdução, desenvolvimento e conclusão bem definidos. O candidato demonstra domínio do tema, articulando as ideias de Freud e Einstein com exemplos históricos relevantes e precisos. A linguagem é formal e adequada ao contexto, com boa coesão e coerência. Há apenas um erro gramatical pontual (espaçamento indevido em 'mostrou- se'), que não compromete a qualidade geral do texto. A argumentação é bem fundamentada, com referências históricas precisas e uma conclusão que sintetiza bem o raciocínio desenvolvido."
+      "A redação apresenta excelente organização estrutural, com introdução clara, desenvolvimento bem articulado e conclusão coesa.",
+      "Há forte integração entre os conceitos freudianos (laços emocionais, antagonismo ao instinto de destruição, evolução cultural) e exemplos históricos concretos (ONU, UNEF-I, MINUSTAH, UNCTAD/G77, MERCOSUL, IBAS, Zé Carioca, etc.).",
+      "A linguagem é formal, precisa e adequada ao nível exigido pelo CACD, demonstrando domínio vocabular e sintático."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -367,10 +469,11 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. A tese é bem definida e sustentada por exemplos históricos e conceituais relevantes.",
-      "A análise do tema é profunda e demonstra domínio do conteúdo, com referências precisas aos textos de Freud e Einstein, além de exemplos históricos bem escolhidos e contextualizados.",
-      "A linguagem é formal, adequada ao contexto acadêmico e diplomático, com vocabulário rico e preciso. A coesão e a coerência são excelentes, com transições suaves entre os parágrafos e ideias.",
-      "O texto demonstra originalidade na abordagem, conectando conceitos teóricos a exemplos práticos de forma criativa e eficaz. A conclusão é impactante e sintetiza bem os argumentos apresentados."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado e conclusão sintética.",
+      "Uso eficaz e pertinente das citações de Freud e Einstein, integrando-as naturalmente aos argumentos.",
+      "Demonstração de amplo repertório histórico-diplomático (ONU, UNEF-I, MINUSTAH, Guerra Fria, UNCTAD/G77, MERCOSUL, IBAS, Ucrânia, Zé Carioca, etc.).",
+      "Linguagem formal, precisa e adequada ao registro acadêmico/diplomático, com excelente coesão e coerência.",
+      "Argumentação sólida, articulando teoria (conceitos freudianos/einsteinianos) e prática histórica contemporânea."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -384,11 +487,11 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. A tese é bem definida e sustentada por exemplos históricos e conceituais relevantes.",
-      "A análise do tema é profunda e demonstra domínio do conteúdo, com referências precisas aos textos de Freud e Einstein, além de exemplos históricos bem escolhidos (ONU, Guerra Fria, MERCOSUL, IBAS, etc.).",
-      "A linguagem é formal, precisa e adequada ao contexto acadêmico/diplomático, com vocabulário rico e variado. A coesão e a coerência são excelentes, com transições suaves entre os parágrafos e ideias.",
-      "O texto demonstra originalidade na articulação dos conceitos de Freud com a prática diplomática contemporânea, mostrando insight teórico e capacidade de síntese.",
-      "Não foram identificados erros gramaticais, de ortografia ou de pontuação. A norma culta é dominada de forma consistente."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado e conclusão sintética.",
+      "Uso eficaz e pertinente das citações de Freud e Einstein, integrando-as naturalmente aos argumentos.",
+      "Demonstração de amplo repertório histórico-diplomático (ONU, UNEF-I, MINUSTAH, Guerra Fria, UNCTAD/G77, MERCOSUL, IBAS, Ucrânia, Zé Carioca, etc.).",
+      "Linguagem formal, precisa e adequada ao registro acadêmico/diplomático.",
+      "Argumentação coerente, progressiva e reflexiva, atendendo plenamente ao enunciado."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -402,10 +505,11 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, com introdução, desenvolvimento e conclusão claros. A tese é bem definida e sustentada por exemplos históricos e conceituais relevantes.",
-      "A análise do tema é profunda e demonstra domínio do conteúdo, com referências precisas aos textos de Freud e Einstein, além de exemplos históricos bem escolhidos e contextualizados.",
-      "A linguagem é formal, adequada ao contexto acadêmico e diplomático, com vocabulário rico e preciso. A coesão e a coerência são excelentes, com transições suaves entre os parágrafos e ideias.",
-      "O texto demonstra originalidade na abordagem, conectando conceitos teóricos a exemplos práticos de forma criativa e eficaz. A conclusão é impactante e sintetiza bem os argumentos apresentados."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado e conclusão sintética.",
+      "Uso eficaz e pertinente das citações de Freud e Einstein, integrando-as naturalmente aos argumentos.",
+      "Demonstração de amplo repertório histórico-diplomático (ONU, UNEF-I, MINUSTAH, Guerra Fria, UNCTAD/G77, MERCOSUL, IBAS, Ucrânia, Zé Carioca, etc.).",
+      "Argumentação sólida, conectando teoria psicológica/filosófica às práticas concretas da diplomacia contemporânea e histórica.",
+      "Linguagem formal, precisa e adequada ao registro acadêmico/diplomático."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -421,23 +525,13 @@
     "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "concordância verbal",
-      "ortografia",
-      "pontuação",
-      "regência",
-      "concordância nominal",
-      "ortografia",
-      "pontuação",
-      "regência",
-      "concordância verbal",
-      "ortografia",
-      "pontuação",
-      "regência"
+      "ortografia/acentuação",
+      "regência nominal"
     ],
     "feedbacks": [
-      "1A: O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é linear e pouco sofisticada. O estilo é repetitivo, com uso excessivo de conectivos simples e frases curtas. A coerência é mantida, mas a legibilidade é prejudicada pela falta de variação sintática e vocabulário limitado.",
-      "1B: A argumentação é superficial e pouco sistematizada. O candidato faz referência aos textos, mas não os problematiza criticamente. As informações históricas são apresentadas de forma descritiva, sem análise aprofundada. A pertinência é questionável, pois a tese central (diplomacia como promotora do amor) não é sustentada por evidências robustas.",
-      "1C: A reflexão é limitada e não demonstra capacidade de análise crítica. O candidato aceita as premissas dos textos sem questioná-las, e a conclusão é previsível. Não há articulação entre as ideias de Freud e Einstein, nem reflexão sobre os limites da diplomacia. A análise é descritiva e não analítica.",
-      "CGPL: O texto apresenta diversos erros gramaticais, incluindo concordância, ortografia, pontuação e regência. A linguagem é imprecisa e por vezes inadequada ao registro formal exigido pelo concurso. A pontuação é inadequada em vários trechos, prejudicando a clareza."
+      "Texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é linear demais e pouco articulada.",
+      "Argumenta-se de forma superficial, repetindo conceitos ('amor', 'identidade') sem aprofundamento crítico ou contextualização histórica adequada.",
+      "Há tentativa de análise comparando posições teóricas, mas a aplicação aos exemplos históricos é forçada e imprecisa."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -453,23 +547,13 @@
     "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "concordância verbal",
-      "ortografia",
-      "pontuação",
-      "regência",
-      "concordância nominal",
-      "ortografia",
-      "pontuação",
-      "concordância verbal",
-      "ortografia",
-      "pontuação",
-      "concordância nominal",
-      "ortografia"
+      "ortografia/acentuação",
+      "regência nominal"
     ],
     "feedbacks": [
-      "1A: O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é linear e pouco sofisticada. O estilo é repetitivo, com uso excessivo de conectivos simples e frases curtas. A coerência é mantida, mas a legibilidade é prejudicada pela falta de variação sintática e vocabulário limitado.",
-      "1B: A argumentação é superficial e pouco sistematizada. O candidato faz referência aos textos, mas não aprofunda a análise das ideias de Freud e Einstein. As informações históricas são apresentadas de forma descritiva, sem conexão crítica com o tema da diplomacia. A pertinência é questionável, pois a tese central (diplomacia como promotora do amor) não é sustentada por evidências robustas.",
-      "1C: A reflexão é limitada e não demonstra capacidade de análise crítica. O candidato não explora as nuances do texto de Freud (como a tensão entre instinto agressivo e laços emocionais) nem as questões éticas e políticas da diplomacia. A conclusão é previsível e não oferece novas perspectivas.",
-      "CGPL: O texto apresenta diversos erros gramaticais, incluindo concordância, ortografia, pontuação e regência. A linguagem é imprecisa e por vezes inadequada ao registro formal exigido pelo concurso. A propriedade da linguagem é comprometida pela repetição de termos e pela falta de clareza em alguns trechos."
+      "Texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é linear demais e pouco articulada.",
+      "Argumenta-se de forma superficial, repetindo conceitos ('amor', 'identidade') sem aprofundamento crítico ou contextualização histórica adequada.",
+      "Há tentativa de análise comparando posições teóricas, mas a aplicação aos exemplos históricos é forçada e imprecisa."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -485,23 +569,13 @@
     "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "concordância verbal",
-      "ortografia",
-      "pontuação",
-      "regência",
-      "concordância nominal",
-      "ortografia",
-      "pontuação",
-      "concordância verbal",
-      "ortografia",
-      "pontuação",
-      "concordância nominal",
-      "ortografia"
+      "ortografia/acentuação",
+      "regência nominal"
     ],
     "feedbacks": [
-      "1A: O texto apresenta uma estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão das ideias é linear e pouco sofisticada. O estilo é repetitivo, com uso excessivo de conectivos simples (Logo, Portanto, Ademais) e frases curtas. A coerência é mantida, mas a legibilidade e o estilo não atingem o nível exigido para um concurso de alto nível, como a CACD, devido à falta de variação sintática e vocabulário mais preciso.",
-      "1B: A argumentação é superficial e pouco sistematizada. O candidato tenta conectar as ideias de Freud (amor e identidade) com a diplomacia, mas a relação é forçada e não há aprofundamento crítico. As informações históricas (Liga das Nações, Vargas, Letícia, Lula, Macron) são citadas, mas muitas vezes de forma imprecisa ou fora de contexto (ex.: a mediação de Letícia não foi diretamente por Afrânio Franco, e a dissolução da escola diplomática francesa por Macron é uma informação questionável/imprecisa). A pertinência das informações é baixa, pois o foco se desvia para uma defesa dogmática da diplomacia em vez de uma análise crítica do papel dela no contexto das ideias de Freud e Einstein.",
-      "1C: A capacidade de análise e reflexão é limitada. O texto não problematiza as ideias de Freud e Einstein, mas as usa como premissas para uma defesa unilateral da diplomacia. Não há contrapontos, nuances ou reflexão sobre os limites da diplomacia, a natureza do poder e da violência (como abordado por Freud), ou a complexidade das relações internacionais. A reflexão é reducionista, apresentando a diplomacia como solução única e absoluta para a guerra, o que demonstra falta de profundidade analítica.",
-      "CGPL: O texto apresenta diversos erros gramaticais que comprometem a propriedade da linguagem. Há problemas de concordância verbal e nominal, ortografia (ex.: 'conflagrações' escrito corretamente, mas o uso é forçado; 'enaltecimento' é correto, mas o contexto é inadequado), pontuação (uso excessivo de vírgulas e pontos finais em frases curtas, criando um ritmo truncado) e regência (ex.: 'influenciado pelo Positivismo' está correto, mas 'coibindo a valorização' poderia ser melhor estruturado). A repetição de termos e a falta de precisão vocabular também são problemas. A pontuação deve ser ajustada para refletir melhor a complexidade das ideias."
+      "Texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é linear demais e pouco articulada.",
+      "Argumenta-se de forma superficial, repetindo conceitos ('amor', 'identidade') sem aprofundamento crítico ou contextualização histórica adequada.",
+      "Há tentativa de análise, mas as conclusões são simplistas e desconectadas da complexidade proposta pelos autores."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -511,331 +585,427 @@
     "ano": "2022"
   },
   {
-    "nota_final": 35.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "conflitantes"
-    ],
-    "feedbacks": [
-      "A redação apresenta uma estrutura básica, mas o desenvolvimento do tema é superficial e muitas vezes impreciso. A argumentação é fraca e carece de profundidade, com exemplos históricos mal aplicados ou imprecisos. A correção gramatical é aceitável, mas há erros de concordância e regência que prejudicam a clareza do texto. A propriedade da linguagem é inadequada para o nível exigido pelo concurso, com uso excessivo de termos subjetivos e imprecisos. A redação não atende aos critérios de avaliação do concurso, apresentando uma nota final abaixo da média."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2022"
-  },
-  {
-    "nota_final": 35.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "conflitantes",
-      "conflitantes",
-      "conflitantes",
-      "conflitantes",
-      "conflitantes",
-      "conflitantes",
-      "conflitantes",
-      "conflitantes",
-      "conflitantes",
-      "conflitantes",
-      "conflitantes",
-      "conflitantes"
-    ],
-    "feedbacks": [
-      "A redação apresenta uma estrutura básica, mas o desenvolvimento do tema é superficial e pouco aprofundado. A argumentação é fraca e não consegue sustentar a tese de forma convincente.",
-      "Há diversos erros gramaticais, como concordância nominal e verbal, regência e pontuação. A linguagem não é adequada ao contexto formal da redação.",
-      "A redação não consegue articular as ideias de forma coerente e clara. O encadeamento das ideias é confuso e a capacidade de argumentação é limitada.",
-      "A redação não consegue demonstrar uma reflexão crítica sobre o tema. A análise é superficial e não consegue ir além do óbvio.",
-      "A redação não consegue articular as ideias de forma coerente e clara. O encadeamento das ideias é confuso e a capacidade de argumentação é limitada.",
-      "A redação não consegue demonstrar uma reflexão crítica sobre o tema. A análise é superficial e não consegue ir além do óbvio.",
-      "A redação não consegue articular as ideias de forma coerente e clara. O encadeamento das ideias é confuso e a capacidade de argumentação é limitada.",
-      "A redação não consegue demonstrar uma reflexão crítica sobre o tema. A análise é superficial e não consegue ir além do óbvio.",
-      "A redação não consegue articular as ideias de forma coerente e clara. O encadeamento das ideias é confuso e a capacidade de argumentação é limitada.",
-      "A redação não consegue demonstrar uma reflexão crítica sobre o tema. A análise é superficial e não consegue ir além do óbvio.",
-      "A redação não consegue articular as ideias de forma coerente e clara. O encadeamento das ideias é confuso e a capacidade de argumentação é limitada.",
-      "A redação não consegue demonstrar uma reflexão crítica sobre o tema. A análise é superficial e não consegue ir além do óbvio."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2022"
-  },
-  {
-    "nota_final": 38.5,
+    "nota_final": 47.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "A redação apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos. O candidato aborda o tema proposto, relacionando as ideias de Freud e Einstein com o papel da diplomacia. No entanto, há uma interpretação equivocada do texto de Freud, que não sugere que a diplomacia seja a principal razão para a paz, mas sim que o amor e a identidade podem ser usados para desviar as tendências agressivas. Além disso, a redação contém erros de interpretação histórica, como a afirmação de que o Brasil evitou a guerra entre Peru e Colômbia durante o governo de Getúlio Vargas, o que não é correto, pois a controvérsia de Letícia ocorreu em 1932, antes do início do Estado Novo. Outro erro é a afirmação de que Emmanuel Macron dissolveu a instituição responsável pela formação de diplomatas na França, o que não é verdade. Esses erros de interpretação e factualidade comprometem a qualidade da redação."
+      "O texto apresenta estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidas.",
+      "Há boa articulação entre as ideias, utilizando conectores apropriados para estabelecer relações lógicas.",
+      "Os exemplos históricos citados (Liga das Nações, Getúlio Vargas/Positivismo, Letícia, Anápolis/Mercosul) demonstram conhecimento histórico relevante.",
+      "No entanto, a interpretação dos textos-base é problemática. O candidato ignora a complexidade da visão freudiana sobre a natureza humana e a guerra, simplificando-a excessivamente em 'amor' e 'identidade'.",
+      "Freud não propõe simplesmente 'promover o amor', mas discute mecanismos psicológicos profundos (sublimação, identificação, laços libidinais) e reconhece a inevitabilidade parcial da violência/agressão. Reduzir tudo a 'fraternidade' e 'proibição da guerra' é uma simplificação inadequada.",
+      "A tese central ('a diplomacia é a principal razão...') é defendida de forma dogmática, sem nuances críticas importantes para um nível CACD.",
+      "Alguns fatos históricos parecem imprecisos ou mal interpretados (ex.: dissolução da escola de diplomatas francesa por Macron – fato questionável/inexistente; mediação de Letícia envolveu mais pressão militar/diplomática combinada, não apenas 'relações fraternais'; conferência de Anápolis focava em Haiti/Africa, não especificamente em laços árabe-muçulmano/palestina como descrito).",
+      "Apesar dos problemas conceituais e factuais, a escrita é correta, fluida e demonstra vocabulário adequado."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2022"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "esqueceu- se"
-    ],
-    "feedbacks": [
-      "O texto apresenta uma estrutura básica e compreensível, mas a argumentação é superficial e, em alguns momentos, confusa. A relação entre os conceitos de 'amor' e 'identidade pacífica' aplicados à diplomacia é forçada e não dialoga adequadamente com a complexidade do texto-base de Freud e Einstein. A menção ao Positivismo e ao governo Vargas é pertinente historicamente, mas a conexão com a 'promoção do amor' é uma interpretação muito literal e simplista. O exemplo da ONU e do Mercosul é adequado, mas a argumentação sobre a dissolução da instituição de formação de diplomatas na França por Macron é factualmente questionável e enfraquece a credibilidade do texto. A conclusão é repetitiva e não oferece uma reflexão mais profunda sobre o papel da diplomacia além da ideia de 'amor'.",
-      "O texto demonstra domínio razoável da norma culta, mas apresenta alguns deslizes pontuais, como a falta de espaço após o hífen em 'esqueceu- se'. A linguagem é, em geral, adequada, mas pode ser mais precisa e sofisticada. A coesão e a coerência são básicas, com algumas transições pouco naturais entre os parágrafos."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
     "temp": 0.0,
     "versao": 1,
     "essay": 4,
     "ano": "2022"
   },
   {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "esqueceu- se"
-    ],
-    "feedbacks": [
-      "O texto apresenta uma estrutura básica e compreensível, mas a argumentação é superficial e, em alguns momentos, confusa. A relação entre os conceitos de 'amor' e 'identidade pacífica' aplicados à diplomacia é forçada e não dialoga adequadamente com a complexidade do texto-base de Freud e Einstein. A menção ao Positivismo e ao governo Vargas é pertinente historicamente, mas a conexão com a 'promoção do amor' é uma interpretação muito literal e simplista. O exemplo da ONU e do Mercosul é adequado, mas a argumentação sobre a dissolução da instituição de formação de diplomatas na França por Macron é factualmente questionável e enfraquece a credibilidade do texto. A conclusão é repetitiva e não agrega novas reflexões. Há um erro de pontuação ('esqueceu- se') e a linguagem, embora correta em geral, é por vezes repetitiva e pouco sofisticada."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2022"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "esqueceu- se"
-    ],
-    "feedbacks": [
-      "O texto apresenta uma estrutura básica e compreensível, mas a argumentação é superficial e, em alguns momentos, confusa. A relação entre os conceitos de 'amor' e 'identidade pacífica' aplicados à diplomacia é forçada e não dialoga adequadamente com a complexidade do texto-base de Freud e Einstein. A menção ao Positivismo e ao governo Vargas é pertinente, mas a conexão com a 'fraternidade' é simplista. O exemplo da ONU e do Mercosul é adequado, mas a análise é descritiva. O argumento final de que a guerra ocorre pela 'ausência da diplomacia' e não por sua falha é uma simplificação excessiva e não reflete a realidade das relações internacionais. A linguagem é correta em geral, mas há um erro de pontuação ('esqueceu- se') e o estilo é repetitivo em alguns trechos."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2022"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "papeis (deveria ser 'papéis')",
-      "psicólogo (deveria ser 'psicólogo' - erro de gênero: 'Para a psicólogo' deveria ser 'Para o psicólogo')",
-      "diplomáticos (deveria ser 'diplomáticas' - concordância com 'ações')",
-      "medicação (deveria ser 'mediação' - erro de digitação/semântico)"
-    ],
-    "feedbacks": [
-      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A linguagem é formal e adequada ao concurso. A coerência é boa, embora haja uma leve repetição de ideias no final.",
-      "1B: Argumentação sólida, com uso pertinente de Freud e exemplos históricos (Guerra Fria, Questão de Leticia). A sistematização é boa, mas a análise poderia ser mais profunda em alguns pontos.",
-      "1C: Reflexão pertinente, conectando a teoria de Freud com a prática diplomática. A análise é consistente, mas poderia explorar mais as nuances do texto de Freud sobre a natureza humana e a violência.",
-      "CGPL: 4 erros gramaticais identificados. A correção desses erros melhoraria significativamente a qualidade do texto."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "papeis (deveria ser 'papéis')",
-      "psicólogo (deveria ser 'psicólogo' - erro de gênero, o texto diz 'Para a psicólogo')",
-      "diplomáticos (deveria ser 'diplomáticas' - concordância com 'ações')",
-      "medicação (deveria ser 'mediação' - erro de digitação/ortografia que altera o sentido)"
-    ],
-    "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao concurso. Há uma boa coerência entre os parágrafos. A legibilidade é alta. A pontuação é 8.5/10.",
-      "1B: A argumentação é objetiva e sistematizada. O candidato apresenta informações pertinentes e relacionadas ao tema. A pertinência das informações é boa, mas poderia ser mais aprofundada em alguns pontos. A pontuação é 8.0/10.",
-      "1C: A capacidade de análise e reflexão é boa. O candidato consegue relacionar as ideias dos textos com momentos históricos e com o papel da diplomacia. A reflexão é coerente e bem fundamentada. A pontuação é 16.0/20.",
-      "CGPL: O texto apresenta 4 erros gramaticais. A pontuação é 16.0/20."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "papeis (deveria ser 'papéis')",
-      "psicólogo (deveria ser 'psicólogo' - erro de gênero, o texto diz 'Para a psicólogo')",
-      "diplomáticos (deveria ser 'diplomáticas' - concordância com 'ações')",
-      "medicação (deveria ser 'mediação' - erro de digitação/ortografia)"
-    ],
-    "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao concurso. Há uma boa fluidez e coerência entre os parágrafos. A legibilidade é excelente.",
-      "1B: A argumentação é objetiva e sistematizada. O candidato apresenta informações pertinentes e bem contextualizadas, como a Guerra Fria e a Questão de Leticia. A pertinência das informações ao tema é alta.",
-      "1C: A análise e reflexão são sólidas. O candidato consegue articular as ideias de Freud com o papel da diplomacia de forma crítica e reflexiva. A referência a momentos históricos é adequada e enriquece a argumentação.",
-      "CGPL: O texto apresenta quatro erros gramaticais de relevo: 'papeis' (falta de acento), 'a psicólogo' (erro de gênero), 'diplomáticos' (erro de concordância) e 'medicação' (erro de ortografia/semântica). Esses erros, embora não comprometam a compreensão, afetam a pontuação na correção gramatical."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "papeis (deveria ser 'papéis')",
-      "Para a psicólogo (deveria ser 'Para o psicólogo')",
-      "ações diplomáticos (deveria ser 'ações diplomáticas')"
-    ],
-    "feedbacks": [
-      "O texto apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos.",
-      "A argumentação é coerente e bem encadeada, com boa capacidade de reflexão sobre o tema.",
-      "A linguagem é adequada ao contexto, com vocabulário preciso e variado.",
-      "Há três erros gramaticais menores, que não comprometem significativamente a qualidade do texto."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "papeis (deveria ser 'papéis')",
-      "Para a psicólogo (deveria ser 'Para o psicólogo')",
-      "ações diplomáticos (deveria ser 'ações diplomáticas')"
-    ],
-    "feedbacks": [
-      "O texto apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos.",
-      "A argumentação é coerente e bem encadeada, com boa capacidade de reflexão sobre o tema.",
-      "A linguagem é adequada ao contexto, com vocabulário preciso e variado.",
-      "Há três erros gramaticais menores, que não comprometem significativamente a qualidade do texto."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "papeis (deveria ser 'papéis')",
-      "Para a psicólogo (deveria ser 'Para o psicólogo')",
-      "ações diplomáticos (deveria ser 'ações diplomáticas')"
-    ],
-    "feedbacks": [
-      "A redação apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos.",
-      "O candidato demonstra boa capacidade de argumentação, articulando as ideias dos textos de Freud e Einstein com exemplos históricos relevantes (Guerra Fria, Questão de Leticia, diplomacia cultural no Leste Asiático).",
-      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e coeso.",
-      "Houve três erros gramaticais menores: 'papeis' (sem acento), 'Para a psicólogo' (concordância de gênero) e 'ações diplomáticos' (concordância de gênero). Esses erros não comprometem significativamente a compreensão do texto, mas merecem atenção para uma nota máxima."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "papeis (deveria ser 'papéis')",
-      "Para a psicólogo (deveria ser 'Para o psicólogo')",
-      "ações diplomáticos (deveria ser 'ações diplomáticas')"
-    ],
-    "feedbacks": [
-      "O texto apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos.",
-      "A argumentação é pertinente e conecta adequadamente as ideias de Freud ao papel da diplomacia.",
-      "O uso de exemplos históricos (Guerra Fria, Questão de Leticia) é relevante e bem articulado.",
-      "Há alguns erros gramaticais menores (acento, concordância de gênero) que não comprometem a compreensão geral do texto.",
-      "A linguagem é adequada ao contexto, embora possa ser mais sofisticada em alguns trechos."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "papeis (deveria ser 'papéis')",
-      "Para a psicólogo (deveria ser 'Para o psicólogo')",
-      "ações diplomáticos (deveria ser 'ações diplomáticas')"
-    ],
-    "feedbacks": [
-      "O texto apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos.",
-      "A argumentação é pertinente e conecta adequadamente as ideias de Freud ao papel da diplomacia.",
-      "O uso de exemplos históricos (Guerra Fria, Questão de Leticia) é relevante e bem articulado.",
-      "Há alguns erros gramaticais de concordância e acentuação que precisam ser corrigidos.",
-      "A linguagem é adequada ao contexto, mas poderia ser mais sofisticada em alguns trechos.",
-      "A conclusão reforça bem a tese, mas poderia ser mais impactante."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "papeis (deveria ser 'papéis')",
-      "Para a psicólogo (deveria ser 'Para o psicólogo')",
-      "ações diplomáticos (deveria ser 'ações diplomáticas')"
-    ],
-    "feedbacks": [
-      "O texto apresenta uma estrutura clara e coerente, com introdução, desenvolvimento e conclusão bem definidos.",
-      "A argumentação é pertinente e conecta adequadamente as ideias de Freud ao papel da diplomacia.",
-      "O uso de exemplos históricos (Guerra Fria, Questão de Leticia) é relevante e bem articulado.",
-      "Há alguns erros gramaticais de concordância e acentuação que precisam ser corrigidos.",
-      "A linguagem é adequada ao contexto, mas poderia ser mais sofisticada em alguns trechos.",
-      "A conclusão reforça bem a tese, mas poderia ser mais impactante."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_final": 58.5,
+    "nota_final": 47.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "A redação do candidato atende a todos os critérios de avaliação do CACD, demonstrando um domínio excepcional do tema e da língua portuguesa. O texto é coerente, claro e bem encadeado, com uma argumentação sólida e reflexiva sobre o papel da diplomacia. A correção gramatical é impecável, com ortografia, concordância, pontuação e regência adequadas ao contexto. A propriedade da linguagem é excelente, com um vocabulário rico e preciso. A nota final de 58,50 reflete a qualidade excepcional da redação, que se destaca pela capacidade de articular ideias complexas de forma clara e objetiva."
+      "O texto apresenta estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidas.",
+      "Há boa articulação entre as ideias, utilizando conectores apropriados para estabelecer relações lógicas.",
+      "Os exemplos históricos citados (Liga das Nações, Getúlio Vargas/Positivismo, Letícia, Anápolis/Mercosul) demonstram conhecimento histórico relevante, embora alguns sejam interpretados de forma simplificada ou imprecisa (ex.: mediação de Letícia ocorreu sob Washington Luís, não Vargas; a dissolução do Quai d'Orsay por Macron é incorreta factualmente)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidas.",
+      "Há boa articulação entre as ideias, utilizando conectores apropriados para estabelecer relações lógicas.",
+      "Os exemplos históricos citados (Liga das Nações, Getúlio Vargas/Positivismo, Letícia, Anápolis/Mercosul) demonstram conhecimento histórico relevante, embora alguns sejam imprecisos ou mal contextualizados."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Freud, porém, esqueceu- se de mencionar"
+    ],
+    "feedbacks": [
+      "Texto compreensível, mas limitado.",
+      "Aborda o tema de forma superficial, com lacunas de coerência,",
+      "argumentação simplista e alguns erros linguísticos.",
+      "Demonstra esforço, porém sem profundidade."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Freud, porém, esqueceu- se de mencionar"
+    ],
+    "feedbacks": [
+      "Texto compreensível, mas limitado.",
+      "Aborda o tema de forma superficial, com lacunas de coerência,",
+      "argumentação simplista e alguns erros linguísticos.",
+      "Demonstra esforço, porém sem profundidade."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Freud, porém, esqueceu- se de mencionar"
+    ],
+    "feedbacks": [
+      "Texto compreensível, mas limitado.",
+      "Aborda o tema de forma superficial, com lacunas de coerência,",
+      "argumentação simplista e alguns erros linguísticos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de gênero nominal ('para a psicólogo' deveria ser 'para o psicólogo')",
+      "Uso incorreto de termo técnico/terminologia ('medicação' no lugar de 'mediação')",
+      "Concordância adjetiva inadequada ('ações diplomáticos' deveria ser 'ações diplomáticas')",
+      "Possível erro conceitual/factual relacionado aos termos culturais ('Hanfeng' parece ser uma invenção ou confusão com 'Soft Power', pois Hanfu/Hallyu são reais, mas Hanfeng não é um conceito reconhecido neste contexto)"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento dividido em tópicos lógicos e conclusão sintética.",
+      "Argumentação pertinente, conectando adequadamente as citações de Freud às funções da diplomacia.",
+      "Análise histórica sólida (Guerra Fria e Questão de Leticia), embora haja imprecisão factual/conceitual nos exemplos finais.",
+      "Erros gramaticais pontuais, mas que comprometem ligeiramente a correção formal."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Erro de gênero/substantivo: 'para a psicólogo' deveria ser 'para o psicólogo'.",
+      "Erro de plural/adjetivo: 'ações diplomáticos' deveria ser 'ações diplomáticas'.",
+      "Uso inadequado/ortográfico: 'medicação' no lugar de 'mediação'.",
+      "Repetição lexical: uso excessivo de 'diplomacia', 'guerra(s)', 'Freud', etc., embora dentro do aceitável.",
+      "Pequena imprecisão conceitual/histórica: 'Questão de Letícia' refere-se geralmente à disputa limítrofe específica, mas a menção ao Brasil como mediador direto é questionável historicamente (o Brasil atuou mais na mediação indireta ou pressão política, sendo a mediação formal liderada pelos Países Garantidores – Argentina, Chile, EUA e Reino Unido)."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento dividido em tópicos lógicos e conclusão sintética. Coerência interna boa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de gênero nominal ('para a psicólogo' deveria ser 'para o psicólogo')",
+      "Uso incorreto de termo técnico/terminologia ('medicação' no lugar de 'mediação')",
+      "Concordância adjetiva inadequada ('ações diplomáticos' deveria ser 'ações diplomáticas')",
+      "Possível erro conceitual/factual relacionado aos termos culturais ('Hanfeng' parece ser uma invenção ou confusão com 'Soft Power', pois Hanfu/Hallyu são reais, mas Hanfeng não é um conceito reconhecido neste contexto)"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento dividido em tópicos lógicos e conclusão sintética.",
+      "Argumentação pertinente, conectando adequadamente as citações de Freud às funções da diplomacia.",
+      "Análise histórica sólida (Guerra Fria e Questão de Leticia), embora haja imprecisão factual/conceitual nos exemplos culturais finais.",
+      "Erros gramaticais pontuais, mas que comprometem ligeiramente a correção formal."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "papeis -> papéis",
+      "psicólogo -> psicologista",
+      "diplomáticos -> diplomáticas"
+    ],
+    "feedbacks": [
+      "Erro de acentuação gráfica ('papeis' deveria ser 'papéis').",
+      "Uso inadequado de termo técnico/científico ('psicólogo' deveria ser 'psicologista', dado o contexto acadêmico/filosófico)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "erro de gênero nominal ('para a psicólogo' deveria ser 'para o psicólogo')",
+      "uso incorreto de termo técnico/ortográfico ('medicação' no lugar de 'mediação')",
+      "concordância nominal inadequada ('ações diplomáticos' deveria ser 'ações diplomáticas')"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativo-argumentativa, organizando bem as ideias em introdução, desenvolvimento e conclusão.",
+      "Os argumentos conectam adequadamente a teoria de Freud aos exemplos históricos solicitados (Guerra Fria e Questão de Leticía).",
+      "Apresentou alguns equívocos gramaticais pontuais que impactaram negativamente a fluidez e a precisão linguística."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de gênero nominal: 'Para a psicólogo' deveria ser 'Para o psicólogo'.",
+      "Erro de concordância nominal/adjetival: 'ações diplomáticos' deveria ser 'ações diplomáticas'.",
+      "Uso inadequado/erro lexical: 'medicação' no lugar de 'mediação'."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão adequada.",
+      "Os argumentos conectam-se eficazmente aos trechos de Freud e às exigências do enunciado, utilizando exemplos históricos pertinentes (Guerra Fria, Questão de Leticia) e conceitos teóricos corretamente aplicados.",
+      "Apesar da qualidade geral elevada, a presença de alguns erros gramaticais específicos (gênero, concordância adjetiva e vocabulário) impactou negativamente a pontuação máxima esperada para este nível de excelência."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "papeis -> papéis",
+      "psicólogo -> psicologista/teórico (ou ajuste de gênero)",
+      "diplomáticos -> diplomáticas",
+      "medicação -> mediação"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "As ideias estão articuladas de maneira coerente, conectando teoria (Freud) e exemplos históricos concretos (Guerra Fria, Questão de Leticia, diplomacia cultural asiática).",
+      "Apresenta pequenos deslizes gramaticais e de digitação que não comprometem gravemente a compreensão, mas indicam falta de revisão final."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "papeis -> papéis",
+      "psicólogo -> psicologista/teórico (ou ajuste de gênero)",
+      "diplomáticos -> diplomáticas",
+      "medicação -> mediação"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "As ideias estão articuladas de maneira coerente, conectando teoria (Freud) e exemplos históricos concretos (Guerra Fria, Questão de Leticia, diplomacia cultural asiática).",
+      "Apresenta pequenos deslizes gramaticais (acentuação, concordância nominal e erro lexical), mas não comprometem gravemente a compreensão.",
+      "Argumentação pertinente e adequada ao tema proposto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "papeis -> papéis",
+      "psicólogo -> psicologista/teórico (ou ajuste de gênero)",
+      "diplomáticos -> diplomáticas",
+      "medicação -> mediação"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e organizada, dividida em introdução, desenvolvimento e conclusão.",
+      "As ideias estão bem encadeadas e articuladas, demonstrando coerência temática.",
+      "Apresenta bons exemplos históricos (Guerra Fria, Questão de Leticia) aplicados corretamente ao argumento central.",
+      "Demonstra bom conhecimento do tema proposto e consegue articular as citações de Freud com a função da diplomacia.",
+      "Contém pequenos deslizes gramaticais e de digitação que precisam ser corrigidos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância verbal/nominal",
+      "pontuação"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada.",
+      "Argumentação sólida, articulando teoria e história, embora algumas conexões possam ser mais profundas.",
+      "Boa capacidade analítica, integrando conceitos de RI e referências históricas relevantes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância verbal/nominal",
+      "pontuação"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada.",
+      "Argumentação sólida, articulando teoria e história, embora algumas conexões possam ser mais profundas.",
+      "Boa capacidade analítica, integrando conceitos de RI e referências históricas relevantes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância verbal/nominal",
+      "pontuação"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada.",
+      "Argumentação sólida, articulando teoria e história, embora algumas conexões possam ser mais profundas.",
+      "Boa capacidade analítica, integrando conceitos de RI e referências históricas relevantes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "concordância nominal/verbal ('homens' vs 'nações')",
+      "regência verbal/preposicional ('coadunar com' vs 'aderir a')",
+      "ortografia ('constituí-se' vs 'constitui-se')",
+      "pontuação/conjunção ('mas também ao' -> falta vírgula antes)"
+    ],
+    "feedbacks": [
+      "Excelente estrutura dissertativo-argumentativa.",
+      "Uso adequado de conceitos de RI (Realismo/Liberalismo) aplicados ao tema.",
+      "Conexão forte entre os textos-base e a história contemporânea."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "concordância nominal/verbal ('homens' vs 'nações')",
+      "regência verbal/preposicional ('coadunar com' vs 'aderir a')",
+      "ortografia ('constituí-se' vs 'constitui-se')",
+      "pontuação/conjunção ('mas também ao' -> falta vírgula antes)"
+    ],
+    "feedbacks": [
+      "Excelente estrutura dissertativo-argumentativa.",
+      "Uso adequado de conceitos de RI (Realismo/Liberalismo) aplicados ao tema.",
+      "Conexão forte entre os textos-base e a história contemporânea."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "concordância nominal/verbal ('homens' vs 'nações')",
+      "regência verbal/preposicional ('coadunar com' vs 'aderir a')",
+      "ortografia ('constituí-se' vs 'constitui-se')",
+      "pontuação/conjunção ('mas também ao' -> falta vírgula antes)"
+    ],
+    "feedbacks": [
+      "Excelente estrutura dissertativo-argumentativa.",
+      "Uso adequado de conceitos de RI (Realismo/Liberalismo) aplicados ao tema.",
+      "Conexão forte entre os textos-base e a história contemporânea."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -849,11 +1019,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, conectando de forma coerente as ideias de Einstein e Freud com o papel da diplomacia.",
-      "A análise teórica é profunda, integrando adequadamente as perspectivas liberais e realistas das Relações Internacionais para explicar a função da diplomacia na manutenção da paz.",
-      "O uso de exemplos históricos é pertinente e bem fundamentado, como a Liga das Nações, a 'paz cartaginesa' e a 'destruição mútua assegurada', demonstrando domínio do conteúdo.",
-      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático, com excelente domínio da norma culta e da sintaxe.",
-      "O texto demonstra originalidade ao articular as reflexões dos autores com conceitos teóricos e eventos históricos de maneira fluida e convincente."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em argumentos e conclusão sintética.",
+      "Demonstra amplo conhecimento histórico e teórico, articulando adequadamente as citações de Freud e Einstein com conceitos de Relações Internacionais (liberalismo/realismo) e eventos históricos (Primeira Guerra, Liga das Nações, Segunda Guerra, bomba atômica).",
+      "Linguagem formal, precisa e adequada ao registro acadêmico/diplomático, com excelente coesão e coerência."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -867,11 +1035,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, conectando de forma coerente as ideias de Einstein e Freud com o papel da diplomacia.",
-      "A análise teórica é profunda, integrando adequadamente as perspectivas liberais e realistas das Relações Internacionais para explicar a função da diplomacia na manutenção da paz.",
-      "O uso de exemplos históricos é pertinente e bem fundamentado, como a Liga das Nações, a 'paz cartaginesa' e a 'destruição mútua assegurada', demonstrando domínio do conteúdo.",
-      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático, com vocabulário rico e fluidez.",
-      "O texto demonstra originalidade ao articular as reflexões dos autores com conceitos teóricos e eventos históricos de maneira crítica e reflexiva."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em argumentos e conclusão sintética.",
+      "Demonstra excelente domínio conceitual, articulando adequadamente as ideias de Freud e Einstein com teorias de RI (Liberalismo/Realismo) e exemplos históricos precisos (Liga das Nações, Paz Cartaginense, MDA)."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -885,11 +1050,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, conectando de forma coerente as ideias de Einstein e Freud com o papel da diplomacia.",
-      "A análise teórica é profunda, integrando adequadamente as perspectivas liberais e realistas das Relações Internacionais para explicar a função da diplomacia na manutenção da paz.",
-      "O uso de exemplos históricos é pertinente e bem fundamentado, como a Liga das Nações, a 'paz cartaginesa' e a 'destruição mútua assegurada', demonstrando domínio do conteúdo.",
-      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático, com excelente domínio da norma culta e da sintaxe.",
-      "O texto demonstra originalidade ao articular as reflexões dos autores com conceitos teóricos e eventos históricos de maneira fluida e convincente."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em argumentos e conclusão sintética.",
+      "Demonstra amplo conhecimento histórico e teórico, articulando adequadamente as citações de Freud e Einstein com conceitos de Relações Internacionais (liberalismo/realismo) e eventos históricos (Primeira Guerra, Liga das Nações, Segunda Guerra, bomba atômica).",
+      "Linguagem formal, precisa e adequada ao registro acadêmico/diplomático, com excelente coesão e coerência."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,

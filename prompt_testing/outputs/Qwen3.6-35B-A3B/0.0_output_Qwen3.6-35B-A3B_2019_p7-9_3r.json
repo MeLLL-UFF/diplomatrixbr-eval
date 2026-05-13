@@ -1,24 +1,397 @@
 [
   {
-    "nota_1A": 8,
-    "nota_1B": 8,
-    "nota_1C": 14,
+    "nota_1A": 7,
+    "nota_1B": 7,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "O uso de 'faziam' deve ser corrigido para 'faziama', pois o sujeito composto 'litorais do Brasil e da África' exige verbo no plural.",
+      "A frase 'Um implicou...' carece de clareza referencial; deveria especificar 'A colonização europeia implicou...'",
+      "A expressão 'livrou essa região oceânica desse tipo de armamento' soa redundante e pouco precisa; sugere-se 'desnuclearizou esta região'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa. Estilo formal adequado ao contexto acadêmico/diplomático.",
+      "Argumentação sólida, com boa articulação entre história, geopolítica e cultura. Contudo, há momentos em que a conexão direta com a metáfora da 'terceira margem' fica implícita demais, exigindo mais explicitação teórica.",
+      "Boa capacidade analítica, integrando conceitos de Lusotropicalismo, ZOPACAS e paz positiva. Falta, porém, aprofundamento crítico sobre contradições dessa 'terceira margem' (ex.: assimetrias de poder)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 7,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "O uso de 'faziam' deve ser corrigido para 'faziama', pois o sujeito composto 'litorais do Brasil e da África' exige verbo no plural.",
+      "A frase 'Um implicou...' carece de clareza referencial; deveria especificar 'A colonização europeia implicou...'",
+      "A expressão 'livrou essa região oceânica desse tipo de armamento' soa redundante e pouco precisa; sugere-se 'desnuclearizou essa região'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, mas poderia explorar mais profundamente a metáfora de Guimarães Rosa, conectando-a diretamente às dinâmicas contemporâneas do Atlântico Sul.",
+      "Argumentação sólida, porém algumas transições entre parágrafos poderiam ser mais fluidas para fortalecer a coesão.",
+      "Análise abrangente, mas falta uma síntese mais contundente sobre como a 'terceira margem' transcende aspectos históricos e políticos, abordando dimensões simbólicas e identitárias."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 7,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "O uso de 'faziam' deve ser corrigido para 'faziama', pois o sujeito composto 'litorais do Brasil e da África' exige verbo no plural.",
+      "A frase 'Um implicou...' carece de clareza referencial; deveria especificar 'A colonização europeia implicou...'",
+      "A expressão 'livrou essa região oceânica desse tipo de armamento' soa redundante e pouco precisa; sugere-se 'desnuclearizou essa região'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa. Estilo formal adequado ao contexto acadêmico/diplomático.",
+      "Argumentação sólida, com boa articulação entre história, cultura e geopolítica. Contudo, algumas transições poderiam ser mais fluidas, e há leve repetição de ideias na conclusão.",
+      "Boa capacidade analítica, conectando passado e presente, mas falta profundidade crítica na definição conceitual da 'terceira margem'.",
+      "Correção gramatical geralmente adequada, com três desvios menores que afetam ligeiramente a precisão estilística."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente domínio da estrutura dissertativo-argumentativa, articulando perfeitamente as referências literárias solicitadas no enunciado.",
+      "Há riqueza de detalhes históricos, políticos e sociológicos, demonstrando ampla visão de conjunto sobre as relações Brasil-África/Atlântico Sul."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente domínio da estrutura dissertativo-argumentativa, articulando perfeitamente as duas referências literárias/históricas solicitadas no enunciado.",
+      "Há clara compreensão conceitual da 'Terceira Margem' como espaço simbólico de integração histórico-cultural e político-diplomático entre Brasil e África.",
+      "As ideias estão bem organizadas, progressivas e interligadas, demonstrando fluidez textual e coesão adequada."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente domínio da estrutura dissertativo-argumentativa, articulando perfeitamente as metáforas solicitadas.",
+      "Há riqueza de detalhes históricos, políticos e culturais, demonstrando ampla visão geopolítica adequada ao nível de um concursando da carreira diplomática."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando perfeitamente as duas metáforas solicitadas.",
+      "Há domínio claro e preciso da terminologia técnica e conceitual relevante para a área de Relações Internacionais e História.",
+      "As referências bibliográficas e teóricas estão inseridas de maneira orgânica e pertinente ao argumento central."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando perfeitamente as duas metáforas solicitadas.",
+      "Há domínio claro e preciso da terminologia técnica e conceitual relevante para a área de Relações Internacionais e História.",
+      "As referências bibliográficas e teóricas estão inseridas de maneira orgânica e pertinente ao argumento central."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando perfeitamente as duas metáforas solicitadas.",
+      "Há domínio claro e preciso da terminologia técnica e conceitual relevante para a área de Relações Internacionais e História.",
+      "As referências bibliográficas e teóricas estão inseridas de maneira orgânica e pertinente ao argumento central."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso incorreto de hífen em 'terceira-margem'."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura e clareza.",
+      "Houve repetição desnecessária de ideias no último parágrafo.",
+      "Faltou maior profundidade analítica em alguns trechos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso incorreto de hífen em 'terceira-margem'."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura e clareza.",
+      "Os argumentos são pertinentes e bem organizados.",
+      "Houve uma pequena falha na aplicação do conceito de 'terceira margem', focando demais na cooperação bilateral e menos na ideia de espaço autônomo/terceiro polo."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso incorreto de hífen em 'terceira-margem'."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura e clareza.",
+      "Os argumentos são pertinentes e bem organizados.",
+      "Há espaço para maior profundidade analítica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.23,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de digitação/interpolação numérica ('estivesse 7 intensamente')",
+      "Uso incorreto de hífen em 'terceira-margem'",
+      "Erros de grafia/concordância ('intereses', 'podese')"
+    ],
+    "feedbacks": [
+      "Atenção aos detalhes de formatação e revisão final.",
+      "Verifique sempre a ortografia correta das palavras."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.23,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de digitação/interpolação numérica ('estivesse 7 intensamente')",
+      "Uso incorreto de hífen em 'terceira-margem'",
+      "Erros de grafia/concordância ('intereses', 'podese')"
+    ],
+    "feedbacks": [
+      "Atenção aos detalhes de formatação e revisão final.",
+      "Verifique sempre a ortografia correta das palavras."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.23,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de digitação/interpolação numérica ('estivesse 7 intensamente')",
+      "Uso incorreto de hífen em 'terceira-margem'",
+      "Erros de grafia/concordância ('intereses', 'podese')"
+    ],
+    "feedbacks": [
+      "Atenção aos detalhes de formatação e revisão final.",
+      "Verifique sempre a ortografia correta das palavras."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "laços históricos, étnicos e culturais estivesse"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, desenvolvendo o tema proposto de maneira pertinente.",
+      "Há uma tentativa interessante de articular as duas metáforas propostas no enunciado, embora algumas conexões possam parecer forçadas.",
+      "Apresenta domínio razoável da norma padrão, com pequenos deslizes gramaticis."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "laços históricos, étnicos e culturais estivesse"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise pertinente e bem articulada sobre a 'terceira margem' do Atlântico Sul, conectando adequadamente as metáforas propostas.",
+      "Há uma falha grave de concordância verbal ('estiveram' deveria estar no plural)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "laços históricos, étnicos e culturais estivesse"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise pertinente e bem articulada sobre a 'terceira margem' do Atlântico Sul, conectando adequadamente as metáforas propostas.",
+      "Há uma falha grave de concordância verbal ('estiveram' deveria estar no plural)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "O outro transformou o Brasil no país com a segunda maior população negra do mundo. (Falta de clareza/anáfora: 'O outro' refere-se à escravidão, mas a estrutura está ambígua e a frase soa como se a escravidão tivesse transformado o Brasil no país com a segunda maior população negra do mundo, o que é factualmente questionável e gramaticalmente fraco. Melhor: 'A escravidão, por sua vez, contribuiu para que o Brasil se tornasse...')",
-      "A violência da ocupação colonial e da escravização de africanos e indígenas resultou em problemas comuns longevos, como a desigualdade e a onipresença do que Maria Sylvia de Carvalho Franco denominou “ajuste violento”. (Uso inadequado de 'onipresença' e 'ajuste violento' sem explicação clara, mas o erro principal é a concordância/semântica: 'onipresença' é um substantivo abstrato que não combina bem com 'problemas comuns longevos'. Melhor: '...resultou em problemas comuns de longa duração, como a desigualdade e a persistência do que Maria Sylvia de Carvalho Franco denominou “ajuste violento”.')"
+      "Concordância nominal/verbal: 'As diferenças... dificultam' -> correto, mas há ambiguidade leve.",
+      "Pontuação/Vírgula: Uso excessivo de vírgulas antes de orações adverbiais consecutivas."
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao concurso. Há uma boa coerência entre os parágrafos. No entanto, a transição entre alguns parágrafos poderia ser mais fluida, e há uma leve repetição de ideias na conclusão.",
-      "1B: O candidato demonstra boa capacidade de argumentação, utilizando exemplos históricos e contemporâneos para sustentar sua tese. A sistematização das informações é adequada, mas há uma falta de aprofundamento em alguns pontos, como a relação entre a 'terceira margem' e a diplomacia brasileira. A pertinência das informações é boa, mas algumas afirmações carecem de maior precisão.",
-      "1C: O candidato apresenta uma reflexão interessante sobre a 'terceira margem' do Atlântico Sul, conectando aspectos históricos, culturais e políticos. No entanto, a análise poderia ser mais crítica e aprofundada, especialmente no que diz respeito às tensões e desafios contemporâneos na região. A reflexão é pertinente, mas falta uma maior originalidade e profundidade na interpretação da metáfora.",
-      "CGPL: O texto apresenta dois erros gramaticais significativos, relacionados à clareza e à precisão da linguagem. A correção desses erros melhoraria a qualidade geral do texto."
+      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento histórico-político e conclusão propositiva.",
+      "Há domínio conceitual relevante sobre a Política Externa Brasileira e relações luso-africanas.",
+      "A aplicação da metáfora é pertinente, embora haja momentos em que a transição entre argumentos seja abrupta.",
+      "Pequenos ajustes de coesão e precisão terminológica elevariam significativamente a qualidade estilística."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'As diferenças... dificultam' -> correto, mas há ambiguidade leve.",
+      "Pontuação/Vírgula: Uso excessivo de vírgulas antes de orações adverbiais consecutivas."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura e clareza, atendendo parcialmente ao critério de organização.",
+      "Argumentação sólida, porém pode melhorar a profundidade analítica.",
+      "Análise reflexiva adequada, mas falta conexão mais forte com a metáfora proposta."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
     "temp": 0.0,
     "versao": 2,
-    "essay": 1,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'As diferenças... dificultam' -> correto, mas há ambiguidade leve.",
+      "Pontuação/Vírgula: Uso excessivo de vírgulas antes de orações adverbiais consecutivas."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento histórico-político e conclusão propositiva.",
+      "Há domínio conceitual relevante sobre a Política Externa Brasileira e relações luso-africanas.",
+      "A aplicação da metáfora é pertinente, embora haja momentos em que a conexão direta com 'Guimarães Rosa' seja implícita demais.",
+      "Recomenda-se maior clareza na transição entre os blocos de argumentos e revisão fina de pontuação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
     "ano": "2019"
   },
   {
@@ -30,7 +403,7 @@
     "prompt": 8,
     "temp": 0.0,
     "versao": 1,
-    "essay": 1,
+    "essay": 3,
     "ano": "2019"
   },
   {
@@ -42,7 +415,7 @@
     "prompt": 8,
     "temp": 0.0,
     "versao": 2,
-    "essay": 1,
+    "essay": 3,
     "ano": "2019"
   },
   {
@@ -54,7 +427,7 @@
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
-    "essay": 1,
+    "essay": 3,
     "ano": "2019"
   },
   {
@@ -62,13 +435,17 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra domínio avançado do tema, articulando de forma original e profunda as metáforas de Alberto da Costa e Silva e Guimarães Rosa para construir o conceito de uma 'terceira margem' do Atlântico Sul. A argumentação é sólida, passando por dimensões históricas, culturais, políticas e diplomáticas, com referências teóricas e concretas (ZOPACAS, Barry Buzan, Maria Sylvia de Carvalho Franco, PEC-G/PEC-PG) que enriquecem a análise. A estrutura é lógica e coesa, com progressão temática clara e conclusão que sintetiza bem a proposta. A linguagem é madura, precisa e adequada ao contexto acadêmico-diplomático, sem erros gramaticais ou de pontuação. O texto evidencia originalidade, clareza e sofisticação analítica, caracterizando-se como um trabalho de altíssimo nível."
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando perfeitamente as duas metáforas solicitadas.",
+      "Há forte coerência interna e encadeamento lógico das ideias, com progressividade temática clara.",
+      "A argumentação é profunda, contextualizada historicamente e fundamentada em exemplos concretos (Conferência de Berlim, Apartheid, FIBSA, CPLP, ZOPACAS), evidenciando conhecimento específico relevante para a área diplomática.",
+      "A linguagem é formal, precisa e adequada ao registro acadêmico-diplomático, com uso correto de conectivos e terminologia técnica.",
+      "Apresenta visão crítica e reflexiva, indo além da descrição factual para propor interpretações originais sobre a 'terceira margem'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
-    "essay": 1,
+    "essay": 3,
     "ano": "2019"
   },
   {
@@ -76,13 +453,14 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra domínio avançado do tema, articulando de forma original e profunda as metáforas de Alberto da Costa e Silva e Guimarães Rosa para construir o conceito de uma 'terceira margem' do Atlântico Sul. A argumentação é sólida, passando por dimensões históricas, culturais, políticas e diplomáticas, com referências teóricas e concretas (ZOPACAS, Barry Buzan, Maria Sylvia de Carvalho Franco, PEC-G/PEC-PG) que enriquecem a análise. A estrutura é lógica e coesa, com progressão temática clara e conclusão que sintetiza bem a proposta. A linguagem é madura, precisa e adequada ao contexto acadêmico-diplomático, sem deslizes gramaticais ou de pontuação. O texto evidencia reflexão crítica, originalidade e estilo sofisticado, comparável à produção de um especialista na área."
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando perfeitamente as duas metáforas solicitadas.",
+      "Há grande proficiência na correção gramatical e propriedade da linguagem, com uso preciso de terminologia técnica e vocabulário rico."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
     "versao": 2,
-    "essay": 1,
+    "essay": 3,
     "ano": "2019"
   },
   {
@@ -90,643 +468,426 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra domínio temático avançado, articulando com precisão as metáforas propostas no enunciado e construindo uma argumentação sólida e original sobre a 'terceira margem' do Atlântico Sul.",
-      "A estrutura é coerente e bem encadeada, com introdução clara, desenvolvimento que integra dimensões históricas, culturais e geopolíticas, e conclusão que sintetiza a tese de forma impactante.",
-      "A linguagem é madura, precisa e adequada ao contexto diplomático, com uso correto de terminologia técnica (ZOPACAS, Agenda 2063, 'paz positiva', 'securitização') e referências acadêmicas pertinentes (Maria Sylvia de Carvalho Franco, Barry Buzan).",
-      "O texto evidencia reflexão crítica e originalidade ao interpretar a 'terceira margem' como uma construção conjunta de paz e desenvolvimento, superando uma leitura meramente histórica ou cultural.",
-      "Não foram identificados erros gramaticais, de concordância, regência ou pontuação que comprometam a clareza ou a correção do texto."
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando perfeitamente as duas metáforas solicitadas.",
+      "Há forte coerência interna e encadeamento lógico das ideias, com progressividade temática clara.",
+      "A argumentação é profunda, contextualizada historicamente e fundamentada em exemplos concretos (Conferência de Berlim, Apartheid, FIBSA, CPLP, ZOPACAS), evidenciando conhecimento específico relevante para a área diplomática.",
+      "A linguagem é formal, precisa e adequada ao registro acadêmico-diplomático, com uso correto de conectivos e terminologia técnica.",
+      "Apresenta originalidade na interpretação da 'terceira margem' como barreiras históricas/culturais e propõe soluções institucionais consistentes."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
     "versao": 3,
-    "essay": 1,
+    "essay": 3,
     "ano": "2019"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
+    "nota_1A": 7,
+    "nota_1B": 5,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
-      "7 intensamente",
-      "intereses",
-      "podese",
-      "outros juntos"
+      "ortografia",
+      "pontuação",
+      "concordância verbal"
     ],
     "feedbacks": [
-      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A linguagem é adequada ao nível do concurso, embora haja um erro de digitação ('7 intensamente') e algumas repetições. A coerência e a legibilidade são boas, mas o estilo poderia ser mais refinado em alguns trechos.",
-      "1B: A argumentação é objetiva e sistematizada, com informações pertinentes e bem organizadas. O candidato demonstra conhecimento do tema e capacidade de relacionar as metáforas com a realidade histórico-diplomática. No entanto, a argumentação poderia ser mais aprofundada em alguns pontos, como a definição mais clara da 'terceira margem' como conceito político-diplomático.",
-      "1C: A análise e reflexão são sólidas, com boa capacidade de articular as metáforas com a história das relações Brasil-África e com a cooperação internacional. O candidato demonstra pensamento crítico e capacidade de síntese. A reflexão poderia ser mais original em alguns aspectos, mas no geral é coerente e bem fundamentada.",
-      "CGPL: O texto apresenta 4 erros gramaticais: '7 intensamente' (erro de digitação/numeração), 'intereses' (ortografia), 'podese' (falta de hífen) e 'outros juntos' (regência/concordância). A correção desses erros elevaria a nota para 18,00."
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas carece de fluidez e coesão mais refinada.",
+      "As ideias são pertinentes ao tema, porém a organização interna dos parágrafos poderia ser melhor estruturada para fortalecer a argumentação.",
+      "Há capacidade analítica evidente, especialmente nas seções sobre cultura e cooperação técnica, embora falte profundidade teórica maior."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
     "temp": 0.0,
     "versao": 1,
-    "essay": 2,
+    "essay": 4,
     "ano": "2019"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
+    "nota_1A": 7,
+    "nota_1B": 5,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
-      "7 intensamente",
-      "intereses",
-      "podese",
-      "outros juntos"
+      "ortografia",
+      "pontuação",
+      "concordância"
     ],
     "feedbacks": [
-      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A linguagem é adequada ao nível do concurso, embora haja um erro de digitação que compromete levemente a legibilidade. O estilo é formal e coerente com o tema.",
-      "1B: Argumentação sólida e bem sistematizada. O candidato demonstra conhecimento histórico e político relevante, articulando bem as informações. A pertinência é alta, mas a objetividade poderia ser um pouco mais apurada em alguns trechos.",
-      "1C: Reflexão profunda e bem fundamentada. O candidato consegue articular as metáforas com a realidade geopolítica, oferecendo uma análise crítica e original. A capacidade de síntese e a profundidade da reflexão são destacáveis.",
-      "CGPL: O texto apresenta quatro erros gramaticais, incluindo um erro de digitação, um erro de ortografia, um erro de acentuação e um erro de regência/concordância. Esses erros, embora não comprometam gravemente a compreensão, indicam necessidade de revisão mais cuidadosa."
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas carece de fluidez e coesão mais refinada.",
+      "As ideias são pertinentes ao tema, porém a organização lógica poderia ser aprimorada para melhor sustentação argumentativa.",
+      "Há capacidade analítica evidente, especialmente nas seções sobre cultura e cooperação técnica, embora falte profundidade teórica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
     "temp": 0.0,
     "versao": 2,
-    "essay": 2,
+    "essay": 4,
     "ano": "2019"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
+    "nota_1A": 7,
+    "nota_1B": 5,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
-      "7 intensamente",
-      "intereses",
-      "podese",
-      "outros juntos"
+      "ortografia",
+      "pontuação",
+      "concordância verbal"
     ],
     "feedbacks": [
-      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A linguagem é adequada ao nível do concurso, embora haja um erro de digitação que compromete levemente a legibilidade. O estilo é formal e coerente com o tema.",
-      "1B: Argumentação sólida e bem sistematizada. O candidato demonstra conhecimento histórico e político relevante, articulando bem as informações. A pertinência é alta, mas a objetividade poderia ser um pouco mais apurada em alguns trechos.",
-      "1C: Reflexão profunda e bem fundamentada. O candidato consegue articular as metáforas com a realidade geopolítica, oferecendo uma análise crítica e original. A capacidade de síntese e a profundidade da reflexão são destacáveis.",
-      "CGPL: O texto apresenta quatro erros gramaticais, incluindo um erro de digitação, um erro de ortografia, um erro de acentuação e um erro de regência/concordância. Esses erros, embora não comprometam a compreensão geral, indicam necessidade de revisão mais cuidadosa."
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas carece de fluidez e coesão mais refinada.",
+      "As ideias são pertinentes ao tema, porém a organização interna dos parágrafos poderia ser mais sistemática e objetiva.",
+      "Há capacidade analítica evidente nas discussões sobre hibridismo cultural e cooperação internacional, embora falte profundidade teórica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
-    "essay": 2,
+    "essay": 4,
     "ano": "2019"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 57.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "7 intensamente"
+      "Título 'Capoeira' não precisa de inicial maiúscula.",
+      "Uso incorreto de vírgula antes de 'também'.",
+      "Erro de digitação/ortográfico: 'forma parte'."
     ],
     "feedbacks": [
-      "O texto apresenta uma argumentação sólida e bem estruturada, articulando as metáforas propostas com a história das relações Brasil-África. A linguagem é adequada e o vocabulário é preciso. No entanto, há um erro de digitação evidente ('7 intensamente') que compromete levemente a correção gramatical."
+      "Excelente domínio do tema e estrutura lógica impecável.",
+      "Linguagem formal adequada ao nível exigido pelo concurso.",
+      "Pequenos deslizes gramaticais não comprometem significativamente a qualidade geral."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
     "versao": 1,
-    "essay": 2,
+    "essay": 4,
     "ano": "2019"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 57.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "7 intensamente"
+      "Erro de digitação/ortográfico: 'Shael' (deveria ser Sahel)",
+      "Uso inadequado de vírgula antes de 'também': 'Também', 'também,', 'também,'",
+      "Concordância verbal/nominal: 'forma parte' (deveria ser 'faz parte')"
     ],
     "feedbacks": [
-      "O texto apresenta uma argumentação sólida e bem estruturada, articulando as metáforas propostas com a história das relações Brasil-África. A linguagem é adequada e o vocabulário é preciso. No entanto, há um erro de digitação evidente ('7 intensamente') que deve ser corrigido."
+      "Atenção às grafias corretas de nomes próprios e termos técnicos.",
+      "Evite usar vírgula isoladamente antes de advérbios como 'também'.",
+      "Verifique sempre a expressão idiomática correta ('fazer parte')."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
     "versao": 2,
-    "essay": 2,
+    "essay": 4,
     "ano": "2019"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 57.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "7 intensamente"
+      "desterritorializaçao -> desterritorialização",
+      "sulamericano -> sul-americana",
+      "Shael -> Sahel"
     ],
     "feedbacks": [
-      "O texto apresenta uma argumentação sólida e bem estruturada, articulando as metáforas propostas com a história das relações Brasil-África. A linguagem é adequada e o vocabulário é preciso. No entanto, há um erro de digitação evidente ('7 intensamente') que compromete a correção gramatical e a fluidez do texto. Além disso, a frase 'e outros juntos às Nações Unidas' está incompleta ou mal construída, o que prejudica a clareza. A nota final reflete a qualidade geral do texto, mas considera esses deslizes."
+      "Erro de digitação/ortográfico: 'desterritalizaçao' deveria ser 'desterritorialização'.",
+      "Concordância nominal incorreta: 'influencia sul-americana' deveria ser 'influença sul-americana', mas o correto aqui é 'influência sul-americana' (com hífen) - erro menor.",
+      "Uso inadequado de grafia estrangeira/nome próprio: 'Shael' deveria ser 'Sahel'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
-    "essay": 2,
+    "essay": 4,
     "ano": "2019"
   },
   {
-    "faixa": "Bom",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "7 intensamente",
-      "podese",
-      "intereses"
+      "O uso incorreto de 'também' antes de vírgula.",
+      "Uso inadequado de hífen em 'sulamericano'.",
+      "Erro de digitação/ortográfico ('forma' no lugar de 'faz')."
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura lógica clara, com introdução, desenvolvimento e conclusão bem definidos, atendendo ao critério de organização e desenvolvimento do tema.",
-      "A argumentação é coerente e pertinente, articulando as metáforas propostas com a história das relações Brasil-África e a cooperação internacional.",
-      "Há domínio razoável da norma padrão, mas o texto apresenta alguns deslizes gramaticais que impedem a classificação em faixas superiores.",
-      "A linguagem é adequada ao contexto, embora possa ser considerada previsível em alguns trechos, sem uma sofisticação estilística mais avançada."
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente as duas metáforas solicitadas no enunciado.",
+      "Há grande sofisticação conceitual ao utilizar conceitos acadêmicos como 'desterritorialização/reterritorialização', enriquecendo significativamente a análise.",
+      "Os exemplos históricos e geopolíticos (Brasília/Abuja, COPOMER, Pró-Savana) demonstram conhecimento atualizado e relevante para a carreira diplomática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
-    "essay": 2,
+    "essay": 4,
     "ano": "2019"
   },
   {
-    "faixa": "Bom",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "7 intensamente",
-      "podese",
-      "intereses"
+      "O uso incorreto de 'também' antes de vírgula.",
+      "Uso inadequado de hífen em 'sulamericano'.",
+      "Erro de digitação/ortográfico ('forma' no lugar de 'faz')."
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura lógica clara, com introdução, desenvolvimento e conclusão bem definidos, atendendo ao critério de organização e desenvolvimento do tema.",
-      "A argumentação é coerente e pertinente, articulando as metáforas propostas com a história das relações Brasil-África e a cooperação internacional.",
-      "Há domínio razoável da norma padrão, mas o texto apresenta alguns deslizes gramaticais que impedem a classificação em faixas superiores.",
-      "A linguagem é adequada ao contexto, embora possa ser considerada previsível em alguns trechos, sem uma sofisticação estilística mais avançada."
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente as duas metáforas solicitadas no enunciado.",
+      "Há grande sofisticação conceitual ao utilizar conceitos acadêmicos como 'desterritorialização/reterritorialização', enriquecendo significativamente a análise.",
+      "Os exemplos históricos e geopolíticos (Brasília/Abuja, COPES, Cotton-4) demonstram erudição e atualização temática típica de candidatos preparados para carreiras diplomáticas."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
     "versao": 2,
-    "essay": 2,
+    "essay": 4,
     "ano": "2019"
   },
   {
-    "faixa": "Bom",
+    "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "7 intensamente",
-      "podese",
-      "intereses"
+      "O uso incorreto de 'também' antes de vírgula.",
+      "Uso inadequado de hífen em 'sulamericano'.",
+      "Erro de digitação/ortográfico ('forma' no lugar de 'faz')."
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura lógica clara, com introdução, desenvolvimento e conclusão bem definidos, atendendo ao critério de organização e desenvolvimento do tema.",
-      "A argumentação é coerente e pertinente, articulando as metáforas propostas com a história das relações Brasil-África e a cooperação internacional.",
-      "Há domínio razoável da norma culta, mas o texto apresenta alguns deslizes gramaticais que impedem a classificação em faixas superiores.",
-      "A reflexão sobre o tema é pertinente, mas a argumentação, embora sólida, segue um padrão previsível e pouco sofisticado, característico da faixa 'Bom'."
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente as duas metáforas solicitadas no enunciado.",
+      "Há grande proficiência na construção argumentativa, com exemplos concretos e variados (históricos, culturais, geopolíticos) que sustentam a tese central.",
+      "A linguagem é formal, precisa e adequada ao nível exigido pelo concurso, evidenciando maturidade intelectual."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
     "versao": 3,
-    "essay": 2,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 9,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'tornandose' deveria ser 'tornando-se'.",
+      "Ortografia/Acentuação: 'para parafrasear' apresenta repetição desnecessária.",
+      "Pontuação/Fraseologia: 'que, como escreveu Darcy Ribeiro... sem a qual...' estrutura complexa e ligeiramente ambígua, mas aceitável; entretanto, há excesso de orações subordinadas."
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral (1A): Texto bem estruturado, com introdução clara, desenvolvimento articulado e conclusão propositiva. No entanto, o uso excessivo de conectivos ('Com efeito', 'Além disso', 'Nesse sentido') torna algumas transições mecânicas. A escrita é formal e adequada ao nível exigido, embora haja momentos de densidade sintática que comprometem levemente a fluidez.",
+      "Capacidade de Argumentação (1B): Os argumentos são pertinentes e sustentados por referências bibliográficas relevantes (Guimarães Rosa, Joaquim Nabuco, Conceição Evaristo, Darcy Ribeiro). Contudo, a relação direta entre a metáfora da \"terceira margem\" e a proposta política/social fica diluída em digressões históricas. Haveria necessidade de maior foco na síntese conceitual inicial.",
+      "Capacidade de Análise e Reflexão (1C): Excelente capacidade reflexiva, especialmente ao articular a literatura rosaiana com a sociologia histórica brasileira. A abordagem crítica sobre apagamentos históricos e desigualdades contemporâneas demonstra maturidade intelectual. A conexão final com a diplomacia/inclusão internacional é pertinente, mas poderia ter sido melhor amarrada desde o início.",
+      "Correção Gramatical e Propriedade Linguística (CGPL): O vocabulário é sofisticado e variado. Identificaram-se 9 erros gramaticais leves, majoritariamente relacionados a crase, regência e pontuação, além de alguns deslizes de concordância e grafia. Não compromete gravemente a compreensão, mas afeta a precisão técnica esperada para o cargo."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 9,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'tornandose' deveria ser grafado separado ('tornando-se')",
+      "Ortografia/Acentuação: 'para parafrasear' apresenta repetição desnecessária e erro tipográfico",
+      "Pontuação/Fraseologia: 'que é informado pelos dois lados...' - uso inadequado de 'informado', melhor seria 'influenciado'",
+      "Regência/Vocabulário: 'abeirasse' (grafia correta é 'abeire-se' ou 'aproxime-se'; 'abeirasse' parece tentativa de conjugação incorreta)",
+      "Concordância: 'matrizes... informam-se' (sujeito plural, verbo no singular? Não, 'informa-se' está correto, mas a frase anterior 'A construção ... informa-se' está ok. Vou revisar.",
+      "Erro de digitação/repetição: 'para parafrasear'",
+      "Uso inadequado de termo técnico/filosófico fora de contexto preciso?",
+      "Falta de clareza em algumas transições"
+    ],
+    "feedbacks": [
+      "Texto demonstra conhecimento literário e histórico, mas a articulação entre as metáforas é forçada.",
+      "Há citações relevantes, mas a integração delas ao argumento principal é superficial.",
+      "A conclusão tenta ligar política interna a diplomacia, mas falta profundidade analítica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 9,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'tornandose' deveria ser 'tornando-se'.",
+      "Ortografia/Acentuação: 'para parafrasear' apresenta repetição desnecessária.",
+      "Pontuação/Fraseologia: 'que, como escreveu Darcy Ribeiro... sem a qual...' estrutura complexa e ligeiramente ambígua, mas aceitável; entretanto, há excesso de orações subordinadas."
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: Texto bem estruturado, com introdução clara, desenvolvimento articulado e conclusão propositiva. No entanto, algumas frases são excessivamente longas e densas, comprometendo levemente a fluidez. Uso adequado de conectivos, embora haja momentos de redundância ('pátrio', 'Brasil'). Estilo formal e acadêmico, condizente com o nível exigido.",
+      "Argumentacao: Argumentação pertinente ao tema, articulando as metáforas propostas. Contudo, a transição entre a discussão identitária inicial e a crítica social posterior (questões raciais e ambientais) ocorre de forma abrupta, sem ponte conceitual robusta. A referência a Heidegger parece inserida de forma mecânica, sem integração profunda com a tese central.",
+      "Analise e Reflexao: Demonstração sólida de repertório sociocultural (Guimarães Rosa, Nabuco, Evaristo, Bopp, Darcy Ribeiro). A reflexão avança ao propor soluções concretas (legislação, reparação histórica), elevando o nível analítico. Ainda assim, a conexão direta entre a 'terceira margem' como síntese identitária e a necessidade de inclusão política poderia ser mais explorada filosoficamente.",
+      "Correcao Gramatical e Propriedade Linguistica: Presença de alguns vícios de linguagem, repetições ('pátrio'), erro de grafia ('tornandose') e construções sintáticas pouco idiomáticas. O vocabulário é rico, mas por vezes rebuscado demais, gerando artificialismo."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 42.35,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Concordância nominal incorreta: 'matrizes de ameríndios' deveria ser 'matrizes ameríndias'.",
+      "Uso inadequado de preposição/locução: 'de maneira que... apartou' sugere conclusão causal imprecisa; melhor seria 'mas que, paradoxalmente, uniu'.",
+      "Erro de digitação/falta de hífen: 'etnicoraciais' deveria ser 'étnico-racial'.",
+      "Vício de regência/construção: 'tornandose' falta hífen ('tornando-se').",
+      "Repetição desnecessária/vícios estilísticos: uso excessivo de conectivos formais ('Com efeito', 'É forçoso', 'Além disso') gerando artificialismo.",
+      "Erros de pontuação/comma splice: 'no entanto indaga-se...' faltaria vírgula após 'entretanto/no entanto'; 'para parafrasear' repetitivo."
+    ],
+    "feedbacks": [
+      "Tema bem abordado, integrando as referências literárias e históricas solicitadas.",
+      "Argumentação sólida, embora densa e por vezes rebuscada demais.",
+      "Houve alguns deslizes gramaticais menores, mas nada que comprometa gravemente a compreensão.",
+      "Faltou um pouco de fluidez natural, muito focado em mostrar erudição."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 42.35,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'matrizes de ameríndios' -> deveria ser 'de povos ameríndios' ou 'ameríndias'.",
+      "Uso inadequado de preposição/conjunção: 'apartou o povo pátrio de suas raízes' -> 'apartou... de' soa estranho, melhor 'distanciou'",
+      "Regência/preposição: 'contribuição da África para o processo' -> correto.",
+      "Ortografia/Vocabulário: 'coeva' usado incorretamente? Significa contemporânea, talvez quisesse dizer 'hegemônica'?",
+      "Pontuação/Frase longa: 'Há especulações..., porém João Guimarães Rosa...' -> vírgula antes de 'porém' ok, mas frase muito longa.",
+      "Ortografia: 'rendendo' escrito como 'rendendo'? Não, está 'rendendo', mas o original diz 'rendendo'?",
+      "Erro claro: 'para parafrasear' -> repetição desnecessária."
+    ],
+    "feedbacks": [
+      "Tema bem abordado, conectando as metáforas de forma criativa.",
+      "Argumentação sólida, citando autores relevantes.",
+      "Alguns problemas de fluidez e vocabulário preciso podem melhorar.",
+      "Atenção aos detalhes gramaticais e estilísticos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 42.35,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'matrizes de ameríndios' -> deveria ser 'de povos ameríndios' ou 'ameríndias'.",
+      "Uso inadequado de preposição/conjunção: 'apartou o povo pátrio de suas raízes' -> 'apartou... de' soa estranho, melhor 'distanciou' ou 'afastou'.",
+      "Regência/preposição: 'contribuição da África para o processo...' -> correto.",
+      "Ortografia/Vocabulário: 'coeva' usado incorretamente? Significa contemporânea, talvez quisesse dizer 'hegemônica' ou 'dominante'.",
+      "Pontuação/Fraseologia: 'sem desvelar as motivações do ato, que repercute o préconsciente do protagonista.' -> 'repercute' aqui parece fora de lugar, talvez 'expressa' ou 'reflete'.",
+      "Formatação/Espaçamento: 'rendendo apenas meio produtivo' -> 'rendendo'?",
+      "Repetição/Palavra errada: 'para parafrasear'."
+    ],
+    "feedbacks": [
+      "Desenvolva melhor a conexão direta entre a metáfora de Guimarães Rosa e a geopolítica/cultura do Atlântico Sul.",
+      "Evite listas excessivas de autores sem desenvolver profundamente cada citação.",
+      "Revise a concordância e a escolha vocabular para evitar ambiguidades.",
+      "Foque menos em generalidades históricas e mais na análise específica da 'terceira margem' como conceito unificador."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"tornando\" escrito incorretamente como \"tornandose\"",
+      "\"para parafrasear\" contém duplicação"
+    ],
+    "feedbacks": [
+      "Texto muito rico em referências teóricas e literárias.",
+      "Argumentação complexa e articulada.",
+      "Uso correto de citações e conceitos filosóficos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornando-se"
+    ],
+    "feedbacks": [
+      "Texto muito rico em referências teóricas e autores.",
+      "Argumentação complexa e profunda."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornando-se"
+    ],
+    "feedbacks": [
+      "Texto muito rico em referências teóricas e autores.",
+      "Argumentação complexa e profunda."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
     "ano": "2019"
   },
   {
     "nota_1A": 9,
     "nota_1B": 9,
     "nota_1C": 18,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Concordância nominal: 'dessemelhanças políticas, culturais e econômicas, as quais dificultam – embora não impeçam – a cooperação' (o verbo 'impeçam' deveria concordar com 'dessemelhanças', no plural, o que já está correto, mas a estrutura 'dificultam – embora não impeçam' pode ser considerada uma elipse de 'dificultam, embora não impeçam', o que é aceitável. No entanto, há um erro de regência ou concordância mais sutil: 'a exemplo da obra em epígrafe, do embaixador Costa e Silva, ou do “Discurso dos 3Ds”, do embaixador Araújo Castro' - a construção 'a exemplo de' é considerada por alguns gramáticos como redundante, sendo preferível 'como exemplo de' ou apenas 'a exemplo de' sem a vírgula. Mas o erro mais claro é: 'A aproximação entre os países do Atlântico Sul e o Brasil somente se deu, de forma expressiva, a partir de meados da década de 1970, em virtude de impedimentos históricos complexos.' - A frase está correta. Outro possível erro: 'Não houve, por exemplo, protesto enérgico e eficaz contra a “partilha da África”, na Conferência de Berlim.' - Correto. 'A PEI, a retórica a favor da descolonização tornou-se vigorosa, a exemplo da obra em epígrafe, do embaixador Costa e Silva, ou do “Discurso dos 3Ds”, do embaixador Araújo Castro; a contundência das palavras, todavia, não ensejou demonstrações concretas de solidariedade, uma vez que os valiosos vínculos com Portugal desautorizavam engajamento real: lusotropicalismo, em detrimento de africanismo.' - Aqui, 'lusotropicalismo, em detrimento de africanismo' é uma aposição, mas falta um verbo ou uma estrutura mais clara. Poderia ser 'um lusotropicalismo em detrimento de um africanismo'. No entanto, isso é mais uma questão de estilo. O erro mais claro é: 'As diferenças persistentes entre Brasil e África são de múltiplas ordens e dificultam – embora não impeçam – a cooperação no Atlântico Sul.' - O uso de travessões é aceitável. Outro erro: 'A projeção internacional do Brasil não decorre apenas da orientação política do Governo; conformadas pelos princípios do art. 4º da Constituição Federal, as parcerias internacionais do País pressupõem o respeito aos direitos humanos, a valorização da autodeterminação dos povos e o repúdio ao racismo.' - Correto. 'Até 1994, por exemplo, a vigência do apartheid na África do Sul frustrava a intensificação das relações bilaterais e promovia graves tensões, como a imposição de sanções a esse Estado, pelo Brasil.' - Correto. 'As diferenças linguísticas, ademais, podem dificultar a formação de vínculos interpessoais entre os nacionais, exceção feita aos países lusófonos.' - Correto. 'Não obstante, o Itamaraty tem envidado esforços para superar essas discrepâncias e, com base em uma postura cooperativa consistente, tem logrado êxito em fomentar fluxos no “rio chamado Atlântico”.' - Correto. 'As ações brasileiras para a aproximação com a África abrangem iniciativas exitosas no âmbito de comércio internacional, defesa e educação, as quais devem ser estimuladas ainda mais, para melhor integrar o Atlântico Sul.' - Correto. 'O intercâmbio comercial, em anos recentes, ultrapassou os 25 bilhões de dólares, e investimentos brasileiros em países como Angola geram empregos e sofisticam a infraestrutura local.' - Correto. 'Em matéria de combate à miséria, a parceria do Brasil com a África do Sul, no Fórum Índia-Brasil-África do Sul, permite um diálogo eficaz para superar a marginalização social e aprimorar a representatividade democrática.' - Correto. 'Há, ainda, diversas outras iniciativas, todas conducentes a integrar as “margens” físicas do Atlântico, a exemplo da promoção da Língua Portuguesa, por meio da Comunidade de Países de Língua Portuguesa, ou da Zona de Paz e Cooperação do Atlântico Sul, que promove a solução pacífica de controvérsias internacionais.' - Correto. 'A multiplicação de instâncias de contato institucional prefigura relações cada vez mais numerosas entre os agentes privados, o que permitirá elidir, eventualmente, os desafios históricos à parceria no Atlântico Sul.' - Correto. 'A concepção metafórica do Atlântico como “rio” é um recurso retórico útil para demonstrar as possibilidades de interação através desse oceano.' - Correto. 'A sua “terceira margem”, ideia que explicita as limitações imateriais ao contato entre os povos, é uma decorrência histórica, conjugada de desafios presentes.' - Correto. 'A África não deve ser avaliada como pária nas relações internacionais, conforme sugerido por descrições etnocêntricas, como em Coração das Trevas, de Joseph Conrad.' - Correto. 'Representa, ao revés, um conjunto de oportunidades de parcerias para o Brasil, em virtude do histórico comum de colonização e das crescentes complementariedades sociais, econômicas e culturais.' - Correto. 'O Itamaraty deve prosseguir contribuindo no sentido de promover eventos e projetos que interliguem os múltiplos povos envolvidos.' - Correto. 'A orientação presente do Ministério, de esmerar-se para consolidar e aprimorar parcerias internacionais eficazes e coerentes com os princípios basilares da Política Externa Brasileira, é, portanto, consistente com a metáfora do embaixador Alberto da Costa e Silva.' - Correto. Após uma análise mais detalhada, os erros gramaticais são mínimos. O texto é muito bem escrito. Os erros identificados são: 1. 'a exemplo da obra em epígrafe, do embaixador Costa e Silva, ou do “Discurso dos 3Ds”, do embaixador Araújo Castro' - A expressão 'a exemplo de' é considerada por alguns gramáticos como redundante, sendo preferível 'como exemplo de' ou 'como a obra...'. No entanto, isso é uma questão de estilo e não um erro grave. 2. 'lusotropicalismo, em detrimento de africanismo' - Falta um artigo ou um determinante antes de 'africanismo', para paralelismo com 'lusotropicalismo'. Poderia ser 'um lusotropicalismo em detrimento de um africanismo' ou 'o lusotropicalismo em detrimento do africanismo'. Isso é um erro de concordância ou de regência. Portanto, há 2 erros gramaticais. }, "
-    ],
-    "feedbacks": [
-      "1A: O texto é coerente, bem estruturado e de estilo acadêmico adequado ao concurso. A legibilidade é excelente.",
-      "1B: A argumentação é objetiva, sistematizada e pertinente. O candidato demonstra domínio do conteúdo e capacidade de articular as metáforas com a realidade das relações internacionais.",
-      "1C: A análise e reflexão são profundas e bem fundamentadas. O candidato vai além da descrição, oferecendo uma interpretação crítica e original da metáfora, conectando-a a aspectos históricos, políticos e culturais.",
-      "CGPL: O texto apresenta apenas 2 erros gramaticais, que são de pouca gravidade e não comprometem a compreensão. A correção gramatical é excelente."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto demonstra domínio avançado do tema, articulando com precisão as metáforas propostas no enunciado e contextualizando-as historicamente e politicamente.",
-      "A argumentação é sólida, bem estruturada e progressiva, com transições coerentes entre os parágrafos.",
-      "O vocabulário é rico e preciso, com uso adequado de terminologia técnica da área de Relações Internacionais e História.",
-      "A análise crítica é madura, abordando nuances históricas (PEI, apartheid, lusotropicalismo) e contemporâneas (comércio, cooperação Sul-Sul).",
-      "O texto apresenta originalidade na interpretação da 'terceira margem' como barreiras imateriais e históricas, indo além da superfície do tema.",
-      "A linguagem é formal, culta e adequada ao contexto do concurso, sem deslizes gramaticais ou de pontuação.",
-      "A conclusão é forte, sintetizando a argumentação e reafirmando a tese com clareza e convicção."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto demonstra domínio avançado do tema, articulando com precisão as metáforas propostas no enunciado e contextualizando-as historicamente e politicamente.",
-      "A argumentação é sólida, bem estruturada e progressiva, com transições coerentes entre os parágrafos.",
-      "O vocabulário é rico e preciso, com uso adequado de terminologia técnica da área de Relações Internacionais e História.",
-      "A análise histórica é pertinente e bem fundamentada, citando exemplos concretos e relevantes.",
-      "A conclusão é forte, sintetizando a argumentação e reafirmando a tese de forma clara e impactante.",
-      "O texto apresenta poucos ou nenhum deslize gramatical, demonstrando domínio consistente da norma culta.",
-      "A originalidade da reflexão e a profundidade da análise justificam a classificação 'Excelente'."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto demonstra domínio avançado do tema, articulando com precisão as metáforas propostas no enunciado e contextualizando-as historicamente e politicamente.",
-      "A argumentação é sólida, bem estruturada e progressiva, com transições coerentes entre os parágrafos.",
-      "O vocabulário é rico e preciso, com uso adequado de terminologia técnica da área de Relações Internacionais e História.",
-      "A análise histórica é pertinente e bem fundamentada, citando exemplos concretos e relevantes.",
-      "A conclusão é forte, sintetizando a argumentação e reafirmando a tese de forma clara e impactante.",
-      "O texto apresenta poucos ou nenhum deslize gramatical, demonstrando domínio consistente da norma culta.",
-      "A originalidade da reflexão e a profundidade da análise justificam a classificação 'Excelente'."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "Concordância: 'forma parte' (deveria ser 'faz parte' ou 'é parte').",
-      "Ortografia: 'Shael' (deveria ser 'Sahel').",
-      "Pontuação/Regência: 'também, é percebida' (vírgula desnecessária após 'também').",
-      "Pontuação/Regência: 'também, são parte' (vírgula desnecessária após 'também')."
-    ],
-    "feedbacks": [
-      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A linguagem é adequada ao nível do concurso, embora haja alguns deslizes pontuais de pontuação e ortografia que afetam levemente a fluidez e a precisão.",
-      "1B: Argumentação objetiva e sistematizada. O candidato apresenta informações pertinentes e bem escolhidas, organizando-as em tópicos lógicos (influência africana na América do Sul, influência sul-americana na África e vínculos políticos/militares).",
-      "1C: Boa capacidade de análise e reflexão. O candidato consegue articular as metáforas propostas no enunciado com exemplos concretos e conceitos acadêmicos (como desterritorialização e reterritorialização de Milton Santos), demonstrando profundidade e capacidade de síntese."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "Concordância: 'forma parte' (deveria ser 'faz parte' ou 'é parte').",
-      "Ortografia: 'Shael' (deveria ser 'Sahel').",
-      "Pontuação/Regência: 'também, é percebida' (vírgula desnecessária após 'também').",
-      "Pontuação/Regência: 'também, são parte' (vírgula desnecessária após 'também')."
-    ],
-    "feedbacks": [
-      "1A: Texto bem estruturado, com introdução, desenvolvimento e conclusão claras. A escrita é fluida e o estilo é adequado ao concurso. Pequenas falhas de pontuação e um erro de ortografia não comprometem significativamente a legibilidade.",
-      "1B: Argumentação objetiva e sistematizada. O candidato apresenta informações pertinentes e bem selecionadas, organizando-as em tópicos lógicos (influência africana na América do Sul, influência sul-americana na África e vínculos políticos/militares).",
-      "1C: Boa capacidade de análise e reflexão. O candidato consegue articular as metáforas do enunciado com conceitos históricos, geográficos e culturais, demonstrando compreensão do tema e capacidade de síntese. A menção a Milton Santos e a exemplos concretos (Brasília/Abuja, Pró-Savana) enriquecem a reflexão.",
-      "CGPL: O texto apresenta 4 erros gramaticais, sendo 2 de pontuação (vírgulas desnecessárias após 'também'), 1 de ortografia ('Shael') e 1 de concordância/verbal ('forma parte'). A correção desses erros elevaria a nota para 19,00."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "Concordância nominal: 'forma parte' (deveria ser 'faz parte').",
-      "Uso de hífen: 'sul-americana' (antes de 'influência' não há necessidade de hífen, pois 'sul' é um adjetivo e não um prefixo ou sufixo; a norma culta recomenda 'sul-americana' apenas quando se refere a algo que é do sul e de outra coisa, mas aqui é 'influência sul-americana', o que é correto sem hífen. No entanto, o texto usa 'sulamericana' sem hífen em um lugar e 'sul-americana' em outro. A norma é 'sul-americana' com hífen. O erro é a inconsistência e o uso sem hífen em 'influência sulamericana'.",
-      "Uso de vírgula: 'também' deslocado. Em 'A influência dos africanos, também, é percebida...', o 'também' não deve ser isolado por vírgulas quando está antes do verbo. O correto seria 'A influência dos africanos também é percebida...' ou 'A influência dos africanos, também, é percebida...' (esta última é aceitável, mas menos fluida). No entanto, o uso de vírgulas isolando 'também' é considerado erro de pontuação em muitos manuais, pois 'também' é um advérbio de inclusão que não deve ser isolado quando está no início da oração ou antes do verbo. O texto usa 'também' isolado por vírgulas em três ocasiões: 'A influência dos africanos, também, é percebida...', 'A literatura brasileira, também, é apreciada...', 'tem, também, amplo programa...'. Isso é um erro recorrente de pontuação.",
-      "Uso de hífen: 'Shael' (deveria ser 'Sahel', mas isso é um erro de grafia de termo estrangeiro, não necessariamente gramatical. O texto diz 'Shael', o correto é 'Sahel'. Isso pode ser considerado erro de ortografia."
-    ],
-    "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é adequada ao contexto acadêmico/diplomático. Há uma leve repetição de ideias e a fluidez poderia ser melhorada em alguns trechos, mas a coerência e a legibilidade são boas.",
-      "1B: A argumentação é objetiva e sistematizada. O candidato apresenta informações pertinentes e bem selecionadas, como a influência africana na América do Sul, a influência sul-americana na África e os vínculos políticos e econômicos. No entanto, a argumentação poderia ser mais aprofundada em alguns pontos, e há uma leve repetição de exemplos.",
-      "1C: A análise e reflexão são boas, mas poderiam ser mais críticas e aprofundadas. O candidato identifica a 'terceira margem' como uma construção humana de vínculos, o que é pertinente, mas a reflexão poderia explorar mais as contradições e os desafios dessa 'terceira margem', como as assimetrias de poder e as heranças coloniais.",
-      "CGPL: O texto apresenta 4 erros gramaticais, sendo 1 de concordância, 1 de ortografia (Shael) e 2 de pontuação (uso de vírgulas isolando 'também'). A propriedade da linguagem é boa, mas esses erros afetam a nota."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "forma parte dos oficiais do país"
-    ],
-    "feedbacks": [
-      "A redação apresenta excelente domínio do tema, combinando as metáforas de forma criativa e profunda. O desenvolvimento é rico em exemplos históricos, culturais e políticos, demonstrando ampla cultura geral e capacidade de argumentação. A estrutura é coerente e o encadeamento das ideias é fluido. Há apenas um erro gramatical relevante: 'forma parte dos oficiais do país' deveria ser 'faz parte dos oficiais do país' ou 'é parte dos oficiais do país'. A pontuação e a ortografia estão corretas. A linguagem é adequada e formal. A nota reflete a alta qualidade do texto, com uma pequena penalidade pelo erro gramatical."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 58.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "também, é percebida"
+      "Falta de crase antes de 'um só tempo' (deveria ser 'a um só tempo', embora seja aceitável, o uso correto exige crase)",
+      "Erro de concordância nominal/verbal: 'As independências... são marcos' deveria ser 'foi marco'",
+      "Uso incorreto de hífen/travessão: 'Formavamse' deve ser 'Formavam-se'"
     ],
     "feedbacks": [
-      "A redação apresenta uma argumentação sólida e bem estruturada, explorando adequadamente a metáfora proposta. O desenvolvimento do tema é coerente e demonstra conhecimento histórico e cultural relevante. A linguagem é, em geral, adequada e formal, embora haja alguns pequenos deslizes gramaticais que não comprometem significativamente a compreensão do texto."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "A nova capital deveria ajudar a interiorização do povoamento do país."
-    ],
-    "feedbacks": [
-      "A redação apresenta uma argumentação sólida e bem estruturada, explorando adequadamente as metáforas propostas no enunciado. O desenvolvimento do tema é coerente e demonstra conhecimento histórico e cultural relevante. A linguagem é adequada e a correção gramatical é boa, com apenas um erro de regência identificado."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "A nova capital deveria ajudar a interiorização do povoamento do país. (O correto seria 'interiorizar' ou 'a interiorização do povoamento' está um pouco estranho, mas não é erro grave. Na verdade, 'interiorização' é um substantivo, então 'ajudar a interiorização' está gramaticalmente correto, mas estilisticamente poderia ser 'ajudar a interiorizar'. Vou considerar que não é erro grave.)",
-      "formação parte dos oficiais do país. (Erro de digitação: 'forma' deveria ser 'faz'.)"
-    ],
-    "feedbacks": [
-      "O texto demonstra um domínio temático avançado, articulando as metáforas de forma original e profunda. A argumentação é sólida, com exemplos concretos e bem escolhidos (Milton Santos, Brasília/Abuja, cooperação militar e agrícola).",
-      "A estrutura é lógica e coerente, com introdução clara, desenvolvimento bem articulado e conclusão que retoma a tese inicial.",
-      "A linguagem é adequada ao contexto acadêmico/diplomático, com vocabulário rico e preciso.",
-      "Há apenas um erro gramatical evidente ('forma' em vez de 'faz'), o que não compromete a qualidade geral do texto.",
-      "A análise da 'terceira margem' como espaço de hibridismo, troca e cooperação é sofisticada e demonstra insight teórico."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "A nova capital deveria ajudar a interiorização do povoamento do país. (O correto seria 'interiorizar' ou 'a interiorização do povoamento' está um pouco estranho, mas não é erro grave. Na verdade, 'interiorização' é um substantivo, então 'ajudar a interiorização' está gramaticalmente correto, mas estilisticamente poderia ser 'ajudar a interiorizar'. Vou considerar que não é erro grave.)",
-      "formação parte dos oficiais do país. (Erro de digitação: 'forma' deveria ser 'faz'.)"
-    ],
-    "feedbacks": [
-      "O texto demonstra um domínio temático avançado, articulando as metáforas de forma original e profunda. A argumentação é sólida, com exemplos concretos e bem escolhidos (Milton Santos, Brasília/Abuja, cooperação militar, etc.).",
-      "A estrutura é lógica e coerente, com introdução clara, desenvolvimento bem articulado e conclusão que retoma a tese inicial.",
-      "A linguagem é adequada ao contexto acadêmico/diplomático, com vocabulário rico e preciso.",
-      "Há apenas um erro gramatical evidente ('forma' em vez de 'faz'), o que não compromete a qualidade geral do texto.",
-      "A análise da 'terceira margem' como espaço de hibridismo, troca e cooperação é sofisticada e demonstra insight teórico."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "A nova capital deveria ajudar a interiorização do povoamento do país. (O correto seria 'interiorizar' ou 'a interiorização do povoamento' está um pouco estranho, mas não é erro grave. Na verdade, 'interiorização' é um substantivo, então 'ajudar a interiorização' está gramaticalmente correto, mas estilisticamente poderia ser 'ajudar a interiorizar'. Vou considerar que não é erro grave.)",
-      "formação parte dos oficiais do país. (Erro de digitação: 'forma' deveria ser 'faz'.)"
-    ],
-    "feedbacks": [
-      "O texto demonstra um domínio excepcional do tema, articulando as metáforas de forma original e profunda. A argumentação é sólida, bem estruturada e rica em exemplos concretos (influências culturais, planejamento territorial, cooperação militar e agrícola).",
-      "A linguagem é madura, precisa e adequada ao contexto acadêmico/diplomático. O uso de conceitos como 'desterritorialização e reterritorialização' de Milton Santos demonstra profundidade teórica.",
-      "A estrutura do texto é lógica e coerente, com uma introdução clara, desenvolvimento bem articulado e conclusão que retoma a tese inicial de forma satisfatória.",
-      "Há apenas um erro gramatical evidente ('forma parte' em vez de 'faz parte'), o que não compromete a qualidade geral do texto. A redação é exemplar e demonstra um nível de análise e estilo comparável ao de um especialista."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "aberra-se (aberra-se)",
-      "tornandose (tornando-se)",
-      "para parafrasear (redundância)",
-      "parafrasear (ortografia: parafrasear)"
-    ],
-    "feedbacks": [
-      "1A: O texto apresenta boa coerência e estilo, com vocabulário rico e adequado ao nível do concurso. A legibilidade é boa, embora haja alguns deslizes de pontuação e um erro de digitação que afetam ligeiramente a fluidez.",
-      "1B: A argumentação é objetiva e sistematizada, com informações pertinentes e bem distribuídas. O candidato demonstra domínio do conteúdo e capacidade de articular as metáforas do enunciado com questões históricas e sociais relevantes.",
-      "1C: A análise e reflexão são profundas e bem fundamentadas. O candidato vai além da descrição, propondo uma interpretação crítica da 'terceira margem' como um espaço de construção identitária em constante processo, com implicações políticas e sociais atuais.",
-      "CGPL: O texto apresenta quatro erros gramaticais, incluindo um erro de digitação, um erro de acentuação e um erro de ortografia. A pontuação e a regência estão, em geral, corretas."
+      "Texto bem estruturado, com introdução clara, desenvolvimento cronológico e conclusão coesa.",
+      "Argumentação forte, com boa articulação entre as metáforas solicitadas e dados históricos concretos.",
+      "Análise reflexiva profunda, conectando passado, presente e futuro das relações Brasil-África.",
+      "Pequenos desvios gramaticais não comprometem a compreensão."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
     "temp": 0.0,
     "versao": 1,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "1. 'tornandose' (falta de hífen: tornando-se)",
-      "2. 'para parafrasear' (redundância/erro de digitação)",
-      "3. 'consequente' (uso inadequado de 'consequentemente' como conectivo de conclusão, quando o sentido é de consequência ou adição; ou erro de regência/semântica no contexto)"
-    ],
-    "feedbacks": [
-      "1A: O texto é coerente e bem estruturado. O estilo é formal e adequado ao concurso. A legibilidade é boa, embora haja alguns momentos de densidade excessiva.",
-      "1B: A argumentação é objetiva e sistematizada. O conteúdo é pertinente e bem fundamentado. A pertinência das informações é alta.",
-      "1C: A análise e reflexão são profundas e bem articuladas. O candidato demonstra capacidade de síntese e de conexão entre os temas propostos.",
-      "CGPL: O texto apresenta poucos erros gramaticais, o que demonstra boa domínio da norma culta."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "A redação apresenta uma argumentação coerente e bem estruturada, articulando as metáforas dos títulos propostos de forma criativa e reflexiva. O desenvolvimento do tema é profundo, abordando a identidade brasileira a partir das matrizes indígena, africana e europeia, e conectando-as à ideia de uma 'terceira margem' como um espaço de síntese e inacabamento. A linguagem é culta, adequada ao contexto do concurso, e o encadeamento das ideias é fluido, com uso eficaz de conectivos e referências bibliográficas pertinentes. Não foram identificados erros gramaticais, ortográficos ou de pontuação que comprometam a qualidade do texto. A redação atende plenamente aos critérios de avaliação, demonstrando domínio do tema, capacidade de reflexão crítica e propriedade linguística."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "A redação apresenta uma argumentação coerente e bem estruturada, articulando as metáforas dos títulos propostos de forma criativa e reflexiva. O desenvolvimento do tema é profundo, abordando a identidade brasileira a partir das matrizes indígena, africana e europeia, e conectando-as à ideia de uma 'terceira margem' do Atlântico Sul. A linguagem é formal, adequada ao contexto do concurso, e demonstra domínio da norma culta. A coesão e a coerência são evidentes, com transições bem elaboradas entre os parágrafos. A capacidade de argumentação é forte, com referências a autores e conceitos que enriquecem a reflexão. A correção gramatical é excelente, sem erros perceptíveis. A propriedade da linguagem é adequada, com vocabulário rico e preciso. A redação cumpre plenamente o enunciado, explorando as metáforas de forma original e reflexiva. A nota final reflete a alta qualidade do texto, considerando todos os critérios de avaliação."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "A redação apresenta uma argumentação coerente e bem estruturada, articulando as metáforas dos títulos propostos de forma criativa e reflexiva. O desenvolvimento do tema é profundo, abordando a identidade brasileira a partir das matrizes indígena, africana e europeia, e conectando-as à ideia de uma 'terceira margem' como um espaço de síntese e inacabamento. A linguagem é culta, adequada ao contexto acadêmico e diplomático, com bom uso de referências teóricas e literárias. Não foram identificados erros gramaticais, ortográficos ou de pontuação que comprometam a clareza ou a correção do texto. A redação cumpre plenamente os critérios de avaliação, demonstrando domínio do tema, capacidade de argumentação e propriedade linguística."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "tornandose",
-      "para parafrasear"
-    ],
-    "feedbacks": [
-      "O texto apresenta uma argumentação sólida e bem articulada, integrando as metáforas de forma original e profunda.",
-      "A estrutura é coerente, com introdução, desenvolvimento e conclusão bem definidos.",
-      "O domínio da norma culta é consistente, com poucos deslizes.",
-      "A reflexão é madura, com referências teóricas e literárias pertinentes.",
-      "A linguagem é rica e variada, demonstrando sofisticação estilística."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, integrando as metáforas dos títulos de forma original e profunda.",
-      "A análise demonstra domínio temático avançado, conectando a identidade brasileira às matrizes africanas e indígenas com base em referências teóricas e literárias pertinentes.",
-      "A linguagem é madura, com vocabulário rico e preciso, e a coesão entre os parágrafos é fluida, mantendo o foco no tema proposto.",
-      "O texto evidencia reflexão crítica e insight teórico, especialmente ao discutir a 'terceira margem' como um espaço de construção identitária inacabada e inclusiva.",
-      "A argumentação é consistente, com exemplos históricos e literários bem escolhidos, reforçando a tese central de forma convincente."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "tornandose",
-      "para parafrasear"
-    ],
-    "feedbacks": [
-      "O texto apresenta uma argumentação sólida e bem articulada, integrando as metáforas de forma original e profunda. A análise da identidade brasileira como uma 'terceira margem' é desenvolvida com riqueza de referências (Guimarães Rosa, Joaquim Nabuco, Conceição Evaristo, Darcy Ribeiro, Heidegger) e uma estrutura lógica coerente. O domínio da norma culta é avançado, com vocabulário preciso e estilo maduro. A reflexão sobre as contribuições africanas e indígenas, aliada à crítica social e à proposta de inclusão, demonstra maturidade analítica e clareza expositiva. Os erros gramaticais são mínimos e não comprometem a fluidez ou a compreensão do texto."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
+    "essay": 6,
     "ano": "2019"
   },
   {
@@ -735,15 +896,36 @@
     "nota_1C": 18,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "1. 'Formavamse' (falta de hífen: Formavam-se)",
-      "2. 'o reconhecimento ... são marcos' (concordância: deveria ser 'é marco' ou 'os reconhecimentos ... são marcos')",
-      "3. 'atuação brasileiro-africana' (concordância/adjetivação: 'atuação brasileira e africana' ou 'atuação luso-africana' seria mais preciso, mas 'brasileiro-africana' é aceitável como adjetivo composto, porém pode ser considerado erro de regência/concordância dependendo da norma. Vou considerar como erro de concordância/adjetivação ou apenas um erro de pontuação/ortografia menor. Na verdade, 'brasileiro-africana' é um adjetivo composto, então concorda em gênero e número. O erro real é 'o reconhecimento ... são'. Vou listar os erros claros."
+      "Falta de crase antes de 'um só tempo' (deveria ser 'a um só tempo', embora seja aceitável, o uso correto exige crase)",
+      "Erro de concordância nominal/verbal: 'As independências... são marcos' deveria ser 'foi marco'",
+      "Uso incorreto de hífen/travessão: 'Formavamse' deve ser 'Formavam-se'"
     ],
     "feedbacks": [
-      "1A: Texto bem estruturado, com introdução clara, desenvolvimento histórico e conclusão que retoma a tese. Estilo formal e adequado ao concurso. Legibilidade excelente.",
-      "1B: Argumentação sólida, com uso de dados históricos (escravidão, independências, ZOPACAS, CPLP, BRICS) para sustentar a tese. Objetividade e pertinência evidentes.",
-      "1C: Análise profunda, conectando as metáforas de forma criativa e consistente. Reflexão sobre a evolução das relações Brasil-África e sua projeção global é bem fundamentada.",
-      "CGPL: Três erros gramaticais identificados: falta de hífen em 'Formavamse', erro de concordância em 'o reconhecimento ... são marcos', e possível erro de pontuação ou regência em 'atuação brasileiro-africana' (embora este último seja menos grave). A correção desses pontos elevaria a nota."
+      "Texto bem estruturado, com introdução clara, desenvolvimento cronológico e conclusão sintética.",
+      "Argumentação lógica e pertinente, conectando as metáforas aos aspectos históricos e geopolíticos.",
+      "Análise reflexiva profunda, demonstrando conhecimento específico e capacidade crítica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de crase antes de 'um só tempo' (deveria ser 'a um só tempo', embora seja aceitável, o uso correto exige crase)",
+      "Erro de concordância nominal/verbal: 'As independências... são marcos' deveria ser 'foi marco'",
+      "Uso incorreto de hífen/travessão: 'Formavamse' deve ser 'Formavam-se'"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento cronológico e conclusão sintética.",
+      "Argumentação lógica e pertinente, conectando as metáforas aos aspectos históricos e geopolíticos.",
+      "Análise reflexiva profunda, demonstrando conhecimento específico e capacidade crítica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -753,13 +935,17 @@
     "ano": "2019"
   },
   {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 2,
+    "nota_final": 54.3,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Formavamse"
+      "\"rio\" chamado Atlântico – \"(falta fechar aspas)",
+      "\"Formavamse,\" (ausência de hífen)",
+      "\"atuação brasileiro-africana\" (concordância nominal inadequada)"
     ],
     "feedbacks": [
-      "O texto apresenta uma argumentação sólida e bem estruturada, articulando as metáforas dos títulos propostos de forma coerente e original. A análise histórica é precisa e bem fundamentada, demonstrando domínio do tema e capacidade de reflexão crítica. A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário rico e preciso. Há apenas um erro de pontuação/ortografia ('Formavamse' deveria ser 'Formavam-se'), que não compromete a fluidez ou a compreensão do texto. A conclusão é forte e sintetiza bem a proposta central."
+      "Excelente estruturação e desenvolvimento do tema.",
+      "Uso adequado das referências literárias solicitadas.",
+      "Linguagem formal e adequada ao nível exigido."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -769,13 +955,17 @@
     "ano": "2019"
   },
   {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 2,
+    "nota_final": 54.3,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Formavamse"
+      "\"rio\" do Atlântico Sul – foram medidos...",
+      "Formavamse,",
+      "atuação brasileiro-africana..."
     ],
     "feedbacks": [
-      "O texto apresenta uma argumentação sólida e bem estruturada, articulando as metáforas dos títulos propostos de forma coerente e original. A análise histórica é precisa e bem fundamentada, demonstrando domínio do tema e capacidade de reflexão crítica. A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário rico e preciso. Há apenas um erro de pontuação/ortografia ('Formavamse' deveria ser 'Formavam-se'), que não compromete a fluidez do texto. A conclusão é forte e sintetiza bem a proposta central."
+      "Erro de digitação/ortográfico: 'medidos' deveria ser 'mediados'.",
+      "Falta hífen ou espaço: 'Formavamse' deveria ser 'Formavam-se'.",
+      "Concordância nominal/adjetival: 'atuação brasileiro-africana' soa inadequado; o ideal seria 'atuação brasileira-africana'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -785,13 +975,17 @@
     "ano": "2019"
   },
   {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 2,
+    "nota_final": 54.3,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Formavamse"
+      "\"rio\" do Atlântico Sul – foram medidos...\"",
+      "Formavamse,",
+      "atuação brasileiro-africana"
     ],
     "feedbacks": [
-      "O texto apresenta uma argumentação sólida e bem estruturada, articulando as metáforas dos títulos propostos de forma coerente e original. A análise histórica é precisa e bem fundamentada, demonstrando domínio do tema e capacidade de reflexão crítica. A linguagem é adequada ao contexto acadêmico-diplomático, com vocabulário rico e preciso. Há apenas um erro de grafia ('Formavamse' em vez de 'Formavam-se'), que não compromete a compreensão do texto. A redação cumpre plenamente os requisitos do enunciado, oferecendo uma interpretação criativa e bem argumentada da 'terceira margem' do Atlântico Sul."
+      "Erro de digitação/aspas: \"rio\" do Atlántico Sul – foram...",
+      "Falta hífen em 'Formavam-se'.",
+      "'Atuação' deveria ser 'atuacao'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -802,13 +996,15 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Formavamse (deveria ser 'Formavam-se')",
-      "atuação brasileiro-africana (deveria ser 'atuação brasileiro-africana' ou 'atuação do Brasil e da África', mas o uso do hífen está correto, o erro é a concordância implícita ou a falta de clareza, mas na verdade 'atuação brasileiro-africana' é aceitável como adjetivo composto, então talvez não seja erro. Vou revisar: 'atuação brasileiro-africana' está correto. O outro erro é 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos...' -> 'O reconhecimento... são' -> sujeito singular, verbo plural. Erro de concordância. ] } -> Vou ajustar para 1 erro. "
+      "Formavamse -> Formavam-se",
+      "atuação brasileiro-africana -> atuação brasileiro-africana"
     ],
     "feedbacks": [
-      "A redação demonstra domínio excepcional do tema, articulando as metáforas de forma original e profunda. A argumentação é sólida, bem estruturada e ricamente embasada em dados históricos e políticos relevantes. O estilo é maduro, com vocabulário preciso e fluidez notável, evidenciando maturidade analítica e capacidade de síntese. A única observação é um deslize pontual de concordância verbal ('O reconhecimento... são marcos'), que não compromete a qualidade geral do texto. A conclusão é particularmente forte, fechando o raciocínio com elegância e profundidade."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em dados históricos e conclusão impactante.",
+      "Uso excelente das metáforas solicitadas, integrando-as coherentemente ao longo de todo o argumento.",
+      "Linguagem formal, precisa e adequada ao perfil diplomático, com bom uso de conectivos e vocabulário específico."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -819,18 +1015,15 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Formavamse (deveria ser 'Formavam-se')",
-      "atuação brasileiro-africana (deveria ser 'atuação brasileiro-africana' ou 'atuação do Brasil e da África', mas o uso do hífen está correto, o erro é a falta de crase ou artigo, mas a frase está aceitável. Vou considerar que não há erro grave aqui. Na verdade, 'atuação brasileiro-africana' é aceitável. O erro real é 'Formavamse' sem hífen.)"
+      "Formavamse -> Formavam-se",
+      "atuação brasileiro-africana -> atuação brasileiro-africana"
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa sólida e bem articulada, com introdução clara, desenvolvimento histórico e conclusão que retoma a metáfora inicial.",
-      "A análise histórica é precisa e bem contextualizada, demonstrando domínio do tema e capacidade de síntese.",
-      "A linguagem é formal, adequada ao contexto do concurso, com vocabulário rico e preciso.",
-      "Há apenas um erro de grafia: 'Formavamse' deveria ser 'Formavam-se'.",
-      "A argumentação é original e profunda, conectando a metáfora literária com a realidade geopolítica de forma criativa e consistente.",
-      "O texto demonstra maturidade analítica e estilo maduro, característico de uma redação de nível excepcional."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em dados históricos e conclusão impactante.",
+      "Uso excelente das metáforas solicitadas, integrando-as coherentemente à análise geopolítica e histórica.",
+      "Linguagem formal, precisa e adequada ao nível exigido pelo CACD."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -841,13 +1034,17 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Formavamse (deveria ser 'Formavam-se')",
-      "atuação brasileiro-africana (deveria ser 'atuação brasileiro-africana' ou 'atuação do Brasil e da África', mas o uso do hífen está correto, o erro é a concordância implícita ou a falta de clareza, mas na verdade 'atuação brasileiro-africana' é aceitável como adjetivo composto, então talvez não seja erro. Vou revisar: 'atuação brasileiro-africana' está correto. O outro erro é 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos...' -> 'O reconhecimento... são' -> sujeito singular, verbo plural. Erro de concordância. ] } -> Vou ajustar para 1 erro. "
+      "Aspas mal posicionadas/fechadas incorretamente.",
+      "Erro de digitação 'Formavamse'."
     ],
     "feedbacks": [
-      "A redação demonstra domínio excepcional do tema, articulando as metáforas de forma original e profunda. A estrutura é lógica e coerente, com desenvolvimento histórico bem fundamentado e argumentação sólida. A linguagem é madura, com vocabulário rico e preciso, adequado ao contexto diplomático. Há apenas um deslize gramatical pontual (concordância verbal), que não compromete a qualidade geral do texto. A reflexão sobre a 'terceira margem' como inserção global conjunta é perspicaz e bem sustentada por exemplos históricos e contemporâneos. O texto atende a todos os critérios de excelência, com insight teórico e fluidez comparável à de um especialista."
+      "Texto muito sólido, com argumentação clara e progressiva.",
+      "Uso excelente das referências literárias/metáforas solicitadas.",
+      "Domínio histórico preciso e contextualizado corretamente.",
+      "Linguagem formal, adequada e fluida.",
+      "Pequenos detalhes de formatação/pontuação podem ser ajustados."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -858,18 +1055,16 @@
   },
   {
     "nota_1A": 8,
-    "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1B": 7,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "Concordância nominal: 'uma \"terceira margem\"' (artigo indefinido 'uma' não concorda com a ideia de singularidade ou especificidade que o contexto exige, ou melhor, o uso de 'uma' antes de 'terceira margem' pode ser considerado inadequado se a intenção for referir-se ao conceito específico, mas o erro mais claro é a regência/concordância em 'há, simbolicamente, uma dimensão entre a vida e a morte' - não é erro, mas 'uma terceira margem' no parágrafo 2, linha 12: 'construção simbólica de um \"terceira margem\"' -> erro de concordância: 'um' (masculino) com 'terceira margem' (feminino). Deveria ser 'uma'.",
-      "Regência/Concordância: 'Em Uma história do samba, de Lira Neto, por exemplo, revela-se que...' -> Sujeito oculto ou impessoal? 'Revela-se' é impessoal, mas a oração 'Em Uma história...' é adjunto adverbial. O sujeito de 'revela-se' seria a oração subordinada 'que...'. Isso está correto. Mas há um erro de concordância em 'um \"terceira margem\"' já citado. Outro erro: 'O carnaval é o maior exemplo desse fenômeno.' - correto. 'A contínua valorização... também se materializa...' - correto. 'O recente anúncio... terá...' - correto. 'A \"terceira margem\"... deve ser identificada...' - correto. 'Constitui-se, dessa maneira, a \"terceira margem\"...' - correto. 'Trata-se de contínuo esforço...' - correto. 'os brasileiros têm fortalecido... as históricas influências...' - correto. O erro de concordância 'um \"terceira margem\"' é claro. Outro erro: 'Em “A terceira margem do rio”, João Guimarães Rosa revela que há, simbolicamente, uma dimensão entre a vida e a morte.' - 'há uma dimensão entre a vida e a morte' está correto. 'Quando um personagem desse conto decide, metaforicamente, sair do plano da vida, a primeira margem do rio, sem adentrar o plano da morte, a segunda margem, ele aponta para uma nova possibilidade, a terceira margem.' - 'ele aponta' refere-se ao personagem? Ou ao autor? A estrutura está um pouco confusa, mas não é erro gramatical grave. 'Dessa maneira, propõe-se a ir a um novo plano...' - 'propõe-se' pode ser reflexivo ou passivo. Se for o personagem, deveria ser 'propõe-se a ir'. Está correto. 'A “terceira margem” simbólica do Atlântico Sul... existe, no Brasil, nos movimentos culturais...' - correto. 'ações que se coadunam com o reconhecimento dessa herança cultural por Alberto da Costa e Silva, em Um rio chamado Atlântico.' - correto. 'O esforço do Itamaraty para que o Cais do Valongo... fosse reconhecido...' - correto. 'Ao tornar um sítio arqueológico mais conhecido, o Estado contribui...' - correto. 'porquanto revaloriza o legado cultural africano, o rio que aproxima Brasil e África, como propõe Alberto da Costa e Silva, e incentiva o respeito...' - correto. 'A combinação entre reconhecimento da herança cultural africana e seu contínuo desenvolvimento, sintetizada na ideia de “terceira margem” do Atlântico Sul, também se verifica na produção acadêmica brasileira.' - correto. 'O sociólogo Fernando Henrique Cardoso, em Pensadores que inventaram o Brasil, afirma que, desde que Gilberto Freyre escreveu Casa-grande & senzala, houve contínuo aprimoramento das pesquisas acerca da função social do negro no Brasil.' - 'desde que' pode ser condicional ou temporal. Aqui parece temporal. 'houve contínuo aprimoramento' - correto. 'Assim sendo, a academia brasileira tem contribuído para a construção simbólica de um \"terceira margem\" no Atlântico Sul...' - ERRO: 'um \"terceira margem\"'. Deveria ser 'uma'. 'ao valorizar, por exemplo, a influência negra na alimentação e na fala brasileiras.' - 'fala brasileiras' -> 'fala' é singular, 'brasileiras' é plural. Deveria ser 'fala brasileira'. ERRO 2. 'A constituição de uma “terceira margem”, no Atlântico Sul, também se dá de modo espontâneo.' - correto. 'Atualmente, manifestações culturais, nas mais diversas áreas, demonstram a crescente importância dada à herança cultural africana.' - correto. 'Em Uma história do samba, de Lira Neto, por exemplo, revela-se que o samba, um dos principais símbolos da cultura nacional, tem origem nas batucadas africanas trazidas pelos escravizados.' - correto. 'Em termos de produção artística, pode-se pensar em quão representativo da cultura brasileira esse ritmo é.' - correto. 'No Brasil, a “terceira margem” do Atlântico Sul segue fortalecendo-se, a cada ano, em festas nacionais em que o samba é a principal música.' - 'segue fortalecendo-se' está correto. 'O carnaval é o maior exemplo desse fenômeno.' - correto. 'A contínua valorização do legado cultural africano no Brasil, a “terceira margem” do Atlântico Sul, também se materializa em políticas públicas que visam ao estreitamento de laços culturais entre o Brasil e a África.' - correto. 'Por intermédio de sua política externa, o Estado brasileiro tem buscado estabelecer meios para ampliar o contato entre brasileiros e africanos.' - correto. 'O recente anúncio de que o Instituto Guimarães Rosa, um dos futuros vetores de exposição da cultura brasileira no exterior, terá uma sede em Luanda, em Angola, destaca a importância que se tem dado à “terceira margem” do Atlântico Sul, em âmbito estatal.' - correto. 'A “terceira margem”, a possibilidade de manter-se em contato com o passado e de ressignificá-lo no presente, de modo constante, deve ser identificada, metaforicamente, nos esforços públicos e privados do povo brasileiro no sentido de valorizar a influência africana em sua cultura nacional.' - correto. 'Constitui-se, dessa maneira, a “terceira margem” do Atlântico Sul, no sentido que Guimarães Rosa atribui à expressão.' - correto. 'Trata-se de contínuo esforço de reconhecimento, promoção, valorização e desenvolvimento do legado cultural de matriz africana.' - correto. 'Dessa forma, ainda que de modo simbólico, os brasileiros têm fortalecido o “rio chamado Atlântico”, as históricas influências mútuas que existem entre Brasil e África, a que se refere Alberto da Costa e Silva' - Faltou ponto final. ERRO 3. 'as históricas influências' -> 'históricas' está correto. 'a que se refere Alberto da Costa e Silva' -> falta ponto final. Portanto, os erros são: 1. 'um \"terceira margem\"' (concordância nominal). 2. 'fala brasileiras' (concordância nominal). 3. Falta de ponto final no final do texto.], "
+      "Concordância nominal/verbal: 'uma \"terceira margem\"' (artigo indefinido singular + adjetivo substantivado/plural implícito; deveria ser 'um espaço', 'uma dimensão' ou 'a terceira margem').",
+      "Regência/Crase: 'à que se refere' (falta crase antes de pronome relativo antecedendo termo feminino exigindo preposição 'de': 'da qual se refere' ou 'que se refere')."
     ],
     "feedbacks": [
-      "1A: O texto apresenta estrutura clara, com introdução, desenvolvimento e conclusão. A legibilidade é boa, e o estilo é adequado ao gênero dissertativo-argumentativo. No entanto, há pequenas falhas de coesão e pontuação (como a falta de ponto final no final) que impedem a nota máxima.",
-      "1B: A argumentação é objetiva e sistematizada, com informações pertinentes e bem distribuídas. O candidato utiliza exemplos concretos (Cais do Valongo, Fernando Henrique Cardoso, Lira Neto, Instituto Guimarães Rosa) para sustentar a tese. A pertinência das informações é alta, mas a sistematização poderia ser mais rigorosa em alguns trechos, com transições um pouco bruscas.",
-      "1C: A análise e reflexão são profundas e bem fundamentadas. O candidato consegue articular as duas metáforas de forma criativa e original, propondo uma interpretação coerente com o contexto histórico e cultural do Atlântico Sul. A reflexão sobre a valorização da herança africana é bem desenvolvida, com múltiplas dimensões (políticas públicas, produção acadêmica, manifestações culturais espontâneas, política externa).",
-      "CGPL: O texto apresenta três erros gramaticais: 1) 'um \"terceira margem\"' (concordância nominal incorreta); 2) 'fala brasileiras' (concordância nominal incorreta); 3) falta de ponto final no final do texto. Esses erros são pontuais e não comprometem a compreensão geral do texto, mas impedem a nota máxima."
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é fragmentada. As ideias saltam entre exemplos históricos, políticos e artísticos sem conexões lógicas claras.",
+      "Os argumentos são pertinentes ao tema proposto, mas carecem de profundidade analítica. Há repetição excessiva da mesma ideia central ('reconhecimento do legado africano') sem avanço conceitual significativo."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -880,19 +1075,22 @@
   },
   {
     "nota_1A": 8,
-    "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1B": 7,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "Concordância nominal: 'uma “terceira margem”' (artigo indefinido singular com substantivo feminino, mas o adjetivo 'terceira' está no feminino, o que está correto. No entanto, a frase 'construção simbólica de um “terceira margem”' apresenta erro de concordância: 'um' (masculino) com 'terceira' (feminino). Deveria ser 'uma “terceira margem”'.",
-      "Regência/Concordância: 'Em Uma história do samba, de Lira Neto, por exemplo, revela-se que...' O sujeito da oração 'revela-se' é 'que o samba... tem origem...'. A construção está correta, mas a frase anterior 'Atualmente, manifestações culturais, nas mais diversas áreas, demonstram a crescente importância dada à herança cultural africana.' está um pouco truncada. Não há erro grave aqui.",
-      "Pontuação/Clareza: 'Em termos de produção artística, pode-se pensar em quão representativo da cultura brasileira esse ritmo é.' A frase está correta, mas a pontuação poderia ser melhorada para maior fluidez. Não é erro grave."
+      "Concordância nominal/verbal: 'uma \"terceira margem\"' (artigo indefinido singular + adjetivo substantivado/plural implícito; deveria ser 'um espaço', 'uma dimensão' ou 'uma terceira margem').",
+      "Regência/Crase: 'à que se refere' (falta crase antes de pronome relativo antecedendo termo feminino definido, mas aqui o erro é mais sutil: 'que se refere' exige preposição 'a'. Se for 'referir-se a algo', o correto é 'ao qual se refere' ou 'a que se refere'. O uso de 'à que' indica crase indevida ou confusão.",
+      "Ortografia/Vocabulário: 'coadunam' está correto, mas o contexto pode estar forçado. Não é erro grave, mas a frase 'ações que se coadunam com o reconhecimento... por Alberto...' está sintaticamente ambígua/coesa precária.",
+      "Pontuação/Fratura Sintática: 'Atualmente, manifestações culturais, nas mais diversas áreas, revelam-se...' (O original diz 'revela-se', sujeito plural 'manifestações', verbo no singular - Erro de Concordância Verbal).",
+      "Clareza/Sintaxe: 'pode-se pensar em quão representativo... esse ritmo é.' Estrutura aceitável, mas fraca estilisticamente."
     ],
     "feedbacks": [
-      "1A: O texto é coerente e legível. O estilo é adequado, embora haja algumas repetições e frases um pouco longas. A estrutura geral é clara, com introdução, desenvolvimento e conclusão.",
-      "1B: A argumentação é objetiva e sistematizada. O conteúdo é pertinente ao tema, relacionando as metáforas dos títulos propostos. As informações são pertinentes, mas poderiam ser mais aprofundadas em alguns pontos.",
-      "1C: A análise e reflexão são boas, mas poderiam ser mais profundas. O candidato explora bem a ideia de 'terceira margem' como um espaço de reconhecimento e valorização da herança africana, mas a reflexão poderia ser mais crítica e abrangente, considerando outras dimensões do Atlântico Sul.",
-      "CGPL: Há 3 erros gramaticais identificados, sendo o mais grave a concordância nominal em 'um “terceira margem”'. Os outros erros são de pontuação e clareza, mas não comprometem significativamente a compreensão do texto."
+      "Texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é fragmentada. As ideias saltam entre literatura, política cultural, academia e arte sem conexões lógicas robustas.",
+      "Argumentação superficial. Limita-se a listar exemplos (Cais do Valongo, FHC/Gilberto Freyre, Samba/Lira Neto, Instituto Guimarães Rosa) sem aprofundar a relação dialética entre as metáforas propostas pelo enunciado.",
+      "Reflexão pouco crítica. Assume que qualquer valorização cultural africana constitui automaticamente a 'terceira margem', sem problematizar contradições, tensões ou o conceito de 'liminaridade' sugerido por Guimarães Rosa.",
+      "Erros de concordância verbal ('manifestações ... revela-se') e nominal/articulados comprometem a norma culta esperada para nível diplomático.",
+      "Estilo repetitivo. Uso excessivo de frases longas e subordinativas que dificultam a leitura fluida."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -902,14 +1100,99 @@
     "ano": "2019"
   },
   {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'uma \"terceira margem\"' (artigo indefinido singular + adjetivo substantivado/plural implícito; deveria ser 'um espaço', 'uma dimensão' ou 'a terceira margem')",
+      "Regência/Crase: 'à que se refere' (falta crase antes de pronome relativo antecedendo termo feminino definido)",
+      "Pontuação/Frase fragmentada: última frase termina abruptamente sem verbo conjugado ('...que se refere Alberto da Costa e Silva').",
+      "Uso inadequado de vírgula: 'Atualmente, manifestações...' (vírgula após advérbio de tempo deslocado não obrigatória, mas aceitável; contudo, a estrutura subsequente apresenta erro de sujeito oculto/impróprio)",
+      "Repetição excessiva/vícios de estilo: uso recorrente de 'A terceira margem do Atlântico Sul' como sujeito repetitivo, caracterizando parassíntese estilística"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa capacidade de articular referências literárias e historiográficas, embora a interpretação inicial de Guimarães Rosa seja parcialmente equivocada.",
+      "Há desequilíbrio entre introdução teórica e exemplos concretos, com excesso de enumeração de casos isolados.",
+      "A conclusão retoma a tese, mas falha sintaticamente, comprometendo a solidez formal."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal incorreta: 'um \"terceira margem\"' deveria ser 'uma \"terceira margem\"'.",
+      "Estrutura sintática defeituosa/omissão de sujeito: 'Atualmente, manifestações culturais... revelam...' (no original falta verbo) / 'porquanto revaloriza' (concordância verbal ambígula)."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado e articulação clara.",
+      "Uso adequado de referências bibliográficas.",
+      "Pequenos deslizes gramaticais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal incorreta: 'um \"terceira margem\"' deveria ser 'uma \"terceira margem\"'.",
+      "Frase incompleta/sem verbo conjugado no último período."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa-argumentativa, articulando bem as referências literárias aos temas geopolíticos e históricos.",
+      "Houve dois deslizes gramaticais relevantes: erro de gênero ('um terceira') e frase truncada no final.",
+      "As ideias são desenvolvidas de forma coerente, embora algumas transições pudessem ser mais fluidas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal incorreta: 'um \"terceira margem\"' deveria ser 'uma \"terceira margem\"'.",
+      "Frase incompleta/sem verbo conjugado no último período."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa-argumentativa, articulando bem as referências literárias aos temas geopolíticos e históricos.",
+      "Houve dois deslizes gramaticais relevantes: erro de gênero ('um terceira') e frase truncada no final.",
+      "A análise conceitual foi profunda e original."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "erro de concordância nominal: 'um “terceira margem”' (deveria ser 'uma terceira margem')",
-      "erro de regência/estrutura: 'Em Uma história do samba, de Lira Neto, por exemplo, revela-se que...' (sujeito oculto inadequado ou estrutura impessoal mal empregada; o correto seria 'Em Uma história do samba, de Lira Neto, por exemplo, revela-se a origem...' ou 'O livro Uma história do samba, de Lira Neto, revela que...')"
+      "há um erro de concordância nominal ('um \"terceira margem\"' deveria ser 'uma \"terceira margem\"')",
+      "há um erro de sintaxe/estrutura frasal ('porquanto revaloriza... e incentiva...' poderia ser interpretado como ambíguo, embora seja aceitável; contudo, a frase 'Ao tornar um sítio arqueológico mais conhecido, o Estado contribui para a denúncia da escravidão e para o repúdio ao racismo.' apresenta uma leve imprecisão conceitual ao associar diretamente a denominação de patrimônio à 'denúncia', quando o foco é memória/reconhecimento."
     ],
     "feedbacks": [
-      "O texto apresenta uma interpretação original e bem articulada da metáfora, conectando-a de forma coerente ao contexto histórico e cultural do Atlântico Sul, com foco na herança africana. A estrutura é lógica, com introdução clara, desenvolvimento por eixos (políticas públicas, produção acadêmica, manifestações culturais espontâneas e política externa) e conclusão que sintetiza a ideia central. A argumentação é pertinente e demonstra conhecimento do tema, embora algumas passagens possam ser consideradas previsíveis ou pouco aprofundadas em termos de análise crítica mais densa. Há domínio razoável da norma culta, com poucos deslizes gramaticais que não comprometem a compreensão. O estilo é claro e funcional, mas não atinge um nível de sofisticação ou originalidade estilística que caracterizaria as faixas superiores. A combinação das metáforas é bem-sucedida e o texto cumpre adequadamente o enunciado."
+      "O texto demonstra boa organização e desenvolvimento do tema, articulando as duas referências literárias/históricas propostas.",
+      "Há uma tentativa clara de definir a 'terceira margem' como um espaço intermediário de diálogo e valorização cultural.",
+      "Os exemplos utilizados (Cais do Valongo, FHC/Gilberto Freyre, samba/Lyra Neto, Instituto Guimarães Rosa) são pertinentes e enriquecem a argumentação.",
+      "Apresenta pequenos deslizes gramaticais e de precisão conceitual que impedem a classificação em níveis superiores.",
+      "A conclusão reforça adequadamente a tese central."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -922,11 +1205,15 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "erro de concordância nominal: 'um “terceira margem”' (deveria ser 'uma terceira margem')",
-      "erro de regência/estrutura: 'Em Uma história do samba, de Lira Neto, por exemplo, revela-se que...' (sujeito oculto inadequado ou estrutura impessoal mal empregada; o correto seria 'Em Uma história do samba, de Lira Neto, por exemplo, revela-se a origem...' ou 'O livro Uma história do samba, de Lira Neto, revela que...')"
+      "há um erro de concordância nominal ('um \"terceira margem\"' deveria ser 'uma \"terceira margem\"')",
+      "há um erro de sintaxe/estrutura frasal ('porquanto revaloriza... e incentiva...' poderia ser interpretado como ambíguo, embora seja aceitável; contudo, a frase 'Ao tornar um sítio arqueológico mais conhecido, o Estado contribui para a denúncia da escravidão e para o repúdio ao racismo.' apresenta uma leve imprecisão conceitual ao associar diretamente a denominação de patrimônio à 'denúncia', quando o foco é memória/reconhecimento."
     ],
     "feedbacks": [
-      "O texto apresenta uma interpretação original e bem articulada da metáfora, conectando-a de forma coerente ao contexto histórico e cultural do Atlântico Sul, com foco na herança africana. A estrutura é lógica, com introdução clara, desenvolvimento por eixos (políticas públicas, produção acadêmica, manifestações culturais espontâneas e política externa) e conclusão que sintetiza a ideia central. A argumentação é pertinente e demonstra conhecimento do tema, embora algumas passagens possam ser consideradas previsíveis ou pouco aprofundadas em termos de análise crítica mais densa. Há domínio razoável da norma culta, com poucos deslizes gramaticais que não comprometem a compreensão. O estilo é claro e funcional, mas não atinge um nível de sofisticação ou originalidade estilística que caracterizaria as faixas superiores. A combinação das metáforas é bem resolvida, e o texto cumpre o enunciado com pertinência e coerência."
+      "O texto demonstra boa organização e desenvolvimento do tema, articulando as duas referências literárias/históricas propostas.",
+      "Há uma tentativa clara de definir a 'terceira margem' como um espaço intermediário de diálogo e valorização cultural.",
+      "Os exemplos utilizados (Cais do Valongo, FHC/Gilberto Freyre, samba/Lyra Neto, Instituto Guimarães Rosa) são pertinentes e enriquecem a argumentação.",
+      "Apresenta pequenos deslizes gramaticais e de precisão conceitual que impedem a classificação em níveis superiores.",
+      "A conclusão reforça adequadamente a tese central."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -939,11 +1226,13 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "erro de concordância nominal: 'um “terceira margem”' (deveria ser 'uma terceira margem')",
-      "erro de regência/estrutura: 'Em Uma história do samba, de Lira Neto, por exemplo, revela-se que...' (sujeito oculto inadequado ou estrutura impessoal mal empregada; o correto seria 'Em Uma história do samba, de Lira Neto, por exemplo, revela-se a origem...' ou 'O livro Uma história do samba, de Lira Neto, revela que...')"
+      "há um erro de concordância nominal/verbal: 'uma \"terceira margem\"' deveria ser 'um \"terceiro espaço/marginal\"', pois 'margem' é feminino, então deveria ser 'uma terceira margem'. Mas o correto aqui é verificar o gênero. 'Margem' é feminino. Então 'uma terceira margem' está correto. Vou reler.\n\nReleitura:\n- 'uma \"terceira margem\" do Atlântico Sul': Correto.\n- 'ao valorizar... a influência': Correto.\n- 'pode-se pensar em quão representativo': 'Representativo' concorda com 'ritmo'? Não, 'quão representativo' qualifica 'isso' ou 'esse fato'. Está aceitável.\n- 'O sociólogo Fernando Henrique Cardoso... afirma que... houve contínuo aprimoramento': Correto.\n- 'Em Uma história do samba... revela-se que...': Erro de sujeito? 'Em...' é adjunto adverbial. Sujeito de 'revela-se' é oracional ('que o samba...'). Correto.\n- 'tem origem': Correto.\n- 'pode-se pensar em quão representativo da cultura brasileira esse ritmo é.': Correto.\n- 'As histórias do samba': Título correto?\n- 'Lira Neto': Autor correto.\n- 'Carnaval': Maiúscula? Geralmente minúsculo, salvo início de frase. Aqui está no meio. Pode ser considerado erro menor ou variação. Vou considerar erro leve.\n- 'Instituto Guimarães Rosa': Nome próprio. Correto.\n- 'Luanda': Correto.\n- 'históricas influências mútuas': Concordância correta.\n\nErros reais identificados anteriormente podem ter sido falsos positivos devido à leitura rápida. Vamos focar nos claros:\n1. 'Ao tornar um sítio arqueológico mais conhecido, o Estado contribui para a denúncia da escravidão e para o repúdio ao racismo.' -> Bem construída.\n2. 'Assim sendo, a academia brasileira tem contribuído para a construção simbólica de um \"terceira margem\" no Atlântico Sul:'\n   - 'construção simbólica de um \"terceira margem\":'\n   - 'Terceira margem' é feminino. Deveria ser 'de uma \"terceira margem\"'.\n   - Este é um erro claro de concordância nominal/gênero.\n3. 'No Brasil, a \"terceira margem\" do Atlântico Sul segue fortalecendo-se, a cada ano, em festas nacionais em que o samba é a principal música.'\n   - 'Segue fortalecendo-se': Uso correto de 'seguir' + gerúndio.\n4. 'Por intermédio de sua política externa, o Estado brasileiro tem buscado estabelecer meios para ampliar o contato entre brasileiros e africanos.'\n   - Bem escrita.\n5. 'Trata-se de contínuo esforço de reconhecimento, promoção, valorização e desenvolvimento do legado cultural de matriz africana.'\n   - Faltou artigo antes de 'contínuo'? 'De um contínuo esforço' ou 'Do contínuo esforço'. É comum omitir artigos abstratos, mas soa ligeiramente truncado. Não é grave.\n6. 'constituíram-se': Não aparece no texto final revisado mentalmente. O texto diz 'Constitui-se'.\n7. 'As histórias do samba': O texto cita 'Em Uma história do samba'. Se for plural, estaria errado. Mas assumindo singular conforme citado.\n8. 'carnaval': Minúscula. Aceitável.\n9. 'instituto guimarães rosa': Minúsculas. Errado. Deve ser maiúsculas. O texto tem 'Instituto Guimarães Rosa'. OK.\n10. 'luanda': Minúscula. Errado. O texto tem 'Luanda'. OK.\n\nParece que só encontrei um erro grave de concordância ('um terceira') e talvez algumas questões de pontuação ou estilo menores. O texto é muito sólido."
     ],
     "feedbacks": [
-      "O texto apresenta uma interpretação coerente e bem articulada da metáfora proposta, conectando-a de forma pertinente ao contexto histórico e cultural do Atlântico Sul, com foco na herança africana. A estrutura é lógica, com introdução clara, desenvolvimento por eixos (políticas públicas, produção acadêmica, manifestações culturais espontâneas e política externa) e conclusão que sintetiza a argumentação. A linguagem é adequada ao contexto, com vocabulário preciso e boa coesão. No entanto, há dois deslizes gramaticais pontuais (concordância nominal e estrutura de oração impessoal) que, embora não comprometam a compreensão, impedem a classificação em faixas superiores. A argumentação é sólida, mas não atinge o nível de originalidade ou profundidade teórica esperada para as faixas 'Excelente' ou 'Excepcional', mantendo-se em um patamar de análise competente e bem fundamentada."
+      "- **Análise Temática:** Excelente interpretação metafórica. Conecta perfeitamente a obra de Guimarães Rosa (dimensão intermediária/simbólica) com a proposta de Alberto da Costa e Silva (Atlântico Sul como elo), aplicando-a à valorização da herança africana no Brasil. A tese é clara e bem defendida.",
+      "- **Estrutura e Coerência:** Organização impecável. Introdução contextualiza as obras; desenvolvimento apresenta argumentos diversificados (políticas públicas, academia, cultura popular); conclusão retoma a síntese inicial. Transições suaves e lógicas.",
+      "- **Argumentação:** Riqueza de exemplos concretos (Cais do Valongo, Gilberto Freyre, samba, Instituto Guimarães Rosa/Luanda). Demonstração de conhecimento atualizado e relevante para a carreira diplomática.",
+      "- **Norma Culta:** Domínio elevado. Apenas um erro de concordância nominal identificado ('um \"terceira margem"
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,

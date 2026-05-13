@@ -128,7 +128,8 @@ def main(n_iteracoes, temps, anos, lista_prompts, nome_completo_modelo, lista_re
                   output_type=formato_resposta,
                   max_new_tokens=2048,
                   do_sample=sample,
-                  temperature=i
+                  temperature=i,
+                  repetition_penalty=1.2
                 )
 
             except Exception as e:

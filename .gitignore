@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 .env
 essay_dump/
+.venv/

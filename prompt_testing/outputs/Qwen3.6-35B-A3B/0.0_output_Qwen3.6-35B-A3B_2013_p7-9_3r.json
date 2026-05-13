@@ -1,18 +1,17 @@
 [
   {
     "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Concordância nominal: 'diferenças culturais existentes entre os países' (sugere-se 'existentes entre os países' ou 'existentes entre as nações', mas o mais grave é a regência/semântica de 'diferenças culturais existentes entre os países' que soa redundante ou imprecisa, mas o erro mais claro é 'responsáveis para que' -> 'responsáveis por que' ou 'responsáveis para que' é aceitável, mas 'responsáveis por' é mais comum. Vou considerar 'responsáveis para que' como erro de regência nominal. Outro: 'deterioração dos termos de troca' -> 'deterioração dos termos de troca' está correto. 'subsídios de seus produtos' -> 'subsídios a seus produtos'.",
-      "Regência nominal: 'responsáveis para que' (o correto é 'responsáveis por' ou 'responsáveis para', mas 'responsáveis para que' é vicioso. Vou considerar 'responsáveis para que' como erro de regência."
+      "Concordância nominal/verbal: 'responsáveis para que' -> idealmente 'responsáveis por fazer com que'",
+      "Regência/preposição: 'previsão ... não se tornou' -> correto, mas 'explicar por que' poderia ser refinado para 'explicar o motivo pelo qual'. No entanto, o erro mais claro é a repetição excessiva."
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao concurso. Há coerência e coesão. A legibilidade é boa. O estilo é adequado. A nota é 8.5/10.",
-      "1B: A argumentação é objetiva e sistematizada. O conteúdo é pertinente ao tema. As informações são pertinentes. A objetividade é boa. A sistematização é boa. O conteúdo é pertinente. A pertinência das informações é boa. A nota é 8.0/10.",
-      "1C: A análise e reflexão são boas. O candidato consegue articular os dois textos, identificando semelhanças e diferenças. A reflexão é profunda. A análise é crítica. A nota é 15.0/20.",
-      "CGPL: O texto apresenta 2 erros gramaticais. Um de regência nominal ('responsáveis para que') e outro de regência nominal ('subsídios de seus produtos'). A nota é 18.0/20."
+      "O texto apresenta boa fluidez e coesão, embora haja alguma repetição lexical ('comércio internacional', 'diplomacia brasileira').",
+      "A argumentação é pertinente, mas carece de profundidade teórica sobre os conceitos-chave dos textos-base.",
+      "Houve tentativa de dialogar com ambos os textos, mas a conexão direta com as citações específicas pode ser fortalecida."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -23,18 +22,38 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Concordância nominal: 'diferenças culturais existentes entre os países' (sugere-se 'existentes entre os países' ou 'existentes entre as nações', mas o mais grave é a regência/semântica de 'diferenças culturais existentes entre os países' que é aceitável, mas 'diferenças culturais entre os países' é mais direto. No entanto, o erro mais claro é 'responsáveis para que' -> 'responsáveis por fazer com que' ou 'responsáveis para que' é aceitável em alguns contextos, mas 'responsáveis por' é mais padrão. Vamos considerar 'responsáveis para que' como um erro de regência/preposição. Outro erro: 'deterioração dos termos de troca' -> 'deterioração dos termos de troca' está correto. 'subsídios de seus produtos' -> 'subsídios a seus produtos' ou 'subsídios aos seus produtos'. Vamos listar 'subsídios de' como erro de regência.",
-      "Ortografia/Concordância: 'subsídios de seus produtos' -> 'subsídios a seus produtos'."
+      "Concordância nominal/verbal: 'um dos principais responsáveis' deveria ser 'responsáveis'.",
+      "Regência verbal/preposicional: 'principalmente' usado como advérbio isolado pode soar ambíguo; ideal seria 'em grande parte'."
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao concurso. A coerência é boa, embora haja algumas repetições de ideias. A legibilidade é alta.",
-      "1B: A argumentação é objetiva e sistematizada. O candidato apresenta informações pertinentes, como a crítica ao comércio internacional na década de 1960 e a atuação do Brasil na OMC. No entanto, a análise poderia ser mais aprofundada em alguns pontos, como a relação entre os textos I e II.",
-      "1C: A capacidade de análise e reflexão é boa. O candidato consegue articular os textos I e II, mostrando semelhanças e diferenças. A reflexão sobre a evolução do comércio internacional e o papel do Brasil é pertinente. No entanto, a análise poderia ser mais crítica em relação aos obstáculos atuais.",
-      "CGPL: O texto apresenta dois erros gramaticais: 'subsídios de seus produtos' (regência) e 'responsáveis para que' (regência/preposição). A correção seria 'subsídios a seus produtos' e 'responsáveis por fazer com que' ou 'responsáveis para que' (aceitável, mas 'por' é mais comum)."
+      "O texto apresenta boa fluidez e coesão, embora algumas transições possam ser aprimoradas.",
+      "As ideias são bem organizadas, mas há repetição excessiva de conceitos-chave.",
+      "A análise é pertinente, mas carece de profundidade teórica e contextualização histórica mais rica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'responsáveis para que' -> idealmente 'responsáveis por fazer com que'",
+      "Regência/preposição: 'previsão ... não se tornou' -> correto, mas 'explicar por que' poderia ser refinado para 'explicar o motivo pelo qual'. No entanto, o erro mais claro é a repetição excessiva."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa fluidez e coesão, embora haja alguma repetição lexical ('comércio internacional', 'diplomacia brasileira').",
+      "A argumentação é pertinente, mas carece de profundidade teórica sobre os conceitos-chave dos textos-base.",
+      "Houve tentativa de dialogar com ambos os textos, mas a conexão direta com as citações específicas pode ser fortalecida."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -44,11 +63,17 @@
     "ano": "2013"
   },
   {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "preposição inadequada ('responsáveis para' -> 'responsáveis por')",
+      "uso indevido de vírgula antes de oração subordinada substantiva objetiva direta",
+      "concordância nominal/verbal ambígua ou erro leve"
+    ],
     "feedbacks": [
-      "A redação do candidato apresenta uma estrutura argumentativa sólida e bem articulada, demonstrando capacidade de análise crítica e reflexão sobre o tema proposto. O texto aborda de forma coerente as diferenças de percepção entre os dois fragmentos, destacando a evolução do comércio internacional e o papel do Brasil nesse contexto. A linguagem é adequada ao contexto acadêmico e diplomático, com uso correto de conectivos e vocabulário preciso. Não foram identificados erros gramaticais, ortográficos ou de pontuação que comprometam a compreensão do texto. A argumentação é bem fundamentada, com exemplos históricos e contemporâneos que reforçam a tese defendida. O texto atende a todos os critérios de avaliação, demonstrando domínio do tema e capacidade de síntese."
+      "Excelente domínio da norma culta.",
+      "Boa coesão textual e articulação das ideias.",
+      "Argumentação sólida e bem fundamentada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -58,11 +83,17 @@
     "ano": "2013"
   },
   {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "preposição inadequada ('responsáveis para' -> 'responsáveis por')",
+      "uso indevido de vírgula antes de oração subordinada substantiva objetiva direta",
+      "concordância nominal/verbal ambígua ou erro leve ('possibilitem' vs 'permitem')"
+    ],
     "feedbacks": [
-      "A redação do candidato apresenta uma estrutura argumentativa sólida e bem articulada, demonstrando capacidade de análise crítica e reflexão sobre o tema proposto. O texto aborda de forma coerente as diferenças de percepção entre os dois fragmentos, destacando a evolução do comércio internacional e o papel do Brasil nesse contexto. A linguagem é adequada ao contexto acadêmico e diplomático, com uso correto de conectivos e vocabulário preciso. Não foram identificados erros gramaticais, ortográficos ou de pontuação que comprometam a compreensão do texto. A argumentação é bem fundamentada, com exemplos históricos e contemporâneos que reforçam a tese defendida. O texto atende a todos os critérios de avaliação, demonstrando domínio do tema e capacidade de síntese."
+      "Excelente domínio da norma culta.",
+      "Argumentação sólida e bem estruturada.",
+      "Boa articulação entre os textos base e conhecimento histórico."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -72,11 +103,17 @@
     "ano": "2013"
   },
   {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "preposição inadequada: 'responsáveis para' -> deveria ser 'responsáveis por'",
+      "concordância nominal/verbal sutilmente questionável ou estilo: 'possibilitam mais que apenas' (aceitável, mas poderia ser refinado)",
+      "pontuação/concisão: frase longa e ligeiramente redundante no início ('...porquanto representa uma possibilidade real...' - aceitável)"
+    ],
     "feedbacks": [
-      "A redação do candidato apresenta uma estrutura argumentativa sólida e bem articulada, demonstrando capacidade de análise crítica e reflexão sobre o tema proposto. O texto aborda de forma coerente as diferenças de percepção entre os dois fragmentos, destacando a evolução do comércio internacional e o papel do Brasil nesse contexto. A linguagem é adequada ao contexto acadêmico e diplomático, com uso correto de conectivos e vocabulário preciso. Não foram identificados erros gramaticais, ortográficos ou de pontuação que comprometam a compreensão do texto. A argumentação é bem fundamentada, com exemplos históricos e contemporâneos que reforçam a tese defendida. O texto atende a todos os critérios de avaliação, demonstrando domínio do tema e capacidade de síntese."
+      "Excelente domínio da língua portuguesa.",
+      "Argumentação sólida e bem estruturada.",
+      "Boa articulação entre os textos base e o conhecimento histórico/diplomático."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -87,10 +124,17 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "O uso inadequado de 'porquanto' pode ser questionado em alguns contextos, embora não constitua erro grave.",
+      "A frase 'Os diferentes discursos brasileiros... mostram a evolução...' poderia ter sido articulada de forma mais fluida."
+    ],
     "feedbacks": [
-      "O texto apresenta uma estrutura clara e lógica, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e aborda o tema proposto, discutindo as diferenças de percepção sobre o comércio internacional entre os textos I e II, embora a conexão explícita com os textos não seja feita de forma explícita no início. O candidato utiliza exemplos históricos e contemporâneos, como a eleição de Roberto Azevêdo e a atuação do Brasil na OMC, para sustentar seus argumentos. A linguagem é adequada ao contexto, com uso correto de conectivos e vocabulário variado. No entanto, a análise poderia ser mais profunda em relação às semelhanças e diferenças específicas entre os dois textos, e a conclusão, embora satisfatória, não explora plenamente as implicações mais amplas do tema."
+      "O texto apresenta uma estrutura clara e organizada, abordando tanto o Texto I quanto o Texto II de forma equilibrada.",
+      "Há uma tentativa de contextualizar historicamente o papel do Brasil no comércio internacional, o que enriquece a análise.",
+      "A argumentação segue uma linha lógica, conectando passado e presente, e destacando a importância do multilateralismo.",
+      "No entanto, a análise permanece em um nível descritivo, faltando uma crítica mais profunda aos conceitos teóricos subjacentes aos textos.",
+      "Alguns trechos poderiam ser mais concisos, evitando repetições desnecessárias."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -101,10 +145,17 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "O uso inadequado de 'porquanto' pode ser questionado em alguns contextos, embora não constitua erro grave.",
+      "A frase 'Os diferentes discursos brasileiros... mostram a evolução...' poderia ter sido articulada de forma mais fluida."
+    ],
     "feedbacks": [
-      "O texto apresenta uma estrutura clara e lógica, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e aborda o tema proposto, discutindo as diferenças de percepção sobre o comércio internacional ao longo do tempo, com foco na evolução do papel do Brasil e da OMC. No entanto, a análise é um pouco previsível e não aprofunda suficientemente as nuances teóricas ou os contrapontos mais complexos, o que limita a sofisticação da reflexão. A linguagem é adequada e demonstra domínio razoável da norma culta, com poucos deslizes gramaticais."
+      "O texto apresenta uma estrutura clara e organizada, abordando o tema proposto de forma pertinente.",
+      "Há uma tentativa de articular os dois textos fornecidos, estabelecendo comparações históricas e contemporâneas.",
+      "A argumentação segue uma linha lógica, passando da crítica histórica ao papel atual do Brasil e da OMC.",
+      "Apresenta algumas falhas menores de coesão e precisão terminológica, mas mantém-se coerente.",
+      "Demonstra conhecimento contextual relevante, citando exemplos concretos como a eleição de Roberto Azevêdo."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -115,10 +166,17 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "O uso inadequado de 'porquanto' pode ser questionado em alguns contextos, embora não constitua erro grave.",
+      "A frase 'Os diferentes discursos brasileiros... mostram a evolução...' poderia ter sido articulada de forma mais fluida."
+    ],
     "feedbacks": [
-      "O texto apresenta uma estrutura clara e lógica, com introdução, desenvolvimento e conclusão bem definidos. A argumentação é coerente e aborda o tema proposto, discutindo as diferenças de percepção sobre o comércio internacional ao longo do tempo, com foco na evolução do papel do Brasil e da OMC. No entanto, a análise é um pouco previsível e carece de maior profundidade teórica ou originalidade. A linguagem é adequada e demonstra domínio razoável da norma culta, com poucos deslizes gramaticais. A redação é compreensível e bem articulada, mas não atinge um nível de sofisticação ou insight teórico que a elevaria para faixas superiores."
+      "O texto apresenta uma estrutura clara e organizada, abordando tanto o Texto I quanto o Texto II de forma equilibrada.",
+      "Há uma tentativa de contextualizar historicamente o papel do Brasil no comércio internacional, o que enriquece a análise.",
+      "A argumentação segue uma linha lógica, conectando passado e presente, e destacando a importância do multilateralismo.",
+      "No entanto, a análise permanece em um nível descritivo, faltando uma crítica mais profunda aos conceitos subjacentes aos textos, como 'deterioração das relações de troca' ou 'multilateralismo'.",
+      "Alguns trechos são redundantes, especialmente na conclusão, onde ideias já apresentadas são reiteradas sem acrescentar novas camadas de interpretação."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -129,20 +187,19 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "1. 'não são obtidos' (concordância): O sujeito é 'O crescimento econômico aliado à melhoria dos indicadores sociais'. A expressão 'aliado a' funciona como adjunto adnominal, não como parte do sujeito composto. Portanto, o verbo deve ficar no singular: 'não é obtido'.",
-      "2. 'latinoamericanos' (ortografia): A grafia correta é 'latino-americanos' (com hífen e acento).",
-      "3. 'matizadas' (ortografia): A grafia correta é 'matizadas' (com 'z').",
-      "4. 'clivagem' (ortografia): A grafia correta é 'clivagem' (com 'v')."
+      "Concordância nominal/verbal: 'O crescimento... não são' deveria ser 'não é'.",
+      "Uso inadequado de hífen/regência: 'matizadas³ certas distorções' - uso incorreto do pronome oblíquo.",
+      "Erro de digitação/formatação: Uso indevido de notas de rodapé ('¹', '²') no corpo do texto.",
+      "Regência/concordância: 'tendência... que, ... , pode favorecer' - estrutura aceitável, mas a frase anterior contém erro."
     ],
     "feedbacks": [
-      "1A: O texto apresenta boa estrutura, com introdução, desenvolvimento e conclusão bem definidos. A linguagem é formal e adequada ao contexto diplomático. Há coerência e coesão, embora alguns trechos possam ser considerados um pouco densos. A legibilidade é boa, mas a densidade de informações pode exigir releitura.",
-      "1B: A argumentação é objetiva e sistematizada. O candidato demonstra conhecimento do tema, citando exemplos históricos e institucionais (UNCTAD, SGP, Rodada Doha, OMC). As informações são pertinentes e bem relacionadas aos textos base. A capacidade de síntese é boa, mas poderia ser mais aprofundada em alguns pontos.",
-      "1C: A análise é reflexiva e crítica, indo além da simples descrição dos textos. O candidato estabelece conexões entre os fragmentos e o contexto histórico e político do comércio internacional. A reflexão sobre a evolução da percepção do comércio (de fator de desigualdade a ferramenta de desenvolvimento) é bem articulada. No entanto, a análise poderia ser mais aprofundada em termos de contradições e desafios atuais, como a tensão entre liberalização e protecionismo, ou o papel de novos atores (como China e Índia).",
-      "CGPL: O texto apresenta quatro erros gramaticais, conforme detalhado acima. A correção desses erros melhoraria significativamente a qualidade da linguagem."
+      "1A: Coerência e coesão estão presentes, embora haja algumas frases longas e complexas que poderiam ser simplificadas. Estilo formal adequado ao contexto.",
+      "1B: Argumentação sólida, com boa sistematização. No entanto, há repetição de ideias e alguns trechos podem parecer opinativos demais sem base factual suficiente.",
+      "1CGPL: Erros gramaticais leves, principalmente relacionados a concordância e uso de pronomes. Não comprometem gravemente a compreensão."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -153,20 +210,20 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "1. 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos à revelia dos processos de integração.' -> Concordância verbal: O sujeito é 'O crescimento econômico aliado à melhoria dos indicadores sociais' (núcleo: crescimento). O verbo deveria estar no singular: 'não é obtido'.",
-      "2. 'A chefia da organização por um brasileiro, feito inédito na história do país, indica o reconhecimento internacional do êxito das políticas públicas brasileiras.' -> Falta de vírgula após 'país' para isolar a oração explicativa ou aposição, ou melhor, a estrutura está um pouco confusa. 'feito inédito...' deveria ser isolado por vírgulas: '...por um brasileiro, feito inédito na história do país, indica...'. A vírgula após 'país' está presente, mas a estrutura 'feito inédito...' funciona como uma aposição ou oração reduzida. A pontuação está aceitável, mas a regência de 'indicar' pode ser questionada. 'Indica o reconhecimento' está correto. Vou considerar que não há erro grave aqui, mas a frase é um pouco pesada. Vou procurar erros mais claros.",
-      "3. 'A conclusão da rodada Doha tende a reforçar essa percepção.' -> 'Rodada' deveria ser maiúscula por ser nome próprio de um evento específico: 'Rodada Doha'.",
-      "4. 'Efetivadas as promessas contidas em seu mandato, a clivagem norte-sul deixará de ser característica predominante da geografia mundial.' -> 'Efetivadas' refere-se a 'promessas' (feminino plural), mas o sujeito da oração principal é 'a clivagem' (feminino singular). Há uma concordância inadequada. Deveria ser 'Efetivado o mandato' ou 'Efetivadas as promessas, a clivagem... deixará' (aqui 'efetivadas' está no particípio, concordando com 'promessas', mas a oração principal tem sujeito 'clivagem'. Isso é um erro de concordância do particípio ou da oração reduzida. Se 'Efetivadas as promessas' é uma oração reduzida de 'Quando as promessas forem efetivadas', não há sujeito na oração principal que concorde com 'efetivadas'. O sujeito da oração principal é 'a clivagem'. Portanto, há um erro de concordância. Deveria ser 'Efetivado o mandato' ou 'Com a efetivação das promessas'."
+      "Concordância nominal/verbal: 'O crescimento... não são' deveria ser 'não é'.",
+      "Uso inadequado de hífen/regência: 'matizadas³ certas distorções' - uso incorreto do pronome oblíquo átono.",
+      "Erro de digitação/formatação: Uso indevido de notas de rodapé ('¹', '²') no corpo do texto.",
+      "Regência/concordância: 'tendência... que, ... , pode favorecer' - estrutura aceitável, mas a frase anterior contém erro."
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto diplomático. A legibilidade é boa, embora algumas frases sejam longas e complexas. O estilo é consistente.",
-      "1B: A argumentação é objetiva e sistematizada. O candidato apresenta informações pertinentes e relevantes, como a Rodada Doha, a UNCTAD, o SGP e a eleição de Azevêdo. A pertinência das informações é alta, pois conecta os textos do enunciado com a realidade brasileira e internacional.",
-      "1C: A análise e reflexão são profundas. O candidato não apenas compara os textos, mas também contextualiza historicamente a evolução da percepção sobre o comércio internacional. A reflexão sobre o papel do Brasil e a necessidade de condições equitativas para o desenvolvimento é bem articulada.",
-      "CGPL: O texto apresenta alguns erros de concordância verbal e nominal, além de um erro de pontuação. A regência e a ortografia estão corretas na maioria das vezes. A propriedade da linguagem é boa, com uso adequado de vocabulário técnico."
+      "1A: Coerência e coesão estão presentes, embora haja algumas frases longas e complexas que poderiam ser simplificadas. Estilo formal adequado ao contexto.",
+      "1B: Argumentação sólida, com boa sistematização. No entanto, há repetição de ideias e alguns trechos podem parecer opinativos demais sem base factual suficiente.",
+      "1C: Análise reflexiva é pertinente, conectando bem os textos-base com questões históricas e atuais. Falta profundidade crítica em alguns momentos.",
+      "CGPL: Erros gramaticais leves, principalmente de concordância e formatação. Não comprometem gravemente a compreensão."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -177,20 +234,19 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "1. 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos...' -> Concordância verbal. O sujeito é 'O crescimento econômico aliado à melhoria dos indicadores sociais' (núcleo: crescimento). O verbo deveria estar no singular: 'não é obtido'.",
-      "2. '...como sugeriu o embaixador português José Fernandes Fafe.' -> A frase está incompleta ou a referência não está clara no contexto. O texto diz 'talvez um legado da tradição de equilíbrio de antagonismos como sugeriu o embaixador português José Fernandes Fafe.' Isso parece uma citação ou referência solta. Se for uma citação, deveria estar entre aspas ou com 'segundo...'. Se for uma opinião do autor, a estrutura está confusa. Vou considerar como erro de pontuação/estrutura de citação.",
-      "3. '...matizadas³ certas distorções...' -> O uso do acento circunflexo em 'matizadas' está incorreto. O verbo é 'matizar'. No particípio, a forma correta é 'matizado' (sem acento). 'Matizadas' é o particípio plural feminino, mas o verbo 'matizar' não leva acento no particípio. A forma correta seria 'matizadas' (sem acento). O acento circunflexo é um erro ortográfico.",
-      "4. '...clivagem norte-sul...' -> 'Norte-Sul' deve ser grafado com iniciais maiúsculas quando se refere às regiões geopolíticas (Norte e Sul do mundo). 'Norte-Sul' está correto, mas 'norte-sul' em minúsculas pode ser considerado erro de grafia de termo específico. No entanto, em muitos contextos, 'norte-sul' em minúsculas é aceito. Vou considerar como erro menor ou não contar. Vou contar como erro de grafia de termo específico."
+      "Concordância nominal/verbal: 'O crescimento... não são' deveria ser 'não é'.",
+      "Uso inadequado de hífen/regência: 'matizadas³ certas distorções' - uso incorreto do pronome oblíquo átono.",
+      "Erro de digitação/formatação: Uso indevido de notas de rodapé ('¹', '²') no corpo do texto.",
+      "Regência/concordância: 'tendência... que, ... , pode favorecer' - estrutura aceitável, mas a frase anterior contém erro."
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto diplomático. A coerência e a coesão são boas, com uso adequado de conectivos. O estilo é objetivo e direto. A legibilidade é alta. A impressão geral é positiva.",
-      "1B: A argumentação é sólida e bem sistematizada. O candidato aborda os dois textos, identificando semelhanças e diferenças. As informações são pertinentes e pertinentes ao tema. A objetividade é mantida, com argumentos bem fundamentados. O conteúdo é rico e diversificado, citando exemplos históricos e institucionais.",
-      "1C: A análise e reflexão são profundas e bem elaboradas. O candidato demonstra capacidade de síntese e de articulação de ideias complexas. A reflexão sobre a evolução da percepção do comércio internacional é bem construída, mostrando uma compreensão crítica do tema. A capacidade de análise é evidente na comparação entre os textos e na contextualização histórica.",
-      "CGPL: O texto apresenta alguns erros gramaticais, mas não compromete a compreensão. Os erros são pontuais e não recorrentes. A correção gramatical é boa, com uso adequado de estruturas complexas. A propriedade da linguagem é alta, com vocabulário rico e preciso."
+      "1A: Coerência e coesão estão presentes, embora haja algumas frases longas e complexas que poderiam ser simplificadas. Estilo formal adequado ao contexto.",
+      "1B: Argumentação sólida, com boa sistematização. No entanto, há repetição de ideias e alguns trechos podem parecer opinativos demais sem base factual suficiente.",
+      "1CGPL: Erros gramaticais leves, principalmente relacionados a concordância verbal e uso de pronomes. Não comprometem gravemente a compreensão."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -200,10 +256,20 @@
     "ano": "2013"
   },
   {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "matizadas³ certas distorções -> matizando certas distorções",
+      "não são obtidos -> não se obtém / não são alcançados",
+      "clivagem norte-sul deixou de ser característica predominantee da geografia mundial."
+    ],
+    "feedbacks": [
+      "Uso inadequado de 'matizadas' (particípio) quando deveria ser gerúndio ('matizando') para expressar ação simultânea.",
+      "Concordância verbal incorreta: 'crescimento... aliados à melhoria...' deveria usar verbo no singular ('se obtém' ou 'são alcançadas').",
+      "Repetição desnecessária de 'da': 'característica predominantee da geografia'.",
+      "Falta de vírgula após 'Hodiernamente,'.",
+      "Erro de digitação/clique duplo em 'predominanttee'."
+    ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
@@ -212,10 +278,18 @@
     "ano": "2013"
   },
   {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "clivagem norte-sul deveria ter hífen (norte-sul)",
+      "matizadas³ - uso inadequado de acento circunflexo/acentuação irregular ou erro de digitação",
+      "não são obtidos -> sujeito 'crescimento' exige singular ('não se obtém') ou reestruturação"
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulário técnico e conceitual.",
+      "Argumentação sólida e bem estruturada.",
+      "Pequenos deslizes gramaticais e estilísticos."
+    ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
@@ -224,11 +298,17 @@
     "ano": "2013"
   },
   {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "matizadas³ certas distorções -> matizando certas distorções",
+      "não são obtidos -> não se obtém / não são alcançados",
+      "clivagem norte-sul deixou de ser característica predominantee da geografia mundial."
+    ],
     "feedbacks": [
-      "A redação apresenta uma argumentação sólida e bem estruturada, com clareza e coerência. O candidato aborda os dois textos de forma equilibrada, destacando as diferenças de percepção sobre o comércio internacional e construindo uma reflexão crítica. A linguagem é adequada ao contexto, com vocabulário preciso e uso correto de conectivos. Não foram identificados erros gramaticais, ortográficos ou de pontuação. A redação atende a todos os critérios de avaliação, demonstrando domínio do tema e capacidade de articulação de ideias."
+      "Uso inadequado de 'matizadas' (particípio) quando deveria ser gerúndio ('matizando') para expressar ação simultânea.",
+      "Concordância verbal incorreta: 'crescimento... aliados...' deveria ser 'aliado', pois o sujeito composto é singularizado pela preposição 'à revelia'. Alternativamente, reestruturar a frase.",
+      "Erro de digitação/repetição: 'predominanttee'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -239,17 +319,14 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "A concordância verbal em 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos' deveria ser 'não é obtido', pois o sujeito é 'o crescimento'.",
-      "O uso de 'matizadas³ certas distorções' está gramaticalmente correto, mas a vírgula após 'matizadas' é desnecessária e pode ser considerada um deslize de pontuação.",
-      "A expressão 'ex-Chanceler' deveria ser 'ex-chanceler', com minúscula, conforme a norma culta para cargos e funções."
+      "não são obtidos"
     ],
     "feedbacks": [
-      "O texto demonstra domínio avançado do tema, articulando os dois fragmentos com profundidade e contextualização histórica adequada.",
-      "A argumentação é sólida, com boa progressão temática e uso de exemplos concretos (UNCTAD, SGP, Rodada Doha, eleição de Azevêdo).",
-      "A linguagem é sofisticada, com vocabulário preciso e estilo maduro, embora apresente três pequenos deslizes gramaticais.",
-      "A conclusão é forte e sintetiza bem a reflexão proposta pelo enunciado."
+      "O texto demonstra excelente domínio do tema, articulando os dois textos de maneira profunda e crítica.",
+      "Apresenta estrutura clara, progressão temática lógica e uso sofisticado de vocabulário técnico e conceitual.",
+      "Há apenas dois pequenos deslizes gramaticais ('não são' deveria ser 'não é', e falta de crase antes de 'distribuição'), que não comprometem a excelência geral."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -260,17 +337,15 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "A concordância verbal em 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos' deveria ser 'não é obtido', pois o sujeito é 'o crescimento'.",
-      "O uso de 'matizadas³ certas distorções' está gramaticalmente correto, mas a vírgula após 'matizadas' é desnecessária e pode ser considerada um deslize de pontuação.",
-      "A expressão 'ex-Chanceler' deveria ser 'ex-chanceler', com hífen e letra minúscula, conforme a norma culta."
+      "não são obtidos"
     ],
     "feedbacks": [
-      "O texto demonstra domínio avançado do tema, articulando os dois fragmentos com profundidade e contextualização histórica.",
-      "A argumentação é sólida, com boa estruturação e uso de vocabulário sofisticado e preciso.",
-      "Há poucos deslizes gramaticais, que não comprometem a compreensão ou a qualidade geral do texto.",
-      "O texto apresenta originalidade e clareza, com uma análise que vai além do óbvio, incorporando referências históricas e institucionais relevantes."
+      "O texto demonstra excelente domínio do tema, articulando os dois textos-base com precisão histórica e conceitual.",
+      "Apresenta estrutura dissertativo-argumentativa robusta, com introdução clara, desenvolvimento denso e conclusão sintética.",
+      "Há uso sofisticado de conectivos e repertório específico (UNCTAD, SGP, Rodada Doha, termos de troca) que enriquece a análise.",
+      "A referência ao embassador Roberto Azevêdo e ao Chanceler Patriota mostra atualização e contextualização política relevante."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -283,14 +358,12 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "A concordância verbal em 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos' deveria ser 'não é obtido', pois o sujeito é 'o crescimento'.",
-      "O uso de 'matizadas³ certas distorções' está gramaticalmente correto, mas a vírgula após 'matizadas' é desnecessária e pode ser considerada um deslize de pontuação."
+      "não são obtidos"
     ],
     "feedbacks": [
-      "O texto demonstra domínio avançado do tema, articulando os dois fragmentos com profundidade e contextualização histórica.",
-      "A argumentação é sólida, com boa estruturação e uso de vocabulário técnico adequado ao contexto diplomático.",
-      "Há apenas dois deslizes gramaticais menores, que não comprometem a fluidez ou a clareza do texto.",
-      "O texto apresenta originalidade e insight teórico, comparável à produção de um especialista."
+      "O texto demonstra excelente domínio do tema, articulando os dois textos de maneira profunda e crítica.",
+      "Apresenta estrutura clara, progressão temática lógica e uso sofisticado de vocabulário técnico e conceitual.",
+      "Há apenas dois pequenos deslizes gramaticais ('não são' deveria ser 'não é', e falta de crase antes de 'distribuição'), que não comprometem a excelência geral."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -301,20 +374,18 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "1. 'contribuíu' (acento agudo indevido no 'i' final; o correto é 'contribuiu', sem acento, pois é paroxítona terminada em ditongo).",
-      "2. 'Raul Prébisch' (erro de grafia do sobrenome; o correto é 'Raúl Prebisch', com acento no 'u' e sem 'h').",
-      "3. 'críticas que tem recebido' (erro de concordância verbal; o sujeito é 'críticas', plural, logo o verbo deve ser 'têm' com acento circunflexo: 'críticas que têm recebido').",
-      "4. 'sub- desenvolvidos' (erro de pontuação/hifenização; não se usa hífen para separar sílaba em final de linha ou entre palavras, e o correto é 'subdesenvolvidos' (tudo junto, sem hífen, conforme o Acordo Ortográfico). O uso do hífen aqui é incorreto."
+      "contribuíu",
+      "sub- desenvolvidos",
+      "tem"
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao concurso. Há uma boa coerência e coesão, embora algumas transições possam ser mais fluidas. O estilo é claro e objetivo.",
-      "1B: A argumentação é pertinente e sistematizada. O candidato utiliza conceitos relevantes (termos de troca, centro-periferia, Prebisch) e os aplica corretamente. A objetividade é mantida, mas a inclusão de Schopenhauer no final parece um pouco forçada e desconectada do núcleo da argumentação sobre comércio internacional, o que pode ser visto como uma tentativa de enriquecimento que não se integra plenamente ao tema.",
-      "1C: A análise é sólida, identificando as diferenças de percepção entre os textos (pessimismo vs. otimismo/multilateralismo) e propondo uma síntese. A reflexão sobre a natureza contraditória do capitalismo e a necessidade de um multilateralismo inclusivo é pertinente. No entanto, a análise poderia ser mais profunda ao discutir as limitações do próprio multilateralismo ou os desafios atuais da OMC, indo além da defesa da posição brasileira. A conexão com Schopenhauer, embora criativa, não aprofunda a análise do tema central.",
-      "CGPL: O texto apresenta 4 erros gramaticais, conforme detalhado. A correção desses erros melhoraria significativamente a qualidade da linguagem."
+      "Apresentação e impressão geral do texto: Coerência, legibilidade e estilo.",
+      "Capacidade de argumentação: Objetividade, sistematização, conteúdo e pertinência das informações.",
+      "Capacidade de análise e reflexão."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -325,19 +396,18 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "1. 'contribuíu' (acento agudo indevido no 'i' final; o correto é 'contribuiu' com ditongo aberto 'iu' sem acento).",
-      "2. 'Raul Prébisch' (erro de grafia do sobrenome; o correto é 'Raúl Prebisch', com acento no 'u' e sem 'h').",
-      "3. 'décadas mais recentes4' (erro de digitação/formato: presença de um número solto '4' no meio da frase, indicando provável nota de rodapé mal formatada ou erro de digitação).",
-      "4. 'críticas que tem recebido' (erro de concordância verbal; o sujeito é 'críticas' (plural), logo o verbo deve ser 'têm' (plural): 'críticas que têm recebido')."
+      "contribuíu",
+      "sub- desenvolvidos",
+      "tem"
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao concurso. Há uma boa coesão entre os parágrafos. A legibilidade é alta, embora haja um erro de digitação/formato ('4') que prejudica ligeiramente a apresentação.",
-      "1B: A argumentação é objetiva e sistematizada. O candidato apresenta informações pertinentes (Prebisch, termos de troca, multilateralismo) e as relaciona bem com os textos. A pertinência é boa, mas a argumentação poderia ser mais aprofundada em alguns pontos, como a relação entre o texto I e o contexto histórico da CEPAL.",
-      "1C: A análise e reflexão são sólidas. O candidato consegue articular os dois textos, identificando semelhanças e diferenças, e emite uma opinião fundamentada. A referência a Schopenhauer, embora interessante, é um pouco forçada e não contribui significativamente para a análise do comércio internacional, podendo ser considerada uma digressão filosófica que não agrega muito ao argumento principal. A análise da deterioração dos termos de troca é boa, mas poderia ser mais crítica em relação às limitações do multilateralismo atual."
+      "Apresentação e impressão geral do texto: Coerência, legibilidade e estilo.",
+      "Capacidade de argumentação: Objetividade, sistematização, conteúdo e pertinência das informações.",
+      "Capacidade de análise e reflexão."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -348,19 +418,18 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "1. 'contribuíu' (acento agudo indevido no 'i' final; o correto é 'contribuiu' com ditongo aberto 'iu' sem acento).",
-      "2. 'Raul Prébisch' (erro de grafia do sobrenome; o correto é 'Raúl Prebisch', com acento no 'u' e sem 'h').",
-      "3. 'décadas mais recentes4' (erro de digitação/formato: presença de um número solto '4' no meio da frase, indicando provável nota de rodapé mal formatada ou erro de digitação).",
-      "4. 'críticas que tem recebido' (erro de concordância verbal; o sujeito é 'críticas' (plural), logo o verbo deve ser 'têm' (plural): 'críticas que têm recebido')."
+      "contribuíu",
+      "sub- desenvolvidos",
+      "tem"
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao concurso. Há uma boa coesão entre os parágrafos. A legibilidade é alta, embora haja um erro de digitação/formato ('4') que prejudica ligeiramente a apresentação.",
-      "1B: A argumentação é objetiva e sistematizada. O candidato apresenta informações pertinentes (Prebisch, termos de troca, multilateralismo) e as relaciona bem com os textos. A pertinência é boa, mas a argumentação poderia ser mais aprofundada em alguns pontos, como a relação entre o texto I e o contexto histórico da CEPAL.",
-      "1C: A análise e reflexão são sólidas. O candidato consegue articular os dois textos, identificando semelhanças e diferenças, e emite uma opinião fundamentada. A referência a Prebisch é pertinente, mas a aplicação da filosofia de Schopenhauer no final parece forçada e pouco articulada com o tema do comércio internacional, o que limita a profundidade da reflexão. A análise poderia ter explorado mais as nuances do multilateralismo e as críticas ao texto I."
+      "Apresentação e impressão geral do texto: Coerência, legibilidade e estilo.",
+      "Capacidade de argumentação: Objetividade, sistematização, conteúdo e pertinência das informações.",
+      "Capacidade de análise e reflexão."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -370,20 +439,17 @@
     "ano": "2013"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "contribuíu (acento agudo indevido no 'i' de 'contribuiu')",
-      "tem (concordância verbal: 'críticas que têm recebido')",
-      "sub- desenvolvidos (hífen indevido e espaço após o hífen)"
+      "contribuíu -> contribuiu",
+      "tem recebido -> têm recebido",
+      "sub- desenvolvidos -> subdesenvolvidos"
     ],
     "feedbacks": [
-      "A redação apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos.",
-      "O candidato demonstra domínio do tema, articulando bem os textos I e II e incorporando referências teóricas relevantes (Prebisch, Schopenhauer).",
-      "A argumentação é coerente e bem encadeada, com transições adequadas entre os parágrafos.",
-      "Há alguns erros gramaticais pontuais que não comprometem significativamente a compreensão do texto, mas que devem ser corrigidos para uma redação de excelência.",
-      "A linguagem é adequada ao contexto, com vocabulário preciso e variado.",
-      "A conclusão é forte e sintetiza bem os argumentos apresentados."
+      "Erro de digitação/acentuação ('contribuíu').",
+      "Concordância verbal incorreta ('críticas... tem' deveria ser 'têm').",
+      "Uso indevido de hífen/espaço em 'sub- desenvolvidos'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -393,20 +459,17 @@
     "ano": "2013"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "contribuíu (acento agudo indevido no 'i' de 'contribuiu')",
-      "tem (concordância verbal: 'críticas que têm recebido')",
-      "sub- desenvolvidos (hífen indevido e espaço após o hífen)"
+      "contribuíu -> contribuiu",
+      "tem recebido -> têm recebido",
+      "sub- desenvolvidos -> subdesenvolvidos"
     ],
     "feedbacks": [
-      "A redação apresenta uma estrutura clara e bem organizada, com introdução, desenvolvimento e conclusão bem definidos.",
-      "O candidato demonstra domínio do tema, articulando bem os textos I e II e incorporando referências teóricas relevantes (Prebisch, Schopenhauer).",
-      "A argumentação é coerente e bem encadeada, com transições adequadas entre os parágrafos.",
-      "Há alguns erros gramaticais pontuais que não comprometem significativamente a compreensão do texto, mas que devem ser corrigidos para uma redação de excelência.",
-      "A linguagem é adequada ao contexto, com vocabulário preciso e variado.",
-      "A conclusão é forte e sintetiza bem os argumentos apresentados."
+      "Erro de digitação/acentuação ('contribuíu').",
+      "Concordância verbal incorreta ('críticas... tem' deveria ser 'têm').",
+      "Uso indevido de hífen/espaço em 'sub- desenvolvidos'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -416,13 +479,16 @@
     "ano": "2013"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "contribuíu (acento agudo indevido no 'i' de 'contribuiu')"
+      "contribuíu -> contribuiu",
+      "tem recebido -> têm recebido",
+      "sub- desenvolvidos -> subdesenvolvidos"
     ],
     "feedbacks": [
-      "O texto apresenta uma análise coerente e bem estruturada, abordando as diferenças e semelhanças entre os textos propostos. A argumentação é sólida, com boa utilização de conceitos teóricos (como a teoria da CEPAL/Raul Prebisch) e uma conclusão clara. A linguagem é adequada ao contexto diplomático. No entanto, há um erro de acentuação ('contribuíu') e um erro de pontuação (uso de ponto e vírgula em oração coordenada sindética adversativa sem sujeito explícito na segunda oração, embora seja um erro menos grave, o ponto e vírgula não é o mais adequado aqui, mas o principal erro é a acentuação). A nota reflete um texto de excelente qualidade, com apenas pequenos deslizes."
+      "O uso correto de conectivos e a estruturação clara dos argumentos demonstram domínio da língua.",
+      "A aplicação correta da teoria de Prebisch enriquece a análise temática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -435,16 +501,13 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "contribuíu (acento incorreto)",
-      "tem recebido (concordância verbal: deveria ser 'têm recebido')",
-      "sub- desenvolvidos (hífen incorreto)"
+      "contribuíu -> contribuiu",
+      "tem recebido -> têm recebido"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e desenvolvimento coerente do tema, com boa articulação entre os dois textos propostos.",
-      "A argumentação é pertinente e demonstra conhecimento do tema, com menção a Raul Prebisch e à teoria da dependência, o que é adequado para o nível do concurso.",
-      "Há alguns deslizes gramaticais pontuais (acento, concordância e hífen) que não comprometem a compreensão, mas indicam necessidade de revisão mais cuidadosa.",
-      "A inserção de Schopenhauer no final parece forçada e pouco articulada ao restante do texto, enfraquecendo a conclusão.",
-      "O texto poderia se beneficiar de uma análise mais aprofundada das diferenças entre os contextos históricos dos dois textos, indo além da menção superficial às décadas de 1960 e 'décadas mais recentes'."
+      "O texto apresenta uma análise clara e organizada, identificando corretamente as posições contrastantes dos textos propostos.",
+      "Há uso pertinente de conceitos teóricos (Teoria Centro-Periferia) para embasar a argumentação.",
+      "Apresentam-se pequenos deslizes gramaticais (acento diferencial, crase implícita), mas não comprometem a leitura."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -457,16 +520,13 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "contribuíu (acento incorreto)",
-      "tem recebido (concordância verbal: deveria ser 'têm recebido')",
-      "sub- desenvolvidos (hífen incorreto)"
+      "contribuíu -> contribuiu",
+      "tem recebido -> têm recebido"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e desenvolve o tema com pertinência, articulando os dois textos de forma coerente.",
-      "A argumentação é sólida, com uso adequado de conceitos como termos de troca e centro-periferia, demonstrando conhecimento do tema.",
-      "Há alguns deslizes gramaticais pontuais (acento, concordância e hífen) que não comprometem a compreensão, mas impedem a classificação em faixas superiores.",
-      "A citação de Schopenhauer no final parece forçada e pouco articulada ao restante do argumento, o que enfraquece ligeiramente a conclusão.",
-      "O texto demonstra domínio razoável da norma padrão e capacidade de reflexão, mas carece de sofisticação argumentativa e fluidez para alcançar faixas mais altas."
+      "O texto apresenta uma análise clara e organizada, identificando corretamente as posições contrastantes dos textos propostos.",
+      "Há uso pertinente de conceitos teóricos (Teoria Centro-Periferia) para embasar a argumentação.",
+      "Apresentam-se pequenos deslizes gramaticais (concordância verbal e acentuação), mas não comprometem significativamente a leitura."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -479,16 +539,13 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "contribuíu (acento incorreto)",
-      "tem recebido (concordância verbal: deveria ser 'têm recebido')",
-      "sub- desenvolvidos (hífen incorreto)"
+      "contribuíu -> contribuiu",
+      "tem recebido -> têm recebido"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e desenvolve o tema com pertinência, articulando os dois textos de forma coerente.",
-      "A argumentação é sólida, com uso adequado de conceitos como termos de troca e centro-periferia, demonstrando conhecimento teórico relevante.",
-      "Há alguns deslizes gramaticais pontuais (acento, concordância e hífen) que não comprometem a compreensão, mas indicam necessidade de revisão.",
-      "A inserção de Schopenhauer no final parece forçada e pouco articulada ao restante do argumento, enfraquecendo ligeiramente a conclusão.",
-      "O texto demonstra domínio razoável da norma padrão e capacidade de reflexão, mas carece de sofisticação argumentativa e fluidez estilística para alcançar faixas superiores."
+      "O texto apresenta uma análise clara e organizada, identificando corretamente as posições contrastantes dos textos propostos.",
+      "Há uso pertinente de conceitos teóricos (Teoria Centro-Periferia) para embasar a argumentação.",
+      "Apresentam-se pequenos deslizes gramaticais (concordância verbal e acentuação), mas não comprometem significativamente a leitura."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -503,34 +560,34 @@
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "1. 'Na transição do século XVIII para o XIX, com o advento de algumas das principais teorias do livre comércio internacional, rompeu-se a hegemonia do pensamento mercantilista vigente no período.' -> A frase está correta, mas a pontuação após 'internacional' é desnecessária e quebra a fluidez. No entanto, não é um erro grave. Vou considerar que não há erro aqui, mas a pontuação é um pouco pesada. Na verdade, a vírgula após 'internacional' está incorreta, pois separa o sujeito do verbo. O sujeito é 'a hegemonia...'. A vírgula deveria ser removida. Erro de pontuação.",
-      "2. 'Desde então, a promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados.' -> A vírgula após 'mundial' está incorreta, pois separa o sujeito da oração do verbo. Erro de pontuação.",
-      "3. 'Em 1776, Adam Smith publicou A Riqueza das Nações.' -> Correto.",
-      "4. 'Entre os diversos temas tratados no livro, chama a atenção o relativo à defesa da liberdade comercial internacional, que, segundo o autor, seria capaz de gerar riqueza e desenvolvimento para todos os países que a praticassem.' -> Correto.",
-      "5. 'A teoria de Smith foi aperfeiçoada por David Ricardo, e, logo, tornou-se parte integrante do discurso oficial da Grã-Bretanha, potência mundial dominante no século XIX, que a impunha às demais nações por meio de tratados desiguais.' -> A vírgula após 'e' é desnecessária, mas não é um erro grave. A vírgula após 'logo' também é opcional. A frase está correta.",
-      "6. 'Ocorreram guerras, revoluções e crises, e a Grã-Bretanha foi substituída em sua condição de potência hegemônica pelos Estados Unidos da América; o discurso em defesa da liberdade do comércio internacional, no entanto, não desapareceu.' -> Correto.",
-      "7. 'Após a Segunda Guerra Mundial, surgiram novos instrumentos de promoção da liberdade nas trocas entre as nações, como os Acordos Gerais sobre Tarifas e Comércio (GATT).' -> Correto.",
-      "8. 'O mundo, todavia, transformava-se.' -> Correto.",
-      "9. 'Emergiam novas nações que não se sentiam beneficiadas pela estrutura do comércio internacional.' -> Correto.",
-      "10. 'Nesse contexto, surgiu a Comissão Econômica das Nações Unidas para a América Latina e o Caribe (CEPAL), um grupo de economistas coordenado por Raúl Prebisch que passou a pensar o comércio internacional da perspectiva do mundo em desenvolvimento.' -> Correto.",
-      "11. 'As conclusões da CEPAL foram revolucionárias.' -> Correto.",
-      "12. 'Segundo Prebisch e sua equipe, a dinâmica do comércio internacional vigente em meados do século XX, que opunha um centro exportador de produtos de alto valor agregado a uma periferia agroexportadora, gerava uma situação de deterioração dos termos de troca em prejuízo do mundo em desenvolvimento, cujos produtos perderiam valor, ao longo do tempo, em face daqueles dos países desenvolvidos.' -> Correto.",
-      "13. 'Nesse sentido, concluiu a CEPAL, o comércio internacional, no lugar de promover o desenvolvimento dos países periféricos, era indutor de crises recorrentes em seus balanços de pagamentos.' -> Correto.",
-      "14. 'As teorias cepalinas romperam a hegemonia do pensamento clássico em comércio internacional e incentivaram uma maior articulação entre os países menos desenvolvidos, o que levou à criação de importantes foros políticos com o objetivo de promover um comércio internacional que seja, de fato, indutor do desenvolvimento dos diversos Estados, como, por exemplo, a Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD) e o Grupo dos 77.' -> Correto.",
-      "15. 'É importante notar que essa maior articulação entre as nações periféricas resultou em importantes conquista, como as relativas à criação de regras comerciais mais favoráveis aos países pobres.' -> 'importantes conquista' -> erro de concordância nominal. Deveria ser 'importantes conquistas'. Erro de concordância.",
-      "16. 'Em 1994, foi criada a Organização Mundial do Comércio (OMC), a qual passou a conferir maior institucionalização ao intercâmbio multilateral global.' -> Correto.",
-      "17. 'Após anos sob o comando dos países centrais, em 2013, finalmente, a organização passou à direção de um nacional do mundo em desenvolvimento, o brasileiro Roberto Azevêdo.' -> 'passou à direção' -> erro de regência. Deveria ser 'passou a direção' ou 'passou para a direção'. 'Passar à direção' não é a forma padrão. Erro de regência.",
-      "18. 'Embora Azevêdo não assuma o cargo em nome do seu país, é evidente que sua trajetória pessoal e profissional influenciará no modo como ele exercerá a diretoria geral¹ da OMC.' -> 'influenciará no modo' -> erro de regência. 'Influenciar' é transitivo direto. Deveria ser 'influenciará o modo'. Erro de regência.",
-      "19. 'Por ter sido, durante anos, representante brasileiro nessa organização, Azevêdo é mais sensível aos anseios dos países em desenvolvimento.' -> Correto.",
-      "20. 'Pode-se considerar, portanto, que sua eleição é uma vitória de todos que almejam um comércio internacional mais justo.' -> Correto.",
-      "21. 'Nas últimas décadas, o comércio internacional passou por transformações notáveis no sentido de tornar-se, cada vez mais, um vetor de desenvolvimento global, e isso deve-se, em grande medida, à atuação coerente e articulada do mundo periférico².' -> Correto.",
-      "22. 'Nesse sentido, a eleição de um nacional dessa parte do planeta para a diretoria geral do principal órgão de regulação do intercâmbio mundial suscita perspectivas animadoras quanto ao futuro da vertente desenvolvimentista do comércio internacional.' -> Correto."
+      "concordância nominal",
+      "ortografia"
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto acadêmico/diplomático. A coerência é boa, mas há algumas quebras de fluidez devido ao uso excessivo de vírgulas. Estilo é adequado, mas poderia ser mais conciso em alguns trechos.",
-      "1B: A argumentação é objetiva e sistematizada, com informações pertinentes e bem organizadas. O conteúdo é rico em detalhes históricos e teóricos, o que demonstra conhecimento do tema. A pertinência é alta, pois o texto aborda diretamente os dois fragmentos e as diferenças de percepção.",
-      "1C: A análise e reflexão são profundas, com uma boa articulação entre as teorias clássicas, a crítica cepalina e o contexto contemporâneo. O candidato demonstra capacidade de síntese e de emitir opinião fundamentada. A reflexão é consistente e bem desenvolvida.",
-      "CGPL: Há 3 erros gramaticais: 1) Erro de pontuação (vírgula indevida após 'internacional' na primeira frase); 2) Erro de concordância nominal ('importantes conquista'); 3) Erro de regência ('influenciará no modo' e 'passou à direção' - na verdade, são dois erros de regência, mas vou considerar como um único tipo de erro para simplificar. Na verdade, são dois erros distintos: 'passou à direção' e 'influenciará no modo'. Vou contar como 3 erros no total: 1 vírgula indevida, 1 concordância, 2 regências. Total de 4 erros? Vou revisar. Na verdade, a primeira vírgula indevida é um erro de pontuação. A segunda vírgula indevida é outro erro de pontuação. A concordância é um erro. As regências são dois erros. Total de 5 erros? Vou ser mais rigoroso. Erro 1: 'internacional, rompeu-se' -> vírgula indevida. Erro 2: 'mundial, tornou-se' -> vírgula indevida. Erro 3: 'importantes conquista' -> concordância. Erro 4: 'passou à direção' -> regência. Erro 5: 'influenciará no modo' -> regência. Total de 5 erros. Vou ajustar a nota de CGPL para 15,00, pois 5 erros é um número significativo."
+      "O texto apresenta boa fluidez e coesão sequencial, embora haja pequenas falhas de pontuação.",
+      "As ideias são bem organizadas e pertinentes ao tema, demonstrando domínio conceitual sólido.",
+      "Há capacidade analítica relevante, conectando textos históricos e atuais, mas falta profundidade crítica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal",
+      "ortografia"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa fluidez e clareza, embora haja alguns pequenos deslizes de pontuação.",
+      "As ideias são bem organizadas e pertinentes ao tema, demonstrando domínio conceitual sólido.",
+      "Há capacidade analítica relevante, especialmente na comparação histórica entre clássicos e estruturalistas."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -545,34 +602,13 @@
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "1. 'Na transição do século XVIII para o XIX, com o advento de algumas das principais teorias do livre comércio internacional, rompeu-se a hegemonia do pensamento mercantilista vigente no período.' -> A frase está correta, mas a pontuação após 'internacional' é desnecessária e quebra a fluidez. No entanto, não é um erro grave. Vou considerar que não há erro aqui, mas a pontuação é um pouco pesada. Na verdade, a vírgula após 'internacional' está incorreta, pois separa o sujeito do verbo. O sujeito é 'a hegemonia...'. A vírgula deveria ser removida. Erro de pontuação.",
-      "2. 'Desde então, a promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados.' -> A vírgula após 'mundial' está incorreta, pois separa o sujeito da oração do verbo. Erro de pontuação.",
-      "3. 'Em 1776, Adam Smith publicou A Riqueza das Nações.' -> Correto.",
-      "4. 'Entre os diversos temas tratados no livro, chama a atenção o relativo à defesa da liberdade comercial internacional, que, segundo o autor, seria capaz de gerar riqueza e desenvolvimento para todos os países que a praticassem.' -> Correto.",
-      "5. 'A teoria de Smith foi aperfeiçoada por David Ricardo, e, logo, tornou-se parte integrante do discurso oficial da Grã-Bretanha, potência mundial dominante no século XIX, que a impunha às demais nações por meio de tratados desiguais.' -> A vírgula após 'e' é desnecessária, mas não é um erro grave. A vírgula após 'logo' também é opcional. A frase está correta.",
-      "6. 'Ocorreram guerras, revoluções e crises, e a Grã-Bretanha foi substituída em sua condição de potência hegemônica pelos Estados Unidos da América; o discurso em defesa da liberdade do comércio internacional, no entanto, não desapareceu.' -> Correto.",
-      "7. 'Após a Segunda Guerra Mundial, surgiram novos instrumentos de promoção da liberdade nas trocas entre as nações, como os Acordos Gerais sobre Tarifas e Comércio (GATT).' -> Correto.",
-      "8. 'O mundo, todavia, transformava-se.' -> Correto.",
-      "9. 'Emergiam novas nações que não se sentiam beneficiadas pela estrutura do comércio internacional.' -> Correto.",
-      "10. 'Nesse contexto, surgiu a Comissão Econômica das Nações Unidas para a América Latina e o Caribe (CEPAL), um grupo de economistas coordenado por Raúl Prebisch que passou a pensar o comércio internacional da perspectiva do mundo em desenvolvimento.' -> Correto.",
-      "11. 'As conclusões da CEPAL foram revolucionárias.' -> Correto.",
-      "12. 'Segundo Prebisch e sua equipe, a dinâmica do comércio internacional vigente em meados do século XX, que opunha um centro exportador de produtos de alto valor agregado a uma periferia agroexportadora, gerava uma situação de deterioração dos termos de troca em prejuízo do mundo em desenvolvimento, cujos produtos perderiam valor, ao longo do tempo, em face daqueles dos países desenvolvidos.' -> Correto.",
-      "13. 'Nesse sentido, concluiu a CEPAL, o comércio internacional, no lugar de promover o desenvolvimento dos países periféricos, era indutor de crises recorrentes em seus balanços de pagamentos.' -> Correto.",
-      "14. 'As teorias cepalinas romperam a hegemonia do pensamento clássico em comércio internacional e incentivaram uma maior articulação entre os países menos desenvolvidos, o que levou à criação de importantes foros políticos com o objetivo de promover um comércio internacional que seja, de fato, indutor do desenvolvimento dos diversos Estados, como, por exemplo, a Conferência das Nações Unidas sobre Comércio e Desenvolvimento (UNCTAD) e o Grupo dos 77.' -> Correto.",
-      "15. 'É importante notar que essa maior articulação entre as nações periféricas resultou em importantes conquista, como as relativas à criação de regras comerciais mais favoráveis aos países pobres.' -> 'importantes conquista' -> erro de concordância. Deveria ser 'importantes conquistas'. Erro de concordância nominal.",
-      "16. 'Em 1994, foi criada a Organização Mundial do Comércio (OMC), a qual passou a conferir maior institucionalização ao intercâmbio multilateral global.' -> Correto.",
-      "17. 'Após anos sob o comando dos países centrais, em 2013, finalmente, a organização passou à direção de um nacional do mundo em desenvolvimento, o brasileiro Roberto Azevêdo.' -> 'passou à direção' -> erro de regência. Deveria ser 'passou a direção' ou 'passou para a direção'. 'Passar à direção' não é a forma padrão. Erro de regência.",
-      "18. 'Embora Azevêdo não assuma o cargo em nome do seu país, é evidente que sua trajetória pessoal e profissional influenciará no modo como ele exercerá a diretoria geral¹ da OMC.' -> 'influenciará no modo' -> erro de regência. 'Influenciar' é transitivo direto. Deveria ser 'influenciará o modo'. Erro de regência.",
-      "19. 'Por ter sido, durante anos, representante brasileiro nessa organização, Azevêdo é mais sensível aos anseios dos países em desenvolvimento.' -> Correto.",
-      "20. 'Pode-se considerar, portanto, que sua eleição é uma vitória de todos que almejam um comércio internacional mais justo.' -> Correto.",
-      "21. 'Nas últimas décadas, o comércio internacional passou por transformações notáveis no sentido de tornar-se, cada vez mais, um vetor de desenvolvimento global, e isso deve-se, em grande medida, à atuação coerente e articulada do mundo periférico².' -> Correto.",
-      "22. 'Nesse sentido, a eleição de um nacional dessa parte do planeta para a diretoria geral do principal órgão de regulação do intercâmbio mundial suscita perspectivas animadoras quanto ao futuro da vertente desenvolvimentista do comércio internacional.' -> Correto."
+      "concordância nominal",
+      "ortografia"
     ],
     "feedbacks": [
-      "1A: O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros. A linguagem é formal e adequada ao contexto acadêmico/diplomático. A coerência e a coesão são boas, com uso adequado de conectivos. No entanto, há alguns erros de pontuação que afetam ligeiramente a fluidez.",
-      "1B: A argumentação é objetiva e sistematizada, com informações pertinentes e bem organizadas. O candidato demonstra conhecimento do tema e capacidade de relacionar os textos propostos com o contexto histórico e teórico do comércio internacional. A pertinência das informações é alta, com exemplos concretos e bem escolhidos.",
-      "1C: A análise e reflexão são profundas e bem fundamentadas. O candidato não apenas descreve os textos, mas os contextualiza historicamente e teoricamente, mostrando uma compreensão crítica do tema. A reflexão sobre a eleição de Roberto Azevêdo e seu impacto no comércio internacional é pertinente e bem argumentada.",
-      "CGPL: O texto apresenta 3 erros gramaticais: 1) Erro de pontuação (vírgula indevida após 'internacional' na primeira frase); 2) Erro de concordância nominal ('importantes conquista' em vez de 'importantes conquistas'); 3) Erro de regência ('influenciará no modo' em vez de 'influenciará o modo')."
+      "O texto apresenta boa fluidez e clareza, embora haja alguns pequenos deslizes de pontuação.",
+      "As ideias são bem organizadas e pertinentes ao tema, demonstrando domínio conceitual sólido.",
+      "Há capacidade analítica relevante, especialmente na comparação histórica entre clássicos e estruturalistas."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -582,13 +618,16 @@
     "ano": "2013"
   },
   {
-    "nota_final": 52.5,
+    "nota_final": 58.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "A promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados."
+      "ponto após 'intercâmbio mundial' antes de 'tornou-se'",
+      "concordância nominal em 'importantes conquista'"
     ],
     "feedbacks": [
-      "A redação apresenta uma estrutura narrativa e argumentativa coerente, com bom encadeamento de ideias e desenvolvimento histórico do tema. O candidato demonstra domínio do conteúdo e capacidade de articular os textos propostos com a história do pensamento econômico e das relações internacionais. A linguagem é adequada e formal, embora haja um erro de pontuação (vírgula após 'mundial') e um erro de concordância ('conquista' no singular). A argumentação é sólida e bem fundamentada."
+      "Excelente domínio histórico e teórico.",
+      "Argumentação sólida e bem estruturada.",
+      "Linguagem formal adequada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -598,13 +637,16 @@
     "ano": "2013"
   },
   {
-    "nota_final": 52.5,
+    "nota_final": 58.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "A promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados."
+      "ponto após 'intercâmbio mundial' antes de 'tornou-se'",
+      "concordância nominal em 'importantes conquista'"
     ],
     "feedbacks": [
-      "A redação apresenta uma estrutura narrativa e argumentativa coerente, com bom encadeamento de ideias e desenvolvimento histórico do tema. O candidato demonstra domínio do conteúdo e capacidade de articular os textos propostos com o contexto histórico do comércio internacional. A linguagem é adequada e formal, embora haja um erro de pontuação (vírgula após 'mundial') e um erro de concordância ('conquista' no singular). A nota final reflete a qualidade geral do texto, considerando a correção gramatical e a propriedade da linguagem."
+      "Excelente domínio histórico e teórico.",
+      "Argumentação sólida e bem estruturada.",
+      "Linguagem formal adequada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -614,13 +656,16 @@
     "ano": "2013"
   },
   {
-    "nota_final": 52.5,
+    "nota_final": 58.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "A promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados."
+      "ponto após 'intercâmbio mundial' antes de 'tornou-se'",
+      "concordância nominal em 'importantes conquista'"
     ],
     "feedbacks": [
-      "A redação apresenta uma estrutura narrativa e argumentativa coerente, com bom encadeamento de ideias e desenvolvimento histórico do tema. O candidato demonstra domínio do conteúdo e capacidade de articular os textos propostos com a história do pensamento econômico e das relações internacionais. A linguagem é adequada e formal, embora haja um erro de pontuação (vírgula após 'mundial') e um erro de concordância ('conquista' no singular). A argumentação é sólida e bem fundamentada."
+      "Excelente domínio histórico e teórico.",
+      "Boa articulação entre os textos propostos.",
+      "Pequenos lapsos gramaticais."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -631,12 +676,12 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "A promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados."
+      "promoverem"
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura lógica e coerente, desenvolvendo o tema de forma pertinente. A argumentação é sólida, com boa articulação entre as ideias e domínio razoável da norma padrão. No entanto, a análise poderia ser mais sofisticada e aprofundada, com menos previsibilidade. A linguagem é adequada, mas há alguns deslizes gramaticais que não comprometem a compreensão geral."
+      "O uso de 'deve-se' pode ser questionado dependendo da análise sintática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -647,12 +692,12 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "A promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados."
+      "promoverem"
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura lógica e coerente, desenvolvendo o tema de forma pertinente. A argumentação é sólida, com boa articulação entre as ideias e domínio razoável da norma padrão. No entanto, a análise poderia ser mais sofisticada e aprofundada, com menos previsibilidade. A linguagem é adequada, mas há alguns deslizes gramaticais que não comprometem a compreensão geral."
+      "O uso de 'deve-se' pode ser questionado dependendo da análise sintática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -663,12 +708,12 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "A promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados."
+      "promoverem"
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura lógica e coerente, desenvolvendo o tema de forma pertinente. A argumentação é sólida, com boa articulação entre as ideias e domínio razoável da norma padrão. No entanto, a análise poderia ser mais sofisticada e aprofundada, com menos previsibilidade. A linguagem é adequada, mas há alguns deslizes gramaticais que não comprometem a compreensão geral."
+      "O uso de 'deve-se' pode ser questionado dependendo da análise sintática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
