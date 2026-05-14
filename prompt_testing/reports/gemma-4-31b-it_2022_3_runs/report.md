@@ -1,8 +1,8 @@
-# Relatório de Avaliação: gemma-4-31b-it - 3 execuções
-**Gerado em: 30/04/2026 16:37:02**
+# Relatório de Avaliação: gemma-4-31B-it - 3 execuções
+**Gerado em: 14/05/2026 09:39:56**
 
 ## 1. Distribuição de Notas
-Nesta seção comparamos as notas atribuídas pelo modelo gemma em diferentes prompts/temperaturas versus a correção humana.
+Nesta seção comparamos as notas atribuídas pelo modelo gemma-4-31B-it em diferentes prompts/temperaturas versus a correção humana.
 
 ![Distribuição de Notas](distribuicao_notas.png)
 
@@ -33,23 +33,23 @@ Nesta seção, apresentamos a comparação entre as notas finais geradas pelo mo
     <tr>
       <td>7</td>
       <td>0.0</td>
-      <td>23.75</td>
-      <td>4.4667</td>
-      <td>5.1849</td>
+      <td>13.90</td>
+      <td>2.6333</td>
+      <td>3.0364</td>
     </tr>
     <tr>
       <td>8</td>
       <td>0.0</td>
-      <td>14.15</td>
-      <td>2.7333</td>
-      <td>3.7745</td>
+      <td>18.15</td>
+      <td>3.2333</td>
+      <td>5.8861</td>
     </tr>
     <tr>
       <td>9</td>
       <td>0.0</td>
-      <td>20.50</td>
-      <td>3.6667</td>
-      <td>5.2991</td>
+      <td>25.50</td>
+      <td>4.5000</td>
+      <td>7.1935</td>
     </tr>
   </tbody>
 </table>
@@ -71,17 +71,17 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 ![Correlações](correlacoes.png)
 
 ## Estatísticas Descritivas
-### Modelo gemma-4-31b-it
-|       |    prompt |   temp |   redacao |   nota_final |   nota_final_std |        1A |        1B |       1C |     CGPL |   num_errors |
-|:------|----------:|-------:|----------:|-------------:|-----------------:|----------:|----------:|---------:|---------:|-------------:|
-| count | 18        |     18 |  18       |     18       |               18 |  6        |  6        |  6       |  6       |     18       |
-| mean  |  8        |      0 |   3.5     |     55.7889  |                0 |  9.83333  |  9.66667  | 19.1667  | 18.8667  |      1.11111 |
-| std   |  0.840168 |      0 |   1.75734 |      4.69579 |                0 |  0.408248 |  0.816497 |  2.04124 |  2.07621 |      1.36722 |
-| min   |  7        |      0 |   1       |     45       |                0 |  9        |  8        | 15       | 14.7     |      0       |
-| 25%   |  7        |      0 |   2       |     55       |                0 | 10        | 10        | 20       | 19.175   |      0       |
-| 50%   |  8        |      0 |   3.5     |     57.25    |                0 | 10        | 10        | 20       | 19.7     |      0.5     |
-| 75%   |  9        |      0 |   5       |     59.325   |                0 | 10        | 10        | 20       | 20       |      2       |
-| max   |  9        |      0 |   6       |     60       |                0 | 10        | 10        | 20       | 20       |      4       |
+### Modelo gemma-4-31B-it
+|       |    prompt |   temp |   redacao |   nota_final |   nota_final_std |        1A |        1B |        1C |      CGPL |   num_errors |
+|:------|----------:|-------:|----------:|-------------:|-----------------:|----------:|----------:|----------:|----------:|-------------:|
+| count | 18        |     18 |  18       |      18      |               18 |  6        |  6        |  6        |  6        |    18        |
+| mean  |  8        |      0 |   3.5     |      54.5111 |                0 |  9.33333  |  9.83333  | 18.8333   | 18.5333   |     0.888889 |
+| std   |  0.840168 |      0 |   1.75734 |       5.1831 |                0 |  0.516398 |  0.408248 |  0.983192 |  0.926643 |     1.36722  |
+| min   |  7        |      0 |   1       |      40      |                0 |  9        |  9        | 18        | 17.8      |     0        |
+| 25%   |  7        |      0 |   2       |      55      |                0 |  9        | 10        | 18        | 18        |     0        |
+| 50%   |  8        |      0 |   3.5     |      55      |                0 |  9        | 10        | 18.5      | 18        |     0        |
+| 75%   |  9        |      0 |   5       |      56.5    |                0 |  9.75     | 10        | 19.75     | 19.05     |     2        |
+| max   |  9        |      0 |   6       |      60      |                0 | 10        | 10        | 20        | 20        |     4        |
 
 ### Humano
 |       |   redacao |   nota_final |        1A |        1B |        1C |      CGPL |   num_errors |
