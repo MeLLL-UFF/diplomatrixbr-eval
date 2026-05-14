@@ -1,5 +1,5 @@
 # Relatório de Avaliação: Qwen3.6-35B-A3B - 3 execuções
-**Gerado em: 14/05/2026 09:34:43**
+**Gerado em: 14/05/2026 18:26:20**
 
 ## 1. Distribuição de Notas
 Nesta seção comparamos as notas atribuídas pelo modelo Qwen3.6-35B-A3B em diferentes prompts/temperaturas versus a correção humana.

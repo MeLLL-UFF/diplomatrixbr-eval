@@ -1,5 +1,5 @@
 # Relatório de Avaliação: gemma-4-31B-it - 3 execuções
-**Gerado em: 14/05/2026 09:39:56**
+**Gerado em: 14/05/2026 18:24:47**
 
 ## 1. Distribuição de Notas
 Nesta seção comparamos as notas atribuídas pelo modelo gemma-4-31B-it em diferentes prompts/temperaturas versus a correção humana.

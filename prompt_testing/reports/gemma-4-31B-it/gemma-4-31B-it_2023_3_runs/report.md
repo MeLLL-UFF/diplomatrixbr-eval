@@ -1,5 +1,5 @@
 # Relatório de Avaliação: gemma-4-31B-it - 3 execuções
-**Gerado em: 14/05/2026 12:28:32**
+**Gerado em: 14/05/2026 18:24:56**
 
 ## 1. Distribuição de Notas
 Nesta seção comparamos as notas atribuídas pelo modelo gemma-4-31B-it em diferentes prompts/temperaturas versus a correção humana.
@@ -84,13 +84,13 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 | max   |  9        |      0 |   5       |     55       |         11.547   | 9.3333   | 10        | 18        | 17.4      |      4       |
 
 ### Humano
-|       |   redacao |   nota_final |
-|:------|----------:|-------------:|
-| count |   5       |     5        |
-| mean  |   3       |    59.06     |
-| std   |   1.58114 |     0.563915 |
-| min   |   1       |    58.2      |
-| 25%   |   2       |    59        |
-| 50%   |   3       |    59        |
-| 75%   |   4       |    59.4      |
-| max   |   5       |    59.7      |
+|       |   redacao |   nota_final |   num_errors |
+|:------|----------:|-------------:|-------------:|
+| count |   5       |     5        |      5       |
+| mean  |   3       |    59.06     |      0.8     |
+| std   |   1.58114 |     0.563915 |      0.83666 |
+| min   |   1       |    58.2      |      0       |
+| 25%   |   2       |    59        |      0       |
+| 50%   |   3       |    59        |      1       |
+| 75%   |   4       |    59.4      |      1       |
+| max   |   5       |    59.7      |      2       |

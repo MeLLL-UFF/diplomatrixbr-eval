@@ -1,5 +1,5 @@
 # Relatório de Avaliação: gpt-oss-120b - 3 execuções
-**Gerado em: 14/05/2026 12:29:19**
+**Gerado em: 14/05/2026 18:27:36**
 
 ## 1. Distribuição de Notas
 Nesta seção comparamos as notas atribuídas pelo modelo gpt-oss-120b em diferentes prompts/temperaturas versus a correção humana.
@@ -84,13 +84,13 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 | max   |  9       |      0 |   7       |      57.3    |                0 | 8       | 9       | 15       | 11.4     |     28       |
 
 ### Humano
-|       |   redacao |   nota_final |
-|:------|----------:|-------------:|
-| count |   7       |      7       |
-| mean  |   4       |     57.4571  |
-| std   |   2.16025 |      1.61385 |
-| min   |   1       |     54       |
-| 25%   |   2.5     |     57.5     |
-| 50%   |   4       |     58.05    |
-| 75%   |   5.5     |     58.2     |
-| max   |   7       |     58.75    |
+|       |   redacao |   nota_final |   num_errors |
+|:------|----------:|-------------:|-------------:|
+| count |   7       |      7       |     7        |
+| mean  |   4       |     57.4571  |     0.571429 |
+| std   |   2.16025 |      1.61385 |     0.786796 |
+| min   |   1       |     54       |     0        |
+| 25%   |   2.5     |     57.5     |     0        |
+| 50%   |   4       |     58.05    |     0        |
+| 75%   |   5.5     |     58.2     |     1        |
+| max   |   7       |     58.75    |     2        |

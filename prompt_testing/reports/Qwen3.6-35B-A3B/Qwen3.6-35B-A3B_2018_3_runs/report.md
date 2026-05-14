@@ -1,5 +1,5 @@
 # Relatório de Avaliação: Qwen3.6-35B-A3B - 3 execuções
-**Gerado em: 14/05/2026 09:34:43**
+**Gerado em: 14/05/2026 18:25:53**
 
 ## 1. Distribuição de Notas
 Nesta seção comparamos as notas atribuídas pelo modelo Qwen3.6-35B-A3B em diferentes prompts/temperaturas versus a correção humana.
@@ -84,13 +84,13 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 | max   |  9        |      0 |   6       |     55       |       0.1732     | 7.5      | 6.5      |   12 | 11.5     |     12       |
 
 ### Humano
-|       |   redacao |   nota_final |
-|:------|----------:|-------------:|
-| count |   6       |      6       |
-| mean  |   3.5     |     49.8583  |
-| std   |   1.87083 |      5.53809 |
-| min   |   1       |     39.15    |
-| 25%   |   2.25    |     49.5     |
-| 50%   |   3.5     |     52.25    |
-| 75%   |   4.75    |     52.75    |
-| max   |   6       |     54       |
+|       |   redacao |   nota_final |   num_errors |
+|:------|----------:|-------------:|-------------:|
+| count |   6       |      6       |      6       |
+| mean  |   3.5     |     49.8583  |      1.83333 |
+| std   |   1.87083 |      5.53809 |      1.16905 |
+| min   |   1       |     39.15    |      0       |
+| 25%   |   2.25    |     49.5     |      1.25    |
+| 50%   |   3.5     |     52.25    |      2       |
+| 75%   |   4.75    |     52.75    |      2.75    |
+| max   |   6       |     54       |      3       |
