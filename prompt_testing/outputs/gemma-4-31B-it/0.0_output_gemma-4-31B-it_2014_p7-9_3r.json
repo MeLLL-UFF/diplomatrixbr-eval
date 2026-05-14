@@ -855,6 +855,45 @@
     "ano": "2014"
   },
   {
+  "nota_final": 52.00,
+  "numero_de_erros_gramaticais":1,
+  "erros_gramaticais": [
+    "maiores legitimidade e efetividade (concordância nominal)"
+  ],
+  "modelo": "gemma-4-31B-it",
+  "prompt": 8,
+  "temp": 0.0,
+  "versao": 1,
+  "essay": 7,
+  "ano": "2014"
+  },
+  {
+  "nota_final": 52.00,
+  "numero_de_erros_gramaticais":1,
+  "erros_gramaticais": [
+    "maiores legitimidade e efetividade (concordância nominal)"
+  ],
+  "modelo": "gemma-4-31B-it",
+  "prompt": 8,
+  "temp": 0.0,
+  "versao": 2,
+  "essay": 7,
+  "ano": "2014"
+  },
+  {
+  "nota_final": 52.00,
+  "numero_de_erros_gramaticais":1,
+  "erros_gramaticais": [
+    "maiores legitimidade e efetividade (concordância nominal)"
+  ],
+  "modelo": "gemma-4-31B-it",
+  "prompt": 8,
+  "temp": 0.0,
+  "versao": 3,
+  "essay": 7,
+  "ano": "2014"
+  },
+  {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [

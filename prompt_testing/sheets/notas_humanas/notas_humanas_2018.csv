@@ -1,7 +1,7 @@
 judge,redacao,nota_final,1A,1B,1C,CGPL,num_errors
-humano,1,54,-,-,-,-,-
-humano,2,52.75,-,-,-,-,-
-humano,3,52.75,-,-,-,-,-
-humano,4,51.75,-,-,-,-,-
-humano,5,48.75,-,-,-,-,-
-humano,6,39.15,-,-,-,-,-
+humano,1,54,-,-,-,-,2
+humano,2,52.75,-,-,-,-,1
+humano,3,52.75,-,-,-,-,3
+humano,4,51.75,-,-,-,-,2
+humano,5,48.75,-,-,-,-,0
+humano,6,39.15,-,-,-,-,3

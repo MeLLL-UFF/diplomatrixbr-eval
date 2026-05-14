@@ -2169,6 +2169,48 @@
     "ano": "2015"
   },
   {
+  "nota_final":"57.30",
+  "numero_de_erros_gramaticais":5,
+  "erros_gramaticais":[
+    "consonant", "..."
+  ],
+  "feedbacks":[],
+  "modelo": "gpt-oss-120b",
+  "prompt": 8,
+  "temp": 0.0,
+  "versao": 1,
+  "essay": 16,
+  "ano": "2015"
+  },
+  {
+  "nota_final":"57.30",
+  "numero_de_erros_gramaticais":5,
+  "erros_gramaticais":[
+    "consonant", "..."
+  ],
+  "feedbacks":[],
+  "modelo": "gpt-oss-120b",
+  "prompt": 8,
+  "temp": 0.0,
+  "versao": 2,
+  "essay": 16,
+  "ano": "2015"
+  },
+  {
+  "nota_final":"57.30",
+  "numero_de_erros_gramaticais":5,
+  "erros_gramaticais":[
+    "consonant", "..."
+  ],
+  "feedbacks":[],
+  "modelo": "gpt-oss-120b",
+  "prompt": 8,
+  "temp": 0.0,
+  "versao": 3,
+  "essay": 16,
+  "ano": "2015"
+  },
+  {
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
