@@ -36,7 +36,6 @@ def main(num_runs, eval_path, human_path, model, year):
     #df_eval = df_eval[df_eval["temp"] != 0.9]
 
     df_human = pd.read_csv(human_path)
-    df_human.drop(columns=["versao", "prompt", "temp", "faixa"], inplace=True)
 
     # Calculando métricas adicionais
     df_merged = df_eval.merge(

@@ -1,19 +1,17 @@
 import json
 import csv
 import os
-import time
 
 from utils import create_new_row
 
 year = 2022
 model = "gemma-4-31B-it"
 path_json_response = os.path.join(os.getcwd(), "prompt_testing", "outputs", model, f"0.0_output_{model}_{year}_p7-9_3r.json")
-data_atual = time.strftime("%d.%m.%Y-%H.%M.%S")
 
 with open(path_json_response, 'r', encoding="utf-8") as json_file:
     data = json.load(json_file)
 
-filename_path = f'prompt_testing/sheets/{model}'
+filename_path = os.path.join("prompt_testing", "sheets", model)
 os.makedirs(filename_path, exist_ok=True)
 filename = os.path.join(filename_path, f"{model}_{year}_p7-9_3r.csv")
 with open(filename, 'w', newline='', encoding="utf-8") as output_file:
