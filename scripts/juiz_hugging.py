@@ -26,7 +26,7 @@ class respostaFinal(BaseModel):
   feedbacks: list[str]  
 
 class respostaEmFaixa(BaseModel):
-  faixa: str
+  faixa: str = Field(pattern=r"^(Fraco|Regular|Bom|Ótimo|Excelente|Excepcional)$")
   numero_de_erros_gramaticais: int
   erros_gramaticais: list[str]
   feedbacks: list[str]

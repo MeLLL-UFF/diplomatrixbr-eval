@@ -2,7 +2,7 @@ NITERACOES="3"
 TEMPS="0.0"
 PROMPTS="7 8 9"
 ESSAY=""
-NOME_MODELO="openai/gpt-oss-20b"
+NOME_MODELO="openai/gpt-oss-120b"
 
 python3 -m scripts.juiz_hugging --n_iteracoes $NITERACOES --temps $TEMPS --anos 2013 --prompts $PROMPTS --nome_modelo $NOME_MODELO
 python3 -m scripts.juiz_hugging --n_iteracoes $NITERACOES --temps $TEMPS --anos 2014 --prompts $PROMPTS --nome_modelo $NOME_MODELO

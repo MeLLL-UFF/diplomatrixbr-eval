@@ -1,0 +1,788 @@
+[
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 22,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 22,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 22,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "faltou vírgula após \"conforme\"?"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "faltou vírgula após \"conforme\"?"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "faltou vírgula após \"conforme\"?"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "concordancia",
+      "ortografia"
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "concordancia",
+      "ortografia"
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "concordancia",
+      "ortografia"
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "uso incorreto de vírgula"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "uso incorreto de vírgula"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "uso incorreto de vírgula"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "acentuacao"
+    ],
+    "feedbacks": [
+      "Coerencia geral boa; argumentos bem estruturados.",
+      "Alguns pequenos deslizes gramaticais."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "acentuacao"
+    ],
+    "feedbacks": [
+      "Coerencia geral boa; argumentos bem estruturados.",
+      "Alguns pequenos deslizes gramaticais."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "acentuacao"
+    ],
+    "feedbacks": [
+      "Coerencia geral boa; argumentos bem estruturados.",
+      "Alguns pequenos deslizes gramaticais."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, introduzindo o panorama histórico e conectando‑o ao cenário atual de comunicação digital.",
+      "Os argumentos são consistentes e demonstram bom conhecimento do papel do diplomata frente à rapidez das mídias contemporâneas.",
+      "Há variedade lexical e construção adequada de períodos; pequenos desvios pontuais não comprometem a compreensão."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, introduzindo o panorama histórico e conectando‑o ao cenário atual de comunicação digital.",
+      "Os argumentos são consistentes e demonstram bom conhecimento do papel do diplomata frente à rapidez das mídias contemporâneas.",
+      "Há variedade lexical e construção adequada de períodos; pequenos desvios pontuais não comprometem a compreensão."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, introduzindo o panorama histórico e conectando‑o ao cenário atual de comunicação digital.",
+      "Os argumentos são consistentes e demonstram bom conhecimento do papel do diplomata frente à rapidez das mídias contemporâneas.",
+      "Há variedade lexical e construção adequada de períodos; pequenos desvios pontuais não comprometem a compreensão."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  }
+]

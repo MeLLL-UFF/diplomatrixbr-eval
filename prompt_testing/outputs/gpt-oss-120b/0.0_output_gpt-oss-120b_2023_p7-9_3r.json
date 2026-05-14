@@ -1,0 +1,707 @@
+[
+  {
+    "nota_1A": 7,
+    "nota_1B": 9,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 28,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 9,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 28,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 9,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 28,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra organização clara, introduzindo conceito teórico, desenvolvendo argumentos positivos e negativos da IA na diplomacia, concluindo com proposta de ação coletiva.",
+      "Argumentação bem‑estruturada, exemplos pertinentes (simulações de conferências, combate ao desmatamento, ONU‑ODS 4)",
+      "Uso correto da norma culta, quase nenhum ponto de pontuação…"
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra organização clara, introduzindo conceito teórico, desenvolvendo argumentos positivos e negativos da IA na diplomacia, concluindo com proposta de ação coletiva.",
+      "Argumentação bem‑estruturada, exemplos pertinentes (simulações de conferências, combate ao desmatamento, ONU‑ODS 4)",
+      "Uso correto da norma culta, quase nenhum ponto de pontuação…"
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra organização clara, introduzindo conceito teórico, desenvolvendo argumentos positivos e negativos da IA na diplomacia, concluindo com proposta de ação coletiva.",
+      "Argumentação bem‑estruturada, exemplos pertinentes (simulações de conferências, combate ao desmatamento, ONU‑ODS 4)",
+      "Uso correto da norma culta, quase nenhum ponto de pontuação…"
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "contribuido",
+      "dependencia",
+      "regulamentar",
+      "substituir",
+      "cultura",
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "contribuido",
+      "dependencia",
+      "regulamentar",
+      "substituir",
+      "cultura",
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "contribuido",
+      "dependencia",
+      "regulamentar",
+      "substituir",
+      "cultura",
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "concordancia_verbal",
+      "acento_accentual"
+    ],
+    "feedbacks": [
+      "O seu texto demonstra forte entendimento do tema proposto, apresentando argumentos claros e bem‑distribidos nas diferentes partes da disser…",
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "concordancia_verbal",
+      "acento_accentual"
+    ],
+    "feedbacks": [
+      "O seu texto demonstra forte entendimento do tema proposto, apresentando argumentos claros e bem‑distribidos nas diferentes partes da disser…",
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "concordancia_verbal",
+      "acento_accentual"
+    ],
+    "feedbacks": [
+      "O seu texto demonstra forte entendimento do tema proposto, apresentando argumentos claros e bem‑distribidos nas diferentes partes da disser…",
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ","
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ","
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ","
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  }
+]
