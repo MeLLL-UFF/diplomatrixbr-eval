@@ -23,7 +23,7 @@ def print_full(df):
 def main(num_runs, eval_path, human_path, model, year):
     pd.set_option('future.no_silent_downcasting', True)
     root_path = os.getcwd()
-    output_path = os.path.join(root_path, "prompt_testing", "reports", f"{model}_{year}_{num_runs}_runs")
+    output_path = os.path.join(root_path, "prompt_testing", "reports", model, f"{model}_{year}_{num_runs}_runs")
     os.makedirs(output_path, exist_ok=True)
 
     # Carregando dados
