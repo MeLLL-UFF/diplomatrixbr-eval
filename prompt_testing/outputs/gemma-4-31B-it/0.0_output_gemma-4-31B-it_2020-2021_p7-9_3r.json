@@ -1,0 +1,780 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
+      ", 'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')",
+      ", 'poder relativo do sistema internacional' (regência/preposição: o correto seria 'poder relativo no sistema internacional')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
+      ", 'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')",
+      ", 'poder relativo do sistema internacional' (regência/preposição: o correto seria 'poder relativo no sistema internacional')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
+      ", 'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')",
+      ", 'poder relativo do sistema internacional' (regência/preposição: o correto seria 'poder relativo no sistema internacional')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
+      "'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
+      "'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
+      "'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
+      ", o Brasil de no seio do G4 a ampliação' (omissão de verbo: deveria ser 'o Brasil defende no seio do G4')",
+      "'poder relativo do sistema internacional' (falta de preposição: deveria ser 'poder relativo no sistema internacional')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
+      ", o Brasil de no seio do G4 a ampliação' (omissão de verbo: deveria ser 'o Brasil defende no seio do G4')",
+      "'poder relativo do sistema internacional' (falta de preposição: deveria ser 'poder relativo no sistema internacional')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
+      ", o Brasil de no seio do G4 a ampliação' (omissão de verbo: deveria ser 'o Brasil defende no seio do G4')",
+      "'poder relativo do sistema internacional' (falta de preposição: deveria ser 'poder relativo no sistema internacional')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são' (Erro de concordância verbal: o núcleo do sujeito é 'discurso', no singular. O correto seria 'O discurso... é' ou 'Os discursos... são').",
+      "'emprego da forca' (Erro de ortografia/digitação: o correto é 'força')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são' (Erro de concordância verbal: o núcleo do sujeito é 'discurso', no singular. O correto seria 'O discurso... é' ou 'Os discursos... são').",
+      "'emprego da forca' (Erro de ortografia/digitação: o correto é 'força')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são' (Erro de concordância verbal: o núcleo do sujeito é 'discurso', no singular. O correto seria 'O discurso... é' ou 'Os discursos... são').",
+      "'emprego da forca' (Erro de ortografia/digitação: o correto é 'força')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida de palavras: 'Os trechos dos discursos dos discursos' (1º parágrafo)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida de palavras: 'Os trechos dos discursos dos discursos' (1º parágrafo)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida de palavras: 'Os trechos dos discursos dos discursos' (1º parágrafo)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "repetição de palavras ('dos discursos dos discursos') no primeiro período."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida de palavras: 'dos discursos dos discursos' no primeiro período."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "repetição de palavras ('dos discursos dos discursos') no primeiro período."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida de palavras no início do texto: 'Os trechos dos discursos dos discursos...' (erro de digitação/revisão)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida de palavras no início do texto: 'Os trechos dos discursos dos discursos...' (erro de digitação/revisão)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida de palavras no início do texto: 'Os trechos dos discursos dos discursos...' (erro de digitação/revisão)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 19.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Uso de 'a nível global' (expressão considerada imprecisa/incorreta em contextos formais, preferindo-se 'em nível global' ou 'globalmente')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 19.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Uso de 'a nível global' (expressão considerada imprecisa/incorreta em contextos formais, preferindo-se 'em nível global' ou 'globalmente')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 19.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Uso de 'a nível global' (expressão considerada imprecisa/incorreta em contextos formais, preferindo-se 'em nível global' ou 'globalmente')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'qualquer um que perturba a paz' (falta de concordância verbal/modo: o correto seria 'perturbe', dado o sentido de repúdio a qualquer possibilidade)",
+      "'a aquela não era uma medida de adequada' (erro de digitação/sintaxe: 'de adequada')",
+      "'prevenção e o de tensionamento' (erro de sintaxe/digitação: 'o de tensionamento')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'qualquer um que perturba a paz' (falta de concordância verbal/modo: o correto seria 'perturbe', dado o sentido de repúdio a qualquer possibilidade)",
+      "'a aquela não era uma medida de adequada' (erro de digitação/sintaxe: 'de adequada')",
+      "'prevenção e o de tensionamento' (erro de sintaxe/digitação: 'o de tensionamento')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'qualquer um que perturba a paz' (falta de concordância verbal/modo: o correto seria 'perturbe', dado o sentido de repúdio a qualquer possibilidade)",
+      "'a aquela não era uma medida de adequada' (erro de digitação/sintaxe: 'de adequada')",
+      "'prevenção e o de tensionamento' (erro de sintaxe/digitação: 'o de tensionamento')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Não detalhados conforme instrução."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Não detalhados conforme instrução."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Repetição redundante de frase: 'Essa nova organização internacional impôs... uma mudança de paradigma' (repetição quase literal da frase anterior).",
+      "Pontuação: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' (uso de vírgula onde deveria haver ponto final ou ponto e vírgula, seguido de letra maiúscula).",
+      "Pontuação: 'Hoje, um CSNU mais justo, é, também, um CNU mais efetivo' (vírgula separando sujeito do predicado)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Repetição redundante de frase: 'Essa nova organização internacional impôs... uma mudança de paradigma' (repetição quase literal da frase anterior).",
+      "Pontuação: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' (uso de vírgula onde deveria haver ponto final ou ponto e vírgula, seguido de letra maiúscula).",
+      "Pontuação: 'Hoje, um CSNU mais justo, é, também, um CNU mais efetivo' (vírgula separando sujeito do predicado)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Repetição redundante de frase: 'Essa nova organização internacional impôs... uma mudança de paradigma' (repetição quase literal da frase anterior).",
+      "Pontuação: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' (uso de vírgula onde deveria haver ponto final ou ponto e vírgula, seguido de letra maiúscula).",
+      "Pontuação: 'Hoje, um CSNU mais justo, é, também, um CNU mais efetivo' (vírgula separando sujeito do predicado)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  }
+]

@@ -1,0 +1,3231 @@
+[
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'a maior projeção... ampliaram' -> deveria ser 'ampliou'.",
+      "Pontuação/Vírgula desnecessária: ', significativamente,' interrompe indevidamente a oração.",
+      "Regência/Nome próprio: 'Gerson Fonseca' (grafia comum) vs 'Gelson Fonseca'; considero erro de grafia/nome."
+    ],
+    "feedbacks": [
+      "1A: Texto coeso, bom uso de conectivos, estrutura clara. Perdeu ponto leve por repetições ('processo', 'atual') e frase inicial densa.",
+      "1B: Argumentação sólida, boa sistematização, cita autores pertinentes. Falta profundidade crítica nas conexões lógicas entre parágrafos.",
+      "1C: Análise reflexiva presente, mas superficial. Não problematiza contradições ou riscos futuros. Limita-se a expor continuidades/rupturas.",
+      "CGPL: Erros menores de concordância e pontuação. Regra geral aceitável."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'a maior projeção... ampliaram' -> deveria ser 'ampliou'.",
+      "Pontuação/Vírgula desnecessária: ', significativamente,' interrompe indevidamente a oração.",
+      "Regência/Nome próprio: 'Gerson Fonseca' (grafia comum) vs 'Gelson Fonseca'; considero erro de grafia/nome."
+    ],
+    "feedbacks": [
+      "1A: Texto coeso, bom uso de conectivos e estrutura clara. Pequenas falhas de fluidez e pontuação.",
+      "1B: Argumentação sólida, boa articulação entre textos base e conceitos doutrinários. Pouca profundidade crítica em alguns trechos.",
+      "1CGPL: Erros menores de concordância e pontuação. Regra geral atendida."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'a maior projeção... ampliaram' -> deveria ser 'ampliou'.",
+      "Pontuação/Vírgula desnecessária: ', significativamente,' interrompe indevidamente a oração.",
+      "Regência/Nome próprio: 'Gerson Fonseca' (grafia comum) vs 'Gelson Fonseca'; considero erro de grafia/nome."
+    ],
+    "feedbacks": [
+      "1A - Excelente fluidez e estrutura clara. Uso adequado de conectivos. Pequena falha de pontuação.",
+      "1B - Argumentação sólida, boa sistematização e uso pertinente de autores/conceitos específicos da área.",
+      "1C - Análise profunda, articulando bem os textos-base com conceitos técnicos ('autonomia pela distância/participação') e reflexões críticas sobre o futuro.",
+      "CGPL - Textualmente correto, exceto pelos três pequenos deslizes listados."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'a maior projeção... ampliaram' -> deveria ser 'ampliou'.",
+      "Pontuação/Adequação: 'Chefes de Estado' -> maiúscula desnecessária.",
+      "Regência/Crase: 'à tendência' -> crase opcível, mas aceitável; contudo, há erro claro de concordância verbal."
+    ],
+    "feedbacks": [
+      "Excelente domínio conceitual e articulação teórica.",
+      "Uso pertinente de autores e conceitos específicos da área.",
+      "Estrutura dissertativa-argumentativa coesa e fluida.",
+      "Pequenos deslizes gramaticais não comprometem gravemente a compreensão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'a maior projeção... ampliaram' -> deveria ser 'ampliou'.",
+      "Pontuação/Adequação: 'Chefes de Estado' -> maiúscula desnecessária.",
+      "Regência/Crase: 'à tendência' -> crase facultativa, mas aceitável; contudo, há erro claro de concordância verbal."
+    ],
+    "feedbacks": [
+      "Excelente domínio conceitual e articulação teórica.",
+      "Uso pertinente de autores e conceitos específicos da área.",
+      "Estrutura dissertativa-argumentativa coesa e fluida.",
+      "Pequenos deslizes gramaticais não comprometem gravemente a compreensão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'a maior projeção... ampliaram' -> deveria ser 'ampliou'.",
+      "Pontuação/Adequação: 'Chefes de Estado' -> maiúscula desnecessária.",
+      "Regência/Crase: 'à tendência' -> crase opcível, mas aceitável; contudo, há erro claro de concordância verbal."
+    ],
+    "feedbacks": [
+      "Excelente domínio conceitual e articulação teórica.",
+      "Uso pertinente de autores e conceitos específicos da área.",
+      "Estrutura dissertativa-argumentativa coesa e fluida.",
+      "Pequenos deslizes gramaticais não comprometem gravemente a compreensão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'As reivindicações... foram complementadas' - correto; 'esse maior engajamento fortalece...' - correto; 'Esses processos são... mas que deverão influenciar...' - correto."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise profunda e articulada, conectando eficazmente os conceitos teóricos ('autonomia pela distância', 'autonomia pela participação') com exemplos concretos e atualizados.",
+      "Há excelente uso de referências bibliográficas e conceituais integradas naturalmente ao argumento principal.",
+      "A progressão temática é clara, indo da comparação histórica até a síntese final sobre o 'destino de grandeza'.",
+      "Pequenos ajustes de pontuação poderiam melhorar a fluidez, mas não comprometem a compreensão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'As reivindicações... foram complementadas' - correto; 'esse maior engajamento fortalece...' - correto; 'Esses processos são... mas que deverão influenciar...' - correto."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise profunda e articulada, conectando eficazmente os conceitos teóricos ('autonomia pela distância', 'autonomia pela participação') com exemplos concretos e atualizados.",
+      "Há excelente uso de referências bibliográficas e conceituais integradas naturalmente ao argumento principal.",
+      "A progressão temática é clara, passando da comparação histórica para a definição do novo paradigma e suas implicações sociais e institucionais.",
+      "Apresenta algumas pequenas imprecisões terminológicas ou de citação (ex.: 'Gelson Fonseca' provavelmente refere-se a Gerson Moura ou outro autor consagrado; 'Luiz Alberto Figueiredo' foi Ministro nas décadas de 80/90, citando-o como falando 'recentemente' requer verificação contextual precisa), mas isso não compromete a sofisticação da argumentação central.",
+      "Linguagem formal, técnica e adequada ao nível exigido pelo CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'As reivindicações... foram complementadas' - correto; 'esse maior engajamento fortalece...' - correto; 'Esses processos são... mas que deverão influenciar...' - correto."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise profunda e articulada, conectando eficazmente os conceitos teóricos ('autonomia pela distância', 'autonomia pela participação') com exemplos concretos e atualizados.",
+      "Há excelente uso de referências bibliográficas e conceituais integradas naturalmente ao argumento principal.",
+      "A progressão temática é clara, indo da comparação histórica até a síntese final sobre o 'destino de grandeza'.",
+      "Pequenos ajustes de pontuação poderiam melhorar a fluidez, mas não comprometem a compreensão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 9,
+    "erros_gramaticais": [
+      "Concordância nominal/numeral: 'pessoa' deveria estar no plural ('pessoas') após '300 milhões'.",
+      "Uso inadequado de vírgula: 'sobretudo,' isolada entre vírgulas interrompe a fluidez normal da oração.",
+      "Regência/Vírgula: 'beneficamente,' seguido de vírgula desnecessária que separa adjunto adverbial curto.",
+      "Pontuação excessiva/vícios de estilo: Uso repetitivo de 'consequentemente', 'nesse sentido', 'neste contexto' como conectores iniciais de parágrafo/oração, caracterizando empobrecimento sintático.",
+      "Ortografia/Acentuação: Não houve erro grave aqui, mas o uso de notas de rodapé (¹) indica falta de cuidado editorial básico esperado em prova escrita.",
+      "Repetição lexical: Uso excessivo de 'Brasil', 'políticas', 'internacional', indicando vocabulário restrito.",
+      "Estrutura frasal: Frases longas e complexas às vezes perdem clareza devido ao excesso de subordinadas."
+    ],
+    "feedbacks": [
+      "1A - Coerência e Estilo: O texto apresenta boa coesão sequencial, mas peca pelo estilo excessivamente técnico-econômico, afastando-se do discurso diplomático clássico. Há repetições lexicais e vícios de construção (excesso de advérbios iniciadores). Nota: 7,5/10.",
+      "1B - Argumentação: As ideias são pertinentes ao tema, porém a argumentação foca demais em detalhes microeconômicos (pirâmide etária, déficit cambial) em detrimento da macroestratégia diplomática exigida pelos textos-base. Falta diálogo direto com os autores citados. Nota: 6,0/10.",
+      "1C - Análise e Reflexão: Demonstra capacidade analítica ao cruzar variáveis internas e externas, mas a conclusão é previsível e pouco crítica. A reflexão fica presa a diagnósticos técnicos sem propor rupturas estratégicas profundas sugeridas pela literatura da área. Nota: 12,0/20.",
+      "CGPL - Correção Gramatical: Presentes diversos erros de pontuação (vírgulas mal colocadas), concordância numeral ("
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 9,
+    "erros_gramaticais": [
+      "Concordância nominal/numeral: 'pessoa' deveria estar no plural ('pessoas') após '300 milhões'.",
+      "Uso inadequado de vírgula: 'sobretudo,' isolada entre vírgulas interrompe a fluidez normal da oração.",
+      "Regência/Vírgula: 'beneficamente,' seguido de vírgula desnecessária que separa adjunto adverbial curto.",
+      "Pontuação excessiva/vícios de estilo: Uso repetitivo de 'consequentemente', 'neste sentido', etc., gerando textura mecânica.",
+      "Ortografia/Acentuação: Não houve erro grave aqui, mas o uso de notas de rodapé (¹) indica falta de cuidado editorial básico para prova escrita.",
+      "Repetição lexical: Excesso de 'Brasil', 'políticas', 'internacional', indicando vocabulário limitado.",
+      "Estrutura sintática: Frases longas e aninhadas dificultam a clareza (ex.: 'Será necessária... para modificar... além de...').",
+      "Clareza conceitual: Confusão leve entre 'renda média' e 'classe média' no trecho africano.",
+      "Precisão terminológica: 'Crise financeira de 2008' foi usada como causa única da relativização EUA/Europa, simplificando demais."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta boa organização estrutural, com introdução, desenvolvimento e conclusão claros. No entanto, o estilo é excessivamente técnico e burocrático, lembrando relatórios econômicos em vez de ensaios diplomáticos. Há excesso de marcadores textuais ('Adicionalmente', 'Nesse sentido', 'Consequentemente'), o que empobrece a coesão progressiva. A menção a notas de rodapé (¹) demonstra descuido formal inaceitável em prova de concurso.",
+      "1B: As informações trazidas são pertinentes ao tema macroeconômico, mas falham em dialogar criticamente com os textos-base. Os autores discutem 'prospectivas estratégicas' e 'multipolaridade'; o candidato focou quase exclusivamente em balança comercial e educação STEM. Havia necessidade de articular esses aspectos técnicos às ideias de 'projeto nacional' e 'destino de grandeza' presentes nos enunciados.",
+      "1CGPL: Foram identificadas 9 ocorrências problemáticas, variando desde erros normativos graves (concordância numeral) até vícios estilísticos severos (repetições, pontuação abusiva). O uso de referências bibliográficas via rodapé viola regras implícitas de formatação de provas dissertativas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 9,
+    "erros_gramaticais": [
+      "Concordância nominal/numeral: 'pessoa' deveria estar no plural ('pessoas')",
+      "Uso inadequado de vírgula após 'sobretudo': '...base em física, em química e em matematica.' -> Não justifica vírgula isolada.",
+      "Regência/Vírgula: '...para o Brasil, de modo...' -> Vírgula desnecessária/isoladora.",
+      "Pontuação: '...de alto nivel. Projeta-se...' -> Falta acento circunflexo em 'nível'.",
+      "Ortografia/Acentuação: 'matematica' falta acento agudo.",
+      "Erro conceitual grave: 'Brasil é deficitário em transações correntes' - Geralmente o Brasil apresenta déficit em serviços e saldo negativo global dependendo do ano, mas dizer genericamente que é deficitário em TC é impreciso macroeconomicamente, embora tecnicamente seja um erro factual/conceitual que afeta a correção técnica.",
+      "Vírgulas excessivas/desnecessárias: '...investimentos necessários para o desenvolvimento nacional. Será necessária, a longo prazo,...'",
+      "Repetição lexical/vícios: Uso excessivo de 'consequentemente', 'nesse sentido', 'além disso'.",
+      "Clareza/Lógica: A conexão entre a dívida externa/poupança e a política externa específica fica genérica demais."
+    ],
+    "feedbacks": [
+      "Apresentação e Estilo: O texto possui boa fluidez inicial, porém peca pela repetitividade vocabular e pelo uso excessivo de conectivos sequenciais ('Adicionalmente', 'Nesse sentido', 'Consequentemente'). A formatação contém notas de rodapé artificiais (símbolo ¹) que indicam descuido ou tentativa de simulação acadêmica mal executada.",
+      "Argumentação: Há sistematização, mas a abordagem é muito setorial (economia/trabalho) e pouco dialoga com os textos motivadores, especialmente quanto às dimensões estratégicas e prospectivas mencionadas pelos autores.",
+      "Análise: Faltam profundidade crítica e capacidade de síntese. As propostas parecem desconectadas da realidade institucional da carreira diplomática."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pessoa -> pessoas"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pessoa -> pessoas"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pessoa -> pessoas"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pessoa"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise detalhada e bem fundamentada, articulando claramente as dimensões interna e externa da política externa brasileira.",
+      "Há bom uso de conectivos e progressão temática, embora algumas passagens possam soar excessivamente técnicas ou descritivas, reduzindo ligeiramente a fluidez argumentativa.",
+      "Apresenta apenas um erro gramatical relevante ('pessoas' deveria estar no plural), indicando domínio sólido da norma culta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pessoa"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise detalhada e bem fundamentada, articulando claramente as dimensões interna e externa da política externa brasileira.",
+      "Há bom uso de conectivos e progressão temática, embora algumas passagens possam soar excessivamente técnicas ou descritivas, reduzindo ligeiramente a fluidez argumentativa.",
+      "Apresenta apenas um erro gramatical relevante ('pessoas' deveria estar no plural), indicando domínio sólido da norma culta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pessoa"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise detalhada e bem fundamentada, articulando claramente as dimensões interna e externa da política externa brasileira.",
+      "Há bom uso de conectivos e progressão temática, embora algumas passagens possam soar excessivamente técnicas ou descritivas, reduzindo ligeiramente a fluidez narrativa.",
+      "Apresentou apenas um erro gramatical relevante ('pessoas' deveria estar no plural), indicando domínio sólido da norma culta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: '...bem como a consciência ... estavam' -> deveria ser 'estava'.",
+      "Uso inadequado de hífen/travessão: 'não se esgotam a¹ questões...' -> falta sinal gráfico.",
+      "Regência/Nominal: 'para o cargo de diretorgeral' -> deve ser 'diretor-geral'.",
+      "Erro de digitação/símbolo: 'há4 flexibilidade' -> símbolo '#' ou erro de formatação."
+    ],
+    "feedbacks": [
+      "1A - Excelente fluidez e estrutura clara. Pequena falha de concordância compromete levemente a correção formal.",
+      "1B - Argumentação sólida e pertinente. Uso eficaz dos textos-base. Falta profundidade crítica em alguns trechos.",
+      "1CGP - Boa variedade vocabular. Erros gramaticais isolados mas perceptíveis."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: '...bem como a consciência ... estavam' -> deveria ser 'estava'.",
+      "Uso inadequado de hífen/travessão: 'não se esgotam a¹ questões...' -> falta sinal gráfico.",
+      "Regência/Nominal: 'para o cargo de diretorgeral' -> deve ser 'diretor-geral'.",
+      "Erro de digitação/símbolo: 'há4 flexibilidade' -> símbolo '#' ou erro de formatação."
+    ],
+    "feedbacks": [
+      "1A - Excelente fluidez e estrutura clara. Pequena falha de concordância compromete levemente a correção formal.",
+      "1B - Argumentação sólida e pertinente. Uso eficaz dos textos-base. Falta profundidade crítica em alguns trechos.",
+      "1CGP - Boa variedade vocabular. Erros pontuais de regência e grafia precisam ser revisados."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: '...bem como a consciência ... estavam' -> deveria ser 'estava'.",
+      "Uso inadequado de hífen/travessão: 'não se esgotam a¹ questões...' -> falta sinal gráfico.",
+      "Regência/Nominal: 'para o cargo de diretorgeral' -> deve ser 'diretor-geral'.",
+      "Erro de digitação/símbolo: 'há4 flexibilidade' -> símbolo '#' ou erro de formatação."
+    ],
+    "feedbacks": [
+      "1A - Excelente fluidez e estrutura clara. Pequena falha de concordância compromete levemente a correção formal.",
+      "1B - Argumentação sólida e pertinente. Uso eficaz dos textos-base. Falta profundidade crítica em alguns trechos.",
+      "1CGP - Precisa revisar cuidadosamente concordância, regência e sinais gráficos. Erros de digitação prejudicam a apresentação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "a¹ questões -> 'às' questões",
+      "econômico². -> 'econômicos.'",
+      "desenvolvimento³. -> 'desenvolvimentos.'",
+      "há4 flexibilidade -> 'haverá' flexibilidade"
+    ],
+    "feedbacks": [
+      "Erro de crase: 'não se esgotam a¹ questões' deveria ser 'às questões'.",
+      "Concordância nominal/verbal: 'avanços em direção a uma multipolaridade econômica e também política' - embora aceitável, soa melhor 'multipolaridades econômicas e políticas', mas o erro real foi marcado aqui? Não, marquei 'econômico².' porque estava isolado. Vou revisar.",
+      "Revisão dos erros marcados:",
+      "- a¹ questões: falta de crase ('às'). Correto.",
+      "- econômico².: Está solto? '...avancos em direcao a uma multipolaridade economica e tambem politica.' Nao ha erro ali. Ah, talvez tenha havido um erro meu na analise automatica. Vou ignorar este ponto se nao estiver claro.",
+      "- desenvolvimento³.: 'democratizacao dos foros ... que deem maior voz...' Concordancia ok. Talvez eu tenha confundido.",
+      "- ha4 flexibilidade: 'ha' vs 'havera'. Contexto: 'Ha flexibilidade suficiente... para corrigir'. Pode ser presente indicativo. Mas o correto seria 'Haja'? Ou 'Havera'? 'Ha' esta correto no sentido existencial. Entao nao eh erro."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "a¹ questões -> 'às' questões",
+      "econômico². -> 'econômicos.'",
+      "desenvolvimento³. -> 'desenvolvimentos.'",
+      "há4 flexibilidade -> 'haverá' flexibilidade"
+    ],
+    "feedbacks": [
+      "Erro de crase: 'não se esgotam a¹ questões' deveria ser 'às questões'.",
+      "Erro de concordância nominal/plural: 'avanços em direção a uma multipolaridade econômica e também política.' - 'multipolaridades econômicas e políticas', embora seja aceitável manter singular se considerar conceito único.",
+      "Erro de concordância verbal/nominal: 'países em desenvolvimento³.' - 'países em desenvolvimentos'? Não, aqui o erro pode ter sido interpretado incorretamente. Vou revisar. Ah, o marcador ³ está após 'desenvolvimento'. Provavelmente era para ser plural? Ou talvez fosse outro erro. Deixa eu reler: 'dê maior voz aos países em desenvolvimento³.' Parece correto no singular. Talvez tenha havido confusão com outro ponto. Vou ignorar este erro específico se não estiver claro.",
+      "Erro de conjugação/ortografia: 'há4 flexibilidade' deveria ser 'haverá flexibilidade'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "a¹ questões -> 'às' questões",
+      "econômico². -> 'econômicos.'",
+      "desenvolvimento³. -> 'desenvolvimentos.'",
+      "há4 flexibilidade -> 'haverá' flexibilidade"
+    ],
+    "feedbacks": [
+      "Erro de crase: 'não se esgotam a¹ questões' deveria ser 'às questões'.",
+      "Concordância nominal/adjetiva: 'avanços em direção a uma multipolaridade econômica e também política' - embora aceitável, soa melhor 'multipolaridades econômicas e políticas', mas o erro real foi marcado aqui? Não, o marcador ² estava após 'econômico.', então provavelmente era 'avanços... econômicos e políticos'. Vou revisar. Ah, o texto diz 'avanços em direção a uma multipolaridade econômica e também política.'. Isso está correto. Onde está o erro ²? Talvez eu tenha interpretado mal. Vou reler. 'avanços em direção a uma multipolaridade econômica e também política.' Está ok. Mas o usuário marcou ². Pode ter sido um erro meu na análise inicial mental. Deixa ver o texto original novamente. 'avanços em direção a uma multipolaridade econômica e também política.' Parece correto. Talvez o erro seja outro. Ou talvez eu esteja sendo muito rigoroso. Vou manter a nota alta.",
+      "Desenvolvido."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "falta de crase em 'referem-se, no plano interno' -> deveria ser 'no plano interno'",
+      "uso incorreto de hífen em 'atualizar' -> 'atualizar' está correto, mas o erro pode estar em outro ponto; verificando novamente...",
+      "Erro de digitação/acentuação: 'a¹', 'econômico²', 'desenvolvimento³', 'há4'. Estes parecem serem marcas de formatação ou notas de rodapé mal formatadas.",
+      "Concordância verbal/nominal: 'canal... aberto' vs 'Três novos canais... abertos' - OK.",
+      "Regência/preposição: 'eforçar em articular' -> 'esforçar-se para/articular'; 'esforço em se adaptar' -> 'esforço para/se adaptar'.",
+      "Uso de vírgula: 'como a promoção..., o uso... e o contato...' - lista correta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, abordando os temas propostos pelos textos-base (visão de longo prazo, multiplicidade de poderes, integração com o projeto nacional).",
+      "Há menção específica a autores/contextos históricos (Azeredo da Silveira, Figueiredo Machado), o que demonstra familiaridade com a literatura da área.",
+      "Os argumentos são pertinentes e conectam internalidades e externalidades conforme solicitado.",
+      "Apresenta alguns deslizes de pontuação e marcações estranhas (símbolos ¹, ², ³, ⁴) que indicam falta de revisão final ou má conversão de formato.",
+      "A linguagem é adequada, embora algumas construções possam ser refinadas para maior sofisticação acadêmica/diplomática.",
+      "Faltam nuances críticas mais profundas sobre contradições ou limites dessa política externa, tendendo a um tom mais descritivo/apoiador."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "falta de crase em 'referem-se, no plano interno' -> deveria ser 'no plano interno'",
+      "uso incorreto de hífen em 'atualizar' -> 'atualizar' está correto, mas o erro pode estar em outro ponto; verificando novamente...",
+      "Erro de digitação/acentuação: 'a¹', 'econômico²', 'desenvolvimento³', 'há4'. Estes parecem serem marcas de formatação ou notas de rodapé mal formatadas.",
+      "Concordância verbal/nominal: 'canal... aberto' vs 'Três novos canais... abertos' - OK.",
+      "Uso de vírgula: 'como a promoção..., o uso... e o contato...' - lista correta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, dividindo a análise em dimensões interna e externa, conforme solicitado pelo enunciado.",
+      "Há menção específica aos textos-base (Zelizer/Azeredo da Silva? Figueiredo Machado?), mostrando familiaridade com o material fornecido.",
+      "Argumentação coerente, conectando internal demands with external multipolarity and Brazil's role.",
+      "Pontuação geralmente adequada, embora haja algumas frases longas que poderiam ser simplificadas.",
+      "Vocabulário variado e apropriado ao registro formal/diplomático ('proatividade', 'multipolaridade', 'protagonismo').",
+      "Erros de formatação (símbolos ^1, ^2, etc.) prejudicam ligeiramente a apresentação visual, mas não comprometem a inteligibilidade.",
+      "Faltam exemplos históricos concretos ou dados específicos que elevassem o texto para 'Ótimo' ou 'Excelente'; a análise permanece no campo conceitual/generalizante.",
+      "A conclusão reforça a tese inicial de forma satisfatória, citando fonte relevante."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "falta de crase em 'referem-se, no plano interno' -> deveria ser 'no plano interno'",
+      "uso incorreto de hífen em 'atualizar' -> 'atualizar' está correto, mas o erro pode estar em outro ponto; verificando novamente...",
+      "Erro de digitação/acentuação: 'a¹', 'econômico²', 'desenvolvimento³', 'há4'. Estes parecem serem marcas de formatação ou notas de rodapé mal formatadas.",
+      "Concordância verbal/nominal: 'canal... aberto' vs 'Três novos canais... abertos' - OK.",
+      "Uso de vírgula: 'como a promoção..., o uso... e o contato...' - lista correta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, dividindo a análise em dimensões interna e externa, conforme solicitado pelo enunciado.",
+      "Há menção específica aos textos-base (Zelizer/Azeredo da Silva? Figueiredo Machado?), mostrando leitura atenta.",
+      "Argumentação coerente, ligando multiplicidade de poderes, participação popular e estratégia de longo prazo.",
+      "Erros de formatação (símbolos ^1, ^2, etc.) prejudicam a apresentação final, embora não afetem diretamente a gramática subjacente.",
+      "Linguagem formal e adequada ao registro diplomático/científico-político.",
+      "Pode-se considerar 'Bom' devido à solidez conceitual, apesar de pequenos desvios de formatação e alguma previsibilidade na argumentação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "falta de vírgula após 'proativa' na frase '...ao evitar um posicionamento reativo permitiu...'."
+    ],
+    "feedbacks": [
+      "Apresenta estrutura básica, mas com paragrafação confusa.",
+      "Argumentação superficial e repetitiva; falta profundidade analítica.",
+      "Análise limitada; foca apenas em aspectos históricos superficiais.",
+      "Erros de pontuação e regência comprometem a fluidez."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "falta de vírgula após 'proativa' na frase '...ao evitar um posicionamento reativo permitiu...'."
+    ],
+    "feedbacks": [
+      "Apresenta estrutura básica, mas falta fluidez e sofisticação estilística.",
+      "Argumentação superficial; repete ideias sem profundidade analítica.",
+      "Análise limitada; foca em exemplos históricos sem conectar bem às teses propostas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "falta de vírgula após 'proativa' na frase '...ao evitar um posicionamento reativo permitiu...'."
+    ],
+    "feedbacks": [
+      "Apresenta estrutura básica, mas com paragrafação confusa.",
+      "Argumentação superficial e repetitiva; falta profundidade analítica.",
+      "Análise limitada; foca apenas em aspectos históricos superficiais.",
+      "Erros de pontuação e regência comprometem a fluidez."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "tornase -> tornar-se"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "tornase -> tornar-se"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "tornase -> tornar-se"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "tornase"
+    ],
+    "feedbacks": [
+      "O texto demonstra bom domínio do tema, articulando bem as dimensões interna e externa conforme solicitado pelo enunciado.",
+      "Há coerência e encadeamento lógico nas ideias, embora algumas transições possam ser aprimoradas para maior fluidez.",
+      "Apresenta apenas um erro gramatical evidente ('tornase' deveria ser 'torna-se'), indicando domínio razoável da norma culta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "tornase"
+    ],
+    "feedbacks": [
+      "O texto demonstra bom domínio do tema, articulando bem as dimensões interna e externa conforme solicitado pelo enunciado.",
+      "Há coerência e encadeamento lógico nas ideias, embora algumas transições possam ser aprimoradas para maior fluidez.",
+      "Apresenta apenas um erro gramatical evidente ('tornase' deveria ser 'torna-se'), indicando domínio razoável da norma culta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "tornase"
+    ],
+    "feedbacks": [
+      "O texto demonstra bom domínio do tema, articulando bem as dimensões interna e externa conforme solicitado pelo enunciado.",
+      "Há coerência e encadeamento lógico nas ideias, embora algumas transições possam ser aprimoradas para maior fluidez.",
+      "Apresenta apenas um erro gramatical evidente ('tornase' deveria ser 'torna-se'), indicando domínio razoável da norma culta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "pontos finais incorretos",
+      "vírgula mal colocada"
+    ],
+    "feedbacks": [
+      "texto bem organizado e coeso",
+      "argumentação sólida e pertinente",
+      "análise reflexiva e profunda",
+      "erros gramaticais mínimos"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "pontos finais incorretos",
+      "vírgula mal colocada"
+    ],
+    "feedbacks": [
+      "Boa estrutura e clareza.",
+      "Argumentação sólida, mas poderia explorar melhor as fontes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 17,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "pontos finais incorretos",
+      "vírgula mal colocada"
+    ],
+    "feedbacks": [
+      "Boa estrutura e clareza.",
+      "Argumentação sólida e pertinente.",
+      "Análise profunda e reflexiva."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "participativa.; -> ponto e vírgula inadequado após advérbio.",
+      "inciativas -> erro de digitação/ortográfico ('iniciativas').",
+      "voltase -> falta hífen ('volta-se')."
+    ],
+    "feedbacks": [
+      "Excelente domínio da estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão sólida."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "participativa.; -> ponto e vírgula inadequado após advérbio.",
+      "inciativas -> erro de digitação/ortográfico ('iniciativas').",
+      "voltase -> falta hífen ('volta-se')."
+    ],
+    "feedbacks": [
+      "Excelente domínio da estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão sólida."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "participativa.; -> ponto e vírgula inadequado após advérbio.",
+      "inciativas -> erro de digitação/ortográfico ('iniciativas').",
+      "voltase -> falta hífen ('volta-se')."
+    ],
+    "feedbacks": [
+      "Excelente domínio da estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão sólida."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "politically;",
+      "inciativas",
+      "volta"
+    ],
+    "feedbacks": [
+      "O texto apresenta argumentos sólidos e bem articulados, conectando claramente as dimensões interna e externa da política externa.",
+      "Houve três erros gramaticais identificados:",
+      "- 'mais consciente, politicamente;' -> erro de sintaxe/ortográfico ('politicamente' deveria estar adjunto a 'consciente', sem ponto e vírgula)",
+      "- 'iniciatvas' -> erro ortográfico ('iniciativas')",
+      "- 'voltase' -> erro de grafia/vocabulario ('volta-se')"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "politically;",
+      "inciativas",
+      "volta"
+    ],
+    "feedbacks": [
+      "O texto apresenta argumentos sólidos e bem articulados, conectando claramente as circunstâncias internas (democracia, inclusão) com os cenários externos (multipolaridade, reformulação da governança global), atendendo plenamente ao enunciado.",
+      "Houve três erros gramaticais identificados: 'politically;' (ponto e vírgula incorreto após advérbio inglês), 'inciativas' (ortográfico) e 'voltase' (falta de hífen em verbo pronominal). Esses deslizes impediram a elevação para a categoria superior."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "politically;",
+      "inciativas",
+      "volta"
+    ],
+    "feedbacks": [
+      "O texto apresenta argumentos sólidos e bem articulados, conectando claramente as dimensões interna e externa da política externa.",
+      "Houve três erros gramaticais identificados:",
+      "- 'mais consciente, politicamente;' - Uso incorreto do ponto e vírgula após advérbio.",
+      "- 'inciativas' - Erro de digitação/ortográfico ('inicia').",
+      "- 'voltase' - Falta de hífen na palavra composta 'volta-se'.",
+      "Apesar dos pequenos deslizes técnicos, o raciocínio lógico permanece intacto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "falta de crase",
+      "concordância nominal/adjetival",
+      "uso indevido de hífen/travessão",
+      "ortografia"
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: Boa estrutura, mas algumas frases longas poderiam ser divididas.",
+      "Capacidade de Argumentação: Uso adequado dos textos base, mas falta profundidade na crítica às limitações da previsão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "falta de crase",
+      "concordância nominal/adjetival",
+      "uso indevido de hífen/travessão",
+      "ortografia"
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: Boa estrutura, mas algumas frases longas poderiam ser divididas.",
+      "Capacidade de Argumentação: Uso pertinente dos textos base, mas falta profundidade analítica em alguns trechos.",
+      "Análise e Reflexão: Identificação correta das tendências, mas pouca crítica às limitações reais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "falta de crase",
+      "concordância nominal/adjetival",
+      "uso indevido de hífen/travessão",
+      "ortografia"
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: Boa estrutura, mas algumas frases longas poderiam ser divididas.",
+      "Capacidade de Argumentação: Uso pertinente dos textos base, mas falta profundidade analítica em alguns trechos.",
+      "Análise e Reflexão: Identificação correta das tendências, mas pouca crítica às limitações reais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 48.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "solucionálos -> solucionar-lhes / resolvê-los",
+      "politica -> política",
+      "país³ -> país."
+    ],
+    "feedbacks": [
+      "Erro de crase/colocação pronominal ('solucionálos').",
+      "Erro de acentuação gráfica ('politica' deveria ter acento circunflexo).",
+      "Uso indevido de marcador numérico '³' após 'países', indicando erro de digitação/formato."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 48.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "solucionálos -> solucionar-lhes / resolvê-los",
+      "politica -> política",
+      "país³ -> país."
+    ],
+    "feedbacks": [
+      "Erro de crase/colocação pronominal ('solucionálos').",
+      "Erro de acentuação gráfica ('politica' deveria ter acento agudo).",
+      "Uso indevido de marcador numérico '³' após 'país', indicando erro de digitação/formatagem."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 48.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "solucionálos -> solucionar-lhes / resolvê-los",
+      "politica -> política",
+      "país³ -> país."
+    ],
+    "feedbacks": [
+      "Os erros gramaticais foram considerados na redução da nota.",
+      "A estrutura geral do texto segue bem os requisitos do edital."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "solucionálos -> solucionar-lhes / resolvê-los",
+      "politica -> política",
+      "país³"
+    ],
+    "feedbacks": [
+      "Os erros de grafia ('solucionálos', 'politica') e a marca residual ('país³') comprometem a apresentação formal.",
+      "A citação final de João Cabral parece fora de contexto ou mal articulada com a ideia central.",
+      "Há menção específica ao ano de 2015, indicando datação do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "solucionálos -> solucionar-lhes / resolvê-los",
+      "politica -> política",
+      "país³"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura organizada e desenvolve o tema proposto com argumentos pertinentes.",
+      "Há uso correto de conectivos e bom encadeamento lógico entre parágrafos.",
+      "Apresenta três erros gramaticais/ortográficos evidentes: 'solucionálos' (falta hífen), 'politica' (faltando acento) e 'país³' (símbolo estranho ao corpo do texto).",
+      "A argumentação é coerente, embora algumas passagens possam soar um tanto genérica ou previsíveis."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "solucionálos -> solucionar-lhes / resolvê-los",
+      "politica -> política",
+      "país³"
+    ],
+    "feedbacks": [
+      "Os erros de grafia ('solucionálos', 'politica') e a marca residual ('país³') comprometem a apresentação formal.",
+      "A citação final de João Cabral parece deslocada; o poema trata de solidariedade humana, não diretamente de política externa.",
+      "Há menção específica ao ano de 2015, indicando que o texto foi escrito em um momento específico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Concordância nominal: 'maiores legitimidade' deveria ser 'mais legitimidade'.",
+      "Regência/Preposição: 'conjunção com' deveria ser 'conjunto com' ou melhor, 'coexiste com', mas o uso de 'exista conjuntamente com' soa redundante/impróprio.",
+      "Pontuação/Vírgula: Uso indevido de vírgulas na oração '...objetivo da política externa, confere...', separando sujeito ('Elaboração') do verbo ('confere').",
+      "Ortografia/Acentuação: 'independencia' (não encontrado, mas verifiquei 'condicionalidades' - ok). Verificarei novamente...",
+      "Revisão Erros Gramaticais:"
+    ],
+    "feedbacks": [
+      "Apresentação e Estilo:",
+      "Argumentação:",
+      "Análise e Reflexão:",
+      "Correção Gramatical:"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Concordância nominal: 'maiores legitimidade' deveria ser 'mais legitimidade'.",
+      "Regência/Preposição: 'orientado ... a princípios' deveria ser 'por princípios'.",
+      "Pontuação/Vírgula: Uso indevido de vírgulas na oração '...diálogo entre a sociedade e os formuladores..., o que...' (opcional mas preferível evitar separação desnecessária)."
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada. Estilo formal e adequado ao concurso.",
+      "Capacidade de Argumentação: Boa sistematização, porém algumas afirmações carecem de profundidade crítica. Há repetição de ideias e pouca articulação direta com os textos base.",
+      "Análise e Reflexão: Análise superficial dos conceitos-chave. Falta problematizar contradições ou desafios futuros."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Concordância nominal: 'maiores legitimidade' deveria ser 'mais legitimidade'.",
+      "Regência/Preposição: 'orientado ... a princípios' deveria ser 'por princípios'.",
+      "Pontuação/Vírgula: Uso indevido de vírgulas na oração '...diálogo entre a sociedade e os formuladores..., o que...'."
+    ],
+    "feedbacks": [
+      "1A - Coerência e Estilo: O texto apresenta estrutura clara, com introdução, desenvolvimento e conclusão bem definidas. A progressão temática é lógica, passando do cenário internacional para o interno e retornando às projeções futuras. No entanto, o estilo é excessivamente descritivo e repetitivo, utilizando frases longas e estruturas sintáticas pouco variadas.",
+      "1B - Argumentação: Há tentativa de sistematizar argumentos baseados nos textos-base, mas a capacidade analítica é limitada. O candidato lista exemplos (BRICS, IBAS, etc.) sem aprofundar a relação causal entre eles e as perspectivas de longo prazo. A argumentação carece de originalidade e profundidade crítica.",
+      "1C - Análise e Reflexão: A análise superficializa os conceitos apresentados nos textos. Não há discussão crítica sobre as limitações mencionadas no Texto I ('elementos impressionísticas') ou sobre a tensão entre 'grandeza' e realidade atual. O raciocínio é linear e previsível, faltando nuances e contrapontos relevantes.",
+      "CGPL - Correção Gramatical: O texto contém alguns deslizes gramaticis que comprometem a fluidez e a correção formal esperada em um concurso desta natureza. São necessários ajustes finos de concordância, regência e pontuação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância nominal incorreta ('maiores legitimidade' deveria ser 'mais legitimidade')",
+      "regência/ortografia ('coadunando-se com o \"destino\"...')"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura e desenvolvimento coerente.",
+      "Há uso adequado de conectivos e vocabulário técnico.",
+      "Os argumentos dialogam bem com os textos-base."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância nominal incorreta ('maiores legitimidade' deveria ser 'mais legitimidade')",
+      "regência/ortografia ('coadunando-se com o \"destino\"...')"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura e desenvolvimento coerente.",
+      "Há uso adequado de conectivos e vocabulário técnico.",
+      "Os argumentos dialogam bem com os textos-base."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância nominal incorreta ('maiores legitimidade' deveria ser 'mais legitimidade')",
+      "regência/ortografia ('coadunando-se com o \"destino\"...')"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura e desenvolvimento coerente.",
+      "Há uso adequado de vocabulário técnico e referências aos textos-base."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "ao mesmo tempo que¹ se dispõe"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, abordando os pontos principais solicitados pelo enunciado.",
+      "Há uma tentativa de articular os textos-base com a realidade atual, embora algumas conexões possam ser superficiais.",
+      "Apresenta dois pequenos deslizes gramaticais/ortográficos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma tese clara e bem definida nas primeiras linhas.",
+      "Há uma tentativa de articular os textos-base com argumentos próprios, embora a conexão direta com os excertos possa ser mais explícita.",
+      "Os parágrafos seguem uma ordem lógica, abordando primeiro o cenário internacional, depois o doméstico e finalmente a síntese."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma tese clara e bem definida nas primeiras linhas.",
+      "Há uma tentativa de articular os textos-base com argumentos próprios, embora a conexão direta com os excertos possa ser mais explícita.",
+      "Os parágrafos seguem uma ordem lógica, abordando primeiro o cenário internacional, depois o doméstico e finalmente a síntese."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "alíaça",
+      "hodiernamente",
+      "afirmas",
+      "nãoproliferação",
+      "vem"
+    ],
+    "feedbacks": [
+      "Apresentação e impressão geral do texto: Coerência, legibilidade e estilo.",
+      "Capacidade de argumentação: Objetividade, sistematização, conteúdo e pertinência das informações."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "alíaça",
+      "hodiernamente",
+      "afirmas",
+      "nãoproliferação",
+      "vem"
+    ],
+    "feedbacks": [
+      "1A - Coerência, Legibilidade e Estilo:",
+      "O texto apresenta estrutura clara, com introdução, desenvolvimento e conclusão bem definidos. A fluidez narrativa é boa, embora haja alguns momentos de repetição desnecessária de ideias. O uso de conectores contribui para a organização.",
+      "1B - Argumentação:",
+      "As ideias são pertinentes e sustentadas por referências históricas e conceituais relevantes. Há uma tentativa de articular os textos base com a realidade contemporânea, demonstrando domínio do assunto. Contudo, algumas afirmações carecem de maior profundidade analítica.",
+      "1C - Análise e Reflexão:",
+      "Há uma boa articulação entre os conceitos de desenvolvimento, multiplicidade de poderes e questões sociais. A reflexão sobre o futuro da política externa é consistente, mas poderia explorar melhor as tensões e dilemas apresentados pelos textos-base."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "alíaça",
+      "hodiernamente",
+      "afirmas",
+      "nãoproliferação",
+      "vem"
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: O texto apresenta boa estrutura, introduzindo bem o tema e organizando os argumentos de forma lógica. Há clareza nas ideias e fluidez razoavelmente boa.",
+      "Capacidade de Argumentação: Os argumentos são pertinentes e sistemáticos, conectados adequadamente. Contudo, algumas afirmações carecem de embasamento teórico mais robusto, limitando a profundidade analítica esperada em nível CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.38,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "afirmas -> afirma"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.38,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "afirmas -> afirma"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.38,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "afirmas -> afirma"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "almejava eliminar os constrangimentos ao desenvolvimento brasileiro.",
+      "conforme afirmas o embaixador Gelson Fonseca Júnior.",
+      "África e Ásia vem"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, dividida em tópicos lógicos (desenvolvimento, meio ambiente, racismo), facilitando a leitura e a compreensão das ideias principais.",
+      "Há uma tentativa interessante de articular temas contemporâneos (racismo) com a tradição diplomática brasileira, embora algumas conexões possam parecer forçadas ou superficiais.",
+      "Os exemplos históricos citados (Barão do Rio Branco, Azeredo da Silveira) demonstram familiaridade com a literatura especializada, enriquecendo o argumento."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "almejava eliminar os constrangimentos ao desenvolvimento brasileiro.",
+      "conforme afirmas o embaixador Gelson Fonseca Júnior.",
+      "África e Ásia vem"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, dividida em tópicos lógicos (desenvolvimento, meio ambiente, racismo), demonstrando bom domínio do tema e capacidade de articular argumentos históricos e contemporâneos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "almejava eliminar os constrangimentos ao desenvolvimento brasileiro.",
+      "conforme afirmas o embaixador Gelson Fonseca Júnior.",
+      "África e Ásia vem"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, dividida em tópicos lógicos (desenvolvimento, meio ambiente, racismo), demonstrando bom domínio do tema e capacidade de articular argumentos históricos e contemporâneos.",
+      "Há uso pertinente de referências teóricas e históricas (Barão do Rio Branco, Azeredo da Silveira, Bradford Burns) que enriquecem a argumentação.",
+      "Apresenta três erros gramaticais/ortográficos recorrentes:",
+      "- 'ao desenvolvimento' deveria ser 'para o desenvolvimento'.",
+      "- 'afirmas' deveria ser 'afirma'.",
+      "- 'vem' deveria ser 'vêm', devido à concordância verbal com sujeito composto ('África e Ásia').",
+      "Esses deslizes, embora presentes, não comprometem gravemente a compreensão do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "reivindicacao",
+      "inexistente"
+    ],
+    "feedbacks": [
+      "1A - Apresentacao e impressao geral do texto: Coerencia, legibilidade e estilo.",
+      "1B - Capacidade de argumentacao: Objetividade, sistematicacao, conteudo e pertinencia das informacoes.",
+      "1C - Capacidade de analise e reflexao."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "reivindicacao",
+      "inexistente"
+    ],
+    "feedbacks": [
+      "1A - Apresentacao e impressao geral do texto: Coerencia, legibilidade e estilo.",
+      "1B - Capacidade de argumentacao: Objetividade, sistematicacao, conteudo e pertinencia das informacoes.",
+      "1C - Capacidade de analise e reflexao."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "reivindicacao",
+      "inexistente"
+    ],
+    "feedbacks": [
+      "1A - Apresentacao e impressao geral do texto: Coerencia, legibilidade e estilo.",
+      "1B - Capacidade de argumentacao: Objetividade, sistematicacao, conteudo e pertinencia das informacoes.",
+      "1C - Capacidade de analise e reflexao."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Reivindicacao entrevista -> Reivindicacao por/acerca de entrevista"
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulario tecnico e historico.",
+      "Argumentacao solida e bem estruturada, articulando perfeitamente os textos base.",
+      "Uso adequado de conectivos e coesao textual."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Reivindicacao entrevista -> Reivindicacao por/acerca de entrevista"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Reivindicacao entrevista -> Reivindicacao por/acerca de entrevista"
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulario tecnico e historico.",
+      "Argumentacao solida e bem estruturada.",
+      "Uso adequado das fontes fornecidas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando de maneira profunda e crítica os três textos-base.",
+      "Há forte evidência de formação teórica e histórica, citando autores clássicos e contemporâneos da área (Rio Branco, Silveira) e eventos históricos específicos (Jornadas de Junho, NOEI, criação do BRICS/IBAS).",
+      "A argumentação é densa, progressiva e altamente coesa, estabelecendo diálogos internos entre os trechos fornecidos e ampliando-os com referências externas pertinentes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando de maneira profunda e crítica os três textos-base.",
+      "Há forte evidência de formação teórica e histórica consolidada, citando autores clássicos e contemporâneos da área (Rio Branco, Silveira) e eventos históricos específicos (Jornadas de Junho, NOEI, criação do BRICS/IBAS).",
+      "A argumentação é densa, fluida e altamente persuasiva, construindo um raciocínio lógico sólido que conecta tradição diplomática, necessidade de modernização/diplomacia pública e projeção internacional.",
+      "O uso da língua portuguesa é refinado, culto e preciso, demonstrando amplo repertório lexical e sintaxe complexa sem perder a clareza."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando de maneira profunda e crítica os três textos-base.",
+      "Há forte evidência de repertório sociocultural relevante, citando figuras históricas (Barão do Rio Branco, Metternich) e eventos contemporâneos (Jornadas de Junho)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "credenciam",
+      "a principista"
+    ],
+    "feedbacks": [
+      "Apresentação e impressão geral do texto: Coerência, legibilidade e estilo.",
+      "Capacidade de argumentação: Objetividade, sistematização, conteúdo e pertinência das informações."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "credenciam",
+      "hodiern"
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: ...",
+      "Capacidade de Argumentacao: ...",
+      "Capacidade de Analise e Reflexao: ..."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "credenciam",
+      "hodiern"
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: ...",
+      "Capacidade de Argumentacao: ...",
+      "Capacidade de Analise e Reflexao: ..."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "credenciam-no¹ -> deveria ser 'credencia-o' (concordância verbal)"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "credenciam-no¹ -> deveria ser 'credencia-o' (concordância verbal)"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "credenciam-no¹ -> deveria ser 'credencia-o' (concordância verbal)"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto inicia com uma tese clara e provocadora ('ao contrário do que previa Francis Fukuyama...'), estabelecendo imediatamente um tom analítico e crítico.",
+      "Há excelente integração entre os textos-base e referências teóricas próprias (Fukuyama, Hobsbawm), demonstrando erudição contextualizada.",
+      "Os argumentos são desenvolvidos de maneira sequencial e lógica, articulando perfeitamente as variáveis internas (desenvolvimento socioeconômico, profissionalismo do Itamaraty) e externas (multipolaridade, ascensão dos BRICS)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto inicia com uma tese clara e provocadora ('ao contrário do que previa Francis Fukuyama...'), estabelecendo imediatamente um tom analítico e crítico.",
+      "Há excelente integração entre os textos-base e referências teóricas próprias (Fukuyama, Hobsbawm), demonstrando erudição contextualizada.",
+      "Os argumentos são desenvolvidos de maneira sequencial e lógica, conectando causas internas (desenvolvimento socioeconômico) a consequências externas (maior protagonismo)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto inicia com uma tese clara e provocadora ('ao contrário do que previa Francis Fukuyama...'), estabelecendo imediatamente um tom analítico e crítico.",
+      "Há excelente integração entre os textos-base e referências teóricas próprias (Fukuyama, Hobsbawm), demonstrando erudição contextualizada.",
+      "Os argumentos são desenvolvidos de maneira sequencial e lógica, articulando perfeitamente as variáveis internas (desenvolvimento socioeconômico, profissionalismo do Itamaraty) e externas (multipolaridade, ascensão dos BRICS)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: '...cujas iniciativas...' deveria ser 'cuja iniciativa'...",
+      "Regência verbal/preposicional: 'congrega governo e sociedade' falta vírgula ou estrutura melhor.",
+      "Pontuação/Fraseologia: 'As quais podem não se realizar,' -> 'que podem não se realizar,'"
+    ],
+    "feedbacks": [
+      "Apresentação e Estilo",
+      "Argumentação",
+      "Análise e Reflexão"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: '...cujas iniciativas...' deveria ser 'cuja iniciativa'...",
+      "Regência verbal/preposicional: 'congrega governo e sociedade' falta vírgula ou estrutura melhor.",
+      "Pontuação/Fraseologia: 'As quais podem não se realizar,' -> 'que podem não se realizar,'"
+    ],
+    "feedbacks": [
+      "Apresentação e Estilo",
+      "Argumentação",
+      "Análise e Reflexão"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: '...cujas iniciativas...' deveria ser 'cuja iniciativa'...",
+      "Regência verbal/preposicional: 'congrega governo e sociedade' falta vírgula ou estrutura melhor.",
+      "Pontuação/Fraseologia: 'As quais podem não se realizar,' -> 'que podem não se realizar,'"
+    ],
+    "feedbacks": [
+      "Apresentação e Estilo",
+      "Argumentação",
+      "Análise e Reflexão"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'As iniciativas... ocorrem' deveria ser 'ocorre', já que o sujeito é singular ('iniciativa').",
+      "Regência verbal/preposição: 'interesses convergentes tanto em parceiros...' seria melhor expresso como 'com parceiros...' ou 'junto a parceiros...', embora 'em' seja aceitável em contextos específicos."
+    ],
+    "feedbacks": [
+      "Excelente domínio da estrutura dissertativo-argumentativa.",
+      "Uso sofisticado de conectivos e vocabulário técnico adequado à área de Relações Internacionais.",
+      "Integração eficaz dos textos-base com conhecimentos externos relevantes.",
+      "Pequenos deslizes gramaticais não comprometem gravemente a compreensão geral."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'As iniciativas... ocorrem' deveria ser 'ocorre', já que o sujeito é singular ('iniciativa').",
+      "Regência verbal/preposição: 'interesses convergentes tanto em parceiros...' seria melhor expresso como 'com parceiros...' ou 'junto a parceiros...', embora 'em' seja aceitável em contextos específicos."
+    ],
+    "feedbacks": [
+      "Excelente domínio da estrutura dissertativo-argumentativa.",
+      "Uso sofisticado de conectivos e vocabulário técnico adequado à área de Relações Internacionais.",
+      "Integração eficaz dos textos-base com conhecimentos externos relevantes.",
+      "Pequenos deslizes gramaticais não comprometem gravemente a compreensão geral."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'As iniciativas... ocorrem' deveria ser 'ocorre', já que o sujeito é singular ('iniciativa').",
+      "Regência verbal/preposição: 'interesses convergentes tanto em parceiros...' seria melhor expresso como 'com parceiros...' ou 'junto a parceiros...', embora 'em' seja aceitável em contextos específicos."
+    ],
+    "feedbacks": [
+      "Excelente domínio da estrutura dissertativo-argumentativa.",
+      "Uso sofisticado de conectivos e vocabulário técnico adequado à área de Relações Internacionais.",
+      "Integração eficaz dos textos-base com conhecimentos externos relevantes.",
+      "Pequenos deslizes gramaticais não comprometem gravemente a compreensão geral."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente os três textos-base com argumentos sólidos e originais.",
+      "Há clara progressão temática, passando da fundamentação teórica histórica até aplicações práticas contemporâneas e projeções futuras."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente os três textos-base com argumentos sólidos e originais.",
+      "Há clara progressão temática, passando da fundamentação teórica histórica até aplicações práticas contemporâneas e projeções futuras."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente os três textos-base com argumentos sólidos e originais.",
+      "Há clara progressão temática, passando da fundamentação teórica histórica até aplicações práticas contemporâneas e projeções futuras."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'contingente populacional' deveria ser 'contingente populacional', mas o uso soa artificial; melhor seria 'população numerosa'.",
+      "Pontuação/Virgula: 'No âmbito internacional, em razão de suas características físicas e econômicas, o Brasil deve aproveitar o momento de redistribuição do poder e de surgimento de novas temáticas, para estabelecer...' -> vírgula após 'temáticas' desnecessária.",
+      "Regência/Crase: 'Diálogos sobre Política Externa.' -> falta crase? Não, 'diálogo sobre' não leva crase. Mas há erro de digitação: 'Diálogos' com maiúscula inicial no meio da frase?"
+    ],
+    "feedbacks": [
+      "Apresentação e Estilo: Texto bem estruturado, paragrafos claros, boa fluidez. Uso adequado de conectivos. Legibilidade alta.",
+      "Argumentacao: Boa capacidade de organizar ideias, cita autores pertinentes (Kissinger, Sergio Buarque). Contudo, algumas afirmacoes sao genéricas ('novos estados relevantes') e poderiam ter sido desenvolvidas com exemplos concretos. A ligacao entre os textos-base e a tese do aluno existe, mas poderia ser mais profunda.",
+      "Analise e Reflexao: Analisa tanto o ambito interno quanto externo, conforme pedido. Identifica corretamente a multipolaridade e a democratizacao interna. Porem, a reflexao fica um pouco superficial em alguns momentos, repetindo conceitos ja apresentados. Falta uma critica mais aguda aos desafios reais dessa participacao."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'contingente populacional' deveria ser 'contingente populacional', mas o uso soa artificial; melhor seria 'população numerosa'.",
+      "Pontuação/Virgula: 'No âmbito internacional, em razão de suas características físicas e econômicas, o Brasil deve aproveitar o momento... para estabelecer...' - A vírgula após 'econômicas' separa indevidamente o sujeito do verbo.",
+      "Regência/Pontuação: 'Diálogos sobre Política Externa.' - Uso incorreto de maiúsculas em nome próprio genérico."
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: O texto é bem estruturado, com introdução clara, desenvolvimento dividido entre âmbitos internos e externos, e conclusão coesa. A escrita é fluida e formal, adequada ao nível exigido pelo CACD. Há boa articulação entre parágrafos e clareza expositiva.",
+      "Capacidade de Argumentação: As ideias estão organizadas de forma sistemática, com argumentos pertinentes ao tema. Contudo, há repetição excessiva de conceitos-chave ('legitimidade', 'participação social') sem aprofundamento crítico suficiente. A citação de autores (Kissinger, Sérgio Buarque) é pertinente, mas pouco integrada à discussão central sobre *perspectivas de longo prazo*.",
+      "Análise e Reflexão: Demonstra capacidade analítica ao relacionar mudanças globais (multipolaridade, novas agendas) com oportunidades brasileiras. Identifica corretamente a necessidade de alinhamento entre política externa e projetos nacionais. Porém, falta profundidade crítica quanto aos obstáculos concretos dessa projeção (ex.: instabilidade doméstica, limitações institucionais, contradições entre discurso e prática)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'contingente populacional' deveria ser 'contingente populacional', mas o uso soa artificial; melhor seria 'população numerosa'.",
+      "Pontuação/Virgula: 'No âmbito internacional, em razão de suas características físicas e econômicas, o Brasil deve aproveitar o momento de redistribuição do poder e de surgimento de novas temáticas, para estabelecer...' -> vírgula após 'temáticas' desnecessária.",
+      "Regência/Crase: 'Diálogos sobre Política Externa.' -> falta crase? Não, 'diálogo sobre' não leva crase. Mas há erro de digitação: 'Diálogos' com maiúscula inicial no meio da frase?"
+    ],
+    "feedbacks": [
+      "Apresentação e Estilo: Texto bem estruturado, paragrafos claros, boa fluidez. Uso adequado de conectivos. Legibilidade alta.",
+      "Argumentacao: Boa capacidade de organizar ideias, cita autores pertinentes (Kissinger, Sergio Buarque). Contudo, algumas afirmacoes sao genéricas ('novos Estados relevantes') e poderiam ter sido desenvolvidas com exemplos concretos. A ligacao entre os textos-base e a tese do aluno existe, mas poderia ser mais profunda.",
+      "Analise e Reflexao: Analisa corretamente a multipolaridade e a importancia da participacao social. Proposta concreta (livro branco/diologos) mostra reflexao pratica. Falta explorar mais as tensoes entre soberania e cooperacao internacional, ou criticar possiveis limitacoes domesticas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.28,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal: 'contingente populacional dinâmico' deveria ser 'dinâmica'.",
+      "Uso inadequado de vírgula após sujeito/objeto: '...deve observar essa tendência de inclusão do indivíduo no processo político.' -> Não há erro aqui, mas verifiquei outras.",
+      "Pontuação/Vírgulas desnecessárias ou mal colocadas: 'No âmbito internacional, em razão de suas características físicas e econômicas, o Brasil...' -> OK. '...para estabelecer posicionamento ativo em vários temas internacionais.' -> Faltava ponto final? Não, termina com ponto."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado entre os âmbitos interno e externo, e conclusão satisfatória.",
+      "Há uso adequado de referencial teórico (Kissinger, Sérgio Buarque) e conexão com os textos-base, embora algumas citações possam ser mais profundas.",
+      "Os argumentos são pertinentes e demonstram domínio conceitual sobre política externa e relações internacionais.",
+      "Pequenos ajustes gramaticais podem elevar ainda mais a qualidade textual."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.28,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'a maneira... deixou' -> deveria ser 'deixaram', já que o sujeito é 'maneira de lidar...' (singular) - correto; porém há erro de concordância implícita em 'propostas... passaram'. Não, espera. Vou reler.",
+      "Erro de Regência/Pontuação: 'Diálogos sobre Política Externa.' -> falta artigo? 'dos Diálogos'.",
+      "Uso inadequado de vírgula: 'temas internacionais, para estabelecer'."
+    ],
+    "feedbacks": [
+      "Excelente estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado entre âmbitos interno/internacional e conclusão sólida.",
+      "Domínio avançado da norma culta, com vocabulário preciso e adequado ao registro acadêmico-diplomático.",
+      "Pequenos deslizes pontuais de pontuação e regência não comprometem gravemente a fluidez textual.",
+      "Argumentação robusta, com citações pertinentes (Kissinger, Sérgio Buarque) e conexão efetiva com os textos-base."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.28,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal: 'contingente populacional dinâmico' deveria ser 'dinâmica'.",
+      "Uso inadequado de vírgula após sujeito/objeto: '...deve observar essa tendência de inclusão do indivíduo no processo político.' -> Não há erro aqui, mas verifiquei outras.",
+      "Pontuação/Vírgulas desnecessárias ou mal colocadas: 'No âmbito internacional, em razão de suas características físicas e econômicas, o Brasil...' -> OK. '...para estabelecer posicionamento ativo em vários temas internacionais.' -> Faltava ponto final? Não, terminou com ponto."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado entre os âmbitos interno e externo, e conclusão coesa.",
+      "Há uso adequado de referencial teórico (Kissinger, Sérgio Buarque) e conexão direta com os textos-base, embora algumas citações possam ser mais integradas criticamente.",
+      "Erros gramaticais leves foram identificados, principalmente de concordância nominal ('populacional dinâmica') e alguns excessos de vírgulas que não comprometem gravemente a fluidez.",
+      "A proposta de diálogo social via Livro Branco foi pertinente e alinhada ao enunciado."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "conformação"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, dividida logicamente entre âmbitos internos e externos.",
+      "Há bom uso de referências teóricas (Kissinger) e institucionais (Diálogos sobre Política Externa), embora a conexão com os textos-base possa ser mais direta.",
+      "Apresenta pequenos deslizes de digitação/ortografia ('conformação' em vez de 'configuração', 'intermédio' em vez de 'por meio').",
+      "A argumentação é coerente, mas segue padrões bastante convencionais, faltando um toque de originalidade ou análise crítica mais profunda."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "conformação"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, dividida logicamente entre âmbitos internos e externos.",
+      "Há bom uso de referências teóricas (Kissinger) e institucionais (Diálogos sobre Política Externa), embora a aplicação de Sérgio Buarque de Holanda pareça forçada."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "conformação"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, dividida logicamente entre âmbitos internos e externos.",
+      "Há bom uso de referências teóricas (Kissinger) e institucionais (Diálogos sobre Política Externa), embora a conexão com os textos-base possa ser mais direta.",
+      "Apresenta pequenos deslizes de digitação/ortografia ('conformação' em vez de 'configuração', 'intermédio' em vez de 'por meio').",
+      "A argumentação é coerente, mas segue padrões bastante convencionais, faltando um toque de originalidade ou análise crítica mais profunda."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "prevalências",
+      "onde¹",
+      "onde²"
+    ],
+    "feedbacks": [
+      "1A - Coerência, Legibilidade e Estilo: O texto possui estrutura clara, introduzindo os três eixos propostos e desenvolvendo-os sequencialmente. A progressão temática é lógica e fluida.",
+      "1B - Argumentação: As informações são pertinentes e bem organizadas. Há boa articulação entre os textos-base e a realidade atual, embora algumas afirmações careçam de profundidade crítica.",
+      "1C - Análise e Reflexão: O texto aborda adequadamente os temas solicitados, mas a análise tende a ser descritiva e normativa, faltando questionamentos mais profundos sobre contradições ou desafios estruturais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 13,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "prevalências",
+      "onde¹",
+      "onde²"
+    ],
+    "feedbacks": [
+      "1A - Coerência, Legibilidade e Estilo: O texto possui estrutura clara, introduzindo os três eixos (econômico, político e social) logo no início. A progressão temática segue esses pilares, facilitando a leitura. Contudo, há repetição excessiva de conceitos-chave (",
+      "potência emergente",
+      "multilateralismo",
+      "multipolaridade",
+      "desenvolvimento",
+      "longo prazo",
+      "circunstâncias internas/cenários internacionais",
+      "), o que empobrece ligeiramente o estilo e denota pouca variação vocabular.",
+      "1B - Argumentação: A capacidade de organizar as informações é boa, mas a profundidade analítica esbarra em generalidades. As afirmações são amplas e carecem de exemplos concretos ou dados específicos que fundamentem as teses (ex.: citar acordos comerciais reais, crises específicas superadas pelo G-20, programas sociais detalhados). Há certa superficialidade na articulação entre os textos-base e a realidade atual.",
+      "1C - Análise e Reflexão: O candidato consegue articular os temas propostos pelos textos I, II e III, identificando corretamente a relação entre política externa e desenvolvimento interno, bem como a mudança no cenário internacional (multipolaridade). No entanto, falta uma crítica mais apurada às contradições ou desafios internos (estagnação recente, questões ambientais, dependência de commodities) que impactam diretamente essas projeções de longo prazo. A análise tende a ser descritiva e otimista demais, sem explorar suficientemente os riscos mencionados implicitamente no Texto I."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "prevalências",
+      "onde¹",
+      "onde²"
+    ],
+    "feedbacks": [
+      "1A - Coerência, Legibilidade e Estilo: O texto possui estrutura clara, introduzindo os três eixos propostos desde o início. A progressão temática segue uma lógica linear (econômico -> político -> social). Contudo, há repetição excessiva de conceitos-chave (",
+      "multilateralismo",
+      "multipolaridade",
+      "potência emergente",
+      "desenvolvimento",
+      "longo prazo",
+      "circunstâncias internas/cenários internacionais",
+      "), o que empobrece ligeiramente o estilo e denota certa superficialidade analítica.",
+      "1B - Argumentação: As informações são pertinentes ao tema e bem selecionadas (G-20, CDH, CSNU, erradicação da extrema pobreza). A argumentação é objetiva e sistematizada conforme os eixos propostos. Há uma boa articulação entre os textos-base e a realidade atual."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "prevalências -> prevalência"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 13,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "prevalências -> prevalência"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "prevalências -> prevalência"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "prevalências"
+    ],
+    "feedbacks": [
+      "O texto aborda adequadamente o tema proposto, articulando as dimensões interna e externa da política externa brasileira.",
+      "Há organização clara em tópicos (econômico, político e social), embora a transição entre eles possa ser aprimorada.",
+      "Apresenta erro de concordância nominal ('prevalências' deveria ser 'prevalência').",
+      "As ideias são pertinentes, mas carecem de maior sofisticação teórica e análise crítica mais profunda."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 13,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "prevalências"
+    ],
+    "feedbacks": [
+      "O texto aborda adequadamente o tema proposto, articulando as dimensões interna e externa da política externa brasileira.",
+      "Há uma organização clara em tópicos (econômico, político e social), embora a transição entre eles possa ser aprimorada.",
+      "Apresenta domínio conceitual relevante, mencionando conceitos como 'multilateralismo', 'multipolaridade' e 'potência emergente'.",
+      "Contudo, há um erro de concordância nominal ('prevalências') que deve ser corrigido para manter a norma culta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "prevalências"
+    ],
+    "feedbacks": [
+      "O texto aborda adequadamente o tema proposto, articulando as dimensões interna e externa da política externa brasileira.",
+      "Há uma organização clara em tópicos (econômico, político e social), embora a transição entre eles possa ser aprimorada.",
+      "Apresenta bom domínio conceitual, citando exemplos concretos como o G-20 e a ONU.",
+      "Contudo, há um erro de concordância nominal ('prevalências' deveria ser 'prevalência'), o que afeta ligeiramente a correção gramatical."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta artigo definido 'um' antes de 'novo cenário'.",
+      "Uso inadequado de vírgula após 'países', separando sujeito ('surgimento') do verbo.",
+      "Ausência de crase em 'à forma' (se fosse o caso, mas aqui é erro de regência/ortografia)."
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: O texto é claro e organizado, mas carece de fluidez estilística e coesão lexical."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta artigo definido 'um' antes de 'novo cenário'.",
+      "Uso inadequado de vírgula após 'países', separando sujeito ('surgimento') do verbo.",
+      "Ausência de crase em 'à forma' (se fosse o caso, mas aqui é erro de regência/ortografia)."
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: O texto é claro e organizado, mas carece de fluidez estilística e coesão lexical."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta artigo definido 'um' antes de 'novo cenário'.",
+      "Uso inadequado de vírgula após 'países', separando sujeito ('surgimento') do verbo.",
+      "Ausência de crase em 'à forma' (se fosse o caso, mas aqui é erro de regência/ortografia)."
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: O texto é claro e organizado, mas carece de fluidez estilística e profundidade analítica. A estrutura é linear, mas repetitiva."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de crase em 'ao Brasil' -> 'Ao Brasil'",
+      "Erro de digitação/acentuação em 'país,' -> 'países,'"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa compreensão do tema e articulação entre os textos base.",
+      "Há repetição excessiva de algumas ideias e frases, o que poderia ter sido evitado com melhor síntese."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de crase em 'ao Brasil' -> 'Ao Brasil'",
+      "Erro de digitação/acentuação em 'país,' -> 'países,'"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa compreensão do tema e articulação entre os textos base.",
+      "Há repetição excessiva de algumas ideias e frases, o que poderia ter sido evitado com melhor síntese."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de crase em 'ao Brasil' -> 'Ao Brasil'",
+      "Erro de digitação/acentuação em 'país,' -> 'países,'"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa compreensão do tema e articulação entre os textos base.",
+      "Há repetição excessiva de algumas ideias e frases, o que poderia ter sido evitado com melhor síntese."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "falta de crase em 'ao Brasil'",
+      "falta de artigo definido em 'surgimento'"
+    ],
+    "feedbacks": [
+      "O texto demonstra bom domínio do tema, abordando tanto as circunstâncias internas quanto as externas conforme solicitado.",
+      "Há uma estrutura clara, com introdução, desenvolvimento e conclusão bem delimitadas.",
+      "Os argumentos são pertinentes e sustentados por exemplos históricos e conceituais.",
+      "Apresenta dois pequenos deslizes gramaticais: falta de crase após verbo ('interessa ao Brasil') e ausência de artigo definido ('surgimento').",
+      "A linguagem é formal e adequada ao registro acadêmico/diplomático."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "falta de crase em 'ao Brasil'",
+      "falta de artigo definido em 'surgimento'"
+    ],
+    "feedbacks": [
+      "O texto demonstra bom domínio do tema, abordando tanto as circunstâncias internas quanto as externas conforme solicitado.",
+      "Há uma estrutura clara, com introdução, desenvolvimento e conclusão bem delimitadas.",
+      "Os argumentos são pertinentes e sustentados por exemplos históricos e conceituais.",
+      "Apresenta dois pequenos deslizes gramaticais: falta de crase após verbo ('interessa ao Brasil') e ausência de artigo definido ('surgimento').",
+      "A linguagem é formal e adequada ao registro acadêmico/diplomático."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "falta de crase em 'ao Brasil'",
+      "falta de artigo definido em 'surgimento'"
+    ],
+    "feedbacks": [
+      "O texto demonstra bom domínio do tema, abordando tanto as circunstâncias internas quanto as externas conforme solicitado.",
+      "Há uma estrutura clara, com introdução, desenvolvimento e conclusão bem delimitadas.",
+      "Os argumentos são pertinentes e sustentados por exemplos históricos e conceituais.",
+      "Apresenta dois pequenos deslizes gramaticais: falta de crase após verbo ('interessa ao Brasil') e ausência de artigo definido ('surgimento').",
+      "A linguagem é formal e adequada ao registro acadêmico/diplomático."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'As transformações ... permitem' deveria ser 'permitem', mas o sujeito é plural ('transformações'), então está correto. Erro real: 'A decisão... não deve mais ocorrer.' Está correto. Vamos revisar cuidadosamente.\n\nRevisão detalhada:\n- 'A política externa está...' OK.\n- 'Diversas mudanças... têm ocorrido...' OK.\n- 'Essas alterações influem...' OK.\n- 'No caso do Brasil, seu papel..., as mudanças... e a tradição... são fatores...' OK.\n- 'Considerando-se que o desenvolvimento é...' OK.\n- 'É por meio da articulação... que devem ser analisadas...' OK.\n- 'A adequação... é essencial...' OK.\n- 'A dinâmica... delimita...' OK.\n- 'No Brasil, a ascensão... e a redução... coadunam-se...' OK.\n- 'Políticas públicas... permitiram... e são defendidas...' OK.\n- 'A experiência... é replicada...' OK.\n- 'Embora ainda existam... o Estado deve...' OK.\n- 'Desse modo, o Brasil age...' OK.\n- 'O desenvolvimento... e a existência... conferem...' OK.\n- 'Formado pela união...', o Brasil arvora...' -> Concordância: 'Brasil' é singular, 'formado' concorda. OK.\n- 'Ademais, como ressaltou o embaixador português José Fernandes Fafe,' -> Referência questionável? Não é erro gramatical.\n- 'É por meio dessas duas teses que o país tem sua atuação legitimada...' OK.\n- 'Em consonância com os princípios... o Brasil defende...' OK.\n- 'A consolidação... e a ascensão... permitem...' OK.\n- 'A crescente abertura... pode basear...' OK.\n- 'Como demonstram os Diálogos...' OK.\n- 'A decisão... não deve mais ocorrer.' OK.\n- 'É importante que os organismos... sejam atualizados...' OK.\n- 'Com essa finalidade, o Brasil propugna...' OK.\n- 'mas que ainda reflete...' Refere-se a 'instância' (singular)? Ou 'organismos'? O antecedente mais próximo é 'Segunda Guerra Mundial'. Isso é um erro de referência/análise sintática. Deveria ser 'refletem' (referindo-se às divisões/poder?) ou melhor estruturado. Vou considerar como erro de regência/concordância vago ou erro de clareza. Mas vamos contar erros claros.\n- 'O aumento... legitima...' OK.\n- 'Como afirmou Luiz Alberto Figueiredo Machado, o Brasil ocupa...' OK.\n- 'As transformações... permitem...' OK.\n- 'A postura... e as tradições... permanecem...' OK."
+    ],
+    "feedbacks": [
+      "Nota 1A: 7.5 - Texto bem organizado, mas com alguns momentos de repetição e transições pouco fluidas.",
+      "Nota 1B: 6.0 - Argumentação presente, mas falta profundidade crítica e conexão direta com os textos-base.",
+      "Nota 1C: 13.0 - Análise superficial, foca mais em exemplos históricos/genéricos do que na discussão conceitual proposta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 15,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'As transformações ... permitem' deveria ser 'permitem', mas o sujeito é plural ('transformações'), então está correto. Erro real: 'A decisão... não deve mais ocorrer.' Está correto. Vou reler cuidadosamente.",
+      "Erreurs détectées : \n- 'coadunam-se': usage correct.\n- 'foros': orthographe correcte au Brésil.\n- 'propugne': correct.\n\nJe vais chercher les erreurs plus subtiles :\n- 'Formado pela união de índios, brancos e negros, o Brasil arvora...' -> Participe passé utilisé comme adjectif ? C'est acceptable.\n- 'conceito de Gilberto Freyre' -> manque peut-être un article 'do'? Non, c'est une apposition.\n- 'Diálogos sobre Política Externa' -> Nom propre, ok.\n\nAttendez, il y a souvent des fautes d'accord dans ce type de texte.\n'A política externa está efetivamente relacionada com a conjuntura nacional e internacional.' -> OK.\n'Diversas mudanças... têm ocorrido' -> OK.\n'O contexto interno é, também, base' -> Manque-t-il 'uma' ? 'É base' est possible mais 'é uma base' serait mieux. Ce n'est pas une faute grave.\n'seu papel ao lado dos grandes emergentes' -> Le pronom possessif 'seu' renvoie à 'Brasil'. OK.\n'redução da pobreza coadunam-se' -> Sujet : 'ascensão... e a redução'. Pluriel. Verbe : 'coadunam-se'. Accord parfait.\n'permitiram que várias famílias obtivessem' -> Subjonctif imparfait après verbe au passé. Correct.\n'mediante' -> Utilisé pour 'por meio de'. Acceptable en portugais formel.\n'árvores a mestiçagem' -> 'Arvorar' signifie hisser/dresser. Usage métaphorique accepté.\n'equilíbrio de antagonismos' -> Expression conceptuelle acceptée.\n'inscrites na Constituição' -> Principes sont masculins/pluriels? 'Princípios' est masculin. Donc devrait être 'inscritos'. **ERREUR IDENTIFIÉE**.\n'diálogo e da paz nesses e em outros conflitos.' -> OK.\n'consolidação... e a ascensão... permitem' -> Sujet composé. Verbe au pluriel. OK.\n'Cúpula que envolvam' -> 'envolvam' s'accorde avec 'cúpulas' (sous-entendu)? Ou 'cúpulas que envolvam'. Dans le texte : 'cúpulas que envolvam'. Il manque peut-être l'article 'às'? 'pela futura global por cúpulas'. La structure est lourde mais grammaticalement défendable.\n\nRécapitulatif des erreurs :\n1. 'princípios ... inscritos' écrit 'inscritas' (accord féminin sur un nom masculin).\n2. 'mediante' vs 'por meio de'. En portugais du Brésil, 'mediante' signifie généralement 'en échange de' ou 'contre'. L'utilisation pour signifier 'par moyen de' est considérée comme incorrecte ou très archaïque/rare dans la norme standard actuelle. Je vais compter cela comme une erreur de vocabulaire/regence.\n\nTotal : 2 erreurs."
+    ],
+    "feedbacks": [
+      "Le texte présente une bonne fluidité et une clarté générale. Cependant, le style reste parfois répétitif (« contexto interno », « cenário ») et certaines formulations manquent de précision académique. L'impression globale est positive mais ne atteint pas l'excellence requise pour un score maximal.",
+      "L'auteur développe bien le lien entre développement interne et politique externe, citant des exemples concrets (Bolsa Família, África). Toutefois, l'argumentation souffre d'un certain déséquilibre : elle accorde trop de place aux aspects sociaux/culturels (mestiçage, paix sociale) au détriment d'une analyse géopolitique et stratégique approfondie exigée par l'énoncé. Les références théoriques sont présentes mais peu intégrées de manière critique.",
+      "La réflexion montre une compréhension des enjeux contemporains (multipolarité, réforme onusienne). Néanmoins, l'analyse reste descriptive plutôt qu'analytique. Elle ne confronte pas suffisamment les textes sources ni ne propose de scénarios alternatifs ou de projections stratégiques fines. Le raisonnement suit une logique linéaire sans véritable tension dialectique ou profondeur prospective.",
+      "Deux erreurs notables ont été relevées : 1) Accords erronés : 'principles inscrits' doit être 'inscritos' (masculin pluriel). 2) Emploi impropre de 'mediante' qui signifie ici 'via/par le biais de' ; le terme approprié serait 'por meio de' ou 'através de'. Ces erreurs ponctuelles n'altèrent pas gravement la lisibilité mais pénalisent la note de correction linguistique."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 15,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/Verbal: 'As transformações ... permitem' deveria ser 'permitem', mas o sujeito é plural ('transformações'), então está correto. Erro real: 'A decisão... não deve mais ocorrer.' Está correto. Vou reler cuidadosamente.",
+      "Erreurs détectées : \n- 'coadunam-se': usage correct.\n- 'foros': orthographe correcte au Brésil.\n- 'propugne': correct.\n\nJe vais chercher les erreurs plus subtiles :\n- 'Formado pela união de índios, brancos e negros, o Brasil arvora...' -> Participe passé en début de phrase s'accorde avec le sujet ? Non, c'est un adjectif/participe utilisé comme épithète. C'est acceptable.\n- 'Arvora a mestiçagem' -> Arvorar est rare mais existe dans ce sens figuré. Acceptable.\n- 'Diálogos sobre Política Externa' -> Nom propre, ok.\n\nVoyons la ponctuation et la syntaxe fine :\n- 'Considerando-se que o desenvolvimento é um dos maiores objetivos brasileiros, é por meio dessa articulação [...] que devem ser analisadas as perspectivas da política exterior.' -> Correct.\n- 'Políticas públicas, como o Bolsa Família, permitiram que várias famílias obtivessem melhor condição de vida e são defendidas no plano externo.' -> Subjonctif après permettre, correct.\n\nIl semble y avoir très peu d'erreurs formelles. Je note 1 erreur mineure si je trouve quelque chose, sinon 0. Mais l'instruction demande de compter les erreurs. Si aucune, alors 0. Cependant, pour être rigoureux sur une copie réelle, il faut parfois trouver quelque chose. Ici, le texte est très soigné. Je vais noter 0 erreur grave, peut-être 1 légère de style ou de registre, mais techniquement grammaticalement correct. Attendez, regardons bien : \"A decisão do futuro global por cúpulas que envolvam apenas as maiores potências...\" -> La structure est lourde mais correcte. \"não deve mais ocorrer.\" Ok.\n\nJe vais considérer qu'il y a 0 erreur grammaticale majeure, ou éventuellement 1 très mineure (ex: emploi de \"efetivamente\" qui pourrait être discuté stylistiquement mais pas grammaticalement). Pour respecter la grille, je mettrai 0 ou 1. Disons 0 car le niveau est élevé.)\n\nNote finale = 7.5 + 6.0 + 13.0 + 20 - (pénalités). Le critère CGPL est noté sur 20 points basé sur les erreurs. S'il y a 0 erreur, on donne 20. S'il y a quelques fautes légères, on déduit. Vu la qualité, je donnerai 19 ou 20. Prenons 19 pour rester critique sur un concours aussi sélectif où la perfection est attendue, ou 20 si vraiment impeccable. Je vais opter pour 19 en raison de possibles lourdeurs syntaxiques assimilables à des défauts de clarté/style relevant du langage, mais strictement parlant, la grammaire est bonne. En fait, la grille dit \"Contabilize os erros...\" puis on attribue une note sur 20. Habituellement, chaque faute retire des points. Avec ~0-1 faute, la note sera proche de 20. Je mets 19.5 ou 20. Mettons 20 pour souligner la correction exemplaire, sauf si je vois une faute précise.\n\nRelecture ultime pour faute :\n\"Formado pela união..., o Brasil arvora...\" -> Accord du participe ? \"Brasil\" est masculin singulier. \"Formado\" est masculin singulier. OK.\n\"Coexistem\" vs \"coesistem\" ? Pas présent.\nTout semble correct.\nNota CGPL: 20.0.\n\nTotal: 7.5+6+13+20 = 46.5."
+    ],
+    "feedbacks": [
+      "Apresentação clara, mas falta fluidez narrativa forte.",
+      "Argumentação presente, mas superficial e descritiva.",
+      "Análise limitada, pouca profundidade teórica e crítica.",
+      "Excelente domínio normativo."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 15,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "coadunam-se -> deveria ser 'convergirão' ou 'contribuem'",
+      "Arvora -> deveria ser 'ergue' ou 'exalta'",
+      "Ferreira -> deveria ser 'Freire'"
+    ],
+    "feedbacks": [
+      "Desenvolveu bem a relação entre política externa e desenvolvimento.",
+      "Argumentação coerente e clara."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 15,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "coadunam-se -> deveria ser 'convergirão' ou 'contribuem'",
+      "Arvora -> deveria ser 'ergue' ou 'exalta'",
+      "Freyr -> deveria ser 'Freire'"
+    ],
+    "feedbacks": [
+      "Desenvolveu bem a relação entre política externa e desenvolvimento.",
+      "Argumentação clara e organizada."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 15,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "coadunam-se -> deveria ser 'convergirão' ou 'contribuem'",
+      "Arvora -> deveria ser 'ergue' ou 'exalta'",
+      "Freyr -> deveria ser 'Freire'"
+    ],
+    "feedbacks": [
+      "Desenvolveu bem a relação entre política externa e desenvolvimento.",
+      "Argumentação coerente e clara."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 15,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara e progressiva, abordando tanto o contexto interno quanto o internacional conforme solicitado.",
+      "Há bom uso de conectivos e transições, garantindo coerência textual.",
+      "Apresenta algumas imprecisões conceituais e generalizações históricas que limitam a sofisticação da análise."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 15,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara e progressiva, abordando tanto as circunstâncias internas quanto as internacionais conforme solicitado.",
+      "Há bom uso de conectivos e transições, garantindo coerência textual.",
+      "Apresenta algumas imprecisões conceituais e generalizações questionáveis, especialmente quando associa diretamente políticas sociais internas (como o Bolsa Família) à projeção externa do Brasil, ou quando afirma categoricamente que o Brasil possui 'sociedade harmônica, sem graves conflitos étnicos'. Tais pontos fragilizam a sofisticação da análise.",
+      "A citação de Gilberto Freyre e a aplicação do conceito de 'mestiçagem' como ferramenta de mediação de conflitos internacionais soam reducionistas e carecem de embasamento teórico mais robusto para o nível exigido pela CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 15,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara e progressiva, desenvolvendo o tema de maneira coerente.",
+      "Há bom uso de conectores e transições entre os parágrafos, garantindo fluxo lógico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 15,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 9,
+    "erros_gramaticais": [
+      "Keneth",
+      "consolidase",
+      "politica",
+      "Figueiredo Machado².",
+      "Livro Branco³."
+    ],
+    "feedbacks": [
+      "Apresentação e impressão geral do texto: coerência, legibilidade e estilo.",
+      "Capacidade de argumentação: objetividade, sistematização, conteúdo e pertinência das informações.",
+      "Capacidade de análise e reflexão.",
+      "Correção gramatical e propriedade da linguagem"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 9,
+    "erros_gramaticais": [
+      "Keneth",
+      "consolidase",
+      "politica",
+      "Figueiredo Machado².",
+      "Livro Branco³.",
+      "política externa¹",
+      "diálogos de política externa",
+      "keneth waltz",
+      "figueiredo machado"
+    ],
+    "feedbacks": [
+      "Apresentação e impressão geral do texto: coerência, legibilidade e estilo.",
+      "Capacidade de argumentação: objetividade, sistematização, conteúdo e pertinência das informações.",
+      "Capacidade de análise e reflexão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 13.0,
+    "numero_de_erros_gramaticais": 9,
+    "erros_gramaticais": [
+      "Keneth",
+      "consolidase",
+      "politica",
+      "Figueiredo Machado².",
+      "Livro Branco³."
+    ],
+    "feedbacks": [
+      "Apresentação e impressão geral do texto: Coerência, legibilidade e estilo.",
+      "Capacidade de argumentação: Objetividade, sistematização, conteúdo e pertinência das informações.",
+      "Capacidade de análise e reflexão.",
+      "Correção Gramatical e Propriedade da Linguagem"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Keneth -> Kenneth",
+      "consolidase -> consolidarse",
+      "politica -> política"
+    ],
+    "feedbacks": [
+      "Uso correto de conectivos e estruturação lógica.",
+      "Referências bibliográficas inadequadas (notas de rodapé simuladas) indicam falta de rigor acadêmico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Keneth -> Kenneth",
+      "consolidase -> consolidarse",
+      "politica -> política"
+    ],
+    "feedbacks": [
+      "Uso correto de conectivos e estruturação lógica.",
+      "Referências bibliográficas inadequadas (notas de rodapé simuladas) indicam falta de rigor acadêmico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Keneth -> Kenneth",
+      "consolidase -> consolidarse",
+      "politica -> política"
+    ],
+    "feedbacks": [
+      "Uso correto de conectivos e estruturação lógica.",
+      "Referências bibliográficas inadequadas (notas de rodapé simuladas) indicam falta de rigor acadêmico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Keneth -> Kenneth",
+      "consolidase -> consolidase (falta hífen)",
+      "politica -> política"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidas.",
+      "Há bom uso de referências bibliográficas e conceituais (Waltz, BRICS, soft power), demonstrando familiaridade com o campo.",
+      "Os argumentos seguem uma linha lógica, conectando transformação internacional, fortalecimento interno e projeção futura.",
+      "Apresenta algumas imprecisões terminológicas ('Keneth' em vez de 'Kenneth') e falta de acentuação ('política', 'consolidase').",
+      "A argumentação é competente, embora possa ser enriquecida com maior nuance crítica sobre contradições internas e limitações externas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Keneth -> Kenneth",
+      "consolidase -> consolidase (falta hífen)",
+      "politica -> política"
+    ],
+    "feedbacks": [
+      "O texto apresenta organização clara e sequência lógica, abordando os temas propostos.",
+      "Houve uso inadequado de referências externas ('Diálogos', 'Livro Branco') que fogem estritamente ao material fornecido.",
+      "Apresentam-se três erros de grafia/ortografia."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Keneth -> Kenneth",
+      "consolidase -> consolidase (falta hífen)",
+      "politica -> política"
+    ],
+    "feedbacks": [
+      "O texto apresenta organização clara e sequência lógica, abordando os temas propostos.",
+      "Houve uso inadequado de referências externas ('Diálogos', 'Livro Branco') que fogem estritamente ao material fornecido.",
+      "Apresentam-se três erros de grafia/ortografia."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso inadequado de 'à' (crase indevida) em 'à tempo'.",
+      "Erro de digitação/ortográfico 'porém4'.",
+      "Erro de digitação/numérico 'necessariamente, uma grande complexidade.' (falta vírgula após 'significa', mas o erro principal é a estrutura; vou considerar apenas os erros claros)."
+    ],
+    "feedbacks": [
+      "1A: Excelente fluidez e coesão. Estilo formal e acadêmico apropriado. Pequena falha na pontuação inicial.",
+      "1B: Argumentação sólida e bem estruturada. Uso pertinente de autores e conceitos. Boa sistematização.",
+      "1C: Análise profunda e reflexiva. Conecta bem os textos-base com a realidade atual. Proposta de resolução clara."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 17,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso inadequado de 'à' (crase indevida) em 'à tempo'.",
+      "Erro de digitação/ortográfico 'porém4'.",
+      "Erro de digitação/numérico 'necessariamente, uma grande complexidade.' (falta vírgula após 'significa', mas o erro principal é a estrutura; vou considerar apenas os erros claros)."
+    ],
+    "feedbacks": [
+      "1A: Excelente fluidez e coesão. Estilo formal e acadêmico apropriado. Pequena falha na pontuação inicial."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 17,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso inadequado de 'à' (crase indevida) em 'à tempo'.",
+      "Erro de digitação/ortográfico 'porém4'.",
+      "Erro de digitação/numérico 'necessariamente, uma grande complexidade.' (falta vírgula após 'significa', mas o erro principal é a estrutura; vou considerar apenas os erros claros)."
+    ],
+    "feedbacks": [
+      "1A: Excelente fluidez e coesão. Estilo formal e acadêmico apropriado. Pequena falha na pontuação inicial.",
+      "1B: Argumentação sólida, bem estruturada e pertinente. Uso eficiente de autores e conceitos.",
+      "1C: Análise profunda, conectando internalidade e externalidade. Reflexão crítica sobre a natureza da diplomacia.",
+      "CGPL: Três erros graves de digitação/crase."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 17,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "à2 -> a",
+      "porém4 -> porém,",
+      "necessariamente, 5 -> necessariamente,"
+    ],
+    "feedbacks": [
+      "Erro de digitação/acentuação: 'à2' deveria ser 'a'.",
+      "Erro de digitação/símbolo numérico: 'porém4' deveria ser 'porém,'.",
+      "Erro de formatação/digitação: 'necessariamente, 5' deveria ser 'necessariamente,'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 17,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "à2 -> a",
+      "porém4 -> porém,",
+      "necessariamente, 5 -> necessariamente,"
+    ],
+    "feedbacks": [
+      "Erro de digitação/acentuação: 'à2' deveria ser 'a'.",
+      "Erro de digitação/símbolo numérico: 'porém4' deveria ser 'porém,'.",
+      "Erro de formatação/digitação: 'necessariamente, 5' deveria ser 'necessariamente,'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 17,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "à2 -> a",
+      "porém4 -> porém,",
+      "necessariamente, 5 -> necessariamente,"
+    ],
+    "feedbacks": [
+      "Erro de digitação/acentuação: 'à2' deveria ser 'a'.",
+      "Erro de digitação/símbolo numérico: 'porém4' deveria ser 'porém,'.",
+      "Erro de formatação/digitação: 'necessariamente, 5' deveria ser 'necessariamente,'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 17,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "à2 -> 'à' seguido de numeral é inadequado; deveria ser apenas 'a'",
+      "porém4 -> inserção indevida de algarismo romano/numeral após advérbio",
+      "também6 -> inserção indevida de algarismo romano/numeral após advérbio"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e progressão temática adequada, articulando referências bibliográficas e históricas para discutir a relação entre curto e longo prazos na política externa.",
+      "Há menção pertinente aos textos-base, embora a conexão direta com as questões propostas nos fragmentos pudesse ser mais explícita e profunda.",
+      "Apresenta três marcas de formatação incorreta (símbolos soltos) que indicam distração durante a revisão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 17,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "para¹",
+      "à²",
+      "interesses permanentes1",
+      "porém4",
+      "significa, 5",
+      "efeito também6"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidas.",
+      "Há uma tentativa de articular os textos-base com referências externas (Kissinger, Azeredo da Silva), embora algumas conexões possam ser mais diretas.",
+      "Os argumentos são desenvolvidos de forma sequencial, abordando a relação entre curto e longo prazos, complexidade internacional e o papel do Brasil."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 17,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "à2 -> a 2",
+      "porém4 -> porém,",
+      "7 -> 7"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidas.",
+      "As ideias são desenvolvidas de forma coerente, articulando conceitos internos e externos conforme solicitado pelo enunciado.",
+      "Há uso adequado de referências bibliográficas e citações de autores renomados, demonstrando familiaridade com o campo.",
+      "Apresentam-se algumas falhas pontuais de digitação/numeração que comprometem levemente a apresentação formal."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 17,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos",
+      "pós-2015²"
+    ],
+    "feedbacks": [
+      "1A - Coerência e Estilo: O texto apresenta estrutura clara, com introdução, desenvolvimento e conclusão bem definidas. A progressão temática é lógica, passando da definição de política externa para o cenário internacional, depois para o caso brasileiro e finalmente às propostas concretas. O estilo é formal e adequado ao nível exigido pelo CACD.",
+      "1B - Argumentação: As ideias são pertinentes e sustentadas por exemplos históricos e institucionais relevantes (BRICS, IBAS, Rio+20, etc.). Há boa articulação entre os conceitos de desenvolvimento interno e projeção externa. Contudo, algumas afirmações carecem de maior profundidade crítica, limitando-se a listar iniciativas sem problematizar contradições ou obstáculos estruturais.",
+      "1C - Análise e Reflexão: O candidato demonstra capacidade de articular os textos-base com conhecimentos gerais de Relações Internacionais. A conexão entre inclusão social e legitimidade da PE é interessante, embora pouco explorada teoricamente. Faltou abordar mais criticamente a tensão entre autonomia e interdependência, e a volatilidade dos cenários internacionais mencionados no Texto I."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 18,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos",
+      "pós-2015²"
+    ],
+    "feedbacks": [
+      "1A - Coerência e Estilo: O texto apresenta estrutura clara, com introdução, desenvolvimento e conclusão bem definidas. A progressão temática é lógica, passando da definição de política externa para o cenário internacional, depois para o caso brasileiro e finalmente às propostas concretas. O estilo é formal e adequado ao nível exigido pelo CACD.",
+      "1B - Argumentação: As ideias são pertinentes e sustentadas por exemplos históricos e institucionais relevantes (BRICS, IBAS, Rio+20, etc.). Há tentativa de articular os textos-base com a prática diplomática brasileira. Contudo, algumas afirmações carecem de maior profundidade crítica, limitando-se a elencar fatos sem questionar suas contradições ou complexidades.",
+      "1C - Análise e Reflexão: O candidato demonstra boa capacidade de síntese e articulação entre os aspectos internos e externos. No entanto, a análise permanece descritiva em muitos momentos, faltando um exame mais crítico das tensões inerentes à política externa brasileira (ex.: dilema entre autonomia e interdependência, críticas à eficácia real dos mecanismos multilaterais propostos). A menção ao 'Livro Branco' aparece duas vezes, sugerindo repetição conceitual sem aprofundamento analítico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 18,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos",
+      "pós-2015²",
+      "altiva"
+    ],
+    "feedbacks": [
+      "1A - Coerência, Legibilidade e Estilo: O texto apresenta estrutura clara, com introdução, desenvolvimento e conclusão bem definidas. A progressão temática é lógica, passando da definição de política externa para o cenário internacional, depois para o contexto interno e finalmente às propostas concretas. O estilo é formal e adequado ao concurso, embora haja algumas repetições lexicais (",
+      "longo prazo",
+      "consecução",
+      "desenvolvimento",
+      "que poderiam ser evitadas para enriquecer o vocabulário.",
+      "1B - Argumentação: A capacidade de argumentação é boa. O candidato utiliza dados concretos (BRICS, IBAS, Bolsa Família, Rio+20) para sustentar suas teses. Há uma tentativa de conectar o desenvolvimento interno com a projeção externa, alinhando-se parcialmente ao Texto III. Contudo, a relação entre os textos propostos pelo enunciado poderia ter sido explorada de forma mais crítica e menos descritiva.",
+      "1C - Análise e Reflexão: Esta é a área onde o texto peca um pouco mais. Embora demonstre conhecimento factual relevante, a análise tende a ser mais expositiva do que reflexiva. Faltou explorar mais profundamente as tensões e dilemas mencionados implicitamente nos textos-base (ex.: a tensão entre autonomia e interdependência, ou a dificuldade de previsão cega citada no Texto I). A discussão fica restrita a afirmar que a política externa *deve* seguir certos caminhos, sem examinar criticamente os obstáculos estruturais ou as contradições inerentes a essas escolhas. A menção ao \"Livro Branco\" aparece duas vezes, sugerindo uma preocupação programática válida, mas a falta de profundidade analítica limita a pontuação máxima neste quesito."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 18,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 48.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos -> órgãos",
+      "objetivos para o desenvolvimento pós-2015² -> objetivos para o desenvolvimento pós-2015",
+      "Livro Branco da Política Externa -> livro branco da política externa"
+    ],
+    "feedbacks": [
+      "Erro de digitação/acentuação: 'orgãos' deveria ser 'órgãos'.",
+      "Uso inadequado de símbolo/superscrito: 'pós-2015²' contém um número sobrescrito desnecessário.",
+      "Inconsistência de capitalização: 'Livro Branco da Política Externa' poderia ser tratado como nome próprio específico, mas a consistência com o restante do texto sugere minúsculas genéricas; contudo, este erro é menos grave."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 18,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 48.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos -> órgãos",
+      "objetivos para o desenvolvimento pós-2015² -> objetivos para o desenvolvimento pós-2015",
+      "Livro Branco da Política Externa -> livro branco da política externa"
+    ],
+    "feedbacks": [
+      "Erro de acentuação gráfica ('orgãos' deveria ser 'órgãos').",
+      "Uso inadequado de símbolo/superscrito após número ('pós-2015²').",
+      "Inconsistência na grafia de título/documento oficial ('Livro Branco...' vs 'livro branco...')."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 18,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 48.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos -> órgãos",
+      "objetivos para o desenvolvimento pós-2015² -> objetivos para o desenvolvimento pós-2015",
+      "Livro Branco da Política Externa -> livro branco da política externa"
+    ],
+    "feedbacks": [
+      "Erro de acentuação gráfica ('orgãos' deveria ser 'órgãos').",
+      "Uso inadequado de símbolo/superscrito após número ('pós-2015²').",
+      "Inconsistência na grafia de título/documento oficial ('Livro Branco...' vs 'livro branco...')."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 18,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos",
+      "objetivos para o desenvolvimento pós-2015²",
+      "altiva"
+    ],
+    "feedbacks": [
+      "O uso de 'altiva' parece inadequado neste contexto; sugiro substituir por 'assertiva', 'proativa' ou 'engajada'.",
+      "A referência 'pós-2015²' contém um número estranho ('²') que indica erro de digitação.",
+      "'Orgãos' deveria estar grafado corretamente como 'órgãos'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 18,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos",
+      "objetivos para o desenvolvimento pós-2015²",
+      "altiva"
+    ],
+    "feedbacks": [
+      "O uso de 'altiva' parece inadequado neste contexto; sugiro substituir por 'assertiva', 'proativa' ou 'engajada'.",
+      "A referência 'pós-2015²' contém um sobrenumeral estranho ('²') que indica erro de digitação.",
+      "'Orgãos' deveria estar grafado corretamente como 'órgãos'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 18,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos",
+      "objetivos para o desenvolvimento pós-2015²",
+      "pós-2015"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, abordando os temas propostos pelo enunciado.",
+      "Há uma tentativa de articular as circunstâncias internas e externas, embora algumas conexões possam ser aprimoradas.",
+      "Os argumentos são pertinentes, mas carecem de sofisticação teórica e análise crítica mais profunda."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 18,
+    "ano": "2014"
+  }
+]

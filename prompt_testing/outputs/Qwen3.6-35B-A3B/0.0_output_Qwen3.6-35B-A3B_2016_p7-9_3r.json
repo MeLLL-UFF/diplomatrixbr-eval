@@ -1,0 +1,1763 @@
+[
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal ('ideias' deveria estar no plural)",
+      "uso indevido de vírgula",
+      "regência verbal/preposicional"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e progressiva, mas perde pontos pela repetição excessiva de ideias e pela falta de profundidade analítica.",
+      "As informações são pertinentes, porém pouco sistematizadas e com algumas imprecisões históricas.",
+      "Há capacidade de reflexão, mas a análise fica superficial e dependente de generalizações."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal ('ideias' deveria estar no plural)",
+      "uso indevido de vírgula",
+      "regência verbal/preposicional"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativo-argumentativa, mas há momentos em que a progressão temática fica confusa.",
+      "As ideias são pertinentes, porém algumas conexões causais carecem de maior rigor histórico.",
+      "Há capacidade analítica evidente, especialmente na relação entre desilusão e ação política/cultural."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal ('ideias' deveria estar no plural)",
+      "uso indevido de vírgula",
+      "regência verbal/preposicional"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativo-argumentativa, mas há momentos em que a progressão temática fica confusa.",
+      "As ideias são pertinentes, mas algumas generalizações históricas comprometem a precisão analítica.",
+      "Há capacidade reflexiva interessante, especialmente na relação entre desilusão e ação política."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "ponto e vírgula incorreto antes de 'ou'",
+      "vírgula desnecessária após 'Embora'",
+      "uso inadequado de ponto e vírgula"
+    ],
+    "feedbacks": [
+      "Excelente estrutura dissertativo-argumentativa.",
+      "Uso sofisticado de vocabulário histórico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "ponto e vírgula incorreto antes de 'ou'",
+      "vírgula desnecessária após 'Embora'",
+      "uso inadequado de ponto e vírgula"
+    ],
+    "feedbacks": [
+      "Excelente estrutura dissertativo-argumentativa.",
+      "Uso sofisticado de vocabulário histórico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "ponto e vírgula incorreto antes de 'ou'",
+      "vírgula desnecessária após 'Embora'",
+      "uso inadequado de ponto e vírgula"
+    ],
+    "feedbacks": [
+      "Excelente estrutura dissertativo-argumentativa.",
+      "Uso sofisticado de vocabulário histórico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "ideia"
+    ],
+    "feedbacks": [
+      "O uso correto de 'ideias' no plural estaria mais alinhado com a referência aos conceitos abstratos listados.",
+      "Embora o artigo definido antes de 'terceiro andar' seja opcional, seu uso aqui cria uma leve redundância estilística."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "ideia"
+    ],
+    "feedbacks": [
+      "O uso correto de 'ideias' no plural estaria mais alinhado com a referência aos conceitos abstratos listados.",
+      "Embora o artigo definido antes de 'terceiro andar' seja opcional, seu uso aqui cria uma leve redundância estilística."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "ideia"
+    ],
+    "feedbacks": [
+      "O uso correto de 'ideias' no plural estaria mais alinhado com a referência aos conceitos abstratos listados.",
+      "Embora o artigo definido antes de 'terceiro andar' seja opcional, seu uso aqui cria uma leve redundância estilística."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal",
+      "regência verbal"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e progressão temática adequada, mas há repetições excessivas e algumas frases longas que comprometem ligeiramente a fluidez.",
+      "As ideias são pertinentes e bem selecionadas, porém a articulação entre elas poderia ser mais direta, evitando digressões menos produtivas.",
+      "Há boa capacidade analítica, especialmente na relação entre o idealismo e a criação da ONU, embora alguns trechos fiquem superficiais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal",
+      "regência verbal"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e progressão temática adequada, mas há repetições excessivas e algumas frases longas que comprometem ligeiramente a fluidez.",
+      "As ideias são pertinentes e bem selecionadas, porém a articulação entre elas poderia ser mais direta, evitando digressões menos produtivas.",
+      "Há boa capacidade analítica, especialmente na relação entre o idealismo e a criação da ONU, embora alguns trechos fiquem genéricos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 16,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal",
+      "regência verbal"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e progressão temática adequada, mas há repetições excessivas e algumas frases longas que comprometem ligeiramente a fluidez.",
+      "As ideias são pertinentes e bem selecionadas, porém a articulação entre elas poderia ser mais direta, evitando digressões menos produtivas.",
+      "Há boa capacidade analítica, especialmente na relação entre o idealismo e a criação da ONU, embora alguns trechos fiquem muito densos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Aspersão/uso inadequado de 'perseguindo' -> deveria ser 'perseguição'",
+      "Uso indevido de 'coadunar-se com' -> 'coadunava-se'"
+    ],
+    "feedbacks": [
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em argumentos e conclusão sólida.",
+      "Linguagem formal e adequada ao nível exigido pelo CACD.",
+      "Pequenos desvios gramaticais foram identificados, mas não comprometem significativamente a qualidade geral."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Aspersão/uso inadequado de 'perseguindo' -> deveria ser 'perseguição'",
+      "Uso indevido de 'coadunar-se com' -> 'coadunava-se'"
+    ],
+    "feedbacks": [
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em argumentos e conclusão sólida.",
+      "Excelente domínio da norma culta e vocabulário sofisticado.",
+      "Pequenos desvios gramaticais foram identificados, mas não comprometem significativamente a qualidade geral."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Aspersão/uso inadequado de 'perseguindo' -> deveria ser 'perseguição'",
+      "Uso indevido de 'coadunar-se com' -> 'coadunava-se'"
+    ],
+    "feedbacks": [
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em argumentos e conclusão sólida.",
+      "Linguagem formal e adequada ao nível exigido pelo CACD.",
+      "Pequenos desvios gramaticais foram identificados, mas não comprometem significativamente a qualidade geral."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma estrutura dissertativo-argumentativa muito bem articulada, com introdução clara, desenvolvimento rico em referências teóricas (Hans Morgenthau, Carl von Clausewitz, Immanuel Kant) e conclusão contundente.",
+      "A relação entre a citação de Machado de Assis e o evento histórico escolhido (fundação da ONU pós-Segunda Guerra) é estabelecida de forma profunda e convincente, demonstrando alta capacidade de síntese e análise crítica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma estrutura dissertativo-argumentativa muito bem articulada, com introdução clara, desenvolvimento rico em referências teóricas (Hans Morgenthau, Carl von Clausewitz, Immanuel Kant) e conclusão contundente.",
+      "A relação entre a citação de Machado de Assis e o evento histórico escolhido (fundação da ONU pós-Segunda Guerra) é estabelecida de forma profunda e convincente, demonstrando alta capacidade de síntese e análise crítica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma estrutura dissertativo-argumentativa muito bem articulada, com introdução clara, desenvolvimento rico em referências teóricas (Hans Morgenthau, Carl von Clausewitz, Immanuel Kant) e conclusão contundente.",
+      "A relação entre a citação de Machado de Assis e o evento histórico escolhido (fundação da ONU pós-Segunda Guerra) é estabelecida de forma profunda e convincente, demonstrando alta capacidade de síntese e análise crítica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Permitido *lhe* reunir"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estrutura e clareza, embora algumas frases possam ser aprimoradas quanto à fluidez.",
+      "As ideias são pertinentes e bem organizadas, mas poderiam apresentar maior profundidade crítica e conexão mais explícita entre os argumentos.",
+      "Há capacidade analítica satisfatória, porém faltam nuances e reflexões mais sofisticadas sobre o tema."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Permitido *lhe* reunir"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estrutura e clareza, embora algumas frases possam ser aprimoradas quanto à fluidez.",
+      "As ideias são bem organizadas, mas poderiam apresentar maior profundidade crítica e originalidade.",
+      "Há uma tentativa válida de conectar a citação ao evento histórico, mas falta uma análise mais sofisticada."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Permitido *lhe* reunir -> Permitiu-*que ele reunisse*"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estrutura e clareza.",
+      "Houve pequena confusão entre 'idealismo' e 'realismo'.",
+      "Análise histórica precisa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Permitido lhe reunir -> Permitiu-lhe reunir / Permitiu que ele reunisse.",
+      "Viesse a cair... como ocorreu com a França."
+    ],
+    "feedbacks": [
+      "Excelente domínio da estrutura dissertativo-argumentativa.",
+      "Uso sofisticado do vocabulário histórico e filosófico.",
+      "Relação entre a citação e o evento histórico muito bem construída."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Permitido lhe reunir -> Permitiu-lhe reunir / Permitiu que ele reunisse.",
+      "Viesse a cair... como ocorreu com a França."
+    ],
+    "feedbacks": [
+      "Excelente domínio da estrutura dissertativo-argumentativa.",
+      "Uso sofisticado do vocabulário histórico e filosófico.",
+      "Relação entre a citação e o evento histórico muito bem construída."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Permitido lhe reunir -> Permitiu-lhe reunir / Permitiu que ele reunisse.",
+      "Viesse a cair... como ocorreu com a França."
+    ],
+    "feedbacks": [
+      "Excelente domínio da estrutura dissertativo-argumentativa.",
+      "Uso sofisticado do vocabulário histórico e filosófico.",
+      "Relação entre a citação e o evento histórico muito bem construída."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "permitiram lhe reunir -> permitiram-lhe reunir",
+      "vai 'cair' -> vai 'cair'"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema histórico e da citação literária.",
+      "A argumentação é clara, profunda e bem articulada, estabelecendo conexões pertinentes entre o conceito machadiano e a política de apaziguamento.",
+      "Há apenas dois pequenos deslizes gramaticais (crase/advérbio e futuro do pretérito) que não comprometem a fluidez ou a sofisticação do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "permitiram lhe reunir -> permitir-lhe reunisse / teriam permitido que ele reunisse",
+      "vai 'cair' -> foram 'arrastados' / tiveram que 'cair'"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema histórico e da citação machadiana.",
+      "A argumentação é clara, progressiva e bem articulada.",
+      "Há apenas dois pequenos deslizes gramaticais/regências que poderiam ser ajustados."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "permitiram lhe reunir -> permitir-lhe reunisse / teriam permitido que ele reunisse",
+      "vai 'cair' -> foram 'arrastados' / tiveram que 'cair'"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema histórico e da citação machadiana.",
+      "A argumentação é clara, progressiva e bem articulada.",
+      "Há apenas dois pequenos deslizes gramaticais/regências que poderiam ser ajustados."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "comprovações",
+      "**"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estruturação inicial, mas perde coesão e clareza ao longo do desenvolvimento.",
+      "Apresenta argumentos pertinentes, porém alguns desvios temáticos enfraquecem a argumentação central.",
+      "Demonstra capacidade analítica significativa, mas falhas na articulação entre ideias comprometem a profundidade."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "comprovações",
+      "**"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estruturação inicial, mas perde coesão ao longo do desenvolvimento.",
+      "Apresenta argumentos pertinentes, porém alguns desvios temáticos enfraquecem a argumentação central.",
+      "Demonstra capacidade analítica satisfatória, mas falta profundidade crítica em momentos-chave."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "comprovações",
+      "**"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estruturação inicial, mas perde coesão ao longo do desenvolvimento.",
+      "Apresenta argumentos pertinentes, porém alguns desvios temáticos enfraquecem a argumentação central.",
+      "Demonstra capacidade analítica satisfatória, mas falta profundidade crítica em momentos-chave."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "*As*",
+      "**atestam**"
+    ],
+    "feedbacks": [
+      "Erro de digitação/ortográfico (*As*)",
+      "Concordância verbal (**atestam**)"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "*As*",
+      "**atestam**"
+    ],
+    "feedbacks": [
+      "Erro de digitação/ortográfico (*As*)",
+      "Concordância verbal (**atestam**)"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "*As*",
+      "**atestam**"
+    ],
+    "feedbacks": [
+      "Erro de digitação/ortográfico (*As*)",
+      "Concordância verbal (**atestam**)"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "*",
+      "**"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando claramente a citação de Machado de Assis com fatos históricos brasileiros do século XX.",
+      "Há duas marcas indicativas de possíveis correções (* e **) que sugerem revisões pendentes, mas isso não compromete significativamente a qualidade geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "*",
+      "**"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando claramente a citação de Machado de Assis com fatos históricos brasileiros do século XX.",
+      "Há duas marcas indicativas de possíveis correções (* e **) que sugerem revisões pendentes, mas isso não compromete significativamente a qualidade geral."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "*",
+      "**"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando claramente a citação de Machado de Assis com fatos históricos brasileiros do século XX.",
+      "Há duas marcas indicativas de possíveis correções (* e **) que sugerem revisões pendentes, mas isso não compromete significativamente a qualidade geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "consequencia",
+      "também",
+      "adotou",
+      "conviviam",
+      "destacou"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é irregular. A transição entre o mito de Ícaro e a Primeira Guerra Mundial ocorre abruptamente, sem articulação clara. Há repetição desnecessária de ideias nos parágrafos finais.",
+      "Apesar de abordar temas relevantes, a seleção de exemplos é superficial. A conexão entre a citação de Machado de Assis e a Primeira Guerra Mundial carece de profundidade crítica. As referências históricas são corretas, porém pouco articuladas aos argumentos centrais.",
+      "Há tentativa de reflexão sobre o legado cultural pós-guerra, mas falta rigor analítico. Não há problematização adequada da metáfora machadiana aplicada ao contexto histórico. A comparação com a trajetória pessoal de Machado de Assis aparece forçada no fechamento."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "consequência -> consequências",
+      "adotado modelo -> adotado o modelo",
+      "conviviam de modo próspera e conflito -> conviveram de modo pacífico/próspero",
+      "destacou-se de mediocridade -> escapou/afastou-se da mediocridade",
+      "(Nota: A frase 'O legado cultural... comprova' tem erro lógico/conceitual grave, classificado aqui como falha de argumento/pertinência sob 1B)"
+    ],
+    "feedbacks": [
+      "1A - Coerência e Estilo:",
+      "- Pontos fortes: Estrutura básica presente (introdução, desenvolvimento, conclusão). Linguagem culta.",
+      "- Pontos fracos: Uso inadequado do mito de Ícaro (Ícaro não fugiu da prisão, ele tentou fugir com Daedalo e morreu porque tocou no sol. Isso distorce completamente a alegoria machadiana de risco calculado vs. estagnação). Repetitivo.",
+      "1B - Argumentação:",
+      "- Pontos fortes: Conhecimento histórico sólido sobre WWI, Áustria-Hungria, RU e URSS.",
+      "- Pontos fracos: Falha crítica na conexão lógica entre o evento e a citação. Não fica claro *por* que a queda dos impérios seria 'preferível'. Faltou explicar que a destruição abriu espaço para novas ordens/mundos modernos (cair das nuvens = modernizar/derrubar velhas estruturas).",
+      "1C - Análise e Reflexão:",
+      "- Pontos fortes: Boa contextualização histórica.",
+      "- Pontos fracos: Superficialidade na reflexão filosófica/política. A comparação com Machado de Assis no final é forçada e desconexa do resto do ensaio."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "consequência -> consequências",
+      "adotado modelo -> adotado o modelo",
+      "conviviam de modo próspero e conflito -> conviveram sem conflitos"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é irregular. A transição entre o mito de Ícaro e a Primeira Guerra Mundial ocorre abruptamente, sem articulação clara.",
+      "As informações históricas estão presentes, porém há falta de profundidade analítica. O texto lista fatos (queda dos impérios, Revolução Russa) sem estabelecer relações causais robustas ou refletir criticamente sobre eles.",
+      "Há tentativa de ligar a citação aos eventos históricos, mas a conexão é forçada em alguns momentos. A menção final a Machado de Assis parece desconectada do argumento principal."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.38,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "consequencia -> consequência",
+      "adotado modelo -> adotado o modelo / adotado um modelo",
+      "conviviam de modo próspera e conflito -> conviveram de modo pacífico/próspero e conflitos/sem conflitos"
+    ],
+    "feedbacks": [
+      "Erro de acentuação gráfica.",
+      "Falta de artigo definido antes de 'modelo'.",
+      "Incoerência sintática e vocabular."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.38,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "consequencia -> consequência",
+      "adotado modelo -> adotado o modelo / adotado um modelo",
+      "conviviam de modo próspera e conflito -> conviveram de modo pacífico/próspero e conflitos/sem conflitos"
+    ],
+    "feedbacks": [
+      "Erro de acentuação gráfica.",
+      "Falta de artigo indefinido antes de 'modelo'.",
+      "Incoerência semântica entre 'próspera' (adj.) e 'conflito' (substantivo), sugerindo erro de digitação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.38,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "consequencia -> consequência",
+      "adotado modelo -> adotado o modelo / adotado um modelo",
+      "conviviam de modo próspera e conflito -> conviveram de modo pacífico/próspero e conflitos/sem conflitos"
+    ],
+    "feedbacks": [
+      "Erro de acentuação gráfica.",
+      "Falta de artigo indefinido antes de 'modelo'.",
+      "Incoerência semântica entre 'próspera' (adj.) e 'conflito' (substantivo), sugerindo erro de digitação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "consequência -> consequências",
+      "conviviam de modo próspera e conflituoso"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "Há uma tentativa interessante de conectar a citação de Machado de Assis ao mito de Ícaro e à Primeira Guerra Mundial, demonstrando criatividade na abordagem do tema.",
+      "No entanto, há alguns erros gramaticais que comprometem ligeiramente a qualidade do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "consequência -> consequências",
+      "conviviam de modo próspera e conflituoso"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "Há uma tentativa interessante de conectar a citação de Machado de Assis ao mito de Ícaro e à Primeira Guerra Mundial, demonstrando criatividade na abordagem do tema.",
+      "No entanto, há alguns erros gramaticais que comprometem ligeiramente a qualidade do texto, como 'consequência' no lugar de 'consequências' e 'próspera e conflituoso' no lugar de 'prósperos e conflituosos'.",
+      "Além disso, a conexão entre a citação e a Primeira Guerra Mundial poderia ser mais profunda e detalhada, pois parece haver uma certa falta de clareza nessa ligação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "consequência -> consequências",
+      "conviviam de modo próspera e conflituoso"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "Há uma tentativa interessante de conectar a citação de Machado de Assis ao mito de Ícaro e à Primeira Guerra Mundial, demonstrando criatividade na abordagem do tema.",
+      "No entanto, há dois pequenos erros gramaticais que precisam ser corrigidos:",
+      "- 'teve consequência' deveria ser 'teve consequências'",
+      "- 'conviviam de modo próspera e conflituoso' deveria ser 'prósperos e conflituosos', já que ambos adjetivos devem concordar com 'impérios'.",
+      "Apesar desses pequenos deslizes, o texto demonstra bom domínio da língua portuguesa e capacidade de desenvolver argumentos coerentes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'a sua característica' -> deveria ser 'suas características' para concordar com 'meios', embora 'característica' esteja no singular, o uso de 'sua' antes de substantivo iniciado por vogal pode gerar ambiguidade, mas aqui o erro principal é a falta de clareza. Melhor exemplo: 'exemplificou' -> 'exemplifica' (concordância temporal/lógica com o presente de generalização)."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão pertinente.",
+      "Argumentos são pertinentes e relacionados ao tema, mas algumas conexões poderiam ser mais diretas.",
+      "Análise reflexiva é boa, mas poderia explorar melhor a relação direta entre a citação e o fato histórico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'capacidade ... de melhorar' (aceitável, mas 'para melhorar' seria mais preciso); 'compreendido' vs 'compreendidas'; 'embasada' vs 'estímulo'.",
+      "Regência/preposição: 'referência' deveria ter preposição adequada ('à qual'); 'atribuídas a' (correto, mas estilisticamente repetitivo)."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão pertinente.",
+      "Argumentos são pertinentes e relacionados à citação, embora haja alguma dispersão teórica (Giddens, Lassalle, Churchill, Borges).",
+      "Análise reflexiva é boa, mas poderia explorar melhor a relação direta entre a citação e o exemplo histórico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'capacidade ... de melhor' deveria ser 'melhorar'.",
+      "Regência verbal/preposicional: 'embasada no estímulo' é aceitável, mas 'fundamentada no' seria mais preciso; contudo, o erro principal aqui é a falta de crase antes de 'suas' em 'a sua', onde 'democracia' exige preposição 'da': 'garantia dos meios necessários para a sua contestação'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Argumentos pertinentes e relevantes, embora algumas conexões possam ser fortalecidas.",
+      "Boa capacidade analítica, com uso adequado de referências teóricas e históricas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.34,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "a sua -> a sua (uso inadequado do possessivo 'sua' referindo-se a 'democracia', termo abstrato; recomenda-se evitar pronomes possessivos com substantos abstratos ou usar artigo definido)"
+    ],
+    "feedbacks": [
+      "- **Tema e Enunciado**: O candidato escolheu corretamente um fato da história mundial (expansão da democracia pós-SGII), relacionando-o adequadamente à citação de Machado de Assis.\n\n- **Desenvolvimento Argumentativo**: A tese central é clara e bem sustentada. O uso de autores como Giddens, Lassalle e Churchill demonstra domínio conceitual e capacidade de articulação teórica sofisticada.\n\n- **Estrutura e Coerência**: O texto apresenta boa progressão temática, embora algumas transições possam parecer abruptas devido à densidade informacional. A conclusão reforça consistentemente a relação proposta pelo enunciado.\n\n- **Linguagem e Estilo**: Registro formal adequado ao nível CACD. Há um único erro gramatical identificado.",
+      "Nota Final: 52.34/60.00"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.34,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "a sua -> a sua (uso inadequado do possessivo 'sua' referindo-se a 'democracia', termo abstrato; recomenda-se evitar pronomes possessivos com substantos abstratos ou usar artigo definido)"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura e desenvolve bem o argumento principal.",
+      "Há alguns desvios gramaticais menores que precisam ser observados."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.34,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "a sua -> a sua (uso correto, mas 'à' seria melhor antes de substantivo feminino? Não, 'garantia... a sua'. Está ok.)"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em 'As Consequências da Modernidade', Anthony Giddens afirmou...', o título correto seria 'Consequências da Modernidade' (sem artigo definido inicial), embora isso possa variar conforme a edição.",
+      "Na frase '...exigiria luta.', o uso do futuro do pretérito ('exigia') parece inadequado ao contexto hipotético/condicional implícito."
+    ],
+    "feedbacks": [
+      "- **Tema**: O candidato escolheu corretamente um fato histórico (expansão da democracia pós-SGII) e tentou vinculá-lo à citação.\n- **Argumentação**: A conexão entre a citação e o tema é forçada. A ideia de \"preferir cair das nuvens\" (idealismo/risco) vs \"terceiro andar\" (realismo/pragmatismo) é aplicada de maneira imprecisa à defesa da democracia frente ao autoritarismo. A análise fica superficial e algumas transições são bruscas.\n- **Linguagem**: Há bom repertório sociocultural (Giddens, Lassalle, Churchill, Borges), mas o texto apresenta certa densidade excessiva e períodos longos que comprometem a fluidez. Alguns trechos parecem deslocados do foco principal.\n- **Estrutura**: O texto segue uma ordem lógica básica, mas perde o fio condutor em momentos específicos, especialmente nas digressões teóricas sobre marxismo e oligarquias."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em 'As Consequências da Modernidade', Anthony Giddens afirmou...', o título correto seria 'Consequências da Modernidade' (sem artigo definido inicial), embora isso possa variar conforme a edição.",
+      "Na frase '...exigiu luta.', falta vírgula antes de 'uma vez que'?"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, desenvolvendo o tema de maneira coerente e articulando adequadamente a citação de Machado de Assis com fatos históricos relevantes do século XX, especificamente a expansão da democracia pós-Segunda Guerra Mundial.",
+      "Há uso pertinente de referências teóricas (Giddens, Lassalle) e históricas (Churchill, Borgés, Alemanha Pós-Guerra), demonstrando conhecimento contextualizado e capacidade de análise histórica.",
+      "Apresentam-se algumas imprecisões conceituais e de formulação, como a associação direta entre a citação machadiana e a 'valorização do pensamento abstrato', o que parece forçar demais a relação temática. Além disso, a menção à Constituição dos EUA como reconhecimento pioneiro da liberdade individual carece de maior precisão histórica e filosófica dentro do argumento principal.",
+      "Os erros gramaticais são mínimos e não comprometem significativamente a leitura ou a compreensão do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em 'As Consequências da Modernidade', Anthony Giddens afirmou...', o título correto seria 'Consequências da Modernidade' (sem artigo definido inicial), embora isso possa variar conforme a edição.",
+      "Na frase '...exigiria luta.', o uso do futuro do pretérito ('exigia') parece inadequado ao contexto hipotético/condicional implícito."
+    ],
+    "feedbacks": [
+      "- **Tema e Enunciação**: O candidato cumpriu parcialmente o enunciado ao escolher um fato histórico (expansão da democracia pós-SGII) e tentar vinculá-lo à citação. Contudo, a relação estabelecida é forçada e pouco clara. A citação machadiana ("
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "estado1",
+      "emendidamente"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é irregular. Há repetições desnecessárias e algumas frases longas dificultam a fluidez.",
+      "As ideias estão presentes, mas a articulação entre elas é fraca. Faltam conectivos adequados e a relação causal entre os eventos históricos e a tese central precisa ser melhor fundamentada.",
+      "Há tentativa de análise histórica, mas ela é superficial e muitas vezes descritiva. A conexão com a citação de Machado de Assis é forçada em alguns momentos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "estado1",
+      "emendidamente"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é irregular. Há repetições desnecessárias e algumas frases longas dificultam a fluidez. A coesão entre parágrafos poderia ser melhor trabalhada.",
+      "Apresenta argumentos pertinentes ao tema, mas a profundidade analítica é limitada. Faltam conexões mais claras entre os exemplos históricos e a tese central. Algumas generalizações sobre 'esquerdas' carecem de precisão conceitual."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "estado1",
+      "emendidamente"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é irregular. Há repetições desnecessárias e algumas frases longas dificultam a fluidez.",
+      "As ideias estão presentes, mas a articulação entre elas é fraca. Faltam conectivos adequados e a relação causal entre os eventos históricos e a tese central precisa ser melhor fundamentada.",
+      "Há tentativa de análise histórica, mas ela é superficial e muitas vezes descritiva. A conexão com a citação de Machado de Assis é forçada em alguns momentos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"emediavelmente\" -> \"imediatamente\"",
+      "\"estado1\" -> \"Estado\"",
+      "\"das qual\" -> \"das quais\""
+    ],
+    "feedbacks": [
+      "Erro de digitação 'emediivelmente' deveria ser 'imediatamente'.",
+      "Uso incorreto de número 'estado1', provavelmente erro de digitação.",
+      "Expressão 'das qual' deveria ser 'das quais'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"emediavelmente\" -> \"imediatamente\"",
+      "\"estado1\" -> \"Estado\"",
+      "\"das qual\" -> \"das quais\""
+    ],
+    "feedbacks": [
+      "Erro de digitação 'emediivelmente' deveria ser 'imediatamente'.",
+      "Uso incorreto de número 'estado1', provavelmente erro de digitação.",
+      "Expressão 'das qual' deveria ser 'das quais'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"emediavelmente\" -> \"imediatamente\"",
+      "\"estado1\" -> \"Estado\"",
+      "\"das qual\""
+    ],
+    "feedbacks": [
+      "Erro de digitação 'emediivelmente' deveria ser 'imediatamente'.",
+      "Uso incorreto de número 'estado1', provavelmente erro de digitação.",
+      "'Das qual' deveria ser 'das quais'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"As esquerdas que abandonaram posições idealistas, \"\"caindo das nuvens\",foram mais bem sucedidas...\"",
+      "O erro aqui é a falta de espaço após a vírgula dentro daspas duplas internas.",
+      "\"Nos anos emediatamente posteriores à 2ª Guerra Mundial...\"",
+      "Erro de digitação/ortográfico: 'imediatamente' escrito como 'imedialmente'.",
+      "\"mesmo que a economia soviética tivesse crescido muito, o estado1 soviético...\"",
+      "Uso indevido de marca d'água/número ('estado1') provavelmente resultado de formatação."
+    ],
+    "feedbacks": [
+      "**Interpretação do Tema:** O candidato interpretou corretamente a citação de Machado de Assis, estabelecendo uma relação clara entre a ideia de preferir uma adaptação gradual/pragmática ("
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"As esquerdas que abandonaram posições idealistas, \"\"caindo das nuvens\",foram mais bem sucedidas...\"",
+      "O erro aqui é a falta de espaço após a vírgula dentro daspas duplas internas.",
+      "\"Nos anos emediatamente posteriores à 2ª Guerra Mundial...\"",
+      "Erro de digitação/ortográfico: 'imediatamente' escrito como 'imedialmente'.",
+      "\"mesmo que a economia soviética tivesse crescido muito, o estado1 soviético...\"",
+      "Uso indevido de número/símbolo ('estado1') no corpo do texto."
+    ],
+    "feedbacks": [
+      "**Interpretação do Tema:** O candidato interpretou corretamente a citação de Machado de Assis, estabelecendo uma relação clara entre a ideia de preferir uma queda gradual/pragmática ("
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"As esquerdas que abandonaram posições idealistas, \"\"caindo das nuvens\",foram mais bem sucedidas...\"",
+      "O erro aqui é a falta de espaço após a vírgula dentro daspas duplas internas.",
+      "\"Nos anos emediatamente posteriores à 2ª Guerra Mundial...\"",
+      "Erro de digitação/ortográfico: 'imediatamente' escrito como 'imedialmente'.",
+      "\"mesmo que a economia soviética tivesse crescido muito, o estado1 soviético...\"",
+      "Uso indevido de número/símbolo ('estado1') no corpo do texto."
+    ],
+    "feedbacks": [
+      "**Interpretação do Tema:** O candidato interpretou corretamente a citação de Machado de Assis, associando-a à adaptação pragmática ("
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal",
+      "ortografia/uso indevido"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Argumentação sólida, com uso pertinente de conceitos e autores relevantes.",
+      "Análise reflexiva profunda, conectando a citação ao fenômeno histórico-cultural."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal",
+      "ortografia"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Argumentação sólida, com uso pertinente de conceitos e autores relevantes.",
+      "Análise reflexiva profunda, conectando eficazmente a citação ao fenômeno histórico-cultural."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "concordância nominal",
+      "ortografia/uso indevido"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Argumentação sólida, com uso pertinente de conceitos e autores relevantes.",
+      "Análise reflexiva profunda, conectando a citação ao fenômeno histórico-cultural."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "adesão ... à ousadia -> 'à' antes de palavra masculina ('ousadia') deveria ser 'a'",
+      "consolidação das ideias -> 'ideais' (substantivo) vs 'ideias' (plural de ideia); aqui parece querer dizer 'ideais', então 'das ideais' está errado, seria 'dos ideais'. Se for 'ideias', estaria correto, mas o contexto fala de 'ideais modernos/antropófagos'. Vou considerar erro.",
+      "ao angariar o apoio... à metodologia antropófoga -> 'metodologia' não combina bem com 'antropófaga'? Talvez seja aceitável. Mas há outro erro: 'conformação do \"entre-lugar\"' - ok. 'transformar a inovação em tradição' - ok."
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "adesão ... à ousadia -> 'à' antes de palavra masculina ('ousadia') deveria ser 'a'",
+      "consolidação das ideias -> 'ideais' (substantivo) vs 'ideias' (plural de ideia); aqui parece querer dizer 'ideais', então 'das ideais' está errado, seria 'dos ideais'. Se for 'ideias', estaria correto, mas o contexto sugere 'ideais'. Vou considerar erro.",
+      "ao angariar o apoio... à metodologia antropófoga -> 'antropófoga' é adjetivo feminino? Não, 'metodologia' é feminina, então 'antropófaga'? Ou seja, erro de gênero/adjetivo."
+    ],
+    "feedbacks": [
+      "Erro grave de crase/uso de preposição: 'à ousadia' (palavra masculina)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "adesão ... à ousadia -> 'à' antes de palavra masculina ('ousadia') deveria ser 'a'",
+      "consolidação das ideias -> 'ideais' (adjetivo) usado como substantivo feminino plural, correto seria 'ideias'",
+      "ao angariar o apoio... à metodologia antropófoga -> 'antropófoga' (feminino) refere-se a 'metodologia', mas o conceito é 'antropofágica'. Erro de concordância/adjetivação."
+    ],
+    "feedbacks": [
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento coeso e conclusão sólida.",
+      "Uso excelente de vocabulário acadêmico e referências específicas (Semana de 22, Manifesto Antropófago, Silviano Santiago).",
+      "Relação entre a citação e o fato histórico (Modernismo) é profunda e bem articulada.",
+      "Pequenos deslizes gramaticais menores não comprometem significativamente a qualidade geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma análise profunda e articulada, conectando a citação de Machado de Assis ao Movimento Modernista Brasileiro de maneira coerente e reflexiva.",
+      "Há excelente uso de referências específicas (Semana de Arte Moderna de 1922, Manifesto Antropófago, Oswald de Andrade, Mário de Andrade) que enriquecem a argumentação.",
+      "A linguagem é formal, precisa e demonstra domínio avançado do português culto, com raras imprecisões menores."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma análise profunda e articulada, conectando a citação de Machado de Assis ao Movimento Modernista Brasileiro de maneira coerente e reflexiva.",
+      "Há excelente uso de referências específicas (Semana de Arte Moderna de 1922, Manifesto Antropófago, Oswald de Andrade, Mário de Andrade) que enriquecem a argumentação.",
+      "A linguagem é formal, precisa e demonstra domínio avançado do português culto, com raras imprecisões menores."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma análise profunda e articulada, conectando a citação de Machado de Assis ao Modernismo Brasileiro de maneira coerente e reflexiva.",
+      "Há excelente uso de referências específicas (Semana de 22, Manifesto Antropófago, Oswald de Andrade, Mário de Andrade) que enriquecem a argumentação.",
+      "A linguagem é formal, precisa e demonstra domínio avançado do português culto, com raras imprecisões menores."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 7,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordância nominal ('estado vigentes' deveria ser 'vigente')",
+      "ortografia/uso indevido ('não temeram' deveria ser 'temeram', pois 'temedor' é arcaico/poético e o correto é 'temer'; embora comum, em contexto formal deve-se evitar neologismos negativos)",
+      "regência/concordância verbal implícita ('aceite a mediocridade' deveria ser 'aceitar' ou 'é aceitar')",
+      "pontuação/vírgula desnecessária antes de 'mas'",
+      "repetição lexical excessiva ('conduta social combatida' soa estranho, talvez quisesse dizer 'combatida' ou 'de combate'? Contextualmente ambíguo)"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática oscila entre a Europa Oriental e a Primavera Árabe sem uma articulação clara.",
+      "Há repetições conceituais e algumas frases longas que dificultam a fluidez.",
+      "A relação com a citação aparece no início e no fim, mas poderia ser mais densa durante o desenvolvimento."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 7,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordância nominal ('estado vigentes' deveria ser 'vigente')",
+      "ortografia/uso indevido de barra vertical ('contra | as' - erro de digitação/formatagem)",
+      "regência/concordância verbal implícita ou construção inadequada ('aceite a mediocridade' deveria ser 'aceitar a mediocridade' ou 'é aceitável a mediocridade', dependendo da intenção, mas a frase original 'do que aceite a mediocridade lesiva' apresenta problema de paralelismo/regência após 'mais gratificante'",
+      "pontuação/falta de vírgula antes de 'pois' em oração explicativa? (não necessariamente erro grave, mas há falta de clareza sintática em alguns trechos)"
+    ],
+    "feedbacks": [
+      "O texto demonstra conhecimento factual sólido sobre a queda do Muro de Berlim e movimentos na Europa Oriental.",
+      "Há falhas graves de coesão sequencial: a transição abrupta para a Primavera Árabe desconecta-se logicamente do foco principal solicitado (relacionar UM FATO ao Machado de Assis).",
+      "A aplicação da metáfora machadiana é forçada e pouco precisa conceitualmente."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 7,
+    "nota_1C": 13,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordância nominal ('estado vigentes' deveria ser 'vigente')",
+      "ortografia/uso indevido de barra vertical ('contra | as'), possivelmente erro de digitação ou formatação",
+      "regência/concordância verbal implícita ou construção ambígua ('aceite a mediocridade' deveria ser 'aceitarmos' ou 'aceitar', dependendo da estrutura)",
+      "possível erro de concordância ou clareza ('conduta social combatida' - termo inadequado, talvez quisesse dizer 'combatida' ou 'de combate'? Contextualmente parece errado)",
+      "pontuação/frase longa demais ou falta de vírgula antes de conjunção adversativa ('...não pretendiam copiar..., todavia,...')"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa capacidade analítica e consegue articular o evento histórico com a citação inicial.",
+      "Há alguns problemas de coesão e correção gramatical que prejudicam a fluidez e a precisão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 42.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "não temeram -> não temeu(m)",
+      "estado vigentes -> estado vigente(s)",
+      "aceite a mediocridade -> aceitar a mediocridade"
+    ],
+    "feedbacks": [
+      "Erro de conjugação verbal ('temeram' deveria ser 'teemeu/m')",
+      "Erro de concordância nominal/adjetival ('vigentes' deveria ser 'vigorante/s')",
+      "Erro de regência/infinitivo ('aceite' deveria ser 'aceitar')"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 42.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "não temeram -> não temeu(m)",
+      "estado vigentes -> estado vigente(s)",
+      "aceite a mediocridade -> aceitar a mediocridade"
+    ],
+    "feedbacks": [
+      "Erro de conjugação verbal ('temeram' deveria ser 'teemeu/m')",
+      "Erro de concordância nominal/adjetival ('vigentes' deveria ser 'vigorante/s')",
+      "Erro de regência/infinitivo ('aceite' deveria ser 'aceitar')"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 42.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "não temeram -> não temeu(m)",
+      "estado vigentes -> estado vigente(s)",
+      "aceite a mediocridade -> aceitar a mediocridade"
+    ],
+    "feedbacks": [
+      "Erro de conjugação verbal ('temeram' deveria ser 'teemeu/m')",
+      "Erro de concordância nominal/adjetival ('vigentes' deveria ser 'vigorante/s')",
+      "Erro de regência/infinitivo ('aceite' deveria ser 'aceitar')"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "não temeram -> não temeram (concordância verbal)",
+      "estado vigentes -> estado vigente (concordância adjetival)",
+      "aceite a mediocridade -> aceitar a mediocridade (regência/infinitivo)"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura organizada e coerente, desenvolvendo adequadamente o tema proposto.",
+      "Há uma relação pertinente entre a citação de Machado de Assis e o evento histórico selecionado (queda do Muro de Berlim/redemocratização da Europa Oriental).",
+      "Apresenta pequenos deslizes gramaticais que não comprometem significativamente a compreensão do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"não temeram\" deveria ser \"não temeram\"",
+      "\"estado vigentes\" deveria ser \"estados vigentes\"",
+      "\"aceite\" deveria ser \"aceitar\""
+    ],
+    "feedbacks": [
+      "- **Argumentação**: O texto apresenta uma linha de raciocínio coerente, conectando adequadamente a citação de Machado de Assis aos movimentos de redemocratização na Europa Oriental durante a Guerra Fria. A relação entre 'cair das nuvens' (risso) e 'terceiro andar' (resignação/repressão) é explorada de maneira pertinente.",
+      "- **Estrutura**: A introdução contextualiza bem o tema, o desenvolvimento traz exemplos históricos concretos (Alemanha, Polônia, etc.) e a conclusão amplia a discussão para a Primavera Árabe, reforçando a tese principal. Há uma progressão lógica nas ideias.",
+      "- **Linguagem**: O registro formal é mantido ao longo do texto, com bom uso de vocabulário específico da área histórica/política. Contudo, há pequenos equívocos gramaticais que impedem a classificação como 'Ótimo'.",
+      "- **Pontualidades Gramaticais**: Foram identificados três deslizes notórios: erro de conjugação verbal ('temeram'), erro de concordância nominal/adjetival ('estado vigentes') e erro de infinitivo impessoal/verbal ('aceite')."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"não temeram\" deveria ser \"não temeram\"",
+      "\"estado vigentes\" deveria ser \"estados vigentes\"",
+      "\"aceite\" deveria ser \"aceitar\""
+    ],
+    "feedbacks": [
+      "- **Argumentação**: O texto apresenta uma linha de raciocínio coerente, conectando adequadamente a citação de Machado de Assis aos movimentos de redemocratização na Europa Oriental durante a Guerra Fria. A relação entre 'cair das nuvens' (risso) e 'terceiro andar' (resignação/repressão) é explorada de maneira pertinente.",
+      "- **Estrutura**: A introdução contextualiza bem o tema, o desenvolvimento traz exemplos históricos concretos (Alemanha, Polônia, etc.) e a conclusão amplia a discussão para a Primavera Árabe, reforçando a tese principal. Há uma progressão lógica nas ideias.",
+      "- **Linguagem**: O registro formal é mantido ao longo do texto, com bom uso de vocabulário específico da área histórica/política. Contudo, há pequenos equívocos gramaticais que comprometem ligeiramente a precisão técnica esperada em um concurso de alto nível."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "déficit",
+      "capacidade interferir"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara, introduzindo a tese logo no início e desenvolvendo-a através de argumentos históricos bem fundamentados.",
+      "Os argumentos são pertinentes e demonstram conhecimento histórico sólido, especialmente sobre a Liga das Nações e a política externa brasileira nos anos 1920.",
+      "Há uma boa articulação entre o evento histórico e a metáfora machadiana, mostrando profundidade analítica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "déficit de participação1",
+      "capacidade interferir1",
+      "não se tivessem permitido"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, mas com pequenos deslizes de formatação.",
+      "Argumentação sólida e pertinente, com boa sistematização.",
+      "Análise profunda e reflexiva, conectando bem o fato histórico à citação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "déficit",
+      "capacidade interferir"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara, introduzindo a tese logo no início e desenvolvendo-a através de exemplos históricos específicos. A progressão temática é lógica, conectando a citação inicial ao pleito brasileiro na Liga das Nações e retornando à ideia central no fechamento.",
+      "A argumentação é sólida e bem fundamentada historicamente. O uso de referências acadêmicas (Eugênio Vargas Garcia) e dados concretos fortalece a pertinência das informações. Há boa articulação entre causa e consequência nos argumentos apresentados."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "déficit de participação1.",
+      "capacidade interferir1",
+      "participação1."
+    ],
+    "feedbacks": [
+      "Erro de digitação/footnote residual 'participation1.' após 'deficit' e 'interferir'.",
+      "Uso correto de vocabulário técnico e acadêmico adequado ao nível CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "déficit de participação1.",
+      "capacidade interferir1",
+      "participação1."
+    ],
+    "feedbacks": [
+      "Erro de digitação/footnote residual 'participation1.' após 'deficit' e 'interferir'.",
+      "Uso correto de vocabulário técnico e acadêmico adequado ao nível CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "déficit de participação1.",
+      "capacidade interferir1",
+      "participação1."
+    ],
+    "feedbacks": [
+      "Erro de digitação/footnote residual 'participation1.' após 'deficit' e 'interferir'.",
+      "Uso correto de vocabulário técnico e acadêmico adequado ao nível CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "pode ter servido"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema histórico e da citação machadiana, articulando-os com precisão.",
+      "Apresenta argumentação complexa, contextualizando adequadamente o pleito brasileiro na Liga das Nações e suas implicações.",
+      "Há apenas três pequenos deslizes gramaticais ('capacidade interferir', 'servisse' vs 'servido'), que não comprometem a fluidez ou a sofisticação do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "pode ter servido"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema histórico e da citação machadiana, articulando-os com precisão.",
+      "Apresenta argumentação complexa, contextualizando adequadamente o pleito brasileiro na Liga das Nações e suas implicações.",
+      "Há apenas três pequenos deslizes gramaticais ('capacidade interferir', 'servisse' vs 'servido'), que não comprometem a fluidez ou a sofisticação do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "pode ter servido"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema histórico e da citação machadiana, articulando-os com precisão.",
+      "Apresenta argumentação complexa, contextualizando adequadamente o pleito brasileiro na Liga das Nações e suas implicações.",
+      "Há pequenos desvios gramaticais ('pode ter servido' deveria ser 'tivesse servido', 'capacidade interferir' faltando preposição) que não comprometem significativamente a leitura."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2016"
+  }
+]

@@ -1,0 +1,521 @@
+[
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Concordância verbal: 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos' (O núcleo do sujeito é 'crescimento', exigindo o verbo no singular: 'não é obtido')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Concordância verbal: 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos' (O núcleo do sujeito é 'crescimento', exigindo o verbo no singular: 'não é obtido')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Concordância verbal: 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos' (O núcleo do sujeito é 'crescimento', exigindo o verbo no singular: 'não é obtido')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contribuiu (erro de acentuação: 'contribuiu' não leva acento no 'u' final)",
+      "sub- desenvolvidos (erro de digitação/espaçamento indevido após o hífen)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contribuiu (erro de acentuação: 'contribuiu' não leva acento no 'u' no pretérito perfeito do indicativo)",
+      "sub- desenvolvidos (erro de digitação/espaçamento indevido após o hífen)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contribuiu (erro de acentuação: 'contribuiu' não leva acento no 'u' por ser oxítona terminada em 'u')",
+      "sub- desenvolvidos (erro de digitação/espaçamento indevido após o hífen)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contribuiu (acentuação)",
+      "sub- desenvolvidos (espaçamento/hifenização)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contribuiu (acentuação)",
+      "sub- desenvolvidos (espaçamento/hifenização)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contribuiu (acentuação)",
+      "sub- desenvolvidos (espaçamento/hifenização)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contribuiu (erro de acentuação em 'contribuiu')",
+      "sub- desenvolvidos (erro de hifenização/espaçamento)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contribuiu (erro de acentuação em 'contribuiu')",
+      "sub- desenvolvidos (erro de hifenização/espaçamento)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contribuiu (erro de acentuação em 'contribuiu')",
+      "sub- desenvolvidos (erro de hifenização/espaçamento)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...'",
+      "Erro de concordância nominal: '...resultou em importantes conquista...'"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...'",
+      "Erro de concordância nominal: '...resultou em importantes conquista...'"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...'",
+      "Erro de concordância nominal: '...resultou em importantes conquista...'"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "vírgula separando sujeito de predicado ('...a promoção da liberdade no intercâmbio mundial, tornou-se...')",
+      "erro de concordância nominal ('...resultou em importantes conquista...')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "vírgula separando sujeito de predicado ('...a promoção da liberdade no intercâmbio mundial, tornou-se...')",
+      "erro de concordância nominal ('...resultou em importantes conquista...')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "vírgula separando sujeito de predicado ('...a promoção da liberdade no intercâmbio mundial, tornou-se...')",
+      "erro de concordância nominal ('...resultou em importantes conquista...')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...'",
+      "Erro de concordância nominal: '...resultou em importantes conquista...'",
+      "Uso de nota de rodapé (¹ e ²), prática incomum e geralmente desaconselhada em redações de concursos, embora não configure erro gramatical stricto sensu."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...' (1º parágrafo).",
+      "Erro de concordância nominal: '...resultou em importantes conquista...' (4º parágrafo).",
+      "Uso de nota de rodapé/referência numérica (¹ e ²) em texto dissertativo, o que foge ao padrão formal de redações de concurso."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...' (1º parágrafo).",
+      "Erro de concordância nominal: '...resultou em importantes conquista...' (4º parágrafo).",
+      "Uso de nota de rodapé/referência numérica (¹ e ²) em texto dissertativo, o que foge ao padrão formal de redações de concurso."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2013"
+  }
+]

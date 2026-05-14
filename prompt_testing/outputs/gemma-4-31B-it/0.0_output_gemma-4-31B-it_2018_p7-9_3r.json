@@ -1,0 +1,796 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' (o correto seria 'fazem', dado que o sujeito é composto)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' (o correto seria 'fazem', dado que o sujeito é composto)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' (o correto seria 'fazem', dado que o sujeito é composto)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ausência de preposição/conectivo em: 'o surgimento da rede mundial de computadores [e] a difusão das redes sociais' (falta a conjunção coordenativa 'e' para ligar os núcleos do sujeito)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ausência de preposição/conectivo em: 'o surgimento da rede mundial de computadores [e] a difusão das redes sociais' (Erro de sintaxe/omissão)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ausência de preposição/conectivo em: 'o surgimento da rede mundial de computadores [e] a difusão das redes sociais' (Erro de sintaxe/omissão)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ausência de preposição/conectivo em 'o surgimento da rede mundial de computadores a difusão das redes sociais' (falta o 'e' coordenativo)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ausência de preposição/conectivo em 'o surgimento da rede mundial de computadores a difusão das redes sociais' (falta o 'e' coordenativo)°."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ausência de preposição ou conjunção entre 'computadores' e 'a difusão' no segundo período do primeiro parágrafo: '...rede mundial de computadores [e] a difusão das redes sociais...']}"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Letra minúscula no início de frase: 'se nos tempos de oliveira lima' (Linha 2).",
+      "Ausência de maiúscula em nome próprio: 'oliveira lima' (Linha 2).",
+      "Erro de regência/digitação: 'tende as ser renovada' (em vez de 'tende a ser') (Linha 24).",
+      "Erro de digitação/ortografia: 'politica externa' (ausência de acento em 'política') (Linha 33).",
+      "Erro de digitação: 'f iltros' (espaço indevido no meio da palavra) (Linha 18)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Letra minúscula no início de frase: 'se nos tempos de oliveira lima' (Linha 2).",
+      "Ausência de maiúscula em nome próprio: 'oliveira lima' (Linha 2).",
+      "Erro de regência/digitação: 'tende as ser renovada' (em vez de 'tende a ser') (Linha 24).",
+      "Erro de digitação/ortografia: 'politica externa' (ausência de acento em 'política') (Linha 33).",
+      "Erro de digitação: 'f iltros' (espaço indevido no meio da palavra) (Linha 18)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Letra minúscula no início de frase: 'se nos tempos de oliveira lima' (Linha 2).",
+      "Ausência de maiúscula em nome próprio: 'oliveira lima' (Linha 2).",
+      "Erro de concordância nominal: 'procedência duvidosas' (Linha 12).",
+      "Erro de regência/digitação: 'tende as ser renovada' (em vez de 'tende a ser') (Linha 26).",
+      "Erro de ortografia/digitação: 'politica externa' (ausência de acento em 'política') (Linha 36)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "se nos tempos de oliveira lima (falta de letra maiúscula no início da frase e no nome próprio)",
+      "tende as ser renovada (erro de crase/regência: o correto seria 'tende a ser')",
+      "politica externa (falta de acento em 'política')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de letra maiúscula no início do segundo período ('se nos tempos...')",
+      "Erro de concordância nominal em 'procedência duvidosas'",
+      "Erro de regência/digitação em 'tende as ser renovada' (uso de 'as' em vez de 'a')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de letra maiúscula no início do segundo período ('se nos tempos de oliveira lima...').",
+      "Ausência de letra maiúscula no nome próprio 'Oliveira Lima' no segundo período.",
+      "Erro de regência/digitação no trecho 'tende as ser renovada' (o correto seria 'tende a ser')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de letra maiúscula no início do segundo período ('se nos tempos de oliveira lima...').",
+      "Ausência de letra maiúscula no nome próprio 'Oliveira Lima' no segundo período.",
+      "Erro de regência/digitação no trecho 'tende as ser renovada' (o correto seria 'tende a ser')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de letra maiúscula no início do segundo período ('se nos tempos de oliveira lima...').",
+      "Ausência de letra maiúscula no nome próprio 'Oliveira Lima' no segundo período.",
+      "Erro de regência/digitação no trecho 'tende as ser renovada' (o correto seria 'tende a ser')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'política publica' (falta de acento em 'pública')",
+      "'diálogo com a sociedade fundamental' (falta do verbo 'é')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'política publica' (falta de acento em 'pública')",
+      "'diálogo com a sociedade fundamental' (falta do verbo 'é')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'política publica' (falta de acento em 'pública')",
+      "'diálogo com a sociedade fundamental' (falta do verbo 'é')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'atividade diplomáticas' (erro de concordância nominal: deveria ser 'atividades diplomáticas' ou 'atividade diplomática')",
+      ", consideravelmente o sigilo (vírgula separando o advérbio do objeto, prejudicando a fluidez, embora menos grave que a anterior)",
+      ", potencialmente, dificulte (vírgula desnecessária isolando o advérbio)",
+      "avaliação histórico (erro de concordância nominal: deveria ser 'avaliação histórica')",
+      "'para além das consequências imediatas*' (falta de letra maiúscula no início da frase)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'atividade diplomáticas' (erro de concordância nominal: deveria ser 'atividades diplomáticas' ou 'atividade diplomática')",
+      ", consideravelmente o sigilo (vírgula separando o advérbio do objeto, prejudicando a fluidez, embora menos grave que a anterior)",
+      ", potencialmente, dificulte (vírgula desnecessária isolando o advérbio)",
+      "avaliação histórico (erro de concordância nominal: deveria ser 'avaliação histórica')",
+      "'para além das consequências imediatas*' (falta de letra maiúscula no início da frase)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'atividade diplomáticas' (erro de concordância nominal: deveria ser 'atividades diplomáticas' ou 'atividade diplomática')",
+      ", consideravelmente o sigilo (vírgula separando o advérbio do objeto, prejudicando a fluidez, embora menos grave que a anterior)",
+      ", potencialmente, dificulte (vírgula desnecessária isolando o advérbio)",
+      "avaliação histórico (erro de concordância nominal: deveria ser 'avaliação histórica')",
+      "'para além das consequências imediatas*' (falta de letra maiúscula no início da frase)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "atividade diplomáticas (concordância nominal)",
+      "diminuído, consideravelmente (vírgula separando verbo de advérbio)",
+      "avaliação histórico (concordância nominal)",
+      "para além das consequências imediatas* (erro de digitação/pontuação)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "atividade diplomáticas (concordância nominal)",
+      "diminuído, consideravelmente (vírgula separando verbo de advérbio)",
+      "avaliação histórico (concordância nominal)",
+      "para além das consequências imediatas* (erro de digitação/pontuação)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "atividade diplomáticas (concordância nominal)",
+      "diminuído, consideravelmente (vírgula separando verbo de advérbio)",
+      "avaliação histórico (concordância nominal)",
+      "para além das consequências imediatas* (erro de digitação/pontuação)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'atividade diplomáticas' (falta de concordância nominal)",
+      " 'diminuído, consideravelmente' (vírgula separando verbo de advérbio de modo)",
+      " 'para além das consequências imediatas' (início de frase com letra minúscula)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "atividade diplomáticas (erro de concordância nominal)",
+      "avaliação histórico (erro de concordância nominal)",
+      "para além das consequências imediatas* (erro de digitação/pontuação: início de frase com letra minúscula e presença de caractere residual)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "atividade diplomáticas (erro de concordância nominal)",
+      "avaliação histórico (erro de concordância nominal)",
+      "para além das consequências imediatas* (erro de digitação/pontuação: início de frase com letra minúscula e presença de caractere residual)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  }
+]

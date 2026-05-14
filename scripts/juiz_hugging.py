@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 import json
 import yaml
 import requests
@@ -20,13 +20,13 @@ class respostaPorCriterio(BaseModel):
   feedbacks: list[str]
 
 class respostaFinal(BaseModel):
-  nota_final: float
+  nota_final: str = Field(pattern=r"^\d+\.\d{1,2}$")
   numero_de_erros_gramaticais: int
   erros_gramaticais: list[str]
   feedbacks: list[str]  
 
 class respostaEmFaixa(BaseModel):
-  faixa: str
+  faixa: str = Field(pattern=r"^(Fraco|Regular|Bom|Ótimo|Excelente|Excepcional)$")
   numero_de_erros_gramaticais: int
   erros_gramaticais: list[str]
   feedbacks: list[str]
@@ -46,7 +46,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, nome_completo_modelo, lista_re
 
   device = f'cuda' if torch.cuda.is_available() else 'cpu'
 
-  model_id = "google/gemma-3-1b-it"
+  model_id = nome_completo_modelo
   hf_model = transformers.AutoModelForCausalLM.from_pretrained(model_id, device_map=device, dtype=torch.bfloat16, trust_remote_code=True)
 
   tokenizer = None
@@ -82,9 +82,9 @@ def main(n_iteracoes, temps, anos, lista_prompts, nome_completo_modelo, lista_re
       prompts = prompts_yaml['prompts']
 
   dados_candidatos = diplomatrix["Candidates_Essays"][ano]["Candidates"]
+  enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
   try:
     padrao_de_resposta = diplomatrix["Candidates_Essays"][ano]["Answer_Pattern"]
-    enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
   except KeyError:
     padrao_de_resposta = ""
   numero_redacao = 0
@@ -128,32 +128,61 @@ def main(n_iteracoes, temps, anos, lista_prompts, nome_completo_modelo, lista_re
                   output_type=formato_resposta,
                   max_new_tokens=2048,
                   do_sample=sample,
-                  temperature=i
+                  temperature=i,
+                  repetition_penalty=1.2
                 )
-              print(sample)
-              print(outputs)
 
             except Exception as e:
               print(outputs)
               print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
 
-            response = json.loads(outputs)
-            response['modelo'] = nome_completo_modelo.split("/")[-1]
+            nome_modelo = nome_completo_modelo.split("/")[-1]
+
+            try:
+              response = json.loads(outputs)
+
+            except json.decoder.JSONDecodeError as e:
+              print(f"Erro ao transformar saída em JSON\n ERRO {e}")
+              dump_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", "redacoes_unicas")
+              os.makedirs(dump_path, exist_ok=True)
+              dump_path = os.path.join(dump_path, f'redacao_{ano}_{numero_redacao}_output_{nome_modelo}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+              dump_file = {}
+              with open(dump_path, "w", encoding="utf-8") as file:
+                dump_file['json'] = outputs
+                dump_file['modelo'] = nome_modelo
+                dump_file['prompt'] = prompt['id']
+                dump_file['temp'] = float(i)
+                dump_file['versao'] = j + 1
+                dump_file['essay'] = numero_redacao
+                dump_file['ano'] = ano
+                json.dump(dump_file, file, indent=2, ensure_ascii=False)
+              print(outputs)
+              continue
+
+            if formato_resposta == respostaPorCriterio:
+              response["nota_1A"] = abs(response["nota_1A"])
+              response["nota_1B"] = abs(response["nota_1B"])
+              response["nota_1C"] = abs(response["nota_1C"])
+            elif formato_resposta == respostaFinal:
+              response["nota_final"] = float(response["nota_final"])
+            elif formato_resposta == respostaEmFaixa:
+              pass
+
+            response["numero_de_erros_gramaticais"] = abs(response["numero_de_erros_gramaticais"])
+            response['modelo'] = nome_modelo
             response['prompt'] = prompt['id']
             response['temp'] = float(i)
             response['versao'] = j + 1
             response['essay'] = numero_redacao
             response['ano'] = ano
             jsonGerado.append(response)
-            print(f"Temperatura testada: {i}")\
-            
-            print(response)
-""" 
-
+            print(f"Temperatura testada: {i}")
     
     # Salvar resultados parciais por redação pra evitar perda de dados
     # Pode ser removido se não for necessário
-    output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_{numero_redacao}_output_{response["modelo"]}_p13-15_{num_runs}r.json')
+    parcial_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", "dumps_parciais")
+    os.makedirs(parcial_path, exist_ok=True)
+    output_path = os.path.join(parcial_path, f'{ano}_output_{response["modelo"]}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
     with open(output_path, 'w', encoding="utf-8") as file:
       json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
       file.close()
@@ -162,11 +191,12 @@ def main(n_iteracoes, temps, anos, lista_prompts, nome_completo_modelo, lista_re
   for i in temp:
     listtemps += str(i) + "_"
 
-  output_path = os.path.join(os.getcwd(), "prompt_testing", f'{listtemps}output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+  output_path = os.path.join(os.getcwd(), "prompt_testing", "outputs", nome_modelo, f'{listtemps}output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+  os.makedirs(os.path.join(os.getcwd(), "prompt_testing", "outputs", nome_modelo), exist_ok=True)
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
-"""
+
 
 if __name__ == "__main__":
   parser = argparse.ArgumentParser(description="Avalia redações de um determinado ano do CACD com Sabia-3.")

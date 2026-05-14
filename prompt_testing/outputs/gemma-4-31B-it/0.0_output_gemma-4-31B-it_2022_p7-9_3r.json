@@ -1,0 +1,773 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 19.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...possibilidade de erradicação guerra (falta de preposição 'da')",
+      "...a guerra acontece, quando a política (vírgula indevida separando a oração principal da subordinada adverbial temporal)",
+      "...Tratado de Não-Proliferação Nuclear, em 1967 (erro de precisão histórica/data: o TNP é de 1968)",
+      "...apoiou- se (erro de digitação/espaçamento)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 19.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...possibilidade de erradicação guerra (falta de preposição 'da')",
+      "...a guerra acontece, quando a política (vírgula indevida separando a oração principal da subordinada adverbial temporal)",
+      "...Tratado de Não-Proliferação Nuclear, em 1967 (erro de precisão histórica/data: o TNP é de 1968)",
+      "...apoiou- se (erro de digitação/espaçamento)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 19.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...possibilidade de erradicação guerra (falta de preposição 'da')",
+      "...a guerra acontece, quando a política (vírgula indevida separando a oração principal da subordinada adverbial temporal)",
+      "...Tratado de Não-Proliferação Nuclear, em 1967 (erro factual/cronológico: o TNP é de 1968, embora a redação foque na gramática, a precisão técnica no CACD é avaliada no conteúdo, mas a pontuação aqui é gramatical)",
+      "...apoiou- se (espaço indevido entre o hífen e o pronome)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "A redação apresenta excelente domínio da norma culta, com raras imprecisões pontuais de pontuação (ex: vírgulas desnecessárias separando sujeito de predicado ou em adjuntos adverbiais curtos), que não comprometem a fluidez nem a clareza do texto."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "A redação apresenta excelente domínio da norma culta, com raras imprecisões pontuais de pontuação (ex: vírgulas desnecessárias separando sujeito de predicado ou em adjuntos adverbiais curtos), que não comprometem a fluidez nem a clareza do texto."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "A redação apresenta excelente domínio da norma culta, com raras imprecisões pontuais de pontuação (ex: vírgulas desnecessárias separando sujeito de predicado ou em adjuntos adverbiais curtos), que não comprometem a fluidez nem a clareza do texto."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Vírgula indevida separando o sujeito do predicado: '...a guerra acontece, quando a política...' (O correto seria sem a vírgula antes de 'quando', dado que a oração subordinada temporal está restringindo o sentido).",
+      "Vírgula indevida separando o sujeito do predicado: '...o conflito ideológico entre os Estados Unidos e a União Soviética acarretou uma corrida armamentista, que, por sua vez, fez as potências desenvolverem armas nucleares cada vez mais destrutivas.' (Embora a pontuação esteja correta no trecho citado, há uma vírgula desnecessária em '...um esforço, para estabelecer uma cultura...', separando o substantivo de seu complemento).",
+      "Vírgula indevida: '...Tratado de Não-Proliferação Nuclear, em 1967, que inaugurou uma fase de maior estabilidade, na Guerra Fria...' (A vírgula após 'estabilidade' é desnecessária e quebra a fluidez da locução adverbial de tempo)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Vírgula indevida separando o sujeito do predicado: '...a guerra acontece, quando a política...' (O correto seria sem a vírgula antes de 'quando', dado que a oração temporal está restringindo o sentido).",
+      "Vírgula indevida separando o sujeito do predicado: '...o conflito ideológico entre os Estados Unidos e a União Soviética acarretou uma corrida armamentista, que, por sua vez, fez as potências desenvolverem armas nucleares...' (Embora a vírgula após 'que' e 'vez' esteja correta por ser intercalação, a estrutura geral é fluida, mas há um excesso de pontuação em trechos como '...um esforço, para estabelecer...', onde a vírgula é desnecessária).",
+      "Vírgula indevida: '...um esforço, para estabelecer uma cultura avessa à guerra...' (A vírgula separa o substantivo de seu complemento finalístico/adjunto, prejudicando a fluidez)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Vírgula indevida separando o sujeito do predicado: '...a guerra acontece, quando a política...' (O correto seria sem a vírgula antes de 'quando', dado que a oração subordinada temporal está restringindo o sentido).",
+      "Vírgula indevida separando o sujeito do predicado: '...o conflito ideológico entre os Estados Unidos e a União Soviética acarretou uma corrida armamentista, que, por sua vez, fez as potências desenvolverem armas nucleares cada vez mais destrutivas.' (Embora a pontuação esteja correta, há uma vírgula desnecessária em '...se define, apenas, como...', que interrompe a fluidez sem necessidade sintática).",
+      "Vírgula indevida: '...em 1967, que inaugurou uma fase de maior estabilidade, na Guerra Fria...' (A vírgula após 'estabilidade' isola inadequadamente o adjunto adverbial de tempo no final da frase)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 10.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 42.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 42.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 42.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Apesar da diplomacia brasileira não mais orientar-se (Erro de colocação pronominal: a palavra negativa 'não' atrai o pronome para antes do verbo - próclise: 'não se orientar mais')",
+      "A propósito, mesmo quando a diplomacia falha em salientar o amor entre os povos (Uso impreciso do conectivo 'A propósito', que sugere um comentário incidental, enquanto o texto tenta estabelecer uma progressão argumentativa)",
+      "dissolveu a instituição responsável pela formação de diplomatas na França (Erro de precisão factual/argumentativa: a reforma da ENAP não significou a dissolução da formação de diplomatas, mas uma mudança estrutural, o que fragiliza a base do argumento final)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Apesar da diplomacia brasileira não mais orientar-se (Erro de colocação pronominal: a palavra negativa 'não' atrai o pronome para antes do verbo - próclise: 'não se orientar mais')",
+      "A propósito, mesmo quando a diplomacia falha em salientar o amor entre os povos (Uso impreciso do conectivo 'A propósito', que sugere um comentário incidental, enquanto o texto tenta estabelecer uma progressão argumentativa)",
+      "dissolveu a instituição responsável pela formação de diplomatas na França (Erro de precisão factual/argumentativa: a reforma da ENAM não significou a dissolução da formação de diplomatas, mas uma mudança estrutural, o que fragiliza a base do argumento final)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Apesar da diplomacia brasileira não mais orientar-se (Erro de colocação pronominal: a palavra negativa 'não' atrai o pronome para antes do verbo - próclise: 'não se orientar mais')",
+      "A propósito, mesmo quando a diplomacia falha em salientar o amor entre os povos (Uso impreciso do conectivo 'A propósito', que introduz um comentário incidental, enquanto o texto busca estabelecer uma progressão argumentativa de adição ou ressalva)",
+      "dissolveu a instituição responsável pela formação de diplomatas na França (Imprecisão factual/conceitual: a França não dissolveu a formação de seus diplomatas, houve reformas administrativas e a criação de novos modelos de gestão, mas a afirmação de que o país está 'exposto à violência' por falta de diplomatas é um salto argumentativo desproporcional)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'Para a psicólogo' (Erro de concordância nominal/gênero. O correto seria 'Para o psicólogo')",
+      "]'ações diplomáticos' (Erro de concordância nominal. O correto seria 'ações diplomáticas')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'Para a psicólogo' (Erro de concordância nominal/gênero. O correto seria 'Para o psicólogo')",
+      "]'ações diplomáticos' (Erro de concordância nominal. O correto seria 'ações diplomáticas')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'Para a psicólogo' (Erro de concordância nominal/gênero. O correto seria 'Para o psicólogo')",
+      "]'ações diplomáticos' (Erro de concordância nominal. O correto seria 'ações diplomáticas')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo (erro de concordância nominal)",
+      "ações diplomáticos (erro de concordância nominal)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo (concordância nominal)",
+      "ações diplomáticos (concordância nominal)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo (concordância nominal)",
+      "ações diplomáticos (concordância nominal)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para o psicólogo (em vez de 'Para a psicólogo')",
+      "ações diplomáticas (em vez de 'ações diplomáticos')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para o psicólogo (em vez de 'Para a psicólogo')",
+      "ações diplomáticas (em vez de 'ações diplomáticos')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para o psicólogo (em vez de 'Para a psicólogo')",
+      "ações diplomáticas (em vez de 'ações diplomáticos')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ",1A: O texto apresenta excelente legibilidade, fluidez e estilo formal adequado ao padrão exigido pelo CACD. A estrutura é coerente, com introdução, desenvolvimento e conclusão bem delimitados, mantendo a progressão lógica do raciocínio.",
+      "1B: O candidato demonstra ótima capacidade de sistematização. Consegue articular a discussão teórica (Realismo vs. Liberalismo) com os excertos fornecidos e com fatos históricos precisos (Liga das Nações, Wilson, Paz Cartaginesa, MAD). A argumentação é objetiva e pertinente ao comando da questão.",
+      "1C: A análise é profunda e reflexiva. O autor não se limita a resumir os textos, mas utiliza as ideias de Freud (laços emocionais, instinto de destruição) e Einstein (psicoses do ódio) para analisar a função da diplomacia, tanto na vertente da cooperação (diplomacia pública/liberal) quanto na vertente da segurança (equilíbrio de poder/realista). A conexão entre a 'destruição mútua assegurada' e o alerta de Freud sobre o aperfeiçoamento dos meios de destruição foi um ponto alto de reflexão.",
+      "CGPL: O texto é primoroso do ponto de vista gramatical. Não foram identificados erros de concordância, regência, pontuação ou ortografia. A propriedade da linguagem é plena."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ",1A: O texto apresenta excelente legibilidade, fluidez e estilo formal adequado ao padrão exigido pelo CACD. A estrutura é coerente, com introdução, desenvolvimento e conclusão bem delimitados, mantendo a progressão lógica do raciocínio.",
+      "1B: O candidato demonstra ótima capacidade de sistematização. Consegue articular a discussão teórica (Realismo vs. Liberalismo) com os excertos fornecidos e com fatos históricos precisos (Liga das Nações, Wilson, Paz Cartaginesa, MAD). A argumentação é objetiva e pertinente ao comando da questão.",
+      "1C: A análise é profunda e reflexiva. O autor não se limita a resumir os textos, mas utiliza as ideias de Freud (laços emocionais, instinto de destruição) e Einstein (psicoses do ódio) para analisar a função da diplomacia, tanto na vertente da cooperação (diplomacia pública/liberal) quanto na vertente da segurança (equilíbrio de poder/realista). A conexão entre a 'destruição mútua assegurada' e o alerta de Freud sobre o aperfeiçoamento dos meios de destruição foi um ponto alto de reflexão.",
+      "CGPL: O texto é primoroso do ponto de vista gramatical. Não foram identificados erros de concordância, regência, pontuação ou ortografia. A propriedade da linguagem é plena."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ",1A: O texto apresenta excelente legibilidade, fluidez e estilo formal adequado ao padrão exigido pelo CACD. A estrutura é coerente, com introdução, desenvolvimento e conclusão bem delimitados, mantendo a progressão lógica do raciocínio.",
+      "1B: O candidato demonstra ótima capacidade de sistematização. Consegue articular a discussão teórica (Realismo vs. Liberalismo) com os excertos fornecidos e com fatos históricos precisos (Liga das Nações, Wilson, Paz Cartaginesa, MAD). A argumentação é objetiva e pertinente ao comando da questão.",
+      "1C: A análise é profunda e reflexiva. O autor não se limitou a resumir os textos, mas utilizou as provocações de Einstein e Freud para discutir a natureza da diplomacia (pública vs. secreta) e a gestão do poder. A conexão entre a 'evolução cultural' mencionada no texto e a 'paz democrática' de Kant demonstra maturidade intelectual e capacidade de síntese interdisciplinar.",
+      "CGPL: O texto é primoroso do ponto de vista gramatical. Não foram identificados erros de concordância, regência, pontuação ou ortografia. A propriedade da linguagem é plena."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  }
+]

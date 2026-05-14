@@ -1,0 +1,1019 @@
+[
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância verbal: 'a rapidez ... faz' deveria ser 'fazem'.",
+      "Erro de grafia/ortográfico: 'canis' deveria ser 'cânais'.",
+      "Uso inadequado de pronome relativo/conjunção: 'cujo' usado incorretamente ('...fontes não oficiais, cujos efeitos...' -> 'dos quais os efeitos' ou reestruturação)."
+    ],
+    "feedbacks": [
+      "Texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é repetitiva.",
+      "Argumentos são pertinentes ao tema, mas carecem de profundidade analítica e contextualização histórica mais rica.",
+      "Há problemas de coesão e clareza em alguns trechos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância verbal: 'a rapidez ... faz' deveria ser 'fazem'.",
+      "Erro de grafia/ortográfico: 'canis' deveria ser 'cânais'.",
+      "Uso inadequado de pronome relativo/conjunção: 'cujo' usado incorretamente ('...fontes não oficiais, cujos efeitos...' -> 'dos quais' ou reestruturação)."
+    ],
+    "feedbacks": [
+      "Texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é repetitiva.",
+      "Argumentos são pertinentes ao tema, mas carecem de profundidade analítica e contextualização histórica mais rica.",
+      "Há problemas de coesão e clareza em alguns trechos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância verbal: 'a rapidez ... faz' deveria ser 'fazem'.",
+      "Erro de grafia/ortográfico: 'canis' deveria ser 'cânais'.",
+      "Uso inadequado de pronome relativo/conjunção: 'cujo' usado incorretamente ('...fontes não oficiais, cujos efeitos...' -> 'dos quais' ou reestruturação)."
+    ],
+    "feedbacks": [
+      "Texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é repetitiva.",
+      "Argumentos são pertinentes ao tema, mas carecem de profundidade analítica e contextualização histórica mais rica.",
+      "Há problemas de coesão e clareza em alguns trechos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "canis -> canais",
+      "Portanto -> Portanto"
+    ],
+    "feedbacks": [
+      "Erro de grafia 'canis' em vez de 'canais'.",
+      "Uso incorreto de vírgula após 'Como', separando sujeito ('um diplomata') do verbo.",
+      "Falta de crase em 'à medida que'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "canis -> canais",
+      "Portanto -> Portanto"
+    ],
+    "feedbacks": [
+      "Erro de grafia 'canis' em vez de 'canais'.",
+      "Uso incorreto de vírgula após 'Como', separando sujeito ('um diplomata') do verbo.",
+      "Falta de crase em 'à medida que'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "canis -> canais",
+      "Portanto -> Portanto"
+    ],
+    "feedbacks": [
+      "Erro de grafia 'canis' em vez de 'canais'.",
+      "Uso incorreto de vírgula após 'Como', separando sujeito ('um diplomata') do verbo.",
+      "Falta de crase em 'à medida que'."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "inexistência"
+    ],
+    "feedbacks": [
+      "Texto claro e organizado, com introdução, desenvolvimento e conclusão bem definidos.",
+      "Argumentação coerente, abordando adequadamente o papel do diplomata frente à era digital.",
+      "Uso correto de conectivos e transições, embora algumas frases possam soar um pouco repetitivas.",
+      "Pequenos deslizes gramaticais presentes, como 'canis' no lugar de 'caminhos', 'Portanto' escrito incorretamente e uso inadequado de vírgulas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "abalizadas -> avalizadas",
+      "canis -> canais"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "Há uma tentativa de articular o pensamento histórico (referência a Oliveira Lima) com a realidade contemporânea, embora essa conexão possa ser aprofundada.",
+      "Apresenta dois erros de grafia ('abalizadas' e 'canis') que indicam necessidade de revisão final."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "abalizadas -> avalizadas",
+      "canis -> canais"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "Há uma tentativa de articular o pensamento histórico (referência a Oliveira Lima) com a realidade contemporânea, embora essa conexão possa ser aprofundada.",
+      "Apresenta dois erros de grafia ('abalizadas' e 'canis') que indicam necessidade de revisão final."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de vírgula após 'rede mundial de computadores'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, mas pode melhorar a fluidez.",
+      "Argumentos pertinentes, mas falta profundidade em alguns aspectos.",
+      "Boa análise, mas poderia explorar melhor o contraste histórico.",
+      "Erros gramaticais mínimos,不影响整体质量。"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de vírgula após 'rede mundial de computadores'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, mas pode melhorar a fluidez.",
+      "Argumentos pertinentes, mas falta profundidade em alguns aspectos.",
+      "Boa análise, mas poderia explorar melhor o contraste histórico.",
+      "Erros gramaticais mínimos,不影响整体质量。"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de vírgula após 'rede mundial de computadores'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, mas pode melhorar a fluidez.",
+      "Argumentos pertinentes, mas falta profundidade em alguns aspectos.",
+      "Boa análise, mas poderia explorar melhor o contraste histórico.",
+      "Erros gramaticais mínimos,不影响整体质量。"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Na primeira frase, falta vírgula após 'computadores' ('...rede mundial de computadores a difusão...' deveria ser '...redes mundiais de computadores; a difusão...' ou similar) - erro de pontuação/coordenação.",
+      "No terceiro parágrafo, 'proscrição do uso da força acentuaram' apresenta erro de concordância verbal. O sujeito é 'consolidação', singular, então o verbo deveria ser 'acentuou'.",
+      "No sétimo parágrafo, 'As redes sociais facilitam a publicidade das posições brasileiras, como ilustram os esforços de esclarecimento sobre a Operação Carne Fraca empreendidos pelo Itamaraty, os quais preveniram retaliações graves às exportações brasileiras.' -> 'preveniram' pode ser considerado aceitável, mas 'evitaram' seria melhor. Não vou penalizar severamente aqui."
+    ],
+    "feedbacks": [
+      "Falta de coesão textual em alguns trechos devido à ausência de conectivos adequados.",
+      "Uso excessivo de termos abstratos sem exemplos concretos suficientes.",
+      "Estrutura dissertativa-argumentativa bem desenvolvida, mas com falhas na correção gramatical."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Na primeira frase, falta vírgula após 'computadores' ('...rede mundial de computadores a difusão...' deveria ser '...redes mundiais de computadores; a difusão...' ou similar) - erro de pontuação/coordenação.",
+      "No terceiro parágrafo, 'proscrição do uso da força acentuaram' apresenta erro de concordância verbal. O sujeito é 'consolidação', singular, então o verbo deveria ser 'acentuou'.",
+      "No sétimo parágrafo, 'As redes sociais facilitam a publicidade das posições brasileiras, como ilustram os esforços de esclarecimento sobre a Operação Carne Fraca empreendidos pelo Itamaraty, os quais preveniram retaliações graves às exportações brasileiras.' -> 'preveniram' é um anglicismo inadequado neste contexto (deveria ser 'evitaram' ou 'impediram'). Além disso, há um erro de regência/concordância sutil em 'os quais preveniram' referindo-se a 'esforços'? Não, refere-se aos esforços. Mas 'prevenir' significa evitar algo que vai acontecer. Está correto semanticamente? Sim, mas estilisticamente fraco. Vou considerar o erro de concordância anterior e este como um possível erro de vocabulário/regência."
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão adequada. As ideias são encadeadas logicamente, utilizando conectivos apropriados.",
+      "Há três erros gramaticais significativos: erro de coordenação/vírgula inicial, erro de concordância nominal/verbal ('acentuaram') e uso inadequado de vocábulo ('preveniram')."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Na frase '...impõe a necessidade...', deveria haver vírgula após 'computadores' ('...rede mundial de computadores, a difusão...' -> erro de coordenação/intercalação) OU melhor: 'redes mundiais de computadores'. Mas o erro principal parece ser falta de vírgula isoladora ou erro de concordância? Vamos olhar: 'o surgimento ... a difusão ... impõem'. Sujeito composto exige plural. Está correto. Onde está o erro? Ah, 'redes mundiais'? Não, 'rede mundial'. 'O surgimento ..., a difusão ... impõem'. Concordância correta. Vou reler cuidadosamente.",
+      "Erro encontrado: 'esse risco revela se equivocado' - falta crase ou estrutura? Deveria ser 'revela-se equivocado' ou 'revela ser equivocado'. Faltou hífen ou verbo auxiliar?",
+      "Outro possível erro: 'Os novos meios de comunicação permitem, ainda, que os agentes diplomáticos estabeleçam vias de interação com a sociedade, de modo a consolidar a transparência do processo decisório e sua representatividade.' Parece ok."
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto claro e organizado.",
+      "Argumentação pertinente e adequada ao tema."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidas.",
+      "As ideias são desenvolvidas de forma coerente e sequencial, abordando diferentes aspectos do tema proposto.",
+      "Há bom domínio da norma culta e da terminologia específica da área de Relações Internacionais/Diplomacia.",
+      "A argumentação é pertinente e demonstra compreensão do tema, embora possa ser considerada previsível em alguns pontos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto claro e organizado.",
+      "Argumentação pertinente e adequada ao tema."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.5,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância verbal/nominal: 'poucas empresas sendo responsáveis' -> 'responsáveis'.",
+      "Regência/Preposição: 'divulgação... da informação' -> 'divulgação... de informação'."
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: Texto claro e organizado, mas com repetições desnecessárias.",
+      "Capacidade Argumentativa: Boa estrutura, mas falta profundidade na conexão com Oliveira Lima.",
+      "Análise e Reflexão: Análise superficial; faltam exemplos concretos e ligação direta com o trecho.",
+      "Correção Gramatical: Poucos erros, mas presentes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.5,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'poucas empresas sendo responsáveis' -> 'responsáveis'.",
+      "Regência/Crase: 'à medida que' -> 'na medida em que'."
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: Texto coeso e estruturado, mas com repetições desnecessárias.",
+      "Capacidade Argumentativa: Boa estruturação, mas falta profundidade histórica e teórica.",
+      "Análise e Reflexão: Aborda o tema, mas sem conexão profunda com Oliveira Lima.",
+      "Correção Gramatical: Poucos erros, mas precisam ser corrigidos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.5,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'poucas empresas sendo responsáveis' -> 'responsáveis'.",
+      "Regência/Crase: 'à medida que' -> 'na medida em que'."
+    ],
+    "feedbacks": [
+      "Apresentação e Impression Geral: Texto claro e organizado, mas com repetições desnecessárias.",
+      "Capacidade Argumentativa: Boa estrutura, mas falta profundidade histórica e teórica.",
+      "Análise e Reflexão: Análise superficial; faltam exemplos concretos e conexão mais forte com Oliveira Lima.",
+      "Correção Gramatical: Dois erros menores de regência/concordância."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta boa estrutura e desenvolve adequadamente o tema proposto.",
+      "Há coerência e coesão textuais satisfatórias."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto claro e organizado.",
+      "Argumentação pertinente e coerente."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto claro e organizado.",
+      "Argumentação pertinente e coerente.",
+      "Domínio razoável da norma padrão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto claro e organizado.",
+      "Argumentação pertinente e coerente."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "se nos tempos... -> 'Se' deve começar com letra maiúscula.",
+      "tende as ser renovada. -> 'às'.",
+      "f iltros -> 'filtros'."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas carece de coesão interparagrafos mais fluida. Há repetições desnecessárias e algumas frases curtas demais, quebrando o ritmo. O estilo é funcional, porém pouco sofisticado.",
+      "As ideias estão presentes e relacionadas ao tema, mas a argumentação é superficial. Faltam exemplos concretos, citações específicas (além de VLL) e conexão mais profunda com o trecho de Oliveira Lima. A sistematização é precária; há saltos lógicos sem transições adequadas.",
+      "Há tentativa de reflexão sobre desinformação e crise de confiança, mas falta profundidade histórica e teórica. Não se conecta adequadamente com o contexto histórico mencionado no enunciado (Brasil pós-Independência, reconhecimento internacional). A análise fica restrita ao presente, ignorando a dimensão temporal proposta.",
+      "Erros de pontualização inicial ('se'), erro de crase/regência ('tende as') e erro tipográfico ('f il tros'). São três erros graves/suficientes para penalização significativa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "se nos tempos... -> 'Se' deve começar com letra maiúscula.",
+      "tende as ser renovada. -> 'às'.",
+      "f iltros -> 'filtros'."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas carece de coesão interparagrafos mais fluida. Há repetições desnecessárias e algumas frases curtas demais, quebrando o ritmo. O estilo é funcional, porém pouco sofisticado.",
+      "As ideias estão presentes e relacionadas ao tema, mas a argumentação é superficial. Faltam exemplos concretos, citações específicas (além de VLL) e conexão mais profunda com o trecho de Oliveira Lima. A sistematização é precária; há saltos lógicos sem transições adequadas.",
+      "Há tentativa de reflexão sobre desinformação e crise de confiança, mas falta profundidade histórica e teórica. Não se conecta adequadamente com o contexto histórico mencionado no enunciado (Brasil pós-Independência, reconhecimento internacional). A análise fica restrita ao presente, ignorando a dimensão temporal proposta.",
+      "Erros de pontualização inicial ('se'), erro de crase/regência ('tende as') e erro tipográfico/ortográfico ('f iltros'). São três erros graves o suficiente para impactar a correção gramatical."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "se nos tempos... -> 'Se' deve começar com letra maiúscula após ponto final.",
+      "tende as ser renovada -> 'às'",
+      "politica externa -> 'política'"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é repetitiva e pouco fluida. Há falta de coesão entre parágrafos e algumas ideias são reiteradas sem avançar significativamente na discussão.",
+      "As ideias centrais estão presentes, mas a argumentação carece de profundidade e sistematização. Não há diálogo claro com autores ou teorias específicas da área diplomática/internacional, limitando-se a generalidades sobre desinformação e credibilidade.",
+      "Há tentativa de reflexão sobre o papel do diplomata frente às novas tecnologias, conectando-a parcialmente ao excerto de Oliveira Lima. Contudo, a análise permanece superficial, sem explorar adequadamente a relação histórica entre produção documental e poder político-diplomático."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "se nos tempos... -> 'se' deveria começar com letra maiúscula.",
+      "tende as ser renovada. -> 'as' deveria ser 'a'. ] } Note that I'm providing the output in JSON format with two decimal places and an explanation of errors found to justify the score deduction from the maximum possible score of 60. The user asked only for the note but also mentioned not detailing partial scores. However, since they want just the value, I will provide it directly without extra text unless needed. But wait, the instruction says: "
+    ],
+    "feedbacks": [
+      "The essay demonstrates strong analytical skills and good structure, addressing all aspects of the prompt effectively."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "se nos tempos... -> 'se' deveria começar com letra maiúscula.",
+      "tende as ser renovada. -> 'as' deveria ser 'a'. ] } Note that the prompt asks to return only the value of the note. I will output just the number formatted correctly. The user asked for "
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "se nos tempos... -> 'se' deveria começar com letra maiúscula.",
+      "tende as ser renovada. -> 'as' deveria ser 'a'. ] } { "
+    ],
+    "feedbacks": [
+      "Atenção às regras básicas de formatação e ortografia."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "se nos tempos...",
+      "tende as ser renovada.",
+      "politica externa"
+    ],
+    "feedbacks": [
+      "O texto apresenta organização clara e progressiva, articulando adequadamente a citação inicial com a problematização contemporânea sobre a veracidade das informações."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "se nos tempos...",
+      "tende as ser renovada.",
+      "politica externa"
+    ],
+    "feedbacks": [
+      "O texto apresenta organização clara e progressiva, articulando adequadamente a citação inicial com a problemática contemporânea da desinformação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "se nos tempos...",
+      "tende as ser renovada.",
+      "f iltros",
+      "politica"
+    ],
+    "feedbacks": [
+      "- **Tema**: O texto aborda adequadamente o papel do diplomata como produtor de informação confiável frente às novas tecnologias e redes sociais, conectando-se bem ao excerto de Oliveira Lima.\n- **Argumentação**: A construção argumentativa segue uma linha lógica clara, identificando o problema (excesso de informações e fake news) e propondo a solução (análise crítica e produção qualificada).\n- **Linguagem**: Há bom uso de repertório sociocultural (Vargas Llosa), embora apresente pequenos deslizes gramaticais e de digitação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Falta de vírgula após 'sociedade' na frase \"Por outro lado, o diálogo com a sociedade fundamental...\""
+    ],
+    "feedbacks": [
+      "1A - Coerência, Legibilidade e Estilo",
+      "1B - Argumentação e Conteúdo",
+      "1C - Análise e Reflexão",
+      "CGPL - Correção Gramatical"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "política publica",
+      "sociedade fundamental"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação pertinente, embora algumas ideias se repetam. Exemplo prático relevante (Mercosul/UE).",
+      "Análise reflexiva adequada, conectando o passado ao presente e abordando diplomacia pública."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "política publica",
+      "sociedade fundamental"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação pertinente, embora algumas ideias se repetam. Exemplo prático relevante (Mercosul/UE).",
+      "Análise reflexiva adequada, conectando o passado ao presente e abordando diplomacia pública."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "diplomacia é considerada, hoje, política publica -> política pública"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura e coesão, abordando adequadamente o tema proposto.",
+      "Houve um erro de grafia ('publica' em vez de 'pública'), que foi considerado na redução da nota."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "diplomacia é considerada, hoje, política publica -> política pública"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura e desenvolve bem o tema proposto, conectando adequadamente a citação de Oliveira Lima com a contemporaneidade.",
+      "Há um erro de grafia ('publica' em vez de 'pública') que impacta levemente a correção gramatical."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "diplomacia é considerada, hoje, política publica -> política pública"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada.",
+      "Argumentação sólida, abordando tanto a produção de informação confiável quanto a privilegiada, conectando-a ao contexto contemporâneo.",
+      "Uso adequado de exemplos (MERCOSUL/UE) e conceitos (diplomacia pública), demonstrando domínio do tema.",
+      "Atenção à correção gramatical: há um erro de acentuação ('política publica' deveria ser 'política pública').",
+      "Linguagem formal e apropriada ao nível exigido pelo CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto claro e organizado, apresentando argumentos pertinentes.",
+      "Uso correto da norma culta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto claro e organizado, apresentando argumentos pertinentes.",
+      "Uso correto da norma culta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto claro e organizado, apresentando argumentos pertinentes.",
+      "Uso correto da norma culta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "atividade diplomáticas",
+      "consideravelmente o sigilo",
+      "sejam relacionados",
+      "para além",
+      "avaliação histórico,",
+      "dessa forma"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática oscila entre temas correlatos sem uma articulação clara, comprometendo a coesão global.",
+      "As ideias estão presentes, porém a argumentação carece de profundidade analítica e encadeamento lógico rigoroso, limitando-se a afirmações genéricas sobre diplomacia e mídia social.",
+      "Há tentativa de diálogo com o texto-base, mas a reflexão crítica fica aquém do esperado, repetindo lugares-comuns sobre transparência e desinformação sem avançar na problematização proposta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "atividade diplomáticas",
+      "consideravelmente o sigilo",
+      "sejam relacionados",
+      "para além",
+      "avaliação histórico,",
+      "dessa forma"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática oscila entre temas correlatos sem uma articulação clara, comprometendo a coesão global.",
+      "As ideias estão presentes, porém a argumentação carece de profundidade analítica e encadeamento lógico rigoroso, limitando-se a afirmações genéricas sobre diplomacia e mídia social.",
+      "Há tentativa de diálogo com o texto-base, mas a reflexão crítica fica aquém do esperado, repetindo lugares-comuns sobre transparência e desinformação sem avançar na problematização proposta."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 6,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "atividade diplomáticas",
+      "consideravelmente o sigilo",
+      "sejam elas ligadas... sejam relacionadas",
+      "para além das consequências imediatas*",
+      "esse processo dá-se",
+      "avaliação histórico,",
+      "Atualmente,"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática oscila entre temas correlatos sem uma articulação clara, comprometendo a coesão.",
+      "As ideias estão presentes, mas a organização sequencial é fragmentada; há repetição de conceitos (ex.: diplomacia pública) sem avanço analítico consistente.",
+      "Há tentativa de diálogo com o texto-base, mas a análise permanece descritiva, faltando profundidade crítica sobre a transformação epistemológica do ofício diplomático."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "atividade diplomáticas -> atividade diplomática",
+      "para além das consequências imediatas* as informações... -> Para além...",
+      "avaliação histórico -> avaliação histórica"
+    ],
+    "feedbacks": [
+      "Erro de concordância nominal ('diplomáticas' no plural referindo-se a 'atividade')",
+      "Uso indevido de asterisco (*) após vírgula",
+      "Erro de concordância adjetival ('histórico' deveria ser feminino)"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "atividade diplomáticas -> atividade diplomática",
+      "para além das consequências imediatas* as informações... -> Para além...",
+      "avaliação histórico -> avaliação histórica"
+    ],
+    "feedbacks": [
+      "Erro de concordância nominal ('diplomáticas' no plural referindo-se a 'atividade')",
+      "Uso indevido de asterisco (*) após vírgula",
+      "Erro de concordância adjetival ('histórico' deveria ser feminino)"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 47.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "atividade diplomáticas -> atividade diplomática",
+      "para além das consequências imediatas* as informações... -> Para além...",
+      "avaliação histórico -> avaliação histórica"
+    ],
+    "feedbacks": [
+      "Atenção à concordância nominal.",
+      "Capitalize corretamente inícios de frases após sinais de pontuação.",
+      "Verifique a concordância nominal."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma estrutura muito clara e bem articulada, começando com uma contextualização histórica pertinente e evoluindo para uma análise contemporânea profunda.",
+      "Há excelente progressão temática, conectando adequadamente a citação inicial de Oliveira Lima com questões modernas como redes sociais, diplomacia pública e desinformação.",
+      "As ideias são desenvolvidas com sofisticação teórica, demonstrando domínio conceitual sólido sobre o papel do diplomata moderno versus o histórico.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico/diplomático, com bom uso de conectivos e transições suaves."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma estrutura muito clara e bem articulada, começando com uma contextualização histórica pertinente ao enunciado e evoluindo para uma análise contemporânea robusta.",
+      "Há excelente progressão temática, conectando adequadamente a mudança tecnológica e social mencionada no prompt com a redefinição do papel do diplomata.",
+      "As ideias são desenvolvidas com sofisticação, abordando temas complexos como diplomacia pública, legitimação democrática, segurança cibernética e construção da memória histórica.",
+      "A linguagem é formal, precisa e demonstra amplo repertório conceitual, alinhando-se perfeitamente ao perfil esperado para um candidato à carreira diplomática."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma estrutura muito clara e bem articulada, começando com uma contextualização histórica pertinente ao enunciado e evoluindo para uma análise contemporânea robusta.",
+      "Há excelente progressão temática, conectando adequadamente a mudança tecnológica/comunicacional com a redefinição do papel do diplomata, incluindo conceitos modernos como 'diplomacia pública' e combate à desinformação.",
+      "A argumentação é profunda e multifacetada, abordando desde a coleta/curadoria de informações até a construção narrativa e identitária, demonstrando visão crítica e maturidade intelectual.",
+      "O domínio da língua portuguesa é elevado, com sintaxe complexa manejada com segurança, vocabulário preciso e variado, e pouquíssimas falhas mecânicas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  }
+]

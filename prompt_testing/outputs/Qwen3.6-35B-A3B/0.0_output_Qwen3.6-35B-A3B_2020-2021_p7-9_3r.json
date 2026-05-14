@@ -1,0 +1,1043 @@
+[
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de crase antes de 'América' ('na América do Sul').",
+      "Erro de sintaxe/concordância em 'O Brasil de no seio do G4 a ampliação...' (falta verbo principal, ex: 'defende').",
+      "Uso inadequado de vírgula após 'países' em '...cinco grandes potências atualmente desfrutam...'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação sólida, conectando os textos base às práticas atuais da PEBr.",
+      "Análise reflexiva demonstrando compreensão profunda do tema e capacidade de síntese.",
+      "Pequenos lapsos gramaticais não comprometem significativamente a qualidade do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de crase antes de 'América' ('na América do Sul').",
+      "Erro de sintaxe/concordância em 'O Brasil de no seio do G4 a ampliação...' (falta verbo principal, ex: 'defende').",
+      "Uso inadequado de vírgula após 'países' em '...cinco grandes potências atualmente desfrutam...'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação sólida, conectando os textos base às práticas atuais da PEbRi.",
+      "Análise reflexiva demonstrando compreensão profunda dos conceitos de direito internacional e realismo político.",
+      "Pequenos lapsos gramaticais não comprometem significativamente a fluidez ou a clareza do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de crase antes de 'América' ('na América do Sul').",
+      "Erro de sintaxe/concordância em 'O Brasil de no seio do G4 a ampliação...' (falta verbo principal, ex: 'defende').",
+      "Uso inadequado de vírgula após 'países' em '...cinco grandes potências atualmente desfrutam...'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação sólida, conectando os textos base às práticas atuais da PEbRi.",
+      "Análise reflexiva demonstrando compreensão profunda dos conceitos de direito internacional e realismo político.",
+      "Pequenos lapsos gramaticais não comprometem significativamente a fluidez ou a clareza do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "No terceiro parágrafo, há erro de sintaxe/omissão de verbo: 'Ademais, o Brasil de no seio do G4 a ampliação...' deveria conter um verbo principal (ex: 'defende' ou 'busca') após 'de'.",
+      "No último período do mesmo parágrafo, falta vírgula antes da oração relativa explicativa: '...cinco grandes potências atualmente desfrutam...' deveria ser '...cinco grandes potências, atualmente desfrutarem...' ou reestruturado."
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulário técnico e conceitual adequado às Relações Internacionais.",
+      "Estrutura dissertativo-argumentativa bem organizada, com introdução clara, desenvolvimento coeso e conclusão sólida.",
+      "Capacidade notável de articular os textos-base com a realidade contemporânea da Política Externa Brasileira (PEB), utilizando exemplos concretos (MERCOSUR, BRICS, G4, etc.).",
+      "Linguagem formal, precisa e adequada ao nível exigido pelo CACD.",
+      "Pequenos lapsos gramaticais/sintáticos não comprometem significativamente a compreensão geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "No terceiro parágrafo, há erro de sintaxe/concordância na frase 'Além de ter como maiores parceiros comerciais a China e os Estados Unidos, o Brasil é membro assíduo do Conselho de Segurança...', pois a oração subordinada adverbial concessiva/condicional parece mal articulada com a principal, gerando ambiguidade ou falta de nexo claro.",
+      "No mesmo período, 'membro assíduo' deveria ser 'membro habitual' ou 'frequente', já que 'assíduo' implica regularidade absoluta, o que não corresponde à realidade rotativa do CS."
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulário técnico e conceitual adequado às Relações Internacionais.",
+      "Estrutura dissertativo-argumentativa bem delineada, com introdução clara, desenvolvimento temático organizado e conclusão coesa.",
+      "Capacidade notável de articular os textos-base com a política externa contemporânea do Brasil, utilizando exemplos concretos (BRICS, G4, Mercosul)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Falta de vírgula após 'Brasil' na frase \"Ademais, o Brasil de no seio do G4...\".",
+      "Erro de sintaxe/concordância na mesma frase: \"que, na prática, levaria a uma diluição da concentração de poder em torno das cinco grandes potências atualmente desfrutam do poder de veto.\"."
+    ],
+    "feedbacks": [
+      "Excelente estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão sólida.",
+      "Uso adequado de vocabulário técnico e conceitual próprio da área de Relações Internacionais e Direito Internacional Público.",
+      "Capacidade notável de articular os textos-base com a realidade contemporânea da Política Externa Brasileira (PEB), utilizando exemplos concretos (MERCOSUR, BRICS, G4, etc.).",
+      "Presença de dois erros gramaticais/sintáticos relevantes que comprometem ligeiramente a fluidez e a correção formal do texto:",
+      "- Erro de digitação/omissão: \"o Brasil de no seio do G4\" deveria ser algo como \"o Brasil atua no seio do G4\" ou \"no seio do G4\".",
+      "- Erro de regência/concordância/clausular: \"potências atualmente desfrutam\" apresenta falha estrutural; o ideal seria \"potências que atualmente desfrutam\" ou reestruturar a oração relativa.",
+      "Apesar desses equívocos formais, o domínio conceitual, a originalidade da análise e a qualidade da escrita justificam uma nota alta, próxima do máximo possível."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O Brasil de no seio do G4 a ampliação...",
+      "As cinco grandes potências atualmente desfrutam..."
+    ],
+    "feedbacks": [
+      "Texto apresenta estrutura clara e organização temática adequada.",
+      "Argumentação segue linha lógica, conectando os excertos históricos às práticas contemporâneas.",
+      "Há uso correto de terminologia técnica e referências institucionais pertinentes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O Brasil de no seio do G4 a ampliação...",
+      "As cinco grandes potências atualmente desfrutam..."
+    ],
+    "feedbacks": [
+      "Texto apresenta estrutura clara e organização temática adequada.",
+      "Argumentação segue linha lógica, conectando os excertos históricos às práticas contemporâneas.",
+      "Há uso correto de terminologia técnica e referências institucionais pertinentes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O Brasil de no seio do G4 a ampliação...",
+      "As cinco grandes potências atualmente desfrutam..."
+    ],
+    "feedbacks": [
+      "Texto apresenta estrutura clara e organização temática adequada.",
+      "Argumentação segue linha lógica, conectando os excertos históricos às práticas contemporâneas.",
+      "Há uso correto de terminologia técnica e referências institucionais pertinentes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "uso incorreto de 'forca' (ortográfico)",
+      "concordância nominal/verbal inadequada ('maiores participação')",
+      "regência/preposição ausente ('desconfiança contra')"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação sólida, com boa seleção de exemplos históricos e contemporâneos.",
+      "Análise crítica pertinente, conectando os textos base com a realidade atual.",
+      "Erros gramaticais isolados, sem comprometer a compreensão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "uso incorreto de 'forca' (deveria ser 'força')",
+      "concordância nominal inadequada ('maiores participação' deveria ser 'maior participação')"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação sólida, com boa articulação entre os textos base e exemplos contemporâneos.",
+      "Análise crítica pertinente, abordando a tensão entre a estrutura original da ONU e a multiplicidade de poderes atuais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "uso incorreto de 'forca' (ortográfico)",
+      "concordância nominal/verbal inadequada ('maiores participação')",
+      "regência/preposição ausente ('desconfiança contra')"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação sólida, com boa seleção de exemplos históricos e contemporâneos.",
+      "Análise crítica pertinente, conectando os textos base à realidade atual.",
+      "Erros gramaticais isolados não comprometem significativamente a compreensão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "uso incorreto de 'forca' em vez de 'força'"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Argumentação sólida, articulando bem os excertos propostos com exemplos contemporâneos relevantes.",
+      "Linguagem formal e apropriada ao nível exigido pelo CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "uso incorreto de 'forca' em vez de 'força'"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Argumentação sólida, articulando bem os excertos propostos com exemplos contemporâneos relevantes.",
+      "Linguagem formal e apropriada ao nível exigido pelo CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "uso incorreto de 'forca' em vez de 'força'"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Argumentação sólida, articulando bem os excertos propostos com exemplos contemporâneos relevantes.",
+      "Linguagem formal e apropriada ao nível exigido pelo CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "forca -> força",
+      "maiores participação -> maior participação"
+    ],
+    "feedbacks": [
+      "Texto articula com maestria os dois excertos históricos, demonstrando leitura crítica e contextualização precisa.",
+      "Argumentação robusta, conectando passado e presente através de exemplos concretos (Guerra ao Terror, Crise de 2008, Pandemia).",
+      "Linguagem formal, acadêmica e adequada ao perfil diplomático, com excelente coesão e coerência."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "forca -> força",
+      "maiores participacao -> maior participação"
+    ],
+    "feedbacks": [
+      "Texto articula bem os dois excertos históricos com a realidade contemporânea.",
+      "Argumentação robusta, usando exemplos específicos (Guerra ao Terror, Crise de 2008, Pandemia) para demonstrar a falibilidade das 'grandes potências' e a mudança no equilíbrio de poder.",
+      "Linguagem formal, precisa e adequada ao registro diplomático/acadêmico.",
+      "Estrutura clara: introdução contextualizada, desenvolvimento com três blocos de análise temática/concreta e conclusão sintética."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "forca -> força",
+      "maiores participacao -> maior participação"
+    ],
+    "feedbacks": [
+      "Texto articula bem os dois excertos históricos com a realidade contemporânea.",
+      "Argumentação robusta, utilizando exemplos recentes (pós-9/11, crise financeira de 2008, COVID-19) para demonstrar a fragilidade da 'confiança nas grandes potências' e a mudança no equilíbrio de poder.",
+      "Linguagem formal, precisa e adequada ao registro diplomático.",
+      "Estrutura clara: introdução contextualizada, desenvolvimento dividido em blocos temáticos lógicos e conclusão sintética."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição desnecessária ('discursos dos discuros')",
+      "Uso inadequado de 'não somente... mas' (falta correlação correta)"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura inicial e introduz bem o tema.",
+      "Houve desvio parcial do foco principal ao tratar de temas internos brasileiros.",
+      "Faltou profundidade na conexão direta com o enunciado."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição desnecessária ('discursos dos discuros')",
+      "Uso inadequado de 'não somente... mas' (falta correlação correta)"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação pertinente, conectando os textos base ao contexto contemporâneo e à política externa brasileira.",
+      "Análise reflexiva demonstra compreensão dos temas, mas poderia explorar mais nuances históricas e jurídicas.",
+      "Dois erros gramaticais leves identificáveis."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição desnecessária ('discursos dos discuros')",
+      "Uso inadequado de 'não somente... mas' (concorda mal com 'para a política...' vs 'para a humanidade')"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura introdutória, desenvolvimental e conclusiva.",
+      "Houve alguma confusão conceitual ao associar 'perturbadores da paz' exclusivamente a ideologias extremistas internas, desviando ligeiramente do foco geopolítico solicitado.",
+      "A correção gramatical poderia ter sido aprimorada evitando a repetição inicial."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição desnecessária ('discursos dos discuros') no primeiro parágrafo."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando bem os dois excertos históricos com a realidade contemporânea.",
+      "Há boa estruturação dissertativa-argumentativa, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "A análise crítica é pertinente, especialmente quando aborda a reforma do Conselho de Segurança e o papel do Brasil no G4.",
+      "Apresenta vocabulário adequado e registro formal compatível com o nível exigido pelo CACD.",
+      "Contém um único erro material evidente: repetição de palavra ('discursos dos discursos').",
+      "Considerando a alta qualidade geral e a correção gramatical quase perfeita, atribui-se nota elevada."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição desnecessária ('discursos dos discuros') no primeiro parágrafo."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento articulado e conclusão adequada.",
+      "Argumenta corretamente sobre a atualização dos temas tratados nos textos-base, relacionando-os com contextos históricos e contemporâneos.",
+      "Demonstra domínio conceitual adequado ao nível exigido pela CACD.",
+      "Apresenta erro gramatical mínimo (repetição lexical) que impacta levemente a correção formal, mas não compromete a fluidez ou compreensão geral."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição desnecessária ('discursos dos discuros') no primeiro parágrafo."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando bem os dois excertos históricos com a realidade contemporânea.",
+      "Há boa estruturação dissertativa-argumentativa, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "A análise crítica é pertinente, especialmente quando aborda a reforma do Conselho de Segurança e o papel do Brasil no G4.",
+      "Apresenta vocabulário adequado e registro formal compatível com o nível exigido pelo CACD.",
+      "Contém apenas um erro gramatical evidente (repetição lexical), o que demonstra alta proficiência linguística."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Os trechos dos discursos dos discursos"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise pertinente dos dois excertos históricos, conectando-os adequadamente ao contexto contemporâneo das Relações Internacionais.",
+      "Há uma clara distinção entre a abordagem idealista/pragmática de Souza Dantas e a visão pragmática/realista de Leão Velloso, demonstrando bom entendimento dos textos-base.",
+      "A menção ao G4 e à busca por reformas no CSNU ilustra corretamente a posição atual do Brasil, atendendo ao requisito de discutir a 'atualidade' dos argumentos.",
+      "Apesar da solidez conceitual, a argumentação segue um roteiro bastante tradicional e previsível, faltando nuances críticas mais profundas ou contraposições inovadoras."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Os trechos dos discursos dos discursos"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise pertinente dos dois excertos históricos, conectando-os adequadamente ao contexto contemporâneo das Relações Internacionais.",
+      "Há uma clara distinção entre a abordagem idealista/pragmática de Souza Dantas e a visão pragmática/realista de Leão Velloso, demonstrando bom entendimento dos textos-base.",
+      "A menção ao G4 e à busca pela reforma do CSNU ilustra corretamente a posição brasileira recente frente ao 'preço' mencionado por Leão Velloso.",
+      "Apresentou apenas um erro grave de digitação/repetição ('discursos dos discuros'), o que demonstra bom domínio da língua portuguesa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Os trechos dos discursos dos discursos"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma análise pertinente dos dois excertos históricos, conectando-os adequadamente ao contexto contemporâneo das Relações Internacionais.",
+      "Há uma clara distinção entre a abordagem idealista/pragmática de Souza Dantas e a visão pragmática/realista de Leão Velloso, demonstrando bom entendimento dos textos-base.",
+      "A menção ao G4 e à busca por reformas no Conselho de Segurança ilustra corretamente a posição brasileira recente frente ao 'preço' mencionado por Leão Velloso.",
+      "Apresentou apenas um erro grave de digitação/repetição ('discursos dos discuros'), o que demonstra bom domínio da língua portuguesa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "não-permanente",
+      "revelou-"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação sólida, com boa articulação entre os textos-base e o contexto histórico-contemporâneo.",
+      "Análise crítica relevante, conectando passado e presente, e propondo reflexões sobre reformas institucionais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "não-permanente",
+      "revelou-"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação sólida, com boa articulação entre os textos-base e o contexto histórico-contemporâneo.",
+      "Análise crítica relevante, conectando passado e presente, com exemplos concretos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9,
+    "nota_1B": 9,
+    "nota_1C": 18,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "não-permanente",
+      "revelou-"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentação sólida, com boa articulação entre os textos-base e a realidade contemporânea.",
+      "Análise crítica relevante, abordando a necessidade de reforma do CS e a mudança no cenário geopolítico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada.",
+      "Argumentação sólida, articulando bem os dois textos-base e trazendo exemplos históricos relevantes.",
+      "Linguagem formal e precisa, adequada ao estilo acadêmico/diplomático."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada.",
+      "Argumentação sólida, articulando bem os dois textos-base e trazendo exemplos históricos relevantes.",
+      "Linguagem formal e precisa, adequada ao estilo acadêmico-diplomático exigido pelo CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada.",
+      "Argumentação sólida, articulando bem os dois excertos e conectando-os ao contexto atual."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto articula com maestria os dois excertos históricos, contextualizando-os adequadamente no cenário geopolítico contemporâneo.",
+      "Demonstração excepcional de conhecimento histórico-diplomático brasileiro, citando documentos constitucionais, conferências históricas e iniciativas multilaterais atuais (G-4, Missões de Paz)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto articula com maestria os dois excertos históricos, contextualizando-os adequadamente no cenário geopolítico contemporâneo.",
+      "Demonstração excepcional de conhecimento histórico-diplomático brasileiro, citando documentos constitucionais, conferências históricas e iniciativas multilaterais atuais (G-4, Missões de Paz)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto articula com maestria os dois excertos históricos, contextualizando-os adequadamente no cenário geopolítico contemporâneo.",
+      "Demonstração excepcional de conhecimento histórico-diplomático brasileiro, citando documentos constitucionais, conferências históricas e iniciativas multilaterais atuais (G-4, Missões de Paz)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "desavença",
+      "tensionamento"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estruturação e clareza expositiva.",
+      "Os argumentos estão bem articulados e sustentados por exemplos concretos.",
+      "Houve pequena confusão conceitual quanto ao papel da CIJ no caso das Ilhas Marshall."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "desavença",
+      "tensionamento"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estruturação e clareza expositiva.",
+      "Os argumentos estão bem articulados e sustentados por exemplos concretos.",
+      "Houve pequena confusão conceitual quanto ao papel da CIJ no caso das Ilhas Marshall."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "desavença",
+      "tensionamento"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estruturação e clareza expositiva.",
+      "As ideias estão bem organizadas e sequenciais.",
+      "Houve uso adequado de conectivos para articular parágrafos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"naquele\" -> \"nesse\"",
+      "\"do de tensionamento\" -> \"do tensionamento\""
+    ],
+    "feedbacks": [
+      "Excelente domínio do tema e contextualização histórica.",
+      "Argumentação sólida e bem estruturada.",
+      "Uso adequado de exemplos concretos (TPAN, Líbia, G-4).",
+      "Linguagem formal e precisa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"naquele\" -> \"nesse\"",
+      "\"do tensionamento\" -> \"tensionamento\""
+    ],
+    "feedbacks": [
+      "Excelente domínio do tema e contextualização histórica.",
+      "Argumentação sólida e bem estruturada.",
+      "Uso adequado de exemplos concretos (TPAN, Líbia, G-4).",
+      "Linguagem formal e precisa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"naquele\" -> \"nesse\"",
+      "\"do tensionamento\" -> \"tensionamento\""
+    ],
+    "feedbacks": [
+      "Excelente domínio do tema e contextualização histórica.",
+      "Argumentação sólida e bem estruturada.",
+      "Uso adequado de exemplos concretos (TPAN, Líbia, G-4).",
+      "Linguagem formal e precisa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando claramente os argumentos históricos com a análise contemporânea.",
+      "Há forte capacidade de argumentação e reflexão crítica, especialmente na distinção entre a validade histórica e a atualidade questionável dos princípios discutidos.",
+      "A correção gramatical e a propriedade da linguagem estão impecáveis, com uso sofisticado de conectivos e terminologia técnica precisa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando claramente os argumentos históricos com a análise contemporânea.",
+      "Há forte capacidade argumentativa, com uso pertinente de exemplos concretos (G-4, TPAN, Líbia/Resolução 1973) para sustentar a reflexão.",
+      "A correção gramatical e a propriedade da linguagem estão impecáveis, evidenciando domínio avançado da norma culta e estilo maduro."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema, articulando claramente os argumentos históricos com a análise contemporânea.",
+      "Há forte capacidade de argumentação e reflexão crítica, especialmente na distinção entre a validade histórica e a atualidade questionável dos princípios discutidos.",
+      "A correção gramatical e a propriedade da linguagem estão impecáveis, com uso sofisticado de conectivos e terminologia técnica precisa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso indevido de hífen em 'jus contra bellum' (deveria ser 'jus contra-bellum' ou melhor, manter a expressão latina correta 'jus ad bellum/jus contra bellum' sem hífen, mas o erro aqui é a grafia incorreta da expressão técnica ou uso inadequado de hífen em locução estrangeira consagrada sem necessidade)."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão coesa.",
+      "Há domínio conceitual relevante, citando corretamente conceitos como 'jus ad bellum', 'soft power', 'responsabilidade ao proteger' e mencionando exemplos históricos pertinentes (Ruanda, Golfo, Síria, Irã/Lívia/G4).",
+      "Apresenta algumas imprecisões técnicas menores (ex.: atribuição errônea do Capítulo VI ao poder de emissão de resoluções vinculantes — trata-se do Capítulo VII; menção ao 'G4' como grupo formado em 2004, sendo que a proposta remonta a meados dos anos 90/2000, mas a data pode ser considerada aproximadamente aceitável dependendo da fonte; uso de hífen em 'contra bellum').",
+      "A correção gramatical é razoavelmente boa, mas há alguns deslizes pontuais de pontuação e regência."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso indevido de hífen em 'jus contra bellum' (deveria ser 'jus contra-bellum' ou melhor, manter a expressão latina correta 'jus ad bellum/jus contra bellum' sem hífen, mas o erro aqui é a grafia incorreta da locução ou uso inadequado de hífen em termo latino consagrado sem ele)."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, introduzindo claramente os temas e desenvolvendo-os de forma organizada.",
+      "Há forte capacidade de argumentação, com exemplos históricos bem escolhidos e pertinentes.",
+      "A análise reflexiva é sólida, conectando passado e presente de maneira crítica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso indevido de hífen em 'jus contra bellum' (deveria ser 'jus contra-bellum' ou melhor, manter a expressão latina correta 'jus ad bellum/jus contra bellum' sem hífen, mas o erro aqui é a grafia incorreta da locução ou uso inadequado de hífen em termo latino consagrado sem ele)."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão coesa.",
+      "Há domínio conceitual relevante sobre Direito Internacional e história da ONU.",
+      "Os exemplos históricos citados são pertinentes e enriquecem a argumentação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "respeita estritamente os limites estabelecidos.",
+      "não invente informações."
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "resposta da comunidade internacional foi célere, O CSNU",
+      "Japão,"
+    ],
+    "feedbacks": [
+      "Erro de pontuação: vírgula substituindo ponto final.",
+      "Erro de grafia: 'Japão' escrito incorretamente."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "respeita a norma culta."
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O CSNU condena o ataque, e as grandes potências enviam tropas...",
+      "uma mudança de paradigma."
+    ],
+    "feedbacks": [
+      "Texto articula bem os conceitos históricos e contemporâneos.",
+      "Uso correto de terminologia técnica.",
+      "Argumentação clara e progressiva."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O CSNU condena o ataque, e as grandes potências enviam tropas...",
+      "uma mudança de paradigma."
+    ],
+    "feedbacks": [
+      "Texto articula com maestria os conceitos históricos e jurídicos (jus ad/bellum vs. jus contra bellum) aplicando-os à análise contemporânea.",
+      "Uso exemplar de exemplos concretos (Golfo, Síria, Irã/Líbia/G4) para sustentar a argumentação complexa.",
+      "Linguagem técnica precisa e adequada ao registro acadêmico-diplomático, com excelente fluxo lógico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O CSNU condena o ataque, e as grandes potências enviam tropas...",
+      "uma mudança de paradigma."
+    ],
+    "feedbacks": [
+      "Texto articula com maestria os conceitos históricos e jurídicos (jus ad/bellum vs. jus contra bellum) aplicando-os à análise contemporânea.",
+      "Uso exemplar de exemplos concretos (Golfo, Síria, Irã/Líbia/G4) para sustentar a argumentação complexa.",
+      "Linguagem técnica precisa e adequada ao registro acadêmico-diplomático, com excelente fluxo lógico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  }
+]
