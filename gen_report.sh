@@ -1,155 +1,40 @@
-MODEL="gemma-4-31B-it"
+set -euo pipefail
 
-YEAR="2013"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
+models=(
+	"gemma-4-31B-it"
+	"Qwen3.6-35B-A3B"
+	"gpt-oss-120b"
+)
 
-YEAR="2014"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
+years=(
+	"2013"
+	"2014"
+	"2015"
+	"2016"
+	"2017"
+	"2018"
+	"2019"
+	"2020-2021"
+	"2022"
+	"2023"
+)
 
-YEAR="2015"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
+run_report() {
+	local model="$1"
+	local year="$2"
+	local eval_path="prompt_testing/sheets/${model}/${model}_${year}_p7-9_3r.csv"
+	local human_path="prompt_testing/sheets/notas_humanas/notas_humanas_${year}.csv"
 
-YEAR="2016"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
+	python -m scripts.analysis_report \
+		--num_runs 3 \
+		--eval_path "$eval_path" \
+		--human_path "$human_path" \
+		--model "$model" \
+		--year "$year"
+}
 
-YEAR="2017"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2018"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2019"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2020-2021"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2022"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2023"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-MODEL="Qwen3.6-35B-A3B"
-
-YEAR="2013"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2014"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2015"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2016"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2017"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2018"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2019"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2020-2021"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2022"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2023"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-MODEL="gpt-oss-120b"
-
-YEAR="2013"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2014"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2015"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2016"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2017"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2018"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2019"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2020-2021"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2022"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
-
-YEAR="2023"
-EVALPATH="prompt_testing/sheets/${MODEL}/${MODEL}_${YEAR}_p7-9_3r.csv"
-HUMANPATH="prompt_testing/sheets/notas_humanas/notas_humanas_${YEAR}.csv"
-python -m scripts.analysis_report --num_runs 3 --eval_path $EVALPATH --human_path $HUMANPATH --model $MODEL --year $YEAR
+for model in "${models[@]}"; do
+	for year in "${years[@]}"; do
+		run_report "$model" "$year"
+	done
+done

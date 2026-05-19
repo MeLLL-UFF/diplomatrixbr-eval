@@ -1,7 +1,11 @@
 import os
 import pandas as pd
+from sklearn.metrics import cohen_kappa_score
+import seaborn as sns
+import matplotlib.pyplot as plt
+import argparse
 
-from utils import get_mean
+from .utils import get_mean
 
 def print_full(df):
     pd.set_option('display.max_rows', len(df))
@@ -12,7 +16,38 @@ def print_full(df):
     pd.reset_option('display.max_rows')
     pd.reset_option('display.expand_frame_repr')
 
-def full_report(model_name, num_runs):
+def quadratic_weighted_kappa(df):
+    prompts = df["prompt"].unique()
+    years = sorted(df["ano"].unique())
+
+    cohen_df = pd.DataFrame(index=prompts)
+
+    for year in years:
+        cohen_ano = []
+        for prompt in prompts:
+            df_format = df[(df["ano"] == year) & (df["prompt"] == prompt)]
+            notas_modelos = df_format["nota_final_model"].to_list()
+            notas_humanos = df_format["nota_final_human"].to_list()
+            
+            notas_modelos = list(map(round, notas_modelos))
+            notas_humanos = list(map(round, notas_humanos))
+
+            cohen_ano.append(cohen_kappa_score(notas_humanos, notas_modelos, weights='quadratic'))
+        cohen_df.insert(len(cohen_df.columns), year, cohen_ano)
+
+    return cohen_df
+
+def plot_qwk(df, model, path):
+    fig, axes = plt.subplots(1, figsize=(12,6))
+
+    axes = sns.heatmap(df, annot=True, vmax=1, vmin=-1, cmap="RdYlGn")
+    axes.set_title(f"QWK \n {model}")
+    axes.set_xlabel("anos")
+    axes.set_ylabel("prompts")
+
+    plt.savefig(f"{path}/QWK.png")
+
+def full_report(num_runs, model_name):
     path_model_sheets = os.path.join(os.getcwd(), "prompt_testing", "sheets", model_name)
 
     list_path_model_sheets = os.listdir(path_model_sheets)
@@ -52,6 +87,19 @@ def full_report(model_name, num_runs):
         sheet_list.append(sheet)
 
     human_df = pd.concat(sheet_list, ignore_index=True)
-    
 
-full_report("gemma-4-31B-it", 3)
+    df = model_df.merge(human_df, on=["ano", "redacao"], how='inner', suffixes=("_model", "_human"))
+
+    cohen_kappa_df = quadratic_weighted_kappa(df)
+
+    output_path = os.path.join(os.getcwd(), "prompt_testing", "reports", model_name)
+
+    plot_qwk(cohen_kappa_df, model_name, output_path)
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--num_runs", type=int, required=True)
+    parser.add_argument("--model", required=True)
+    args = parser.parse_args()
+    
+    full_report(args.num_runs, args.model)
