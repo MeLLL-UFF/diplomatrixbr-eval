@@ -47,6 +47,25 @@ def plot_qwk(df, model, path):
 
     plt.savefig(f"{path}/QWK.png")
 
+def plot_RMSE(df, model, path):
+    fig, axes = plt.subplots(1, figsize=(12,8))
+
+    df = df[["prompt", "ano", "val_squared_error"]]
+
+    df = df.groupby(["prompt", "ano"]).mean()
+    df["val_squared_error"] = df["val_squared_error"] ** 0.5
+    df = df.reset_index()
+    df = df.pivot(index="prompt", columns="ano")
+    df = df.droplevel(0, axis=1)
+
+    axes = sns.heatmap(df, annot=True, cmap="RdYlGn_r", vmin=0, vmax=10)
+
+    axes.set_title(f"RMSE \n {model}")
+    axes.set_xlabel("anos")
+    axes.set_xlabel("prompts")
+
+    plt.savefig(f"{path}/RMSE.png")
+
 def full_report(num_runs, model_name):
     path_model_sheets = os.path.join(os.getcwd(), "prompt_testing", "sheets", model_name)
 
@@ -90,11 +109,13 @@ def full_report(num_runs, model_name):
 
     df = model_df.merge(human_df, on=["ano", "redacao"], how='inner', suffixes=("_model", "_human"))
 
+    df.insert(len(df.columns), "val_squared_error", (df["nota_final_human"] - df["nota_final_model"])**2)
+
     cohen_kappa_df = quadratic_weighted_kappa(df)
 
     output_path = os.path.join(os.getcwd(), "prompt_testing", "reports", model_name)
-
-    plot_qwk(cohen_kappa_df, model_name, output_path)
+    plot_RMSE(df, model_name, output_path)
+    #plot_qwk(cohen_kappa_df, model_name, output_path)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
