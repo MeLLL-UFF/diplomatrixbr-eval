@@ -95,7 +95,6 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
             prompt_formatado = prompt_formatado.replace("{2}", str(criterios["2"]))
             max_pontos = criterios["1A"] + criterios["1B"] + criterios["1C"]
             prompt_formatado = prompt_formatado.replace("{max_pontos}", str(max_pontos))
-            print(prompt_formatado)
           case 8 | 11 | 14:
             formato_resposta = respostaFinal
           case 9 | 12 | 15:

@@ -1,0 +1,1301 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A arquitetura dos engenhos coloniais assemelhava-se ao desenho dos “agbo-ilês” dos chefes tribais africanos – nas duas margens do Atlântico, predominavam relações patriarcais. (Falta de vírgula após o travessão para isolar a oração explicativa.)"
+    ],
+    "feedbacks": [
+      "1A – O texto apresenta excelente coerência, legibilidade e estilo. A articulação entre as metáforas é clara e o encadeamento lógico é fluido, com linguagem elegante e adequada ao tema. Apenas pequenos ajustes poderiam aprimorar a apresentação.",
+      "1B – A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza informações históricas, culturais e diplomáticas relevantes para fundamentar a ideia da “terceira margem” do Atlântico Sul, demonstrando domínio do assunto.",
+      "1C – A análise é profunda e reflexiva, indo além da simples descrição das relações entre Brasil e África. O texto articula conceitos históricos, sociológicos e diplomáticos, evidenciando capacidade de reflexão crítica.",
+      "Correção gramatical – O texto apresenta apenas um erro gramatical leve (falta de vírgula após travessão), o que não compromete a clareza nem a correção geral. A linguagem é formal, precisa e adequada ao contexto acadêmico-diplomático."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A arquitetura dos engenhos coloniais assemelhava-se ao desenho dos “agbo-ilês” dos chefes tribais africanos – nas duas margens do Atlântico, predominavam relações patriarcais."
+    ],
+    "feedbacks": [
+      "1A – O texto apresenta excelente coerência, legibilidade e estilo. A articulação entre as metáforas é clara e o encadeamento lógico é fluido, com linguagem elegante e adequada ao gênero dissertativo. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "1B – O candidato demonstra grande capacidade de argumentação, utilizando informações históricas, culturais e diplomáticas pertinentes e bem sistematizadas. Os exemplos são objetivos e reforçam a tese central sobre a “terceira margem” do Atlântico Sul.",
+      "1C – A análise é sofisticada, indo além da superfície das metáforas para refletir sobre identidade, memória, diplomacia e desenvolvimento. O texto evidencia reflexão crítica e originalidade ao conectar história, cultura e relações internacionais.",
+      "Correção gramatical – O texto é, em geral, muito bem escrito. Há apenas um erro de concordância: “A arquitetura dos engenhos coloniais assemelhava-se ao desenho dos ‘agbo-ilês’ dos chefes tribais africanos – nas duas margens do Atlântico, predominavam relações patriarcais.” O correto seria “assemelhava-se aos desenhos”, pois “desenhos” está no plural. Não há outros erros evidentes de ortografia, pontuação ou regência.",
+      "Considerações finais – O texto cumpre plenamente o enunciado, articulando as duas metáforas de modo criativo e fundamentado. A argumentação é sólida, a análise é profunda e a linguagem é precisa. O único erro gramatical identificado é de concordância nominal e não compromete a qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A arquitetura dos engenhos coloniais assemelhava-se ao desenho dos “agbo-ilês” dos chefes tribais africanos – nas duas margens do Atlântico, predominavam relações patriarcais."
+    ],
+    "feedbacks": [
+      "1A – O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. O uso de referências culturais e históricas enriquece o texto, conferindo-lhe fluidez e elegância. Apenas pequenos ajustes poderiam aprimorar a apresentação.",
+      "1B – O candidato demonstra grande capacidade de argumentação, com informações pertinentes, objetivas e bem sistematizadas. Os exemplos históricos, culturais e diplomáticos são relevantes e contribuem para a defesa do ponto de vista sobre a “terceira margem” do Atlântico Sul.",
+      "1C – A análise é profunda e reflexiva, indo além da simples descrição das relações Brasil-África. O texto articula conceitos históricos, sociológicos e diplomáticos, mostrando maturidade intelectual e capacidade de síntese.",
+      "Correção gramatical – O texto é, em geral, muito bem escrito. Há apenas um erro de concordância: “A arquitetura dos engenhos coloniais assemelhava-se ao desenho dos ‘agbo-ilês’ dos chefes tribais africanos – nas duas margens do Atlântico, predominavam relações patriarcais.” O correto seria “assemelhava-se aos desenhos”, pois “desenhos” está no plural. O restante do texto está correto e demonstra domínio da norma culta.",
+      "Considerações finais – O texto é exemplar em termos de organização, argumentação e análise. O erro gramatical é mínimo e não compromete a qualidade geral. A redação atende plenamente aos critérios do concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "No que diz respeito à linguagem, estudo da Universidade Federal da Bahia indica que a repetição do advérbio de negação em frases, como “não quero não”, e a forte entonação das vogais são evidências da influência africana. (Falta de artigo definido antes de “estudo”)",
+      "Um implicou o desenvolvimento de características religiosas e linguísticas semelhantes. O outro transformou o Brasil no país com a segunda maior população negra do mundo. (Ambiguidade na referência dos pronomes “Um” e “O outro”, que não estão claramente retomando termos anteriores)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, desenvolvendo de forma sofisticada a metáfora da “terceira margem do Atlântico Sul”, com argumentos históricos, culturais e diplomáticos pertinentes.",
+      "A linguagem é, em geral, adequada e formal, com domínio do vocabulário específico do tema. Contudo, há pequenos deslizes gramaticais que afetam a precisão do texto.",
+      "A reflexão sobre o tema é profunda e original, demonstrando capacidade de articulação entre literatura, história e relações internacionais, o que é altamente valorizado no CACD.",
+      "A conclusão é coesa e reforça o argumento central, consolidando a ideia da “terceira margem” como construção diplomática e cultural conjunta."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "No período da Pangeia, os litorais do Brasil e da África faziam parte da mesma unidade geofísica, a qual foi posteriormente separada pelo oceano Atlântico. O denominado “Mar Oceano” viabilizou os processos responsáveis pelo estabelecimento das primeiras relações entre as duas margens oceânicas: a colonização europeia e a escravidão. Um implicou...",
+      "...a cooperação naval entre Brasil e Namíbia, por exemplo, aumentou -, reforçam-se... (uso inadequado do travessão e da vírgula)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, articulando de forma clara e coerente as metáforas propostas e demonstrando reflexão aprofundada sobre o conceito de “terceira margem” do Atlântico Sul.",
+      "A argumentação é sólida, com exemplos históricos, culturais e diplomáticos pertinentes, evidenciando domínio do tema e capacidade de síntese.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão geral do texto, mas afetam a precisão formal em alguns trechos.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e propriedade de expressão.",
+      "A estrutura do texto é bem organizada, com encadeamento lógico das ideias e conclusão pertinente ao tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "No que diz respeito à linguagem, estudo da Universidade Federal da Bahia indica... (falta de artigo definido: \"um estudo\")",
+      "Um implicou o desenvolvimento... O outro transformou... (construção frasal ambígua e pouco coesa)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando as metáforas de forma criativa e fundamentada, com argumentação clara e encadeamento lógico das ideias.",
+      "A linguagem é, em geral, adequada e formal, mas há pequenos deslizes gramaticais e construções que poderiam ser mais coesas.",
+      "A redação demonstra reflexão aprofundada sobre as relações históricas, culturais e diplomáticas entre Brasil e África, cumprindo plenamente o enunciado.",
+      "A conclusão é pertinente e reforça a ideia da “terceira margem” como espaço de cooperação e paz, alinhada aos objetivos do Atlântico Sul."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A violência da ocupação colonial e da escravização de africanos e indígenas resultou em problemas comuns longevos, como a desigualdade e a onipresença do que Maria Sylvia de Carvalho Franco denominou “ajuste violento”."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza, desenvolvendo o tema de forma coerente e com boa articulação argumentativa. A combinação das metáforas é feita de modo pertinente e original, demonstrando reflexão sobre o conceito de “terceira margem” do Atlântico Sul.",
+      "A argumentação é consistente, com exemplos históricos, culturais e políticos que sustentam a ideia de uma “terceira margem” construída a partir das relações entre Brasil e África. O texto demonstra domínio do tema e da linguagem, com poucos deslizes gramaticais.",
+      "Há um pequeno erro de concordância ou de clareza na passagem sobre o “ajuste violento”, que pode ser aprimorada para maior precisão. No entanto, isso não compromete a qualidade geral do texto.",
+      "O texto evidencia coesão, fluidez e capacidade de reflexão, além de demonstrar conhecimento interdisciplinar. A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e referências pertinentes."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A violência da ocupação colonial e da escravização de africanos e indígenas resultou em problemas comuns longevos, como a desigualdade e a onipresença do que Maria Sylvia de Carvalho Franco denominou “ajuste violento”. [Falta de concordância: “onipresença do que” deveria ser “onipresença daquilo que” ou “onipresença do fenômeno que” para maior clareza e correção.]"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre as duas metáforas propostas, desenvolvendo o conceito de “terceira margem do Atlântico Sul” de forma clara, original e fundamentada.",
+      "A argumentação é bem estruturada, com encadeamento lógico das ideias, uso pertinente de referências históricas, culturais e diplomáticas, além de exemplos concretos que enriquecem a reflexão.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e domínio da norma culta, ainda que haja um pequeno deslize de concordância.",
+      "O texto demonstra reflexão aprofundada sobre o tema, evidenciando compreensão das relações entre Brasil e África e do papel da diplomacia no Atlântico Sul.",
+      "A conclusão é coesa e reforça o conceito de “paz positiva”, conferindo unidade e fechamento ao raciocínio."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A arquitetura dos engenhos coloniais assemelhava-se ao desenho dos “agbo-ilês” dos chefes tribais africanos – nas duas margens do Atlântico, predominavam relações patriarcais. (O uso do travessão pode ser substituído por vírgula para maior fluidez, mas o erro é leve; o problema mais claro é a concordância: “predominavam” deveria ser “predominava”, pois o sujeito é “a arquitetura”.)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre as metáforas propostas e o tema do Atlântico Sul, demonstrando compreensão profunda e capacidade de reflexão.",
+      "A argumentação é clara, bem estruturada e fundamentada em referências históricas, culturais e diplomáticas pertinentes.",
+      "O desenvolvimento do tema é coerente, com encadeamento lógico das ideias e uso adequado de exemplos concretos.",
+      "A linguagem é formal, precisa e apropriada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais.",
+      "O texto evidencia domínio temático e linguístico, além de capacidade de análise e síntese, mas não atinge o nível de originalidade e sofisticação que caracterizaria a faixa “Excelente” ou “Excepcional”."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "intereses",
+      "podese",
+      "oceanos que os separam foi"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência temática, estilo claro e legível, com boa estruturação dos parágrafos e encadeamento lógico das ideias. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos históricos e institucionais relevantes para sustentar sua tese sobre a “terceira margem” do Atlântico Sul.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de relacionar as metáforas literárias ao contexto das relações Brasil-África e à cooperação internacional.",
+      "Foram identificados três erros gramaticais: “intereses” (correto: interesses), “podese” (correto: pode-se) e “oceanos que os separam foi” (correto: oceanos que os separam foram).",
+      "A redação atende plenamente aos critérios de organização, argumentação e reflexão, com pequenas falhas gramaticais que não comprometem a compreensão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "intereses",
+      "podese",
+      "juntos às Nações Unidas"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com clareza na exposição das ideias e boa articulação entre as metáforas propostas e o tema das relações Brasil-África. Apenas pequenos ajustes de apresentação poderiam aprimorar a legibilidade.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, trazendo exemplos históricos e institucionais relevantes. A conexão entre as metáforas e o conceito de “terceira margem” está claramente fundamentada.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de interpretação das metáforas e de aplicação ao contexto das relações internacionais. O texto vai além da superfície, discutindo desafios e possibilidades de cooperação.",
+      "Foram identificados três erros gramaticais: “intereses” (correto: interesses), “podese” (correto: pode-se) e “juntos às Nações Unidas” (preferível: junto às Nações Unidas). Esses desvios não comprometem a compreensão, mas afetam a correção formal.",
+      "A linguagem é adequada ao gênero dissertativo-argumentativo, mas alguns trechos poderiam ser mais concisos para maior precisão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "intereses",
+      "podese",
+      "no conto “A terceira margem do rio”",
+      "erro de vírgula: falta de vírgula após “Guimarães Rosa”"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com clareza na exposição das ideias e boa articulação entre as metáforas propostas e o tema das relações Brasil-África. Apenas pequenos ajustes de estilo poderiam aprimorar ainda mais a apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, trazendo exemplos históricos e institucionais relevantes para sustentar a ideia da “terceira margem” do Atlântico Sul. O encadeamento lógico é sólido e demonstra domínio do assunto.",
+      "A análise é profunda e reflexiva, indo além da superfície das metáforas para discutir o significado simbólico e prático da “terceira margem” nas relações entre Brasil e África. O texto demonstra capacidade de reflexão crítica e originalidade.",
+      "Foram identificados três erros gramaticais: “intereses” (correto: interesses), “podese” (correto: pode-se), e ausência de vírgula após “Guimarães Rosa” antes de “no conto...”. Tais deslizes não comprometem a compreensão, mas afetam a correção formal.",
+      "A linguagem é adequada ao gênero dissertativo e ao contexto diplomático, com vocabulário preciso e propriedade. Recomenda-se revisão atenta para evitar pequenos lapsos de digitação ou pontuação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "intereses (correto: interesses)",
+      "podese (correto: pode-se)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, clareza e capacidade de argumentação, articulando de forma sofisticada as duas metáforas propostas e relacionando-as ao contexto das relações Brasil-África.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão geral do texto, mas devem ser considerados na pontuação final.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e encadeamento lógico das ideias.",
+      "A reflexão sobre a “terceira margem” do Atlântico Sul é original, bem fundamentada e demonstra maturidade analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "intereses (correto: interesses)",
+      "podese (correto: pode-se)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é adequada e formal, com poucos desvios gramaticais que não comprometem a compreensão global do texto.",
+      "A redação explora de forma pertinente as metáforas sugeridas, relacionando-as de maneira original e coerente ao contexto das relações Brasil-África.",
+      "Os exemplos históricos e institucionais enriquecem a argumentação e demonstram domínio do tema.",
+      "Os erros gramaticais identificados são pontuais e não afetam significativamente a qualidade do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "intereses (correto: interesses)",
+      "podese (correto: pode-se)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é adequada e formal, com poucos desvios gramaticais que não comprometem a compreensão global.",
+      "A redação explora de forma pertinente as metáforas sugeridas, relacionando-as ao contexto das relações Brasil-África e à ideia de uma “terceira margem” como destino comum e cooperação.",
+      "Os erros gramaticais identificados são pontuais e não afetam significativamente a qualidade do texto.",
+      "A argumentação histórica e política é consistente e bem fundamentada, reforçando a coerência do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"intereses\" (correto: interesses)",
+      "falta de espaço após vírgula em \"podese\" (correto: pode-se)"
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com clareza e boa articulação argumentativa, demonstrando domínio do tema e da linguagem.",
+      "A reflexão sobre a metáfora é pertinente e original, com encadeamento lógico das ideias e referências históricas e institucionais adequadas.",
+      "Apresenta poucos deslizes gramaticais, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "A argumentação é consistente e demonstra capacidade de análise, embora não alcance o nível de sofisticação e originalidade excepcional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "intereses",
+      "podese",
+      "7 intensamente"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, combinando as duas metáforas de forma pertinente e original, demonstrando reflexão e clareza na argumentação.",
+      "A estrutura é lógica e bem encadeada, com exemplos históricos e institucionais que enriquecem a análise sobre a relação Brasil-África.",
+      "Há domínio consistente da norma padrão, mas ocorrem pequenos deslizes gramaticais, como erros de grafia e ausência de espaço, que não comprometem a compreensão.",
+      "O vocabulário é adequado e a linguagem é formal, condizente com o contexto do concurso.",
+      "A redação evidencia coesão, coerência e capacidade de síntese, embora a argumentação não atinja o nível de sofisticação exigido para a faixa “Excelente”."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "intereses (correto: interesses)",
+      "podese (correto: pode-se)",
+      "7 intensamente (número solto, sem função clara no texto)"
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com ideias claras e boa articulação argumentativa, demonstrando domínio do tema e da linguagem, com poucos deslizes gramaticais.",
+      "A reflexão sobre a metáfora da “terceira margem” é pertinente e original, conectando adequadamente as referências literárias ao contexto das relações Brasil-África.",
+      "Os erros gramaticais são pontuais e não comprometem a compreensão geral do texto, mas poderiam ser evitados com revisão cuidadosa.",
+      "A argumentação é consistente, com exemplos históricos e institucionais que enriquecem a análise, evidenciando coesão e reflexão aprofundada sobre o tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "1A - Apresentação e impressão geral do texto: O texto é coerente, legível e apresenta estilo adequado ao gênero dissertativo-argumentativo. A articulação entre as ideias é clara e o encadeamento lógico é mantido ao longo de todo o texto. A linguagem é formal e apropriada ao tema, conferindo boa impressão geral.",
+      "1B - Capacidade de argumentação: O candidato demonstra objetividade e sistematização ao relacionar as metáforas dos títulos com o tema das relações Brasil-África. Utiliza exemplos históricos e fatos concretos (PEI, Conferência de Berlim, Choque do Petróleo, Fórum IBAS, CPLP, ZOPACAS) para sustentar sua argumentação, conferindo pertinência e densidade ao texto.",
+      "1C - Capacidade de análise e reflexão: O texto vai além da mera exposição de fatos, promovendo uma análise crítica sobre as limitações imateriais (“terceira margem”) que dificultam a cooperação no Atlântico Sul. O candidato reflete sobre desafios históricos, políticos, culturais e econômicos, e propõe caminhos para superá-los, evidenciando reflexão aprofundada.",
+      "Correção gramatical e propriedade da linguagem: Não foram identificados erros de concordância, ortografia, pontuação ou regência. O uso da língua é preciso, formal e adequado ao contexto acadêmico-diplomático."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Na PEI, a retórica a favor da descolonização tornou-se vigorosa, a exemplo da obra em epígrafe, do embaixador Costa e Silva, ou do “Discurso dos 3Ds”, do embaixador Araújo Castro; a contundência das palavras, todavia, não ensejou demonstrações concretas de solidariedade, uma vez que os valiosos vínculos com Portugal desautorizavam engajamento real: lusotropicalismo, em detrimento de africanismo."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A linguagem é formal, clara e adequada ao tema. A estrutura é bem organizada, com parágrafos bem delimitados e progressão lógica. Apenas pequenos ajustes de fluidez poderiam ser feitos, mas não prejudicam a impressão geral.",
+      "1B: O candidato demonstra grande capacidade de argumentação, com informações pertinentes, objetivas e bem sistematizadas. O uso de referências históricas, diplomáticas e literárias enriquece o texto e demonstra domínio do tema.",
+      "1C: A análise é profunda e reflexiva, especialmente ao articular as metáforas dos títulos com a realidade das relações Brasil-África. O texto vai além da superfície, discutindo limitações históricas, culturais e políticas, e sugerindo caminhos para superação dos desafios.",
+      "Correção gramatical: O texto é, em geral, muito bem escrito. Há apenas um erro de pontuação: o uso de dois-pontos após “real” deveria ser uma vírgula, pois não se segue uma enumeração ou explicação direta, mas sim uma continuação da frase. O restante do texto está correto em termos de concordância, ortografia e regência."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em virtude de impedimentos históricos complexos",
+      "O correto seria \"em razão de impedimentos históricos complexos\" ou \"devido a impedimentos históricos complexos\"; o uso de \"em virtude de\" é considerado menos adequado em contextos formais quando não há relação de causa direta, mas o erro é leve e pode ser considerado apenas uma inadequação estilística. No entanto, como o texto é formal e acadêmico, pode ser considerado um desvio de regência."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. A introdução contextualiza bem o tema e as metáforas, e o desenvolvimento segue uma linha argumentativa sólida e bem fundamentada. (1A: 9.0/10.0)",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos históricos e fatos concretos para sustentar sua análise, demonstrando domínio do conteúdo e capacidade de relacionar as metáforas ao contexto diplomático. (1B: 9.0/10.0)",
+      "A reflexão sobre a “terceira margem” do Atlântico Sul é profunda e original, indo além da superfície das metáforas e abordando fatores históricos, políticos e culturais que dificultam a cooperação. O texto demonstra maturidade analítica e capacidade de síntese. (1C: 9.0/10.0)",
+      "Há apenas um desvio gramatical leve, relacionado à regência de “em virtude de”, que não compromete a clareza ou correção do texto. O uso da linguagem é formal, preciso e adequado ao gênero dissertativo-argumentativo. (CGPL: 29.0/30.0, considerando 1 erro gramatical leve)."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente domínio do tema, articulando de forma sofisticada as duas metáforas propostas e desenvolvendo uma reflexão original sobre a “terceira margem” do Atlântico Sul.",
+      "O texto demonstra clareza, coerência e encadeamento lógico das ideias, com argumentação bem fundamentada e referências históricas e diplomáticas pertinentes.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico-diplomático, sem erros gramaticais detectáveis.",
+      "A conclusão é consistente e reforça a relevância das ações do Itamaraty para superar os desafios históricos e contemporâneos das relações Brasil-África.",
+      "O texto atende plenamente aos critérios de organização, desenvolvimento e correção linguística, justificando uma nota elevada, próxima do máximo possível."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente domínio do tema, articulando de forma sofisticada as duas metáforas propostas e desenvolvendo uma reflexão original sobre a “terceira margem” do Atlântico Sul.",
+      "O texto demonstra clareza, coerência e encadeamento lógico das ideias, com argumentação bem fundamentada e referências históricas e diplomáticas pertinentes.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático, sem erros gramaticais detectáveis.",
+      "A conclusão é consistente e reforça a relevância das ações do Itamaraty para superar as barreiras imateriais entre Brasil e África, em consonância com os princípios constitucionais e a política externa brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em virtude de impedimentos históricos complexos",
+      "A projeção internacional do Brasil não decorre apenas da orientação política do Governo; conformadas pelos princípios do art. 4º da Constituição Federal, as parcerias internacionais do País pressupõem...",
+      "exceção feita aos países lusófonos",
+      "A multiplicação de instâncias de contato institucional prefigura relações cada vez mais numerosas entre os agentes privados, o que permitirá elidir, eventualmente, os desafios históricos à parceria no Atlântico Sul."
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente compreensão do tema e das metáforas propostas, articulando referências históricas, diplomáticas e literárias de modo pertinente e sofisticado.",
+      "A argumentação é clara, bem encadeada e revela reflexão aprofundada sobre o conceito de “terceira margem” do Atlântico Sul, relacionando-o a desafios históricos, políticos e culturais.",
+      "A linguagem é formal, precisa e adequada ao contexto do concurso, com vocabulário variado e domínio da norma culta, ainda que apresente um ou outro deslize pontual.",
+      "O texto é coeso e coerente, com parágrafos bem estruturados e transições lógicas entre as ideias.",
+      "Há apenas um erro gramatical perceptível: a expressão “em virtude de impedimentos históricos complexos” carece de preposição adequada (“em virtude de” exige “dos” ou “de os” diante de substantivo definido; o correto seria “em virtude dos impedimentos históricos complexos”). Outros pequenos deslizes de regência ou pontuação não comprometem a clareza nem a correção global.",
+      "A redação evidencia domínio temático e linguístico, com poucos deslizes, e apresenta reflexão consistente, o que justifica a faixa “Ótimo”."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em virtude de impedimentos históricos complexos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma sofisticada as duas metáforas propostas e desenvolvendo uma reflexão clara e pertinente sobre a “terceira margem” do Atlântico Sul.",
+      "A argumentação é bem estruturada, com encadeamento lógico, referências históricas e políticas precisas, e demonstra capacidade analítica e reflexiva.",
+      "A linguagem é formal, adequada e rica, com poucos deslizes gramaticais. O erro identificado é de regência: o correto seria “em razão de” ou “devido a”, em vez de “em virtude de”, que exige preposição “a”.",
+      "O texto evidencia coesão, clareza e profundidade, mas não atinge o nível de originalidade e insight teórico que caracterizaria a faixa “Excepcional”.",
+      "A conclusão é consistente e reforça a pertinência da metáfora, além de sugerir caminhos para a política externa brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "uso de vírgula facultativa ou inadequada em 'a exemplo da obra em epígrafe, do embaixador Costa e Silva, ou do “Discurso dos 3Ds”' (poderia ser reescrito para maior clareza e fluidez, mas o erro é leve e não compromete o sentido)"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente compreensão do tema e das metáforas propostas, articulando referências literárias e históricas com pertinência.",
+      "A argumentação é clara, bem estruturada e demonstra capacidade de reflexão sobre o papel do Brasil no Atlântico Sul, com exemplos concretos e contextualização histórica.",
+      "A linguagem é formal, adequada ao contexto e há domínio da norma culta, com poucos deslizes gramaticais.",
+      "O encadeamento das ideias é lógico e coeso, evidenciando capacidade de articulação entre diferentes campos do conhecimento (história, relações internacionais, literatura).",
+      "O texto apresenta reflexão aprofundada sobre a “terceira margem” do Atlântico Sul, indo além da superficialidade e trazendo análise relevante sobre desafios e potencialidades das relações Brasil-África.",
+      "A conclusão é consistente e reforça a pertinência da metáfora inicial, fechando o raciocínio de forma coesa."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sulamericana",
+      "América do SulÁfrica"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com clareza na exposição das ideias e boa estruturação dos parágrafos. Apenas pequenas imprecisões estilísticas, como repetições, poderiam ser evitadas.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos históricos, culturais e políticos para sustentar sua tese, demonstrando domínio do assunto.",
+      "A análise é profunda e reflexiva, mostrando capacidade de articular conceitos abstratos (como desterritorialização) e exemplos concretos, além de estabelecer relações entre diferentes áreas do conhecimento.",
+      "Foram identificados dois erros gramaticais: 'sulamericana' (deveria ser 'sul-americana') e 'América do SulÁfrica' (deveria ser 'América do Sul-África').",
+      "A linguagem é, em geral, correta e adequada ao gênero dissertativo-argumentativo, mas a atenção à hifenização e à pontuação poderia ser aprimorada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sulamericana",
+      "América do SulÁfrica"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com boa estrutura e clareza na exposição das ideias. A introdução contextualiza bem as metáforas e o desenvolvimento segue uma linha lógica, facilitando a leitura e compreensão. (Nota 1A: 9/10)",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos históricos, culturais e políticos para sustentar sua tese sobre a 'terceira margem' do Atlântico Sul, demonstrando domínio do assunto. (Nota 1B: 9/10)",
+      "A análise é profunda e reflexiva, indo além da superfície das metáforas e trazendo exemplos concretos de influências mútuas e vínculos entre África e América do Sul. O texto demonstra capacidade de reflexão crítica e originalidade. (Nota 1C: 9/10)",
+      "Foram identificados dois erros gramaticais: 'sulamericana' (deveria ser 'sul-americana') e a ausência de espaço em 'América do SulÁfrica' (deveria ser 'América do Sul-África'). Esses desvios são pontuais e não comprometem a compreensão geral do texto.",
+      "A linguagem é adequada ao gênero dissertativo e ao contexto do CACD, mas a correção gramatical poderia ser aprimorada para evitar pequenos deslizes."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Candomble (falta de acento: Candomblé)",
+      "sulamericana (erro de grafia: sul-americana)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e legibilidade, com estilo claro e objetivo, justificando nota alta em 1A. Apenas pequenas imprecisões estilísticas poderiam ser melhoradas.",
+      "A argumentação é sólida, bem sistematizada e pertinente ao tema proposto, com exemplos históricos, culturais e políticos que ilustram a ideia da 'terceira margem'. Por isso, recebe nota elevada em 1B.",
+      "A análise é profunda e reflexiva, mostrando capacidade de combinar as duas metáforas e extrair delas um conceito original e bem fundamentado, o que justifica nota alta em 1C.",
+      "Foram identificados dois erros gramaticais: um de acentuação (Candomblé) e um de grafia (sul-americana). Não há outros erros evidentes de concordância, regência ou pontuação.",
+      "A redação cumpre plenamente o enunciado, articulando referências literárias, históricas e contemporâneas, e demonstra domínio do tema e da linguagem."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "No trecho \"A influência dos africanos, também, é percebida em manifestações culturais como o Candomble, no Uruguai, e a Capoeira, no Brasil.\", o termo \"Candomble\" deveria ser grafado com acento: \"Candomblé\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, desenvolvendo de forma coerente a metáfora proposta.",
+      "A argumentação é sólida, com exemplos históricos, culturais e políticos que enriquecem a reflexão sobre a “terceira margem” do Atlântico Sul.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com poucos desvios gramaticais.",
+      "O único erro gramatical identificado foi a ausência de acento em “Candomblé”, o que não compromete a compreensão nem a qualidade geral do texto.",
+      "A redação demonstra domínio do tema, capacidade de síntese e reflexão crítica, alinhando-se aos critérios de excelência do concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "São manifestações culturais sul-americanas, mas que têm origens africanas. Essas tradições sofreram o que o geógrafo Milton Santos denomina desterritorialização e reterritorialização. Nesse processo, há a preservação de alguns elementos originais aos quais são adicionados elementos novos do local em que há a reterritorialização. (falta de vírgula após \"originais\")",
+      "América do SulÁfrica (ASA) (falta de espaço entre \"Sul\" e \"África\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão sobre o tema, articulando de forma clara e coerente as duas metáforas propostas.",
+      "A organização do texto é lógica e o encadeamento das ideias é bem construído, com exemplos concretos e pertinentes que enriquecem a discussão.",
+      "A linguagem é adequada ao contexto e há poucos erros gramaticais, que não comprometem a clareza nem a correção geral do texto.",
+      "A redação demonstra domínio do tema e capacidade de elaboração conceitual, além de boa utilização de referências culturais e históricas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "No trecho \"A influência dos africanos, também, é percebida em manifestações culturais como o Candomble, no Uruguai, e a Capoeira, no Brasil.\", o termo \"Candomble\" deveria ser grafado com acento: \"Candomblé\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com argumentação clara, coerente e reflexiva, explorando de forma aprofundada as metáforas propostas e relacionando-as a exemplos históricos, culturais e políticos concretos.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e propriedade. O encadeamento lógico das ideias é notável, demonstrando capacidade de síntese e de articulação entre diferentes áreas do conhecimento.",
+      "Há apenas um erro gramatical de ortografia, que não compromete a compreensão nem a qualidade geral do texto.",
+      "A redação cumpre plenamente o enunciado, apresentando uma reflexão original e bem fundamentada sobre a “terceira margem do Atlântico Sul”, sem fugir ao tema ou apresentar informações inventadas.",
+      "Por esses motivos, a nota final reflete um desempenho de alto nível, com pequena dedução apenas pelo erro ortográfico identificado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sulamericana (em vez de sul-americana)",
+      "América do SulÁfrica (falta de espaço entre Sul e África)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre as metáforas propostas e desenvolve o tema de forma clara, lógica e com argumentos consistentes.",
+      "Há domínio temático e linguístico, com exemplos concretos e referências culturais, históricas e políticas pertinentes.",
+      "A estrutura do texto é coesa e bem encadeada, demonstrando reflexão e capacidade de análise.",
+      "Os poucos deslizes gramaticais não comprometem a compreensão nem a qualidade geral do texto.",
+      "A linguagem é adequada ao contexto acadêmico e o vocabulário é preciso e variado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sulamericana",
+      "América do SulÁfrica"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre as duas metáforas propostas, desenvolvendo o tema de forma clara, coerente e com argumentos pertinentes.",
+      "Há exemplos concretos e diversificados (históricos, culturais, políticos e econômicos) que enriquecem a reflexão sobre a “terceira margem do Atlântico Sul”.",
+      "A estrutura do texto é lógica, com introdução, desenvolvimento e conclusão bem definidos, demonstrando domínio do tema e da linguagem.",
+      "Os desvios gramaticais são poucos e não comprometem a clareza ou a qualidade geral do texto.",
+      "A linguagem é adequada ao contexto acadêmico e há boa utilização de referências culturais e teóricas.",
+      "O texto evidencia reflexão e coesão, mas não atinge o nível de originalidade e sofisticação argumentativa necessário para ser classificado como “Excelente” ou “Excepcional”."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sulamericana (linha 23) - forma correta: sul-americana",
+      "América do SulÁfrica (linha 31) - ausência de hífen ou espaço: América do Sul-África ou América do Sul África"
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com clareza na exposição das ideias e boa articulação entre as metáforas propostas e o desenvolvimento do tema.",
+      "A argumentação é pertinente e demonstra reflexão sobre o conceito de 'terceira margem' aplicado ao Atlântico Sul, com exemplos concretos de influências culturais, políticas e econômicas.",
+      "O domínio da norma padrão é consistente, com poucos deslizes gramaticais que não comprometem a compreensão.",
+      "A linguagem é adequada ao contexto e há coesão entre os parágrafos, evidenciando encadeamento lógico das ideias.",
+      "A redação aborda o tema com profundidade suficiente para demonstrar compreensão e capacidade analítica, mas sem atingir o nível de originalidade ou sofisticação que caracterizaria a faixa 'Excelente' ou 'Excepcional'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornandose apenas meio produtivo",
+      "abaixo do quadro, se colocou um informativo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com linguagem elegante e pertinente ao tema. A estrutura é clara e a impressão geral é positiva, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e utiliza referências pertinentes (Guimarães Rosa, Joaquim Nabuco, Conceição Evaristo, Darcy Ribeiro, Heidegger). O conteúdo é denso e relevante, o que justifica nota elevada em 1B.",
+      "A análise é sofisticada, revelando reflexão crítica sobre identidade nacional, apropriação cultural e questões étnico-raciais. O uso das metáforas é criativo e aprofundado, justificando nota elevada em 1C.",
+      "Foram identificados dois erros gramaticais: ausência de hífen em 'tornandose' (deveria ser 'tornando-se') e uso inadequado da vírgula antes de 'se colocou', que prejudica a regência e a clareza.",
+      "A redação cumpre plenamente os requisitos do enunciado, articulando as duas metáforas e discutindo de forma consistente a ideia de 'terceira margem' do Atlântico Sul."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornandose apenas meio produtivo",
+      "abaixo do quadro, se colocou um informativo"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, estilo elegante e legibilidade. A articulação entre as metáforas literárias e o tema proposto é clara e sofisticada, conferindo boa impressão geral. Apenas pequenos deslizes de fluidez pontual impedem nota máxima.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato mobiliza referências literárias, históricas e filosóficas de modo coeso e relevante, demonstrando domínio do conteúdo e capacidade de relacionar diferentes saberes.",
+      "1C: O texto revela análise crítica e reflexão aprofundada sobre a identidade brasileira e o conceito de “terceira margem”, articulando questões étnico-raciais, históricas e filosóficas com maturidade e originalidade.",
+      "Correção gramatical: O texto apresenta apenas dois desvios: ausência de hífen em “tornandose” (deveria ser “tornando-se”) e uso inadequado da vírgula antes de “se colocou” (deveria ser “abaixo do quadro se colocou”). Ambos são erros leves e não comprometem a compreensão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornandose apenas meio produtivo",
+      "abaixo do quadro, se colocou um informativo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência temática, articulando de forma sofisticada as metáforas propostas e demonstrando estilo próprio e legibilidade. Apenas pequenos ajustes de fluidez poderiam ser feitos.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências culturais e históricas apropriadas. A conexão entre as margens do Atlântico e a identidade brasileira é clara e bem fundamentada.",
+      "A análise é profunda e reflexiva, mobilizando conceitos filosóficos e literários para discutir a identidade nacional, apropriação cultural e direitos indígenas e afro-brasileiros.",
+      "Foram identificados dois erros gramaticais: ausência de hífen em 'tornando-se' e uso inadequado da vírgula antes de 'se colocou'.",
+      "A linguagem é erudita e adequada ao gênero dissertativo, mas a correção gramatical pode ser aprimorada para evitar pequenas impropriedades."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornandose",
+      "justificar-se a presença"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, articulando de forma sofisticada as metáforas propostas e demonstrando reflexão aprofundada sobre a identidade brasileira e suas matrizes culturais.",
+      "A linguagem é formal e adequada ao contexto, com boa capacidade argumentativa e encadeamento lógico das ideias.",
+      "Foram identificados dois erros gramaticais: \"tornandose\" (falta de hífen: tornando-se) e \"justificar-se a presença\" (desvio de colocação pronominal: justificar a presença-se).",
+      "A redação explora com pertinência referências literárias e históricas, enriquecendo a argumentação e demonstrando domínio do tema.",
+      "A conclusão é coesa e reforça a ideia de processo inacabado da identidade nacional, alinhada à proposta do enunciado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornandose",
+      "se colocou um informativo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, articulando com profundidade as metáforas propostas e refletindo criticamente sobre a identidade brasileira como “terceira margem” do Atlântico Sul.",
+      "A argumentação é clara, coerente e bem encadeada, com referências pertinentes à literatura, história e filosofia, o que demonstra repertório e capacidade de reflexão.",
+      "Há dois pequenos deslizes gramaticais: “tornandose” deveria ser “tornando-se” (erro de hífen) e “se colocou um informativo” apresenta ordem sintática pouco natural, podendo ser corrigido para “colocou-se um informativo” ou “foi colocado um informativo”.",
+      "A linguagem é adequada ao contexto acadêmico e o texto demonstra domínio dos recursos de coesão e argumentação, embora os erros gramaticais pontuais impactem levemente a correção linguística.",
+      "Considerando a excelência do conteúdo e a pequena quantidade de erros gramaticais, a nota final reflete um desempenho muito bom, mas não perfeito, dentro dos critérios do CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornandose",
+      "justificar-se a presença do retrato de um negro no salão (uso inadequado do pronome reflexivo)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando as metáforas de forma sofisticada e original, com argumentação consistente e clareza na exposição das ideias.",
+      "A linguagem é formal, adequada ao contexto acadêmico e diplomático, com referências culturais e literárias pertinentes.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão geral do texto, mas afetam a precisão formal.",
+      "A estrutura do texto é coesa e o encadeamento lógico é bem construído, com transições fluidas entre os parágrafos.",
+      "A reflexão sobre a identidade brasileira e a \"terceira margem do Atlântico Sul\" é profunda e bem fundamentada, demonstrando capacidade analítica e crítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornandose apenas meio produtivo",
+      "abaixo do quadro, se colocou um informativo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, combinando as metáforas propostas de maneira sofisticada e original. A argumentação é clara, coesa e demonstra reflexão aprofundada sobre identidade nacional, influências africanas e indígenas e o conceito de “terceira margem” do Atlântico Sul.",
+      "Há domínio consistente da norma padrão, com apenas dois deslizes gramaticais: ausência de hífen em “tornando-se” e uso inadequado da vírgula em “abaixo do quadro se colocou um informativo” (a vírgula é desnecessária).",
+      "O texto utiliza referências literárias e históricas pertinentes, o que enriquece a análise e evidencia repertório cultural sólido.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e estilo maduro.",
+      "A estrutura do texto é lógica, com encadeamento claro de ideias e progressão argumentativa, o que favorece a compreensão e o impacto do discurso.",
+      "Apesar dos pequenos deslizes gramaticais, o texto se destaca pela profundidade analítica e pela capacidade de articular diferentes dimensões do tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornandose",
+      "se colocou um informativo"
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com clareza argumentativa e boa articulação entre as referências literárias e o tema proposto. Demonstra reflexão aprofundada sobre a identidade brasileira como \"terceira margem\" do Atlântico Sul, mobilizando autores e exemplos históricos pertinentes.",
+      "Há poucos deslizes gramaticais, como a ausência de hífen em \"tornandose\" (deveria ser \"tornando-se\") e a construção sintática pouco usual em \"se colocou um informativo\" (preferível \"foi colocado um informativo\").",
+      "A linguagem é adequada ao contexto acadêmico e o domínio da norma culta é consistente, ainda que com pequenas imprecisões.",
+      "A argumentação é coesa e demonstra capacidade de reflexão crítica, embora não alcance o nível de originalidade e sofisticação exigido para a faixa \"Excelente\" ou \"Excepcional\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tornandose apenas meio produtivo",
+      "abaixo do quadro, se colocou um informativo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, combinando as metáforas propostas de maneira sofisticada e original. A argumentação é clara, coesa e demonstra reflexão aprofundada sobre identidade nacional, influências africanas e indígenas e o conceito de \"terceira margem\" do Atlântico Sul.",
+      "Há domínio consistente da norma culta, com apenas dois deslizes gramaticais: ausência de hífen em \"tornando-se\" e uso inadequado da próclise em \"abaixo do quadro, se colocou um informativo\" (o correto seria \"colocou-se\").",
+      "O texto utiliza referências literárias e históricas pertinentes, o que enriquece a argumentação e evidencia repertório cultural sólido.",
+      "A estrutura do texto é lógica, com encadeamento claro de ideias e boa progressão argumentativa, embora a linguagem seja, por vezes, rebuscada, sem comprometer a compreensão.",
+      "A conclusão é pertinente e reforça a ideia central, sugerindo caminhos para o aperfeiçoamento social e político do Brasil enquanto \"terceira margem\" do Atlântico Sul."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "erro de concordância em \"A questão do colonialismo e do apartheid deixa de ser uma dificuldade no governo Médici, durante o qual as relações são alçadas a um novo patamar.\" (o correto seria \"durante o qual as relações foi alçada\" ou \"durante o qual o relacionamento foi alçado\")"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. O uso das metáforas é pertinente e bem integrado ao argumento. Apenas pequenos ajustes de fluidez poderiam ser feitos, mas a impressão geral é muito positiva.",
+      "1B: O candidato demonstra grande capacidade de argumentação, com objetividade, sistematização e pertinência das informações. O encadeamento lógico é sólido, e as referências históricas e diplomáticas são pertinentes e bem utilizadas para sustentar a tese da “terceira margem”.",
+      "1C: A análise é profunda e reflexiva, indo além da simples descrição das relações Brasil-África. O texto consegue articular passado, presente e futuro, mostrando maturidade analítica ao propor a “terceira margem” como síntese das relações globais.",
+      "Correção gramatical: O texto é, em geral, muito bem escrito, mas há um pequeno erro de concordância verbal que deve ser corrigido. Não compromete a compreensão, mas afeta a precisão formal exigida em avaliações de alto nível."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "erro de concordância em 'A projeção em direção ao mundo também se evidencia na significativa convergência entre as propostas brasileira e africana' (deveria ser 'brasileiras e africanas' ou 'a proposta brasileira e a africana')."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. O uso das metáforas é pertinente e o texto flui de maneira elegante e compreensível.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza fatos históricos e exemplos concretos para sustentar sua tese sobre a 'terceira margem' do Atlântico Sul, demonstrando domínio do conteúdo.",
+      "1C: O texto revela capacidade de análise e reflexão ao articular as duas metáforas propostas e ao interpretar o conceito de 'terceira margem' como inserção global conjunta de Brasil e África. A reflexão é original e bem fundamentada.",
+      "Correção gramatical: O texto é, em geral, muito bem escrito, mas há um pequeno erro de concordância nominal que deve ser corrigido para maior precisão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "As relações, ainda assim, alcançaram grande intensidade, principalmente no âmbito do tráfico e do comércio de escravos, mas a exploração do povo e do continente africano era a tônica da interação.",
+      "Formavamse, nesse processo, as bases de uma nova configuração das relações...",
+      "Observa-se, assim, que a expansão da atuação de Brasil e África em direção à “terceira margem” do Atlântico Sul pode ter repercussões importantes sobre as instituições internacionais."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo, com linguagem clara e elegante. A estrutura é bem definida e o encadeamento lógico é fluido. Pequenos ajustes de ritmo poderiam melhorar ainda mais a fluidez, mas o conjunto é muito positivo.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato articula com precisão as metáforas propostas e as aplica ao contexto histórico-diplomático, trazendo exemplos concretos e relevantes. Apenas uma pequena imprecisão na cronologia ou na referência poderia ser ajustada.",
+      "1C: A análise é profunda e reflexiva, demonstrando capacidade de síntese e de interpretação histórica e política. O texto vai além da descrição, propondo uma interpretação original e bem fundamentada da “terceira margem” do Atlântico Sul.",
+      "Correção gramatical: Foram identificados dois erros principais: um de pontuação (“Formavamse” deveria ser “Formavam-se”) e outro de regência (“repercussões importantes sobre as instituições” seria mais adequado como “nas instituições”). O restante do texto está correto e bem redigido.",
+      "Observação: O texto é denso, bem fundamentado e demonstra domínio do tema e da linguagem. Apenas pequenos ajustes formais seriam necessários para atingir a excelência máxima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com clareza e coerência na exposição das ideias, desenvolvendo de forma consistente a metáfora das margens do Atlântico Sul.",
+      "A argumentação é sólida, demonstrando capacidade de reflexão e articulação entre os conceitos propostos.",
+      "A linguagem é adequada ao contexto, com vocabulário preciso e correção gramatical impecável.",
+      "O desenvolvimento histórico das relações Brasil-África é bem utilizado para fundamentar a ideia da “terceira margem”, conferindo profundidade à análise.",
+      "A conclusão é pertinente e reforça a relevância da “terceira margem” como síntese da inserção global conjunta de Brasil e África."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "No passado, as relações entre Brasil e África foram amplamente determinadas por padrões assimétricos relacionados, sobretudo, à escravidão e à colonização. Os primeiros séculos da presença da África no Brasil – associada à primeira margem do “rio chamado Atlântico – foram mediados basicamente pela importação de escravos africanos por parte da América portuguesa.",
+      "O trecho apresenta um erro de pontuação: falta um fechamento das aspas após \"rio chamado Atlântico\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com clareza, coerência e encadeamento lógico das ideias. A argumentação é consistente e demonstra reflexão aprofundada sobre o conceito da \"terceira margem\" do Atlântico Sul.",
+      "A linguagem é adequada ao contexto, com vocabulário preciso e propriedade. O texto é formal, coeso e demonstra domínio da norma culta, com apenas um erro pontual de pontuação.",
+      "A redação explora com pertinência as metáforas propostas e articula de forma sofisticada o contexto histórico, político e diplomático das relações Brasil-África.",
+      "O erro gramatical identificado não compromete a compreensão geral do texto, mas impacta negativamente a nota final, conforme os critérios de avaliação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "No trecho \"Formavamse, nesse processo, as bases...\", falta o hífen em \"Formavam-se\"."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com clareza, coerência e encadeamento lógico das ideias. O candidato soube articular as metáforas propostas e desenvolver uma reflexão aprofundada sobre o tema, demonstrando capacidade argumentativa e domínio do assunto. A linguagem é adequada e formal, com poucos desvios gramaticais. O único erro identificado foi a ausência de hífen em \"Formavam-se\". O texto cumpre plenamente o que foi solicitado no enunciado, com riqueza de exemplos históricos e políticos, além de uma conclusão bem elaborada. Por esses motivos, a nota final é elevada, refletindo a alta qualidade do texto, com pequeno desconto pelo erro gramatical identificado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A despeito da história comum, portanto, as condições do relacionamento e as hesitações recíprocas que elas gerariam impediram que os laços culturais entre esses povos dessem origem a uma interação mutuamente benéfica, o que só seria possível com a mudança de postura do Brasil nos anos 1970."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e sofisticada as metáforas propostas e desenvolvendo uma reflexão original sobre a “terceira margem” do Atlântico Sul.",
+      "A estrutura argumentativa é coesa e bem encadeada, com progressão lógica e exemplos históricos pertinentes que enriquecem a análise.",
+      "A linguagem é adequada ao contexto acadêmico, com vocabulário preciso e poucos deslizes gramaticais. O único erro identificado é uma pequena impropriedade de concordância verbal (“que elas gerariam” deveria ser “que essa realidade geraria” ou “que geravam”), mas não compromete a compreensão.",
+      "O texto demonstra capacidade de reflexão e análise, além de boa articulação entre as ideias, o que justifica a classificação na faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto é bem estruturado, com clareza e encadeamento lógico das ideias, demonstrando boa articulação argumentativa.",
+      "A abordagem do tema é pertinente e original, combinando as metáforas de forma coerente e reflexiva.",
+      "O domínio da norma culta é consistente, sem erros gramaticais detectáveis.",
+      "A argumentação é fundamentada historicamente e demonstra capacidade analítica, embora não alcance o nível de sofisticação teórica exigido para a faixa \"Excelente\".",
+      "O texto evidencia coesão, clareza e reflexão, mas não apresenta originalidade ou estilo tão avançados a ponto de ser considerado \"Excepcional\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto é bem estruturado, com clareza na exposição das ideias e boa articulação argumentativa.",
+      "Há domínio consistente do tema, demonstrando capacidade de reflexão e análise aprofundada das relações entre Brasil e África no contexto do Atlântico Sul.",
+      "A linguagem é adequada, formal e precisa, sem deslizes gramaticais relevantes.",
+      "O encadeamento das ideias é lógico, com transições suaves entre os parágrafos e referências históricas pertinentes.",
+      "A utilização das metáforas dos títulos é pertinente e enriquece a argumentação, conferindo originalidade e profundidade ao texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "um “terceira margem” (erro de concordância de gênero: deveria ser “uma terceira margem”)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com clareza na exposição das ideias e boa legibilidade. A articulação entre as metáforas é feita de modo elegante e pertinente.",
+      "A argumentação é objetiva, bem sistematizada e utiliza exemplos concretos (Cais do Valongo, produção acadêmica, samba, Instituto Guimarães Rosa) que demonstram domínio do tema e pertinência das informações.",
+      "A análise é sofisticada, revelando capacidade de reflexão ao articular conceitos literários, históricos e políticos para construir o sentido da “terceira margem” do Atlântico Sul.",
+      "Há apenas um erro gramatical de concordância de gênero (“um ‘terceira margem’”), o que não compromete a compreensão do texto, mas deve ser corrigido.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e propriedade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em 'a constituição de uma “terceira margem”, no Atlântico Sul', falta vírgula após 'Atlântico Sul' para isolar o adjunto adnominal explicativo, ou a expressão deveria estar entre vírgulas."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência temática, articulando de forma clara e elegante as duas metáforas propostas no enunciado. O estilo é adequado ao gênero dissertativo-argumentativo e a legibilidade é alta.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza exemplos concretos (Cais do Valongo, produção acadêmica, samba, Instituto Guimarães Rosa) para sustentar sua tese, demonstrando domínio do conteúdo.",
+      "A análise é profunda e reflexiva, indo além da simples interpretação das metáforas e relacionando-as com ações concretas de valorização da herança africana no Brasil. O texto demonstra capacidade de síntese e originalidade.",
+      "Há apenas um erro gramatical leve, referente à pontuação, que não compromete a compreensão do texto.",
+      "A redação atende plenamente aos critérios de organização, argumentação e reflexão, sendo um exemplo de texto bem estruturado e fundamentado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em uma “terceira margem” no Atlântico Sul, ao valorizar, por exemplo, a influência negra na alimentação e na fala brasileiras."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A articulação entre as metáforas é clara e o encadeamento lógico é fluido, com linguagem elegante e adequada ao tema. Apenas pequenos ajustes poderiam aprimorar a apresentação.",
+      "1B: O candidato demonstra grande capacidade de argumentação, trazendo exemplos concretos (Cais do Valongo, produção acadêmica, samba, Instituto Guimarães Rosa) e relacionando-os de forma objetiva e pertinente ao conceito de “terceira margem” do Atlântico Sul.",
+      "1C: A análise é profunda e reflexiva, indo além da simples descrição das metáforas. O texto reflete sobre o papel do Estado, da academia e da cultura popular na construção simbólica da “terceira margem”, evidenciando maturidade intelectual.",
+      "Correção gramatical: O texto é, em geral, muito bem escrito. Há apenas um erro de concordância nominal (“uma ‘terceira margem’ no Atlântico Sul, ao valorizar...”), pois o correto seria “a ‘terceira margem’”, já que o termo já foi definido anteriormente. Não há outros erros relevantes de ortografia, pontuação ou regência.",
+      "Observação: O texto atende plenamente ao enunciado, articulando as duas metáforas e discorrendo de forma consistente sobre o tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em termos de produção artística, pode-se pensar em quão representativo da cultura brasileira esse ritmo é. (erro de ordem sintática: o correto seria \"em quão esse ritmo é representativo da cultura brasileira\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, articulando de forma clara e coerente as duas metáforas propostas e aplicando-as ao contexto do Atlântico Sul e da cultura afro-brasileira.",
+      "A argumentação é bem estruturada, com exemplos concretos e referências culturais e institucionais pertinentes, como o Cais do Valongo, o Instituto Guimarães Rosa e obras literárias.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com apenas um pequeno desvio sintático que não compromete a clareza do texto.",
+      "A redação demonstra capacidade de reflexão e originalidade ao propor uma interpretação simbólica para a \"terceira margem\" do Atlântico Sul, alinhada ao enunciado e aos critérios de avaliação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em termos de produção artística, pode-se pensar em quão representativo da cultura brasileira esse ritmo é. (erro de ordem sintática: \"quão representativo esse ritmo é da cultura brasileira\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão sobre o tema, articulando de forma clara e coerente as metáforas propostas. A organização do texto é lógica e o encadeamento das ideias é consistente, com exemplos pertinentes e bem integrados ao raciocínio. A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário. Houve apenas um pequeno desvio sintático, que não compromete a compreensão geral. O texto cumpre plenamente o proposto no enunciado, com profundidade e originalidade na abordagem do conceito de \"terceira margem\" do Atlântico Sul."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "um “terceira margem” (artigo indefinido “um” incompatível com substantivo feminino “terceira”)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, articulando de forma clara e coerente as metáforas propostas e exemplificando com fatos históricos, culturais e políticos pertinentes ao tema.",
+      "A linguagem é adequada, com boa propriedade vocabular e encadeamento lógico das ideias.",
+      "Há apenas um erro gramatical leve (concordância de gênero), que não compromete a compreensão global do texto.",
+      "A argumentação é sólida, com referências culturais e institucionais que enriquecem a reflexão sobre a “terceira margem” do Atlântico Sul.",
+      "O texto atende plenamente ao enunciado, demonstrando capacidade de reflexão e originalidade na abordagem do tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em 'a academia brasileira tem contribuído para a construção simbólica de um “terceira margem”', o artigo indefinido deveria ser 'uma', e não 'um'."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre as duas metáforas propostas, desenvolvendo de forma clara e coerente o conceito de “‘terceira margem’ do Atlântico Sul”.",
+      "A argumentação é bem estruturada, com exemplos concretos (Cais do Valongo, samba, Instituto Guimarães Rosa) que enriquecem a reflexão e demonstram domínio do tema.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais e boa coesão textual.",
+      "O texto evidencia reflexão crítica e capacidade de relacionar referências literárias, históricas e políticas, o que demonstra maturidade intelectual.",
+      "O único erro gramatical identificado é pontual e não compromete a clareza ou a qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em 'a academia brasileira tem contribuído para a construção simbólica de um “terceira margem”', o artigo indefinido deveria ser 'uma', e não 'um'."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre as duas metáforas propostas, desenvolvendo o tema de forma clara, coesa e com reflexão aprofundada.",
+      "A argumentação é bem estruturada, com exemplos concretos e pertinentes (Cais do Valongo, produção acadêmica, samba, Instituto Guimarães Rosa), o que demonstra domínio do tema e da linguagem.",
+      "A linguagem é adequada ao contexto, com poucos deslizes gramaticais e boa fluidez textual.",
+      "O texto evidencia reflexão crítica e capacidade de relacionar referências literárias, históricas e políticas, o que é compatível com a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em termos de produção artística, pode-se pensar em quão representativo da cultura brasileira esse ritmo é."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre as duas metáforas propostas, desenvolvendo de forma clara e coerente o conceito de \"terceira margem\" do Atlântico Sul.",
+      "A argumentação é consistente, com exemplos concretos e pertinentes (Cais do Valongo, produção acadêmica, samba, Instituto Guimarães Rosa), demonstrando reflexão e domínio do tema.",
+      "A linguagem é adequada, formal e precisa, com poucos deslizes gramaticais.",
+      "O único erro gramatical identificado é uma inversão sintática pouco natural: \"pode-se pensar em quão representativo da cultura brasileira esse ritmo é\"; seria mais fluido \"pode-se pensar em quão esse ritmo é representativo da cultura brasileira\".",
+      "O texto demonstra coesão, clareza e capacidade de reflexão, mas não atinge o nível de originalidade e sofisticação argumentativa que caracterizaria uma redação \"Excelente\" ou \"Excepcional\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2019"
+  }
+]

@@ -1,0 +1,1855 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "discurso  indireto livre",
+      "O correto seria: discurso indireto livre (sem espaço duplo)."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em Apresentação e Impressão Geral (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências a autores e conceitos relevantes, o que justifica nota alta em Capacidade de Argumentação (1B).",
+      "A análise é sofisticada, demonstrando reflexão crítica sobre o conceito de tolerância e suas limitações, com articulação entre diferentes esferas (interpessoal, religiosa e estatal), o que justifica nota alta em Capacidade de Análise e Reflexão (1C).",
+      "Há apenas um erro gramatical identificável: espaço duplo entre palavras (“discurso  indireto livre”). Não há outros desvios relevantes de concordância, pontuação ou regência.",
+      "O texto demonstra domínio da norma culta, mas a pequena falha tipográfica justifica a dedução mínima na avaliação de correção gramatical."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências culturais e teóricas adequadas (1B).",
+      "A análise é sofisticada, demonstrando reflexão crítica sobre o conceito de tolerância e sua insuficiência, conforme proposto por Saramago (1C).",
+      "Não foram identificados erros gramaticais no texto, que se mostra correto em ortografia, concordância, pontuação e regência.",
+      "O texto dialoga de forma consistente com o enunciado, explorando as relações interpessoais, religiosas e interestatais, e defende claramente a posição de Saramago.",
+      "A redação utiliza referências literárias e teóricas (Clarice Lispector, Erving Goffman, Marcel Mauss, Araújo Castro) de modo pertinente e integrado ao argumento central.",
+      "A conclusão reforça o posicionamento do autor do texto em relação à insuficiência da tolerância e à necessidade de promoção ativa da integração e igualdade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo elegante e legibilidade, com estrutura clara e progressão lógica, justificando nota alta em Apresentação e Impressão Geral (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências teóricas e literárias apropriadas, embora pudesse explorar mais exemplos históricos concretos, o que justifica nota ligeiramente inferior em Capacidade de Argumentação (1B).",
+      "A análise é sofisticada, revelando reflexão crítica sobre o conceito de tolerância e sua insuficiência, com articulação entre diferentes níveis (interpessoal, religioso, internacional), o que justifica nota elevada em Capacidade de Análise e Reflexão (1C).",
+      "Não foram identificados erros gramaticais. O texto é correto quanto à ortografia, concordância, pontuação e regência.",
+      "A redação demonstra domínio do tema, originalidade e profundidade, alinhando-se ao padrão esperado para o CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente domínio da norma culta, com linguagem precisa e sofisticada, além de clareza e coerência na argumentação.",
+      "O texto demonstra capacidade de reflexão crítica e originalidade ao dialogar com autores e conceitos pertinentes ao tema.",
+      "A estrutura do texto é bem organizada, com encadeamento lógico das ideias e desenvolvimento consistente do tema proposto.",
+      "A abordagem contempla adequadamente as relações interpessoais, religiosas e entre Estados, conforme solicitado pelo enunciado.",
+      "Não foram identificados erros gramaticais relevantes que comprometessem a qualidade do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente domínio do tema, com argumentação sofisticada e clara, articulando referências filosóficas, literárias e diplomáticas de forma coesa e pertinente.",
+      "O texto demonstra organização exemplar, com encadeamento lógico das ideias e progressão argumentativa consistente, indo do plano interpessoal ao internacional.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, sem erros gramaticais detectáveis.",
+      "A reflexão crítica sobre a tolerância, em diálogo com Saramago, Clarice Lispector, Erving Goffman e Marcel Mauss, enriquece a análise e evidencia maturidade intelectual.",
+      "A conclusão sintetiza de forma eficaz o posicionamento do autor, alinhando-o ao ideal de integração e igualdade defendido pelo escritor português.",
+      "A redação atende plenamente aos critérios de coerência, clareza, profundidade argumentativa e correção linguística, justificando nota elevada, mas não máxima, por pequenas margens de aprimoramento na densidade das conexões entre os exemplos e o argumento central."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com encadeamento lógico e coerente das ideias.",
+      "O desenvolvimento do tema é profundo, com argumentação sofisticada e referências culturais e teóricas pertinentes.",
+      "A linguagem é precisa, formal e adequada ao contexto dissertativo-argumentativo.",
+      "Não foram identificados erros gramaticais significativos.",
+      "A reflexão sobre o conceito de tolerância é original e bem fundamentada, demonstrando capacidade crítica e analítica.",
+      "A conclusão articula de forma consistente as diferentes dimensões do tema (interpessoal, religiosa e estatal), em sintonia com a proposta de Saramago."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma sofisticada a reflexão de Saramago com referências filosóficas, literárias e diplomáticas.",
+      "A argumentação é sólida, original e demonstra capacidade analítica avançada, especialmente ao explorar o par antitético tolerar-promover.",
+      "A linguagem é precisa, rica e adequada ao contexto acadêmico, com uso apropriado de vocabulário técnico e citações pertinentes.",
+      "O encadeamento lógico das ideias é claro e coeso, com transições bem construídas entre os diferentes níveis de análise (interpessoal, religioso e internacional).",
+      "O texto evidencia reflexão crítica e maturidade intelectual, indo além da simples exposição para propor uma síntese original sobre o tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com encadeamento lógico e coerente das ideias, demonstrando domínio do tema e capacidade de argumentação sofisticada.",
+      "A linguagem é precisa, formal e adequada ao contexto dissertativo, com vocabulário rico e ausência de erros gramaticais.",
+      "O candidato articula referências teóricas e literárias pertinentes (Saramago, Clarice Lispector, Erving Goffman, Marcel Mauss, Araújo Castro), enriquecendo a reflexão e evidenciando profundidade analítica.",
+      "A argumentação é original e demonstra reflexão crítica sobre o conceito de tolerância, indo além do senso comum e explorando nuances nas relações interpessoais, religiosas e internacionais.",
+      "O texto mantém clareza e coesão ao longo de todos os parágrafos, com transições suaves e conclusão integradora."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma sofisticada a reflexão de Saramago com exemplos literários, sociológicos e diplomáticos.",
+      "A argumentação é sólida, original e demonstra maturidade analítica, especialmente ao discutir a diferença entre tolerar e promover a alteridade.",
+      "A linguagem é precisa, rica e adequada ao contexto acadêmico, com uso pertinente de referências teóricas e literárias.",
+      "O encadeamento das ideias é lógico e coeso, com transições claras entre os diferentes níveis de análise (interpessoal, religioso e internacional).",
+      "Não foram identificados erros gramaticais relevantes; a norma culta é observada com rigor.",
+      "O texto evidencia reflexão crítica e capacidade de síntese, indo além da mera exposição do enunciado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "formação da não brasileira (erro de digitação ou de construção: o correto seria 'formação da sociedade brasileira' ou 'formação nacional brasileira')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e referências teóricas adequadas (1B).",
+      "A análise é aprofundada, demonstrando reflexão crítica sobre o conceito de tolerância e suas limitações, dialogando com Saramago, Rawls e Barroso (1C).",
+      "Há apenas um erro gramatical identificável, referente à construção textual no trecho sobre a formação da sociedade brasileira.",
+      "O texto atende plenamente aos critérios de correção gramatical e propriedade da linguagem, com vocabulário formal e adequado ao gênero dissertativo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "formação da não brasileira (correto: formação da sociedade brasileira ou da cultura brasileira)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, utilizando exemplos históricos e referências teóricas adequadas (Saramago, Rawls, Barroso).",
+      "A análise é profunda e reflete criticamente sobre o conceito de tolerância, indo além da superficialidade e abordando a necessidade de igualdade material e reconhecimento.",
+      "Há um erro gramatical pontual de concordância/semântica (“formação da não brasileira”), que não compromete a compreensão geral do texto.",
+      "A linguagem é formal, apropriada e demonstra domínio do vocabulário técnico e filosófico."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "formação da não brasileira"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, utilizando exemplos históricos e referências teóricas adequadas (Saramago, Rawls, Barroso).",
+      "A análise é profunda e reflexiva, demonstrando compreensão crítica do conceito de tolerância e sua insuficiência diante da necessidade de igualdade material e reconhecimento.",
+      "Há um erro gramatical pontual: a expressão 'formação da não brasileira' está incorreta, provavelmente deveria ser 'formação da sociedade brasileira' ou similar.",
+      "A linguagem é correta e apropriada, mas o erro citado deve ser corrigido para evitar prejuízo à clareza."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "no trecho \"para a formação da não brasileira\", o termo \"não\" parece ser um erro de digitação ou de concordância, pois o correto seria \"formação da cultura brasileira\" ou similar, tornando a frase incoerente como está."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, dialogando de forma sofisticada com o enunciado e autores relevantes (Saramago, Rawls, Barroso).",
+      "A argumentação é consistente, crítica e bem fundamentada, demonstrando reflexão aprofundada sobre o tema da tolerância e suas limitações.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário jurídico e filosófico.",
+      "Há apenas um erro gramatical relevante, que afeta a clareza de uma frase, mas não compromete o entendimento global do texto.",
+      "O texto atende plenamente aos critérios de coerência, clareza, argumentação e correção gramatical, com pequena ressalva pontual."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "\"formação da não brasileira\" (provável erro de digitação ou concordância, o correto seria \"formação da sociedade brasileira\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sólida e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário jurídico e filosófico.",
+      "Há apenas um erro gramatical pontual, que não compromete a compreensão global do texto.",
+      "A redação dialoga de forma consistente com o enunciado e com referências teóricas pertinentes, como Saramago, Rawls e decisões judiciais.",
+      "O texto demonstra capacidade de análise crítica, ao concordar parcialmente com Saramago e propor a necessidade de ir além da tolerância, incluindo igualdade material e reconhecimento.",
+      "A conclusão é coerente e reforça a tese central de que a tolerância, por si só, é insuficiente para garantir justiça social e igualdade real entre os cidadãos."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "e da sua potencialidade (uso do artigo \"a\" antes de \"sua\" seria mais adequado: \"e à sua potencialidade\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sólida e reflexão aprofundada sobre o tema proposto.",
+      "A redação demonstra domínio do vocabulário formal e adequado ao contexto acadêmico, além de referências pertinentes a autores e episódios históricos.",
+      "Há apenas um pequeno desvio gramatical de regência, que não compromete a compreensão nem a qualidade geral do texto.",
+      "A conclusão dialoga de forma consistente com a tese de Saramago, mostrando concordância fundamentada e propondo caminhos para além da mera tolerância.",
+      "O texto atende plenamente aos critérios de coerência, clareza, argumentação e correção linguística, justificando uma nota elevada, mas não máxima devido ao pequeno erro gramatical identificado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "formação da não brasileira (correto: formação da sociedade brasileira)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza, com encadeamento lógico das ideias e argumentação consistente sobre o tema da tolerância, dialogando de forma pertinente com Saramago, John Rawls e referências institucionais.",
+      "Há reflexão aprofundada sobre a insuficiência da tolerância e a necessidade de igualdade material e reconhecimento, demonstrando domínio temático e linguístico.",
+      "O texto evidencia coesão, vocabulário adequado e poucos deslizes gramaticais, sendo apenas um erro identificado.",
+      "A argumentação é sólida, com exemplos históricos e contemporâneos, e o posicionamento do autor é claro e bem fundamentado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "formação da não brasileira (correto seria: formação da sociedade brasileira ou formação nacional brasileira; o uso de \"não\" parece ser um erro de digitação ou de construção)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura argumentativa, com clareza e encadeamento lógico das ideias, demonstrando compreensão profunda do tema e capacidade de reflexão crítica.",
+      "A redação faz uso pertinente de referências teóricas (Saramago, Rawls, Barroso) e exemplos históricos, o que enriquece a argumentação e evidencia repertório cultural.",
+      "A linguagem é formal, adequada ao contexto acadêmico e ao tema, com poucos deslizes gramaticais.",
+      "O único erro gramatical identificado é uma construção confusa no trecho \"formação da não brasileira\", que prejudica momentaneamente a clareza.",
+      "O texto demonstra reflexão madura sobre a insuficiência da tolerância e a necessidade de igualdade material e reconhecimento, alinhando-se ao enunciado e aos critérios do concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "formação da não brasileira (provavelmente deveria ser \"formação da sociedade brasileira\" ou \"cultura brasileira\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com encadeamento lógico das ideias e argumentação consistente, dialogando de forma pertinente com Saramago, John Rawls e referências institucionais.",
+      "Há clareza na exposição dos argumentos e boa articulação entre os diferentes níveis de análise (individual, social, institucional).",
+      "O domínio da norma culta é elevado, com apenas um deslize pontual de redação.",
+      "A reflexão sobre tolerância vai além do senso comum, abordando a necessidade de igualdade material e reconhecimento, o que demonstra profundidade analítica.",
+      "O texto evidencia coesão, vocabulário adequado e capacidade de síntese, sendo apenas um pequeno erro de redação impede a classificação na faixa máxima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "iminentemente",
+      "O correto seria 'eminente' ou 'inerente ao conflito'; 'iminentemente' não se aplica ao contexto."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes de estilo poderiam aprimorar ainda mais a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e utiliza referências pertinentes (Saramago, Zizek, Viveiros de Castro, Oswald de Andrade, Get Out), demonstrando domínio do tema e capacidade de articulação teórica.",
+      "A análise é sofisticada, revelando reflexão crítica sobre o conceito de tolerância e suas implicações filosóficas, políticas e culturais. O candidato demonstra capacidade de problematizar o tema de modo original e profundo.",
+      "Há apenas um erro gramatical identificado: uso inadequado do advérbio 'iminentemente', que compromete minimamente a correção linguística.",
+      "A linguagem é formal, precisa e adequada ao gênero dissertativo, com pouquíssimas impropriedades."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "imeninentemente"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos deslizes de digitação ou ortografia, como 'imeninentemente' (correto: iminentemente), afetam a apresentação.",
+      "A argumentação é sólida, original e bem fundamentada, com referências pertinentes a Saramago, Zizek, Viveiros de Castro e Oswald de Andrade. Os exemplos são relevantes e contribuem para a profundidade do debate.",
+      "A análise é sofisticada, demonstrando capacidade de reflexão crítica sobre o conceito de tolerância e suas implicações filosóficas, políticas e culturais. O candidato dialoga de forma madura com o enunciado e com autores diversos.",
+      "O erro gramatical identificado é de natureza ortográfica e não compromete a compreensão do texto, mas revela atenção insuficiente à revisão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "imeninente"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos deslizes de digitação ou ortografia, como 'imeninente' (correto: 'iminente'), comprometem minimamente a apresentação.",
+      "A argumentação é sólida, original e bem fundamentada, com referências pertinentes a Saramago, Zizek, Viveiros de Castro e Oswald de Andrade. Os exemplos são relevantes e contribuem para a profundidade do debate.",
+      "A análise é sofisticada, demonstrando capacidade de reflexão crítica sobre o conceito de tolerância e suas implicações filosóficas, políticas e culturais. O candidato dialoga com diferentes tradições intelectuais e articula bem o tema proposto.",
+      "Há apenas um erro gramatical identificado: 'imeninente' em vez de 'iminente'. Não há outros problemas graves de concordância, pontuação ou regência."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "eminentemente (correto: iminentemente)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação, com referências filosóficas e culturais pertinentes ao tema, demonstrando reflexão aprofundada e originalidade.",
+      "A organização do texto é clara e coerente, com encadeamento lógico das ideias e boa articulação entre os exemplos citados.",
+      "Há apenas um erro gramatical de ortografia (“eminentemente” em vez de “iminente”), o que não compromete a compreensão, mas deve ser corrigido.",
+      "A linguagem é adequada ao contexto acadêmico e o vocabulário é preciso e variado.",
+      "O candidato soube posicionar-se diante da reflexão de Saramago, desenvolvendo argumentos consistentes e bem fundamentados.",
+      "A redação atende plenamente ao tema proposto e aos critérios de avaliação do concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "iminentemente (correto: eminentemente)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação, com referências filosóficas, antropológicas e culturais pertinentes ao tema, demonstrando reflexão aprofundada e originalidade.",
+      "A organização do texto é clara e coerente, com encadeamento lógico das ideias e boa articulação entre os exemplos citados.",
+      "Há apenas um erro gramatical pontual (\"iminentemente\" em vez de \"eminentemente\"), que não compromete a compreensão nem a qualidade geral do texto.",
+      "A linguagem é adequada ao contexto acadêmico e ao tema proposto, com vocabulário preciso e estilo formal.",
+      "O candidato soube posicionar-se criticamente em relação à citação de Saramago, desenvolvendo argumentos consistentes e bem fundamentados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "eminentemente (correto: iminentemente)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação, com referências filosóficas e culturais pertinentes ao tema, demonstrando reflexão aprofundada e originalidade.",
+      "A organização do texto é clara, com encadeamento lógico das ideias e coerência temática, respeitando o enunciado proposto.",
+      "Há apenas um erro gramatical pontual (\"eminentemente\" em vez de \"iminente\"), o que não compromete a clareza nem a correção geral do texto.",
+      "A linguagem é adequada ao contexto acadêmico e formal do concurso, com vocabulário preciso e propriedade discursiva.",
+      "O candidato soube articular diferentes autores e exemplos culturais para sustentar sua posição, evidenciando domínio do tema e capacidade crítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente articulação argumentativa, com referências teóricas e culturais pertinentes (Saramago, Zizek, Viveiros de Castro, Oswald de Andrade, filme Get Out), demonstrando domínio temático e capacidade de reflexão crítica.",
+      "A estrutura do texto é lógica e coesa, com encadeamento claro das ideias e desenvolvimento aprofundado do tema proposto.",
+      "A linguagem é precisa, formal e adequada ao contexto acadêmico, sem desvios gramaticais ou problemas de clareza.",
+      "O candidato demonstra originalidade ao relacionar o conceito de tolerância com experiências históricas, antropológicas e artísticas, enriquecendo a argumentação e evidenciando maturidade intelectual.",
+      "A redação responde diretamente ao enunciado, posicionando-se de forma clara e fundamentada em relação à reflexão de Saramago."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma argumentação sofisticada e bem fundamentada, dialogando com autores relevantes (Saramago, Zizek, Viveiros de Castro, Oswald de Andrade) e utilizando exemplos culturais (filme Get Out, movimento antropofágico) para enriquecer a reflexão.",
+      "Há clareza e coerência na exposição das ideias, com encadeamento lógico e capacidade de análise crítica sobre o tema da tolerância, indo além do senso comum e explorando nuances filosóficas e antropológicas.",
+      "A linguagem é precisa, formal e adequada ao contexto acadêmico, sem erros gramaticais ou desvios de norma culta.",
+      "O texto demonstra originalidade ao propor uma leitura aprofundada da citação de Saramago, articulando diferentes campos do saber para sustentar uma posição clara e bem-defendida.",
+      "A estrutura é coesa, com introdução, desenvolvimento e conclusão bem delimitados, e o uso de referências teóricas e culturais confere densidade e profundidade à argumentação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com encadeamento lógico e coerente das ideias, demonstrando domínio do tema e capacidade de reflexão crítica.",
+      "A argumentação é sofisticada, articulando referências filosóficas, antropológicas e culturais de maneira pertinente e original.",
+      "A linguagem é precisa, formal e adequada ao contexto dissertativo, sem deslizes gramaticais ou problemas de clareza.",
+      "O candidato demonstra maturidade intelectual ao explorar nuances do conceito de tolerância, indo além do senso comum e dialogando com autores relevantes.",
+      "A redação evidencia originalidade, profundidade analítica e clareza expositiva, características típicas de um texto de alto nível."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ainda que, idealmente, fosse desejável que pessoas de diferentes convicções e opiniões políticas não apenas aceitassem suas divergências, como também interagissem em harmonia...",
+      "em harmonia",
+      "deveria ser precedido de crase: “em harmonia” → “à harmonia” (embora o uso sem crase seja aceitável em linguagem corrente, em texto formal pode ser considerado impropriedade de regência).",
+      "A tolerância foi instituída, nas relações entre Estados, por meio da Paz de Vestfália, no século XVII.",
+      "A vírgula após “instituída” é desnecessária e prejudica a fluidez sintática."
+    ],
+    "feedbacks": [
+      "1A – O texto apresenta boa coerência e legibilidade, com estilo formal e adequado ao tema. Algumas frases longas poderiam ser mais bem estruturadas para maior clareza, mas a impressão geral é positiva.",
+      "1B – O candidato demonstra boa capacidade de argumentação, trazendo exemplos históricos e contemporâneos pertinentes (refugiados, redes sociais, Paz de Vestfália, ONU, Trump). No entanto, alguns argumentos poderiam ser mais sistematizados e aprofundados.",
+      "1C – A análise é reflexiva e demonstra compreensão do tema, mas há momentos em que a reflexão se aproxima do senso comum, sem explorar nuances mais profundas da crítica de Saramago.",
+      "Correção gramatical – O texto apresenta poucos erros, mas há pequenas impropriedades de regência e pontuação que afetam a precisão formal.",
+      "Propriedade da linguagem – O vocabulário é adequado e formal, mas há espaço para maior precisão terminológica em alguns trechos."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ainda que, idealmente, fosse desejável que pessoas de diferentes convicções e opiniões políticas não apenas aceitassem suas divergências, como também interagissem em harmonia...",
+      "em harmonia",
+      "deveria estar precedido de crase: 'em harmonia' -> 'em harmonia' (não há erro, mas há imprecisão estilística quanto à regência).",
+      "A tolerância foi instituída, nas relações entre Estados, por meio da Paz de Vestfália, no século XVII.",
+      "A vírgula após 'instituída' é desnecessária e prejudica a fluidez sintática."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência e legibilidade, com estilo formal e adequado ao tema. No entanto, há pequenas imprecisões estilísticas e de pontuação que afetam a fluidez.",
+      "A argumentação é pertinente e bem sistematizada, trazendo exemplos históricos e contemporâneos. Porém, alguns argumentos poderiam ser mais aprofundados, especialmente no que diz respeito à relação entre tolerância e contrato social.",
+      "A análise demonstra capacidade de reflexão, mas poderia explorar de forma mais crítica o contraponto ao idealismo de Saramago, especialmente ao discutir alternativas à tolerância.",
+      "Foram identificados dois erros gramaticais: uso inadequado de vírgula e imprecisão estilística quanto à regência. Ambos não comprometem a compreensão, mas afetam a correção formal."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em 'interajam em harmonia', o correto seria 'interajam harmoniosamente' ou 'interajam de forma harmoniosa', pois a regência do verbo 'interagir' exige preposição ou advérbio para indicar modo."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com introdução clara, desenvolvimento consistente e conclusão que retoma o tema central. O estilo é formal e adequado ao gênero dissertativo, mas há pequenas imprecisões de regência que afetam a fluidez.",
+      "A argumentação é pertinente e bem fundamentada, com exemplos históricos e contemporâneos que ilustram o tema. No entanto, alguns argumentos poderiam ser mais aprofundados, especialmente no que diz respeito à relação entre tolerância e contrato social.",
+      "A análise demonstra capacidade de reflexão crítica sobre o conceito de tolerância, contrapondo o ideal de Saramago à realidade contemporânea. O texto evidencia compreensão das limitações práticas da tolerância, mas poderia explorar mais as nuances do conceito de igualdade nas relações sociais.",
+      "O erro gramatical identificado é de regência verbal, mas não compromete a compreensão geral do texto. A linguagem é, em sua maioria, correta e adequada ao contexto acadêmico."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ainda que, idealmente, fosse desejável que pessoas de diferentes convicções e opiniões políticas não apenas aceitassem suas divergências, como também interagissem em harmonia, o simples reconhecimento da existência da alteridade pode constituir objetivo ambicioso. (Falta de vírgula após \"políticas\")",
+      "A tolerância, que consiste em mera coexistência passiva, constitui, portanto, elemento primordial do Contrato Social. (Uso indevido de maiúscula em \"Contrato Social\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, com argumentação clara, coerente e bem encadeada, abordando diferentes dimensões do conceito de tolerância (interpessoal, religiosa e interestatal).",
+      "A linguagem é formal, adequada ao contexto acadêmico e demonstra domínio do vocabulário específico, embora apresente pequenos deslizes gramaticais pontuais.",
+      "A reflexão sobre a posição de José Saramago é bem fundamentada e demonstra capacidade crítica, ao mesmo tempo em que reconhece as limitações práticas da tolerância no mundo contemporâneo.",
+      "A redação cumpre integralmente o comando do enunciado, apresentando posicionamento claro e argumentos consistentes, com referências históricas e teóricas pertinentes.",
+      "Os erros gramaticais identificados são poucos e não comprometem a compreensão global do texto, mas impactam negativamente a nota final dentro dos critérios do concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente domínio da norma culta da língua portuguesa, sem erros gramaticais detectáveis.",
+      "O texto demonstra clareza, coerência e encadeamento lógico das ideias, com argumentação bem estruturada e reflexão aprofundada sobre o tema proposto.",
+      "O candidato soube mobilizar referências históricas, filosóficas e contemporâneas de forma pertinente, enriquecendo a argumentação.",
+      "A abordagem do tema é equilibrada, reconhecendo a complexidade da tolerância nas relações interpessoais, religiosas e interestatais, e dialogando criticamente com a posição de José Saramago.",
+      "A linguagem é adequada ao contexto acadêmico e ao gênero dissertativo, com vocabulário preciso e frases bem construídas.",
+      "A conclusão é consistente e reforça a tese de que a tolerância, ainda que insuficiente em termos ideais, é etapa indispensável para a convivência social e política.",
+      "Por esses motivos, a redação atende plenamente aos critérios de avaliação e merece nota elevada, próxima do máximo permitido."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com encadeamento lógico e coerente das ideias, abordando o tema proposto de forma clara e aprofundada.",
+      "A argumentação é sólida, com exemplos históricos, políticos e sociais pertinentes, demonstrando reflexão crítica sobre a posição de José Saramago.",
+      "A linguagem é adequada ao contexto formal exigido pelo concurso, com vocabulário preciso e correção gramatical impecável.",
+      "O candidato soube articular diferentes dimensões do conceito de tolerância (interpessoal, religiosa e interestatal), enriquecendo a análise.",
+      "A conclusão é bem fundamentada, reconhecendo a importância da tolerância como etapa necessária para relações mais harmônicas, mesmo diante de suas limitações apontadas por Saramago."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta, sem erros gramaticais detectáveis.",
+      "A argumentação é clara, bem estruturada e demonstra capacidade de reflexão sobre o tema proposto, abordando diferentes dimensões (interpessoal, religiosa e interestatal).",
+      "Há boa articulação entre as ideias, com referências históricas e teóricas pertinentes (Paz de Vestfália, Edward Said, Contrato Social).",
+      "O candidato posiciona-se de forma equilibrada diante da citação de Saramago, reconhecendo o idealismo do autor, mas ponderando sobre as limitações práticas da tolerância no mundo contemporâneo.",
+      "O texto é coeso, com encadeamento lógico e linguagem adequada ao contexto acadêmico e diplomático.",
+      "Apesar de não apresentar originalidade ou sofisticação excepcional, o texto é profundo e demonstra reflexão madura, justificando a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "uso de vírgula facultativa ou ausente antes de \"tal como entendida por Saramago\" (poderia ser precedida de vírgula para maior clareza, mas não constitui erro grave)"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura lógica clara, com encadeamento coerente das ideias e boa articulação entre os diferentes níveis de análise (interpessoal, religioso e interestatal).",
+      "A argumentação é consistente e demonstra reflexão sobre o tema, contrapondo o ideal de Saramago às limitações práticas contemporâneas.",
+      "O vocabulário é adequado e formal, com referências teóricas pertinentes (Paz de Vestfália, Edward Said, Contrato Social).",
+      "Há poucos deslizes gramaticais, sendo o principal deles uma questão de pontuação que não compromete a clareza do texto.",
+      "O texto evidencia domínio temático e linguístico, com capacidade de análise e argumentação, mas não atinge o nível de originalidade e sofisticação que caracterizaria a faixa Excepcional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ainda que, idealmente, fosse desejável que pessoas de diferentes convicções e opiniões políticas não apenas aceitassem suas divergências, como também interagissem em harmonia...",
+      "O correto seria: “interagissem com harmonia” ou “interagissem harmoniosamente”; o uso de “em harmonia” pode ser considerado um desvio de regência, embora seja tolerado em linguagem menos formal."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara, com encadeamento lógico das ideias e boa articulação entre os diferentes níveis de análise (interpessoal, religioso, interestatal).",
+      "A argumentação é consistente e demonstra reflexão sobre o tema, contrapondo o ideal de Saramago às limitações práticas da tolerância.",
+      "O vocabulário é adequado e há referências pertinentes (Paz de Vestfália, Edward Said, ONU), o que enriquece a discussão.",
+      "Há poucos deslizes gramaticais, sendo o principal um problema de regência (“interagissem em harmonia”).",
+      "O texto demonstra domínio temático e linguístico, com coesão e clareza, mas sem atingir o nível de sofisticação e originalidade que caracterizaria uma redação excepcional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com coerência e legibilidade notáveis. O estilo é formal e adequado ao tema, demonstrando domínio da linguagem dissertativa.",
+      "A argumentação é clara, objetiva e bem sistematizada. O candidato utiliza referências filosóficas pertinentes (Hobbes, Maquiavel, Kant) para enriquecer o debate e sustentar sua posição.",
+      "A capacidade de análise e reflexão é evidente, pois o texto não apenas expõe ideias, mas as confronta, pondera e contextualiza historicamente, mostrando profundidade crítica.",
+      "Não foram identificados erros gramaticais. O uso de pontuação, concordância e regência está correto e apropriado.",
+      "O texto responde diretamente ao enunciado, posicionando-se de forma clara em relação à citação de Saramago, sem fugir do tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, legibilidade e estilo, com estrutura clara e progressão lógica, o que justifica a alta pontuação em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, mobilizando referências filosóficas e históricas adequadas, o que justifica a alta pontuação em 1B.",
+      "A análise é profunda e reflete criticamente sobre a ideia de tolerância, ponderando diferentes perspectivas teóricas e a realidade contemporânea, o que justifica a alta pontuação em 1C.",
+      "Não foram identificados erros gramaticais no texto, que demonstra domínio da norma culta da língua portuguesa.",
+      "O texto responde de forma consistente ao enunciado, posicionando-se de maneira clara e fundamentada em relação à reflexão de José Saramago."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, legibilidade e estilo, com estrutura clara e progressão lógica dos argumentos. A linguagem é formal, precisa e adequada ao tema, o que justifica uma nota alta em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza referências filosóficas e históricas relevantes (Hobbes, Maquiavel, Kant) para sustentar sua posição, demonstrando domínio do conteúdo e capacidade de articulação, o que justifica nota elevada em 1B.",
+      "A análise é profunda e reflete criticamente sobre a ideia de Saramago, ponderando diferentes perspectivas e propondo uma solução intermediária. O texto demonstra maturidade intelectual e capacidade de reflexão, o que justifica nota alta em 1C.",
+      "Não foram identificados erros gramaticais no texto. A linguagem é correta e apropriada ao gênero dissertativo-argumentativo exigido pelo concurso.",
+      "O texto responde diretamente ao enunciado, posiciona-se de forma clara em relação à citação de Saramago e fundamenta sua posição com argumentos consistentes e bem organizados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com argumentação clara, coerente e bem encadeada. O candidato demonstra capacidade de reflexão crítica sobre o tema, dialogando com diferentes autores e perspectivas filosóficas, o que enriquece o texto. A linguagem é formal, precisa e adequada ao contexto dissertativo. Não foram identificados erros gramaticais. O texto responde de forma pertinente ao enunciado, posicionando-se de maneira equilibrada em relação à citação de Saramago. A nota reflete a alta qualidade do texto, mas considera que poderia haver maior aprofundamento em alguns pontos e uma conclusão ainda mais original para atingir a nota máxima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com argumentação clara, coerente e bem encadeada.",
+      "A linguagem é apropriada, formal e correta, sem erros gramaticais detectáveis.",
+      "O candidato demonstra capacidade de reflexão crítica ao dialogar com diferentes autores e perspectivas filosóficas, relacionando-as ao tema da tolerância.",
+      "A redação responde adequadamente ao enunciado, posicionando-se de forma equilibrada em relação à citação de Saramago.",
+      "A conclusão é consistente e reforça a necessidade da tolerância no contexto contemporâneo, sem ignorar suas limitações filosóficas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com argumentação clara, coerente e bem encadeada. O candidato demonstra capacidade de reflexão crítica ao dialogar com diferentes autores e perspectivas filosóficas, relacionando-as ao tema da tolerância. A linguagem é formal, precisa e adequada ao contexto dissertativo. Não foram identificados erros gramaticais. O texto responde de forma pertinente ao enunciado, posicionando-se de maneira equilibrada em relação à citação de Saramago, o que evidencia maturidade intelectual e domínio do tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com introdução clara, desenvolvimento lógico e conclusão bem fundamentada.",
+      "A argumentação é consistente, demonstrando capacidade de reflexão crítica sobre o tema e mobilizando referências filosóficas pertinentes (Hobbes, Maquiavel, Kant).",
+      "A linguagem é adequada, formal e precisa, com domínio da norma culta e ausência de erros gramaticais.",
+      "O texto responde diretamente ao enunciado, posicionando-se de forma clara e equilibrada diante da reflexão de Saramago.",
+      "A articulação entre os parágrafos é coesa e favorece a progressão temática, evidenciando maturidade analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta, sem erros gramaticais detectáveis.",
+      "A argumentação é clara, bem estruturada e demonstra capacidade de reflexão sobre o tema, articulando referências filosóficas e políticas pertinentes.",
+      "Há coerência e encadeamento lógico entre as ideias, com desenvolvimento equilibrado entre diferentes perspectivas (Hobbes, Maquiavel, Kant) e uma conclusão ponderada.",
+      "A linguagem é adequada ao contexto dissertativo e demonstra maturidade intelectual, com vocabulário rico e preciso.",
+      "O texto responde diretamente ao enunciado, posicionando-se de forma clara em relação à reflexão de Saramago, sem fugir do tema.",
+      "Apesar de não atingir o nível de originalidade e sofisticação argumentativa de um texto excepcional, é muito bem elaborado e demonstra reflexão aprofundada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e sofisticada a reflexão proposta por Saramago com referências filosóficas pertinentes (Hobbes, Maquiavel, Kant).",
+      "A argumentação é bem estruturada, com encadeamento lógico e progressão temática adequada, demonstrando capacidade de reflexão e análise crítica.",
+      "A linguagem é formal, precisa e adequada ao contexto dissertativo, sem deslizes gramaticais ou problemas de coesão.",
+      "O texto reconhece a insuficiência da tolerância, mas defende sua necessidade no contexto atual, equilibrando perspectivas e evitando simplificações.",
+      "A conclusão é coerente e reforça o posicionamento do autor, evidenciando maturidade intelectual e clareza argumentativa."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Tolerar é a o princípio que sustenta esse sistema de convívio",
+      "imprescíndivel"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, clareza e estilo, com coerência entre as ideias e boa progressão argumentativa. Apenas pequenos deslizes de apresentação, como repetições e pequenas imprecisões, impedem a nota máxima.",
+      "A argumentação é sólida, com referências teóricas pertinentes (Hobbes, Saramago, Hedley Bull, União Europeia, Leis de Nuremberg) e boa articulação entre exemplos históricos e conceitos. A pertinência das informações é alta, mas há pequenas imprecisões conceituais e algumas passagens poderiam ser mais objetivas.",
+      "A análise é profunda, com reflexão crítica sobre o conceito de tolerância e sua evolução para cooperação e solidariedade. O texto dialoga de forma sofisticada com Saramago, mas poderia explorar mais as contradições do próprio argumento do autor português.",
+      "Foram identificados dois erros gramaticais: “a o princípio” (redundância/erro de concordância) e “imprescíndivel” (erro ortográfico, o correto é imprescindível).",
+      "O texto demonstra domínio da norma culta, mas esses desvios pontuais impactam a nota de correção gramatical e propriedade da linguagem."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Tolerar é a o princípio que sustenta esse sistema de convívio",
+      "imprescíndivel"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, estilo e coerência, com boa legibilidade e uso apropriado de referências teóricas. Apenas pequenos deslizes de estilo e clareza pontualmente afetam a impressão geral.",
+      "A argumentação é sólida, objetiva e bem sistematizada, com pertinência temática e uso eficaz de exemplos históricos e teóricos. Algumas passagens poderiam ser mais precisas na articulação entre os conceitos de tolerância, cooperação e solidariedade.",
+      "A análise é profunda e reflete criticamente sobre o tema, dialogando com Saramago e outros autores. Contudo, a reflexão sobre a “utopia solidária” poderia ser mais desenvolvida, e há certa idealização na transição entre os estágios sociais.",
+      "Foram identificados dois erros gramaticais: “a o princípio” (redundância) e “imprescíndivel” (erro ortográfico)."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Tolerar é a o princípio que sustenta esse sistema de convívio",
+      "imprescíndivel"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica, justificando nota alta em 1A. Apenas pequenos deslizes de estilo e fluidez impedem a nota máxima.",
+      "A argumentação é sólida, com referências teóricas pertinentes (Hobbes, Saramago, Hedley Bull, União Europeia, Leis de Nuremberg), mas há pequenas imprecisões e redundâncias que reduzem a objetividade e a sistematização, justificando nota ligeiramente abaixo do máximo em 1B.",
+      "A análise é profunda e reflete criticamente sobre o conceito de tolerância, mas a reflexão sobre a utopia solidária carece de maior aprofundamento e exemplos concretos, o que justifica nota intermediária em 1C.",
+      "Foram identificados dois erros gramaticais: o artigo repetido em 'é a o princípio' e o erro ortográfico em 'imprescíndivel' (correto: imprescindível)."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "imprescíndivel (correto: imprescindível)",
+      "nacionalismo intolerantes (concordância: nacionalismos intolerantes)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação consistente e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário, embora haja pequenos deslizes gramaticais.",
+      "A redação responde diretamente ao enunciado, dialoga com Saramago e apresenta referências teóricas pertinentes, como Hobbes e Hedley Bull, além de exemplos históricos relevantes.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto, mas impactam negativamente a nota final.",
+      "A conclusão é coerente e reforça a tese defendida, demonstrando maturidade analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a o princípio",
+      "imprescíndivel"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sofisticada e reflexão aprofundada sobre o tema proposto.",
+      "Há poucos erros gramaticais, como a repetição desnecessária do artigo (“a o princípio”) e erro de ortografia (“imprescíndivel” ao invés de “imprescindível”).",
+      "A linguagem é adequada e formal, com uso pertinente de referências teóricas e históricas, o que enriquece a argumentação.",
+      "O candidato responde de forma clara à questão, posicionando-se criticamente em relação à citação de Saramago e desenvolvendo uma tese própria e bem fundamentada.",
+      "A redação demonstra domínio dos conceitos e capacidade de reflexão, mas a nota é ligeiramente reduzida devido aos pequenos deslizes gramaticais e à necessidade de maior precisão em alguns trechos."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "imprescíndivel (correto: imprescindível)",
+      "nacionalismo intolerantes (concordância: nacionalismos intolerantes)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sofisticada e reflexão aprofundada sobre o tema.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário, embora apresente dois erros gramaticais pontuais.",
+      "A redação dialoga de forma consistente com o enunciado e com referências teóricas pertinentes, demonstrando capacidade analítica e crítica.",
+      "A conclusão reforça o posicionamento do candidato de maneira coesa e fundamentada, sem fugir ao tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Tolerar é a o princípio que sustenta esse sistema de convívio"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura argumentativa, articulando referências teóricas (Hobbes, Saramago, Hedley Bull) e exemplos históricos (Leis de Nuremberg, União Europeia) de forma coesa e pertinente ao tema.",
+      "A reflexão sobre a tolerância é aprofundada, indo além da superficialidade ao propor uma evolução dos estágios de interação social (conviver, cooperar, solidarizar-se).",
+      "A linguagem é formal, clara e adequada ao contexto acadêmico, com poucos deslizes gramaticais.",
+      "Há um pequeno erro de digitação (“imprescindivel” sem acento) e um desvio de concordância (“Tolerar é a o princípio”), mas ambos não comprometem a compreensão nem a qualidade geral do texto.",
+      "A conclusão é bem articulada, retomando o argumento inicial e reforçando a necessidade da tolerância como base para relações mais avançadas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Tolerar é a o princípio",
+      "imprescíndivel"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura argumentativa, articulando referências teóricas (Hobbes, Saramago, Hedley Bull) e exemplos históricos (Leis de Nuremberg, União Europeia) para discutir o tema da tolerância de forma profunda e coerente.",
+      "A linguagem é formal, clara e adequada ao contexto acadêmico, com poucos deslizes gramaticais.",
+      "A argumentação é bem encadeada, demonstrando capacidade de reflexão e análise sobre o tema proposto, além de responder diretamente ao enunciado.",
+      "Os erros gramaticais identificados são pontuais: há um erro de concordância (“Tolerar é a o princípio”) e um erro de ortografia (“imprescíndivel”).",
+      "O texto evidencia domínio temático e linguístico, com coesão e clareza, justificando a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Tolerar é a o princípio que sustenta esse sistema de convívio",
+      "imprescíndivel"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura argumentativa, articulando referências teóricas (Hobbes, Saramago, Hedley Bull) e exemplos históricos (Leis de Nuremberg, União Europeia) para discutir o tema da tolerância de forma profunda e coerente.",
+      "A reflexão sobre os três estágios de interação social (conviver, cooperar, solidarizar) é pertinente e demonstra capacidade analítica.",
+      "A linguagem é formal, adequada ao contexto acadêmico e há clareza na exposição das ideias.",
+      "Há poucos deslizes gramaticais: o artigo definido em \"Tolerar é a o princípio\" deve ser suprimido e há erro de ortografia em \"imprescíndivel\" (correto: imprescindível).",
+      "O texto demonstra domínio temático e linguístico, com argumentação consistente e coesão, justificando a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "norte americanos negros (falta de hífen: norte-americanos)",
+      "lindes (uso pouco comum e inadequado no contexto; o correto seria fronteiras ou limites)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos deslizes de estilo e vocabulário afetam a nota máxima em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e atuais relevantes. Apenas pequenas imprecisões vocabulares e de clareza reduzem a nota máxima em 1B.",
+      "A análise é profunda, com reflexão crítica sobre o conceito de tolerância e sua insuficiência, dialogando com autores e contextos internacionais. Apenas a repetição de alguns argumentos impede a nota máxima em 1C.",
+      "Foram identificados dois erros gramaticais: um de hifenização (“norte-americanos”) e um uso inadequado de vocabulário (“lindes”).",
+      "O texto é bem fundamentado, mas poderia aprimorar a precisão lexical e evitar repetições para atingir nota máxima em todos os critérios."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "norte americanos negros",
+      "pós Segunda Guerra Mundial"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos deslizes de apresentação, como a ausência de hífen em 'norte-americanos' e de acento em 'pós-Segunda Guerra Mundial', afetam minimamente a nota de apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e contemporâneos que reforçam a tese do autor. O uso de referências filosóficas e políticas enriquece o conteúdo.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de problematizar o conceito de tolerância e relacioná-lo a questões de direitos humanos, relações internacionais e segregação social.",
+      "Foram identificados dois erros gramaticais: 'norte americanos negros' (falta de hífen) e 'pós Segunda Guerra Mundial' (falta de hífen e acento). Ambos são desvios de ortografia e acentuação, mas não comprometem a compreensão do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "norte americanos negros",
+      "pós Segunda Guerra Mundial"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes de estilo poderiam aprimorá-lo.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e contemporâneos que reforçam o posicionamento do autor em relação à reflexão de Saramago.",
+      "A análise é profunda e reflete criticamente sobre o conceito de tolerância, distinguindo-o de respeito e aceitação incondicional, além de relacionar o tema a questões internacionais e filosóficas.",
+      "Foram identificados dois erros gramaticais: 'norte americanos negros' deveria ser 'norte-americanos negros' (falta de hífen) e 'pós Segunda Guerra Mundial' deveria ser 'pós-Segunda Guerra Mundial' (falta de hífen).",
+      "A linguagem é formal e adequada ao gênero dissertativo, mas a correção ortográfica precisa ser aprimorada para evitar pequenas falhas como as citadas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em \"norte americanos negros\", falta hífen: \"norte-americanos\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação consistente e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário e das estruturas sintáticas.",
+      "O candidato soube mobilizar referências históricas, filosóficas e contemporâneas de forma pertinente e articulada ao argumento central.",
+      "Há apenas um erro gramatical pontual (falta de hífen em \"norte-americanos\"), que não compromete a compreensão nem a qualidade geral do texto.",
+      "A conclusão retoma o posicionamento inicial e reforça a tese de Saramago, demonstrando coerência e maturidade analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em \"norte americanos negros\", falta hífen: o correto é \"norte-americanos\"."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização temática, com argumentação clara, coerente e bem encadeada, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "O texto dialoga de forma pertinente com o enunciado de José Saramago, desenvolvendo argumentos históricos, políticos e filosóficos para sustentar o ponto de vista.",
+      "A linguagem é formal, adequada ao contexto acadêmico e jurídico, com poucos desvios gramaticais.",
+      "O erro gramatical identificado é pontual e não compromete a compreensão do texto.",
+      "A conclusão retoma o posicionamento inicial e reforça a tese do autor, conferindo unidade ao texto.",
+      "A redação atende plenamente aos critérios de correção gramatical e propriedade da linguagem, com apenas um erro de hifenização.",
+      "A capacidade de argumentação e a clareza na exposição das ideias justificam uma nota elevada, próxima do máximo permitido."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em \"norte americanos negros\", falta hífen: \"norte-americanos\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação consistente e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e domínio dos conceitos filosóficos e históricos citados.",
+      "O candidato demonstra capacidade de relacionar exemplos históricos e contemporâneos, tanto no âmbito nacional quanto internacional, reforçando a tese de Saramago.",
+      "Há apenas um erro gramatical pontual (falta de hífen em \"norte-americanos\"), que não compromete a compreensão nem a qualidade geral do texto.",
+      "A conclusão retoma de forma coesa o argumento central, evidenciando alinhamento com a perspectiva do autor citado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "norte americanos negros"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação argumentativa, com referências históricas e filosóficas pertinentes ao tema, demonstrando reflexão crítica e domínio do assunto.",
+      "A estrutura é lógica e coesa, com encadeamento claro das ideias e exemplos concretos que sustentam a tese do autor.",
+      "Há poucos deslizes gramaticais, como o uso de “norte americanos negros” sem hífen, que deveria ser “norte-americanos negros”.",
+      "A linguagem é adequada ao contexto formal, com vocabulário rico e preciso, embora não atinja o nível de sofisticação de um texto “Excepcional”.",
+      "O texto evidencia compreensão profunda do enunciado e dialoga de forma consistente com o pensamento de Saramago, sem fugir ao tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "norte americanos negros"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação argumentativa, com referências históricas, filosóficas e contemporâneas pertinentes ao tema. A estrutura é lógica, clara e demonstra reflexão aprofundada sobre a diferença entre tolerância e respeito, em consonância com a proposta de Saramago.",
+      "Há domínio consistente da norma padrão, com poucos deslizes gramaticais, como o uso de “norte americanos” sem hífen, que deveria ser “norte-americanos”.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário rico e precisão conceitual.",
+      "A argumentação é sólida, com exemplos concretos e análise crítica, evidenciando coesão e capacidade de síntese.",
+      "O texto poderia ser ainda mais sofisticado ao explorar contrapontos ou nuances do conceito de tolerância, mas já se enquadra em um patamar elevado de qualidade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "norte americanos negros",
+      "pós Segunda Guerra Mundial"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação argumentativa, com referências históricas e filosóficas pertinentes, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A estrutura é lógica e coerente, com encadeamento claro das ideias e boa progressão temática, evidenciando domínio do gênero dissertativo.",
+      "A linguagem é formal e adequada ao contexto, com vocabulário rico e poucos deslizes gramaticais, como a ausência de hífen em “norte-americanos” e a falta de crase em “pós-Segunda Guerra Mundial”.",
+      "O candidato dialoga de forma consistente com o enunciado e com autores citados, mostrando capacidade de análise crítica e originalidade na argumentação.",
+      "A conclusão retoma o ponto de vista inicial e reforça a tese central, conferindo unidade ao texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A política de tolerância perante o Oriente Médio, sem cooperação igualitária entre os países não é suficiente para assegurar a paz e a harmonia.",
+      "Partindo de ideais kantianos de paz universal e cosmopolitismo, eles argumentam ser possível chegar a uma comunidade universal, em que há diversidade e, ao mesmo tempo, relações igualitárias."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes poderiam melhorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza exemplos históricos e contemporâneos para sustentar sua posição, demonstrando repertório e capacidade de análise.",
+      "A reflexão sobre o conceito de tolerância é profunda e crítica, indo além do senso comum e dialogando diretamente com o enunciado de Saramago.",
+      "Foram identificados dois erros gramaticais: falta de vírgula após 'entre os países' e ausência de vírgula após 'Partindo de ideais kantianos...'. Ambos são problemas de pontuação.",
+      "A linguagem é formal, adequada ao gênero dissertativo e demonstra domínio do vocabulário. Não há problemas graves de regência, concordância ou ortografia."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A política de tolerância perante o Oriente Médio, sem cooperação igualitária entre os países não é suficiente para assegurar a paz e a harmonia.",
+      "Partindo de ideais kantianos de paz universal e cosmopolitismo, eles argumentam ser possível chegar a uma comunidade universal, em que há diversidade e, ao mesmo tempo, relações igualitárias."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes de fluidez poderiam ser feitos.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza exemplos históricos e contemporâneos de forma eficaz para sustentar sua posição.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de problematizar o conceito de tolerância e propor alternativas consistentes com o pensamento de Saramago.",
+      "Foram identificados dois erros gramaticais: falta de vírgula após 'entre os países' e ausência de vírgula após 'Partindo de ideais kantianos...'. Ambos são de pontuação e não comprometem a compreensão.",
+      "A linguagem é formal, adequada ao gênero dissertativo e ao contexto do CACD. Não há marcas de oralidade ou informalidade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A política de tolerância perante o Oriente Médio, sem cooperação igualitária entre os países não é suficiente para assegurar a paz e a harmonia.",
+      "Partindo de ideais kantianos de paz universal e cosmopolitismo, eles argumentam ser possível chegar a uma comunidade universal, em que há diversidade e, ao mesmo tempo, relações igualitárias."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes de estilo poderiam aprimorá-lo.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza exemplos históricos e contemporâneos para sustentar sua posição, demonstrando domínio do assunto.",
+      "A análise é profunda e reflete criticamente sobre o conceito de tolerância, indo além do senso comum e dialogando com o pensamento de Saramago e outros autores.",
+      "Foram identificados dois erros gramaticais: falta de vírgula após 'entre os países' e ausência de vírgula após 'cosmopolitismo'. Ambos são pequenos deslizes de pontuação.",
+      "A linguagem é formal, adequada ao gênero dissertativo e ao contexto do CACD, com vocabulário preciso e propriedade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A política de tolerância perante o Oriente Médio, sem cooperação igualitária entre os países não é suficiente para assegurar a paz e a harmonia. (falta de vírgula após \"países\")",
+      "Partindo de ideais kantianos de paz universal e cosmopolitismo, eles argumentam ser possível chegar a uma comunidade universal, em que há diversidade e, ao mesmo tempo, relações igualitárias. (uso inadequado da vírgula antes de \"em que\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação consistente e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é adequada ao contexto dissertativo e demonstra domínio do vocabulário formal.",
+      "Os exemplos históricos e referências teóricas enriquecem a argumentação e demonstram repertório cultural relevante.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto.",
+      "A conclusão retoma o posicionamento do autor e reforça a tese central, conferindo coesão ao conjunto da redação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A política de tolerância perante o Oriente Médio, sem cooperação igualitária entre os países não é suficiente para assegurar a paz e a harmonia. (falta de vírgula após \"países\")",
+      "Partindo de ideais kantianos de paz universal e cosmopolitismo, eles argumentam ser possível chegar a uma comunidade universal, em que há diversidade e, ao mesmo tempo, relações igualitárias. (uso inadequado da vírgula antes de \"ao mesmo tempo\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A argumentação é consistente e bem fundamentada, com exemplos históricos e referências teóricas pertinentes.",
+      "A linguagem é formal, adequada ao contexto acadêmico e ao gênero dissertativo.",
+      "Os erros gramaticais são poucos e não comprometem a compreensão global do texto.",
+      "A conclusão retoma o posicionamento inicial e reforça a tese de que a tolerância, por si só, é insuficiente para promover igualdade e justiça nas relações humanas e institucionais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A política de tolerância perante o Oriente Médio, sem cooperação igualitária entre os países não é suficiente para assegurar a paz e a harmonia. (falta de vírgula após 'países')",
+      "Partindo de ideais kantianos de paz universal e cosmopolitismo, eles argumentam ser possível chegar a uma comunidade universal, em que há diversidade e, ao mesmo tempo, relações igualitárias. (uso inadequado da vírgula antes de 'eles')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A argumentação é consistente e bem fundamentada, com exemplos históricos e referências teóricas pertinentes.",
+      "A linguagem é formal, adequada ao contexto acadêmico e ao gênero dissertativo.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto.",
+      "A redação atende plenamente ao comando do enunciado, posicionando-se de forma clara em relação à reflexão de Saramago."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Partindo de ideais kantianos de paz universal e cosmopolitismo, eles argumentam ser possível chegar a uma comunidade universal, em que há diversidade e, ao mesmo tempo, relações igualitárias. A troca constante de conhecimento entre diversas religiões é mais enriquecedora e relevante do que a promoção da tolerância.",
+      "A política de tolerância perante o Oriente Médio, sem cooperação igualitária entre os países não é suficiente para assegurar a paz e a harmonia."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura argumentativa, desenvolvendo o tema com clareza, profundidade e pertinência. O candidato demonstra capacidade de reflexão crítica, articulando exemplos históricos e contemporâneos para sustentar sua posição em relação à citação de Saramago.",
+      "A linguagem é adequada ao contexto dissertativo, com vocabulário variado e domínio consistente da norma padrão. Os argumentos são bem encadeados, evidenciando coesão e coerência ao longo do texto.",
+      "Há poucos deslizes gramaticais, como pequenas falhas de pontuação e concordância, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "O texto vai além da simples exposição do tema, trazendo análises relevantes sobre relações interpessoais, institucionais e interestatais, e dialoga com referências teóricas e fatos históricos, o que demonstra maturidade intelectual e reflexiva."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Partindo de ideais kantianos de paz universal e cosmopolitismo, eles argumentam ser possível chegar a uma comunidade universal, em que há diversidade e, ao mesmo tempo, relações igualitárias. A troca constante de conhecimento entre diversas religiões é mais enriquecedora e relevante do que a promoção da tolerância.",
+      "A política de tolerância perante o Oriente Médio, sem cooperação igualitária entre os países não é suficiente para assegurar a paz e a harmonia.",
+      "Correção sugerida: 'entre os países, não é' (falta de vírgula)."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura argumentativa, desenvolvendo o tema com clareza e profundidade, dialogando de forma pertinente com o enunciado de Saramago.",
+      "Há boa articulação entre exemplos históricos, contextos institucionais e interpessoais, demonstrando reflexão madura sobre o conceito de tolerância e suas limitações.",
+      "A linguagem é adequada ao contexto formal do concurso, com vocabulário preciso e poucos deslizes gramaticais.",
+      "O texto evidencia capacidade de análise crítica e coesão, embora alguns trechos possam ser aprimorados quanto à pontuação e à fluidez.",
+      "A conclusão reforça o posicionamento do autor de forma consistente, retomando o argumento central e sugerindo caminhos para superar a mera tolerância."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "A política de tolerância perante o Oriente Médio, sem cooperação igualitária entre os países não é suficiente para assegurar a paz e a harmonia."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza, com argumentação consistente e reflexão aprofundada sobre o tema proposto.",
+      "Há boa articulação entre os diferentes níveis de relação (interpessoal, institucional, interestatal), com exemplos pertinentes e contextualização histórica.",
+      "O domínio da norma culta é elevado, com poucos deslizes gramaticais, como a ausência de vírgula antes de \"não\" no trecho citado.",
+      "A linguagem é adequada, formal e demonstra maturidade analítica, embora não alcance o nível de originalidade e sofisticação exigido para a faixa Excepcional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em que pese a intolerância ser verificada em diversas situações, a transigência e o consentimento tornaram-na um pouco menos aceitável...",
+      "Erro de regência: o correto seria 'tornaram-na menos tolerada' ou 'tornaram-na menos aceita', pois o verbo 'tornar' exige complemento direto e o pronome 'na' refere-se ao objeto direto 'intolerância'. O uso de 'aceitável' como predicativo do objeto gera ambiguidade."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta boa coerência, legibilidade e estilo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. O uso de referências filosóficas e históricas enriquece o texto, conferindo-lhe elegância e clareza. Pequenas repetições e construções longas não prejudicam a impressão geral.",
+      "1B: O candidato demonstra boa capacidade de argumentação, utilizando exemplos históricos, filosóficos e contemporâneos para sustentar sua posição. Os argumentos são pertinentes e bem sistematizados, embora haja pequena tendência a repetir ideias. A relação entre tolerância e igualdade é bem explorada.",
+      "1C: O texto revela análise crítica e reflexão aprofundada sobre o tema, especialmente ao confrontar o pensamento de Saramago com a realidade social. O candidato reconhece nuances e limitações da tolerância, mas poderia ter explorado mais as implicações práticas de uma sociedade que vá além da tolerância.",
+      "Correção gramatical: O texto é, em geral, correto, mas apresenta um erro de regência no último parágrafo, conforme apontado. Não há outros erros evidentes de concordância, ortografia ou pontuação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em que pese a intolerância ser verificada em diversas situações, a transigência e o consentimento tornaram-na um pouco menos aceitável...",
+      "O correto seria 'tornaram-na menos aceitável', sem o advérbio 'um pouco', que gera imprecisão estilística e pode ser considerado inadequado em textos dissertativos formais."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, clareza e estilo adequado ao gênero dissertativo, com coerência e legibilidade. Apenas pequenos ajustes de estilo poderiam aprimorar a apresentação.",
+      "A argumentação é sólida, com referências históricas e filosóficas pertinentes (Saramago, Bobbio, Kant, Laraia), demonstrando objetividade e sistematização. No entanto, alguns argumentos poderiam ser mais aprofundados.",
+      "A análise é crítica e reflexiva, reconhecendo nuances do tema e dialogando com o enunciado. O candidato equilibra concordância e discordância com Saramago, mas poderia explorar mais as implicações práticas de sua posição.",
+      "Há apenas um erro gramatical de natureza estilística, que não compromete a correção global do texto.",
+      "O texto demonstra domínio da norma culta e propriedade vocabular, sendo adequado ao contexto do CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em que pese a intolerância ser verificada em diversas situações, a transigência e o consentimento tornaram-na um pouco menos aceitável e mais sujeita, portanto, à condenação pelo corpo social."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. O uso de referências culturais e filosóficas enriquece o texto, conferindo-lhe sofisticação e clareza. Pequenos ajustes de fluidez poderiam elevar ainda mais a nota.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza referências históricas e filosóficas (Saramago, Bobbio, Kant, Laraia) para sustentar seus argumentos, demonstrando domínio do assunto. Apenas alguns trechos poderiam ser mais precisos quanto à relação entre tolerância e igualdade.",
+      "1C: O texto revela boa capacidade de análise e reflexão, ao ponderar criticamente o posicionamento de Saramago e apresentar argumentos contrários e favoráveis à tolerância. A reflexão sobre limites e potencialidades da tolerância é pertinente, mas poderia ser aprofundada em relação ao conceito de igualdade.",
+      "Correção gramatical: O texto é, em geral, correto. Há apenas um desvio de regência no trecho 'tornaram-na um pouco menos aceitável', pois o verbo 'tornar' exige objeto direto sem preposição, mas o pronome 'na' está correto como objeto direto. O erro é sutil e pode ser considerado como questão de estilo ou preferência, mas, para fins de rigor, registra-se como pequeno desvio de regência.",
+      "Observação: O texto é bem elaborado, com argumentação sólida e boa articulação entre ideias. O candidato demonstra maturidade intelectual e domínio do tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta da língua portuguesa, sem erros gramaticais detectáveis.",
+      "A argumentação é clara, bem estruturada e demonstra reflexão crítica sobre o tema proposto.",
+      "O candidato soube articular referências filosóficas e históricas de maneira pertinente, enriquecendo a discussão.",
+      "Há coerência e encadeamento lógico entre os parágrafos, com progressão temática adequada.",
+      "A linguagem é formal, precisa e apropriada ao contexto dissertativo-argumentativo exigido pelo concurso.",
+      "O posicionamento diante da citação de Saramago é equilibrado e bem fundamentado, mostrando capacidade de análise crítica.",
+      "A conclusão retoma o tema e reforça a relevância da tolerância, sem desconsiderar as limitações apontadas pelo autor citado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta da língua portuguesa, sem erros gramaticais detectáveis.",
+      "A argumentação é clara, bem estruturada e demonstra reflexão crítica sobre o tema proposto.",
+      "O candidato soube articular referências teóricas e exemplos históricos de forma pertinente e coesa.",
+      "A redação responde diretamente ao enunciado, posicionando-se de maneira equilibrada em relação à citação de Saramago.",
+      "A linguagem é formal, adequada ao contexto acadêmico e ao gênero dissertativo-argumentativo.",
+      "A conclusão é consistente e reforça a tese central do texto, sem fugir ao tema.",
+      "O encadeamento lógico das ideias é fluido e facilita a compreensão do leitor.",
+      "Não foram identificados problemas de coerência ou clareza.",
+      "A redação atende plenamente aos critérios de organização, desenvolvimento e correção linguística exigidos pelo concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação clara, coerente e bem fundamentada, utilizando referências filosóficas e históricas pertinentes. A linguagem é adequada ao contexto acadêmico e formal, com correção gramatical e boa estruturação dos parágrafos. O candidato soube equilibrar a concordância e a discordância com Saramago, demonstrando reflexão crítica. Apenas pequenos ajustes de precisão conceitual e de fluidez poderiam elevar ainda mais a nota, mas não comprometem o desempenho global."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em que pese a intolerância ser verificada em diversas situações, a transigência e o consentimento tornaram-na um pouco menos aceitável...",
+      "Correção sugerida: 'tornaram-na menos tolerada' ou 'tornaram-na menos aceita', pois o pronome 'na' refere-se a 'intolerância', e o verbo 'tornar' exige concordância adequada com o gênero do substantivo."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação clara, coesa e bem estruturada. O candidato dialoga de forma pertinente com o pensamento de Saramago, trazendo referências teóricas e exemplos concretos, o que demonstra reflexão aprofundada.",
+      "A linguagem é formal, adequada ao contexto dissertativo, e o encadeamento lógico das ideias é evidente, com transições suaves entre os parágrafos.",
+      "Há apenas um deslize gramatical de concordância pronominal, que não compromete a compreensão nem a qualidade geral do texto.",
+      "O texto demonstra capacidade de análise crítica, equilibrando concordância e discordância em relação ao enunciado, e evidencia maturidade intelectual.",
+      "A referência a Saramago, Bobbio, Kant e Laraia enriquece a argumentação e mostra domínio de repertório cultural relevante para o tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta, sem erros gramaticais detectáveis.",
+      "A argumentação é clara, bem estruturada e demonstra capacidade de reflexão crítica sobre o tema proposto.",
+      "O candidato articula referências teóricas (Saramago, Bobbio, Kant, Laraia) de forma pertinente e integrada ao desenvolvimento do raciocínio.",
+      "Há equilíbrio entre concordância e discordância em relação à citação de Saramago, com argumentos consistentes e exemplos atuais.",
+      "O encadeamento lógico das ideias é evidente, com introdução, desenvolvimento e conclusão bem definidos.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico do concurso.",
+      "O texto demonstra maturidade analítica e capacidade de síntese, sem superficialidade ou repetição desnecessária."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em que pese a intolerância ser verificada em diversas situações, a transigência e o consentimento tornaram-na um pouco menos aceitável...",
+      "O correto seria: 'tornaram-na um pouco menos tolerada' ou 'tornaram a intolerância um pouco menos aceitável'. O uso de 'tornaram-na menos aceitável' gera ambiguidade quanto ao referente do pronome 'na'."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação clara, articulada e fundamentada em referências teóricas e históricas pertinentes (Saramago, Bobbio, Kant, Laraia).",
+      "Há boa estruturação, com introdução, desenvolvimento e conclusão bem definidos, além de encadeamento lógico das ideias e reflexão crítica sobre o enunciado.",
+      "A linguagem é formal, adequada ao contexto dissertativo, com vocabulário rico e poucos deslizes gramaticais.",
+      "O candidato demonstra capacidade de análise e síntese, equilibrando concordância e discordância em relação ao pensamento de Saramago, sem superficialidade.",
+      "O único erro gramatical identificado é de natureza estilística/ambiguidade, não comprometendo a clareza geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "ideias liberais, de modo que as diferenças de poder relativo seriam ignoradas e consequentemente os conflitos entre Estados desapareceriam",
+      "a tolerância tem-se mostrado não somente incapaz de conter atrocidades perpetradas por um povo contra outro, mas também justificadora de massacres alegadamente em defesa da paz",
+      "os Estados Unidos da América decidiram promover a democracia no Oriente Médio, ainda que militarmente. Assim, eles intervieram no Iraque para instaurar um regime democrático, enquanto fortalecem relações com o governo autocrático da Arábia Saudita."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura e coerência, com estilo adequado ao tema, mas há algumas frases longas que poderiam ser mais claras (nota 1A: 8.0).",
+      "A argumentação é pertinente e bem fundamentada historicamente, mas alguns argumentos poderiam ser mais objetivos e diretos, evitando generalizações (nota 1B: 7.5).",
+      "A análise é profunda e reflete criticamente sobre o conceito de tolerância, mas faltam contrapontos mais explícitos à posição de Saramago (nota 1C: 7.0).",
+      "Foram identificados três erros gramaticais: uso inadequado de vírgulas e problemas de concordância em frases complexas, além de pequenas imprecisões de regência.",
+      "O texto demonstra domínio do tema e capacidade de argumentação, mas pode ser aprimorado em clareza e precisão linguística."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "ideias liberais e ao fortalecimento dos nacionalismos nos países desses continentes",
+      "a tolerância concedida a esses povos subjugados continuava a depender... e a situação das colônias foi mantida",
+      "Em reação a essas lutas por independência, as potências controladoras depararam-se com duas opções: ou responder a esses ataques com mais violência e manter o controle político, ou evitar mortes desnecessárias e conceder a independência política em troca de vantagens econômicas.",
+      "porquanto ela permite mitigações casuísticas"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura e coerência, com estilo formal e legível, mas há pequenas imprecisões na articulação de ideias e na pontuação que afetam a fluidez (nota 1A: 8.0).",
+      "A argumentação é sólida, com exemplos históricos pertinentes e boa sistematização, embora alguns trechos possam ser mais objetivos e diretos (nota 1B: 8.5).",
+      "A análise é crítica e reflexiva, demonstrando compreensão do tema e da citação de Saramago, mas poderia aprofundar mais a relação entre tolerância e igualdade (nota 1C: 8.0).",
+      "Foram identificados dois erros gramaticais: um de concordância (“os ideias liberais” deveria ser “as ideias liberais”) e um de pontuação (uso inadequado de vírgula antes de “porquanto”). Outros trechos apresentam construções pouco claras, mas não configuram erro gramatical explícito.",
+      "O texto demonstra domínio do tema e capacidade analítica, mas pode aprimorar a clareza e a precisão linguística para atingir a nota máxima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "ideias liberais"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, clareza e coerência, mas há pequenas imprecisões vocabulares, como o uso de 'ideias liberais' em vez de 'ideais liberais', o que afeta a precisão conceitual.",
+      "A argumentação é sólida, com exemplos históricos pertinentes e bem articulados ao tema da tolerância e suas limitações nas relações internacionais.",
+      "A análise é crítica e reflexiva, demonstrando compreensão do enunciado e capacidade de problematizar a ideia de tolerância como insuficiente para garantir igualdade.",
+      "Há poucos erros gramaticais, como o uso inadequado de 'ideias' em vez de 'ideais', e uma pequena falha de concordância em 'os países mais fortes tendem a ignorar aspectos relacionados à igualdade jurídica entre eles, em favor da realização de seus interesses' (poderia ser 'de seus interesses').",
+      "O texto dialoga bem com o enunciado de Saramago, mostrando concordância com a ideia de que a tolerância, por si só, não é suficiente para relações igualitárias."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "em termos de sua execução, da qual a Liga das Nações é exemplo notório",
+      "a tolerância concedida a esses povos subjugados continuava a depender da boa vontade dos Estados detentores dos mandatos",
+      "a tolerância exercida por democracias igualmente não resolve o problema das guerras no mundo, porquanto ela permite mitigações casuísticas"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão, articulando exemplos históricos pertinentes para discutir o conceito de tolerância nas relações internacionais e dialogando de forma consistente com a citação de Saramago.",
+      "Há alguns desvios gramaticais pontuais, especialmente em regência e concordância, que não comprometem a clareza, mas afetam a correção formal do texto.",
+      "A linguagem é adequada ao contexto acadêmico e o encadeamento das ideias é lógico e coerente, demonstrando domínio do tema e capacidade crítica.",
+      "O texto poderia ser mais explícito quanto à posição do autor frente à afirmação de Saramago, embora a discordância esteja subentendida pela argumentação desenvolvida."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "em termos de sua execução, da qual a Liga das Nações é exemplo notório",
+      "a tolerância concedida a esses povos subjugados continuava a depender da boa vontade dos Estados detentores dos mandatos. Com efeito, essa generosidade apenas evidenciava a hierarquia existente, de modo que não impediam o surgimento de reações violentas",
+      "a tolerância exercida por democracias igualmente não resolve o problema das guerras no mundo, porquanto ela permite mitigações casuísticas."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão sobre o tema, com encadeamento lógico e coerente dos argumentos históricos e políticos.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário específico do tema.",
+      "Há poucos erros gramaticais, principalmente de concordância e regência, que não comprometem a clareza do texto, mas devem ser considerados na pontuação.",
+      "A redação responde de forma consistente ao enunciado, posicionando-se de maneira clara em relação à reflexão de Saramago.",
+      "A estrutura do texto é bem organizada, com introdução, desenvolvimento e conclusão, e os exemplos históricos são pertinentes e bem articulados ao tema da tolerância e das relações internacionais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "em termos de sua execução, da qual a Liga das Nações é exemplo notório. Concebida como um arranjo entre os países para assegurar a paz mundial, essa organização não evitou a emergência do segundo grande conflito mundial, nem extinguiu a violenta colonização europeia na África e na Ásia.",
+      "A descolonização afro-asiática tornou-se fenômeno relevante na transição entre as décadas de 1950 e de 1960, devido à descrença nos ideias liberais...",
+      "A capacidade de tolerar diferenças não implica respeito à soberania dos Estados, pois a história vem demonstrando que os países mais fortes tendem a ignorar aspectos relacionados à igualdade jurídica entre eles, em favor da realização de seus interesses."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização e desenvolvimento do tema, com argumentos consistentes e referências históricas pertinentes ao debate sobre tolerância e relações internacionais.",
+      "Há alguns desvios gramaticais, como problemas de concordância e regência, que afetam a clareza e a correção do texto.",
+      "A linguagem é adequada ao contexto, mas há trechos com construção sintática complexa, o que pode prejudicar a fluidez da leitura.",
+      "O candidato demonstra capacidade de reflexão e argumenta de forma coerente em relação ao posicionamento de Saramago, embora possa aprofundar mais a discussão sobre tolerância nas relações interpessoais e religiosas.",
+      "A redação cumpre o proposto, mas pequenos ajustes na correção gramatical e na clareza dos argumentos poderiam elevar a nota."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "ideias liberais, de modo que as diferenças de poder relativo seriam ignoradas e consequentemente os conflitos entre Estados desapareceriam",
+      "a tolerância tem-se mostrado não somente incapaz de conter atrocidades perpetradas por um povo contra outro, mas também justificadora de massacres alegadamente em defesa da paz."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento temático, com argumentação clara, coesa e bem encadeada. O candidato demonstra capacidade de reflexão crítica sobre o conceito de tolerância, utilizando exemplos históricos pertinentes e articulando-os ao debate proposto por Saramago.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com poucos deslizes gramaticais. Os erros identificados são pontuais e não comprometem a compreensão global do texto.",
+      "A argumentação é sólida e demonstra domínio do tema, com análise histórica e política sofisticada, evidenciando reflexão madura e capacidade de síntese.",
+      "O texto poderia ser classificado como excelente se houvesse maior originalidade na conclusão ou um aprofundamento ainda maior em aspectos teóricos, mas, no conjunto, atende plenamente aos requisitos de um texto ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "em termos de sua execução, da qual a Liga das Nações é exemplo notório"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando argumentos históricos e políticos de forma coesa e pertinente.",
+      "A argumentação é clara, bem encadeada e demonstra reflexão aprofundada sobre a ideia de tolerância e suas limitações nas relações internacionais.",
+      "Há poucos deslizes gramaticais, como o uso inadequado da expressão 'em termos de sua execução, da qual a Liga das Nações é exemplo notório', que poderia ser reestruturada para maior clareza.",
+      "A linguagem é formal, adequada ao contexto acadêmico e ao gênero dissertativo, com vocabulário rico e variado.",
+      "O texto evidencia capacidade de análise e crítica, além de boa organização textual, mas não chega ao nível de originalidade ou sofisticação argumentativa que justifique a faixa 'Excelente' ou 'Excepcional'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a qual foi aceita pelos demais participantes dessa conferência",
+      "a tolerância tem-se mostrado não somente incapaz de conter atrocidades perpetradas por um povo contra outro, mas também justificadora de massacres alegadamente em defesa da paz",
+      "os Estados superiores pode ser afastada",
+      "a tolerância exercida por democracias igualmente não resolve o problema das guerras no mundo, porquanto ela permite mitigações casuísticas"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando exemplos históricos e conceitos políticos de forma coesa e pertinente à reflexão de Saramago.",
+      "A argumentação é clara, bem encadeada e demonstra reflexão crítica sobre o conceito de tolerância nas relações internacionais.",
+      "Há poucos deslizes gramaticais, como pequenas impropriedades de concordância e regência, mas não comprometem a clareza nem a qualidade geral do texto.",
+      "O vocabulário é adequado e a linguagem é formal, compatível com o contexto do CACD.",
+      "O texto evidencia capacidade de análise e síntese, com referências históricas e teóricas pertinentes, o que justifica a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2017"
+  }
+]

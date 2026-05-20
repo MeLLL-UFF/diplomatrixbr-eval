@@ -1,0 +1,1132 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "de no seio do G4"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com linguagem clara e adequada ao tema. A estrutura é lógica e facilita a leitura, mas há pequena imprecisão vocabular em 'de no seio do G4', que prejudica a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos concretos (MERCOSUL, PROSUL, BRICS, G4) e relaciona adequadamente os discursos históricos à atualidade da política externa brasileira.",
+      "A análise é profunda e reflexiva, demonstrando compreensão dos conceitos de realismo político, igualdade jurídica e desigualdade de poder. O texto discute criticamente a aceitação do veto e a necessidade de cooperação com grandes potências, evidenciando maturidade analítica.",
+      "Houve apenas um erro gramatical identificável: a expressão 'de no seio do G4' está mal formulada, devendo ser 'no seio do G4'. Não há outros desvios relevantes de concordância, ortografia, pontuação ou regência."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "no seio do G4 a ampliação do Conselho de Segurança"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com boa estruturação dos parágrafos e clareza na exposição das ideias (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, trazendo exemplos concretos e atuais (1B).",
+      "A análise é crítica e reflexiva, relacionando adequadamente os discursos históricos à política externa contemporânea do Brasil (1C).",
+      "Há um erro gramatical de regência: faltou preposição em 'no seio do G4 a ampliação' (deveria ser 'no seio do G4, defende a ampliação').",
+      "A redação demonstra domínio do vocabulário técnico e capacidade de articulação entre teoria e prática diplomática."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "no seio do G4 a ampliação do Conselho de Segurança",
+      "de no seio",
+      "deveria ser \"no seio do G4, defende a ampliação...\""
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos ajustes de fluidez poderiam ser feitos.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos concretos e atuais (MERCOSUL, PROSUL, BRICS, G4, missões de paz da ONU).",
+      "A análise é profunda, demonstrando reflexão crítica sobre a atualidade dos discursos e a política externa brasileira contemporânea, relacionando teoria e prática.",
+      "Há apenas um erro gramatical identificável: uso inadequado da expressão \"de no seio\", que compromete a regência e a clareza do período.",
+      "A linguagem é formal, adequada ao gênero e ao tema, com vocabulário preciso e propriedade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "no seio do G4 a ampliação do Conselho de Segurança",
+      "faltou preposição: \"no seio do G4, defende a ampliação...\" ou \"no seio do G4, pleiteia-se a ampliação...\""
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário diplomático e jurídico.",
+      "Há apenas um pequeno deslize gramatical de regência/preposição, que não compromete a compreensão global do texto.",
+      "O candidato soube ilustrar os argumentos com exemplos concretos e atuais, como o MERCOSUL, PROSUL, BRICS, IBAS, G20 e G4, evidenciando conhecimento do contexto internacional e da política externa brasileira.",
+      "A conclusão é coesa e reforça a atualidade dos discursos citados, alinhando retórica e prática diplomática brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "o Brasil de no seio do G4 a ampliação do Conselho de Segurança (falta de verbo: o correto seria \"o Brasil defende, no seio do G4, a ampliação\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário diplomático e político.",
+      "Há apenas um erro gramatical pontual, que não compromete a compreensão geral do texto.",
+      "O candidato soube ilustrar os argumentos com exemplos concretos e atuais, como o MERCOSUL, PROSUL, BRICS, IBAS, G20 e G4, o que enriquece a análise.",
+      "A conclusão é coesa e reforça a atualidade dos discursos citados, alinhando retórica e prática da política externa brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ao aliar-se a países que também buscam aumentar seu poder relativo do sistema internacional"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário diplomático e político.",
+      "Há apenas um erro gramatical identificável: o trecho 'aumentar seu poder relativo do sistema internacional' deveria ser 'aumentar seu poder relativo no sistema internacional' (erro de regência).",
+      "A redação faz uso pertinente de exemplos atuais e referências institucionais, o que enriquece a análise e demonstra atualização temática.",
+      "A conclusão sintetiza adequadamente os argumentos e reforça a atualidade dos discursos citados, fechando o raciocínio de forma coesa."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "de no seio do G4 a ampliação do Conselho de Segurança"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando domínio do tema e capacidade de argumentação. Os exemplos são pertinentes e bem articulados à discussão dos discursos citados.",
+      "A linguagem é formal, adequada e demonstra bom domínio da norma culta, com apenas um desvio gramatical identificável: a expressão 'de no seio do G4' deve ser corrigida para 'no seio do G4'.",
+      "A reflexão sobre a atualidade dos argumentos é pertinente e bem fundamentada, evidenciando compreensão crítica e contextualizada da política externa brasileira contemporânea.",
+      "O texto é coeso, com transições suaves entre os parágrafos e boa articulação entre teoria e prática diplomática."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "de no seio do G4 a ampliação do Conselho de Segurança (falta de preposição: \"de no\" deveria ser \"no\")"
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com clareza e boa articulação dos argumentos. Demonstra compreensão profunda do tema e utiliza exemplos concretos para ilustrar a atualidade dos discursos citados.",
+      "A linguagem é formal e adequada ao contexto, com domínio consistente da norma culta, embora haja um pequeno deslize gramatical.",
+      "A argumentação é coesa e demonstra reflexão sobre os princípios da política externa brasileira, evidenciando capacidade analítica e pertinência temática.",
+      "O texto cumpre o que é solicitado, discutindo todos os elementos propostos e integrando-os de forma lógica e fundamentada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "de no seio do G4 a ampliação do Conselho de Segurança (erro de concordância/omissão de preposição: o correto seria \"no seio do G4, defende a ampliação\")"
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com ideias claras e encadeamento lógico, demonstrando domínio do tema e da linguagem formal.",
+      "A argumentação é pertinente e fundamentada, com exemplos atuais e adequados ao contexto das relações exteriores do Brasil.",
+      "A redação evidencia reflexão crítica e capacidade de articulação entre os discursos históricos e a realidade contemporânea.",
+      "Há apenas um deslize gramatical pontual, sem comprometer a clareza ou a correção geral do texto.",
+      "O texto cumpre plenamente o comando da questão, abordando todos os elementos solicitados de forma coesa e consistente."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "proscrição da guerra",
+      "forca",
+      "Observa-se, entretanto, uma grande concentração na distribuição de vacinas nos próprios países centrais",
+      "recrudescimento da pandemia"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência e legibilidade, com estilo adequado ao tema e à formalidade exigida. A estrutura é clara e o encadeamento lógico é bem construído, embora haja pequenas imprecisões terminológicas.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza exemplos históricos e contemporâneos para sustentar sua análise, demonstrando domínio do assunto e capacidade de relacionar os discursos citados à realidade atual.",
+      "A análise é crítica e reflexiva, abordando a atualidade dos argumentos dos embaixadores e ilustrando com eventos recentes (11/9, crise de 2008, pandemia). O texto demonstra capacidade de reflexão sobre a evolução do sistema internacional e a necessidade de reforma da ONU, mas poderia aprofundar a discussão sobre o papel do Brasil.",
+      "Há um erro de regência: o correto seria 'emprego da força', não 'forca'. Os demais termos estão corretos, mas a expressão 'grande concentração na distribuição de vacinas nos próprios países centrais' poderia ser mais precisa. O termo 'recrudescimento' está correto, mas pode ser considerado excessivamente formal em alguns contextos."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "forca (em vez de 'força')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com boa estrutura e fluidez. Apenas pequenos ajustes de linguagem seriam recomendáveis.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos concretos e atuais.",
+      "A análise é profunda e reflete criticamente sobre a atualidade dos discursos citados, mas poderia explorar mais explicitamente o elemento do 'perturbador da paz está sempre errado'.",
+      "Há apenas um erro gramatical: 'forca' em vez de 'força'.",
+      "O texto demonstra domínio da norma culta, mas a correção de pequenos deslizes contribuiria para a nota máxima em gramática."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "proibição do emprego da forca",
+      "forca",
+      "deveria ser \"força\" (erro de ortografia)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e legibilidade, com estilo formal e adequado ao tema do CACD. A estrutura é clara e a progressão lógica é mantida do início ao fim.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza exemplos históricos e contemporâneos para ilustrar os argumentos dos discursos citados, demonstrando domínio do conteúdo.",
+      "A análise é aprofundada, refletindo criticamente sobre a atualidade dos argumentos dos embaixadores e relacionando-os com eventos recentes das relações exteriores do Brasil e do sistema internacional. A reflexão sobre a necessidade de reforma da ONU é pertinente e bem fundamentada.",
+      "Há apenas um erro gramatical de ortografia (“forca” em vez de “força”), o que não compromete a clareza do texto, mas deve ser corrigido para evitar perda de pontos em avaliações mais rigorosas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "proibição do emprego da forca (correto: força)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, clareza e encadeamento lógico das ideias, com argumentação consistente e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário diplomático e político.",
+      "Há apenas um erro gramatical de ortografia, que não compromete a compreensão global do texto.",
+      "O candidato soube ilustrar os elementos solicitados com exemplos concretos e atuais, demonstrando capacidade de análise crítica e contextualização histórica.",
+      "A conclusão é pertinente e reforça a necessidade de reformulação da ONU diante das transformações do cenário internacional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "forca (linha 10) - forma correta: força"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, com argumentação clara, coerente e bem encadeada, demonstrando domínio do tema e capacidade de reflexão crítica sobre a atualidade dos discursos citados.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico-diplomático, com boa articulação entre os parágrafos e exemplos pertinentes (guerra ao terror, crise de 2008, pandemia de coronavírus).",
+      "Há apenas um erro gramatical de ortografia (“forca” em vez de “força”), o que não compromete a compreensão nem a qualidade geral do texto.",
+      "A redação aborda de forma sucinta e pertinente todos os elementos solicitados no enunciado, ilustrando-os com fatos históricos e contemporâneos, o que evidencia repertório e capacidade analítica.",
+      "A conclusão retoma os argumentos centrais e sugere a necessidade de reformulação da ONU, fechando o raciocínio de modo consistente."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "proibição do emprego da forca (correto: força)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação consistente e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário específico das relações internacionais.",
+      "Há apenas um erro gramatical pontual (\"forca\" em vez de \"força\"), que não compromete a compreensão do texto.",
+      "O candidato soube ilustrar os argumentos com exemplos concretos e atuais, como a guerra no Afeganistão, a crise financeira de 2008 e a pandemia de COVID-19, demonstrando capacidade de articulação entre teoria e prática.",
+      "A conclusão é pertinente e reforça a necessidade de reformulação da ONU diante das transformações do cenário internacional, fechando o raciocínio de forma coesa."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "emprego da forca"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com encadeamento lógico das ideias e clareza na exposição dos argumentos. O candidato demonstra compreensão aprofundada do tema e dos discursos citados, relacionando-os de forma pertinente ao contexto contemporâneo das relações exteriores do Brasil e da ordem internacional.",
+      "A argumentação é bem fundamentada, com exemplos históricos e atuais (11 de setembro, crise de 2008, pandemia de COVID-19) que ilustram os pontos discutidos e conferem densidade analítica ao texto.",
+      "A linguagem é formal, adequada ao gênero dissertativo e ao contexto diplomático, com vocabulário preciso e poucos deslizes gramaticais. O único erro identificado foi o uso de \"forca\" em vez de \"força\".",
+      "O texto evidencia reflexão crítica sobre a pertinência dos argumentos dos embaixadores, discutindo a confiança nas grandes potências, o preço pago por países menores e a necessidade de reforma da ONU, além de demonstrar coesão e fluidez na articulação dos parágrafos.",
+      "Apesar do alto nível de análise, a redação não atinge o patamar \"Excepcional\" por não apresentar insights teóricos inovadores ou estilo marcadamente original, mas é consistentemente \"Ótima\" em todos os critérios avaliados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "proibição do emprego da forca (correto: força)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação temática, relacionando de forma clara e coerente os discursos dos embaixadores com desafios contemporâneos das relações internacionais.",
+      "A argumentação é consistente, com exemplos concretos (guerra ao terror, crise de 2008, pandemia) que ilustram a atualidade ou a superação dos argumentos originais.",
+      "A linguagem é formal, adequada ao tema e ao gênero dissertativo, com poucos deslizes gramaticais.",
+      "O encadeamento lógico é bem construído, demonstrando reflexão e coesão textual.",
+      "O desvio gramatical identificado é pontual e não compromete a compreensão do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "proibição do emprego da forca (correto: força)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação temática, relacionando os discursos históricos com desafios contemporâneos das relações internacionais.",
+      "A argumentação é clara, bem estruturada e demonstra reflexão crítica sobre a pertinência dos argumentos dos embaixadores no contexto atual.",
+      "O candidato utiliza exemplos concretos (guerra ao terror, crise de 2008, pandemia) para ilustrar os pontos discutidos, conferindo densidade e atualidade à análise.",
+      "A linguagem é formal, adequada e demonstra domínio da norma culta, com apenas um deslize ortográfico.",
+      "A conclusão é coesa e reforça a necessidade de reformulação da ONU diante das transformações globais, fechando o raciocínio de forma consistente."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "dos discursos dos discursos dos Embaixadores",
+      "É preciso que seja feita uma avaliação cautelosa para que seja possível realizar as atualizações necessárias"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo adequado e legibilidade, mas há uma repetição desnecessária no início (“dos discursos dos discursos”), o que prejudica a apresentação geral.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, utilizando exemplos históricos e atuais para ilustrar os pontos levantados.",
+      "A análise é profunda e reflete criticamente sobre a atualidade dos argumentos, especialmente ao relacionar o contexto histórico com o cenário internacional contemporâneo e a posição do Brasil. Apenas faltou maior detalhamento sobre o “preço muito alto” pago por pequenos e médios países.",
+      "Há dois erros gramaticais: uma repetição (“dos discursos dos discursos”) e uma construção redundante (“que seja feita... para que seja possível realizar”), que poderia ser simplificada.",
+      "O texto demonstra domínio do tema e boa capacidade de síntese, mas poderia aprofundar a discussão sobre o papel das grandes potências e o impacto do veto para países menores."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "repetição desnecessária: 'dos discursos dos discursos'"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo adequado e legibilidade, mas há uma repetição desnecessária no início ('dos discursos dos discursos'), o que prejudica a apresentação geral (nota 1A: 9/10).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e atuais relevantes (nota 1B: 9/10).",
+      "A análise é profunda, relacionando os discursos históricos com o contexto contemporâneo das relações exteriores do Brasil e do sistema internacional, mas poderia explorar com mais detalhes as contradições do 'espírito construtivo' brasileiro frente ao veto (nota 1C: 17/20).",
+      "Houve apenas um erro gramatical: repetição desnecessária de palavras ('dos discursos dos discursos').",
+      "O texto demonstra domínio da linguagem e capacidade de reflexão, mas a nota 1C foi ligeiramente reduzida pela ausência de uma análise mais crítica sobre o papel do Brasil diante das grandes potências."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "repetição desnecessária de \"dos discursos\" em \"dos discursos dos discursos dos Embaixadores\""
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo adequado e legibilidade, mas há uma repetição desnecessária logo no início (\"dos discursos dos discursos\").",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e atuais que ilustram os pontos levantados.",
+      "A análise é reflexiva e demonstra capacidade de relacionar o contexto histórico com a atualidade das relações exteriores do Brasil, embora pudesse aprofundar um pouco mais a discussão sobre o papel das grandes potências.",
+      "Há apenas um erro gramatical identificável: repetição desnecessária de palavras.",
+      "O texto cumpre bem o comando da questão, discutindo todos os elementos solicitados e trazendo exemplos concretos (G4, neonazismo, reforma do CSNU).",
+      "A linguagem é formal, clara e apropriada ao gênero dissertativo-argumentativo exigido pelo CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "repetição desnecessária de \"dos discursos\" em \"Os trechos dos discursos dos discursos dos Embaixadores\""
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade de argumentação, relacionando adequadamente os trechos dos discursos ao contexto atual das relações exteriores do Brasil.",
+      "A linguagem é formal, precisa e adequada ao tema, com apenas um pequeno erro gramatical de repetição.",
+      "O candidato demonstra reflexão crítica e utiliza exemplos pertinentes, como o G4, para ilustrar a discussão sobre a necessidade de reforma do Conselho de Segurança da ONU.",
+      "A conclusão é bem articulada e reforça a atualidade dos argumentos apresentados, conferindo coesão ao conjunto do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "dos discursos dos discursos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação, clareza e coerência, desenvolvendo de forma pertinente a atualidade dos discursos citados e relacionando-os ao contexto contemporâneo das relações exteriores do Brasil.",
+      "Há apenas um erro gramatical evidente: repetição desnecessária (“dos discursos dos discursos”), que prejudica a fluidez do texto.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, e o encadeamento das ideias é lógico e bem estruturado.",
+      "O candidato demonstra boa compreensão dos elementos solicitados e utiliza exemplos pertinentes, como o G4, para ilustrar a discussão sobre a reforma do Conselho de Segurança.",
+      "A conclusão é bem elaborada, reforçando a relevância dos argumentos históricos para o cenário atual.",
+      "A pequena falha gramatical não compromete o conjunto, mas impacta negativamente a nota final."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "repetição desnecessária de \"dos discursos\" no início do texto",
+      "uso inadequado de vírgula antes de \"o que levou\" no terceiro parágrafo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade de argumentação, relacionando adequadamente os discursos históricos ao contexto atual das relações exteriores do Brasil.",
+      "A linguagem é formal, apropriada e demonstra domínio do tema, com exemplos pertinentes como o G4 e a discussão sobre o poder de veto.",
+      "Os erros gramaticais são poucos e não comprometem a compreensão geral, mas afetam a precisão e a elegância do texto.",
+      "A reflexão sobre a atualidade dos argumentos é profunda e bem fundamentada, mostrando capacidade de análise crítica e contextualização histórica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "repetição desnecessária: 'dos discursos dos discursos dos Embaixadores'"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com introdução clara, desenvolvimento lógico e conclusão pertinente. Os argumentos são bem encadeados e demonstram compreensão do tema e dos trechos citados.",
+      "A redação faz uso adequado de exemplos contemporâneos (grupos neonazistas, G4) para ilustrar a atualidade dos discursos, o que enriquece a análise.",
+      "A linguagem é formal, apropriada ao contexto e demonstra domínio da norma padrão, com apenas um pequeno deslize de repetição.",
+      "A argumentação é consistente e demonstra reflexão sobre o papel do Brasil e das Nações Unidas, embora não alcance nível de originalidade ou sofisticação excepcional.",
+      "O texto é coeso, com transições claras entre os parágrafos e entre os diferentes elementos do tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "repetição desnecessária de \"dos discursos\" em \"Os trechos dos discursos dos discursos dos Embaixadores...\""
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, clareza e encadeamento lógico das ideias, abordando com pertinência os argumentos dos discursos e sua atualidade no contexto das relações exteriores do Brasil.",
+      "A argumentação é consistente e demonstra capacidade de reflexão, com exemplos concretos como o G4 e a preocupação com discursos de ódio e grupos extremistas.",
+      "A linguagem é adequada ao contexto, com domínio razoável da norma padrão, havendo apenas um pequeno deslize de repetição.",
+      "O texto evidencia coesão e capacidade de articular diferentes elementos do enunciado, ainda que a argumentação não alcance nível excepcional de sofisticação ou originalidade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "repetição desnecessária em 'dos discursos dos discursos dos Embaixadores'"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, clareza e encadeamento lógico das ideias, demonstrando compreensão e reflexão sobre o tema proposto.",
+      "A argumentação é pertinente e bem fundamentada, com referências históricas e atuais que ilustram os pontos discutidos.",
+      "A linguagem é adequada ao contexto e há domínio da norma padrão, com apenas um pequeno deslize gramatical.",
+      "O texto evidencia coesão e capacidade de articular diferentes elementos do enunciado, ainda que sem grande sofisticação analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "no qual as grandes potências usufruíam do direito de veto"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos ajustes de estilo poderiam aprimorá-lo.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e contemporâneos que ilustram os pontos levantados.",
+      "A análise é aprofundada, reflete criticamente sobre a evolução do sistema internacional e a posição do Brasil, mas poderia explorar mais explicitamente a atualidade dos argumentos citados no enunciado.",
+      "Há um erro de regência: 'usufruíam do direito' deveria ser 'usufruíam o direito' (sem preposição)."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "no qual as grandes potências usufruíam do direito de veto"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos ajustes de estilo poderiam aprimorá-lo.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e contemporâneos que ilustram os pontos levantados.",
+      "A análise é aprofundada, reflete criticamente sobre a evolução do sistema internacional e a posição do Brasil, mas poderia explorar mais explicitamente a atualidade dos argumentos citados no enunciado.",
+      "Há um erro de regência: 'usufruíam do direito' deveria ser 'usufruíam o direito' (sem preposição)."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O Brasil, juntamente com Alemanha, Japão e Índia, formou o G-4, grupo que pleiteia a abertura de mais vagas permanentes e não-permanentes na composição do principal órgão da ONU, ainda hoje responsável pela manutenção da paz e segurança internacionais.",
+      "O erro está na ausência de vírgula antes de 'ainda hoje', que deveria ser isolada como aposto explicativo."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e legibilidade, com estilo formal e adequado ao tema. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos históricos e contemporâneos para sustentar sua análise, demonstrando domínio do assunto.",
+      "A análise é profunda e reflete criticamente sobre a atualidade dos argumentos apresentados nos discursos, relacionando-os ao contexto internacional atual e à posição do Brasil. O texto demonstra capacidade de reflexão e síntese.",
+      "Houve apenas um erro gramatical leve, referente à pontuação, que não compromete a compreensão do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com argumentação clara, coerente e bem encadeada, demonstrando domínio do tema e capacidade de reflexão crítica.",
+      "A linguagem é adequada, formal e correta, sem erros gramaticais detectáveis.",
+      "O candidato soube articular os discursos históricos com a conjuntura atual das relações exteriores do Brasil, ilustrando os pontos solicitados de forma pertinente e fundamentada.",
+      "A redação atende plenamente ao comando da questão, discutindo a atualidade dos argumentos e ilustrando os elementos propostos com exemplos concretos e atuais.",
+      "A conclusão é consistente e reforça a necessidade de reforma do Conselho de Segurança, alinhada à tradição diplomática brasileira e à realidade multipolar contemporânea."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O correto seria “não se deve confiar nas grandes potências”, sem o acento indicativo de crase em “às”, pois o verbo “confiar” não exige preposição “a” nesse contexto."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com argumentação clara, coerente e bem encadeada, demonstrando domínio do tema e capacidade de reflexão crítica sobre a atualidade dos discursos citados.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico-diplomático, com uso correto de conceitos e referências históricas.",
+      "O candidato soube ilustrar os elementos solicitados, relacionando-os ao contexto contemporâneo das relações exteriores do Brasil e à necessidade de reforma do Conselho de Segurança da ONU.",
+      "Há apenas um erro gramatical pontual, que não compromete a compreensão nem a qualidade geral do texto.",
+      "A conclusão é pertinente e reforça a necessidade de o Brasil adaptar sua posição diplomática à nova ordem internacional multipolar."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O Brasil, cuja tradição pacifista já estava assentada há décadas, demonstrada, por exemplo, na Constituição de 1891, que proibia a guerra de conquista, foi um entusiasta apoiador da nova ordem internacional. (O correto seria \"demonstrada, por exemplo, pela Constituição de 1891\") - erro de regência nominal."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, com clareza e coerência na exposição dos argumentos. O candidato demonstra capacidade de reflexão crítica sobre o tema, articulando fatos históricos e atuais de forma coesa.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário diplomático e político.",
+      "O texto aborda todos os elementos solicitados no enunciado, com exemplos e ilustrações pertinentes, evidenciando atualização e profundidade analítica.",
+      "Há apenas um pequeno erro gramatical de regência, que não compromete a compreensão geral do texto.",
+      "A conclusão é bem fundamentada e reforça a necessidade de reforma do Conselho de Segurança, alinhando-se à tradição diplomática brasileira e à realidade contemporânea."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O discurso do Embaixador Souza Dantas estava em perfeita sintonia com a tradição conciliadora brasileira, contrária à promoção de “discórdias entre nações”. Nas últimas décadas, o país não alterou sua posição. Ao contrário, aprofundou-se na defesa da paz, princípio constitucional desde a promulgação da Constituição de 1988."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, abordando o tema com pertinência e profundidade adequada ao contexto do CACD.",
+      "A argumentação é consistente, demonstrando capacidade de reflexão sobre a evolução da posição brasileira frente à ONU e ao Conselho de Segurança, com ilustrações históricas e contemporâneas pertinentes.",
+      "O domínio da norma culta é elevado, com apenas um deslize gramatical identificável (possível ambiguidade ou imprecisão na construção do período destacado).",
+      "A linguagem é apropriada, formal e precisa, evidenciando maturidade analítica e coesão textual.",
+      "O texto cumpre plenamente o comando da questão, discutindo os elementos solicitados e demonstrando reflexão crítica sobre a atualidade dos discursos citados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O discurso do Embaixador Souza Dantas estava em perfeita sintonia com a tradição conciliadora brasileira, contrária à promoção de “discórdias entre nações”."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com clareza e coerência na exposição das ideias. A argumentação é bem encadeada, demonstrando compreensão aprofundada do tema e capacidade de reflexão crítica.",
+      "O candidato articula com pertinência os discursos históricos com o contexto contemporâneo das relações exteriores do Brasil, utilizando exemplos concretos e referências institucionais.",
+      "A linguagem é formal, adequada e demonstra domínio da norma culta, com apenas um deslize gramatical pontual (crase antes de palavra no plural, quando o termo regente não exige).",
+      "A redação evidencia reflexão sobre a evolução da posição brasileira frente à ONU e ao Conselho de Segurança, discutindo de forma equilibrada os elementos solicitados no enunciado.",
+      "O texto é coeso, com transições claras entre os parágrafos e conclusão bem fundamentada, sugerindo maturidade analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O Brasil, cuja tradição pacifista já estava assentada há décadas, demonstrada, por exemplo, na Constituição de 1891, que proibia a guerra de conquista, foi um entusiasta apoiador da nova ordem internacional."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e coerente os argumentos dos discursos citados com a atualidade da política externa brasileira. A argumentação é bem encadeada, com exemplos concretos e referências históricas pertinentes.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais. O único erro identificado é a ausência de vírgula após \"décadas\", que prejudica a clareza do período.",
+      "O texto evidencia reflexão crítica sobre a evolução do papel do Brasil na ONU e sobre a necessidade de reforma do Conselho de Segurança, demonstrando capacidade analítica e coesão textual.",
+      "A conclusão é bem fundamentada e reforça a atualidade dos desafios institucionais, além de sugerir caminhos para a diplomacia brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "de tensionamento de conflitos",
+      "CSNU, a qual estabelecia"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo adequado e legibilidade, mas há pequenas imprecisões de linguagem que afetam a fluidez (nota 1A: 9/10).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos concretos e referências históricas apropriadas (nota 1B: 9/10).",
+      "A análise é crítica e reflexiva, demonstrando capacidade de relacionar os discursos históricos com o contexto atual das relações exteriores do Brasil, embora pudesse aprofundar um pouco mais as consequências de longo prazo (nota 1C: 17/20).",
+      "Foram identificados dois erros gramaticais: 'de tensionamento de conflitos' (uso inadequado da preposição) e 'CSNU, a qual estabelecia' (erro de concordância de gênero, pois 'CSNU' é masculino).",
+      "O texto cumpre bem o comando da questão, discute todos os elementos solicitados e apresenta argumentos sólidos, mas poderia ser mais explícito quanto ao impacto econômico e social da inação das grandes potências."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "de tensionamento",
+      "CSNU, a qual estabelecia"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo adequado e legibilidade, mas há pequenas imprecisões de linguagem que podem ser aprimoradas.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos concretos e atuais.",
+      "A análise é profunda e reflexiva, especialmente ao relacionar os discursos históricos com a situação contemporânea do Brasil e do sistema internacional. Contudo, poderia explorar mais explicitamente a tensão entre o ideal de igualdade e a realidade do poder de veto.",
+      "Há dois erros gramaticais: 'de tensionamento' (forma inadequada, o correto seria 'desescalada' ou 'redução de tensões') e o uso de 'a qual' para referir-se ao CSNU (o correto seria 'o qual', pois CSNU é masculino).",
+      "O texto demonstra domínio do tema e capacidade de articulação entre passado e presente, mas a linguagem pode ser ainda mais precisa."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "de tensionamento",
+      "CSNU, a qual estabelecia"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos ajustes de estilo poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza exemplos concretos e atuais, como o caso das Ilhas Marshall e da Líbia, para ilustrar os argumentos dos embaixadores.",
+      "A análise é aprofundada e reflete criticamente sobre a atualidade dos discursos, especialmente ao discutir a legitimidade do Conselho de Segurança, o papel do veto e a confiança nas grandes potências. A reflexão sobre os custos para pequenos e médios países é especialmente pertinente.",
+      "Foram identificados dois erros gramaticais: o uso inadequado de 'de tensionamento' (o correto seria 'desescalada' ou 'redução de tensões') e o emprego incorreto do pronome relativo 'a qual' para referir-se ao CSNU (o correto seria 'que estabelecia').",
+      "O texto atende plenamente ao enunciado, discutindo todos os elementos solicitados e demonstrando domínio do tema e das relações exteriores contemporâneas do Brasil."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "de tensionamento",
+      "a aquela"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade argumentativa, discutindo de forma pertinente a atualidade dos discursos dos embaixadores à luz do contexto recente das relações exteriores do Brasil.",
+      "Há poucos erros gramaticais, como o uso inadequado de “de tensionamento” (o correto seria “des-” ou “detensionamento”) e a repetição desnecessária de artigo em “a aquela” (deveria ser apenas “aquela”).",
+      "A linguagem é formal, precisa e adequada ao tema, e o encadeamento das ideias é lógico e bem fundamentado com exemplos concretos.",
+      "A redação atende plenamente ao comando, discute todos os elementos solicitados e demonstra reflexão crítica sobre o papel do Brasil e das grandes potências no sistema internacional contemporâneo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "de tensionamento",
+      "aquela não era uma medida de adequada"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com argumentação clara, coerente e bem encadeada, demonstrando reflexão aprofundada sobre o contexto das relações exteriores do Brasil e a atualidade dos discursos citados.",
+      "Há poucos erros gramaticais, como o uso inadequado de “de tensionamento” (o correto seria “desestabilização” ou “aumento da tensão”) e a construção “aquela não era uma medida de adequada”, que deveria ser “aquela não era uma medida adequada”.",
+      "A linguagem é formal, precisa e apropriada ao contexto acadêmico-diplomático, com boa utilização de exemplos e referências históricas e atuais.",
+      "A conclusão é pertinente e reforça a atualidade dos argumentos dos embaixadores, ao mesmo tempo em que evidencia a insatisfação do Brasil com o status quo do Conselho de Segurança da ONU.",
+      "O texto atende plenamente ao comando da questão, discutindo de forma sucinta e ilustrada os elementos solicitados, sem fugir ao tema ou apresentar informações inventadas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "de tensionamento",
+      "a aquela"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, clareza e capacidade argumentativa, abordando de forma pertinente e atualizada os elementos solicitados no enunciado.",
+      "Há pequenos deslizes gramaticais: “de tensionamento” deveria ser “des tensionamento” ou “dessensibilização” (dependendo do sentido pretendido), e “a aquela” deve ser corrigido para “aquela” (artigo desnecessário).",
+      "A linguagem é adequada ao contexto e o encadeamento das ideias é lógico, com exemplos concretos e reflexão crítica sobre o papel do Brasil e das grandes potências na ONU.",
+      "A redação demonstra domínio do tema e capacidade de análise, mas a presença de pequenos erros gramaticais e eventuais imprecisões lexicais impede a nota máxima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "de tensionamento de conflitos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com clareza e encadeamento lógico das ideias. A argumentação é pertinente, bem fundamentada e demonstra reflexão sobre o tema proposto.",
+      "Há domínio consistente da norma padrão, com poucos deslizes gramaticais. O erro \"de tensionamento de conflitos\" deve ser corrigido para \"des tensionamento\" ou \"dessensibilização\" conforme o sentido pretendido.",
+      "O uso de exemplos contemporâneos (G-4, Ilhas Marshall, Líbia, TPAN) enriquece a discussão e evidencia atualização temática.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e estilo formal.",
+      "A conclusão articula de forma coesa os argumentos apresentados, reforçando a atualidade dos discursos dos embaixadores e a necessidade de reforma do CSNU."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "de tensionamento de conflitos",
+      "o correto seria \"des tensionamento\" ou \"dessensibilização\"; o termo está malformado e prejudica a clareza",
+      "aquela não era uma medida de adequada",
+      "a expressão correta seria \"uma medida adequada\"; há erro de concordância e de construção"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com encadeamento lógico claro e argumentação pertinente ao tema proposto. O candidato demonstra capacidade de reflexão crítica e articulação entre os discursos históricos e o contexto contemporâneo das relações exteriores do Brasil.",
+      "A redação aborda de forma consistente os elementos solicitados, utilizando exemplos concretos (G-4, Ilhas Marshall, Líbia) para ilustrar os argumentos e reforçar a análise. A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário técnico.",
+      "Apesar de dois deslizes gramaticais pontuais, o texto mantém alto nível de correção linguística e clareza. A argumentação é sólida, embora não alcance o grau de sofisticação e originalidade que caracterizaria a faixa \"Excelente\".",
+      "A conclusão é coerente e reforça a atualidade dos argumentos dos embaixadores, evidenciando a perda de confiança nas grandes potências e a necessidade de reforma do Conselho de Segurança. O texto cumpre plenamente os requisitos do enunciado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "de tensionamento de conflitos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com argumentação clara, encadeamento lógico e reflexão pertinente sobre o tema proposto.",
+      "Demonstra domínio consistente da linguagem formal e do vocabulário técnico, com poucos deslizes gramaticais.",
+      "A análise é bem fundamentada, com exemplos contemporâneos e referências históricas adequadas, evidenciando capacidade de síntese e profundidade analítica.",
+      "O erro de digitação ou de regência em 'de tensionamento de conflitos' (provavelmente pretendia-se 'des tensionamento') não compromete a compreensão, mas deve ser corrigido.",
+      "Há uma pequena imprecisão em 'a aquela não era uma medida de adequada', que poderia ser revisada para 'aquela não era uma medida adequada'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "representa , portanto, uma opção pragmática",
+      "A ordem internacional criada após a II Guerra Mundial",
+      "um CSNU mais justo, é, também, um CNU mais efetivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência e legibilidade, com estilo claro e adequado ao tema. A impressão geral é positiva, mas há pequenas falhas de digitação e pontuação que afetam a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos históricos e atuais para ilustrar os argumentos, demonstrando domínio do assunto.",
+      "A análise é aprofundada, refletindo sobre a atualidade dos discursos e relacionando-os com a diplomacia brasileira contemporânea. O texto demonstra capacidade de reflexão crítica, especialmente ao discutir a necessidade de reforma do CSNU.",
+      "Foram identificados três erros gramaticais: uso indevido de vírgula após o verbo 'representa', espaço duplo após 'internacional' e vírgula desnecessária em 'um CSNU mais justo, é, também, um CNU mais efetivo'.",
+      "O texto aborda todos os elementos solicitados, com destaque para a discussão sobre o veto, o preço pago por pequenos e médios países e a confiança nas grandes potências, sempre relacionando-os à atuação diplomática brasileira.",
+      "A conclusão é consistente e reforça a ideia de que o Brasil pode contribuir para um sistema internacional mais justo e efetivo, sem perder de vista o pragmatismo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "representa , portanto, uma opção pragmática",
+      "A ordem internacional criada após a II Guerra Mundial",
+      "um CSNU mais justo, é, também, um CNU mais efetivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo adequado e legibilidade, mas há pequenas falhas de digitação e pontuação que afetam a apresentação (nota 1A: 9/10).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e referências atuais, mas poderia aprofundar um pouco mais a análise crítica (nota 1B: 9/10).",
+      "A análise é sofisticada, reflete sobre a evolução do sistema internacional e a posição brasileira, relacionando os conceitos históricos com a atualidade e propondo caminhos futuros (nota 1C: 18/20).",
+      "Foram identificados três erros gramaticais: uso indevido de vírgula após 'representa', espaço irregular antes de 'criada' e erro de sigla ('CNU' em vez de 'CSNU').",
+      "A redação demonstra domínio do tema e dos critérios exigidos, sendo apenas penalizada por pequenos deslizes formais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "O instituto do veto no âmbito do Conselho de Segurança da ONU (CSNU), prerrogativa reservada aos seus membros permanentes, representa , portanto, uma opção pragmática...",
+      "A ordem internacional criada após a II Guerra Mundial, que tem a ONU no seu centro, foi capaz de evitar, até o momento, um conflito em escala mundial entre grandes potências.",
+      "Hoje, um CSNU mais justo, é, também, um CNU mais efetivo."
+    ],
+    "feedbacks": [
+      "1A - O texto apresenta boa coerência, legibilidade e estilo, com estrutura clara e linguagem adequada ao tema. Pequenas falhas de pontuação não comprometem a impressão geral.",
+      "1B - A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos históricos e atuais para ilustrar os argumentos, demonstrando domínio do conteúdo.",
+      "1C - O texto revela boa capacidade de análise e reflexão, ao discutir a atualidade dos discursos históricos à luz dos desafios contemporâneos da ONU, especialmente no que diz respeito ao veto, à igualdade entre Estados e à necessidade de reforma do CSNU.",
+      "Erros gramaticais: há três erros principais: (1) vírgula indevida após “representa”; (2) vírgula desnecessária após “momento”; (3) vírgula indevida após “justo” (CSNU, não CNU). Esses erros são pontuais e não afetam a compreensão geral do texto.",
+      "O texto cumpre integralmente o que foi solicitado no enunciado, abordando todos os elementos propostos de forma equilibrada e fundamentada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O CSNU tem o poder, resguardado no capítulo VI da Carta da ONU, de emitir resoluções vinculantes diante de ameaças à paz. Desde a reforma da década de 1960, este é composto... (uso inadequado do pronome \"este\" para se referir ao CSNU, que é neutro; o correto seria \"este órgão\" ou \"o Conselho\")",
+      "Hoje, um CSNU mais justo, é, também, um CNU mais efetivo. (vírgula desnecessária após \"justo\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação clara, coerente e bem encadeada, demonstrando capacidade de reflexão e de articulação entre os conceitos históricos e atuais das relações internacionais.",
+      "A linguagem é formal, precisa e adequada ao contexto diplomático, com boa utilização de termos técnicos e referências históricas pertinentes.",
+      "A redação aborda todos os elementos solicitados no enunciado, ilustrando-os com exemplos concretos e atuais, o que evidencia profundidade analítica.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto, mas impactam negativamente a nota final devido à exigência de correção linguística rigorosa em concursos desse nível."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "CSNU tornar-se-ia mais funcional ampliando",
+      "um CSNU mais justo, é, também, um CNU mais efetivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, boa organização argumentativa e clareza na exposição das ideias, além de exemplos pertinentes e atualizados. A linguagem é formal e adequada ao contexto diplomático. Houve poucos erros gramaticais, como problemas de regência e concordância em trechos específicos, que não comprometeram a compreensão geral. A reflexão sobre a atualidade dos discursos é pertinente e bem fundamentada, demonstrando capacidade analítica e crítica. Por esses motivos, a redação merece nota elevada, mas com pequeno desconto devido aos erros gramaticais identificados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O CSNU tem o poder, resguardado no capítulo VI da Carta da ONU, de emitir resoluções vinculantes diante de ameaças à paz. Desde a reforma da década de 1960, este é composto por quinze membros...",
+      "Hoje, um CSNU mais justo, é, também, um CNU mais efetivo."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade argumentativa, abordando de forma coerente e reflexiva os elementos solicitados no enunciado.",
+      "A linguagem é adequada e formal, com poucos desvios gramaticais, como a vírgula indevida após “Hoje, um CSNU mais justo, é, também, um CNU mais efetivo” e a falta de concordância em “este é composto” (o correto seria “ele é composto”).",
+      "O candidato demonstra domínio do tema, fazendo uso de exemplos históricos pertinentes e relacionando-os à atualidade das relações exteriores do Brasil.",
+      "A redação cumpre todos os requisitos do enunciado, apresentando análise crítica e reflexiva, além de propostas concretas, como a reforma do CSNU.",
+      "A nota final reflete a alta qualidade do texto, com pequenas perdas devido aos erros gramaticais identificados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "O instituto do veto no âmbito do Conselho de Segurança da ONU (CSNU), prerrogativa reservada aos seus membros permanentes, representa , portanto, uma opção pragmática..."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, abordando de forma pertinente e reflexiva os elementos solicitados no enunciado.",
+      "A argumentação é consistente, com referências históricas e exemplos atuais que ilustram bem a discussão sobre a atualidade dos discursos citados.",
+      "Há domínio da norma padrão, mas ocorrem poucos deslizes pontuais, como a vírgula mal posicionada após \"representa\" e eventuais repetições ou redundâncias leves.",
+      "O texto evidencia reflexão madura sobre o tema, articulando pacifismo, igualdade e pragmatismo na diplomacia brasileira, e sugere soluções concretas, como a reforma do CSNU.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e estilo coeso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "representa , portanto, uma opção pragmática",
+      "este é composto por quinze membros",
+      "um CSNU mais justo, é, também, um CNU mais efetivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e coerente os argumentos dos discursos com a realidade contemporânea das relações exteriores do Brasil.",
+      "A argumentação é bem estruturada, com encadeamento lógico e exemplos pertinentes, como a Guerra do Golfo, o conflito na Síria e a atuação do Brasil em questões nucleares e na Líbia.",
+      "Há poucos deslizes gramaticais, como vírgulas mal posicionadas e pequenas imprecisões de concordância, mas não comprometem a clareza nem a qualidade geral do texto.",
+      "O texto evidencia reflexão crítica e capacidade de relacionar conceitos históricos e atuais, demonstrando maturidade analítica e linguística.",
+      "A conclusão é coesa e reforça a ideia de que o Brasil pode contribuir para um sistema internacional mais justo e efetivo, alinhando idealismo e pragmatismo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "O instituto do veto no âmbito do Conselho de Segurança da ONU (CSNU), prerrogativa reservada aos seus membros permanentes, representa , portanto, uma opção pragmática...",
+      "Este é composto por quinze membros, dos quais cinco são permanentes e detêm a prerrogativa do veto.",
+      "Hoje, um CSNU mais justo, é, também, um CNU mais efetivo."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e lógica os argumentos dos discursos citados com a realidade contemporânea das relações exteriores do Brasil.",
+      "A argumentação é bem estruturada, com encadeamento coeso entre os parágrafos e exemplos pertinentes (Guerra do Golfo, Síria, proposta Brasil-Turquia sobre o Irã, conceito de responsabilidade ao proteger).",
+      "Há reflexão aprofundada sobre a tensão entre idealismo (igualdade entre Estados) e pragmatismo (aceitação do veto), demonstrando maturidade analítica.",
+      "A linguagem é formal, adequada e precisa, com poucos deslizes gramaticais, como vírgulas mal posicionadas e pequenas inconsistências de concordância.",
+      "O texto cumpre o comando da questão ao discutir os elementos solicitados, ilustrando-os com fatos e conceitos do campo diplomático.",
+      "A conclusão é consistente e reforça a atualidade dos argumentos, sugerindo caminhos para a reforma do CSNU sem perder de vista a necessidade de efetividade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  }
+]

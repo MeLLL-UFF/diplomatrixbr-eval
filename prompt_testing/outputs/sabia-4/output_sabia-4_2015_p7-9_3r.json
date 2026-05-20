@@ -1,0 +1,3002 @@
+[
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "política exter na bra sileira (erro de digitação/segmentação: política externa brasileira)"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo elegante e legibilidade, com pouca ou nenhuma dificuldade de compreensão. A estrutura é clara e o encadeamento lógico é mantido ao longo do texto.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza referências literárias e históricas de forma adequada, relacionando o pensamento do autor do enunciado com o papel do diplomata brasileiro.",
+      "A análise e reflexão são aprofundadas, demonstrando capacidade de interpretação e de conexão entre o texto-fonte e o tema da diplomacia brasileira. O candidato reflete sobre identidade nacional, vocação e desafios do Brasil, relacionando-os à atuação diplomática.",
+      "Há apenas um erro gramatical evidente: segmentação incorreta da expressão 'política externa brasileira'. Não há outros desvios relevantes de concordância, ortografia ou pontuação.",
+      "O texto poderia ser ainda mais enxuto em alguns trechos, mas, no geral, cumpre plenamente os requisitos de clareza, profundidade e pertinência."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "onde outros veem desafios e problemas",
+      "política exter na bra sileira"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com boa estruturação e clareza na exposição das ideias. A impressão geral é positiva, com linguagem elegante e adequada ao tema. (Nota 1A: 9.0)",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza referências literárias e históricas de forma pertinente, relacionando o pensamento de Lucio Cardoso à atuação diplomática. (Nota 1B: 9.0)",
+      "A análise é reflexiva e demonstra capacidade de relacionar o texto-fonte com a função diplomática, embora haja pequena superficialidade ao tratar da ambiguidade entre individualismo e generalismo. (Nota 1C: 8.5)",
+      "Foram identificados dois erros gramaticais: um de digitação (“exter na bra sileira”) e um possível problema de regência ou coesão (“onde outros veem desafios e problemas”, que poderia ser mais claramente formulado).",
+      "O texto é consistente, mas poderia aprofundar a reflexão sobre a tensão entre identidade individual e coletiva, além de evitar pequenas imprecisões linguísticas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "exterior na bra sileira (erro de digitação/ortografia)",
+      "embuído de ambos o sentimento (concordância: deveria ser 'de ambos os sentimentos' ou 'do sentimento e do conhecimento')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo elegante e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências a autores e conceitos relevantes, o que justifica nota alta em 1B.",
+      "A análise é profunda e reflete sobre a identidade nacional e o papel do diplomata, mas poderia explorar mais contrapontos ou limitações, o que justifica nota ligeiramente inferior em 1C.",
+      "Há dois erros gramaticais pontuais, sendo um deles de digitação e outro de concordância nominal.",
+      "A redação demonstra domínio do tema, boa articulação entre o texto de referência e o conceito de diplomacia, além de clareza e precisão na linguagem."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "na esfera das características atuais do país. Dessa forma, o diplomata brasileiro pode consolidar a consciência da necessidade de superação de mazelas sociais por meio do desenvolvimento. Pode, por fim, defender a ideia principal da política exter na bra sileira: a paz e o desenvolvimento são indissociáveis. (Erro de digitação: \"exter na bra\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão sobre o tema, demonstrando clareza e coerência no encadeamento das ideias. O candidato soube relacionar adequadamente o texto de referência com a discussão sobre o que é ser um diplomata brasileiro, utilizando exemplos pertinentes e mantendo o foco no tema proposto. A linguagem é formal, adequada ao contexto e há apenas um erro gramatical evidente (digitação), que não compromete a compreensão geral do texto. O desenvolvimento do raciocínio é consistente e demonstra domínio sobre o assunto, além de boa organização textual. Por esses motivos, a nota final reflete um desempenho muito bom, com pequena penalização pelo erro de digitação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "na esfera das características atuais do país. Dessa forma, o diplomata brasileiro pode consolidar a consciência da necessidade de superação de mazelas sociais por meio do desenvolvimento. Pode, por fim, defender a ideia principal da política exter na bra sileira: a paz e o desenvolvimento são indissociáveis. (erro de digitação: \"exter na bra\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão sobre o tema, com encadeamento lógico e clareza nas ideias. A relação entre o excerto de Lucio Cardoso e a atuação do diplomata brasileiro é bem desenvolvida, demonstrando compreensão profunda do enunciado. A linguagem é adequada ao contexto e há apenas um erro de digitação perceptível, que não compromete a compreensão geral. O texto é coeso, coerente e demonstra domínio dos aspectos exigidos para a redação do CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "na esfera das características atuais do país. Dessa forma, o diplomata brasileiro pode consolidar a consciência da necessidade de superação de mazelas sociais por meio do desenvolvimento. Pode, por fim, defender a ideia principal da política exter na bra sileira: a paz e o desenvolvimento são indissociáveis.",
+      "política exter na bra sileira (espaçamento indevido)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão sobre o tema, com clareza e coerência no encadeamento das ideias. O candidato soube relacionar adequadamente o texto de referência com o papel do diplomata brasileiro, utilizando exemplos pertinentes e demonstrando repertório cultural. Houve apenas dois desvios gramaticais: um erro de digitação/segmentação (“exter na bra sileira”) e uma construção frasal um pouco truncada ao final, que não comprometeu a compreensão geral. A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário específico. A organização do texto é lógica e bem estruturada, com introdução, desenvolvimento e conclusão claros. Por esses motivos, a nota final reflete um desempenho muito bom, com pequenos deslizes gramaticais que não afetam a qualidade global da redação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "erro de digitação: \"política exter na bra sileira\" (espaços indevidos entre as palavras)"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com encadeamento lógico das ideias e clareza na exposição do tema proposto.",
+      "Há pertinência temática, pois o candidato dialoga de forma consistente com o texto de referência e desenvolve reflexão própria sobre o que é ser um diplomata brasileiro.",
+      "A linguagem é adequada ao contexto, com vocabulário formal e domínio da norma culta, ainda que haja um pequeno deslize de digitação.",
+      "A argumentação é bem fundamentada, com referências a autores e instituições relevantes, o que demonstra repertório e capacidade de articulação teórica.",
+      "O texto evidencia reflexão e coesão, mas não chega ao nível de originalidade e sofisticação que caracterizariam a faixa \"Excelente\" ou \"Excepcional\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "erro de digitação: \"política exter na bra sileira\" (espaçamento indevido entre as palavras)"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com clareza e coerência na articulação entre as ideias do enunciado e a discussão sobre o que é ser um diplomata brasileiro.",
+      "Há pertinência temática, com referências a autores e conceitos relevantes, demonstrando reflexão e capacidade de relacionar diferentes perspectivas.",
+      "A linguagem é adequada ao contexto, com domínio razoável da norma culta, embora haja um pequeno deslize de digitação que não compromete a compreensão.",
+      "A argumentação é consistente e demonstra compreensão do enunciado, mas poderia ser mais sofisticada em alguns trechos, especialmente ao aprofundar a relação entre identidade nacional e diplomacia.",
+      "O texto é coeso e demonstra capacidade de reflexão, mas não atinge o nível de originalidade ou profundidade analítica que caracterizaria a faixa \"Excelente\" ou \"Excepcional\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "política exter na bra sileira (erro de digitação e espaçamento)"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com clareza na exposição das ideias e pertinente articulação entre o referencial do enunciado e a discussão sobre o papel do diplomata brasileiro.",
+      "Há domínio consistente da norma culta, com apenas um deslize evidente de digitação e espaçamento, que não compromete a compreensão.",
+      "A argumentação é bem fundamentada, com referências a autores e contextos históricos relevantes, demonstrando reflexão e coesão.",
+      "O texto evidencia capacidade de reflexão sobre o tema, embora a argumentação não alcance nível de excepcionalidade em originalidade ou sofisticação analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "fundamental a identidade nacional",
+      "O diplomata defende, sobretudo, as ambições da nação brasileira – que não são diminutas, ao contrário do que afirma Cardoso",
+      "O diplomata brasileiro representa país entusiasta dos princípios democráticos"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com parágrafos bem delimitados e progressão lógica. O uso de referências literárias e históricas enriquece o texto, conferindo-lhe sofisticação e pertinência temática.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato articula ideias históricas, sociais e institucionais para fundamentar o que é ser diplomata brasileiro, demonstrando domínio do tema e capacidade de síntese.",
+      "1C: O texto revela boa capacidade de análise e reflexão, ao relacionar o conceito de identidade nacional com a atuação diplomática contemporânea, discutindo mudanças históricas e desafios atuais da diplomacia brasileira.",
+      "Erros gramaticais: 1) 'fundamental a identidade nacional' — falta de concordância (deveria ser 'fundamentam'); 2) 'representa país entusiasta' — falta de artigo ('representa o país entusiasta'); 3) O trecho 'ao contrário do que afirma Cardoso' pode ser considerado impreciso, pois o autor citado não afirma que as ambições são diminutas, mas sim que o país tem 'ambições diminutas' em certo contexto. Esse erro é mais de interpretação do que gramatical, mas afeta a precisão do argumento."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O diplomata brasileiro representa país entusiasta dos princípios democráticos. [Falta de artigo definido: 'representa o país']",
+      "o serviço diplomático defende os parâmetros que fundamental a identidade nacional [Erro de concordância verbal: 'fundamental' deveria ser 'fundamentam']"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com boa estruturação dos parágrafos e clareza na exposição das ideias. A referência ao texto de Lucio Cardoso é bem integrada ao tema da diplomacia, conferindo unidade ao texto. (1A)",
+      "A argumentação é sólida, com exemplos históricos e contemporâneos pertinentes, como a menção a Machado de Assis e às consultas públicas sobre mudanças climáticas. O texto demonstra domínio do tema e capacidade de sistematização. (1B)",
+      "A análise reflete criticamente sobre a evolução da diplomacia brasileira, relacionando-a com valores nacionais e desafios atuais. Há reflexão aprofundada sobre o papel do diplomata como representante da sociedade e agente de transformação. (1C)",
+      "Os erros gramaticais são pontuais e não comprometem a compreensão geral do texto, mas afetam a correção formal. Recomenda-se atenção à concordância verbal e ao uso de artigos.",
+      "A redação demonstra maturidade intelectual e capacidade de articulação entre teoria e prática, alinhando-se ao perfil esperado de um candidato ao CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "fundamental a identidade nacional",
+      "O diplomata defende, sobretudo, as ambições da nação brasileira – que não são diminutas, ao contrário do que afirma Cardoso [3]. (problema de regência: deveria ser “ao contrário do que ele afirma” ou “ao contrário do afirmado por Cardoso”)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com linguagem clara e elegante, o que justifica uma nota alta em apresentação e impressão geral (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e contemporâneos que enriquecem a discussão (1B).",
+      "A análise é reflexiva, mas poderia aprofundar mais a relação entre o conceito de “espírito nacional” e a prática diplomática, o que justifica uma pequena redução na nota de análise e reflexão (1C).",
+      "Há dois erros gramaticais: um de concordância (“fundamental” deveria ser “fundamentam”) e um de regência (“ao contrário do que afirma Cardoso” deveria ser “ao contrário do que ele afirma” ou “ao contrário do afirmado por Cardoso”).",
+      "O texto demonstra domínio do tema, boa estrutura e capacidade de argumentação, mas pequenas imprecisões gramaticais e uma reflexão ligeiramente superficial em relação ao conceito central do enunciado impedem a nota máxima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "[2] “redistribuição de renda” deveria ser “redistribuição de rendas” para concordância com “iniciativas”",
+      "[3] “fundamental” deveria ser “fundamentam”, pois o sujeito é “os parâmetros”",
+      "[1] Uso inadequado da vírgula após “mesma perspectiva” (deveria ser “por meio da mesma perspectiva, pode ser compreendido”)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A argumentação é sólida, com referências pertinentes e boa articulação entre o texto de apoio e o conceito de diplomata brasileiro.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão, mas afetam a precisão e a elegância da linguagem.",
+      "A linguagem é adequada ao contexto formal do concurso, com vocabulário preciso e estilo coeso.",
+      "O texto atende plenamente ao comando do enunciado, discutindo o que é ser diplomata brasileiro à luz das ideias do autor citado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "[2] “redistribuição de renda” deveria ser “redistribuição de renda” (sem erro aparente, mas há possível problema de concordância ou regência não explicitado no trecho; o erro mais claro está em [3])",
+      "[3] “os parâmetros que fundamental a identidade nacional” — o correto seria “fundamentam” (concordância verbal)",
+      "Em “defende, sobretudo, as ambições da nação brasileira – que não são diminutas, ao contrário do que afirma Cardoso”, há imprecisão semântica, pois o texto original de Cardoso não afirma que as ambições são diminutas, mas sim que o país tem “ambições diminutas” em certo contexto, o que pode ser considerado erro de interpretação ou de regência semântica."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização, clareza e encadeamento lógico das ideias, relacionando adequadamente o pensamento de Lucio Cardoso ao papel do diplomata brasileiro.",
+      "Há reflexão crítica e argumentação consistente sobre a evolução da diplomacia brasileira, sua relação com a sociedade e os valores nacionais.",
+      "A linguagem é formal e adequada ao tema, mas há pequenos deslizes gramaticais e de interpretação que afetam a precisão do texto.",
+      "A conclusão é pertinente e reforça o vínculo entre diplomacia e identidade nacional, embora a referência ao “erro” de Cardoso possa ser considerada uma distorção interpretativa.",
+      "No geral, o texto cumpre bem o tema e os requisitos, mas os erros gramaticais e de interpretação justificam pequena dedução na nota."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "fundamental a identidade nacional",
+      "os de outros países"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização, clareza e encadeamento lógico das ideias, com argumentação pertinente ao tema proposto. A reflexão sobre o papel do diplomata brasileiro é aprofundada e bem fundamentada no texto de referência.",
+      "Há dois erros gramaticais: concordância em \"fundamental a identidade nacional\" (deveria ser \"fundamentam\") e regência em \"os de outros países\" (melhor seria \"de outros povos\" ou \"de outras nações\").",
+      "A linguagem é adequada ao contexto e há domínio dos conceitos diplomáticos e políticos. O texto dialoga bem com o enunciado e demonstra capacidade de reflexão crítica.",
+      "A nota final reflete a qualidade global do texto, considerando a argumentação consistente e a pequena quantidade de desvios gramaticais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[2] Concordância: \"redistribuição de renda\" deveria ser seguido de \"redistribuições\" ou \"iniciativas de redistribuição de renda\" para concordar com \"iniciativas governamentais\".",
+      "[3] Concordância: \"os parâmetros que fundamental a identidade nacional\" deveria ser \"fundamentam\" para concordar com \"parâmetros\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre o tema proposto e o referencial teórico, demonstrando compreensão profunda do enunciado e capacidade de reflexão.",
+      "A argumentação é clara, bem estruturada e desenvolvida com pertinência, abordando a evolução da diplomacia brasileira e sua relação com a identidade nacional.",
+      "O texto evidencia domínio consistente da norma culta, com poucos deslizes gramaticais, e utiliza linguagem adequada ao contexto acadêmico e diplomático.",
+      "Há reflexão crítica sobre o papel do diplomata, com referências históricas e contemporâneas, o que enriquece a discussão.",
+      "A conclusão retoma o ponto central do enunciado e o relaciona ao papel atual do diplomata, conferindo coesão ao conjunto do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[2] Concordância: \"redistribuição de renda\" deveria ser seguido de \"iniciativas\", no plural, para manter a concordância: \"iniciativas governamentais voltadas à redistribuição de renda\".",
+      "[3] Concordância: \"os parâmetros que fundamental a identidade nacional\" deveria ser \"fundamentam\", para concordar com \"parâmetros\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre o enunciado e a discussão sobre o papel do diplomata brasileiro, demonstrando compreensão profunda do tema e capacidade de argumentação.",
+      "A estrutura é clara e lógica, com encadeamento coeso das ideias, transições adequadas e reflexão pertinente sobre identidade nacional, democracia e desenvolvimento.",
+      "A linguagem é formal, precisa e apropriada ao contexto do CACD, com poucos deslizes gramaticais que não comprometem a clareza nem a qualidade geral do texto.",
+      "O candidato demonstra domínio do tema, capacidade de relacionar referências literárias e políticas, e originalidade ao discutir a evolução da diplomacia brasileira.",
+      "Apenas dois erros de concordância foram identificados, o que é compatível com o nível ótimo de desempenho."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Os parâmetros que fundamental a identidade nacional"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, desenvolvendo de forma clara e coerente a relação entre o pensamento de Lúcio Cardoso e o papel do diplomata brasileiro.",
+      "A argumentação é consistente, com exemplos históricos e atuais que enriquecem a reflexão sobre a identidade nacional e a função da diplomacia.",
+      "O domínio da norma culta é elevado, com apenas um desvio de concordância verbal (“fundamental” deveria ser “fundamentam”).",
+      "A linguagem é adequada ao contexto acadêmico e ao tema, com vocabulário preciso e estilo maduro.",
+      "O texto demonstra capacidade de análise e reflexão, aproximando-se de um nível excelente, mas sem atingir o grau de excepcionalidade por ausência de insights teóricos inovadores ou de uma elaboração estilística ainda mais sofisticada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com introdução clara, desenvolvimento coeso e conclusão bem amarrada ao tema proposto. O estilo é elegante e a linguagem é precisa, conferindo legibilidade e coerência ao texto.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza referências culturais e históricas relevantes (Lucio Cardoso, Edward Said, Silviano Santiago, Mário de Andrade) para fundamentar sua análise sobre o que é ser um diplomata brasileiro, demonstrando domínio do tema.",
+      "A capacidade de análise e reflexão é notável: o texto vai além da simples exposição, promovendo uma reflexão crítica sobre a identidade nacional e sua relação com a atuação diplomática, destacando a dialética entre tradição e inovação.",
+      "Não foram identificados erros gramaticais. O texto está correto quanto à concordância, ortografia, pontuação e regência.",
+      "Observação: Os trechos marcados como [1] e [2] não apresentam erro gramatical, mas são apenas pontos de atenção quanto à fluidez textual, sem prejuízo à correção."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com coerência e legibilidade exemplares. O estilo é elegante, formal e adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza referências culturais e históricas relevantes, como Lucio Cardoso, Edward Said, Silviano Santiago e Mário de Andrade, para fundamentar sua análise sobre o que é ser um diplomata brasileiro.",
+      "A capacidade de análise e reflexão é notável, pois o texto articula de forma sofisticada a relação entre identidade nacional, tradição e inovação na diplomacia brasileira, demonstrando compreensão profunda do tema.",
+      "Não foram identificados erros gramaticais. O uso da língua é correto e preciso, com domínio de pontuação, concordância, regência e ortografia.",
+      "O texto responde diretamente ao enunciado, desenvolvendo uma tese clara e sustentada por argumentos históricos e conceituais. A conclusão é coesa e reforça a ideia central do “entre-lugar” e da dialética entre tradição e inovação.",
+      "Apenas pequenos ajustes de estilo poderiam ser sugeridos, mas não há prejuízo à qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo elegante e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências culturais e históricas adequadas, mas há pequenas redundâncias que impedem nota máxima em 1B.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de relacionar conceitos complexos (identidade nacional, diplomacia, tradição e inovação), justificando nota elevada em 1C.",
+      "Não foram identificados erros gramaticais. O texto está correto quanto à norma culta do português.",
+      "A redação dialoga de forma consistente com o enunciado, explorando o conceito de identidade nacional e sua relação com a atuação diplomática brasileira.",
+      "A menção a autores e conceitos (Lucio Cardoso, Edward Said, Silviano Santiago, antropofagia, Mário de Andrade) enriquece o texto, conferindo densidade teórica e pertinência temática.",
+      "A conclusão sintetiza de forma clara a ideia central: o diplomata brasileiro como síntese entre tradição e inovação, refletindo o “entre-lugar” da identidade nacional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A argumentação é consistente, articulando referências culturais, históricas e conceituais pertinentes à identidade nacional e à atuação diplomática brasileira.",
+      "A linguagem é correta, formal e adequada ao contexto acadêmico, sem erros gramaticais detectáveis.",
+      "O texto responde de forma precisa ao enunciado, relacionando a reflexão de Lucio Cardoso à função do diplomata brasileiro e exemplificando com momentos históricos e conceitos relevantes da diplomacia nacional.",
+      "A redação demonstra domínio sobre o tema e capacidade de síntese, equilibrando tradição e inovação na atuação diplomática, conforme solicitado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] a dependência cultural, política e econômica em relação ao continente europeu, em um processo que exerceu influência significativa... — falta de paralelismo: o correto seria “em relação ao continente europeu, processo que exerceu...” ou “em relação ao continente europeu, o qual exerceu...”",
+      "[2] mas sim o equilíbrio de tensões — o uso de “mas sim” exige paralelismo com “não só”, o que não ocorre no trecho; o ideal seria “mas, sim, o equilíbrio...” ou “mas sim, antes, o equilíbrio...”"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sofisticada e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é adequada, formal e precisa, com domínio de conceitos teóricos e referências culturais pertinentes.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto, mas afetam a correção formal e a elegância da construção sintática.",
+      "A redação demonstra capacidade de relacionar o conceito de identidade nacional à atuação diplomática brasileira, com exemplos históricos e contemporâneos pertinentes.",
+      "A conclusão é coerente e reforça a tese central, evidenciando a síntese entre tradição e inovação na diplomacia brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e sofisticada as ideias do enunciado com a função do diplomata brasileiro.",
+      "A argumentação é bem estruturada, com encadeamento lógico e referências culturais e teóricas pertinentes (Lucio Cardoso, Edward Said, Silviano Santiago, Mário de Andrade, antropofagia, modernismo).",
+      "A linguagem é precisa, formal e adequada ao contexto acadêmico e diplomático, sem erros gramaticais ou desvios de norma culta.",
+      "O texto demonstra reflexão aprofundada sobre a identidade nacional e sua relação com a atuação diplomática, evidenciando capacidade analítica e originalidade.",
+      "A conclusão sintetiza de forma elegante o papel do diplomata como mediador entre tradição e inovação, nacional e universal, reforçando a coerência do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre o tema proposto e o repertório teórico-cultural, demonstrando domínio sobre conceitos como identidade nacional, antropofagia, entre-lugar e diplomacia brasileira.",
+      "A argumentação é sólida, original e bem encadeada, com reflexão aprofundada sobre o papel do diplomata brasileiro à luz da construção da identidade nacional.",
+      "A linguagem é precisa, formal e adequada ao contexto acadêmico-diplomático, sem desvios gramaticais ou problemas de clareza.",
+      "O texto evidencia capacidade de síntese e de análise crítica, relacionando tradição e inovação na atuação diplomática com exemplos históricos e conceituais pertinentes.",
+      "A conclusão é coerente e reforça o caráter dialético da identidade do diplomata brasileiro, em sintonia com o enunciado e com o lema modernista citado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre o tema proposto e o repertório teórico-cultural, demonstrando domínio sobre conceitos como identidade nacional, antropofagia, entre-lugar e diplomacia brasileira.",
+      "A argumentação é sólida, original e bem encadeada, com reflexão aprofundada sobre o papel do diplomata brasileiro à luz da construção histórica da identidade nacional.",
+      "A linguagem é precisa, formal e adequada ao contexto acadêmico-diplomático, sem desvios gramaticais ou problemas de clareza.",
+      "O texto evidencia capacidade analítica, originalidade e maturidade estilística, aproximando-se do padrão esperado de um especialista na área."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "formação constitutivo do país",
+      "institucionalizarem-se",
+      "nem ser excessivamente saudoso da pátria no exterior, ao sobrevalorizar as características do país"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenas imprecisões de estilo e escolha vocabular prejudicam minimamente a apresentação (nota 1A: 9.0).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e contemporâneos adequados. Apenas faltam algumas articulações mais explícitas entre os argumentos (nota 1B: 9.0).",
+      "A análise é profunda, reflete criticamente sobre o papel do diplomata brasileiro e dialoga de forma sofisticada com o texto de referência. A reflexão sobre identidade nacional e desafios contemporâneos é especialmente relevante (nota 1C: 9.0).",
+      "Foram identificados três erros gramaticais: 'formação constitutivo' (deveria ser 'constitutiva'), 'institucionalizarem-se' (forma verbal inadequada, deveria ser 'institucionalizaram-se'), e uma construção sintática ambígua ('nem ser excessivamente saudoso... ao sobrevalorizar...').",
+      "O texto demonstra domínio do tema, boa capacidade analítica e argumentativa, mas pode ser aprimorado em precisão gramatical e clareza de algumas construções."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "formação constitutivo do país",
+      "institucionalizarem-se",
+      "nem ser excessivamente saudoso da pátria no exterior, ao sobrevalorizar as características do país"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com boa estrutura e legibilidade. A linguagem é clara e elegante, mas há pequenas impropriedades que afetam a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato demonstra domínio do enunciado e capacidade de relacionar conceitos históricos e contemporâneos.",
+      "A análise é profunda e reflexiva, com capacidade de síntese e de crítica, especialmente ao abordar o papel do diplomata brasileiro frente aos desafios atuais e à identidade nacional.",
+      "Foram identificados três erros gramaticais: 'formação constitutivo' (deveria ser 'constitutiva'), 'institucionalizarem-se' (forma inadequada, deveria ser 'institucionalizaram-se') e uma construção sintática ambígua ao tratar do saudosismo.",
+      "O texto dialoga de forma consistente com o enunciado, mas poderia aprimorar a precisão gramatical e evitar ambiguidades pontuais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "institucionalizarem-se",
+      "formação constitutivo",
+      "nem ser excessivamente saudoso da pátria no exterior, ao sobrevalorizar as características do país"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com linguagem clara e elegante, mas há pequenas impropriedades gramaticais que afetam a fluidez (nota 1A: 9.0).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e contemporâneos que enriquecem a discussão (nota 1B: 9.0).",
+      "A análise é profunda e reflexiva, demonstrando capacidade de relacionar o texto de referência com o papel do diplomata brasileiro, inclusive abordando desafios contemporâneos (nota 1C: 9.0).",
+      "Erros gramaticais identificados: 'institucionalizarem-se' (forma verbal inadequada), 'formação constitutivo' (erro de concordância de gênero), e construção imprecisa em 'nem ser excessivamente saudoso da pátria no exterior, ao sobrevalorizar as características do país' (ambiguidade).",
+      "Sugestão: revisar concordância e precisão vocabular para evitar ambiguidades e impropriedades."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "formação constitutivo",
+      "institucionalizarem-se"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, com argumentação clara, coerente e reflexiva sobre o que é ser um diplomata brasileiro, dialogando de forma pertinente com o enunciado e com referências culturais e históricas apropriadas.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário técnico da diplomacia.",
+      "Há poucos erros gramaticais, como 'formação constitutivo' (o correto seria 'formação constitutiva') e 'institucionalizarem-se' (forma verbal inadequada, deveria ser 'institucionalizaram-se').",
+      "A estrutura do texto é bem organizada, com encadeamento lógico das ideias e conclusão integrada ao tema.",
+      "A redação atende plenamente aos critérios de correção gramatical e propriedade da linguagem, com leve prejuízo pontual devido aos erros identificados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "formação constitutivo",
+      "institucionalizarem-se"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, com argumentação clara, coerente e reflexiva sobre o que é ser um diplomata brasileiro, dialogando de forma pertinente com o enunciado e com referências culturais e históricas. A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário técnico da diplomacia. Há, contudo, dois erros gramaticais pontuais: “formação constitutivo” deveria ser “formação constitutiva” (concordância) e “institucionalizarem-se” deveria ser “institucionalizaram-se” (conjugação verbal). Tais desvios são mínimos e não comprometem a compreensão global do texto. O encadeamento das ideias é lógico e a redação demonstra capacidade crítica e analítica, atendendo plenamente aos critérios de organização e correção exigidos pelo concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "formação constitutivo",
+      "institucionalizarem-se"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A argumentação é consistente e dialoga de forma pertinente com o enunciado, explorando a identidade nacional e o papel do diplomata brasileiro.",
+      "Há dois erros gramaticais pontuais: “formação constitutivo” deveria ser “formação constitutiva” e “institucionalizarem-se” deveria ser “institucionalizaram-se”.",
+      "A linguagem é adequada ao contexto formal do concurso, com vocabulário preciso e propriedade discursiva.",
+      "A redação aborda de maneira equilibrada os desafios contemporâneos da diplomacia brasileira, incluindo diversidade e adaptação internacional, sem perder de vista a essência do ofício diplomático."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "institucionalizarem-se (forma correta: institucionalizarem-se ou institucionalizaram-se, mas o contexto pede \"institucionalizaram-se\")",
+      "formação constitutivo (forma correta: formação constitutiva)",
+      "nem sempre suas convicções pessoais sejam compatíveis (melhor seria \"nem sempre sejam compatíveis com\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação das ideias, com argumentação clara e pertinente ao tema proposto.",
+      "Há boa relação entre o texto de referência e a discussão sobre o que é ser diplomata brasileiro, demonstrando reflexão e compreensão do enunciado.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio da norma culta, apesar de alguns deslizes pontuais.",
+      "A estrutura do texto é lógica, com encadeamento coerente entre os parágrafos e desenvolvimento progressivo do raciocínio.",
+      "O uso de exemplos históricos e referências culturais enriquece a argumentação e evidencia repertório.",
+      "A abordagem dos desafios contemporâneos da diplomacia brasileira é pertinente e atual.",
+      "A conclusão sintetiza bem os pontos discutidos e reforça o papel do diplomata como mediador entre o nacional e o internacional.",
+      "Os erros gramaticais são poucos e não comprometem a clareza nem a qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "institucionalizarem-se",
+      "formação constitutivo",
+      "nem sempre suas convicções pessoais sejam compatíveis"
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com argumentação clara e pertinente ao tema proposto, demonstrando reflexão e coesão.",
+      "Há poucos deslizes gramaticais, como o uso inadequado de 'institucionalizarem-se' (forma verbal incorreta), 'formação constitutivo' (erro de concordância) e construção pouco idiomática em 'nem sempre suas convicções pessoais sejam compatíveis'.",
+      "O candidato articula bem referências culturais e conceitos diplomáticos, mostrando domínio do tema e da linguagem formal.",
+      "A argumentação é consistente, abordando a identidade nacional, a função do diplomata e desafios contemporâneos, com exemplos e reflexão crítica.",
+      "A redação demonstra capacidade de análise e não se limita a repetir o enunciado, mas o expande com pertinência e clareza."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "institucionalizarem-se",
+      "formacao constitutivo",
+      "nem sempre suas convicções pessoais sejam compatíveis"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando de forma pertinente o trecho de Lúcio Cardoso ao papel do diplomata brasileiro.",
+      "A argumentação é clara, bem estruturada e demonstra reflexão sobre o tema, abordando tanto aspectos históricos quanto contemporâneos da diplomacia.",
+      "Há domínio consistente da norma culta, com apenas alguns deslizes pontuais de concordância e regência.",
+      "O uso de referências culturais e históricas enriquece o texto e evidencia repertório, sem perder o foco na discussão central.",
+      "A linguagem é adequada ao contexto formal e o encadeamento das ideias é lógico, com transições suaves entre os parágrafos.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a clareza ou a coerência do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] erro de regência: 'em relação a Europa' deveria ser 'em relação à Europa' (crase obrigatória antes de substantivo feminino definido)."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e linguagem elegante, justificando nota alta em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências teóricas adequadas e bem integradas, o que justifica nota alta em 1B.",
+      "A análise é profunda, reflexiva e demonstra capacidade de síntese e crítica, especialmente ao articular conceitos como 'dilema do mazombo', 'ideias fora do lugar' e 'ninguendade', justificando nota alta em 1C.",
+      "Há apenas um erro gramatical identificável: ausência de crase em 'em relação a Europa'.",
+      "O texto demonstra domínio do tema, das referências e da linguagem, sendo adequado ao perfil de um candidato ao CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] erro de regência: o correto seria \"em relação à Europa\" (crase obrigatória antes de palavra feminina que admite artigo)."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo elegante e legibilidade, com estrutura clara e progressão lógica (nota 1A: 9.0).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências teóricas e históricas adequadas (nota 1B: 9.0).",
+      "A análise é profunda, demonstrando reflexão crítica sobre a identidade nacional e o papel do diplomata, com capacidade de síntese e originalidade (nota 1C: 9.0).",
+      "Há apenas um erro gramatical de regência (falta de crase em \"a Europa\").",
+      "O texto dialoga de forma consistente com o enunciado, interpretando o conceito de \"espírito brasileiro\" e aplicando-o ao ofício diplomático.",
+      "A redação demonstra domínio do vocabulário e das estruturas sintáticas, com pouquíssimos desvios."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo elegante e legibilidade, com estrutura clara e progressão lógica dos argumentos (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências culturais e teóricas adequadas e integradas ao debate sobre diplomacia brasileira (1B).",
+      "O candidato demonstra capacidade analítica e reflexiva ao articular conceitos como 'dilema do mazombo', 'ideias fora do lugar' e 'ninguendade', relacionando-os à função diplomática contemporânea (1C).",
+      "Não foram identificados erros gramaticais. O texto está correto em termos de concordância, ortografia, pontuação e regência.",
+      "A redação atende plenamente ao enunciado, desenvolvendo uma interpretação sofisticada do que significa ser diplomata brasileiro à luz das ideias do texto de referência."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] erro de regência: “em relação a Europa” deveria ser “em relação à Europa” (crase obrigatória)",
+      "[2] erro de concordância: “não admitem opções excludentes” deveria ser “não admite opções excludentes”, pois o sujeito é “a necessidade de considerar”"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A argumentação é sólida, com referências culturais e teóricas pertinentes, o que enriquece a discussão sobre o que é ser diplomata brasileiro.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário específico.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto, mas impactam negativamente a nota final.",
+      "A redação cumpre plenamente o objetivo de discutir o tema à luz das ideias do texto de referência, com originalidade e profundidade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com argumentação clara, coerente e bem encadeada.",
+      "A linguagem é apropriada, formal e demonstra domínio de vocabulário e referências culturais e acadêmicas pertinentes ao tema.",
+      "Não foram identificados erros gramaticais relevantes.",
+      "A redação demonstra reflexão profunda e original sobre o que é ser diplomata brasileiro, dialogando de forma consistente com o enunciado e autores citados.",
+      "Apenas pequenos ajustes poderiam ser feitos para maior precisão em algumas passagens, mas não comprometem a qualidade global do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] erro de regência: 'em relação a a Europa' deveria ser 'em relação à Europa' (crase obrigatória)",
+      "[2] erro de concordância: 'que inviabilizariam a função' deveria ser 'que inviabilizaria a função', pois o sujeito é 'a função diplomática' (singular)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando referências culturais e teóricas pertinentes ao debate sobre identidade nacional e diplomacia brasileira.",
+      "A argumentação é clara, coerente e bem encadeada, demonstrando capacidade de reflexão crítica e originalidade na interpretação do enunciado.",
+      "A linguagem é formal, adequada ao contexto acadêmico e diplomático, com vocabulário preciso e construção frasal sofisticada.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto, mas impactam negativamente a nota final.",
+      "A redação cumpre plenamente os requisitos de profundidade analítica e correção linguística esperados em um concurso de alto nível como o CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[2] erro de concordância verbal: \"não admitem opções excludentes que inviabilizariam a função diplomática\" — o correto seria \"não admite opções excludentes que inviabilizariam...\" (sujeito \"a necessidade\" implícito ou \"a característica plural\"; o verbo deveria concordar com o termo referido)."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação argumentativa, com referências teóricas pertinentes e reflexão aprofundada sobre o tema proposto.",
+      "A estrutura é clara, com encadeamento lógico das ideias e capacidade de relacionar conceitos complexos (como \"dilema do mazombo\", \"ideias fora do lugar\" e \"ninguendade\") ao papel do diplomata brasileiro.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais.",
+      "O candidato demonstra domínio temático e capacidade de análise, evidenciando reflexão crítica sobre identidade nacional e política externa.",
+      "O único erro gramatical identificado é de concordância verbal, que não compromete a clareza nem a coerência do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] erro de regência: falta de crase em 'a Europa' (deveria ser 'à Europa' para indicar movimento ou referência direcionada)."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação argumentativa, com referências teóricas pertinentes e reflexão aprofundada sobre o tema solicitado.",
+      "Há clareza na exposição das ideias e coerência na construção do raciocínio, demonstrando domínio do tema e da linguagem.",
+      "O candidato utiliza conceitos e autores relevantes para fundamentar sua análise, evidenciando repertório e capacidade de argumentação.",
+      "O único deslize gramatical identificado é pontual e não compromete a compreensão do texto.",
+      "A redação demonstra reflexão madura sobre o papel do diplomata brasileiro, alinhada ao enunciado e às exigências do concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando referências teóricas e conceitos relevantes de forma clara e coesa.",
+      "A argumentação é bem estruturada, com encadeamento lógico das ideias e reflexão aprofundada sobre o que significa ser diplomata brasileiro.",
+      "A linguagem é adequada, formal e precisa, sem erros gramaticais ou desvios de norma culta.",
+      "O candidato demonstra capacidade de relacionar diferentes autores e conceitos, evidenciando repertório e originalidade na abordagem do tema.",
+      "A redação é clara, coesa e demonstra maturidade analítica, com poucos deslizes e grande fluidez textual."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] uso inadequado da crase: 'delineia-se à medida que' deveria ser 'delineia-se à medida que' (correto, mas há ambiguidade devido à ausência de vírgula após 'delineia-se'); o correto seria 'delineia-se, à medida que...')",
+      "[2] concordância verbal: 'Esse conceito e a posição brasileira baseiam-se' (correto), mas a construção pode induzir erro; o ideal seria 'Esse conceito e essa posição baseiam-se' para evitar ambiguidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com linguagem clara e elegante, mas há pequenas imprecisões gramaticais que afetam a fluidez.",
+      "A argumentação é sólida, com referências pertinentes e bem articuladas ao tema, demonstrando domínio do assunto e capacidade de síntese.",
+      "A análise é profunda, relacionando o conceito de identidade nacional ao papel do diplomata, mas poderia explorar mais as contradições internas do Brasil.",
+      "A redação demonstra reflexão crítica e capacidade de conectar diferentes autores e conceitos, embora algumas passagens possam ser mais claras com pequenas revisões."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] uso inadequado da crase: 'delineia-se à medida que' deveria ser 'delineia-se à medida em que' (locução conjuntiva exige preposição 'em')",
+      "[2] concordância verbal: 'Esse conceito e a posição brasileira baseiam-se' (plural) e não 'baseiam-se' com verbo no singular"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo elegante e boa legibilidade, com estrutura clara e progressão lógica dos argumentos.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências a autores e conceitos relevantes do debate sobre identidade nacional e diplomacia brasileira.",
+      "A análise é profunda, reflete criticamente sobre o que é ser diplomata brasileiro à luz do texto de referência, mas poderia explorar mais as contradições internas do conceito de 'espírito nacional'.",
+      "Há dois erros gramaticais pontuais, ambos de fácil correção e sem prejuízo significativo à compreensão.",
+      "O texto demonstra domínio do tema, boa articulação entre teoria e prática diplomática, e sensibilidade para questões contemporâneas como diversidade e desigualdade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] crase indevida: 'delineia-se à medida que' (o correto é 'à medida que' sem crase, pois não há artigo antes de 'medida');",
+      "[2] concordância verbal: 'Esse conceito e a posição brasileira baseiam-se' (o correto seria 'baseiam-se', pois o sujeito é composto e está no plural)."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo elegante e legibilidade, com estrutura clara e progressão lógica das ideias (nota 1A: 9/10).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências a autores e exemplos históricos que enriquecem o debate (nota 1B: 9/10).",
+      "A análise é profunda, reflete criticamente sobre o conceito de identidade nacional e o papel do diplomata, dialogando com o texto de referência (nota 1C: 9/10).",
+      "Há dois erros gramaticais pontuais: uso indevido da crase e erro de concordância verbal, ambos facilmente corrigíveis.",
+      "O texto demonstra domínio do tema e da linguagem, mas poderia aprofundar ainda mais a reflexão sobre os desafios contemporâneos da diplomacia brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] uso inadequado da crase: 'delineia-se à medida que' deveria ser 'delineia-se à medida que' (correto, mas há ambiguidade de regência; o ideal seria 'à proporção que' ou 'conforme').",
+      "[2] concordância verbal: 'Esse conceito e a posição brasileira baseiam-se' (plural) em vez de 'baseiam-se' (correto, mas o texto registra 'baseiam-se' como se fosse singular)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sólida e reflexão aprofundada sobre o tema.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio de vocabulário e referências culturais pertinentes.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "A conclusão é coerente e retoma os principais pontos discutidos, reforçando a ideia central de que ser diplomata brasileiro envolve conhecimento, identidade nacional e atualização constante.",
+      "A referência ao texto motivador é feita de forma pertinente e integrada à argumentação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] 'delineia-se à medida que' deveria ser 'delineia-se à medida que' (correto, mas poderia ser 'vai se delineando à medida que' para maior fluidez); o uso de crase está correto, mas a construção pode soar pouco natural.",
+      "[2] 'baseiam-se' deveria concordar com 'conceito e posição', portanto o correto seria 'baseia-se' (singular) ou 'baseiam-se' se considerar ambos como sujeito composto; há ambiguidade de concordância."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é adequada ao contexto e há boa utilização de referências teóricas e históricas.",
+      "Há dois pequenos desvios gramaticais que não comprometem a compreensão, mas afetam a correção formal do texto.",
+      "A conclusão é pertinente e reforça a ideia central do texto, alinhando-se ao enunciado e à proposta temática."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "delineia-se [1] à medida que ele faz valer",
+      "baseiam-se [2] em ativa participação",
+      "Considerando a discussão feita [3], conclui-se que explicações de outrora"
+    ],
+    "feedbacks": [
+      "O uso da crase em 'delineia-se à medida que' é inadequado, pois 'à medida que' é locução conjuntiva e não exige crase.",
+      "A concordância em 'baseiam-se em ativa participação' está incorreta; o correto seria 'baseia-se em participação ativa', pois o sujeito é o conceito, singular.",
+      "A expressão 'Considerando a discussão feita' está ambígua e pouco precisa; seria melhor 'Considerando o exposto' ou 'Com base na discussão acima'.",
+      "Apesar desses deslizes, o texto apresenta excelente organização, argumentação consistente e linguagem adequada ao tema.",
+      "A redação demonstra compreensão do enunciado, boa articulação de ideias e uso pertinente de referências teóricas e históricas.",
+      "A reflexão sobre o papel do diplomata brasileiro é profunda e bem fundamentada, atendendo plenamente ao tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] uso inadequado da crase: \"delineia-se à medida que\" deveria ser \"delineia-se à medida que\" (correto, mas há ambiguidade de sentido; o ideal seria \"vai-se delineando à medida que\")",
+      "[2] concordância verbal: \"Esse conceito e a posição brasileira baseiam-se\" (correto), mas a construção pode soar truncada; o problema está mais na clareza do que na gramática"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com encadeamento lógico e referências pertinentes ao tema proposto.",
+      "Demonstra domínio do vocabulário e da norma culta, com poucos deslizes gramaticais.",
+      "A reflexão sobre o que é ser diplomata brasileiro é pertinente e vai além da superficialidade, abordando questões de identidade nacional, desafios internos e atuação internacional.",
+      "A articulação entre citações e argumentos é eficiente, evidenciando capacidade de análise e coesão textual.",
+      "A conclusão é clara e reforça a ideia central do texto, embora pudesse ser mais original ou aprofundada.",
+      "Os dois pequenos problemas gramaticais não comprometem a compreensão nem a qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] \"delineia-se à medida que\": o correto seria \"delineia-se à medida que\" sem crase, pois se trata de locução conjuntiva feminina invariável.",
+      "[2] \"baseiam-se\": o verbo deveria concordar com \"esse conceito e a posição brasileira\", portanto o correto seria \"baseia-se\" (no singular) ou \"baseiam-se\" se houvesse clareza de que são dois elementos distintos; a forma atual gera ambiguidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com encadeamento lógico e argumentação consistente sobre o que é ser diplomata brasileiro, dialogando com o enunciado e autores citados.",
+      "Há reflexão pertinente sobre identidade nacional, desafios internos e papel do diplomata, demonstrando domínio do tema e da linguagem.",
+      "A linguagem é formal e adequada ao contexto, com poucos deslizes gramaticais que não comprometem a clareza.",
+      "A citação de exemplos históricos e conceitos de política externa enriquece a argumentação e evidencia repertório.",
+      "O texto poderia aprofundar mais a relação entre \"espírito nacional\" e diplomacia, mas cumpre bem o proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] uso inadequado da crase: \"delineia-se à medida que\" deveria ser \"delineia-se à medida que\" (correto, mas há discussão sobre o uso da crase nesse caso; em contextos formais, prefere-se \"à medida que\" sem crase quando não há artigo definido antes de \"medida\")",
+      "[2] concordância verbal: \"Esse conceito e a posição brasileira baseiam-se\" (e não \"baseiam-se\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com encadeamento lógico das ideias e referências pertinentes ao tema proposto.",
+      "Há clareza na exposição dos argumentos e pertinência temática, demonstrando compreensão do enunciado e capacidade de reflexão.",
+      "A linguagem é adequada ao contexto formal do CACD, com vocabulário apropriado e domínio razoável da norma culta.",
+      "Os deslizes gramaticais são pontuais e não comprometem a compreensão geral do texto.",
+      "O texto evidencia reflexão crítica sobre o papel do diplomata brasileiro, articulando identidade nacional, desafios internos e atuação internacional.",
+      "A conclusão é coesa e reforça a necessidade de renovação do entendimento sobre o Brasil, alinhando-se ao espírito do enunciado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[3] uso inadequado da vírgula antes de 'para que', pois não há pausa obrigatória nesse caso",
+      "[4] erro de concordância: 'para bem representa-las' deveria ser 'para bem representá-las' (pronome oblíquo átono)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenas imprecisões estilísticas impedem a nota máxima (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências culturais e institucionais adequadas. Apenas faltou maior aprofundamento em alguns pontos para atingir a nota máxima (1B).",
+      "A análise é reflexiva e demonstra capacidade de relacionar o conceito de 'espírito brasileiro' ao papel do diplomata, mas poderia explorar mais as tensões e desafios contemporâneos (1C).",
+      "Foram identificados dois erros gramaticais: um de pontuação e um de concordância verbal/pronominal.",
+      "O texto é bem fundamentado, mas poderia ganhar em originalidade ao discutir mais criticamente os limites da identidade nacional e da diplomacia brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[3] uso inadequado da vírgula antes de 'para que', pois não há pausa sintática obrigatória nesse caso",
+      "[4] erro de concordância: 'para bem representa-las' deveria ser 'para bem representá-las', pois o pronome oblíquo deve estar na forma átona e concordar com o feminino plural"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com linguagem clara e elegante, o que justifica a nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências culturais e institucionais adequadas, o que justifica a nota elevada em 1B.",
+      "A análise é profunda e reflexiva, relacionando identidade nacional, multiculturalidade e o papel do diplomata, o que justifica a nota elevada em 1C.",
+      "Há dois erros gramaticais pontuais, ambos de fácil correção, sem comprometer a clareza do texto.",
+      "O texto demonstra domínio do tema e capacidade de articulação entre teoria e prática diplomática, sendo adequado ao perfil do CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[3] uso inadequado da vírgula antes de 'para que', pois não há pausa sintática obrigatória nesse caso",
+      "[4] erro de concordância: 'para bem representa-las' deveria ser 'para bem representá-las' (forma correta do pronome átono com verbo no infinitivo)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos ajustes de estilo poderiam aprimorá-lo.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza referências culturais e institucionais adequadas, demonstrando domínio do assunto.",
+      "A análise é profunda e reflexiva, relacionando identidade nacional, multiculturalidade e o papel do diplomata brasileiro. O texto vai além da superficialidade, promovendo reflexão sobre o dever do diplomata.",
+      "Os erros gramaticais são poucos e não comprometem a compreensão, mas revelam atenção a ser aprimorada em pontuação e concordância pronominal.",
+      "A redação atende plenamente ao enunciado, dialogando com as ideias do texto-base e aplicando-as ao contexto diplomático brasileiro."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "para bem representa-las (correto: representá-las)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A argumentação é consistente e bem fundamentada, com referências culturais e políticas pertinentes ao contexto brasileiro.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário específico do tema.",
+      "Há apenas um erro gramatical de regência verbal (representa-las), que não compromete a compreensão geral do texto.",
+      "O texto responde de forma completa ao enunciado, relacionando a identidade nacional à atuação do diplomata brasileiro com propriedade e originalidade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "para bem representa-las [4] (correto: representá-las)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com argumentação clara, coerente e reflexiva, alinhada ao enunciado proposto.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário, com poucos desvios gramaticais.",
+      "O candidato articula bem referências culturais e políticas, demonstrando repertório e capacidade de reflexão sobre o papel do diplomata brasileiro.",
+      "Há apenas um erro de regência verbal, que não compromete a clareza do texto, mas deve ser considerado na pontuação final."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "para bem representa-las (correto: representá-las)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A argumentação é consistente e bem fundamentada, com referências culturais e políticas pertinentes ao contexto brasileiro e diplomático.",
+      "A linguagem é formal, adequada e correta, com apenas um erro gramatical de regência verbal (representa-las).",
+      "O candidato soube articular o conceito de \"espírito brasileiro\" com o papel do diplomata, destacando a multiculturalidade e o dever de representação do povo brasileiro.",
+      "A redação cumpre plenamente os requisitos do enunciado e dos critérios de avaliação, justificando uma nota elevada, descontando-se apenas o pequeno erro gramatical identificado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[4] Concordância verbal: \"para bem representa-las\" deveria ser \"para bem representá-las\" (forma correta do infinitivo com pronome enclítico)."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza na exposição das ideias, com encadeamento lógico e argumentação pertinente ao tema proposto.",
+      "Há domínio consistente do tema, com referências culturais e políticas adequadas, demonstrando reflexão e coesão.",
+      "A linguagem é apropriada e formal, com poucos deslizes gramaticais, sendo o único erro relevante a concordância verbal no final do texto.",
+      "O texto evidencia compreensão profunda do enunciado e da função do diplomata brasileiro, articulando identidade nacional, multiculturalidade e responsabilidade pública.",
+      "A argumentação é bem estruturada, com exemplos e citações pertinentes, o que confere densidade e relevância à reflexão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[4] Concordância verbal: \"para bem representa-las\" deveria ser \"para bem representá-las\" (pronome oblíquo átono com verbo no infinitivo)."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza na exposição das ideias, com encadeamento lógico e argumentação consistente sobre o que significa ser um diplomata brasileiro.",
+      "Há pertinência temática, com referências culturais e históricas adequadas (José de Alencar, Mário de Andrade, Darcy Ribeiro, Lucio Cardoso, Mauro Vieira), o que enriquece a reflexão.",
+      "A linguagem é formal, precisa e apropriada ao contexto do CACD, com poucos deslizes gramaticais.",
+      "O texto demonstra reflexão madura sobre identidade nacional, multiculturalidade e o papel do diplomata, além de evidenciar coesão e capacidade de articular diferentes perspectivas.",
+      "O único erro gramatical identificado é de concordância verbal com pronome oblíquo, o que não compromete a qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "para bem representa-las [4] (erro de concordância: o correto seria representá-las, pois o verbo deve concordar com o pronome oblíquo referente a \"as dificuldades e os anseios\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza, desenvolvendo o tema com coerência e encadeamento lógico das ideias. A argumentação é pertinente e demonstra reflexão sobre o conceito de identidade nacional e o papel do diplomata brasileiro.",
+      "A linguagem é adequada ao contexto, com vocabulário preciso e poucos deslizes gramaticais. O uso de referências culturais e políticas enriquece a discussão e evidencia domínio do tema.",
+      "O texto aborda a multiculturalidade, o dever do diplomata e a relação entre identidade nacional e representação internacional, articulando diferentes dimensões do conceito de ser diplomata brasileiro.",
+      "O único erro gramatical identificado é de concordância verbal, mas não compromete a compreensão global do texto.",
+      "A redação demonstra reflexão madura e coesão, com argumentos bem fundamentados e encadeamento lógico, justificando a classificação na faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "a definição apresentada enfatiza",
+      "grande parte do seu po vo ainda vivencia a s consequência s sociais",
+      "todos os seus esforços tem como objetivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. A linguagem é formal e adequada ao tema, o que justifica uma nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos históricos e culturais relevantes, demonstrando domínio do assunto e capacidade de relacionar diplomacia e identidade nacional, o que justifica uma nota elevada em 1B.",
+      "O texto revela análise crítica e reflexão aprofundada sobre o papel do diplomata brasileiro, indo além da mera descrição das funções diplomáticas e abordando questões de identidade, cultura e desenvolvimento, o que justifica uma nota elevada em 1C.",
+      "Foram identificados três erros gramaticais: concordância verbal (“tem” em vez de “têm”), separação indevida de palavras (“po vo”, “consequência s”) e concordância nominal (“a definição apresentada enfatiza” deveria ser “enfatiza-se”). Esses deslizes não comprometem a compreensão, mas afetam a correção gramatical.",
+      "A redação demonstra domínio do tema, boa articulação de ideias e uso pertinente de referências culturais e históricas. Recomenda-se atenção à revisão ortográfica e à concordância para evitar pequenos desvios."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "a definição apresentada enfatiza (deveria ser 'enfatiza-se', para concordância com 'definição')",
+      "grande parte do seu po vo ainda vivencia a s consequência s sociais (erro de digitação: 'po vo' e 'a s')",
+      "todos os seus esforços tem (deveria ser 'têm', para concordância com 'esforços')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com linguagem clara e elegante, o que justifica uma nota alta em apresentação e impressão geral (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e culturais relevantes, o que justifica nota elevada em capacidade de argumentação (1B).",
+      "A análise é profunda, reflete criticamente sobre a identidade do diplomata brasileiro e relaciona adequadamente o texto de referência com o tema proposto, merecendo nota alta em capacidade de análise e reflexão (1C).",
+      "Foram identificados três erros gramaticais pontuais, que não comprometem a compreensão, mas devem ser corrigidos para máxima precisão linguística.",
+      "Sugere-se revisar a concordância verbal e eventuais erros de digitação para garantir a correção gramatical plena."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "a definição apresentada enfatiza (deveria ser \"enfatiza-se\")",
+      "grande parte do seu po vo ainda vivencia a s consequência s sociais (erro de digitação e separação indevida: \"povo\" e \"as consequências\")",
+      "todos os seus esforços tem (deveria ser \"têm\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos deslizes de digitação e concordância afetam a apresentação (nota 1A: 9/10).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto, com exemplos históricos e referências culturais adequadas. Apenas faltou maior aprofundamento em alguns pontos para atingir a nota máxima (nota 1B: 9/10).",
+      "A análise é reflexiva e demonstra capacidade de relacionar o conceito de diplomata brasileiro à identidade nacional e ao contexto internacional, embora pudesse explorar mais as tensões e desafios contemporâneos (nota 1C: 9/10).",
+      "Foram identificados três erros gramaticais: dois de concordância/acentuação e um de digitação/separação indevida. A linguagem é, de modo geral, correta e apropriada ao gênero dissertativo-argumentativo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "embora a definição apresentada enfatiza",
+      "grande parte do seu po vo ainda vivencia a s consequência s sociais",
+      "todos os seus esforços tem como objetivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização, clareza e encadeamento lógico das ideias, com argumentação pertinente ao tema proposto.",
+      "Há alguns erros gramaticais pontuais, como problemas de concordância verbal e de segmentação de palavras, que afetam a correção linguística.",
+      "A linguagem é adequada ao contexto e demonstra domínio do vocabulário específico, mas a revisão atenta poderia eliminar os desvios identificados.",
+      "A reflexão sobre a identidade do diplomata brasileiro é profunda e bem fundamentada, dialogando de forma pertinente com o texto motivador."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "embora a definição apresentada enfatiza",
+      "grande parte do seu po vo ainda vivencia a s consequência s sociais",
+      "todos os seus esforços tem como objetivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, clareza e capacidade argumentativa, alinhando-se ao enunciado e à discussão sobre identidade nacional e diplomacia brasileira.",
+      "Há alguns erros gramaticais pontuais, como problemas de concordância verbal e segmentação de palavras, que afetam a correção formal do texto.",
+      "A linguagem é adequada ao contexto e demonstra domínio do tema, com referências culturais e históricas pertinentes.",
+      "A reflexão sobre o papel do diplomata brasileiro é profunda e bem fundamentada, evidenciando coerência e encadeamento lógico das ideias."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "embora a definição apresentada enfatiza",
+      "grande parte do seu po vo ainda vivencia a s consequência s sociais",
+      "todos os seus esforços tem como objetivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização e desenvolvimento temático, com argumentação clara e reflexão pertinente sobre a identidade do diplomata brasileiro, dialogando adequadamente com o enunciado.",
+      "Há alguns desvios gramaticais pontuais, como problemas de concordância verbal e segmentação de palavras, que afetam a correção linguística, mas não comprometem a compreensão geral.",
+      "A linguagem é formal e adequada ao contexto, com boa capacidade de articulação entre ideias e exemplos históricos e literários pertinentes ao tema.",
+      "A conclusão retoma o argumento central e reforça o vínculo entre o diplomata e a identidade nacional, em consonância com o texto de referência."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "embora a definição apresentada enfatiza"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com argumentos claros e encadeamento lógico. O candidato demonstra compreensão do tema e capacidade de reflexão, relacionando a identidade do diplomata brasileiro à identidade nacional e às funções do Itamaraty.",
+      "A linguagem é adequada ao contexto formal, com vocabulário variado e referências culturais pertinentes (Guimarães Rosa, Machado de Assis, Lucio Cardoso).",
+      "Há poucos deslizes gramaticais, como a concordância em \"embora a definição apresentada enfatiza\" (deveria ser \"enfatize\") e problemas de pontuação e espaçamento em \"ainda vivencia a s consequência s sociais\".",
+      "A argumentação é consistente e demonstra reflexão sobre o papel do diplomata brasileiro, tanto no plano interno quanto externo, e sobre a relação entre identidade nacional e atuação diplomática.",
+      "O texto é coeso e bem articulado, com exemplos e referências que enriquecem a discussão, mas não chega ao nível de excepcionalidade por não apresentar insights teóricos inovadores ou análise comparativa mais sofisticada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "a discussão sobre a identidade do diplomata brasileiro é, em última instância, uma discussão sobre a própria identidade nacional e sobre os objetivos da sociedade brasileira. Uma das principais características do diplomata brasileiro é sua capacidade de articular consensos nas negociações internacionais. Essa qualidade distintiva decorre da formação multicultural e multiétnica do povo brasileiro, na medida em que o diálogo entre culturas diferentes sempre esteve presente na história brasileira.",
+      "grande parte do seu po vo ainda vivencia a s consequência s sociais do subdesenvolvimento.",
+      "todos os seus esforços tem como objetivo a melhora da vida dos nacionais de seu país"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma discussão clara, bem estruturada e pertinente ao tema proposto, demonstrando capacidade de argumentação e reflexão sobre o que é ser um diplomata brasileiro.",
+      "A articulação entre funções diplomáticas, identidade nacional e exemplos históricos confere profundidade e coesão ao texto.",
+      "Há alguns deslizes gramaticais, como problemas de concordância (“tem” em vez de “têm”), pontuação e segmentação (“po vo”, “consequência s”), mas eles não comprometem a compreensão global.",
+      "O uso de referências culturais e históricas enriquece a argumentação, evidenciando domínio do tema e da linguagem.",
+      "A conclusão retoma o enunciado de forma elegante e coerente, reforçando a vinculação entre o diplomata e a terra natal."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "embora a definição apresentada enfatiza",
+      "grande parte do seu po vo ainda vivencia a s consequência s sociais",
+      "todos os seus esforços tem como objetivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com encadeamento lógico e reflexão pertinente sobre o tema proposto.",
+      "Há clareza na exposição das ideias e domínio do vocabulário adequado ao contexto diplomático e acadêmico.",
+      "A redação demonstra capacidade de articulação entre diferentes aspectos da identidade nacional e da atuação diplomática, com exemplos pertinentes e referências culturais.",
+      "Os erros gramaticais são pontuais e não comprometem a compreensão geral do texto.",
+      "A argumentação é consistente, mas poderia ser aprofundada em alguns pontos, como na relação entre identidade nacional e desafios contemporâneos da diplomacia brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "doméstico- em termos socioeconômicos, políticos e identitários-",
+      "Não obstante, o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos problemas de pontuação afetam a fluidez (nota 1A: 9.0).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências históricas e conceituais adequadas (nota 1B: 9.0).",
+      "A análise é profunda, reflete sobre tradição, identidade nacional e inovação, demonstrando capacidade de reflexão crítica (nota 1C: 9.0).",
+      "Foram identificados dois erros gramaticais: uso inadequado de hífen e vírgula (em 'doméstico-' e em 'Não obstante..., faz-se necessária').",
+      "O texto dialoga bem com o enunciado, relacionando o 'espírito brasileiro' à atuação diplomática, mas poderia aprofundar mais a tensão entre tradição e inovação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "doméstico- em termos socioeconômicos, políticos e identitários-",
+      "Não obstante, o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e linguagem adequada ao tema (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto, com referências históricas e conceituais pertinentes (1B).",
+      "O candidato demonstra capacidade analítica e reflexiva ao relacionar tradição, identidade nacional e inovação na diplomacia brasileira (1C).",
+      "Há dois erros gramaticais: uso inadequado de hífen e vírgula (doméstico- em termos...-), e vírgula separando sujeito e predicado (Não obstante..., faz-se necessária).",
+      "A redação atende plenamente ao enunciado, articulando referências culturais e políticas de forma sofisticada e original."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "doméstico- em termos socioeconômicos, políticos e identitários-",
+      "Não obstante, o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos deslizes de pontuação prejudicam a apresentação (nota 1A: 9.0).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências históricas e conceituais adequadas. A conexão com o texto motivador é clara e consistente (nota 1B: 9.0).",
+      "O candidato demonstra capacidade de análise e reflexão ao articular tradição, identidade nacional e inovação na diplomacia brasileira, evidenciando profundidade e originalidade (nota 1C: 9.0).",
+      "Foram identificados dois erros gramaticais: uso inadequado de hífen e vírgula (em 'doméstico- em termos...' e em 'Não obstante..., faz-se necessária').",
+      "A redação atende plenamente aos critérios de organização, argumentação e reflexão, sendo apenas levemente prejudicada por pequenos desvios gramaticais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O equilíbrio de antagonismos identificado por Gilberto Freyre na sociedade nacional, por exemplo, tem por manifestações reflexas a defesa da solução pacífica de controvérsias e a articulação de consensos externamente. (O correto seria: \"tem como manifestações reflexas\")"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização temática, clareza e encadeamento lógico das ideias, além de boa capacidade argumentativa e reflexiva sobre o tema proposto.",
+      "O texto demonstra domínio da linguagem formal e adequada ao contexto acadêmico, com poucos desvios gramaticais.",
+      "A referência a autores e fatos históricos enriquece a argumentação e evidencia repertório cultural pertinente.",
+      "O único erro gramatical identificado não compromete a compreensão global do texto, mas deve ser corrigido para maior precisão.",
+      "A conclusão sintetiza adequadamente os pontos discutidos e responde de forma pertinente ao enunciado.",
+      "A redação atende plenamente aos critérios de coerência, clareza e correção, justificando uma nota elevada dentro do intervalo permitido."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O equilíbrio de antagonismos identificado por Gilberto Freyre na sociedade nacional, por exemplo, tem por manifestações reflexas a defesa da solução pacífica de controvérsias e a articulação de consensos externamente. (O uso de “por manifestações reflexas” é pouco idiomático e pode ser considerado uma impropriedade estilística/gramatical, embora não seja um erro grosseiro.)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário diplomático e acadêmico.",
+      "Há apenas uma pequena impropriedade estilística/gramatical, que não compromete a compreensão nem a qualidade geral do texto.",
+      "O candidato soube articular referências históricas, sociológicas e diplomáticas, relacionando-as ao conceito de “espírito brasileiro” do enunciado.",
+      "A conclusão é coesa e retoma os principais pontos discutidos, reforçando a ideia de que o diplomata deve representar tradição e inovação nacionais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "no trecho \"contexto doméstico- em termos socioeconômicos, políticos e identitários-\", faltam espaços após os hifens ou deveria ser um travessão com espaços: \"contexto doméstico — em termos socioeconômicos, políticos e identitários —\"",
+      "no trecho \"o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária\", a vírgula antes de \"faz-se\" está inadequada, pois separa o sujeito do predicado"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, dialogando de forma pertinente com o enunciado e com referências teóricas e históricas pertinentes ao tema.",
+      "A argumentação é sólida, com reflexão aprofundada sobre o que é ser um diplomata brasileiro, articulando tradição, identidade nacional e inovação institucional.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário técnico e da norma culta, com poucos desvios gramaticais.",
+      "Os dois erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto, mas impactam negativamente a correção formal.",
+      "A redação atende plenamente aos critérios de coerência, clareza, argumentação e correção linguística, justificando uma nota elevada, porém não máxima devido aos pequenos desvios formais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "doméstico- em termos socioeconômicos, políticos e identitários- é fundamental",
+      "não obstante, o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando o conceito de \"espírito nacional\" ao papel do diplomata brasileiro com clareza e profundidade.",
+      "A argumentação é consistente, com referências históricas e teóricas pertinentes, demonstrando domínio do tema e capacidade de reflexão.",
+      "A estrutura do texto é lógica e bem encadeada, com introdução, desenvolvimento e conclusão claros.",
+      "Há poucos deslizes gramaticais: o uso inadequado de hífen em \"doméstico-\" e a ausência de vírgula após \"brasileira\" em \"não obstante, o papel essencial...\".",
+      "A linguagem é formal, adequada ao contexto e demonstra bom domínio da norma culta.",
+      "O texto evidencia reflexão sobre a tradição e a inovação na diplomacia brasileira, além de abordar aspectos contemporâneos relevantes, como as cotas raciais e a diplomacia pública.",
+      "A conclusão sintetiza de forma pertinente os principais pontos discutidos, reforçando a ideia de que o diplomata deve representar tanto a tradição quanto a inovação nacionais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "doméstico- em termos socioeconômicos"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com clareza e coerência na exposição das ideias. O candidato demonstra compreensão do tema e capacidade de articulação entre referências literárias, históricas e políticas, evidenciando reflexão e domínio do assunto.",
+      "A linguagem é adequada ao contexto formal do CACD, com vocabulário preciso e construções sintáticas bem elaboradas. Há apenas um deslize gramatical leve (falta de espaço após o hífen em \"doméstico- em termos socioeconômicos\").",
+      "O texto explora com pertinência a relação entre identidade nacional, tradição diplomática e inovação, trazendo exemplos concretos e citações relevantes. A argumentação é consistente e demonstra maturidade analítica.",
+      "A conclusão sintetiza adequadamente os pontos discutidos e reforça o papel do diplomata como representante dos valores, tradições e anseios da sociedade brasileira, conferindo coesão ao conjunto do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "doméstico- em termos socioeconômicos"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma reflexão clara e bem estruturada sobre o que é ser um diplomata brasileiro, articulando referências históricas, teóricas e contemporâneas.",
+      "Há boa coesão e encadeamento lógico das ideias, com argumentos pertinentes e desenvolvimento consistente do tema proposto.",
+      "O candidato demonstra domínio da norma culta, embora haja um pequeno erro de pontuação (falta de espaço após o hífen em \"doméstico- em\").",
+      "A linguagem é adequada ao contexto e há uso apropriado de vocabulário técnico e referências culturais relevantes.",
+      "O texto evidencia reflexão crítica e capacidade de articular tradição e inovação, mas a argumentação poderia ser ainda mais aprofundada em alguns pontos para atingir nível excelente."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ma s (correção: mas)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos deslizes de digitação afetam a apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato articula conceitos históricos e teóricos de forma precisa e relevante.",
+      "A análise é sofisticada, demonstrando reflexão crítica sobre o conceito de nacionalidade e o papel do diplomata, com referência a autores e contextos históricos.",
+      "Há um erro gramatical de digitação (“ma s” em vez de “mas”), que não compromete a compreensão, mas deve ser corrigido.",
+      "O texto demonstra domínio do tema, capacidade de síntese e profundidade analítica, alinhando-se ao padrão esperado para o CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ma s também"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos deslizes de digitação afetam a apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto, com referências históricas e teóricas adequadas (como Benedict Anderson).",
+      "A análise é profunda, refletindo sobre a natureza da nacionalidade, o papel do diplomata e a relação entre identidade nacional e cosmopolitismo.",
+      "Há apenas um erro gramatical evidente: \"ma s também\" (espaço indevido entre letras). Não foram identificados outros erros de concordância, pontuação ou regência.",
+      "O texto dialoga de forma consistente com o excerto motivador, problematizando a ideia de \"espírito nacional\" e propondo uma visão contemporânea do diplomata como representante, intérprete e promotor da nacionalidade brasileira.",
+      "A redação atende plenamente aos critérios de organização, argumentação e reflexão, sendo apenas levemente penalizada por um pequeno erro de digitação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ma s também"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com boa estruturação dos parágrafos e clareza na exposição das ideias. Apenas pequenos deslizes de digitação (como 'ma s também') afetam a apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato articula conceitos históricos e teóricos de forma adequada, relacionando-os à função do diplomata brasileiro.",
+      "A análise é profunda, refletindo criticamente sobre a ideia de 'espírito nacional' e a função do diplomata como intérprete e promotor da nacionalidade. O texto demonstra capacidade de reflexão e originalidade.",
+      "Há apenas um erro gramatical evidente: a separação indevida da conjunção 'mas' ('ma s também'). Não foram identificados outros desvios relevantes de concordância, pontuação ou regência.",
+      "O texto dialoga de forma consistente com o excerto motivador, explorando a tensão entre essência nacional e construção histórica da identidade, e aplicando-a ao papel do diplomata."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ma s"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão sobre o tema, demonstrando clareza e coerência no encadeamento das ideias. A linguagem é formal e adequada ao contexto do concurso, com apenas um erro gramatical perceptível (\"ma s\"). O candidato soube articular referências teóricas e conceituais de forma pertinente, além de desenvolver uma reflexão original sobre o papel do diplomata brasileiro. Apenas pequenos ajustes de precisão e revisão ortográfica seriam necessários para atingir a nota máxima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ma s (correto: mas)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário técnico e conceitual.",
+      "Há apenas um erro gramatical evidente (\"ma s\"), que não compromete a compreensão do texto.",
+      "A redação aborda de forma sofisticada a relação entre diplomacia, nacionalidade e identidade, dialogando com o excerto e com referências teóricas pertinentes.",
+      "A conclusão é coerente e reforça o papel múltiplo do diplomata brasileiro, sem perder de vista a complexidade do conceito de nacionalidade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ma s"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, com argumentação clara, coerente e bem encadeada, além de demonstrar reflexão aprofundada sobre o tema proposto. A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário. Houve apenas um erro gramatical evidente: a separação indevida da conjunção \"mas\". A estrutura textual é coesa e a abordagem respeita o enunciado, integrando referências teóricas pertinentes. A nota reflete a alta qualidade do texto, descontando-se o pequeno deslize gramatical."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ma s (correto: mas)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão sobre o tema, articulando conceitos históricos, teóricos e práticos de forma clara e coesa.",
+      "A estrutura do texto é lógica e bem encadeada, com progressão temática adequada e uso pertinente de referências teóricas (como Benedict Anderson).",
+      "A linguagem é formal, precisa e apropriada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais.",
+      "O candidato demonstra compreensão aprofundada do enunciado e consegue relacionar o conceito de \"espírito nacional\" à função do diplomata brasileiro, propondo uma visão multifacetada do papel diplomático (representante, intérprete, promotor e vinculador).",
+      "O erro gramatical identificado é pontual e não compromete a clareza ou a correção global do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ma s (correto: mas)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com ideias claras, encadeamento lógico e argumentação consistente sobre o tema proposto.",
+      "Há domínio temático e linguístico, com poucos deslizes gramaticais (apenas um erro de digitação evidente).",
+      "O candidato demonstra capacidade de reflexão, articulando conceitos teóricos (como o de \"comunidade imaginada\") e relacionando-os ao papel do diplomata brasileiro.",
+      "A linguagem é adequada ao contexto formal e acadêmico, com vocabulário preciso e frases bem construídas.",
+      "A argumentação é sofisticada, mas não chega ao nível de excepcionalidade por não apresentar insights teóricos inovadores ou estilo marcadamente original."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ma s (correto: mas)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com argumentação clara, encadeamento lógico e reflexão pertinente sobre o tema proposto.",
+      "Há domínio consistente da norma culta, com apenas um deslize de digitação (ma s).",
+      "A redação demonstra compreensão sofisticada do enunciado, articulando conceitos teóricos (como o de “comunidade imaginada”) e aplicando-os ao papel do diplomata brasileiro.",
+      "O texto é coeso, com progressão temática bem definida e conclusão integradora.",
+      "A linguagem é adequada ao contexto formal do concurso, com vocabulário preciso e frases bem construídas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "sus responsabilidades"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com citações relevantes e adequadas ao contexto do enunciado.",
+      "A análise é profunda, refletindo sobre a identidade do diplomata brasileiro e sua relação com valores nacionais, demonstrando capacidade de reflexão crítica.",
+      "Há um erro gramatical de concordância: 'sus responsabilidades' deveria ser 'suas responsabilidades'.",
+      "O texto demonstra domínio da linguagem formal e do tema, sendo apropriado para o concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "sus responsabilidades"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com uso adequado de referências institucionais e citações, o que justifica nota alta em 1B.",
+      "A análise é profunda, refletindo sobre a relação entre identidade nacional e diplomacia, mas poderia explorar mais contrapontos ou complexidades, justificando nota ligeiramente inferior em 1C.",
+      "Há um erro gramatical de concordância: 'sus responsabilidades' deveria ser 'suas responsabilidades'.",
+      "A redação demonstra domínio do tema e das normas cultas da língua portuguesa, com pouquíssimos desvios."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "sus responsabilidades"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica das ideias, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com uso adequado de referências institucionais e citações, o que justifica nota elevada em 1B.",
+      "O candidato demonstra capacidade de análise e reflexão ao articular identidade nacional, missão diplomática e política externa, justificando nota elevada em 1C.",
+      "Há um erro gramatical de concordância: 'sus responsabilidades' deveria ser 'suas responsabilidades'.",
+      "O texto é denso, bem fundamentado e alinhado ao enunciado, mas poderia aprofundar a relação entre a angústia do autor do enunciado e o papel do diplomata, o que justifica pequena dedução em todos os critérios."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em relação à sociedade brasileira. O profissional diplomático brasileiro deve compreender que tem a obrigação de conduzir suas atividades de acordo com adequada representação de seu país. Conforme enfatizou o ex-chanceler Araujo Castro, em discurso por ocasião de posse como Secretário-Geral Adjunto do Itamaraty para Organizações Internacionais, em 1961, “uma política externa, para ser viável, sustentável e mesmo respeitável, deve ser representativa do povo e da sociedade que a desenvolvem”. De forma adicional, ser um diplomata brasileiro significa manter um compromisso com uma política de Estado, a política externa brasileira, e desconsiderar partidarismos ou ideologias. Ao assumir suas funções, o diplomata brasileiro deve abster-se em relação a pronunciamentos políticos que possam fragilizar a atuação do Ministério das Relações Exteriores, de modo a contribuir para incompreensões da sociedade brasileira sobre aspectos da diplomacia nacional.” — erro de regência: “abster-se em relação a” deveria ser “abster-se de”."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto e boa capacidade argumentativa. A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário diplomático. Há apenas um erro de regência (“abster-se em relação a” em vez de “abster-se de”), o que afeta minimamente a correção gramatical. O uso de citações e referências enriquece a argumentação e demonstra repertório. A redação atende plenamente ao enunciado, relacionando o conceito de “espírito nacional” à identidade do diplomata brasileiro. Por esses motivos, a nota final é elevada, mas levemente reduzida pelo erro gramatical identificado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em relação à sociedade brasileira. O profissional diplomático brasileiro deve compreender que tem a obrigação de conduzir suas atividades de acordo com adequada representação de seu país. Conforme enfatizou o ex-chanceler Araujo Castro, em discurso por ocasião de posse como Secretário-Geral Adjunto do Itamaraty para Organizações Internacionais, em 1961, “uma política externa, para ser viável, sustentável e mesmo respeitável, deve ser representativa do povo e da sociedade que a desenvolvem”.\nErro: ausência de crase em “em relação à sociedade brasileira”."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente capacidade de argumentação e reflexão sobre o tema, com clareza e coerência na exposição das ideias.\nO texto demonstra domínio do vocabulário e da linguagem formal, adequada ao contexto diplomático.\nHá apenas um erro gramatical leve (ausência de crase), que não compromete a compreensão.\nA estrutura do texto é bem organizada, com encadeamento lógico e referências pertinentes.\nA redação atende plenamente ao enunciado, discutindo o que é ser um diplomata brasileiro à luz das ideias do texto motivador."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "sus responsabilidades (correto: suas)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A argumentação é consistente e bem fundamentada, com referências pertinentes a diplomatas e pensadores brasileiros.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário específico da diplomacia.",
+      "Há apenas um erro gramatical de concordância (\"sus\" em vez de \"suas\"), que não compromete a compreensão do texto.",
+      "A redação cumpre plenamente o que foi solicitado pelo enunciado, relacionando o texto-base à discussão sobre o que é ser um diplomata brasileiro."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "sus responsabilidades"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com argumentação clara, encadeamento lógico e reflexão pertinente sobre o tema proposto.",
+      "Há domínio consistente da norma culta, com apenas um deslize de concordância (\"sus responsabilidades\" deveria ser \"suas responsabilidades\").",
+      "O candidato utiliza referências relevantes e demonstra compreensão aprofundada do que significa ser um diplomata brasileiro, alinhando identidade nacional, compromisso institucional e atuação internacional.",
+      "A linguagem é adequada, formal e precisa, com poucos desvios e sem comprometer a clareza ou a coesão do texto.",
+      "A argumentação é bem estruturada, mas poderia ganhar ainda mais profundidade com uma análise mais original ou com a inclusão de exemplos concretos."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "sus responsabilidades"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com argumentação clara, encadeamento lógico e reflexão pertinente sobre o tema proposto.",
+      "Há domínio consistente da norma culta, com apenas um desvio de regência (\"sus responsabilidades\" em vez de \"suas responsabilidades\").",
+      "A linguagem é adequada, formal e apropriada ao contexto do CACD, com citações pertinentes e referências que enriquecem a argumentação.",
+      "O texto demonstra compreensão aprofundada do enunciado e desenvolve o tema com coesão, clareza e reflexão, ainda que sem grande originalidade ou sofisticação estilística.",
+      "A estrutura é bem articulada, com parágrafos coesos e progressão temática adequada, o que justifica a classificação na faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "sus responsabilidades"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza, com argumentação bem encadeada e reflexão pertinente sobre o tema proposto.",
+      "Há domínio consistente da norma culta, com apenas um erro gramatical pontual (\"sus responsabilidades\" em vez de \"suas responsabilidades\").",
+      "O candidato utiliza referências relevantes e demonstra compreensão aprofundada do papel do diplomata brasileiro, articulando identidade nacional, compromisso institucional e inserção internacional.",
+      "A linguagem é adequada ao contexto formal e acadêmico, com vocabulário preciso e estilo coeso.",
+      "A argumentação é sólida, embora não alcance o nível de sofisticação analítica e originalidade que caracterizaria a faixa \"Excelente\" ou \"Excepcional\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] Uso indevido de vírgula após o nome do livro: deveria ser 'O Itamaraty na cultura brasileira,' (com vírgula após o título, para isolar a referência).",
+      "Erro de concordância em 'os diversos Estados recrutassem seus diplomatas entre os originários das famílias mais tradicionais': o correto seria 'entre os membros das famílias mais tradicionais' ou 'entre aqueles originários das famílias...'."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura e clareza, mas há pequenas falhas de pontuação e concordância que afetam a fluidez (nota 1A).",
+      "A argumentação é pertinente e bem fundamentada, mas poderia aprofundar mais a relação entre o conceito de 'espírito brasileiro' e a prática diplomática (nota 1B).",
+      "A análise é razoavelmente reflexiva, mas algumas passagens são descritivas e não exploram plenamente a complexidade do tema (nota 1C).",
+      "O texto demonstra domínio do tema e boa articulação de ideias, mas há espaço para maior profundidade filosófica e crítica, conforme sugerido pelo enunciado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] Uso inadequado da vírgula após \"Holbein\" (deveria ser seguido de vírgula para isolar a oração explicativa).",
+      "Erro de concordância em \"os diversos Estados recrutassem seus diplomatas entre os originários das famílias mais tradicionais\" (o correto seria \"entre os membros das famílias mais tradicionais\")."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com introdução clara, desenvolvimento organizado e conclusão coerente. O estilo é elegante e legível, mas há pequenas falhas de pontuação que afetam a fluidez.",
+      "A argumentação é pertinente ao tema e utiliza referências históricas e institucionais relevantes, como o Instituto Rio Branco e autores citados. No entanto, algumas passagens poderiam ser mais objetivas e diretas.",
+      "A análise é reflexiva, mas poderia aprofundar mais a relação entre o conceito de \"espírito brasileiro\" e a prática diplomática contemporânea. A reflexão sobre a identidade nacional e sua representação pelo diplomata é interessante, mas poderia ser mais crítica.",
+      "Os erros gramaticais são poucos, mas impactam a correção formal do texto. Recomenda-se atenção à pontuação e à concordância nominal.",
+      "O texto demonstra domínio do tema e capacidade de articulação de ideias, mas há espaço para maior profundidade analítica e precisão linguística."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] Uso inadequado da vírgula após o nome do autor (“Alberto da Costa e Silva,”), pois não se deve separar o nome completo do autor por vírgula em referência textual direta."
+    ],
+    "feedbacks": [
+      "1A – O texto apresenta boa coerência, legibilidade e estilo, com estrutura clara e linguagem adequada ao gênero dissertativo. No entanto, há pequenas imprecisões estilísticas e de fluidez, como o uso inadequado de vírgula em referência bibliográfica, o que afeta levemente a apresentação.",
+      "1B – O candidato demonstra boa capacidade de argumentação, relacionando o tema do enunciado com exemplos históricos e institucionais pertinentes (Instituto Rio Branco, pluralidade, representação). Algumas informações são apresentadas de forma um pouco superficial, sem aprofundamento crítico, o que impede nota máxima.",
+      "1C – A análise e reflexão são razoáveis, mas faltam conexões mais profundas entre o conceito de “espírito brasileiro” e a prática diplomática contemporânea. O texto repete ideias e poderia explorar melhor as contradições e desafios atuais.",
+      "CGPL – O texto apresenta apenas um erro gramatical identificável (vírgula indevida). A linguagem é formal e adequada, com poucas impropriedades."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] Uso inadequado de vírgula após \"Holbein\", pois não há necessidade de pausa antes da oração explicativa."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização e desenvolvimento do tema, com argumentação clara e coerente, relacionando adequadamente o enunciado ao papel do diplomata brasileiro.",
+      "Há referências pertinentes e contextualizadas, como o Instituto Rio Branco e autores brasileiros, o que demonstra repertório e capacidade de reflexão.",
+      "A linguagem é formal e adequada ao contexto, embora haja um pequeno erro gramatical pontual.",
+      "A conclusão reforça a ideia central de que o diplomata brasileiro deve representar a diversidade e os valores nacionais, em consonância com o enunciado.",
+      "O texto é bem estruturado, mas poderia aprofundar mais a discussão sobre o \"espírito brasileiro\" e sua manifestação na atuação diplomática, o que justifica uma pequena redução na nota final."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] Uso inadequado da vírgula após \"Holbein\", pois não se deve separar o nome do quadro ou do autor com vírgula nesse contexto."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando reflexão aprofundada sobre o tema proposto.",
+      "A argumentação é consistente e bem fundamentada, com referências pertinentes à diplomacia brasileira e à formação do corpo diplomático.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário técnico.",
+      "Há apenas um pequeno erro gramatical pontual, que não compromete a compreensão nem a qualidade geral do texto.",
+      "O candidato soube articular o conceito de “espírito brasileiro” com as funções e características do diplomata brasileiro, atendendo plenamente ao enunciado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] Uso inadequado de vírgula após \"Holbein\" (deveria ser ponto ou ponto e vírgula, pois se inicia uma nova oração explicativa).",
+      "Erro de regência em \"privilegiado a diversidade\" (o correto seria \"privilegiado pela diversidade\" ou \"privilegiar a diversidade\")."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, relacionando adequadamente o enunciado ao tema da diplomacia brasileira.",
+      "A argumentação é consistente e demonstra reflexão sobre o papel do diplomata, citando exemplos históricos e institucionais pertinentes.",
+      "A linguagem é formal e adequada ao contexto, embora haja pequenos deslizes gramaticais que não comprometem a compreensão.",
+      "A redação responde ao comando do enunciado, discutindo o que é ser um diplomata brasileiro à luz das ideias de Lúcio Cardoso e da tradição diplomática nacional.",
+      "Os erros gramaticais identificados são pontuais e não afetam significativamente a qualidade global do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] Uso inadequado de vírgula ou ausência de artigo antes de \"em que dois embaixadores aparecem vestidos elegantemente\" (poderia ser \"no qual dois embaixadores...\" ou \"em que aparecem dois embaixadores...\"; o problema é de construção, mas não chega a ser erro grave)."
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com ideias claras e encadeamento lógico. O candidato demonstra compreensão do tema e dialoga com o texto de referência, relacionando-o à função do diplomata brasileiro.",
+      "A argumentação é consistente e demonstra reflexão sobre o papel do diplomata, abordando aspectos históricos, institucionais e culturais.",
+      "O uso de exemplos e referências (como o Instituto Rio Branco e autores) enriquece o texto e evidencia repertório.",
+      "A linguagem é adequada ao contexto, com poucos deslizes gramaticais e boa propriedade vocabular.",
+      "O texto apresenta coesão e coerência, com transições suaves entre os parágrafos.",
+      "O único desvio gramatical identificado é leve e não compromete a clareza ou a correção do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] Uso inadequado da vírgula após \"Holbein\", pois não há necessidade de pausa antes da oração restritiva \"em que dois embaixadores aparecem vestidos elegantemente\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com introdução clara, desenvolvimento lógico e conclusão pertinente ao tema proposto.",
+      "Há articulação consistente entre as ideias, com referências culturais e históricas que enriquecem a argumentação.",
+      "O candidato demonstra domínio do tema e da linguagem, com vocabulário adequado e frases bem construídas.",
+      "A reflexão sobre o que é ser diplomata brasileiro é pertinente ao texto-base e à proposta do enunciado.",
+      "O único desvio gramatical identificado é pontual e não compromete a clareza ou a correção geral do texto.",
+      "A argumentação é clara, embora não alcance o nível de sofisticação e originalidade que justificaria a faixa \"Excelente\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] Uso inadequado de vírgula antes de \"em que\": o correto seria \"quadro de Hans Holbein em que dois embaixadores...\" (sem vírgula)."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura e clareza na exposição das ideias, com encadeamento lógico e argumentação pertinente ao tema proposto.",
+      "Há referências culturais e históricas relevantes, o que enriquece a discussão e demonstra repertório.",
+      "O candidato articula bem as funções do diplomata brasileiro, relacionando-as ao \"espírito brasileiro\" sugerido no enunciado.",
+      "A linguagem é formal e adequada ao contexto, com poucos deslizes gramaticais.",
+      "A argumentação é consistente, mas poderia aprofundar mais a reflexão sobre o que significa, na prática, \"representar o espírito brasileiro\".",
+      "O texto demonstra domínio temático e linguístico, com coesão e clareza, justificando a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ao mesmo tempo que [1] a atuação diplomática vem aproximando-se da sociedade...",
+      "O correto seria: \"ao mesmo tempo em que\" ou \"enquanto\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica das ideias. O uso de exemplos históricos e citações enriquece a argumentação e confere autoridade ao texto. (Nota 1A: 9.0/10.0)",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza referências históricas e contemporâneas para fundamentar sua análise sobre o papel do diplomata brasileiro, demonstrando domínio do assunto. (Nota 1B: 9.0/10.0)",
+      "O texto revela capacidade de análise e reflexão ao relacionar o conceito de identidade nacional, a formação do diplomata e o papel deste na construção do projeto de país. A reflexão sobre a diversidade e a necessidade de inovação na diplomacia é pertinente e aprofundada. (Nota 1C: 9.0/10.0)",
+      "Há apenas um erro gramatical identificável: o uso inadequado da expressão \"ao mesmo tempo que\" sem a preposição \"em\". O restante do texto está correto e demonstra domínio da norma culta. (Erro: 1)",
+      "A redação cumpre plenamente os requisitos do enunciado, articulando de forma sofisticada as ideias do texto-base com a discussão sobre o que é ser um diplomata brasileiro."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] Concordância: 'ao mesmo tempo que a atuação diplomática vem aproximando-se da sociedade' — o correto seria 'vêm aproximando-se', pois o núcleo do sujeito é 'atuação', mas o sentido coletivo sugere concordância no plural; contudo, o erro é sutil e pode ser considerado estilístico. No entanto, há um erro claro de pontuação: falta de vírgula após 'ao mesmo tempo que', que deveria ser seguido de vírgula para marcar a oração adverbial."
+    ],
+    "feedbacks": [
+      "1A — O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com parágrafos bem delimitados e progressão lógica. O uso de citações e referências históricas enriquece o texto, conferindo-lhe autoridade e fluidez. Pequenos ajustes de pontuação poderiam melhorar ainda mais a apresentação.",
+      "1B — O candidato demonstra grande capacidade de argumentação, utilizando exemplos históricos e contemporâneos pertinentes (Joaquim Nabuco, Mauro Vieira, Manoel Bomfim, Oswald de Andrade, Sílvio Romero). Os argumentos são objetivos, bem sistematizados e diretamente relacionados ao tema proposto.",
+      "1C — A análise é profunda e reflexiva, indo além da mera descrição do papel do diplomata. O texto reflete sobre identidade nacional, diversidade, inovação e a relação entre o indivíduo diplomata e o projeto de país, evidenciando maturidade intelectual.",
+      "Correção gramatical — O texto é, em geral, muito bem escrito. Há apenas um erro de pontuação identificável: ausência de vírgula após a expressão adverbial 'ao mesmo tempo que'. Não há outros desvios relevantes de concordância, ortografia ou regência.",
+      "Observação — O texto atende plenamente ao enunciado, dialogando com as ideias do autor citado e desenvolvendo uma reflexão original sobre o que é ser diplomata brasileiro."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] Concordância: 'ao mesmo tempo que a atuação diplomática vem aproximando-se' — o verbo deveria concordar no plural se o sujeito for entendido como composto ('as atuações diplomática e institucional vêm aproximando-se'), mas, se o sujeito é singular ('a atuação'), o uso está correto; contudo, a construção é ambígua e pode ser considerada imprecisa."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com linguagem clara e elegante, o que justifica a alta pontuação em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e contemporâneos que enriquecem a discussão, justificando a nota elevada em 1B.",
+      "A análise é profunda, refletindo sobre a identidade do diplomata brasileiro e sua relação com o projeto nacional, o que demonstra capacidade de reflexão e análise crítica, justificando a nota alta em 1C.",
+      "Há apenas um pequeno problema de concordância/ambiguidade, que não compromete a compreensão geral do texto.",
+      "O texto dialoga de forma consistente com o enunciado, relacionando a busca por uma identidade nacional à função do diplomata, o que demonstra compreensão do tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] uso inadequado da crase em \"a atuação diplomática vem aproximando-se da sociedade, com maior abertura para a participação pública\" (não há crase antes de \"participação pública\" porque não há artigo definido feminino antes do substantivo)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação consistente e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário específico, com referências pertinentes à história e à literatura brasileira.",
+      "Há apenas um erro gramatical leve, referente ao uso indevido de crase, o que não compromete a compreensão nem a qualidade geral do texto.",
+      "A redação cumpre plenamente o comando do enunciado, relacionando o conceito de \"espírito brasileiro\" à função do diplomata, com exemplos e argumentos bem fundamentados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ao mesmo tempo que [1] a atuação diplomática vem aproximando-se da sociedade"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade argumentativa, dialogando de forma pertinente com o enunciado e com referências históricas e intelectuais relevantes.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do tema, embora haja um pequeno erro de concordância (“vem aproximando-se” deveria ser “vêm se aproximando”, pois o sujeito é plural).",
+      "A reflexão sobre o papel do diplomata brasileiro é profunda, abrangente e bem fundamentada, destacando a relação entre identidade nacional e atuação internacional.",
+      "A redação atende plenamente aos critérios de coerência, encadeamento lógico e propriedade vocabular, com apenas um desvio gramatical leve."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ao mesmo tempo que [1] a atuação diplomática vem aproximando-se da sociedade... (falta de concordância: o correto seria \"aproximando-se da sociedade, com...\" ou \"a atuação diplomática se aproxima da sociedade\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, clareza e encadeamento lógico das ideias, com argumentação consistente e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário específico da diplomacia e das ciências humanas.",
+      "Há apenas um erro gramatical leve, que não compromete a compreensão do texto.",
+      "A redação faz uso pertinente de referências históricas e teóricas, integrando-as de forma coesa ao argumento central.",
+      "O candidato demonstra capacidade de reflexão crítica e propositiva, alinhada às ideias do enunciado e às exigências do tema.",
+      "A conclusão é bem construída e reforça o vínculo entre identidade nacional e atuação diplomática, conforme solicitado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] erro de concordância verbal: \"ao mesmo tempo que a atuação diplomática vem aproximando-se\" deveria ser \"vêm aproximando-se\", para concordar com \"as expectativas\" implícitas no contexto, ou reestruturar a frase para evitar ambiguidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma discussão clara e bem estruturada sobre o que é ser um diplomata brasileiro, articulando referências históricas, políticas e culturais de forma pertinente.",
+      "Há boa capacidade de argumentação e reflexão, com exemplos concretos (Joaquim Nabuco, Mauro Vieira, Manoel Bomfim, Oswald de Andrade, Sílvio Romero) que enriquecem a análise.",
+      "O encadeamento das ideias é lógico e demonstra compreensão do tema proposto, relacionando a identidade nacional à atuação diplomática.",
+      "A linguagem é adequada ao contexto, com vocabulário variado e domínio da norma culta, ainda que haja um pequeno deslize gramatical.",
+      "O texto evidencia reflexão e coesão, mas não atinge o nível de originalidade e sofisticação argumentativa que caracterizaria a faixa \"Excelente\" ou \"Excepcional\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] Concordância inadequada: \"ao mesmo tempo que a atuação diplomática vem aproximando-se da sociedade\" deveria ser \"ao mesmo tempo em que a atuação diplomática se aproxima da sociedade\" ou \"vem se aproximando\" para maior fluidez e correção."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza, com encadeamento lógico das ideias e argumentação pertinente ao tema proposto.",
+      "Há boa articulação entre referências históricas, citações e reflexão sobre o papel do diplomata brasileiro, demonstrando domínio do tema.",
+      "A linguagem é formal, adequada ao contexto e há poucos deslizes gramaticais, sendo o principal deles uma pequena impropriedade de concordância.",
+      "O texto evidencia reflexão e coesão, com análise relevante sobre a identidade e a função do diplomata brasileiro, sem superficialidade.",
+      "A argumentação é consistente e demonstra capacidade de análise, embora não alcance o nível de sofisticação e originalidade esperado para a faixa Excepcional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "[1] Concordância verbal: o correto seria \"ao mesmo tempo que a atuação diplomática se aproxima da sociedade\" (falta do pronome \"se\" para indicar voz reflexiva/passiva)."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com encadeamento lógico e clareza nas ideias. O candidato demonstra compreensão do tema e capacidade de reflexão, articulando referências históricas e conceituais pertinentes.",
+      "A linguagem é adequada ao contexto, com vocabulário variado e domínio da norma culta, ainda que haja um pequeno deslize gramatical pontual.",
+      "A argumentação é consistente e demonstra capacidade de análise, embora não alcance o nível de sofisticação e originalidade que caracterizaria a faixa \"Excelente\" ou \"Excepcional\".",
+      "O texto aborda o tema de forma pertinente, relacionando a identidade do diplomata à identidade nacional e às demandas contemporâneas da diplomacia brasileira, com exemplos e citações apropriadas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Para tato, é imprescindível...",
+      "tato",
+      "correção: para tanto"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e atuais, o que justifica nota elevada em 1B.",
+      "A análise é profunda e reflete sobre o papel do diplomata brasileiro à luz do texto de referência, mas poderia explorar mais a tensão entre identidade nacional e universalismo, o que justifica nota ligeiramente inferior em 1C.",
+      "Há apenas um erro gramatical evidente: o uso de 'tato' em vez de 'tanto', o que afeta minimamente a correção gramatical.",
+      "A linguagem é formal, adequada e precisa, mas a correção pontual é necessária para evitar descontos maiores."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Para tato, é imprescindível...",
+      "O erro consiste na troca de 'tato' por 'tanto'. O correto seria: 'Para tanto, é imprescindível...'"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com linguagem clara, elegante e adequada ao tema. A estrutura é bem organizada, com introdução, desenvolvimento e conclusão lógicos. (Nota 1A: 9.0/10.0)",
+      "A argumentação é objetiva, bem fundamentada e pertinente ao tema proposto. O candidato utiliza referências históricas, literárias e institucionais para sustentar suas ideias, demonstrando domínio do assunto. (Nota 1B: 9.0/10.0)",
+      "A análise é reflexiva e demonstra capacidade de relacionar o conceito de 'espírito nacional' do enunciado com o papel do diplomata brasileiro, indo além da mera descrição das funções diplomáticas. (Nota 1C: 8.5/10.0)",
+      "Há apenas um erro gramatical identificável: troca de 'tanto' por 'tato', o que compromete minimamente a correção linguística. (Erro: 1)",
+      "A redação é, de modo geral, muito bem elaborada, com pouquíssimos desvios e excelente adequação ao tema e à proposta."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Para tato, é imprescindível..."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e estilo, com boa coerência e legibilidade. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto, com referências históricas e institucionais adequadas.",
+      "A análise é reflexiva e demonstra capacidade de relacionar o conceito de diplomata brasileiro ao contexto nacional e internacional, embora pudesse aprofundar um pouco mais a relação com o texto motivador.",
+      "Há um erro gramatical de digitação: 'tato' deveria ser 'tanto'.",
+      "O texto faz uso apropriado de exemplos institucionais e citações, o que enriquece a argumentação e demonstra domínio do tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para tato, é imprescindível... (correto: Para tanto)",
+      "O diplomata... deve estar preparado para defender os objetivos... calcados na inserção principista (falta de crase: à inserção principista)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento temático, com argumentação clara, coerente e bem fundamentada, alinhada ao enunciado proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra repertório cultural e diplomático, com referências pertinentes e atualizadas.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão geral do texto.",
+      "A reflexão sobre o que é ser diplomata brasileiro é profunda e conecta-se de forma consistente às ideias do texto-base, abordando identidade nacional, patriotismo crítico e desafios contemporâneos.",
+      "A redação atende plenamente aos critérios de correção, clareza e propriedade, sendo digna de nota elevada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para tato, é imprescindível...",
+      "identificação do diplomara com o país"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é adequada ao contexto, com vocabulário formal e propriedade temática, embora haja dois erros gramaticais pontuais: um erro de digitação (“tato” em vez de “tanto”) e um erro de ortografia (“diplomara” em vez de “diplomata”).",
+      "A redação faz uso pertinente de referências históricas e institucionais, além de abordar de forma coerente a relação entre identidade nacional e atuação diplomática, em consonância com o enunciado.",
+      "A conclusão é consistente e reforça o papel do diplomata brasileiro na defesa dos valores nacionais e na promoção do país no cenário internacional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para tato, é imprescindível... (correto: Para tanto)",
+      "O diplomata... deve estar preparado para defender os objetivos... calcados na inserção principista (correto: princípista)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão sobre o tema, com clareza e coerência na organização das ideias.",
+      "A linguagem é adequada ao contexto e há boa articulação entre os parágrafos, demonstrando domínio do tema e dos referenciais citados.",
+      "Os erros gramaticais são poucos e não comprometem a compreensão geral do texto, mas impactam negativamente a nota final.",
+      "A redação demonstra sensibilidade às demandas contemporâneas da diplomacia brasileira e às características do espírito nacional discutidas no enunciado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para tato, é imprescindível que o profissional se identifique com a nação que representa."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com encadeamento lógico e clareza na exposição das ideias. O candidato demonstra compreensão do tema e capacidade de reflexão, relacionando o conceito de diplomacia à identidade nacional e às demandas sociais contemporâneas.",
+      "Há domínio consistente da norma padrão, embora ocorram poucos deslizes, como o uso de \"tato\" em vez de \"tanto\".",
+      "O texto evidencia repertório cultural e político, citando autores e exemplos institucionais, o que enriquece a argumentação e demonstra maturidade analítica.",
+      "A linguagem é adequada ao contexto formal e há coesão entre os parágrafos, com transições suaves e referências claras.",
+      "A abordagem é pertinente ao enunciado, pois discute o que é ser diplomata brasileiro a partir das ideias do texto-base, sem fugir do tema ou apresentar superficialidade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para tato, é imprescindível...",
+      "A identificação do diplomara com o país..."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, com encadeamento lógico das ideias e argumentação pertinente ao tema proposto. O candidato demonstra compreensão clara do enunciado e consegue articular referências históricas, institucionais e conceituais de forma coesa.",
+      "A linguagem é adequada ao contexto formal do concurso, com vocabulário preciso e estilo maduro, embora haja dois deslizes gramaticais: \"tato\" (provavelmente erro de digitação por \"talto\" ou \"tal\") e \"diplomara\" (erro de grafia de \"diplomata\").",
+      "O texto evidencia reflexão aprofundada sobre o papel do diplomata brasileiro, relacionando patriotismo, identidade nacional, demandas sociais e políticas públicas, além de exemplos concretos de atuação diplomática recente.",
+      "A argumentação é consistente e demonstra domínio do tema, mas poderia ganhar ainda mais profundidade com uma análise mais crítica ou original sobre os desafios contemporâneos da diplomacia brasileira.",
+      "No geral, o texto é bem estruturado, com ideias claras, boa articulação e poucos deslizes linguísticos, o que justifica a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Para tato, é imprescindível..."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com encadeamento lógico das ideias e clareza na exposição do tema. O candidato demonstra compreensão do enunciado e consegue articular conceitos relevantes sobre o que é ser diplomata brasileiro, relacionando patriotismo, identidade nacional e demandas sociais.",
+      "A linguagem é adequada ao contexto formal, com vocabulário variado e domínio da norma culta, embora haja um pequeno deslize gramatical: o uso de \"tato\" em vez de \"tal\" (\"Para tal, é imprescindível...\").",
+      "O texto evidencia reflexão e coesão, citando autores e exemplos concretos (como o Instituto Rio Branco, Agenda 2030, San Tiago Dantas), o que enriquece a argumentação. A abordagem é pertinente e demonstra conhecimento sobre a diplomacia brasileira e seus desafios contemporâneos.",
+      "A argumentação é consistente, mas poderia ser ainda mais sofisticada ao aprofundar a relação entre identidade nacional e prática diplomática, explorando nuances do conceito de \"espírito brasileiro\" sugerido no enunciado. Ainda assim, o texto cumpre bem o proposto e se destaca pela clareza e relevância dos exemplos."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em relação a política públicas essenciais",
+      "expansão do número de embaixadas brasileiras, notadamente em países em que a presença do empresariado nacional é incipiente, é representativa desse “ethos” da diplomacia nacional, a qual está comprometida em ser vanguarda da sociedade para expandir as oportunidades nacionais."
+    ],
+    "feedbacks": [
+      "1A – O texto apresenta excelente coerência, legibilidade e estilo, com frases bem construídas e vocabulário adequado ao tema. A estrutura é clara e o encadeamento lógico é evidente, o que confere boa impressão geral. Apenas pequenas imperfeições de fluidez em alguns trechos justificam a nota um pouco abaixo do máximo.",
+      "1B – O candidato demonstra grande capacidade de argumentação, utilizando referências históricas, literárias e diplomáticas pertinentes. Os argumentos são objetivos, bem sistematizados e diretamente ligados ao tema proposto. Apenas pequenas redundâncias ou digressões breves impedem a nota máxima.",
+      "1C – O texto revela análise e reflexão aprofundadas sobre o que é ser diplomata brasileiro, relacionando o conceito de identidade nacional, representação e democratização da política externa. A reflexão é original e bem fundamentada, mas poderia ser ainda mais crítica em alguns pontos para atingir a nota máxima.",
+      "Erros gramaticais: (1) falta de crase em 'em relação a política públicas essenciais' (deveria ser 'às políticas'); (2) uso inadequado do pronome relativo 'a qual' em 'a qual está comprometida', pois o antecedente é 'o ethos da diplomacia nacional', que é masculino ('o ethos'), devendo ser 'o qual está comprometido'.",
+      "Sugestão: Revisar o uso de crase e pronomes relativos para evitar pequenos desvios gramaticais que podem impactar a nota final."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "em relação a política públicas essenciais",
+      "a despeito das profundas mudanças pelas quais passou a atividade diplomática"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com uso adequado de referências históricas e literárias. O candidato demonstra domínio do assunto e capacidade de relacionar diferentes ideias.",
+      "A análise é profunda e reflexiva, abordando a evolução do papel do diplomata e sua relação com a identidade nacional e a democracia. O texto vai além da mera exposição, promovendo reflexão crítica.",
+      "Foram identificados dois erros gramaticais: falta de crase em 'em relação a política públicas essenciais' (deveria ser 'à política') e regência inadequada em 'a despeito das profundas mudanças pelas quais passou a atividade diplomática' (o correto seria 'por que passou').",
+      "A redação atende plenamente aos critérios de organização, argumentação e reflexão, com apenas pequenas imprecisões gramaticais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em relação a política públicas essenciais",
+      "a despeito das profundas mudanças pelas quais passou a atividade diplomática"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências culturais e históricas adequadas e bem integradas ao raciocínio.",
+      "A análise é profunda, reflete criticamente sobre o papel do diplomata brasileiro contemporâneo e dialoga de forma sofisticada com o texto de partida.",
+      "Foram identificados dois erros gramaticais: falta de crase em 'em relação à política públicas essenciais' e uso inadequado da regência em 'pelas quais passou a atividade diplomática' (o correto seria 'por que passou').",
+      "O texto demonstra domínio do tema, boa articulação entre teoria e prática, e capacidade de síntese, sendo compatível com o padrão esperado para o CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em particular, o diplomata contemporâneo representa uma sociedade democrática, o que lhe confere maior legitimidade por estar representando diretamente o povo brasileiro. (redundância: \"representando diretamente\")",
+      "Em uma sociedade complexa como a brasileira, grupos de interesses recorrentemente divergem em relação a política públicas essenciais... (falta de crase: \"à política pública\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com argumentação clara, coerente e bem fundamentada em referências culturais e históricas pertinentes ao contexto diplomático brasileiro.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário específico do tema.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "A redação demonstra reflexão crítica e capacidade de síntese, relacionando adequadamente o enunciado com a discussão sobre o que é ser um diplomata brasileiro."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "em relação a politica públicas essenciais",
+      "crescentemente [3] para a consolidação"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com argumentação clara, coerente e bem fundamentada em referências culturais e diplomáticas. A linguagem é formal e adequada ao contexto, mas há pequenos deslizes gramaticais: falta de crase em \"em relação à política públicas essenciais\" e uso inadequado de vírgula ou pontuação em \"crescentemente para a consolidação\". Esses erros são pontuais e não comprometem a compreensão geral do texto. A reflexão sobre o papel do diplomata brasileiro é profunda e alinhada ao enunciado, demonstrando domínio do tema e capacidade de argumentação. Por isso, a nota final é elevada, mas desconta-se pelos erros gramaticais identificados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "em relação a politica públicas essenciais",
+      "o diplomata, na atualidade, contribui para a promoção de profícuos debates domésticos sobre políticas públicas e, consequentemente, para o fortalecimento do regime democrático."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é adequada e formal, com referências pertinentes a autores e conceitos relevantes para a diplomacia brasileira.",
+      "Há dois erros gramaticais: falta de crase em \"em relação à política públicas essenciais\" e uso inadequado do plural em \"políticas públicas\" no trecho \"profícuos debates domésticos sobre políticas públicas\" (o correto seria \"política pública\", pois se refere ao conceito geral).",
+      "Apesar dos pequenos deslizes gramaticais, o texto é coeso, bem fundamentado e cumpre plenamente o objetivo de discutir o que é ser um diplomata brasileiro à luz do enunciado.",
+      "A nota final reflete a alta qualidade do texto, descontando-se apenas os erros gramaticais identificados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em particular, o diplomata contemporâneo representa uma sociedade democrática, o que lhe confere maior legitimidade por estar representando diretamente o povo brasileiro. Ser um diplomata brasileiro é estar a serviço de uma política externa que contribui, crescentemente [3] para a consolidação da democracia...",
+      "O erro está na ausência de vírgula após o advérbio \"crescentemente\", que deveria estar isolado por vírgulas por se tratar de um adjunto adverbial deslocado: \"...contribui, crescentemente, para a consolidação...\""
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre referências literárias, históricas e diplomáticas, demonstrando domínio do tema e da linguagem. A argumentação é clara, coesa e bem encadeada, com reflexão pertinente sobre o papel do diplomata brasileiro contemporâneo.",
+      "A redação aborda de forma sofisticada a relação entre identidade nacional, representação e democracia, utilizando exemplos e citações pertinentes para enriquecer a discussão.",
+      "Há apenas um deslize gramatical pontual (falta de vírgula em adjunto adverbial deslocado), o que não compromete a clareza nem a qualidade geral do texto.",
+      "A estrutura do texto é lógica, com introdução, desenvolvimento e conclusão bem definidos, e a linguagem é adequada ao contexto acadêmico e diplomático.",
+      "O texto evidencia reflexão crítica e originalidade ao conectar o conceito de “espírito brasileiro” do enunciado com o papel do diplomata na atualidade, sem perder de vista a tradição diplomática nacional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em uma sociedade complexa como a brasileira, grupos de interesses recorrentemente divergem em relação a politica públicas essenciais"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, com referências culturais e históricas pertinentes e bem integradas ao argumento central sobre o que é ser diplomata brasileiro.",
+      "A argumentação é clara, lógica e demonstra reflexão sobre o papel do diplomata na representação do Estado e da sociedade brasileira, bem como sobre a evolução da diplomacia contemporânea.",
+      "Há domínio consistente da norma culta, com poucos deslizes gramaticais, como a ausência de crase em \"em relação à política públicas\" (deveria ser \"às políticas públicas\") e a repetição de vírgula antes de \"crescentemente\" (poderia ser evitada).",
+      "O texto é coeso, com encadeamento lógico entre os parágrafos e boa utilização de exemplos e citações para enriquecer a discussão.",
+      "A linguagem é adequada ao contexto acadêmico e ao tema, com vocabulário preciso e estilo maduro, ainda que sem originalidade excepcional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Em uma sociedade complexa como a brasileira, grupos de interesses recorrentemente divergem em relação a politica públicas essenciais"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, dialogando de forma pertinente com o enunciado e com referências culturais e históricas relevantes.",
+      "A argumentação é clara, estruturada e demonstra reflexão sobre o papel do diplomata brasileiro contemporâneo, considerando tanto a representação do Estado quanto da sociedade multifacetada.",
+      "O texto é coeso, com encadeamento lógico das ideias e boa utilização de exemplos e citações.",
+      "Há apenas um desvio gramatical leve (falta de crase em \"relação à política públicas\"), que não compromete a clareza nem a correção geral do texto.",
+      "A linguagem é adequada ao contexto acadêmico e ao tema, com vocabulário preciso e estilo formal."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "no caso do santista, antes de o Brasil ser Estado independente",
+      "deve identificar-se, nacionalmente, com seu pais",
+      "durante [2] governo de Jânio Quadros"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo elegante e legibilidade, com estrutura clara e progressão lógica dos argumentos. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e referências teóricas adequadas. O candidato demonstra domínio do assunto e capacidade de relacionar fatos e conceitos.",
+      "A análise é profunda e reflexiva, evidenciando compreensão do que significa ser diplomata brasileiro à luz do texto de referência. O candidato reflete sobre identidade nacional, pertencimento e papel da diplomacia.",
+      "Foram identificados três erros gramaticais: (1) ausência de crase em 'antes de o Brasil ser Estado independente' (deveria ser 'antes de o Brasil ser um Estado independente'); (2) erro de acentuação em 'pais' (deveria ser 'país'); (3) ausência de artigo definido em 'durante o governo de Jânio Quadros'.",
+      "Apesar dos pequenos deslizes gramaticais, o texto é de alta qualidade, com argumentação sólida e reflexão aprofundada, alinhada ao enunciado e aos critérios do concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "país",
+      "país",
+      "durante [o] governo de Jânio Quadros"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e linguagem adequada ao tema. Apenas pequenos deslizes de digitação ou acentuação prejudicam a nota máxima em apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto, com exemplos históricos e referências teóricas que enriquecem o desenvolvimento. Faltam apenas pequenas nuances para atingir a excelência absoluta.",
+      "A análise e reflexão são profundas, relacionando o conceito de diplomata brasileiro à identidade nacional e à atuação histórica. O texto demonstra capacidade crítica e reflexiva, mas poderia explorar mais contrapontos ou complexidades contemporâneas.",
+      "Foram identificados três erros gramaticais: dois casos de ausência de acento em “pais” (deveria ser “país”) e um erro de regência (“durante governo” deveria ser “durante o governo”).",
+      "A redação demonstra domínio do tema, boa articulação de ideias e respeito ao enunciado, mas pode ser aprimorada em precisão gramatical e em aprofundamento analítico."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "país",
+      "país",
+      "durante [o] governo de Jânio Quadros"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e linguagem adequada ao tema. Apenas pequenos deslizes de digitação ou acentuação prejudicam minimamente a apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos históricos e referências teóricas para sustentar sua tese, demonstrando domínio do assunto.",
+      "A análise é profunda e reflexiva, relacionando a identidade nacional à atuação diplomática e demonstrando compreensão das nuances do conceito de “espírito brasileiro” no contexto diplomático.",
+      "Foram identificados três erros gramaticais: dois casos de ausência de acento em “pais” (deveria ser “país”) e um erro de regência (“durante governo” deveria ser “durante o governo”).",
+      "A redação atende plenamente ao enunciado e aos critérios de avaliação, sendo um exemplo de texto bem elaborado e fundamentado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] ausência de crase em \"durante o governo\" (deveria ser \"durante o governo de Jânio Quadros\")",
+      "[2] erro de concordância em \"o pais\" (deveria ser \"o país\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sólida e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é adequada ao contexto, com vocabulário preciso e domínio do registro formal.",
+      "Os exemplos históricos e referências teóricas enriquecem a argumentação e demonstram conhecimento do tema.",
+      "Os erros gramaticais são pontuais e não comprometem a compreensão global do texto, mas impactam negativamente a nota final.",
+      "A redação cumpre plenamente o comando do enunciado, relacionando o conceito de \"espírito nacional\" à atuação diplomática brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "[1] ausência de crase em “durante o governo” (correto: “durante à” ou “durante o” — mas o uso de “durante à” é incorreto; o correto é “durante o” sem crase)",
+      "[2] erro de concordância: “país” deveria estar com acento (“país”) em “inserção do pais”"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sólida e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário diplomático e histórico.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "A redação dialoga de forma pertinente com o enunciado, relacionando a identidade nacional à atuação diplomática e citando exemplos históricos relevantes.",
+      "A conclusão é coerente e reforça a ideia central de que ser diplomata brasileiro implica identificação com a nação e defesa dos interesses nacionais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "no artigo 12, parágrafo terceiro, da Constituição da República, que estabelece que a carreira diplomática é privativa de brasileiro nato",
+      "durante governo de Jânio Quadros",
+      "país"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização e desenvolvimento do tema, com argumentação clara e coerente, além de referências históricas e teóricas pertinentes.",
+      "Há pequenos erros gramaticais, como ausência de crase em \"durante o governo de Jânio Quadros\" e uso inadequado de maiúscula em \"país\" (deveria ser \"País\" quando se refere à nação).",
+      "A linguagem é formal e adequada ao contexto, mas alguns trechos podem ser aprimorados quanto à concisão e fluidez.",
+      "A redação demonstra reflexão aprofundada sobre o tema, relacionando o conceito de identidade nacional ao ofício diplomático, conforme solicitado pelo enunciado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "deve identificar-se, nacionalmente, com seu pais"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando o conceito de identidade nacional do enunciado com exemplos históricos e contemporâneos da diplomacia brasileira. A argumentação é clara, coesa e demonstra reflexão sobre o papel do diplomata.",
+      "Há domínio consistente da norma culta, com poucos deslizes gramaticais, como a ausência de acento em 'país' e o uso inadequado de vírgulas em alguns trechos.",
+      "A redação desenvolve o tema com profundidade, citando autores, tratados e momentos históricos relevantes, o que evidencia repertório e capacidade analítica.",
+      "A estrutura lógica é bem construída, com encadeamento claro entre ideias e exemplos, o que contribui para a clareza e a força argumentativa do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "país (com acento) foi escrito como pais (sem acento) em várias passagens",
+      "A expressão \"durante governo de Jânio Quadros\" deveria ser \"durante o governo de Jânio Quadros\" (falta do artigo definido)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, com argumentação clara, coesa e bem fundamentada em exemplos históricos e referências teóricas.",
+      "Há pertinência na relação entre o enunciado e a discussão sobre o que é ser diplomata brasileiro, evidenciando reflexão e capacidade de articulação de ideias.",
+      "O domínio da norma culta é consistente, com apenas pequenos deslizes pontuais, que não comprometem a clareza nem a qualidade geral do texto.",
+      "A linguagem é adequada ao contexto e demonstra maturidade analítica, com referências precisas e argumentação bem encadeada.",
+      "O texto evidencia compreensão profunda do tema e capacidade de relacionar identidade nacional, política externa e atuação diplomática."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "deve identificar-se, nacionalmente, com seu pais"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre argumentos históricos, conceituais e normativos, demonstrando compreensão profunda do tema e capacidade de reflexão. A estrutura é lógica, com encadeamento claro das ideias e uso pertinente de exemplos históricos e referências teóricas. A linguagem é formal, adequada ao contexto e demonstra domínio da norma culta, com poucos deslizes gramaticais. O texto evidencia reflexão crítica e coesão, atendendo plenamente aos critérios de avaliação.",
+      "Erros gramaticais pontuais: falta de acento em 'país' (duas ocorrências) e vírgula desnecessária após 'durante' ('durante, governo de Jânio Quadros')."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 16,
+    "ano": "2015"
+  }
+]

@@ -1,0 +1,1881 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "associado ao crescente poder econômico, militar e político do novo Estado",
+      "Embora, a princípio, a Alemanha buscasse apresentar-se como “potência satisfeita”"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. O uso de referências históricas e culturais enriquece a leitura, conferindo fluidez e elegância ao texto.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato seleciona fatos históricos relevantes (República de Weimar, I Guerra Mundial, ascensão nazista) e os relaciona de forma consistente à citação de Machado de Assis.",
+      "1C: O texto demonstra capacidade analítica e reflexiva ao discutir o impacto psicossocial da desilusão e ao questionar a própria citação, mostrando profundidade e originalidade na interpretação.",
+      "Erros gramaticais: Houve dois desvios — um de concordância (“associado” deveria ser “associada”, pois se refere a “euforia”) e outro de pontuação (“Embora, a princípio” — a vírgula após “Embora” é desnecessária).",
+      "Sugestão: Revisar concordância e pontuação para evitar pequenas impropriedades que não comprometem o sentido, mas afetam a correção formal."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "ideia como o progresso",
+      "euforia entre os alemães, associado ao crescente poder"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com clareza na exposição das ideias e boa estruturação dos parágrafos. A impressão geral é positiva, com linguagem elegante e adequada ao tema. (Nota 1A: 9.0)",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato escolheu um fato histórico relevante (República de Weimar) e o relacionou de forma consistente à citação de Machado de Assis, demonstrando domínio do conteúdo. (Nota 1B: 9.0)",
+      "A análise é profunda e reflexiva, com capacidade de relacionar o fato histórico à dimensão psicossocial e cultural, além de questionar criticamente a própria citação. (Nota 1C: 9.0)",
+      "Foram identificados dois erros gramaticais: 1) concordância em 'ideia como o progresso' (deveria ser 'ideias como o progresso'); 2) concordância em 'euforia entre os alemães, associado ao crescente poder' (deveria ser 'associada').",
+      "A correção gramatical é boa, mas esses pequenos deslizes impactam a nota máxima nesse critério."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "associado ao crescente poder econômico, militar e político do novo Estado",
+      "Embora, a princípio, a Alemanha buscasse apresentar-se como “potência satisfeita”"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com parágrafos bem articulados e progressão lógica. Apenas pequenos ajustes de fluidez poderiam melhorar a impressão geral.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato seleciona fatos históricos relevantes (República de Weimar, I Guerra Mundial, vanguardas culturais alemãs) e os relaciona de forma consistente à citação de Machado de Assis.",
+      "1C: O texto demonstra capacidade analítica e reflexiva ao discutir o impacto psicossocial da desilusão pós-guerra e ao questionar a própria citação, mostrando profundidade e originalidade.",
+      "Correção gramatical: Foram identificados dois erros principais: (1) concordância em 'associado' (deveria ser 'associados', pois se refere a 'poder econômico, militar e político'); (2) uso indevido de vírgula após 'Embora', que interrompe a fluidez sintática.",
+      "Observação: O texto cumpre plenamente o enunciado, relacionando um fato histórico mundial do século XX à citação de Machado de Assis, com análise crítica e reflexiva."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "associado ao crescente poder econômico, militar e político do novo Estado. Embora, a princípio, a Alemanha buscasse apresentar-se como ‘potência satisfeita’, como indicado por Otto von Bismarck, o projeto expansionista logo seria recuperado. Durante a I Guerra Mundial, o otimismo alemão seria substituído pelo sentimento de desilusão, uma vez que se evidenciariam os limites do poder do país e, sobretudo, os custos decorrentes do esforço bélico.",
+      "havia grande euforia entre os alemães, associado ao crescente poder econômico..."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, com argumentação clara, coerente e bem encadeada, relacionando adequadamente o fato histórico escolhido (República de Weimar e contexto pós-I Guerra Mundial) à citação de Machado de Assis.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com boa capacidade de reflexão e análise crítica.",
+      "Há poucos erros gramaticais, como problemas de concordância (exemplo: ‘havia grande euforia entre os alemães, associado ao crescente poder’, em vez de ‘associada’) e pontuação inadequada em alguns trechos, mas não comprometem a compreensão global do texto.",
+      "A conclusão é original e demonstra maturidade ao questionar a própria citação, ampliando o nível de reflexão do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "associado ao crescente poder econômico, militar e político do novo Estado. Embora, a princípio, a Alemanha buscasse apresentar-se como ‘potência satisfeita’, como indicado por Otto von Bismarck, o projeto expansionista logo seria recuperado.",
+      "havia grande euforia entre os alemães, associado ao crescente poder econômico"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação clara, coerente e bem encadeada, relacionando adequadamente a citação de Machado de Assis ao fato histórico escolhido (República de Weimar e contexto do pós-Primeira Guerra).",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com poucos desvios gramaticais.",
+      "Há dois erros de concordância: ‘havia grande euforia entre os alemães, associado ao crescente poder’ (o correto seria ‘associada’) e ‘Embora, a princípio’ (a vírgula após ‘Embora’ é desnecessária).",
+      "A reflexão sobre o tema é aprofundada, com capacidade de análise crítica e originalidade na relação entre a citação e o fato histórico.",
+      "A estrutura do texto é coesa e bem organizada, com introdução, desenvolvimento e conclusão claros, além de referências históricas pertinentes e bem contextualizadas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "associado ao crescente poder econômico, militar e político do novo Estado. Embora, a princípio, a Alemanha buscasse apresentar-se como “potência satisfeita” (falta de concordância: “associada” deveria concordar com “euforia” feminino)",
+      "ideia como o progresso, a modernidade e o capitalismo (falta de artigo definido antes de “ideia”: “a ideia”)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, relacionando de forma pertinente o fato histórico escolhido à citação de Machado de Assis.",
+      "A argumentação é consistente, com reflexão crítica sobre o tema e boa articulação entre os parágrafos.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "A linguagem é adequada ao contexto acadêmico e demonstra domínio do vocabulário e da estrutura dissertativa exigida pelo concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "associado ao crescente poder econômico, militar e político do novo Estado"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre a citação de Machado de Assis e o fato histórico escolhido (República de Weimar e o contexto do pós-Primeira Guerra Mundial), demonstrando compreensão profunda do tema e capacidade de reflexão.",
+      "A argumentação é clara, bem estruturada e desenvolvida com pertinência, evidenciando domínio do conteúdo e da linguagem formal.",
+      "Há apenas pequenos deslizes gramaticais, como a concordância em \"associado\" (deveria ser \"associada\", pois se refere a \"euforia\"), e uma pequena imprecisão vocabular em \"bases democráticas e não militaristas\" (poderia ser mais precisa).",
+      "O texto demonstra coesão, fluidez e capacidade de análise, com referências culturais e históricas pertinentes, além de reflexão original sobre a citação.",
+      "A conclusão é sofisticada, ao questionar a própria citação a partir da experiência histórica analisada, o que evidencia maturidade intelectual."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "associado ao crescente poder econômico, militar e político do novo Estado"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando de forma pertinente a citação de Machado de Assis ao contexto histórico da Alemanha no século XX, especialmente o período da República de Weimar e a ascensão nazista.",
+      "A argumentação é clara, bem estruturada e demonstra reflexão sobre o tema, com análise crítica e conexão entre cultura, história e literatura.",
+      "Há domínio consistente da norma padrão, com poucos deslizes gramaticais, como a concordância em \"associado\" (deveria ser \"associada\", concordando com \"euforia\").",
+      "O texto evidencia coesão, fluidez e capacidade de relacionar fatos históricos à citação proposta, além de apresentar conclusão reflexiva e original."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "associado ao crescente poder econômico, militar e político do novo Estado"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando de forma pertinente a citação de Machado de Assis ao contexto histórico da Alemanha no século XX, especialmente o período da República de Weimar e a ascensão nazista.",
+      "A argumentação é clara, bem estruturada e demonstra reflexão sobre o tema, com análise crítica e conexão entre desilusão, cultura e política.",
+      "Há domínio consistente da norma padrão, com poucos deslizes gramaticais, como a concordância em \"associado\" (deveria ser \"associada\", pois se refere a \"euforia\").",
+      "O texto evidencia coesão, fluidez e capacidade de relacionar fatos históricos à citação proposta, além de apresentar conclusão reflexiva e original."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "aspirações  e da autodeterminação",
+      "erro de duplicação de espaço entre 'aspirações' e 'e'"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências históricas e teóricas adequadas, o que justifica a pontuação máxima em 1B.",
+      "A análise é sofisticada, demonstrando capacidade de reflexão crítica ao relacionar a citação de Machado de Assis com o surgimento da ONU e o idealismo político, o que justifica a nota elevada em 1C.",
+      "Há apenas um erro gramatical leve (duplicação de espaço), não comprometendo a correção e a propriedade da linguagem."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente organização, com coerência e estilo adequados ao gênero dissertativo-argumentativo. O encadeamento lógico é claro e a linguagem é precisa e formal, o que confere legibilidade e elegância ao texto.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza referências históricas e teóricas relevantes (ONU, Clausewitz, Morgenthau, Kant, Dadaísmo) para relacionar o fato escolhido (fundação da ONU) à citação de Machado de Assis.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de relacionar conceitos abstratos (idealismo, realismo, utopia) ao contexto histórico do século XX. O texto evidencia maturidade intelectual e domínio do tema.",
+      "Não foram identificados erros gramaticais. A linguagem é correta, com domínio de concordância, regência, pontuação e ortografia.",
+      "A redação cumpre integralmente o enunciado, escolhendo um fato relevante da história mundial (fundação da ONU) e o relacionando de forma consistente à citação de Machado de Assis."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "aspirações  e da autodeterminação",
+      "erro de espaçamento duplo antes da conjunção 'e', que deve ser corrigido para um único espaço"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica dos argumentos (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências históricas e teóricas adequadas (1B).",
+      "A análise é sofisticada, demonstrando capacidade de reflexão crítica ao relacionar a citação de Machado de Assis com fatos históricos e teorias das relações internacionais (1C).",
+      "Há apenas um erro gramatical de digitação (espaçamento duplo), que não compromete a compreensão do texto.",
+      "O texto cumpre plenamente o enunciado, relacionando a citação à fundação da ONU e à dinâmica internacional do século XX."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta, sem erros gramaticais detectáveis.",
+      "A argumentação é clara, coerente e bem encadeada, relacionando adequadamente a citação de Machado de Assis ao fato histórico escolhido (fundação da ONU).",
+      "O candidato demonstra repertório cultural e histórico consistente, utilizando referências pertinentes (Morgenthau, Clausewitz, Kant) para sustentar a reflexão.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático.",
+      "A redação cumpre integralmente o enunciado, desenvolvendo o tema com profundidade e originalidade.",
+      "Apenas pequenos ajustes de estilo poderiam aprimorar a fluidez, mas não comprometem a qualidade global do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta, com linguagem precisa e erudita, adequada ao tema e ao contexto do concurso.",
+      "A argumentação é clara, coerente e bem encadeada, demonstrando capacidade de reflexão crítica e articulação entre a citação de Machado de Assis e o fato histórico escolhido (fundação da ONU).",
+      "O candidato utiliza referências teóricas e históricas pertinentes, enriquecendo a análise e demonstrando repertório cultural sólido.",
+      "A relação entre a citação e o fato histórico é estabelecida de forma consistente ao longo do texto, evidenciando compreensão do enunciado e capacidade de síntese.",
+      "Não foram identificados erros gramaticais relevantes; o texto é coeso e bem estruturado, com introdução, desenvolvimento e conclusão claros."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta, com linguagem precisa, vocabulário sofisticado e construção sintática elaborada.",
+      "A argumentação é clara, coerente e bem encadeada, estabelecendo relação pertinente entre a citação de Machado de Assis e o fato histórico escolhido (fundação da ONU).",
+      "O candidato demonstra capacidade de reflexão crítica e articulação de referências teóricas e históricas, o que evidencia profundidade analítica.",
+      "A redação cumpre integralmente o comando do enunciado, desenvolvendo o tema com consistência e originalidade.",
+      "Não foram identificados erros gramaticais relevantes que comprometessem a clareza ou a correção do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta, com linguagem precisa, vocabulário rico e construções sintáticas sofisticadas, sem erros gramaticais.",
+      "A argumentação é clara, bem estruturada e demonstra capacidade de reflexão sobre o tema, relacionando a citação de Machado de Assis ao fato histórico escolhido (fundação da ONU) de maneira pertinente e original.",
+      "O encadeamento das ideias é lógico e coeso, com referências teóricas e históricas que enriquecem a análise, evidenciando profundidade e maturidade intelectual.",
+      "A redação demonstra domínio temático e capacidade de articular diferentes perspectivas (realismo, idealismo, teoria das relações internacionais) de forma integrada e relevante.",
+      "Apesar do alto nível, a argumentação não atinge o patamar de excepcionalidade por não apresentar insights teóricos inovadores ou estilo comparável ao de um especialista consagrado, mas é consistentemente ótima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre a citação de Machado de Assis e o fato histórico escolhido (fundação da ONU), demonstrando domínio temático e capacidade analítica.",
+      "A argumentação é sólida, com referências teóricas pertinentes (Morgenthau, Clausewitz, Kant) e reflexão aprofundada sobre o papel do idealismo e do realismo na política internacional.",
+      "A linguagem é precisa, formal e adequada ao contexto acadêmico, sem erros gramaticais ou desvios de norma culta.",
+      "O encadeamento lógico das ideias é claro e coeso, evidenciando maturidade intelectual e originalidade na abordagem do tema.",
+      "O texto cumpre plenamente a instrução de relacionar a citação ao fato histórico, trazendo insights relevantes e demonstrando reflexão crítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta, com linguagem precisa, vocabulário rico e adequado ao tema.",
+      "A argumentação é clara, bem estruturada e demonstra capacidade de reflexão sobre o tema proposto, relacionando a citação de Machado de Assis ao fato histórico escolhido (fundação da ONU) de forma pertinente e sofisticada.",
+      "O encadeamento das ideias é lógico, com referências teóricas e históricas pertinentes, evidenciando conhecimento e capacidade analítica.",
+      "A redação é coesa e coerente, sem repetições desnecessárias ou desvios temáticos.",
+      "Apesar do alto nível, a argumentação não chega a ser excepcional por não apresentar insights absolutamente originais ou rupturas teóricas, mas é muito bem fundamentada e articulada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "aperceber-se (forma preferível: perceber-se ou dar-se conta; o uso de aperceber-se, embora não seja erro absoluto, é considerado arcaico e pouco usual, podendo ser apontado como inadequação estilística em contextos formais contemporâneos)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, clareza e estilo, com boa estruturação dos parágrafos e progressão lógica. Apenas pequenos ajustes de estilo poderiam ser feitos.",
+      "A argumentação é sólida, bem fundamentada e pertinente ao tema proposto. O candidato soube relacionar o fato histórico escolhido (Política de Apaziguamento britânica) à citação de Machado de Assis de forma objetiva e sistemática.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de interpretação histórica e filosófica. O texto evidencia compreensão do dilema entre idealismo e realismo.",
+      "Há apenas um desvio de uso linguístico (aperceber-se), que não compromete a correção gramatical geral, mas pode ser considerado inadequação estilística."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "aperceber-se (correto: perceber-se ou dar-se conta; o uso de 'aperceber-se' é arcaico e pouco usual, podendo ser considerado erro de registro ou inadequação lexical, mas não erro gramatical clássico; contudo, há um erro de crase em 'dar-se conta do risco' que não foi feito, mas o texto traz 'dar-se conta do risco iminente', sem crase, o que está correto. O erro identificado é de regência: 'dar-se conta de' e não 'dar-se conta do', mas o texto está correto. O erro efetivo é a ausência de vírgula após 'Mais que isso', que deveria ser 'Mais que isso, acreditava-se...'. Portanto, o erro gramatical é de pontuação: ausência de vírgula após conjunção aditiva deslocada.)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e estilo, com coerência e legibilidade exemplares. Apenas pequenos ajustes de pontuação poderiam melhorar ainda mais a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com informações históricas precisas e bem relacionadas à citação de Machado de Assis.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de relacionar fatos históricos à interpretação filosófica da citação.",
+      "Há apenas um erro gramatical identificável: ausência de vírgula após 'Mais que isso', o que não compromete a compreensão, mas afeta a correção formal."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "aperceber-se (forma preferível: perceber-se; o uso de 'aperceber-se' é arcaico e pode ser considerado inadequado em textos contemporâneos, mas não é erro grave; contudo, há uma impropriedade de regência em 'dar-se conta do risco', que seria mais correto como 'dar-se conta do risco que representava', mas o erro mais claro é a ausência de vírgula após 'retrospectiva dos fatos', que prejudica a fluidez do texto)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenas impropriedades de linguagem e pontuação afetam minimamente a apresentação (nota 1A: 9.0).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato relaciona com precisão o fato histórico escolhido (Política de Apaziguamento britânica) à citação de Machado de Assis, demonstrando domínio do conteúdo e capacidade de síntese (nota 1B: 9.5).",
+      "A análise é profunda e reflexiva, evidenciando compreensão do dilema entre idealismo e realismo, e aplicando-o adequadamente ao contexto histórico. A reflexão sobre o erro de cálculo britânico e a necessidade de avaliação realista é pertinente e bem fundamentada (nota 1C: 9.0).",
+      "Há um erro gramatical leve (ausência de vírgula após 'retrospectiva dos fatos'), que não compromete a compreensão, mas afeta a correção formal. O uso de 'aperceber-se' é arcaico, mas não constitui erro grave.",
+      "A redação cumpre plenamente o enunciado, com argumentação sólida, análise crítica e linguagem apropriada ao gênero dissertativo-argumentativo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "aperceber-se (forma preferencial: perceber-se ou dar-se conta)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, com clareza, coerência e argumentação bem encadeada, relacionando de forma pertinente a citação de Machado de Assis ao fato histórico escolhido. A linguagem é formal e adequada ao contexto, com apenas um desvio gramatical leve. A reflexão é profunda e demonstra domínio do tema e da norma culta, justificando uma nota elevada, mas não máxima, devido ao pequeno desvio."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "aperceber-se (forma preferível: perceber-se ou dar-se conta)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, relacionando de forma pertinente a citação de Machado de Assis ao fato histórico escolhido (Política de Apaziguamento britânica diante do Nazismo).",
+      "A argumentação é sólida, com reflexão crítica sobre o tema e boa capacidade de síntese e análise histórica.",
+      "Há apenas um desvio gramatical leve (uso de “aperceber-se”, pouco comum e menos adequado ao contexto formal), que não compromete a compreensão nem a qualidade geral do texto.",
+      "A linguagem é formal, adequada ao contexto acadêmico e ao tema proposto.",
+      "A conclusão retoma a ideia central e reforça a relação entre o fato histórico e a citação, demonstrando domínio do tema e da proposta."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "aperceber-se (forma preferível: perceber-se ou dar-se conta) - uso pouco idiomático no contexto, embora não seja erro formal"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação bem fundamentada e reflexão pertinente sobre o tema proposto.",
+      "A relação entre a citação de Machado de Assis e o fato histórico escolhido é feita de maneira precisa e original.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário histórico e político.",
+      "Há apenas um desvio de propriedade lexical, sem comprometer a compreensão ou a correção gramatical global do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "aperceber-se (forma preferencial: perceber-se ou dar-se conta; o uso de aperceber-se, embora existente, é pouco comum e pode soar inadequado em contextos formais)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza, com encadeamento lógico das ideias e boa articulação entre a citação de Machado de Assis e o fato histórico escolhido (Política de Apaziguamento britânica).",
+      "A argumentação é pertinente, demonstrando compreensão do tema e capacidade de reflexão, com análise contextualizada e relevante.",
+      "A linguagem é formal, adequada e demonstra domínio da norma culta, com apenas um desvio de uso vocabular pouco comum.",
+      "O texto evidencia coesão, fluidez e capacidade de relacionar conceitos abstratos a fatos concretos, com conclusão reflexiva e pertinente."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "aperceber-se (forma preferencial: perceber-se ou dar-se conta; o uso de \"aperceber-se\" é raro e pode soar inadequado em contextos formais)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre a citação de Machado de Assis e o fato histórico escolhido (Política de Apaziguamento britânica diante do Nazismo).",
+      "A argumentação é clara, bem estruturada e demonstra reflexão sobre o tema, com encadeamento lógico das ideias.",
+      "O domínio da norma padrão é consistente, com apenas um desvio de uso vocabular pouco comum, mas sem comprometer a compreensão.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e estilo formal.",
+      "A análise histórica é pertinente e bem fundamentada, evidenciando conhecimento e capacidade de síntese.",
+      "A conclusão retoma a citação inicial e a relaciona de forma coesa ao argumento central, reforçando a coerência do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A frase 'mais vale aperceber-se da realidade dos fatos' deveria ser 'mais vale perceber-se da realidade dos fatos' ou 'mais vale a percepção da realidade dos fatos'; o verbo 'aperceber-se' não é usual nesse contexto e pode ser considerado inadequado ou erro de regência."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre a citação de Machado de Assis e o fato histórico escolhido, demonstrando compreensão profunda do tema e capacidade de argumentação.",
+      "A estrutura do texto é clara, com encadeamento lógico das ideias e boa progressão argumentativa, evidenciando reflexão e coesão.",
+      "O domínio da norma padrão é consistente, com apenas um deslize pontual de linguagem, que não compromete a compreensão.",
+      "A análise do contexto histórico é pertinente, detalhada e bem relacionada à citação, evidenciando maturidade intelectual.",
+      "A conclusão é bem elaborada, retomando o tema e reforçando a relação entre idealismo e realismo, conforme sugerido pelo enunciado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "guiar* as ações",
+      "atestam** as dificuldades"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos deslizes de formatação (asteriscos) prejudicam a apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato relaciona adequadamente a citação de Machado de Assis ao Modernismo brasileiro, trazendo exemplos e referências consistentes.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de relacionar fatos históricos e culturais ao conceito de idealismo versus pragmatismo.",
+      "Foram identificados dois erros formais: uso indevido de asteriscos em 'guiar*' e 'atestam**', que não têm função gramatical e devem ser suprimidos.",
+      "A linguagem é correta e apropriada, mas a presença desses sinais gráficos constitui erro de apresentação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "guiar* as ações por grandes objetivos (erro de regência: o correto seria “guiar-se” ou “orientar as ações”)",
+      "atestam** as dificuldades (erro de concordância verbal: o sujeito é “O radicalismo”, portanto o verbo deveria estar no singular: “atesta”)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, relacionando adequadamente o Modernismo brasileiro à citação de Machado de Assis, o que justifica nota elevada em 1B.",
+      "A análise é profunda, reflete criticamente sobre o papel dos ideais modernistas e sua relação com o pensamento machadiano, merecendo nota elevada em 1C.",
+      "Foram identificados dois erros gramaticais: um de regência (“guiar as ações”) e um de concordância verbal (“atestam”).",
+      "O texto demonstra domínio do tema, boa articulação entre argumentos e reflexão crítica, mas poderia aprimorar a precisão gramatical para alcançar nota máxima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "guiar* — erro de acentuação: o correto é “guiar” (sem acento, pois é verbo regular)",
+      "atestam** — erro de concordância verbal: o sujeito é “O radicalismo”, portanto o correto seria “atesta”"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, relacionando adequadamente o Modernismo brasileiro à citação de Machado de Assis, o que justifica nota alta em 1B.",
+      "A análise é sofisticada, com reflexão crítica sobre o papel do idealismo e do Modernismo, demonstrando capacidade analítica e reflexiva, o que justifica nota elevada em 1C.",
+      "Há dois erros gramaticais pontuais (acentuação e concordância verbal), que não comprometem a clareza do texto, mas devem ser corrigidos.",
+      "O texto cumpre integralmente o enunciado, escolhendo um fato relevante do século XX (o Modernismo brasileiro) e relacionando-o de forma consistente à citação proposta."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "*guia (forma correta: guiar) - o verbo deve estar no infinitivo para concordar com o sujeito implícito",
+      "**atestam (forma correta: atestava) - concordância verbal com o sujeito singular \"a tarefa\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sofisticada e reflexão aprofundada sobre o tema proposto.",
+      "A relação entre a citação de Machado de Assis e o fato cultural brasileiro (Modernismo) está bem estabelecida e desenvolvida ao longo do texto.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "A linguagem é adequada ao contexto acadêmico e o vocabulário é preciso e variado.",
+      "A redação demonstra domínio dos conteúdos históricos e culturais abordados, com exemplos pertinentes e bem articulados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "*guia (forma correta: \"guiar\")",
+      "**atestam (forma correta: \"atesta\", concordando com \"a tarefa\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sofisticada e reflexão aprofundada sobre o tema proposto.",
+      "A relação entre a citação de Machado de Assis e o fato histórico escolhido (Modernismo brasileiro) é pertinente, bem fundamentada e desenvolvida ao longo do texto.",
+      "A linguagem é adequada ao contexto acadêmico, com vocabulário preciso e domínio de estruturas complexas, apesar de dois pequenos deslizes gramaticais.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto, mas impactam negativamente a nota final.",
+      "O texto demonstra capacidade de análise crítica, originalidade e domínio dos conteúdos culturais e históricos mobilizados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "*guia (forma correta: guiar) - erro de regência verbal",
+      "**catalizadas (forma correta: catalisadas) - erro ortográfico"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, relacionando de forma pertinente a citação de Machado de Assis ao movimento modernista brasileiro do século XX.",
+      "A argumentação é sólida, com reflexão crítica e capacidade de síntese, demonstrando domínio do tema e da linguagem acadêmica.",
+      "Há apenas dois erros gramaticais pontuais, que não comprometem a compreensão global do texto, mas devem ser considerados na pontuação final."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "guia* as ações (forma correta: guiar)",
+      "atestam** as dificuldades (forma correta: atesta, concordando com 'a tarefa')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação temática, relacionando de modo pertinente a citação de Machado de Assis ao Modernismo brasileiro do século XX, com argumentação clara e reflexiva.",
+      "A estrutura do texto é lógica e bem encadeada, com progressão argumentativa e uso adequado de exemplos culturais e literários.",
+      "Há domínio consistente da norma culta, com apenas dois deslizes gramaticais pontuais, que não comprometem a clareza nem a coesão do texto.",
+      "O vocabulário é apropriado e demonstra maturidade, com capacidade de análise e reflexão sobre o tema proposto.",
+      "A relação entre o idealismo machadiano e o Modernismo é bem desenvolvida, evidenciando compreensão do enunciado e capacidade de argumentação.",
+      "O texto não atinge o nível \"Excelente\" por apresentar argumentação previsível em alguns trechos e pequenos deslizes linguísticos, mas é, no geral, bem estruturado e coeso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "guia* (forma correta: guiar)",
+      "catalizadas (forma correta: catalisadas)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando a citação de Machado de Assis ao movimento modernista brasileiro do século XX com clareza e profundidade.",
+      "A argumentação é consistente, demonstrando capacidade de reflexão e domínio do tema, com exemplos pertinentes e encadeamento lógico das ideias.",
+      "A linguagem é formal, adequada ao contexto, com poucos deslizes gramaticais, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "A redação evidencia coesão, coerência e capacidade de análise, atendendo plenamente aos critérios de um texto bem estruturado e com reflexão relevante."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "guia* as ações (forma correta: guiar)",
+      "atestam** as dificuldades (forma correta: atesta, concordando com 'a tarefa')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação temática, relacionando a citação de Machado de Assis ao Modernismo brasileiro do século XX com clareza e profundidade.",
+      "A argumentação é bem estruturada, com encadeamento lógico e reflexão pertinente sobre o papel dos ideais grandiosos na transformação cultural.",
+      "A linguagem é adequada ao contexto acadêmico, com vocabulário rico e domínio consistente da norma padrão, apesar de pequenos deslizes gramaticais.",
+      "A análise do Modernismo é pertinente e demonstra compreensão do tema proposto, com referências precisas a autores e movimentos culturais.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a clareza ou a coerência do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Antes do conflito, pensava-se, na Europa, que a paz perpétua havia sido atingida. A prosperidade econômica e as diversas alianças militares tornavam a guerra desvantajosa e inconcebível.",
+      "problema de vírgula: uso desnecessário de vírgula após 'na Europa'",
+      "O caso do Império Austríaco ilustra essa queda. Antes da Primeira Guerra Mundial, Viena era um dos maiores centros culturais do mundo. Capital de um império multiétnico, a cidade atraía artistas de todo o mundo, desde o século XVIII, e era exemplo de cosmopolitismo.",
+      "problema de vírgula: vírgula indevida após 'desde o século XVIII'"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. O uso de referências culturais e históricas enriquece a leitura e confere elegância ao texto.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato relaciona de forma consistente o mito de Ícaro, a citação de Machado de Assis e o fato histórico escolhido (Primeira Guerra Mundial), demonstrando domínio do conteúdo e capacidade de síntese.",
+      "1C: O texto revela boa capacidade de análise e reflexão, ao relacionar a queda dos impérios com a ideia de que é preferível aspirar ao extraordinário, mesmo que isso resulte em queda, a permanecer na mediocridade. A reflexão é aprofundada e original.",
+      "Correção gramatical: O texto apresenta apenas dois erros de pontuação, ambos relacionados ao uso indevido de vírgulas. Não há erros de concordância, ortografia ou regência. A linguagem é formal e adequada ao gênero dissertativo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Antes do conflito, pensava-se, na Europa, que a paz perpétua havia sido atingida.",
+      "O caso do Império Austríaco ilustra essa queda."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, estilo elegante e legibilidade. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. Apenas pequenas imprecisões de estilo poderiam ser aprimoradas.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato relaciona o mito de Ícaro à citação de Machado de Assis e, em seguida, conecta o tema à Primeira Guerra Mundial, trazendo exemplos históricos e culturais relevantes.",
+      "1C: O texto demonstra capacidade analítica e reflexiva ao relacionar a queda dos impérios com a ideia de que a busca pelo extraordinário, mesmo que trágica, deixa legado. A reflexão sobre o impacto cultural das quedas históricas é pertinente e aprofundada.",
+      "Correção gramatical: Foram identificados dois pequenos desvios: (1) uso inadequado da vírgula em 'Antes do conflito, pensava-se, na Europa, que...' (melhor seria sem a vírgula após 'pensava-se'); (2) falta de vírgula após 'O caso do Império Austríaco' para isolar o aposto explicativo. Ambos são erros leves e não comprometem a clareza.",
+      "Em resumo, o texto é bem estruturado, argumentativamente sólido e reflexivo, com pouquíssimos desvios gramaticais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Antes do conflito, pensava-se, na Europa, que a paz perpétua havia sido atingida.",
+      "O caso do Império Austríaco ilustra essa queda. Antes da Primeira Guerra Mundial, Viena era um dos maiores centros culturais do mundo. Capital de um império multiétnico, a cidade atraía artistas de todo o mundo, desde o século XVIII, e era exemplo de cosmopolitismo.",
+      "Observação: O erro está na vírgula após 'desde o século XVIII', que interrompe indevidamente a sequência lógica do período. Outro possível erro é a ausência de vírgula após 'conflito', em 'Nenhum especialista previu a queda que seguiria a guerra', que poderia ser melhor pontuada como 'Nenhum especialista previu a queda que se seguiria à guerra'."
+    ],
+    "feedbacks": [
+      "1A: O texto é coerente, legível e apresenta estilo adequado ao gênero dissertativo-argumentativo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. Apenas pequenos ajustes de fluidez poderiam ser feitos.",
+      "1B: O candidato demonstra excelente capacidade de argumentação, relacionando o mito de Ícaro à citação de Machado de Assis e, em seguida, ao fato histórico escolhido (Primeira Guerra Mundial). As informações são pertinentes, bem sistematizadas e objetivas.",
+      "1C: A análise é profunda e reflexiva, mostrando compreensão do tema e capacidade de relacionar diferentes áreas do conhecimento (literatura, história, cultura). O texto vai além da mera exposição de fatos, promovendo reflexão sobre legado e mediocridade.",
+      "Correção gramatical: Foram identificados dois erros pontuais de pontuação e regência, que não comprometem a compreensão do texto, mas afetam a precisão formal."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "conflito. Nenhum",
+      "conviviam de modo próspero e conflito."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, com clareza, coerência e capacidade de argumentação. A relação entre a citação de Machado de Assis e o fato histórico escolhido (Primeira Guerra Mundial) é bem estabelecida e explorada com profundidade. A linguagem é adequada e formal, com poucos desvios gramaticais. Os erros identificados são pontuais: há uma frase incompleta (“conviviam de modo próspero e conflito”) e um erro de pontuação (“conflito. Nenhum” deveria ser “conflito, nenhum”). Tais falhas não comprometem a compreensão geral, mas afetam a correção gramatical. O texto demonstra reflexão e domínio do tema, justificando nota elevada, mas não máxima devido aos pequenos desvios formais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "conflito. Nenhum especialista previu a queda que seguiria a guerra.",
+      "conviviam de modo próspero e conflito."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, boa articulação entre a citação de Machado de Assis e o fato histórico escolhido (Primeira Guerra Mundial), além de reflexão aprofundada e linguagem adequada ao contexto acadêmico.",
+      "Há pequenos deslizes gramaticais, como problemas de concordância e construção frasal, que não comprometem a clareza geral do texto, mas devem ser corrigidos para maior precisão.",
+      "A organização do texto é coerente, com encadeamento lógico das ideias e capacidade de argumentação bem desenvolvida.",
+      "A relação entre o mito de Ícaro, a citação de Machado de Assis e a queda dos impérios é bem estabelecida, demonstrando reflexão e originalidade.",
+      "A linguagem é formal e apropriada, com vocabulário variado e adequado ao tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "conflito",
+      "que se desdobraria em conflito mundial"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, com argumentação clara e coerente, relacionando o mito de Ícaro, a citação de Machado de Assis e a Primeira Guerra Mundial de forma original e pertinente.",
+      "A linguagem é adequada ao contexto e há boa organização das ideias, com encadeamento lógico e capacidade de reflexão.",
+      "Há poucos erros gramaticais, como a repetição de \"conflito\" e a regência inadequada em \"que se desdobraria em conflito mundial\" (o correto seria \"em um conflito mundial\"), mas eles não comprometem a compreensão global do texto.",
+      "A conclusão é bem articulada e reforça a relação entre a citação e o fato histórico escolhido, demonstrando domínio do tema e da proposta."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "conflito",
+      "que de um terceiro andar\""
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando de forma pertinente o mito de Ícaro, a citação de Machado de Assis e a Primeira Guerra Mundial, com reflexão sobre o legado cultural dos impérios. A argumentação é clara, coesa e demonstra boa capacidade de análise.",
+      "Há poucos deslizes gramaticais: o trecho \"conviviam de modo próspero e conflito\" está incompleto ou mal formulado; e a vírgula antes de \"que de um terceiro andar\" deveria ser suprimida para maior correção.",
+      "O texto demonstra domínio consistente da norma padrão e da linguagem adequada ao contexto, com vocabulário rico e estrutura lógica bem encadeada. A reflexão sobre o tema é relevante e bem fundamentada, evidenciando maturidade analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "conflito"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre a citação de Machado de Assis, o mito de Ícaro e o fato histórico escolhido (Primeira Guerra Mundial), demonstrando reflexão e coesão.",
+      "A argumentação é clara, bem estruturada e pertinente ao tema, com exemplos históricos e culturais relevantes, como o Império Austráaco, o Reino Unido e a Rússia.",
+      "O domínio da norma padrão é consistente, com apenas um deslize gramatical: o trecho 'impérios poderosos conviviam de modo próspero e conflito' parece ter um erro de concordância ou de digitação, provavelmente deveria ser 'em conflito' ou 'em aparente harmonia, apesar do conflito'.",
+      "A linguagem é adequada, com vocabulário rico e estilo maduro, evidenciando boa capacidade de análise e de expressão.",
+      "A conclusão relaciona de forma eficaz o legado cultural dos impérios ao sentido da citação de Machado de Assis, reforçando a ideia de que a busca pelo extraordinário, mesmo que terminada em queda, é preferível à mediocridade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "conflito"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre a citação de Machado de Assis, o mito de Ícaro e o fato histórico escolhido (Primeira Guerra Mundial), demonstrando capacidade de reflexão e argumentação.",
+      "A estrutura do texto é clara, com encadeamento lógico das ideias e boa progressão temática, evidenciando domínio do tema e da linguagem.",
+      "Há apenas um pequeno erro gramatical: a expressão 'conviviam de modo próspero e conflito' está mal formulada; o correto seria 'conviviam de modo próspero, apesar dos conflitos' ou similar.",
+      "A análise é pertinente, com exemplos históricos e culturais bem escolhidos, o que enriquece a argumentação e demonstra repertório.",
+      "O texto poderia ser ainda mais sofisticado ao aprofundar a relação entre a queda dos impérios e a ideia de 'cair das nuvens', mas já atinge um nível elevado de coesão e clareza."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "No século XX, mormente após a Segunda Guerra Mundial, a compreensão de que era possível conseguir lutar, por meio do esforço intelectual, contra a tirania, foi um fato relevante da história mundial* — o asterisco não tem explicação e quebra a fluidez do texto."
+    ],
+    "feedbacks": [
+      "1A — O texto apresenta excelente coerência, estilo elegante e legibilidade. A estrutura é clara, com parágrafos bem articulados e progressão lógica. Apenas pequenos deslizes de fluidez (como o uso indevido do asterisco) afetam minimamente a impressão geral.",
+      "1B — O candidato demonstra grande capacidade de argumentação, relacionando a citação de Machado de Assis ao avanço da democracia no século XX com pertinência, objetividade e sistematização. O uso de referências teóricas (Giddens, Lassale, Churchill, Borges) enriquece o conteúdo e reforça a relevância das informações.",
+      "1C — A análise é sofisticada, revelando reflexão crítica sobre o tema. O texto vai além da simples exposição, discutindo nuances do conceito de democracia, conflitos ideológicos e limitações práticas, sempre conectando ao sentido da citação de Machado de Assis.",
+      "Correção gramatical — O texto é, em geral, correto, mas há um pequeno erro de pontuação/estilo (asterisco sem explicação). Não há erros graves de concordância, ortografia ou regência."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "malgrado os seus problemas",
+      "No século XX, mormente após a Segunda Guerra Mundial, a compreensão de que era possível conseguir lutar, por meio do esforço intelectual, contra a tirania, foi um fato relevante da história mundial*."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, estilo elegante e legibilidade. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. Apenas pequenas imprecisões estilísticas, como o uso de asterisco sem explicação, prejudicam minimamente a apresentação.",
+      "1B: O candidato demonstra grande capacidade de argumentação, com informações pertinentes e bem sistematizadas. A relação entre a citação de Machado de Assis e o fato histórico escolhido (expansão da democracia no século XX) é clara e bem fundamentada, com referências a autores e eventos relevantes.",
+      "1C: A análise é profunda e reflexiva, mostrando compreensão crítica sobre o tema. O texto vai além da simples exposição, promovendo reflexão sobre limites e potencialidades da democracia, e relacionando adequadamente à citação.",
+      "Erros gramaticais: Há um erro de pontuação no trecho 'malgrado os seus problemas,' (falta de vírgula após 'problemas' para isolar a oração explicativa). Além disso, há uma estrutura sintática truncada no trecho com asterisco, que interrompe a fluidez do raciocínio.",
+      "Sugestão: Evitar o uso de símbolos não explicados (como o asterisco) e revisar a pontuação para garantir fluidez e clareza."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "malgrado os seus problemas",
+      "de modo que direitos fundamentais sejam protegidos, e capacidades individuais sejam respeitadas",
+      "No século XX, mormente após a Segunda Guerra Mundial, a compreensão de que era possível conseguir lutar, por meio do esforço intelectual, contra a tirania, foi um fato relevante da história mundial*."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, estilo elegante e legibilidade. A estrutura é clara, com parágrafos bem articulados e progressão lógica. Apenas pequenos ajustes de fluidez poderiam ser feitos, mas a impressão geral é muito positiva.",
+      "1B: O candidato demonstra grande objetividade e sistematização, relacionando a citação de Machado de Assis ao fato histórico escolhido (expansão da democracia no século XX) com pertinência e profundidade. O uso de referências teóricas (Giddens, Lassale, Churchill, Borges) enriquece o argumento.",
+      "1C: A análise é sofisticada, refletindo criticamente sobre o tema e a citação, mostrando capacidade de reflexão sobre limites e potencialidades da democracia. O texto vai além da mera exposição, promovendo uma discussão analítica.",
+      "Erros gramaticais: Há um erro de pontuação na vírgula antes de “e capacidades individuais sejam respeitadas” (uso indevido de vírgula antes de “e” em oração coordenada sem justificativa). O asterisco ao final de um período é inadequado e não tem função clara. O uso de “malgrado” está correto, mas a construção poderia ser mais fluida.",
+      "Sugestão: Evitar o uso de asteriscos e revisar o emprego de vírgulas antes de “e” em orações coordenadas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "malgrado os seus problemas, como, por meio da mudança de ideias, sociedades conflituosas podem acomodar interesses diversos, de modo que direitos fundamentais sejam protegidos, e capacidades individuais sejam respeitadas. (uso excessivo de vírgulas e possível falta de paralelismo)",
+      "é famosa a afirmação irônica de que a democracia é a pior forma de governo, exceto por todas as outras. (falta de vírgula após “irônica”)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação, clareza e encadeamento lógico, relacionando de forma pertinente a citação de Machado de Assis ao processo de expansão da democracia no século XX, especialmente após a Segunda Guerra Mundial.",
+      "A linguagem é formal, adequada ao contexto acadêmico e demonstra domínio de referências históricas e teóricas relevantes.",
+      "Há poucos desvios gramaticais, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "A reflexão sobre o tema é profunda e original, evidenciando capacidade de análise crítica e síntese, o que justifica uma nota elevada, mas não máxima, devido aos pequenos deslizes formais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "malgrado os seus problemas, como, por meio da mudança de ideias, sociedades conflituosas podem acomodar interesses diversos, de modo que direitos fundamentais sejam protegidos, e capacidades individuais sejam respeitadas. (uso excessivo de vírgulas e possível quebra de paralelismo)",
+      "é famosa a afirmação irônica de que a democracia é a pior forma de governo, exceto por todas as outras. (regência: “exceto todas as outras” seria mais adequado)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento do tema, com argumentação clara, coerente e reflexiva, relacionando adequadamente a citação de Machado de Assis ao fato histórico escolhido (expansão da democracia no século XX).",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com boa capacidade de síntese e articulação de ideias.",
+      "Há poucos deslizes gramaticais, que não comprometem a compreensão, mas afetam a fluidez e a correção do texto.",
+      "A redação demonstra domínio dos conceitos históricos e filosóficos abordados, com referências pertinentes e bem integradas ao argumento central."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta da língua portuguesa, sem erros gramaticais perceptíveis.",
+      "A argumentação é clara, coerente e bem encadeada, demonstrando capacidade de reflexão e de relacionar o fato histórico escolhido (expansão da democracia no século XX) à citação de Machado de Assis.",
+      "O candidato utiliza referências teóricas e históricas pertinentes, enriquecendo a discussão e demonstrando repertório cultural.",
+      "A linguagem é adequada ao contexto acadêmico e ao tema proposto, com vocabulário preciso e construção frasal sofisticada.",
+      "A redação atende plenamente ao enunciado, desenvolvendo o tema de forma original e consistente.",
+      "A nota reflete um desempenho muito bom, com pequenas margens para aprimoramento na articulação entre alguns parágrafos e na conclusão do raciocínio, mas sem comprometer a qualidade global do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "malgrado os seus problemas"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre o tema proposto, a citação de Machado de Assis e o fato histórico escolhido (expansão da democracia no século XX).",
+      "A argumentação é clara, bem encadeada e demonstra reflexão aprofundada sobre o papel das ideias na história política contemporânea.",
+      "O uso de referências teóricas (Anthony Giddens, Ferdinand Lassale, Winston Churchill, Jorge Luis Borges) enriquece a análise e evidencia repertório cultural.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com poucos deslizes gramaticais.",
+      "O único erro gramatical perceptível é o uso de \"malgrado os seus problemas\" sem crase, que seria mais adequado como \"malgrado os problemas\" ou \"a despeito dos seus problemas\".",
+      "A relação entre a citação de Machado e o tema é bem estabelecida, mostrando que é preferível apostar em ideais e utopias democráticas do que aceitar soluções pragmáticas e autoritárias.",
+      "O texto é coeso, com parágrafos bem estruturados e transições lógicas entre as ideias."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "mormente após a Segunda Guerra Mundial, a compreensão de que era possível conseguir lutar, por meio do esforço intelectual, contra a tirania, foi um fato relevante da história mundial*"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre a citação de Machado de Assis e o fato histórico escolhido (expansão da democracia no século XX), demonstrando capacidade de reflexão e argumentação sofisticada.",
+      "A estrutura do texto é clara, com encadeamento lógico das ideias e uso pertinente de referências teóricas (Giddens, Lassale, Churchill, Borges), o que enriquece a análise.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio da norma culta, com apenas um desvio gramatical pontual (marcado com asterisco no original, provavelmente referente à vírgula desnecessária antes do ponto final).",
+      "O texto evidencia reflexão crítica sobre o tema, relacionando conceitos políticos e filosóficos à citação inicial, sem superficialidade.",
+      "Apesar de alguns trechos serem extensos, a coesão e a coerência são mantidas, o que demonstra maturidade textual.",
+      "A argumentação é sólida, mas não atinge o patamar de originalidade e profundidade analítica que caracterizaria a faixa Excepcional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "mormente após a Segunda Guerra Mundial, a compreensão de que era possível conseguir lutar, por meio do esforço intelectual, contra a tirania, foi um fato relevante da história mundial*"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre a citação de Machado de Assis e o fato histórico escolhido (expansão da democracia no século XX), demonstrando reflexão e capacidade argumentativa.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com poucos deslizes gramaticais.",
+      "A estrutura do texto é lógica e coerente, com encadeamento claro das ideias e referências pertinentes (Giddens, Lassale, Churchill, Borges).",
+      "Há profundidade na análise, evidenciando domínio temático e capacidade de relacionar diferentes conceitos e autores.",
+      "O único erro gramatical identificado é a pontuação inadequada ao final do parágrafo, com um asterisco solto, o que não compromete a compreensão geral.",
+      "A argumentação é consistente e demonstra maturidade intelectual, embora não alcance o nível de originalidade e sofisticação que caracterizaria uma redação excepcional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "havia um grande otimismo a respeito do futuro do comunismo.",
+      "O estado1 soviético havia cometido inúmeros crimes",
+      "as últimas eleições na Polônia e na Hungria demonstram"
+    ],
+    "feedbacks": [
+      "1A: O texto é coerente, legível e apresenta estilo adequado ao gênero dissertativo-argumentativo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. Apenas pequenas imprecisões estilísticas, como repetições, impedem a nota máxima.",
+      "1B: O candidato demonstra excelente capacidade de argumentação, selecionando fatos históricos pertinentes e relacionando-os de forma objetiva e sistemática à citação de Machado de Assis. A argumentação é sólida e bem fundamentada.",
+      "1C: A análise é profunda e reflexiva, mostrando compreensão do tema e capacidade de relacionar fenômenos históricos à metáfora proposta. O texto evidencia maturidade intelectual e senso crítico.",
+      "Erros gramaticais: 1) uso inadequado de crase (“a respeito” não exige crase); 2) erro de digitação (“estado1”); 3) concordância verbal (“demonstram” deveria ser “demonstrou”, pois o sujeito é “as últimas eleições” no singular, se considerado o núcleo do sujeito)."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "havia um grande otimismo a respeito do futuro do comunismo. A economia da URSS crescia a um ritmo significativo e o sistema de economia planificada era uma alternativa viável ao capitalismo.",
+      "Nos anos emediatamente posteriores à 2ª Guerra Mundial",
+      "O estado1 soviético havia cometido inúmeros crimes"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com clareza na exposição das ideias e boa progressão temática. O estilo é formal e adequado ao gênero dissertativo-argumentativo. A coerência é mantida do início ao fim, o que justifica uma nota elevada em 1A.",
+      "A argumentação é sólida, com informações pertinentes e bem sistematizadas sobre o comunismo soviético e sua relação com a citação de Machado de Assis. O candidato demonstra domínio do tema e capacidade de relacionar fatos históricos à reflexão proposta, justificando a alta pontuação em 1B.",
+      "A análise é profunda e reflete criticamente sobre o impacto do fim do comunismo nas esquerdas, utilizando a metáfora machadiana de forma criativa e pertinente. O texto vai além da simples descrição, promovendo reflexão sobre consequências e adaptações, o que justifica a nota elevada em 1C.",
+      "Foram identificados três erros gramaticais: um erro de digitação (“emediatamente” em vez de “imediatamente”), um erro de acentuação (“à” antes de numeral ordinal deveria ser “ao”), e um erro de formatação (“estado1” com número). Esses desvios não comprometem a compreensão, mas afetam a correção formal.",
+      "A linguagem é adequada, mas há pequenas imprecisões que poderiam ser evitadas com revisão cuidadosa. A propriedade vocabular é boa, mas a correção gramatical pode ser aprimorada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "havia um grande otimismo a respeito do futuro do comunismo",
+      "o estado1 soviético havia cometido inúmeros crimes",
+      "as últimas eleições na Polônia e na Hungria demonstram"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta boa coerência, estilo claro e legibilidade. A estrutura é bem definida, com introdução, desenvolvimento e conclusão. Pequenas imprecisões estilísticas não comprometem a impressão geral.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato seleciona fatos históricos relevantes e os relaciona de forma clara à citação de Machado de Assis, demonstrando domínio do conteúdo.",
+      "1C: O texto revela boa capacidade de análise e reflexão, ao comparar diferentes trajetórias das esquerdas e ao interpretar a metáfora machadiana no contexto histórico. A reflexão é aprofundada e original.",
+      "Erros gramaticais: Foram identificados três erros: (1) uso inadequado de crase ou preposição em 'a respeito do futuro do comunismo' (preferível 'acerca do'); (2) erro tipográfico ('estado1'); (3) concordância verbal inadequada em 'as últimas eleições... demonstram' (preferível 'demonstram-se' ou 'demonstrou').",
+      "Observação: O texto é consistente, bem fundamentado e cumpre plenamente o enunciado. Os erros gramaticais são pontuais e não afetam a compreensão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "erro de digitação em \"anos emediatamente\" (correto: imediatamente)",
+      "erro de concordância em \"o estado1 soviético\" (número 1 inserido indevidamente)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação, clareza e encadeamento lógico, relacionando de forma pertinente o fato histórico escolhido à citação de Machado de Assis.",
+      "A linguagem é adequada ao contexto e o desenvolvimento do tema é coerente e bem fundamentado.",
+      "Os erros gramaticais são pontuais e não comprometem a compreensão global do texto, mas impactam negativamente a nota final.",
+      "A redação demonstra reflexão crítica e domínio do tema, com exemplos históricos bem escolhidos e articulados à tese central."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "O estado1 soviético",
+      "à 2ª Guerra Mundial (deveria ser \"à Segunda Guerra Mundial\" ou \"à 2.ª Guerra Mundial\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade argumentativa, relacionando de forma pertinente o tema da queda do comunismo soviético à citação de Machado de Assis.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "A linguagem é adequada ao contexto e demonstra domínio do tema e da norma culta, com reflexão crítica e encadeamento lógico das ideias."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "erro de digitação: \"estado1\" (provavelmente deveria ser \"estado\")",
+      "uso inadequado de vírgula após “caindo das nuvens” (falta de vírgula antes das aspas)",
+      "erro de concordância: “a respeito do futuro do comunismo. A economia da URSS crescia” (falta de vírgula ou conectivo entre as orações)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação e reflexão, relacionando de forma clara e pertinente o fato histórico escolhido à citação de Machado de Assis.",
+      "A organização do texto é coerente, com encadeamento lógico das ideias e boa progressão temática.",
+      "Há poucos erros gramaticais, que não comprometem a clareza nem a correção global do texto.",
+      "A linguagem é adequada ao contexto e demonstra domínio do vocabulário e da estrutura dissertativa exigida pelo concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "havia um grande otimismo a respeito do futuro do comunismo.",
+      "O estado1 soviético"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando de forma clara e pertinente a citação de Machado de Assis ao fenômeno histórico escolhido (queda do comunismo soviético).",
+      "A argumentação é consistente, com encadeamento lógico e reflexão aprofundada sobre o tema, demonstrando domínio do assunto e da linguagem.",
+      "Há poucos deslizes gramaticais, como o uso inadequado de \"estado1\" (provavelmente erro de digitação) e a construção um pouco redundante em \"havia um grande otimismo a respeito do futuro do comunismo\".",
+      "O texto é coeso, com exemplos bem escolhidos e comparações pertinentes, evidenciando capacidade analítica e clareza de ideias.",
+      "A linguagem é adequada ao contexto acadêmico e o estilo é maduro, ainda que não alcance o nível de originalidade e sofisticação exigido para a faixa \"Excelente\" ou \"Excepcional\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "havia um grande otimismo a respeito do futuro do comunismo. A economia da URSS crescia a um ritmo significativo e o sistema de economia planificada era uma alternativa viável ao capitalismo. Muitos especialistas ocidentais admitiam que era uma questão de tempo até o socialismo triunfar.",
+      "O estado1 soviético havia cometido inúmeros crimes contra sua própria população.",
+      "O correto seria: “O Estado soviético” (com inicial maiúscula e sem número).",
+      "Nos anos emediatamente posteriores à 2ª Guerra Mundial...",
+      "O correto seria: “imediatamente”."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre a citação de Machado de Assis e o fato histórico escolhido (ascensão e queda do comunismo soviético).",
+      "A argumentação é clara, bem encadeada e demonstra reflexão sobre o tema, relacionando o idealismo das esquerdas à metáfora do “cair das nuvens”.",
+      "A linguagem é adequada ao contexto acadêmico e formal, com poucos deslizes gramaticais.",
+      "O texto evidencia domínio temático e boa coesão, embora a argumentação não chegue ao nível de originalidade ou sofisticação excepcional.",
+      "Os erros gramaticais são pontuais e não comprometem a compreensão global do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "havia um grande otimismo a respeito do futuro do comunismo. A economia da URSS crescia a um ritmo significativo e o sistema de economia planificada era uma alternativa viável ao capitalismo. Muitos especialistas ocidentais admitiam que era uma questão de tempo até o socialismo triunfar. O apoio aos movimentos de descolonização, enquanto os EUA cooperavam com o regime do apartheid da África do Sul, colocava a URSS em uma posição moralmente superior. As esquerdas estavam, de fato, “nas nuvens”. O processo de desestalinização, entretanto, começou a mostrar que mesmo que a economia soviética tivesse crescido muito, o estado1 soviético havia cometido inúmeros crimes contra sua própria população."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando de forma clara e pertinente a citação de Machado de Assis ao fenômeno histórico escolhido (ascensão e queda do comunismo soviético).",
+      "A argumentação é consistente, com encadeamento lógico e reflexão aprofundada sobre o tema, demonstrando domínio do conteúdo e capacidade analítica.",
+      "A linguagem é adequada, formal e precisa, com poucos deslizes gramaticais.",
+      "Há um erro de digitação (“estado1”) e uma pequena impropriedade de pontuação (ausência de vírgula após “caindo das nuvens” no segundo parágrafo).",
+      "O texto evidencia coesão, clareza e capacidade de síntese, sendo bem estruturado e demonstrando reflexão madura sobre o tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "metodologia antropófoga (erro de ortografia: o correto é antropofágica)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com coerência e estilo adequados ao gênero dissertativo-argumentativo. A estrutura é clara e a progressão temática é lógica, o que justifica uma nota elevada em 1A.",
+      "A argumentação é sólida, objetiva e bem fundamentada, com referências pertinentes ao Modernismo brasileiro e à citação de Machado de Assis. O candidato demonstra domínio do tema e capacidade de sistematização, o que justifica uma nota elevada em 1B.",
+      "A análise é aprofundada e reflexiva, evidenciando compreensão crítica do enunciado e do fato histórico escolhido. O texto relaciona adequadamente a citação ao movimento modernista, demonstrando capacidade analítica, o que justifica uma nota elevada em 1C.",
+      "Há apenas um erro gramatical de ortografia (“antropófoga” em vez de “antropofágica”), o que não compromete a correção geral do texto, mas deve ser apontado.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com pouca margem para melhorias."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "metodologia antropófoga"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com coerência e estilo adequados ao gênero dissertativo-argumentativo. A progressão temática é clara e a linguagem é elegante, embora haja um pequeno deslize ortográfico (“antropófoga” em vez de “antropófaga”).",
+      "A argumentação é sólida, objetiva e bem sistematizada, com pertinência temática e riqueza de referências culturais (Modernismo, Oswald de Andrade, Mário de Andrade, Silviano Santiago). O candidato demonstra domínio do tema e capacidade de relacionar o fato histórico à citação de Machado de Assis.",
+      "A análise é aprofundada, evidenciando reflexão crítica sobre o papel dos intelectuais modernistas e a relação entre ousadia, risco e consolidação de projetos culturais. O texto dialoga com conceitos teóricos e históricos de forma consistente.",
+      "Há apenas um erro gramatical identificado: erro de ortografia (“antropófoga” em vez de “antropófaga”). Não foram observados problemas relevantes de concordância, pontuação ou regência.",
+      "A redação atende plenamente aos critérios de avaliação, sendo merecedora de pontuação elevada em todos os aspectos."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "conformando verdadeira revolução cultural",
+      "angariar o apoio da sociedade brasileira à metodologia antropófoga",
+      "à metodologia antropófoga",
+      "O erro está na grafia: o correto é 'antropofágica' (ou 'antropofagia'), não 'antropófoga'."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com parágrafos bem articulados e progressão lógica. Apenas pequenas imprecisões estilísticas pontuais, mas sem prejuízo à compreensão.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato relaciona adequadamente o Modernismo brasileiro à citação de Machado de Assis, demonstrando domínio do conteúdo e capacidade de síntese.",
+      "1C: O texto revela boa capacidade de análise e reflexão, ao articular a ousadia do Modernismo com o risco implícito na citação machadiana, e ao discutir a aceitação social das inovações culturais.",
+      "Correção gramatical: O texto é, em geral, correto, mas há um erro de grafia ('antropófoga' em vez de 'antropofágica' ou 'antropofagia'), o que compromete parcialmente a correção lexical. Não há outros erros evidentes de concordância, ortografia ou pontuação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "No trecho 'ao angariar o apoio da sociedade brasileira à metodologia antropófoga', o correto seria 'antropófaga' (erro de ortografia)."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando domínio do tema e capacidade de argumentação. A relação entre a citação de Machado de Assis e o Modernismo brasileiro é bem construída e aprofundada, com referências pertinentes a Oswald de Andrade, Mário de Andrade e Silviano Santiago. A linguagem é formal, precisa e adequada ao contexto acadêmico. O único erro gramatical identificado é de ortografia ('antropófoga' em vez de 'antropófaga'), o que não compromete a compreensão nem a qualidade geral do texto. O texto atende plenamente aos critérios de coerência, clareza e correção linguística, justificando uma nota elevada, mas não máxima, devido ao pequeno deslize ortográfico."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "erro de acentuação: \"ideais\" deveria ser \"ideias\" no trecho \"angariar o apoio da sociedade brasileira à metodologia antropófoga\" (provavelmente um erro de digitação ou de acentuação, pois o correto seria \"ideias\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A relação entre a citação de Machado de Assis e o fato escolhido (Modernismo brasileiro) é feita de modo pertinente e sofisticado.",
+      "A linguagem é adequada ao contexto acadêmico e formal, com poucos desvios gramaticais.",
+      "O único erro gramatical identificado é de acentuação/ortografia, o que não compromete a compreensão do texto, mas deve ser considerado na pontuação final."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "No trecho \"angariar o apoio da sociedade brasileira à metodologia antropófoga\", o correto seria \"antropófaga\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando forte capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A relação entre a citação de Machado de Assis e o Modernismo brasileiro é feita de forma pertinente, original e bem fundamentada, com referências precisas a Oswald de Andrade, Mário de Andrade e Silviano Santiago.",
+      "A linguagem é formal, adequada ao contexto acadêmico e ao gênero dissertativo, com pouquíssimos desvios gramaticais.",
+      "O erro de grafia (“antropófoga” em vez de “antropófaga”) é pontual e não compromete a compreensão global do texto.",
+      "A redação cumpre integralmente a proposta, desenvolvendo o tema com profundidade e originalidade, o que justifica uma nota elevada, próxima do máximo permitido."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre a citação de Machado de Assis e o fato histórico escolhido (Modernismo brasileiro), demonstrando compreensão profunda do tema e capacidade de reflexão.",
+      "A argumentação é sólida, sofisticada e bem estruturada, com encadeamento lógico claro e uso pertinente de referências culturais e teóricas (ex.: antropofagia, Silviano Santiago).",
+      "O domínio da norma culta é avançado, sem erros gramaticais detectáveis, e a linguagem é precisa, formal e adequada ao contexto acadêmico.",
+      "O texto evidencia originalidade ao relacionar a metáfora do “salto das nuvens” à ousadia dos modernistas, explorando nuances históricas e culturais com maturidade analítica.",
+      "A conclusão retoma a citação inicial de modo coeso, fechando o raciocínio com clareza e profundidade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A opção deliberada pela ousadia e a proatividade na difusão dos ideais modernistas viabilizaram a progressiva conformação do “entre-lugar” da literatura brasileira, segundo conceituação de Silviano Santiago."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e sofisticada a citação de Machado de Assis com o Modernismo brasileiro e a ideia de ruptura cultural.",
+      "A argumentação é coesa, com encadeamento lógico e referências pertinentes (Oswald de Andrade, Semana de Arte Moderna, Silviano Santiago), demonstrando reflexão aprofundada.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com poucos deslizes gramaticais.",
+      "Há apenas um erro de concordância nominal: \"segundo conceituação de Silviano Santiago\" deveria ser \"segundo a conceituação de Silviano Santiago\".",
+      "O texto evidencia domínio temático e linguístico, com clareza, coesão e capacidade analítica, justificando a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "metodologia antropófoga"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e sofisticada a citação de Machado de Assis ao Modernismo brasileiro e à ideia de ruptura cultural.",
+      "A argumentação é bem estruturada, com encadeamento lógico, referências pertinentes (como Oswald de Andrade, Mário de Andrade e Silviano Santiago) e reflexão aprofundada sobre o papel dos intelectuais modernistas.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com poucos deslizes gramaticais.",
+      "O erro gramatical identificado é a forma \"metodologia antropófoga\", quando o correto seria \"metodologia antropofágica\".",
+      "O texto evidencia coesão, clareza e capacidade de reflexão, mas não atinge o nível de originalidade e sofisticação estilística que caracterizaria uma faixa \"Excelente\" ou \"Excepcional\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "no final da1 década",
+      "estado vigentes",
+      "debate político brasileiro (inadequação temática)",
+      "aceite a mediocridade lesiva (erro de concordância verbal)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com clareza na exposição das ideias e boa organização dos parágrafos. (1A)",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, relacionando o fato histórico escolhido (queda do comunismo na Europa oriental) à citação de Machado de Assis. (1B)",
+      "A capacidade de análise e reflexão é evidente, com comparações e contextualizações relevantes, inclusive com referência à Primavera Árabe. (1C)",
+      "Foram identificados quatro erros gramaticais: \"no final da1 década\" (digitação), \"estado vigentes\" (concordância), \"debate político brasileiro\" (inadequação temática e possível erro de regência), \"aceite a mediocridade lesiva\" (concordância verbal).",
+      "Apesar dos pequenos deslizes gramaticais, o texto é muito bem elaborado, com reflexão aprofundada e argumentação consistente, demonstrando domínio do tema e da linguagem escrita."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "no final da1 década",
+      "estado vigentes",
+      "debate político brasileiro",
+      "aceite a mediocridade lesiva"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos deslizes de estilo e precisão comprometem minimamente a apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, relacionando o fato histórico escolhido (queda do comunismo na Europa oriental) à citação de Machado de Assis de modo consistente.",
+      "A análise é profunda, com reflexão crítica sobre o significado da citação e sua aplicação ao processo histórico, demonstrando capacidade de abstração e síntese.",
+      "Erros gramaticais pontuais: 'no final da1 década' (digitação), 'estado vigentes' (concordância), 'debate político brasileiro' (impropriedade semântica, pois o contexto é europeu), 'aceite a mediocridade lesiva' (erro de regência verbal: o correto seria 'aceitar').",
+      "Apesar dos erros, o texto é coeso e demonstra domínio do tema e da linguagem. A relação entre o fato histórico e a citação é bem construída e original."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "no final da1 década",
+      "estado vigentes",
+      "debate político brasileiro (inadequação temática)",
+      "aceite a mediocridade lesiva (regência inadequada: deveria ser 'aceitar')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos deslizes de estilo e adequação temática prejudicam a nota máxima.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato relaciona adequadamente o fato histórico à citação de Machado de Assis, mas poderia aprofundar a análise comparativa.",
+      "A capacidade de análise e reflexão é elevada, com boas conexões entre o fato histórico e a citação, além de reflexões sobre liberdade e democracia. Faltam, contudo, algumas nuances sobre limitações e contradições dos processos históricos citados.",
+      "Foram identificados quatro erros gramaticais: um erro de digitação ('da1'), um erro de concordância ('estado vigentes'), uma inadequação temática ('debate político brasileiro', que não se encaixa no contexto da Europa oriental) e um erro de regência ('aceite' em vez de 'aceitar')."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "no final da1 década",
+      "debate político brasileiro",
+      "aceite a mediocridade lesiva"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade argumentativa, relacionando de forma pertinente o fato histórico escolhido à citação de Machado de Assis.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão global do texto, mas devem ser corrigidos para maior precisão linguística.",
+      "A linguagem é adequada ao contexto e demonstra domínio do tema e dos conceitos históricos abordados.",
+      "A reflexão sobre o tema é profunda e bem encadeada, evidenciando maturidade analítica e boa articulação entre ideias."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "por um debate político brasileiro (inadequação semântica e sintática, pois o contexto é europeu)",
+      "no final da1 década (erro de digitação)",
+      "aceite a mediocridade lesiva (erro de regência: deveria ser “aceitar a mediocridade lesiva”)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade de argumentação, relacionando de forma pertinente o fato histórico à citação de Machado de Assis.",
+      "A linguagem é, em geral, adequada e formal, mas há pequenos deslizes gramaticais e de precisão vocabular que afetam a correção.",
+      "A reflexão sobre o tema é profunda e bem encadeada, demonstrando domínio do conteúdo e da estrutura dissertativa exigida pelo concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "por um debate político brasileiro (inadequação semântica e sintática, pois o contexto é europeu)",
+      "no final da1 década (erro de digitação)",
+      "aceite a mediocridade lesiva (erro de regência: o correto seria “aceitar a mediocridade lesiva”)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade de argumentação, relacionando de forma pertinente o fato histórico à citação de Machado de Assis.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão, mas afetam a precisão e a elegância da linguagem.",
+      "A reflexão sobre o tema é profunda e bem encadeada, demonstrando domínio do conteúdo e da linguagem formal exigida pelo concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "no final da1 década",
+      "debate político brasileiro",
+      "aceite a mediocridade lesiva"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando de forma pertinente a citação de Machado de Assis ao processo de redemocratização da Europa oriental no século XX.",
+      "A argumentação é clara, coesa e demonstra reflexão sobre o tema, com exemplos históricos bem escolhidos e encadeamento lógico.",
+      "Há domínio consistente da norma padrão, mas ocorrem pequenos deslizes gramaticais: \"no final da1 década\" (erro de digitação), \"debate político brasileiro\" (inadequação temática e possível erro de concordância ou escolha lexical) e \"aceite a mediocridade lesiva\" (forma verbal inadequada, deveria ser \"aceitar\").",
+      "A linguagem é adequada ao contexto, com vocabulário variado e estilo formal, embora sem grande sofisticação estilística.",
+      "O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros, e demonstra capacidade de análise e reflexão, justificando a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "no final da1 década",
+      "em referência ao histórico mundial de luta contra tiranias que o movimento foi chamado de Primavera Árabe",
+      "aceite a mediocridade lesiva (forma verbal inadequada, deveria ser \"aceitar\")"
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estrutura argumentativa, clareza e pertinência temática, relacionando adequadamente o fato histórico escolhido (redemocratização da Europa oriental) à citação de Machado de Assis.",
+      "A articulação entre os parágrafos é lógica e o encadeamento das ideias é coerente, evidenciando reflexão e capacidade de análise.",
+      "Há domínio consistente da norma padrão, com poucos deslizes gramaticais que não comprometem a compreensão global do texto.",
+      "O texto apresenta linguagem adequada ao contexto acadêmico e demonstra capacidade de argumentação e reflexão, ainda que sem grande sofisticação estilística ou originalidade excepcional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "por um debate político brasileiro",
+      "no final da1 década",
+      "aceite a mediocridade lesiva"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação temática, relacionando de modo pertinente a citação de Machado de Assis ao processo de redemocratização da Europa oriental no século XX.",
+      "A argumentação é clara, coesa e demonstra reflexão aprofundada sobre o tema, com exemplos históricos bem selecionados e conexões relevantes com outros contextos, como a Primavera Árabe.",
+      "A linguagem é adequada e formal, com poucos deslizes gramaticais que não comprometem a compreensão geral do texto.",
+      "Os erros gramaticais identificados são pontuais: \"por um debate político brasileiro\" (provavelmente um erro de digitação ou de adequação temática), \"no final da1 década\" (erro de digitação) e \"aceite\" (forma verbal inadequada, o correto seria \"aceitar\").",
+      "O texto evidencia domínio temático e linguístico consistente, com boa estrutura e coesão, justificando a classificação na faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "déficit de participação1",
+      "sem capacidade interferir1 efetivamente"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos problemas de formatação (notas de rodapé não resolvidas) afetam a apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato relaciona com precisão o fato histórico escolhido (pleito brasileiro por assento permanente na Liga das Nações) à citação de Machado de Assis, demonstrando domínio do conteúdo.",
+      "A análise é sofisticada, revelando capacidade de reflexão sobre o idealismo brasileiro, as limitações do sistema internacional e as consequências da decisão diplomática. O texto vai além da simples exposição, promovendo interpretação crítica.",
+      "Foram identificados dois erros de formatação/gramática: o uso de “1” como nota de rodapé sem resolução e a ausência de vírgula em “sem capacidade de interferir efetivamente” (falta de preposição). Esses deslizes não comprometem a clareza, mas afetam a correção formal."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "déficit de participação1",
+      "sem capacidade interferir1 efetivamente"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos problemas de formatação (notas de rodapé não resolvidas) afetam a apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato articula fatos históricos e interpretações com precisão, demonstrando domínio do assunto.",
+      "A análise é sofisticada, com reflexão crítica sobre o episódio escolhido e sua relação com a citação de Machado de Assis. O texto evidencia capacidade de reflexão e contextualização histórica.",
+      "Foram identificados dois erros de formatação/gramática: o uso de números sem fechamento de nota de rodapé, o que prejudica a correção formal do texto.",
+      "A linguagem é adequada e correta, mas a ausência de fechamento das notas de rodapé constitui falha formal que deve ser evitada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em razão do critério consensual do processo decisório –, as agressões militares europeias..."
+    ],
+    "feedbacks": [
+      "1A – O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com parágrafos bem articulados e linguagem elegante, o que confere boa impressão geral. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "1B – A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato seleciona fatos históricos relevantes e os relaciona de modo consistente à citação de Machado de Assis, demonstrando domínio do conteúdo.",
+      "1C – O texto revela capacidade analítica e reflexiva, ao discutir o idealismo brasileiro e as consequências do pleito na Liga das Nações, além de estabelecer conexões com o presente. A reflexão é profunda e bem fundamentada.",
+      "Correção gramatical – Há apenas um erro de pontuação: uso inadequado do travessão antes da vírgula, que poderia ser substituído por vírgula ou ponto e vírgula. Não há outros desvios relevantes de concordância, ortografia ou regência.",
+      "Observação – O texto é denso, bem fundamentado e atende plenamente ao enunciado. O erro gramatical é mínimo e não compromete a compreensão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em razão do critério consensual do processo decisório –, as vírgulas e o travessão estão mal empregados, prejudicando a clareza da frase; o correto seria: “em razão do critério consensual do processo decisório, o país teria testemunhado...\" (sem travessão)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação consistente e reflexão aprofundada sobre o tema proposto.",
+      "A relação entre a citação de Machado de Assis e o fato histórico escolhido (pleito brasileiro por assento permanente na Liga das Nações) é pertinente, original e bem fundamentada.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário específico de relações internacionais.",
+      "Há apenas um pequeno desvio gramatical relacionado ao emprego de pontuação, que não compromete a compreensão geral do texto.",
+      "A redação cumpre plenamente os requisitos do enunciado e dos critérios de avaliação, justificando uma nota elevada, mas não máxima, devido ao pequeno erro de pontuação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em razão do critério consensual do processo decisório –, as agressões militares... (uso inadequado do travessão e da vírgula consecutiva)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e sofisticada a citação de Machado de Assis com um fato relevante da história diplomática brasileira no século XX.",
+      "A argumentação é coesa, com encadeamento lógico e reflexão crítica sobre o episódio da Liga das Nações, demonstrando capacidade analítica e repertório histórico.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com pouquíssimos desvios gramaticais.",
+      "O erro gramatical identificado é pontual e não compromete a compreensão global do texto.",
+      "A redação cumpre integralmente a proposta, relacionando o fato escolhido à citação de maneira pertinente e original."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "para preservar a credibilidade das manifestações exteriores do país. Se o Brasil tivesse permanecido na Liga das Nações, teria caído “de um terceiro andar”. Com o aumento do número de membros permanentes do conselho securitário, o país provavelmente deixaria de ser eleito como membro provisório – para mandatos sucessivos, pelo menos –, pois passou a viger um sistema de rodízio no órgão.",
+      "interferir1 efetivamente – em razão do critério consensual do processo decisório –, as agressões militares europeias que conduziram à Segunda Guerra Mundial."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, com argumentação clara, coerente e bem encadeada, relacionando adequadamente o fato histórico escolhido à citação de Machado de Assis.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, demonstrando domínio do vocabulário e da estrutura dissertativa.",
+      "Há poucos erros gramaticais, como pequenas impropriedades de pontuação e repetição de nota de rodapé, que não comprometem a compreensão global do texto.",
+      "A reflexão sobre o pleito brasileiro na Liga das Nações é pertinente, original e bem fundamentada, evidenciando capacidade analítica e crítica.",
+      "A conclusão retoma o tema central e reforça a relação entre ousadia e idealismo, fechando o raciocínio de forma consistente."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "para preservar a credibilidade das manifestações exteriores do país. Se o Brasil tivesse permanecido na Liga das Nações, teria caído “de um terceiro andar”. Com o aumento do número de membros permanentes do conselho securitário, o país provavelmente deixaria de ser eleito como membro provisório – para mandatos sucessivos, pelo menos –, pois passou a viger um sistema de rodízio no órgão.",
+      "sem capacidade interferir1 efetivamente – em razão do critério consensual do processo decisório"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e sofisticada a citação de Machado de Assis com um fato relevante da história mundial (o pleito brasileiro por assento permanente na Liga das Nações).",
+      "A argumentação é consistente, com encadeamento lógico, reflexão crítica e referência a historiadores, o que confere densidade analítica ao texto.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico, com poucos deslizes gramaticais, como pequenas falhas de pontuação e repetição de termos.",
+      "O texto evidencia coesão, clareza e capacidade de síntese, além de demonstrar originalidade ao relacionar o episódio histórico à atualidade do debate sobre o multilateralismo.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "para preservar a credibilidade das manifestações exteriores do país. Se o Brasil tivesse permanecido na Liga das Nações, teria caído “de um terceiro andar”. Com o aumento do número de membros permanentes do conselho securitário, o país provavelmente deixaria de ser eleito como membro provisório – para mandatos sucessivos, pelo menos –, pois passou a viger um sistema de rodízio no órgão.",
+      "sem capacidade interferir1 efetivamente"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e sofisticada a citação de Machado de Assis com um fato relevante da história mundial (pleito brasileiro por assento permanente na Liga das Nações).",
+      "A argumentação é coesa, bem estruturada e demonstra reflexão aprofundada sobre o contexto histórico e diplomático, além de relacionar o passado ao presente.",
+      "A linguagem é formal, precisa e adequada ao gênero dissertativo-argumentativo, com poucos deslizes gramaticais.",
+      "Os erros identificados são pontuais: um pequeno problema de concordância (“sem capacidade interferir” deveria ser “sem capacidade de interferir”) e uma repetição numérica (“interferir1”).",
+      "O texto evidencia domínio temático e linguístico, com boa articulação entre ideias, mas não atinge o nível “Excelente” por não apresentar originalidade teórica ou estilo excepcionalmente sofisticado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em razão do critério consensual do processo decisório –, em vez de “em razão do critério consensual no processo decisório” (problema de regência/preposição, embora o desvio seja sutil e discutível)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza, com desenvolvimento coerente e encadeamento lógico das ideias.",
+      "A argumentação é pertinente, demonstrando capacidade de reflexão sobre o tema e domínio do contexto histórico escolhido.",
+      "A relação entre a citação de Machado de Assis e o fato histórico é bem estabelecida e explorada ao longo do texto.",
+      "A linguagem é formal, adequada e demonstra bom domínio da norma culta, com poucos deslizes gramaticais.",
+      "O texto evidencia coesão, fluidez e capacidade de articular diferentes aspectos do tema, ainda que sem a sofisticação de um texto excepcional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2016"
+  }
+]

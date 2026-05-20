@@ -1,0 +1,762 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "porquanto as trocas comerciais podem ser positivas para todos os envolvidos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com introdução clara, desenvolvimento bem estruturado e conclusão pertinente. Apenas pequenos ajustes de estilo poderiam aprimorar ainda mais a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e referência direta aos textos motivadores. O candidato demonstra domínio do assunto e capacidade de relacionar fatos e conceitos.",
+      "A análise é crítica e reflexiva, mostrando evolução histórica e contrapontos entre os textos apresentados. O candidato consegue articular opinião própria com base nos fragmentos e no contexto internacional.",
+      "Há apenas um erro gramatical identificável: o uso inadequado de 'porquanto' em contexto que exigiria 'pois' ou 'uma vez que', pois 'porquanto' tem valor explicativo restrito e pode soar excessivamente formal ou inadequado nesse trecho.",
+      "A linguagem é correta e apropriada, mas a correção gramatical poderia ser aprimorada em relação ao uso de conectivos mais naturais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "porquanto as trocas comerciais podem ser positivas para todos os envolvidos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com introdução clara, desenvolvimento bem estruturado e conclusão pertinente ao tema. Apenas pequenos ajustes de estilo poderiam aprimorar ainda mais a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos históricos e atuais, relacionando-os adequadamente aos textos de referência.",
+      "A análise é crítica e reflexiva, demonstrando capacidade de comparar diferentes percepções sobre o comércio internacional e de articular a evolução histórica do tema.",
+      "Há um erro gramatical identificado: o uso de “porquanto” em contexto que exige “porque” (porque as trocas comerciais podem ser positivas...). O termo “porquanto” tem valor explicativo, mas a construção ficaria mais clara e correta com “porque”.",
+      "O texto atende plenamente ao comando da questão, discutindo semelhanças e diferenças entre os fragmentos apresentados, e emite opinião fundamentada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "porquanto as trocas comerciais podem ser positivas para todos os envolvidos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e referências concretas (como a eleição de Roberto Azevêdo e o G-20 comercial).",
+      "A análise é profunda, demonstrando capacidade de reflexão crítica sobre as transformações do comércio internacional e o papel do Brasil, além de relacionar adequadamente os textos de referência.",
+      "Há apenas um erro gramatical identificado: o uso inadequado de 'porquanto' (conjunção explicativa) em contexto que exigiria 'pois' ou outra conjunção conclusiva/explicativa mais apropriada.",
+      "A linguagem é formal, precisa e adequada ao gênero dissertativo-argumentativo, com domínio de vocabulário técnico e diplomático."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "porquanto representa uma possibilidade real de promover o interesse coletivo (uso inadequado de \"porquanto\"; o conectivo mais apropriado seria \"pois\" ou \"uma vez que\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, abordando de forma crítica e reflexiva o tema proposto.",
+      "Há boa capacidade de argumentação, com referência histórica e contextualização adequada dos fragmentos apresentados.",
+      "A linguagem é formal e apropriada ao contexto, com apenas um desvio gramatical pontual.",
+      "O candidato demonstra compreensão das diferenças e semelhanças entre os textos, além de emitir opinião fundamentada.",
+      "A conclusão é coerente e reforça a tese central do texto, evidenciando o papel do Brasil e do multilateralismo no comércio internacional."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com clareza e coerência na exposição das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "O texto aborda adequadamente as semelhanças e diferenças entre os fragmentos apresentados, contextualizando historicamente o papel do comércio internacional e a atuação diplomática brasileira.",
+      "A linguagem é formal, correta e adequada ao contexto acadêmico e diplomático, sem erros gramaticais detectáveis.",
+      "O encadeamento lógico das ideias, a articulação entre passado e presente, e a referência à eleição de Roberto Azevêdo conferem profundidade e pertinência à análise.",
+      "A conclusão é consistente e reforça a tese central de que o comércio internacional pode ser instrumento de desenvolvimento e cooperação, desde que pautado pelo multilateralismo e pelo consenso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "O texto aborda adequadamente as semelhanças e diferenças entre os fragmentos apresentados, contextualizando historicamente o papel do comércio internacional e a evolução da diplomacia brasileira.",
+      "A linguagem é formal, correta e adequada ao contexto do concurso, sem erros gramaticais detectáveis.",
+      "A redação demonstra domínio do tema, articulando exemplos históricos e atuais, além de apresentar opinião fundamentada sobre o papel do comércio internacional no desenvolvimento dos países.",
+      "A conclusão é coerente e reforça a tese central do texto, evidenciando a importância do multilateralismo e da diplomacia brasileira para um comércio internacional mais justo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "porquanto as trocas comerciais podem ser positivas para todos os envolvidos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, com clareza e encadeamento lógico das ideias. O candidato demonstra capacidade de argumentação e reflexão ao comparar diferentes momentos históricos do comércio internacional e ao relacionar os textos de apoio com o contexto diplomático brasileiro.",
+      "A linguagem é adequada, formal e pertinente ao tema, com poucos deslizes gramaticais. O uso de exemplos históricos e referências institucionais (como a OMC e Roberto Azevêdo) enriquece a argumentação.",
+      "O texto evidencia compreensão das semelhanças e diferenças entre os fragmentos apresentados, discutindo criticamente a evolução do papel do comércio internacional no desenvolvimento dos países.",
+      "O erro gramatical identificado é de regência: o uso de “porquanto” pode ser considerado inadequado nesse contexto, pois normalmente expressa causa/explicação, mas a construção ficaria mais clara com “pois” ou “uma vez que”.",
+      "A redação demonstra coesão, reflexão e domínio temático, justificando a classificação na faixa “Ótimo”."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "porquanto representa uma possibilidade real de promover o interesse coletivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com encadeamento lógico claro entre as ideias e boa articulação argumentativa. O candidato demonstra compreensão aprofundada do tema, estabelecendo relações pertinentes entre os textos de referência e o contexto histórico e diplomático.",
+      "A linguagem é adequada e formal, com vocabulário preciso e domínio consistente da norma culta. O único desvio gramatical identificado é o uso de \"porquanto\" em contexto que poderia ser mais bem expresso por \"pois\" ou \"uma vez que\", embora não seja um erro grave.",
+      "A argumentação é bem fundamentada, com exemplos históricos e referências à atuação diplomática brasileira, o que confere densidade e relevância à reflexão proposta.",
+      "O texto evidencia reflexão crítica sobre as transformações do comércio internacional e a evolução das percepções apresentadas nos textos-base, além de coesão temática e clareza na exposição das ideias."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "porquanto representa uma possibilidade real de promover o interesse coletivo"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com clareza na exposição das ideias e encadeamento lógico entre os parágrafos.",
+      "Há pertinência no uso dos exemplos históricos e na comparação entre as diferentes percepções sobre o comércio internacional, evidenciando compreensão do tema e capacidade de reflexão.",
+      "A linguagem é adequada ao contexto, com vocabulário formal e domínio razoável da norma culta, embora haja um pequeno deslize gramatical no uso do conectivo \"porquanto\" (poderia ser substituído por \"pois\" ou \"uma vez que\" para maior clareza).",
+      "A argumentação é consistente, mas poderia ser mais sofisticada em alguns pontos, como na análise das diferenças entre os textos de referência.",
+      "O texto demonstra reflexão e coesão, com poucos deslizes gramaticais e boa articulação entre as ideias apresentadas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "matizadas certas distorções (erro de concordância verbal: o correto seria 'matizadas as distorções' ou 'quando se matizam certas distorções')",
+      "privilegia essa acepção, uma vez que eliminará (erro de concordância temporal: o verbo deveria estar no futuro do pretérito, 'eliminaria', para manter a correlação verbal)",
+      "ex-Chanceler Antônio Patriota por ocasião da eleição do embaixador Roberto Azevêdo à direção geral da Organização Mundial de Comércio (erro de crase: o correto seria 'direção-geral', com hífen e crase correta)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências históricas e institucionais adequadas, o que justifica nota elevada em 1B.",
+      "A análise é profunda e reflete criticamente sobre as mudanças de percepção do comércio internacional, comparando os textos e trazendo exemplos concretos, o que justifica nota elevada em 1C.",
+      "Há poucos erros gramaticais, mas eles afetam a correção formal do texto, especialmente em concordância e crase.",
+      "O texto demonstra domínio do tema e da linguagem, mas poderia ser ainda mais preciso em aspectos normativos da língua portuguesa."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "matizadas certas distorções (erro de concordância verbal: o correto seria 'matizadas as distorções' ou 'quando se matizam certas distorções')",
+      "privilegiou essa acepção, uma vez que eliminará tendências perversas (problema de regência: o correto seria 'privilegia essa acepção, pois tende a eliminar tendências perversas')",
+      "à direção geral da Organização Mundial de Comércio (OMC) (erro de crase: o correto seria 'à direção-geral' ou 'à diretoria-geral')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e atuais, o que justifica nota elevada em 1B.",
+      "A análise é profunda, reflete criticamente sobre as mudanças de percepção do comércio internacional e dialoga com os textos de referência, merecendo nota elevada em 1C.",
+      "Há poucos erros gramaticais, todos de natureza pontual e não recorrente, o que não compromete a correção geral do texto.",
+      "Sugere-se revisar concordância verbal e regência para evitar pequenas impropriedades."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "matizadas certas distorções (correto: 'uma vez matizadas certas distorções' ou 'ao se matizarem certas distorções')",
+      "à direção geral da Organização Mundial de Comércio (correto: 'à Direção-Geral da OMC', com inicial maiúscula e hífen conforme norma institucional)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com vocabulário apropriado e frases bem construídas. Apenas pequenos ajustes de estilo e norma institucional seriam necessários.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos históricos e referências institucionais relevantes. O candidato demonstra domínio do assunto e capacidade de articulação entre os textos motivadores.",
+      "A análise é profunda, reflete criticamente sobre as transformações na percepção do comércio internacional e relaciona adequadamente os fragmentos apresentados, evidenciando evolução histórica e nuances conceituais.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a clareza do texto, mas devem ser corrigidos para atingir a excelência formal."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "matizadas certas distorções (uso inadequado do particípio, deveria ser \"uma vez matizados\" ou \"ao se matizarem\")",
+      "privilegia essa acepção, uma vez que eliminará (concordância inadequada: \"eliminará\" deveria ser \"eliminarão\" para concordar com \"tendências\")",
+      "notou o ex-Chanceler Antônio Patriota por ocasião da eleição do embaixador Roberto Azevêdo à direção geral da Organização Mundial de Comércio (OMC) (falta de vírgula antes de \"da Organização\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, clareza e capacidade argumentativa, abordando com profundidade as diferenças e semelhanças entre os textos propostos.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário específico do tema.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão, mas afetam a correção formal do texto.",
+      "A reflexão é pertinente, com referências históricas e institucionais precisas, o que enriquece a argumentação.",
+      "A conclusão é bem articulada e reforça a tese central do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "privilegia essa acepção, uma vez que eliminará tendências perversas e impulsionará os benefícios oriundos da integração. (erro de concordância verbal: eliminará/impulsionará deveriam estar no plural para concordar com \"tendências\" e \"benefícios\")",
+      "matizadas certas distorções (erro de regência: o correto seria \"ao se matizarem certas distorções\" ou \"quando se matizam certas distorções\")",
+      "notou o ex-Chanceler Antônio Patriota por ocasião da eleição do embaixador Roberto Azevêdo à direção geral da Organização Mundial de Comércio (OMC). (erro de crase: o correto seria \"à direção-geral\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e coerente as diferentes percepções sobre o comércio internacional presentes nos textos de referência.",
+      "A argumentação é bem estruturada, com encadeamento lógico e capacidade de reflexão crítica, além de exemplos históricos e institucionais pertinentes.",
+      "A linguagem é formal e adequada ao contexto, embora haja pequenos deslizes gramaticais que afetam a precisão do texto.",
+      "A redação demonstra conhecimento aprofundado sobre o papel do Brasil e da OMC no cenário internacional, além de referências precisas a eventos e mecanismos multilaterais.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão geral do texto, mas impactam negativamente a nota final."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "notou o ex-Chanceler Antônio Patriota por ocasião da eleição do embaixador Roberto Azevêdo à direção geral da Organização Mundial de Comércio (OMC) — falta de vírgula antes de \"da Organização Mundial de Comércio\"",
+      "matizadas certas distorções — uso inadequado do particípio, deveria ser \"ao se matizarem\" ou \"quando se matizam\"",
+      "privilégios a países africanos, asiáticos e latinoamericanos¹ — ausência de vírgula antes de \"e latinoamericanos\""
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade argumentativa, abordando de forma crítica e reflexiva as diferentes percepções sobre o comércio internacional, em consonância com os textos motivadores.",
+      "A linguagem é formal, precisa e adequada ao contexto do concurso, com vocabulário técnico e referências históricas pertinentes.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão nem a qualidade geral do texto.",
+      "O encadeamento lógico das ideias é sólido, com transições suaves entre os argumentos e boa articulação entre os fragmentos motivadores e a opinião do autor.",
+      "A redação demonstra domínio do tema e capacidade de síntese, além de apresentar proposta clara sobre o papel do comércio internacional no desenvolvimento equitativo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "notou o ex-Chanceler Antônio Patriota por ocasião da eleição do embaixador Roberto Azevêdo à direção geral² da Organização Mundial de Comércio (OMC). [Erro de pontuação: ausência de vírgula antes de 'por ocasião']",
+      "matizadas³ certas distorções [Erro de regência: o correto seria 'uma vez matizadas' ou 'ao se matizarem']",
+      "A chefia da organização por um brasileiro, feito inédito na história do país, indica o reconhecimento internacional do êxito das políticas públicas brasileiras. [Erro de concordância: 'o êxito' deveria ser 'os êxitos', pois se refere a um conjunto de políticas]"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação temática, abordando de forma clara e coerente as diferenças e semelhanças entre os fragmentos propostos.",
+      "A argumentação é consistente, com referências históricas e institucionais pertinentes, demonstrando domínio do tema e boa reflexão crítica.",
+      "A linguagem é formal, adequada ao contexto, com vocabulário rico e construção frasal bem estruturada, ainda que apresente poucos deslizes gramaticais.",
+      "O encadeamento das ideias é lógico e o texto mantém coesão ao longo de todos os parágrafos.",
+      "A conclusão é pertinente e reforça a tese central, evidenciando maturidade analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "¹ A expressão \"latinoamericanos\" deve ser grafada com hífen: \"latino-americanos\".",
+      "² O trecho \"à direção geral da Organização Mundial de Comércio (OMC)\" deveria ter crase em \"à direção-geral\", pois se trata de cargo feminino com artigo definido.",
+      "³ O termo \"matizadas\" está inadequado no contexto; o correto seria \"mitigadas\" ou \"corrigidas\" para transmitir a ideia de redução de distorções."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e coerente as diferentes percepções sobre o comércio internacional presentes nos textos de referência.",
+      "A argumentação é bem estruturada, com encadeamento lógico e exemplos pertinentes, como a menção à Rodada Doha, à UNCTAD e ao Sistema Geral de Preferências.",
+      "O texto demonstra reflexão crítica e capacidade de análise, além de utilizar linguagem formal e adequada ao contexto diplomático.",
+      "Apesar dos poucos deslizes gramaticais, o domínio da norma culta é consistente e não prejudica a clareza ou a coesão do texto.",
+      "A conclusão é pertinente e reforça a ideia central de que o comércio internacional pode ser instrumento de desenvolvimento, desde que corrigidas distorções."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "matizadas certas distorções",
+      "Organização Mundial de Comércio (OMC)¹",
+      "direção geral²"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação das ideias, com argumentação clara, coesa e pertinente ao tema proposto. Há boa capacidade de reflexão e de comparação entre as diferentes percepções sobre o comércio internacional, evidenciando domínio do assunto.",
+      "A linguagem é formal, adequada e demonstra repertório vocabular avançado. No entanto, há pequenos deslizes gramaticais: o uso de “matizadas” está inadequado (o correto seria “minimizadas” ou “corrigidas”); as referências numeradas (¹, ²) não são usuais em redações e podem ser consideradas inadequadas; e a expressão “direção geral” deveria ser “Diretor-Geral”, respeitando a grafia oficial do cargo.",
+      "A estrutura do texto é lógica, com encadeamento progressivo dos argumentos e exemplos históricos pertinentes. A análise é aprofundada, mas sem atingir o nível de originalidade e sofisticação teórica que caracterizaria a faixa “Excelente”.",
+      "O texto cumpre plenamente os requisitos de clareza, coerência e correção linguística, com poucos deslizes, e demonstra reflexão crítica sobre o tema, justificando a classificação na faixa “Ótimo”."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contribuíu (correto: contribuiu)",
+      "sub- desenvolvidos (correto: subdesenvolvidos, sem hífen e sem espaço)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com clareza na exposição das ideias e boa estruturação dos parágrafos. Apenas pequenos ajustes de estilo poderiam aprimorar ainda mais a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referência a autores e conceitos relevantes (Prébisch, multilateralismo, Schopenhauer). O candidato soube articular as ideias dos textos I e II de forma equilibrada.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de síntese e de crítica, ao comparar as visões pessimista e otimista do comércio internacional e ao propor soluções baseadas no multilateralismo.",
+      "Foram identificados dois erros gramaticais: um de acentuação ('contribuíu') e um de hifenização ('sub- desenvolvidos'). Ambos são pequenos deslizes e não comprometem a compreensão do texto.",
+      "A linguagem é formal, adequada ao contexto diplomático e acadêmico, e demonstra domínio do vocabulário específico do tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sub- desenvolvidos (falta de hífen ou espaço indevido)",
+      "contribuíu (erro de acentuação: o correto é contribuiu)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica, justificando nota elevada em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referência a autores e conceitos relevantes, o que justifica nota elevada em 1B.",
+      "A análise é crítica e reflexiva, demonstrando capacidade de relacionar os textos e propor síntese própria, o que justifica nota elevada em 1C.",
+      "Há dois erros gramaticais: um de acentuação (“contribuíu”) e um de hifenização (“sub- desenvolvidos”).",
+      "O texto faz uso adequado de referências teóricas e históricas, mas poderia aprofundar a discussão sobre os limites do multilateralismo contemporâneo.",
+      "A conclusão é consistente e bem articulada, reforçando a tese central do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sub- desenvolvidos (falta de hífen: o correto é subdesenvolvidos)",
+      "contribuíu (erro de acentuação: o correto é contribuiu)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo adequado e boa legibilidade, com estrutura clara e progressão lógica. Apenas pequenos deslizes estilísticos pontuais impedem a nota máxima.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências teóricas e históricas pertinentes (Prébisch, Schopenhauer). A relação entre os textos é bem explorada.",
+      "A análise é profunda, reflete criticamente sobre as contradições do comércio internacional e articula diferentes perspectivas (pessimismo do texto I e otimismo do texto II).",
+      "Foram identificados dois erros gramaticais: um de acentuação (“contribuíu” → “contribuiu”) e um de hifenização (“sub- desenvolvidos” → “subdesenvolvidos”).",
+      "A linguagem é formal, precisa e apropriada ao gênero dissertativo-argumentativo, com pouquíssimos desvios."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sub- desenvolvidos (espaço indevido)",
+      "contribuído² (acento desnecessário no número de nota de rodapé)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade argumentativa, discutindo com profundidade as diferenças e semelhanças entre os textos propostos.",
+      "A linguagem é adequada ao contexto e demonstra domínio do tema, com referências teóricas pertinentes e boa articulação entre os parágrafos.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto.",
+      "A conclusão é coerente e reforça a tese central, evidenciando reflexão crítica e alinhamento com a tradição diplomática brasileira.",
+      "A redação atende plenamente aos critérios de correção gramatical e propriedade da linguagem, com apenas pequenas falhas formais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sub- desenvolvidos (sem hífen e com espaço indevido)",
+      "contribuído (acentuação desnecessária, forma correta: contribuiu)"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização temática, com clareza e coerência na exposição das ideias, além de boa capacidade argumentativa ao comparar os textos e refletir sobre o papel do comércio internacional.",
+      "A linguagem é adequada ao contexto e demonstra domínio do vocabulário técnico, embora haja pequenos deslizes gramaticais que não comprometem a compreensão geral.",
+      "A referência a autores e conceitos (como Raul Prébisch e Schopenhauer) enriquece a argumentação, evidenciando reflexão crítica e originalidade.",
+      "A conclusão é bem articulada e reforça a importância do multilateralismo, alinhando-se ao posicionamento do texto II e à tradição diplomática brasileira.",
+      "Os erros gramaticais identificados são pontuais e não afetam significativamente a qualidade do texto, mas poderiam ser evitados com revisão cuidadosa."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sub- desenvolvidos (sem hífen e com espaço indevido)",
+      "contribuído (acentuação inadequada, deveria ser contribuiu, pois o verbo está no pretérito perfeito do indicativo e não exige acento)"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente capacidade de argumentação, clareza e coerência, com encadeamento lógico das ideias e reflexão aprofundada sobre o tema proposto.",
+      "O texto demonstra domínio do vocabulário técnico e adequação ao contexto diplomático, além de boa articulação entre os textos de referência.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão, mas devem ser corrigidos para maximizar a nota.",
+      "A conclusão é bem construída, retomando os principais pontos e oferecendo uma síntese reflexiva sobre o papel do multilateralismo.",
+      "A referência filosófica é pertinente, mas poderia ser mais integrada ao argumento central para evitar dispersão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sub- desenvolvidos (sem hífen e com espaço indevido)",
+      "contribuído (forma correta seria 'contribuiu', pois o sujeito é 'o capitalismo')"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente articulação entre os dois fragmentos, demonstrando compreensão profunda das diferenças e semelhanças de percepção sobre o comércio internacional.",
+      "A argumentação é clara, bem estruturada e demonstra reflexão crítica, com referência a autores e conceitos relevantes (Prébisch, Schopenhauer).",
+      "O encadeamento das ideias é lógico e coeso, com transição suave entre os pontos de vista apresentados nos textos I e II.",
+      "A linguagem é formal, adequada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais.",
+      "O texto evidencia domínio temático e capacidade de síntese, além de originalidade ao relacionar conceitos filosóficos ao debate sobre comércio internacional.",
+      "A conclusão reforça a importância do multilateralismo e dialoga com a tradição diplomática brasileira, conferindo relevância e atualidade à reflexão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O empobrecimento relativo dos países subdesenvolvidos decorreu, entre outros motivos, do mecanismo de deterioração dos termos de troca. Conforme argumentou Raul Prébisch, a deterioração dos termos de troca ocorre devido à especialização técnica entre os países. O centro, composto por países desenvolvidos, é mais beneficiado pelo comércio internacional, porquanto exporta bens de maior valor agregado. A periferia, por sua vez, é prejudicada pela sua especialização técnica em bens primários, visto que a exportação destes bens arrecada uma quantidade de divisas menor, o que explica o desnível de renda entre esses dois polos produtivos. — Aqui, o uso de “porquanto” pode ser considerado inadequado, pois o conectivo tem valor explicativo e não causal, sendo preferível “uma vez que” ou “já que”."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre os dois fragmentos, demonstrando compreensão clara das diferenças e semelhanças de percepção sobre o comércio internacional.",
+      "A argumentação é bem estruturada, com encadeamento lógico e referências teóricas pertinentes (como Raul Prébisch e Schopenhauer), o que enriquece a reflexão.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio da norma culta, com poucos deslizes gramaticais.",
+      "O texto evidencia reflexão crítica e coesão, além de propor uma solução fundamentada no multilateralismo, em consonância com o texto II e com a tradição diplomática brasileira.",
+      "O único desvio gramatical relevante é o uso inadequado do conectivo “porquanto”, que não compromete a clareza geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "sub- desenvolvidos (sem hífen e com espaço indevido)",
+      "contribuído² (acento desnecessário no particípio, forma correta: contribuiu)"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com argumentos claros e encadeamento lógico entre as ideias. O candidato demonstra compreensão dos textos-base e consegue articular as diferentes percepções sobre o comércio internacional.",
+      "A argumentação é pertinente e demonstra reflexão sobre o tema, com referência a autores e conceitos relevantes (como a deterioração dos termos de troca e o multilateralismo).",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais e boa coesão textual.",
+      "O uso de analogias (como a referência a Schopenhauer) enriquece a reflexão, embora possa ser considerado um pouco ousado para o padrão do concurso, mas não prejudica a qualidade geral.",
+      "A conclusão é bem amarrada, retomando os pontos principais e sugerindo uma solução alinhada à tradição diplomática brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados. (erro de pontuação: vírgula desnecessária após \"mundial\")",
+      "Embora Azevêdo não assuma o cargo em nome do seu país, é evidente que sua trajetória pessoal e profissional influenciará no modo como ele exercerá a diretoria geral¹ da OMC. (uso inadequado do acento indicativo de nota de rodapé no corpo do texto; além disso, o correto seria \"influenciará o modo\" ou \"influenciará no modo\", mas a forma mais natural é \"influenciará o modo\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e progressão lógica. Apenas pequenos deslizes de pontuação afetam a apresentação geral.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referência a autores, fatos históricos e instituições relevantes. A redação demonstra domínio do conteúdo e capacidade de articulação entre os textos motivadores e o debate contemporâneo.",
+      "A análise é profunda e reflexiva, evidenciando compreensão das diferentes percepções sobre o comércio internacional e suas consequências para países desenvolvidos e em desenvolvimento. O texto consegue contrastar as visões dos fragmentos apresentados e propor uma síntese crítica.",
+      "Os erros gramaticais são poucos e não comprometem a compreensão, mas merecem atenção: há uma vírgula desnecessária e um pequeno desvio de regência/colocação pronominal.",
+      "A redação cumpre plenamente o comando da questão, discute as semelhanças e diferenças entre os textos e emite opinião fundamentada, com linguagem apropriada ao contexto diplomático e acadêmico."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados.",
+      "Embora Azevêdo não assuma o cargo em nome do seu país, é evidente que sua trajetória pessoal e profissional influenciará no modo como ele exercerá a diretoria geral¹ da OMC."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e legibilidade, com estilo claro e adequado ao tema. A estrutura é bem organizada, com introdução, desenvolvimento histórico e conclusão. Pequeno erro de vírgula após \"mundial\" prejudica a fluidez, mas não compromete a compreensão.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza referências históricas e teóricas relevantes (Adam Smith, David Ricardo, CEPAL, OMC) para sustentar sua análise, demonstrando domínio do conteúdo.",
+      "A capacidade de análise e reflexão é evidente, especialmente na comparação entre as visões clássicas e contemporâneas do comércio internacional, bem como na discussão sobre a desigualdade dos efeitos do comércio global. O texto reflete criticamente sobre as diferenças de percepção presentes nos textos de referência.",
+      "Foram identificados dois erros gramaticais: um de pontuação (vírgula indevida após \"mundial\") e outro de regência (\"influenciará no modo\" deveria ser \"influenciará o modo\"). Ambos são leves e não comprometem a clareza do texto.",
+      "A redação atende plenamente ao enunciado, discutindo as semelhanças e diferenças entre os fragmentos apresentados, com destaque para a evolução do papel do comércio internacional e a importância da representatividade dos países em desenvolvimento."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados.",
+      "Embora Azevêdo não assuma o cargo em nome do seu país, é evidente que sua trajetória pessoal e profissional influenciará no modo como ele exercerá a diretoria geral¹ da OMC."
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta excelente coerência, legibilidade e estilo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem definidos. O uso de referências históricas e teóricas enriquece a apresentação. Pequenos problemas de pontuação não comprometem a impressão geral.",
+      "1B: O candidato demonstra grande capacidade de argumentação, com sistematização clara dos argumentos, uso pertinente de exemplos históricos e teóricos, e objetividade na exposição das ideias. A relação entre os textos I e II é bem estabelecida.",
+      "1C: A análise é profunda e reflexiva, mostrando compreensão das diferentes percepções sobre o comércio internacional e sua evolução histórica. O texto evidencia capacidade de reflexão crítica sobre o tema.",
+      "Erros gramaticais: 1) vírgula indevida após 'mundial'; 2) uso inadequado da preposição 'no' em 'influenciará no modo' (o correto seria 'influenciará o modo').",
+      "Observação: O texto é denso, bem fundamentado e responde diretamente ao enunciado, estabelecendo relações claras entre os fragmentos apresentados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "no trecho \"à direção de um nacional do mundo em desenvolvimento, o brasileiro Roberto Azevêdo. Embora Azevêdo não assuma o cargo em nome do seu país, é evidente que sua trajetória pessoal e profissional influenciará no modo como ele exercerá a diretoria geral¹ da OMC.\", o uso do acento grave em \"à direção\" está inadequado, pois não há crase antes de substantivo masculino; o correto seria \"a direção\".",
+      "no trecho \"Nesse sentido, a eleição de um nacional dessa parte do planeta para a diretoria geral do principal órgão de regulação do intercâmbio mundial suscita perspectivas animadoras quanto ao futuro da vertente desenvolvimentista do comércio internacional.\", há ausência de vírgula após \"Nesse sentido\", o que prejudica a fluidez do texto."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando domínio do tema e capacidade de argumentação histórica e conceitual. O candidato soube articular os fragmentos propostos, evidenciando semelhanças e diferenças de percepção sobre o comércio internacional, e emitiu opinião fundamentada. A linguagem é formal, precisa e adequada ao contexto acadêmico. Os erros gramaticais são pontuais e não comprometem a compreensão global do texto. A redação atende plenamente aos critérios de coerência, clareza, argumentação e correção linguística, justificando uma nota elevada, mas não máxima, devido aos pequenos deslizes gramaticais identificados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "no trecho \"à direção de um nacional do mundo em desenvolvimento, o brasileiro Roberto Azevêdo. Embora Azevêdo não assuma o cargo em nome do seu país, é evidente que sua trajetória pessoal e profissional influenciará no modo como ele exercerá a diretoria geral¹ da OMC.\", o uso de \"influenciará no modo\" é inadequado; o correto seria \"influenciará o modo\" ou \"influenciará no modo como\" sem a preposição redundante.",
+      "no trecho \"Nesse sentido, a eleição de um nacional dessa parte do planeta para a diretoria geral do principal órgão de regulação do intercâmbio mundial suscita perspectivas animadoras quanto ao futuro da vertente desenvolvimentista do comércio internacional.\", há uma vírgula faltando após \"Nesse sentido\" para marcar a separação do adjunto adverbial inicial."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando domínio do tema e capacidade de argumentação. A redação faz uma análise histórica consistente e relaciona adequadamente os textos motivadores, evidenciando as diferenças e semelhanças de percepção sobre o comércio internacional. A linguagem é formal, precisa e adequada ao contexto acadêmico. Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto. A reflexão crítica sobre o papel do comércio internacional e a menção à OMC e à eleição de Roberto Azevêdo demonstram atualização e pertinência temática. Por esses motivos, a nota final é elevada, mas sofre leve desconto devido aos pequenos deslizes gramaticais apontados."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "no trecho \"à direção de um nacional do mundo em desenvolvimento, o brasileiro Roberto Azevêdo. Embora Azevêdo não assuma o cargo em nome do seu país, é evidente que sua trajetória pessoal e profissional influenciará no modo como ele exercerá a diretoria geral¹ da OMC.\", o uso de \"influenciará no modo\" é inadequado; o correto seria \"influenciará o modo\" ou \"influenciará no modo como\" sem o artigo antes de \"modo\".",
+      "no trecho \"Nesse sentido, a eleição de um nacional dessa parte do planeta para a diretoria geral do principal órgão de regulação do intercâmbio mundial suscita perspectivas animadoras quanto ao futuro da vertente desenvolvimentista do comércio internacional.\", há ausência de vírgula após \"Nesse sentido\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sólida e reflexão aprofundada sobre o tema proposto.",
+      "A redação demonstra domínio do conteúdo histórico e teórico relativo ao comércio internacional, articulando adequadamente os fragmentos apresentados no enunciado.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão geral do texto, mas afetam a correção formal exigida em avaliações de alto nível."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a organização passou à direção de um nacional do mundo em desenvolvimento, o brasileiro Roberto Azevêdo. Embora Azevêdo não assuma o cargo em nome do seu país, é evidente que sua trajetória pessoal e profissional influenciará no modo como ele exercerá a diretoria geral¹ da OMC.",
+      "Nesse sentido, a eleição de um nacional dessa parte do planeta para a diretoria geral do principal órgão de regulação do intercâmbio mundial suscita perspectivas animadoras quanto ao futuro da vertente desenvolvimentista do comércio internacional²."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e coerente as diferentes perspectivas sobre o comércio internacional, com referência histórica e teórica pertinente.",
+      "A argumentação é bem estruturada, com encadeamento lógico das ideias e capacidade de reflexão sobre as semelhanças e diferenças entre os textos de referência.",
+      "A linguagem é formal, adequada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais.",
+      "Os dois erros gramaticais identificados são pequenos desvios de regência ou pontuação, que não comprometem a clareza nem a correção global do texto.",
+      "O texto evidencia reflexão crítica, coesão e capacidade de síntese, mas não chega ao nível de originalidade ou sofisticação analítica que justificaria a faixa “Excelente”."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos da sociedade dos Estados"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com desenvolvimento coerente e articulado das ideias. A argumentação é clara, bem estruturada e demonstra capacidade de reflexão histórica e analítica sobre o comércio internacional, abordando tanto as perspectivas críticas quanto as institucionais. O candidato faz uso pertinente de referências teóricas e históricas, como Adam Smith, David Ricardo, CEPAL, UNCTAD, GATT e OMC, e relaciona adequadamente os textos motivadores. A linguagem é formal, precisa e adequada ao contexto do concurso. Os poucos deslizes gramaticais não comprometem a clareza nem a coesão do texto. O encadeamento lógico é evidente, com transições suaves entre os parágrafos e ideias bem conectadas. O texto cumpre plenamente o objetivo de discutir e emitir opinião sobre os fragmentos apresentados, evidenciando reflexão e domínio temático.",
+      "Pequenos deslizes gramaticais: há uma vírgula indevida em 'a promoção da liberdade no intercâmbio mundial, tornou-se...' (a vírgula deve ser retirada) e um erro de concordância em 'a organização passou à direção de um nacional do mundo em desenvolvimento, o brasileiro Roberto Azevêdo' (o correto seria 'passou à direção de um representante do mundo em desenvolvimento, o brasileiro Roberto Azevêdo', ou, se mantido 'nacional', seria 'passou à direção de um nacional do mundo em desenvolvimento, o brasileiro Roberto Azevêdo', mas a construção ficaria mais clara com ajuste)."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "a promoção da liberdade no intercâmbio mundial, tornou-se",
+      "diretoria geral¹ da OMC"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com encadeamento lógico das ideias e clareza na exposição dos argumentos. A discussão sobre os textos I e II é feita de modo pertinente, evidenciando semelhanças e diferenças de percepção sobre o comércio internacional.",
+      "A argumentação é consistente, com referências históricas e teóricas relevantes (Adam Smith, David Ricardo, CEPAL, OMC), demonstrando domínio do tema e capacidade de reflexão.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais. O uso de exemplos e a articulação entre passado e presente conferem profundidade à análise.",
+      "Os erros gramaticais são pontuais: há uma vírgula indevida em 'a promoção da liberdade no intercâmbio mundial, tornou-se' e o uso do sinal de referência numérica (¹) não é adequado em texto corrido.",
+      "O texto evidencia coesão, clareza e capacidade de reflexão, mas não chega ao nível de originalidade ou sofisticação analítica que caracterizaria a faixa 'Excelente' ou 'Excepcional'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2013"
+  }
+]
