@@ -4,6 +4,7 @@ from sklearn.metrics import cohen_kappa_score
 import seaborn as sns
 import matplotlib.pyplot as plt
 import argparse
+from sklearn.preprocessing import MinMaxScaler
 
 from .utils import get_mean
 
@@ -62,9 +63,57 @@ def plot_RMSE(df, model, path):
 
     axes.set_title(f"RMSE \n {model}")
     axes.set_xlabel("anos")
-    axes.set_xlabel("prompts")
+    axes.set_ylabel("prompts")
 
     plt.savefig(f"{path}/RMSE.png")
+
+def plot_corr(df, model, path):
+    prompts = list(df["prompt"].unique())
+
+    df_normalizado = pd.DataFrame(df.loc[:, ["nota_final_human", "redacao", "ano"]])
+    df_normalizado = df_normalizado.groupby(["ano", "redacao"]).mean().reset_index(level=1, drop=True)
+    
+    index_anos = df_normalizado.index
+
+    for prompt in prompts:
+        temp = df[df["prompt"] == prompt]
+        temp = pd.Series(temp["nota_final_model"].reset_index(drop=True))
+        temp.index = index_anos
+
+        df_normalizado.insert(len(df_normalizado.columns), str(prompt), temp)
+
+    scaler = MinMaxScaler()
+
+    df_normalizado.index = index_anos
+    anos = list(df_normalizado.index.unique())
+
+    df_corr_pearson = pd.DataFrame()
+    df_corr_spearman = pd.DataFrame()
+    for ano in anos:
+        temp = df_normalizado.loc[ano]
+        transform_temp = scaler.fit_transform(temp)
+        transform_temp = pd.DataFrame(transform_temp, columns=df_normalizado.columns)
+
+        df_corr_pearson.insert(len(df_corr_pearson.columns), ano, transform_temp.corr(method="pearson")["nota_final_human"])
+        df_corr_spearman.insert(len(df_corr_spearman.columns), ano, transform_temp.corr(method="spearman")["nota_final_human"])
+
+    df_corr_pearson = df_corr_pearson.loc[str(prompts[0]):]
+    df_corr_spearman = df_corr_spearman.loc[str(prompts[0]):]
+
+    fig, axes = plt.subplots(2, 1, figsize=(12,10))
+
+    axes[0] = sns.heatmap(df_corr_pearson, annot=True, vmax=1, vmin=-1, cmap="RdYlGn", fmt=".4f", ax=axes[0])
+    axes[0].set_title("Correlação de Pearson")
+    axes[1] = sns.heatmap(df_corr_spearman, annot=True, vmax=1, vmin=-1, cmap="RdYlGn", fmt=".4f", ax=axes[1])
+    axes[1].set_title("Correlação de Spearman")
+
+    axes[0].set_xlabel("anos")
+    axes[0].set_ylabel("prompts")
+    axes[1].set_xlabel("anos")
+    axes[1].set_ylabel("prompts")
+    plt.suptitle(f"Correlações \n {model}")
+
+    plt.savefig(f"{path}/Correlacoes.png")
 
 def full_report(num_runs, model_name):
     path_model_sheets = os.path.join(os.getcwd(), "prompt_testing", "sheets", model_name)
@@ -114,8 +163,9 @@ def full_report(num_runs, model_name):
     cohen_kappa_df = quadratic_weighted_kappa(df)
 
     output_path = os.path.join(os.getcwd(), "prompt_testing", "reports", model_name)
-    plot_RMSE(df, model_name, output_path)
-    plot_qwk(cohen_kappa_df, model_name, output_path)
+    #plot_RMSE(df, model_name, output_path)
+    #plot_qwk(cohen_kappa_df, model_name, output_path)
+    plot_corr(df, model_name, output_path)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
