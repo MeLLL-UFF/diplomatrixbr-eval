@@ -342,7 +342,7 @@ prompts:
       {enunciado}
 
       ###Critérios de Avaliação
-      1. Organização do texto e desenvolvimento do tema (máximo de 40,00 pontos):
+      1. Organização do texto e desenvolvimento do tema (máximo de {max_pontos} pontos):
       1A. Apresentação e impressão geral do texto: coerência, legibilidade e estilo. (0–{1A} pontos)
       1B. Capacidade de argumentação: objetividade, sistematização, conteúdo e pertinência das informações. (0–{1B} pontos)
       1C. Capacidade de análise e reflexão. (0–{1C} pontos)
@@ -440,7 +440,7 @@ prompts:
 
       ###Critérios de Avaliação
 
-      Organização do texto e desenvolvimento do tema (máximo de 40,00 pontos):
+      Organização do texto e desenvolvimento do tema (máximo de {max_pontos} pontos):
       1A. Apresentação e impressão geral do texto: coerência, legibilidade e estilo. (0–{1A} pontos)
       1B. Capacidade de argumentação: objetividade, sistematização, conteúdo e pertinência das informações. (0–{1B} pontos)
       1C. Capacidade de análise e reflexão. (0–{1C} pontos)
@@ -541,7 +541,7 @@ prompts:
       {enunciado}
 
       ### Critérios de Avaliação
-      1. Organização do texto e desenvolvimento do tema (máximo de {1} pontos):
+      1. Organização do texto e desenvolvimento do tema (máximo de {max_pontos} pontos):
         1A. Apresentação e impressão geral do texto: coerência, legibilidade, clareza, estrutura (introdução, desenvolvimento e conclusão) e estilo. (0–{1A} pontos)
         1B. Capacidade de argumentação: objetividade, sistematização, progressão lógica das ideias, conteúdo e pertinência das informações. (0–{1B} pontos)
         1C. Capacidade de análise e reflexão: profundidade, criticidade, articulação de ideias, autonomia e rigor do raciocínio. (0–{1C} pontos)

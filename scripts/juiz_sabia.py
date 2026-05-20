@@ -47,6 +47,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   temp = list(map(float, temps))
   num_runs = n_iteracoes # DEFINIR NÚMERO DE EXECUÇÕES POR PROMPT/TEMPERATURA
   ano = anos
+  print(f"Redações do ano {ano}")
 
   jsonGerado = []
   root_path = os.getcwd()
@@ -58,6 +59,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
       prompts = prompts_yaml['prompts']
 
   dados_candidatos = diplomatrix["Candidates_Essays"][ano]["Candidates"]
+  criterios = diplomatrix["Candidates_Essays"][ano]["Criteria"]
   try:
     padrao_de_resposta = diplomatrix["Candidates_Essays"][ano]["Answer_Pattern"]
     enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
@@ -87,6 +89,13 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
           # ADICIONAR NOVOS CASOS NO SWITCH CASE CONFORME FOR INTERESSANTE
           case 7 | 10 | 13:
             formato_resposta = respostaPorCriterio
+            prompt_formatado = prompt_formatado.replace("{1A}", str(criterios["1A"]))
+            prompt_formatado = prompt_formatado.replace("{1B}", str(criterios["1B"]))
+            prompt_formatado = prompt_formatado.replace("{1C}", str(criterios["1C"]))
+            prompt_formatado = prompt_formatado.replace("{2}", str(criterios["2"]))
+            max_pontos = criterios["1A"] + criterios["1B"] + criterios["1C"]
+            prompt_formatado = prompt_formatado.replace("{max_pontos}", str(max_pontos))
+            print(prompt_formatado)
           case 8 | 11 | 14:
             formato_resposta = respostaFinal
           case 9 | 12 | 15:
@@ -133,7 +142,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   for i in temp:
     listtemps += str(i) + "_"
 
-  output_path = os.path.join(os.getcwd(), "prompt_testing", "outputs", model_name, f'{listtemps}output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+  output_path = os.path.join(os.getcwd(), "prompt_testing", "outputs", model_name, f'output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
