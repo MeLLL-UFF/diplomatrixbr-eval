@@ -343,11 +343,11 @@ prompts:
 
       ###Critérios de Avaliação
       1. Organização do texto e desenvolvimento do tema (máximo de 40,00 pontos):
-      1A. Apresentação e impressão geral do texto: coerência, legibilidade e estilo. (0–10 pontos)
-      1B. Capacidade de argumentação: objetividade, sistematização, conteúdo e pertinência das informações. (0–10 pontos)
-      1C. Capacidade de análise e reflexão. (0–20 pontos)
+      1A. Apresentação e impressão geral do texto: coerência, legibilidade e estilo. (0–{1A} pontos)
+      1B. Capacidade de argumentação: objetividade, sistematização, conteúdo e pertinência das informações. (0–{1B} pontos)
+      1C. Capacidade de análise e reflexão. (0–{1C} pontos)
 
-      2. Correção gramatical e propriedade da linguagem (máximo de 20,00 pontos):
+      2. Correção gramatical e propriedade da linguagem (máximo de {2} pontos):
       Contabilize os erros gramaticais (como concordância, ortografia, pontuação e regência).
 
       ###Instrução
@@ -441,11 +441,11 @@ prompts:
       ###Critérios de Avaliação
 
       Organização do texto e desenvolvimento do tema (máximo de 40,00 pontos):
-      1A. Apresentação e impressão geral do texto: coerência, legibilidade e estilo. (0–10 pontos)
-      1B. Capacidade de argumentação: objetividade, sistematização, conteúdo e pertinência das informações. (0–10 pontos)
-      1C. Capacidade de análise e reflexão. (0–20 pontos)
+      1A. Apresentação e impressão geral do texto: coerência, legibilidade e estilo. (0–{1A} pontos)
+      1B. Capacidade de argumentação: objetividade, sistematização, conteúdo e pertinência das informações. (0–{1B} pontos)
+      1C. Capacidade de análise e reflexão. (0–{1C} pontos)
 
-      Correção gramatical e propriedade da linguagem (máximo de 20,00 pontos):
+      Correção gramatical e propriedade da linguagem (máximo de {2} pontos):
       Contabilize os erros gramaticais (como concordância, ortografia, pontuação e regência).
 
       ###Instrução
@@ -541,12 +541,12 @@ prompts:
       {enunciado}
 
       ### Critérios de Avaliação
-      1. Organização do texto e desenvolvimento do tema (máximo de 40,00 pontos):
-        1A. Apresentação e impressão geral do texto: coerência, legibilidade, clareza, estrutura (introdução, desenvolvimento e conclusão) e estilo. (0–10 pontos)
-        1B. Capacidade de argumentação: objetividade, sistematização, progressão lógica das ideias, conteúdo e pertinência das informações. (0–10 pontos)
-        1C. Capacidade de análise e reflexão: profundidade, criticidade, articulação de ideias, autonomia e rigor do raciocínio. (0–20 pontos)
+      1. Organização do texto e desenvolvimento do tema (máximo de {1} pontos):
+        1A. Apresentação e impressão geral do texto: coerência, legibilidade, clareza, estrutura (introdução, desenvolvimento e conclusão) e estilo. (0–{1A} pontos)
+        1B. Capacidade de argumentação: objetividade, sistematização, progressão lógica das ideias, conteúdo e pertinência das informações. (0–{1B} pontos)
+        1C. Capacidade de análise e reflexão: profundidade, criticidade, articulação de ideias, autonomia e rigor do raciocínio. (0–{1C} pontos)
 
-      2. Correção gramatical e propriedade da linguagem (máximo de 20,00 pontos):
+      2. Correção gramatical e propriedade da linguagem (máximo de {2} pontos):
         Contabilize os erros gramaticais (como concordância, ortografia, pontuação e regência), considerando também a fluidez, precisão vocabular e adequação da linguagem.
 
       ### Diretrizes de Avaliação
