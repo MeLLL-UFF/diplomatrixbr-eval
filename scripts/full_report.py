@@ -115,7 +115,7 @@ def full_report(num_runs, model_name):
 
     output_path = os.path.join(os.getcwd(), "prompt_testing", "reports", model_name)
     plot_RMSE(df, model_name, output_path)
-    #plot_qwk(cohen_kappa_df, model_name, output_path)
+    plot_qwk(cohen_kappa_df, model_name, output_path)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

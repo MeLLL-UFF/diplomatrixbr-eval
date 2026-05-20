@@ -6,9 +6,7 @@ full_report(){
 }
 
 models=(
-	"gemma-4-31B-it"
-	"Qwen3.6-35B-A3B"
-	"gpt-oss-120b"
+	#Models to gen report for
 )
 
 NUM_RUNS="3"
