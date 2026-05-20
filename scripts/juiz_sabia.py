@@ -60,9 +60,9 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
 
   dados_candidatos = diplomatrix["Candidates_Essays"][ano]["Candidates"]
   criterios = diplomatrix["Candidates_Essays"][ano]["Criteria"]
+  enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
   try:
     padrao_de_resposta = diplomatrix["Candidates_Essays"][ano]["Answer_Pattern"]
-    enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
   except KeyError:
     padrao_de_resposta = ""
   numero_redacao = 0
