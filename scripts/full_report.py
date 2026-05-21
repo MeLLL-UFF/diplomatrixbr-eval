@@ -117,7 +117,7 @@ def plot_corr(df, model, path):
     plt.savefig(f"{path}/Correlacoes.png")
 
 def plot_comparacao_notas(df_plot, model_name, output_path, num_redacoes):
-    fig, axes = plt.subplots(2, 1, figsize=(20, 7))
+    fig, ax = plt.subplots(1, 1, figsize=(20, 6))
 
     sns.lineplot(
         data=df_plot,
@@ -126,33 +126,31 @@ def plot_comparacao_notas(df_plot, model_name, output_path, num_redacoes):
         hue="prompt",
         marker="o",
         palette=["#11F9DE", "#FFD918", "#A3FF22"],
-        ax=axes[0]
+        ax=ax
     )
-    axes[0].set_title("Análise de Nota Gerada por Redação")
-    axes[0].set_xlabel("Redação")
-    axes[0].set_ylabel("Nota Final")
-    axes[0].set_ylim(30, 60)
-    axes[0].legend(bbox_to_anchor=(1, 1.1), loc="upper left")
-    axes[0].spines[['top', 'right']].set_visible(False)
-    axes[0].set_xlim(1, num_redacoes)
-    axes[0].set_xticks(list(range(1, num_redacoes + 1)))
+
+    # Pega uma linha por redação para a nota humana
+    df_human = df_plot.drop_duplicates(subset="redacao")[["redacao", "nota_final_human"]]
 
     sns.lineplot(
-        data=df_plot,
+        data=df_human,
         x="redacao",
         y="nota_final_human",
         marker="o",
-        ax=axes[1]
+        color="#FF6B6B",
+        label="Nota Humana",
+        ax=ax
     )
-    axes[1].set_title("Análise de Nota Humana por Redação")
-    axes[1].set_xlabel("Redação")
-    axes[1].set_ylabel("Nota Final")
-    axes[1].set_ylim(30, 60)
-    axes[1].spines[['top', 'right']].set_visible(False)
-    axes[1].set_xlim(1, num_redacoes)
-    axes[1].set_xticks(list(range(1, num_redacoes + 1)))
 
-    plt.suptitle(f"Comparação de Nota Gerada e Nota Humana por Redação \n {model_name}", fontsize=16)
+    ax.set_title(f"Comparação de Nota Gerada e Nota Humana por Redação\n{model_name}", fontsize=16)
+    ax.set_xlabel("Redação")
+    ax.set_ylabel("Nota Final")
+    ax.set_ylim(30, 60)
+    ax.legend(bbox_to_anchor=(1, 1.1), loc="upper left")
+    ax.spines[['top', 'right']].set_visible(False)
+    ax.set_xlim(1, num_redacoes)
+    ax.set_xticks(list(range(1, num_redacoes + 1)))
+
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
     plt.savefig(f"{output_path}/comparacao_notas.png", dpi=300, bbox_inches='tight')
     plt.close()
