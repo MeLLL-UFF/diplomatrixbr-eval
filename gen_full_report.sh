@@ -1,8 +1,12 @@
+# Pra rodar:
+# chmod +x gen_full_report.sh
+# ./gen_full_report.sh
+
 full_report(){
     local num_runs="$1"
     local model="$2"
 
-    python -m scripts.full_report --num_runs $num_runs --model $model
+    python -m scripts.full_report --num_runs $num_runs --num_redacoes 88 --model $model
 }
 
 models=(
