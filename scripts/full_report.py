@@ -6,6 +6,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import argparse
 from sklearn.preprocessing import MinMaxScaler
+import math
 
 from .utils import get_mean
 
@@ -18,7 +19,7 @@ def print_full(df):
     pd.reset_option('display.max_rows')
     pd.reset_option('display.expand_frame_repr')
 
-def quadratic_weighted_kappa(df):
+def quadratic_weighted_kappa(df: pd.DataFrame, bin_div: int = 1):
     prompts = df["prompt"].unique()
     years = sorted(df["ano"].unique())
 
@@ -30,11 +31,14 @@ def quadratic_weighted_kappa(df):
             df_format = df[(df["ano"] == year) & (df["prompt"] == prompt)]
             notas_modelos = df_format["nota_final_model"].astype(int).to_list()
             notas_humanos = df_format["nota_final_human"].astype(int).to_list()
-            
-            notas_modelos = list(map(round, notas_modelos))
-            notas_humanos = list(map(round, notas_humanos))
 
-            cohen_ano.append(cohen_kappa_score(notas_humanos, notas_modelos, weights='quadratic'))
+            notas_modelos = list(map(lambda x: x//bin_div, notas_modelos))
+            notas_humanos = list(map(lambda x: x//bin_div, notas_humanos))
+
+            nota_max = 60 if year != "2024" else 70
+            labels_kappa = [x//bin_div for x in range(0, nota_max, bin_div)]
+
+            cohen_ano.append(cohen_kappa_score(notas_humanos, notas_modelos, weights='quadratic', labels=labels_kappa))
         cohen_df.insert(len(cohen_df.columns), year, cohen_ano)
 
     return cohen_df
@@ -200,7 +204,7 @@ def full_report(num_runs, num_redacoes, model_name):
 
     df.insert(len(df.columns), "val_squared_error", (df["nota_final_human"] - df["nota_final_model"])**2)
 
-    cohen_kappa_df = quadratic_weighted_kappa(df)
+    cohen_kappa_df = quadratic_weighted_kappa(df, 5)
 
     output_path = os.path.join(os.getcwd(), "prompt_testing", "reports", model_name)
     plot_RMSE(df, model_name, output_path)
