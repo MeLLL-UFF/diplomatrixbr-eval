@@ -380,7 +380,7 @@ prompts:
       ###Cálculo da Nota Final
       A nota final deve refletir a avaliação global da redação considerando todos os critérios acima.
       Se houver erros gramaticais, eles devem ser levados em conta no cálculo, mas não é necessário detalhar pontuações parciais.
-      O resultado final deve estar no intervalo de 0,00 a 60,00 pontos, com duas casas decimais.
+      O resultado final deve estar no intervalo de 0,00 a {pontuacao_maxima} pontos, com duas casas decimais.
 
       ###Instrução
       Analise a redação considerando todos os critérios de avaliação listados e retorne apenas o valor da nota final.
