@@ -82,6 +82,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, nome_completo_modelo, lista_re
       prompts = prompts_yaml['prompts']
 
   dados_candidatos = diplomatrix["Candidates_Essays"][ano]["Candidates"]
+  criterios = diplomatrix["Candidates_Essays"][ano]["Criteria"]
   enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
   try:
     padrao_de_resposta = diplomatrix["Candidates_Essays"][ano]["Answer_Pattern"]
@@ -111,8 +112,16 @@ def main(n_iteracoes, temps, anos, lista_prompts, nome_completo_modelo, lista_re
           # ADICIONAR NOVOS CASOS NO SWITCH CASE CONFORME FOR INTERESSANTE
           case 7 | 10 | 13:
             formato_resposta = respostaPorCriterio
+            prompt_formatado = prompt_formatado.replace("{1A}", str(criterios["1A"]))
+            prompt_formatado = prompt_formatado.replace("{1B}", str(criterios["1B"]))
+            prompt_formatado = prompt_formatado.replace("{1C}", str(criterios["1C"]))
+            prompt_formatado = prompt_formatado.replace("{2}", str(criterios["2"]))
+            max_pontos = criterios["1A"] + criterios["1B"] + criterios["1C"]
+            prompt_formatado = prompt_formatado.replace("{max_pontos}", str(max_pontos))
           case 8 | 11 | 14:
             formato_resposta = respostaFinal
+            pontuacao_maxima = diplomatrix["Candidates_Essays"][ano]["Maximum_Score"]
+            prompt_formatado = prompt_formatado.replace("{pontuacao_maxima}", str(pontuacao_maxima))
           case 9 | 12 | 15:
             formato_resposta = respostaEmFaixa
 

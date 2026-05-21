@@ -1,14 +1,13 @@
 [
   {
-    "nota_1A": 7.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "Conj",
-      "con..."
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -17,15 +16,14 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 7.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "Conj",
-      "con..."
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -34,15 +32,14 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 7.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "Conj",
-      "con..."
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -54,12 +51,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia",
-      "acentuacao"
+      "concordancia"
     ],
-    "feedbacks": [
-      "Coherence and etc..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -71,12 +65,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia",
-      "acentuacao"
+      "concordancia"
     ],
-    "feedbacks": [
-      "Coherence and etc..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -88,12 +79,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia",
-      "acentuacao"
+      "concordancia"
     ],
-    "feedbacks": [
-      "Coherence and etc..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -106,8 +94,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a tese, desenvolvendo-a com referências interdisciplinares e concluindo de forma coerente.",
-      "Utiliza repertório cultural relevante (Saramoto, Hob…"
+      "O texto apresenta organização clara, introduzindo a tese, desenvolvendo-a com referências intertextuais e concluindo de forma coerente.",
+      "Argumentação robusta, citando autores e obras pertinentes, demonstrando profunda compreensão do tema.",
+      "Domínio sólido da norma culta, uso preciso de conectivos e vocabulário variado; pequenos ajustes poderiam melhorar ainda mais a fluidez."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -121,8 +110,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a tese, desenvolvendo-a com referências interdisciplinares e concluindo de forma coerente.",
-      "Utiliza repertório cultural relevante (Saramoto, Hob…"
+      "O texto apresenta organização clara, introduzindo a tese, desenvolvendo-a com referências intertextuais e concluindo de forma coerente.",
+      "Argumentação robusta, citando autores e obras pertinentes, demonstrando profunda compreensão do tema.",
+      "Domínio sólido da norma culta, uso preciso de conectivos e vocabulário variado; pequenos ajustes poderiam melhorar ainda mais a fluidez."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -136,8 +126,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a tese, desenvolvendo-a com referências interdisciplinares e concluindo de forma coerente.",
-      "Utiliza repertório cultural relevante (Saramoto, Hob…"
+      "O texto apresenta organização clara, introduzindo a tese, desenvolvendo-a com referências intertextuais e concluindo de forma coerente.",
+      "Argumentação robusta, citando autores e obras pertinentes, demonstrando profunda compreensão do tema.",
+      "Domínio sólido da norma culta, uso preciso de conectivos e vocabulário variado; pequenos ajustes poderiam melhorar ainda mais a fluidez."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -149,13 +140,13 @@
   {
     "nota_1A": 7,
     "nota_1B": 9,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1C": 8,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "con..."
+      "..."
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -167,13 +158,13 @@
   {
     "nota_1A": 7,
     "nota_1B": 9,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1C": 8,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "con..."
+      "..."
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -185,13 +176,13 @@
   {
     "nota_1A": 7,
     "nota_1B": 9,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1C": 8,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "con..."
+      "..."
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -204,8 +195,7 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concomitantemente",
-      "detrimental"
+      "concom..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -219,8 +209,7 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concomitantemente",
-      "detrimental"
+      "concom..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -234,8 +223,7 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concomitantemente",
-      "detrimental"
+      "concom..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -290,8 +278,8 @@
   {
     "nota_1A": 7.5,
     "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "..."
     ],
@@ -306,8 +294,8 @@
   {
     "nota_1A": 7.5,
     "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "..."
     ],
@@ -322,8 +310,8 @@
   {
     "nota_1A": 7.5,
     "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "..."
     ],
@@ -339,7 +327,7 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "conflituosa..."
+      "conflitos?"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -353,7 +341,7 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "conflituosa..."
+      "conflitos?"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -367,7 +355,7 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "conflituosa..."
+      "conflitos?"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -382,7 +370,11 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "O texto apresenta organização clara, introduzindo a tese e desenvolvendo-a com referências consistentes a autores e obras pertinentes.",
+      "Mantém coerência interna e utiliza conectivos adequados, facilitando o fluxo lógico das ideias.",
+      "Aponta críticas fundamentadas à visão tradicional da tolerância, oferecendo contrapontos sólidos através de exemplos culturais e filosóficos.",
+      "Utiliza linguagem formal adequada ao gênero dissertativo‑argumentativo.",
+      "Os principais recursos de coerência e coesão?"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -396,7 +388,11 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "O texto apresenta organização clara, introduzindo a tese e desenvolvendo-a com referências consistentes a autores e obras pertinentes.",
+      "Mantém coerência interna e utiliza conectivos adequados, facilitando o fluxo lógico das ideias.",
+      "Aponta críticas fundamentadas à visão tradicional da tolerância, oferecendo contrapontos sólidos através de exemplos culturais e filosóficos.",
+      "Utiliza linguagem formal adequada ao gênero dissertativo‑argumentativo.",
+      "Os principais recursos de coerência e coesão?"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -410,7 +406,11 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "O texto apresenta organização clara, introduzindo a tese e desenvolvendo-a com referências consistentes a autores e obras pertinentes.",
+      "Mantém coerência interna e utiliza conectivos adequados, facilitando o fluxo lógico das ideias.",
+      "Aponta críticas fundamentadas à visão tradicional da tolerância, oferecendo contrapontos sólidos através de exemplos culturais e filosóficos.",
+      "Utiliza linguagem formal adequada ao gênero dissertativo‑argumentativo.",
+      "Os principais recursos de coerência e coesão?"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -420,17 +420,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      "...",
-      "..."
-    ],
-    "feedbacks": [
-      "]"
-    ],
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -439,17 +434,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      "...",
-      "..."
-    ],
-    "feedbacks": [
-      "]"
-    ],
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -458,17 +448,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      "...",
-      "..."
-    ],
-    "feedbacks": [
-      "]"
-    ],
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -526,8 +511,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo o tema, desenvolvendo‑o em múltiplas dimensões – individual, religioso e interestadual – e concluindo de maneira sintética.",
-      "Mantém coerência interna e encadeamento lógico entre parágrafos, usando conectivos apropri "
+      "O texto apresenta organização clara, introduzindo o assunto, desenvolvendo‑o em múltiplas dimensões – individual, religioso e interestadual – e concluindo de maneira sintética.",
+      "Aponta de forma eficaz ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -541,8 +526,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo o tema, desenvolvendo‑o em múltiplas dimensões – individual, religioso e interestadual – e concluindo de maneira sintética.",
-      "Mantém coerência interna e encadeamento lógico entre parágrafos, usando conectivos apropri "
+      "O texto apresenta organização clara, introduzindo o assunto, desenvolvendo‑o em múltiplas dimensões – individual, religioso e interestadual – e concluindo de maneira sintética.",
+      "Aponta de forma eficaz ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -556,8 +541,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo o tema, desenvolvendo‑o em múltiplas dimensões – individual, religioso e interestadual – e concluindo de maneira sintética.",
-      "Mantém coerência interna e encadeamento lógico entre parágrafos, usando conectivos apropri "
+      "O texto apresenta organização clara, introduzindo o assunto, desenvolvendo‑o em múltiplas dimensões – individual, religioso e interestadual – e concluindo de maneira sintética.",
+      "Aponta de forma eficaz ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -567,14 +552,15 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 3,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [],
-    "feedbacks": [
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "",
       ""
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -583,14 +569,15 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 3,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [],
-    "feedbacks": [
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "",
       ""
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -599,14 +586,15 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 3,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [],
-    "feedbacks": [
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "",
       ""
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -618,7 +606,8 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concessão \"não basta\" - aspas incorretas; falta de acentuação em 'é'"
+      "concessão \"\"não",
+      "tolerancia"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -632,7 +621,8 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concessão \"não basta\" - aspas incorretas; falta de acentuação em 'é'"
+      "concessão \"\"não",
+      "tolerancia"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -646,7 +636,8 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concessão \"não basta\" - aspas incorretas; falta de acentuação em 'é'"
+      "concessão \"\"não",
+      "tolerancia"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -661,8 +652,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra organização clara, introduzindo o tema, apresentando diferentes correntes filosóficas e concluindo de maneira coerente.",
-      "Aponta ‑ ​ …"
+      "O texto demonstra organização clara, introduzindo o tema, apresentando referências filosóficas e concluindo de maneira coerente.",
+      "Aponta boas citações e contextualiza‑se corretamente ao argumento central.",
+      "Mantém registro formal e vocabulário rico"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -676,8 +668,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra organização clara, introduzindo o tema, apresentando diferentes correntes filosóficas e concluindo de maneira coerente.",
-      "Aponta ‑ ​ …"
+      "O texto demonstra organização clara, introduzindo o tema, apresentando referências filosóficas e concluindo de maneira coerente.",
+      "Aponta boas citações e contextualiza‑se corretamente ao argumento central.",
+      "Mantém registro formal e vocabulário rico"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -691,8 +684,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra organização clara, introduzindo o tema, apresentando diferentes correntes filosóficas e concluindo de maneira coerente.",
-      "Aponta ‑ ​ …"
+      "O texto demonstra organização clara, introduzindo o tema, apresentando referências filosóficas e concluindo de maneira coerente.",
+      "Aponta boas citações e contextualiza‑se corretamente ao argumento central.",
+      "Mantém registro formal e vocabulário rico"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -702,16 +696,14 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 27,
-    "erros_gramaticais": [
-      "...",
-      "...",
-      "]"
+    "nota_1A": 7.5,
+    "nota_1B": 8.3,
+    "nota_1C": 7.9,
+    "numero_de_erros_gramaticais": 28282,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ","
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -720,16 +712,14 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 27,
-    "erros_gramaticais": [
-      "...",
-      "...",
-      "]"
+    "nota_1A": 7.5,
+    "nota_1B": 8.3,
+    "nota_1C": 7.9,
+    "numero_de_erros_gramaticais": 28282,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ","
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -738,16 +728,14 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 27,
-    "erros_gramaticais": [
-      "...",
-      "...",
-      "]"
+    "nota_1A": 7.5,
+    "nota_1B": 8.3,
+    "nota_1C": 7.9,
+    "numero_de_erros_gramaticais": 28282,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ","
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -759,11 +747,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "Erro..."
+      "..."
     ],
-    "feedbacks": [
-      " ..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -775,11 +761,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "Erro..."
+      "..."
     ],
-    "feedbacks": [
-      " ..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -791,11 +775,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "Erro..."
+      "..."
     ],
-    "feedbacks": [
-      " ..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -808,8 +790,7 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta boa estrutura argumentativa, desenvolvendo claramente a tese proposta.",
-      "Utiliza referências filosóficas pertinentes (Hobbes ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -823,8 +804,7 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta boa estrutura argumentativa, desenvolvendo claramente a tese proposta.",
-      "Utiliza referências filosóficas pertinentes (Hobbes ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -838,8 +818,7 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta boa estrutura argumentativa, desenvolvendo claramente a tese proposta.",
-      "Utiliza referências filosóficas pertinentes (Hobbes ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -850,13 +829,13 @@
   },
   {
     "nota_1A": 7.5,
-    "nota_1B": 9.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ","
+    "nota_1B": 2,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      ""
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -866,13 +845,13 @@
   },
   {
     "nota_1A": 7.5,
-    "nota_1B": 9.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ","
+    "nota_1B": 2,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      ""
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -882,13 +861,13 @@
   },
   {
     "nota_1A": 7.5,
-    "nota_1B": 9.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ","
+    "nota_1B": 2,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      ""
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -899,11 +878,9 @@
   {
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Uso de c ..."
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [
-      "Análise ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -915,11 +892,9 @@
   {
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Uso de c ..."
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [
-      "Análise ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -931,11 +906,9 @@
   {
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Uso de c ..."
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [
-      "Análise ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -949,9 +922,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introdução‑desenvolvimento‑conclusão bem definidos.",
-      "Argumentação robusta, citando exemplos históricos e referências filosóficas pertinentes ao tema.",
-      "Domínio da norma culta, com vocabulário rico e poucas falhas de gramática."
+      "O texto apresenta organização clara, introduzindo o assunto, desenvolvendo‑o com exemplos históricos e atuais, e concluindo de maneira coerente.",
+      "Os argumentos são pertinentes e demonstram conhecimento histórico‑político, reforçando a posição adotada em relação à citação de Saramho",
+      "Há uso correto da norma padrão, com vocabulário rico e construções sintáticas complexas, embora algumas frases pudessem ficar mais enxutas."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -965,9 +938,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introdução‑desenvolvimento‑conclusão bem definidos.",
-      "Argumentação robusta, citando exemplos históricos e referências filosóficas pertinentes ao tema.",
-      "Domínio da norma culta, com vocabulário rico e poucas falhas de gramática."
+      "O texto apresenta organização clara, introduzindo o assunto, desenvolvendo‑o com exemplos históricos e atuais, e concluindo de maneira coerente.",
+      "Os argumentos são pertinentes e demonstram conhecimento histórico‑político, reforçando a posição adotada em relação à citação de Saramho",
+      "Há uso correto da norma padrão, com vocabulário rico e construções sintáticas complexas, embora algumas frases pudessem ficar mais enxutas."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -981,9 +954,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introdução‑desenvolvimento‑conclusão bem definidos.",
-      "Argumentação robusta, citando exemplos históricos e referências filosóficas pertinentes ao tema.",
-      "Domínio da norma culta, com vocabulário rico e poucas falhas de gramática."
+      "O texto apresenta organização clara, introduzindo o assunto, desenvolvendo‑o com exemplos históricos e atuais, e concluindo de maneira coerente.",
+      "Os argumentos são pertinentes e demonstram conhecimento histórico‑político, reforçando a posição adotada em relação à citação de Saramho",
+      "Há uso correto da norma padrão, com vocabulário rico e construções sintáticas complexas, embora algumas frases pudessem ficar mais enxutas."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -995,13 +968,14 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 27,
     "erros_gramaticais": [
-      ""
+      "concordancia",
+      "ortho"
     ],
     "feedbacks": [
-      ","
+      "..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1013,13 +987,14 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 27,
     "erros_gramaticais": [
-      ""
+      "concordancia",
+      "ortho"
     ],
     "feedbacks": [
-      ","
+      "..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1031,13 +1006,14 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 27,
     "erros_gramaticais": [
-      ""
+      "concordancia",
+      "ortho"
     ],
     "feedbacks": [
-      ","
+      "..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1048,9 +1024,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal incorreta \"tolerar\" vs \"pode ser\", uso inadequado de vírgula antes de conjunção coordenativa \"mas\",\"porém\" etc"
+      "consonante conson..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -1062,9 +1038,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal incorreta \"tolerar\" vs \"pode ser\", uso inadequado de vírgula antes de conjunção coordenativa \"mas\",\"porém\" etc"
+      "consonante conson..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -1076,9 +1052,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal incorreta \"tolerar\" vs \"pode ser\", uso inadequado de vírgula antes de conjunção coordenativa \"mas\",\"porém\" etc"
+      "consonante conson..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -1093,7 +1069,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "Texto apresenta organização clara, introduz tese, desenvolve argumentos em três esferas (interpessoal, institucional, interestadual) e conclui retomando ideia central.",
+      "Argumentação consistente, uso de exemplos históricos e sociais pertinentes (Brasil, Segunda‑Guerra, EUA).",
+      "Domínio da norma culta sólido; poucas falhas pontuais de pontuação ou concordância."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -1107,7 +1085,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "Texto apresenta organização clara, introduz tese, desenvolve argumentos em três esferas (interpessoal, institucional, interestadual) e conclui retomando ideia central.",
+      "Argumentação consistente, uso de exemplos históricos e sociais pertinentes (Brasil, Segunda‑Guerra, EUA).",
+      "Domínio da norma culta sólido; poucas falhas pontuais de pontuação ou concordância."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -1121,7 +1101,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "Texto apresenta organização clara, introduz tese, desenvolve argumentos em três esferas (interpessoal, institucional, interestadual) e conclui retomando ideia central.",
+      "Argumentação consistente, uso de exemplos históricos e sociais pertinentes (Brasil, Segunda‑Guerra, EUA).",
+      "Domínio da norma culta sólido; poucas falhas pontuais de pontuação ou concordância."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -1131,17 +1113,16 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 5,
-    "nota_1B": 7,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       "...",
-      "...",
-      "]"
+      "..."
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1151,17 +1132,16 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 5,
-    "nota_1B": 7,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       "...",
-      "...",
-      "]"
+      "..."
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1171,17 +1151,16 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 5,
-    "nota_1B": 7,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       "...",
-      "...",
-      "]"
+      "..."
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1192,9 +1171,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "conceder, ..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -1206,9 +1185,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "conceder, ..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -1220,9 +1199,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "conceder, ..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -1277,12 +1256,14 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 12,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
       "..."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -1293,12 +1274,14 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 12,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
       "..."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -1309,12 +1292,14 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 12,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
       "..."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -1326,12 +1311,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal errada",
-      "uso incorreto de crase"
+      "consonant"
     ],
-    "feedbacks": [
-      "Coherence and ..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -1343,12 +1325,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal errada",
-      "uso incorreto de crase"
+      "consonant"
     ],
-    "feedbacks": [
-      "Coherence and ..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -1360,12 +1339,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal errada",
-      "uso incorreto de crase"
+      "consonant"
     ],
-    "feedbacks": [
-      "Coherence and ..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -1374,15 +1350,11 @@
     "ano": "2017"
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "concordancia verbal incorreta \"... não impede ...\" (deveria ser \"não impediu\")",
-      "acento/ortho"
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta boa estrutura, introduzindo o assunto historicamente e conectando‑o ao debate proposto.",
-      "Mantém coerência interna e demonstra conhecimento histórico‑político."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -1392,15 +1364,11 @@
     "ano": "2017"
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "concordancia verbal incorreta \"... não impede ...\" (deveria ser \"não impediu\")",
-      "acento/ortho"
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta boa estrutura, introduzindo o assunto historicamente e conectando‑o ao debate proposto.",
-      "Mantém coerência interna e demonstra conhecimento histórico‑político."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -1410,15 +1378,11 @@
     "ano": "2017"
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "concordancia verbal incorreta \"... não impede ...\" (deveria ser \"não impediu\")",
-      "acento/ortho"
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta boa estrutura, introduzindo o assunto historicamente e conectando‑o ao debate proposto.",
-      "Mantém coerência interna e demonstra conhecimento histórico‑político."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,

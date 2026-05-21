@@ -5,9 +5,11 @@
     "nota_1C": 15,
     "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
+      "con..."
+    ],
+    "feedbacks": [
       "..."
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -21,9 +23,11 @@
     "nota_1C": 15,
     "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
+      "con..."
+    ],
+    "feedbacks": [
       "..."
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -37,9 +41,11 @@
     "nota_1C": 15,
     "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
+      "con..."
+    ],
+    "feedbacks": [
       "..."
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -53,9 +59,7 @@
     "erros_gramaticais": [
       "..."
     ],
-    "feedbacks": [
-      "..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -69,9 +73,7 @@
     "erros_gramaticais": [
       "..."
     ],
-    "feedbacks": [
-      "..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -85,9 +87,7 @@
     "erros_gramaticais": [
       "..."
     ],
-    "feedbacks": [
-      "..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -100,9 +100,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra organização clara, introduzindo conceito teórico, desenvolvendo argumentos positivos e negativos da IA na diplomacia, concluindo com proposta de ação coletiva.",
-      "Argumentação bem‑estruturada, exemplos pertinentes (simulações de conferências, combate ao desmatamento, ONU‑ODS 4)",
-      "Uso correto da norma culta, quase nenhum ponto de pontuação…"
+      "O texto demonstra organização clara, introduzindo conceito teórico e desenvolvendo argumentos positivos e negativos da IA na diplomacia.",
+      "Ele utiliza referências pertinentes (Wendt, UNESCO) e mantém coesão ao longo da escrita."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -116,9 +115,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra organização clara, introduzindo conceito teórico, desenvolvendo argumentos positivos e negativos da IA na diplomacia, concluindo com proposta de ação coletiva.",
-      "Argumentação bem‑estruturada, exemplos pertinentes (simulações de conferências, combate ao desmatamento, ONU‑ODS 4)",
-      "Uso correto da norma culta, quase nenhum ponto de pontuação…"
+      "O texto demonstra organização clara, introduzindo conceito teórico e desenvolvendo argumentos positivos e negativos da IA na diplomacia.",
+      "Ele utiliza referências pertinentes (Wendt, UNESCO) e mantém coesão ao longo da escrita."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -132,9 +130,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra organização clara, introduzindo conceito teórico, desenvolvendo argumentos positivos e negativos da IA na diplomacia, concluindo com proposta de ação coletiva.",
-      "Argumentação bem‑estruturada, exemplos pertinentes (simulações de conferências, combate ao desmatamento, ONU‑ODS 4)",
-      "Uso correto da norma culta, quase nenhum ponto de pontuação…"
+      "O texto demonstra organização clara, introduzindo conceito teórico e desenvolvendo argumentos positivos e negativos da IA na diplomacia.",
+      "Ele utiliza referências pertinentes (Wendt, UNESCO) e mantém coesão ao longo da escrita."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -149,9 +146,7 @@
     "nota_1C": 0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -165,9 +160,7 @@
     "nota_1C": 0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -181,9 +174,7 @@
     "nota_1C": 0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -195,11 +186,6 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
-      "contribuido",
-      "dependencia",
-      "regulamentar",
-      "substituir",
-      "cultura",
       "..."
     ],
     "feedbacks": [],
@@ -214,11 +200,6 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
-      "contribuido",
-      "dependencia",
-      "regulamentar",
-      "substituir",
-      "cultura",
       "..."
     ],
     "feedbacks": [],
@@ -233,11 +214,6 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
-      "contribuido",
-      "dependencia",
-      "regulamentar",
-      "substituir",
-      "cultura",
       "..."
     ],
     "feedbacks": [],
@@ -249,68 +225,15 @@
     "ano": "2023"
   },
   {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 7,
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
     "erros_gramaticais": [
-      "concordancia_verbal",
-      "acento_accentual"
+      "...",
+      "...."
     ],
-    "feedbacks": [
-      "O seu texto demonstra forte entendimento do tema proposto, apresentando argumentos claros e bem‑distribidos nas diferentes partes da disser…",
-      "..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2023"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 7,
-    "erros_gramaticais": [
-      "concordancia_verbal",
-      "acento_accentual"
-    ],
-    "feedbacks": [
-      "O seu texto demonstra forte entendimento do tema proposto, apresentando argumentos claros e bem‑distribidos nas diferentes partes da disser…",
-      "..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2023"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 7,
-    "erros_gramaticais": [
-      "concordancia_verbal",
-      "acento_accentual"
-    ],
-    "feedbacks": [
-      "O seu texto demonstra forte entendimento do tema proposto, apresentando argumentos claros e bem‑distribidos nas diferentes partes da disser…",
-      "..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2023"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -319,14 +242,15 @@
     "ano": "2023"
   },
   {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "...",
+      "...."
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -335,14 +259,15 @@
     "ano": "2023"
   },
   {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "...",
+      "...."
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -397,7 +322,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "O texto apresenta organização clara, introdução‑desenvolvimento‑conclusão, argumentos consistentes e uso adequado da norma culta.",
+      "Aponta tanto impactos positivos quanto negativos, relacionando-os diretamente ao papel da diplomacia e citando recomendações da UNESCO."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -411,7 +337,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "O texto apresenta organização clara, introdução‑desenvolvimento‑conclusão, argumentos consistentes e uso adequado da norma culta.",
+      "Aponta tanto impactos positivos quanto negativos, relacionando-os diretamente ao papel da diplomacia e citando recomendações da UNESCO."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -425,7 +352,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "O texto apresenta organização clara, introdução‑desenvolvimento‑conclusão, argumentos consistentes e uso adequado da norma culta.",
+      "Aponta tanto impactos positivos quanto negativos, relacionando-os diretamente ao papel da diplomacia e citando recomendações da UNESCO."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -435,11 +363,13 @@
     "ano": "2023"
   },
   {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
     "feedbacks": [
       ""
     ],
@@ -451,11 +381,13 @@
     "ano": "2023"
   },
   {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
     "feedbacks": [
       ""
     ],
@@ -467,11 +399,13 @@
     "ano": "2023"
   },
   {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "..."
+    ],
     "feedbacks": [
       ""
     ],
@@ -484,7 +418,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
+    "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
       "..."
     ],
@@ -498,7 +432,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
+    "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
       "..."
     ],
@@ -512,7 +446,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
+    "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
       "..."
     ],
@@ -529,7 +463,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "Texto apresenta organização clara, argumentos consistentes e demonstra bom domínio da língua portuguesa.",
+      "Aponta corretamente impactos positivos e negativos da IA na diplomacia, citando referências e contextualizando."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -543,7 +478,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "Texto apresenta organização clara, argumentos consistentes e demonstra bom domínio da língua portuguesa.",
+      "Aponta corretamente impactos positivos e negativos da IA na diplomacia, citando referências e contextualizando."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -557,7 +493,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "Texto apresenta organização clara, argumentos consistentes e demonstra bom domínio da língua portuguesa.",
+      "Aponta corretamente impactos positivos e negativos da IA na diplomacia, citando referências e contextualizando."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -570,12 +507,12 @@
     "nota_1A": 8,
     "nota_1B": 7,
     "nota_1C": 15,
-    "numero_de_erros_gramaticais": 27,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
     ],
     "feedbacks": [
-      ","
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -588,12 +525,12 @@
     "nota_1A": 8,
     "nota_1B": 7,
     "nota_1C": 15,
-    "numero_de_erros_gramaticais": 27,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
     ],
     "feedbacks": [
-      ","
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -606,12 +543,12 @@
     "nota_1A": 8,
     "nota_1B": 7,
     "nota_1C": 15,
-    "numero_de_erros_gramaticais": 27,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
     ],
     "feedbacks": [
-      ","
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -622,7 +559,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 15,
+    "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
       "..."
     ],
@@ -636,7 +573,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 15,
+    "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
       "..."
     ],
@@ -650,7 +587,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 15,
+    "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
       "..."
     ],

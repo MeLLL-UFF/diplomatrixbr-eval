@@ -1,453 +1,51 @@
 [
   {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 1,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 1,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 1,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 6,
+    "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      "consolida��?"
+      "consonant",
+      ","
     ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 1,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "consolida��?"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 1,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "consolida��?"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 1,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
     "feedbacks": [
       ""
     ],
     "modelo": "gpt-oss-120b",
-    "prompt": 9,
+    "prompt": 7,
     "temp": 0.0,
     "versao": 1,
-    "essay": 1,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 1,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
     "essay": 1,
     "ano": "2015"
   },
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 15,
+    "nota_1C": 6,
+    "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      ""
+      "consonant",
+      ","
     ],
     "feedbacks": [
-      ","
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
+    "versao": 2,
+    "essay": 1,
     "ano": "2015"
   },
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 15,
+    "nota_1C": 6,
+    "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [
+      "consonant",
       ","
     ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 15,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [
-      ","
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Excepcional",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Excepcional",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Excepcional",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "acento diacrítico"
-    ],
-    "feedbacks": [
-      "Coordenadas ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "acento diacrítico"
-    ],
-    "feedbacks": [
-      "Coordenadas ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "acento diacrítico"
-    ],
-    "feedbacks": [
-      "Coordenadas ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "Uso inadequado de vírgula após \"assim\".",
-      "Concordancia verbal de \". . . . ... ……......."
-    ],
-    "feedbacks": [
-      "O seu texto possui boas conexões entre argumentos e demonstra conhecimento histórico‑cultural relevante.",
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "Uso inadequado de vírgula após \"assim\".",
-      "Concordancia verbal de \". . . . ... ……......."
-    ],
-    "feedbacks": [
-      "O seu texto possui boas conexões entre argumentos e demonstra conhecimento histórico‑cultural relevante.",
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "Uso inadequado de vírgula após \"assim\".",
-      "Concordancia verbal de \". . . . ... ……......."
-    ],
-    "feedbacks": [
-      "O seu texto possui boas conexões entre argumentos e demonstra conhecimento histórico‑cultural relevante.",
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
     "feedbacks": [
       ""
     ],
@@ -455,52 +53,58 @@
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
-    "essay": 4,
+    "essay": 1,
     "ano": "2015"
   },
   {
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "conversão",
-      "c"
+      "/\t",
+      "\\\""
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
     "versao": 1,
-    "essay": 4,
+    "essay": 1,
     "ano": "2015"
   },
   {
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "conversão",
-      "c"
+      "/\t",
+      "\\\""
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
     "versao": 2,
-    "essay": 4,
+    "essay": 1,
     "ano": "2015"
   },
   {
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "conversão",
-      "c"
+      "/\t",
+      "\\\""
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
-    "essay": 4,
+    "essay": 1,
     "ano": "2015"
   },
   {
@@ -508,14 +112,14 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a tese, desenvolvendo argumentos e concluindo de modo coerente.",
-      "Boa utilização de conectivos e referências ao texto-base demonstra entendimento aprofundado do tema."
+      "Texto apresenta organização clara, argumentos consistentes e boas referências ao texto-base.",
+      "Aponta paralelos pertinentes entre escritor Lúcio Cardoso e o papel do diplomata, demonstrando entendimento do tema proposto."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
-    "essay": 4,
+    "essay": 1,
     "ano": "2015"
   },
   {
@@ -523,14 +127,14 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a tese, desenvolvendo argumentos e concluindo de modo coerente.",
-      "Boa utilização de conectivos e referências ao texto-base demonstra entendimento aprofundado do tema."
+      "Texto apresenta organização clara, argumentos consistentes e boas referências ao texto-base.",
+      "Aponta paralelos pertinentes entre escritor Lúcio Cardoso e o papel do diplomata, demonstrando entendimento do tema proposto."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
     "versao": 2,
-    "essay": 4,
+    "essay": 1,
     "ano": "2015"
   },
   {
@@ -538,974 +142,113 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a tese, desenvolvendo argumentos e concluindo de modo coerente.",
-      "Boa utilização de conectivos e referências ao texto-base demonstra entendimento aprofundado do tema."
+      "Texto apresenta organização clara, argumentos consistentes e boas referências ao texto-base.",
+      "Aponta paralelos pertinentes entre escritor Lúcio Cardoso e o papel do diplomata, demonstrando entendimento do tema proposto."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
     "versao": 3,
-    "essay": 4,
+    "essay": 1,
     "ano": "2015"
   },
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 28,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      ""
+      "Con..."
     ],
     "feedbacks": [
-      ","
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 28,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [
-      ","
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 28,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [
-      ","
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "conversao",
       "..."
     ],
-    "feedbacks": [
-      ""
-    ],
     "modelo": "gpt-oss-120b",
-    "prompt": 8,
+    "prompt": 7,
     "temp": 0.0,
     "versao": 1,
-    "essay": 5,
+    "essay": 2,
     "ano": "2015"
   },
   {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      "conversao",
+      "Con..."
+    ],
+    "feedbacks": [
       "..."
     ],
-    "feedbacks": [
-      ""
-    ],
     "modelo": "gpt-oss-120b",
-    "prompt": 8,
+    "prompt": 7,
     "temp": 0.0,
     "versao": 2,
-    "essay": 5,
+    "essay": 2,
     "ano": "2015"
   },
   {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      "conversao",
+      "Con..."
+    ],
+    "feedbacks": [
       "..."
     ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "]"
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "]"
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "]"
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
-    "essay": 6,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 7,
-    "erros_gramaticais": [
-      "conjugar verbo",
-      "acordo nominal"
-    ],
-    "feedbacks": [
-      "Coerência geral boa.",
-      "Argumentação bem desenvolvida."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 7,
-    "erros_gramaticais": [
-      "conjugar verbo",
-      "acordo nominal"
-    ],
-    "feedbacks": [
-      "Coerência geral boa.",
-      "Argumentação bem desenvolvida."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 7,
-    "erros_gramaticais": [
-      "conjugar verbo",
-      "acordo nominal"
-    ],
-    "feedbacks": [
-      "Coerência geral boa.",
-      "Argumentação bem desenvolvida."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 15,
-    "erros_gramaticais": [
-      ","
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 15,
-    "erros_gramaticais": [
-      ","
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 15,
-    "erros_gramaticais": [
-      ","
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
+    "essay": 2,
     "ano": "2015"
   },
   {
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "concordancia verbal",
-      "pontuacao"
-    ],
-    "feedbacks": [
-      "Coherence and structure ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "pontuacao"
-    ],
-    "feedbacks": [
-      "Coherence and structure ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "pontuacao"
-    ],
-    "feedbacks": [
-      "Coherence and structure ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta algumas falhas de organização e falta de aprofundamento na argumentação.",
+      "consonant",
       ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta algumas falhas de organização e falta de aprofundamento na argumentação.",
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta algumas falhas de organização e falta de aprofundamento na argumentação.",
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Falta falta ..."
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Falta falta ..."
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Falta falta ..."
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "Uso incorreto..."
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "Uso incorreto..."
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "Uso incorreto..."
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 9,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 9,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 9,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "consonant"
-    ],
-    "feedbacks": [
-      "Coherence",
-      "Clarity"
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 9,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "consonant"
-    ],
-    "feedbacks": [
-      "Coherence",
-      "Clarity"
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 9,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "consonant"
-    ],
-    "feedbacks": [
-      "Coherence",
-      "Clarity"
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 9,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a de maneira sequencial.",
-      "",
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 9,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a de maneira sequencial.",
-      "",
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 9,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a de maneira sequencial.",
-      "",
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 9,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [
-      ","
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 10,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [
-      ","
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 10,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [
-      ","
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 10,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 10,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 10,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 10,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 10,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 10,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 10,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 15,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [
-      ","
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 11,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 15,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [
-      ","
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 11,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 15,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [
-      ","
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 11,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "consonant"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
     "versao": 1,
-    "essay": 11,
+    "essay": 2,
     "ano": "2015"
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "consonant"
+      "consonant",
+      ""
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
     "versao": 2,
-    "essay": 11,
+    "essay": 2,
     "ano": "2015"
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "consonant"
+      "consonant",
+      ""
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
-    "essay": 11,
+    "essay": 2,
     "ano": "2015"
   },
   {
@@ -1519,7 +262,7 @@
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
-    "essay": 11,
+    "essay": 2,
     "ano": "2015"
   },
   {
@@ -1533,7 +276,7 @@
     "prompt": 9,
     "temp": 0.0,
     "versao": 2,
-    "essay": 11,
+    "essay": 2,
     "ano": "2015"
   },
   {
@@ -1547,435 +290,1745 @@
     "prompt": 9,
     "temp": 0.0,
     "versao": 3,
-    "essay": 11,
+    "essay": 2,
     "ano": "2015"
   },
   {
-    "nota_1A": 7.5,
-    "nota_1B": 8.0,
-    "nota_1C": 14.5,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      "",
-      ""
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 12,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7.5,
-    "nota_1B": 8.0,
-    "nota_1C": 14.5,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      "",
-      ""
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 12,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7.5,
-    "nota_1B": 8.0,
-    "nota_1C": 14.5,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      "",
-      ""
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 12,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...",
-      "]"
-    ],
-    "feedbacks": [
-      "Análise completa ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 12,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...",
-      "]"
-    ],
-    "feedbacks": [
-      "Análise completa ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 12,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...",
-      "]"
-    ],
-    "feedbacks": [
-      "Análise completa ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 12,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      ","
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 12,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      ","
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 12,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      ","
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 12,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "uso incorreto"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "uso incorreto"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "uso incorreto"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 44.2,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 44.2,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 44.2,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "faltou acento circunflexo em \"paran",
-      "acréscimo"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "faltou acento circunflexo em \"paran",
-      "acréscimo"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "faltou acento circunflexo em \"paran",
-      "acréscimo"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 5,
+    "nota_1A": 8,
     "nota_1B": 7,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 28,
+    "nota_1C": 6,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "concordancia",
-      "ortografia"
+      "ortografia",
+      "pontuacao"
     ],
     "feedbacks": [
-      "O ...",
       "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 6,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "concordancia",
+      "ortografia",
+      "pontuacao"
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 6,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "concordancia",
+      "ortografia",
+      "pontuacao"
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordancia verbal incorreta",
+      "uso inadequado de crase"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordancia verbal incorreta",
+      "uso inadequado de crase"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordancia verbal incorreta",
+      "uso inadequado de crase"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso inadequado de vírgula após \"assim\"",
+      "Concordancia verbal ?",
+      ""
+    ],
+    "feedbacks": [
+      "O texto demonstra forte consistência ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso inadequado de vírgula após \"assim\"",
+      "Concordancia verbal ?",
+      ""
+    ],
+    "feedbacks": [
+      "O texto demonstra forte consistência ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso inadequado de vírgula após \"assim\"",
+      "Concordancia verbal ?",
+      ""
+    ],
+    "feedbacks": [
+      "O texto demonstra forte consistência ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "concordancia",
+      "ortho"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "concordancia",
+      "ortho"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "concordancia",
+      "ortho"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "acento"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "acento"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "acento"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a ao longo de parágrafos sequenciais.",
+      "Mantém consistência temática ao relacionar conceitos do fragmento proposto",
+      "Utiliza recursos ​  \" "
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a ao longo de parágrafos sequenciais.",
+      "Mantém consistência temática ao relacionar conceitos do fragmento proposto",
+      "Utiliza recursos ​  \" "
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a ao longo de parágrafos sequenciais.",
+      "Mantém consistência temática ao relacionar conceitos do fragmento proposto",
+      "Utiliza recursos ​  \" "
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 28,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 28,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 28,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "conformidade"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "conformidade"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "conformidade"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "acentuacao"
+    ],
+    "feedbacks": [
+      "Coordenadas coordenadas ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "acentuacao"
+    ],
+    "feedbacks": [
+      "Coordenadas coordenadas ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordancia verbal",
+      "acentuacao"
+    ],
+    "feedbacks": [
+      "Coordenadas coordenadas ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta algumas falhas ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta algumas falhas ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta algumas falhas ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"",
+      "]"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"",
+      "]"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"",
+      "]"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [
+      "Texto apresenta boa organização textual e desenvolve o tema de forma clara e coerente",
+      "Ele ... etc.."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [
+      "Texto apresenta boa organização textual e desenvolve o tema de forma clara e coerente",
+      "Ele ... etc.."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [
+      "Texto apresenta boa organização textual e desenvolve o tema de forma clara e coerente",
+      "Ele ... etc.."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "consonant",
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "consonant",
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "consonant",
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto apresenta organização clara, introduzindo ideia central e desenvolvendo-a com argumentos consistentes.",
+      "Argumentação bem fundamentada, citando referências históricas e contemporâneas, demonstrando conhecimento aprofundado.",
+      "Coerência textual e uso de conectores apropriáveis."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto apresenta organização clara, introduzindo ideia central e desenvolvendo-a com argumentos consistentes.",
+      "Argumentação bem fundamentada, citando referências históricas e contemporâneas, demonstrando conhecimento aprofundado.",
+      "Coerência textual e uso de conectores apropriáveis."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto apresenta organização clara, introduzindo ideia central e desenvolvendo-a com argumentos consistentes.",
+      "Argumentação bem fundamentada, citando referências históricas e contemporâneas, demonstrando conhecimento aprofundado.",
+      "Coerência textual e uso de conectores apropriáveis."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "]",
+      ""
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "]",
+      ""
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "]",
+      ""
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso ..."
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso ..."
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso ..."
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]",
+      ""
+    ],
+    "feedbacks": [
+      "Análise completa ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]",
+      ""
+    ],
+    "feedbacks": [
+      "Análise completa ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]",
+      ""
+    ],
+    "feedbacks": [
+      "Análise completa ..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]"
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]"
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]"
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordancia verbal"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordancia verbal"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordancia verbal"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto apresenta organização clara, argumentos consistentes e boas referências bibliográficas.",
+      "Aponta bem‑cuidado de linguagem formal e uso correto da pontuação."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto apresenta organização clara, argumentos consistentes e boas referências bibliográficas.",
+      "Aponta bem‑cuidado de linguagem formal e uso correto da pontuação."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto apresenta organização clara, argumentos consistentes e boas referências bibliográficas.",
+      "Aponta bem‑cuidado de linguagem formal e uso correto da pontuação."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordancia verbal - \"para tato\" deveria ser \"para tanto\"",
+      "acento grave/tilde ausente em \"público\"?"
+    ],
+    "feedbacks": [
+      "O texto demonstra organização clara, introduzindo‑apresenta …",
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordancia verbal - \"para tato\" deveria ser \"para tanto\"",
+      "acento grave/tilde ausente em \"público\"?"
+    ],
+    "feedbacks": [
+      "O texto demonstra organização clara, introduzindo‑apresenta …",
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordancia verbal - \"para tato\" deveria ser \"para tanto\"",
+      "acento grave/tilde ausente em \"público\"?"
+    ],
+    "feedbacks": [
+      "O texto demonstra organização clara, introduzindo‑apresenta …",
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 5,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 28,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1985,17 +2038,19 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 5,
-    "nota_1B": 7,
-    "nota_1C": 12,
+    "nota_1A": 7,
+    "nota_1B": 5,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
-      "concordancia",
-      "ortografia"
+      ""
     ],
     "feedbacks": [
-      "O ...",
-      "..."
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -2005,17 +2060,19 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 5,
-    "nota_1B": 7,
-    "nota_1C": 12,
+    "nota_1A": 7,
+    "nota_1B": 5,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
-      "concordancia",
-      "ortografia"
+      ""
     ],
     "feedbacks": [
-      "O ...",
-      "..."
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -2074,8 +2131,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a ao longo do parágrafos.",
-      "Aponta …"
+      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a ao longo de vários parágrafos.",
+      "Aponta ‑    … ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -2089,8 +2146,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a ao longo do parágrafos.",
-      "Aponta …"
+      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a ao longo de vários parágrafos.",
+      "Aponta ‑    … ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -2104,8 +2161,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a ao longo do parágrafos.",
-      "Aponta …"
+      "O texto apresenta organização clara, introduzindo a ideia central logo no início e desenvolvendo-a ao longo de vários parágrafos.",
+      "Aponta ‑    … ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -2115,16 +2172,14 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 5,
-    "nota_1C": 3,
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
     "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      " ",
-      " ",
-      "]"
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -2133,16 +2188,14 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 5,
-    "nota_1C": 3,
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
     "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      " ",
-      " ",
-      "]"
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -2151,16 +2204,14 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 5,
-    "nota_1C": 3,
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
     "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      " ",
-      " ",
-      "]"
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
     ],
-    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -2169,55 +2220,55 @@
     "ano": "2015"
   },
   {
-  "nota_final":"57.30",
-  "numero_de_erros_gramaticais":5,
-  "erros_gramaticais":[
-    "consonant", "..."
-  ],
-  "feedbacks":[],
-  "modelo": "gpt-oss-120b",
-  "prompt": 8,
-  "temp": 0.0,
-  "versao": 1,
-  "essay": 16,
-  "ano": "2015"
-  },
-  {
-  "nota_final":"57.30",
-  "numero_de_erros_gramaticais":5,
-  "erros_gramaticais":[
-    "consonant", "..."
-  ],
-  "feedbacks":[],
-  "modelo": "gpt-oss-120b",
-  "prompt": 8,
-  "temp": 0.0,
-  "versao": 2,
-  "essay": 16,
-  "ano": "2015"
-  },
-  {
-  "nota_final":"57.30",
-  "numero_de_erros_gramaticais":5,
-  "erros_gramaticais":[
-    "consonant", "..."
-  ],
-  "feedbacks":[],
-  "modelo": "gpt-oss-120b",
-  "prompt": 8,
-  "temp": 0.0,
-  "versao": 3,
-  "essay": 16,
-  "ano": "2015"
-  },
-  {
-    "faixa": "Regular",
+    "nota_final": 57.3,
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "Uso de consonant d … ..."
+      "consonant"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "consonant"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "consonant"
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      ","
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -2227,13 +2278,13 @@
     "ano": "2015"
   },
   {
-    "faixa": "Regular",
+    "faixa": "Bom",
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "Uso de consonant d … ..."
+      ","
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -2243,13 +2294,13 @@
     "ano": "2015"
   },
   {
-    "faixa": "Regular",
+    "faixa": "Bom",
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "Uso de consonant d … ..."
+      ","
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,

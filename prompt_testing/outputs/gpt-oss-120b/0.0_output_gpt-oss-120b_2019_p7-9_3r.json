@@ -1,16 +1,12 @@
 [
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "con..."
-    ],
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 5.5,
+    "numero_de_erros_gramaticais": 28282822,
+    "erros_gramaticais": [],
     "feedbacks": [
-      "",
-      "",
-      ""
+      ","
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -20,17 +16,13 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "con..."
-    ],
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 5.5,
+    "numero_de_erros_gramaticais": 28282822,
+    "erros_gramaticais": [],
     "feedbacks": [
-      "",
-      "",
-      ""
+      ","
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -40,17 +32,13 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "con..."
-    ],
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 5.5,
+    "numero_de_erros_gramaticais": 28282822,
+    "erros_gramaticais": [],
     "feedbacks": [
-      "",
-      "",
-      ""
+      ","
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -63,8 +51,7 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "consonant",
-      ""
+      "consonantismo..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -78,8 +65,7 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "consonant",
-      ""
+      "consonantismo..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -93,8 +79,7 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "consonant",
-      ""
+      "consonantismo..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -108,11 +93,12 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal - \"um imp...\""
+      "concordancia verbal - \"um implict",
+      "acordo de gênero"
     ],
     "feedbacks": [
-      "O texto apresenta organização clara ...",
-      "..."
+      "O texto apresenta organização clara, introduzindo o assunto, desenvolvendo argumentos históricos e concluindo de modo sintético.",
+      "Os pontos críticos ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -125,11 +111,12 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal - \"um imp...\""
+      "concordancia verbal - \"um implict",
+      "acordo de gênero"
     ],
     "feedbacks": [
-      "O texto apresenta organização clara ...",
-      "..."
+      "O texto apresenta organização clara, introduzindo o assunto, desenvolvendo argumentos históricos e concluindo de modo sintético.",
+      "Os pontos críticos ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -142,11 +129,12 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal - \"um imp...\""
+      "concordancia verbal - \"um implict",
+      "acordo de gênero"
     ],
     "feedbacks": [
-      "O texto apresenta organização clara ...",
-      "..."
+      "O texto apresenta organização clara, introduzindo o assunto, desenvolvendo argumentos históricos e concluindo de modo sintético.",
+      "Os pontos críticos ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -158,11 +146,10 @@
   {
     "nota_1A": 5,
     "nota_1B": 8,
-    "nota_1C": 12,
+    "nota_1C": 6,
     "numero_de_erros_gramaticais": 27,
     "erros_gramaticais": [
-      "...",
-      ""
+      "..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -175,11 +162,10 @@
   {
     "nota_1A": 5,
     "nota_1B": 8,
-    "nota_1C": 12,
+    "nota_1C": 6,
     "numero_de_erros_gramaticais": 27,
     "erros_gramaticais": [
-      "...",
-      ""
+      "..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -192,11 +178,10 @@
   {
     "nota_1A": 5,
     "nota_1B": 8,
-    "nota_1C": 12,
+    "nota_1C": 6,
     "numero_de_erros_gramaticais": 27,
     "erros_gramaticais": [
-      "...",
-      ""
+      "..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -252,11 +237,10 @@
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "“... … ..."
+      "“Alberto da Costa e Silva” – nome próprio de ​ falta ser acento no sobrenome da cultura português",
+      "Uso do \"se\":[/"
     ],
-    "feedbacks": [
-      "O texto apresenta algumas falhas de organização..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -268,11 +252,10 @@
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "“... … ..."
+      "“Alberto da Costa e Silva” – nome próprio de ​ falta ser acento no sobrenome da cultura português",
+      "Uso do \"se\":[/"
     ],
-    "feedbacks": [
-      "O texto apresenta algumas falhas de organização..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -284,11 +267,10 @@
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "“... … ..."
+      "“Alberto da Costa e Silva” – nome próprio de ​ falta ser acento no sobrenome da cultura português",
+      "Uso do \"se\":[/"
     ],
-    "feedbacks": [
-      "O texto apresenta algumas falhas de organização..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -299,12 +281,11 @@
   {
     "nota_1A": 8,
     "nota_1B": 7,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "concordancia",
-      "ortografia",
-      "pontuacao"
+      "ortho..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -317,12 +298,11 @@
   {
     "nota_1A": 8,
     "nota_1B": 7,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "concordancia",
-      "ortografia",
-      "pontuacao"
+      "ortho..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -335,12 +315,11 @@
   {
     "nota_1A": 8,
     "nota_1B": 7,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "concordancia",
-      "ortografia",
-      "pontuacao"
+      "ortho..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -355,7 +334,7 @@
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "conformidades",
-      "prefigura"
+      "elidir"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -370,7 +349,7 @@
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "conformidades",
-      "prefigura"
+      "elidir"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -385,7 +364,7 @@
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "conformidades",
-      "prefigura"
+      "elidir"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -399,8 +378,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "]",
-      ""
+      "]"
     ],
     "feedbacks": [
       ""
@@ -416,8 +394,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "]",
-      ""
+      "]"
     ],
     "feedbacks": [
       ""
@@ -433,8 +410,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "]",
-      ""
+      "]"
     ],
     "feedbacks": [
       ""
@@ -447,15 +423,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 9,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 28,
+    "nota_1A": 7.5,
+    "nota_1B": 3,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [],
-    "feedbacks": [
-      "",
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -464,15 +437,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 9,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 28,
+    "nota_1A": 7.5,
+    "nota_1B": 3,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [],
-    "feedbacks": [
-      "",
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -481,15 +451,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 9,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 28,
+    "nota_1A": 7.5,
+    "nota_1B": 3,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [],
-    "feedbacks": [
-      "",
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -501,10 +468,10 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "Falta de c ..."
+      "Ort..."
     ],
     "feedbacks": [
-      "Análise ..."
+      "..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -517,10 +484,10 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "Falta de c ..."
+      "Ort..."
     ],
     "feedbacks": [
-      "Análise ..."
+      "..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -533,10 +500,10 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "Falta de c ..."
+      "Ort..."
     ],
     "feedbacks": [
-      "Análise ..."
+      "..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -549,11 +516,10 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      ","
+      "faltou vírgula antes \"\"",
+      "falta falta"
     ],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -565,11 +531,10 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      ","
+      "faltou vírgula antes \"\"",
+      "falta falta"
     ],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -581,11 +546,10 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      ","
+      "faltou vírgula antes \"\"",
+      "falta falta"
     ],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -594,10 +558,10 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 27,
+    "nota_1A": 7.5,
+    "nota_1B": 8.3,
+    "nota_1C": 6.9,
+    "numero_de_erros_gramaticais": 4545,
     "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -608,10 +572,10 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 27,
+    "nota_1A": 7.5,
+    "nota_1B": 8.3,
+    "nota_1C": 6.9,
+    "numero_de_erros_gramaticais": 4545,
     "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -622,10 +586,10 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 27,
+    "nota_1A": 7.5,
+    "nota_1B": 8.3,
+    "nota_1C": 6.9,
+    "numero_de_erros_gramaticais": 4545,
     "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -678,11 +642,11 @@
     "ano": "2019"
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "Texto muito bom"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -692,11 +656,11 @@
     "ano": "2019"
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "Texto muito bom"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -706,11 +670,11 @@
     "ano": "2019"
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      ""
+      "Texto muito bom"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -725,9 +689,7 @@
     "nota_1C": 0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -741,9 +703,7 @@
     "nota_1C": 0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -757,9 +717,7 @@
     "nota_1C": 0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -771,11 +729,10 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "ortho",
-      "..."
+      "Uso de \"à\" antes  ..."
     ],
     "feedbacks": [
-      "..."
+      "Análise completa ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -788,11 +745,10 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "ortho",
-      "..."
+      "Uso de \"à\" antes  ..."
     ],
     "feedbacks": [
-      "..."
+      "Análise completa ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -805,11 +761,10 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 5,
     "erros_gramaticais": [
-      "ortho",
-      "..."
+      "Uso de \"à\" antes  ..."
     ],
     "feedbacks": [
-      "..."
+      "Análise completa ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -822,11 +777,10 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso incorreto de crase antes de palavra masculina \"ao\" (crase não se aplica)",
-      "Falta de vírgula nas ‑  "
+      ":{"
     ],
     "feedbacks": [
-      "Apontar ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -839,11 +793,10 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso incorreto de crase antes de palavra masculina \"ao\" (crase não se aplica)",
-      "Falta de vírgula nas ‑  "
+      ":{"
     ],
     "feedbacks": [
-      "Apontar ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -856,11 +809,10 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso incorreto de crase antes de palavra masculina \"ao\" (crase não se aplica)",
-      "Falta de vírgula nas ‑  "
+      ":{"
     ],
     "feedbacks": [
-      "Apontar ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -872,12 +824,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 15,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ","
+    "erros_gramaticais": [
+      ""
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -888,12 +840,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 15,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ","
+    "erros_gramaticais": [
+      ""
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -904,12 +856,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 15,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ","
+    "erros_gramaticais": [
+      ""
     ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -964,7 +916,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a interpretação da obra de Guimarões ..."
+      "O texto apresenta organização clara, introduzindo a interpretação da \"terceira margem\" e desenvolvendo-a através de exemplos concretos (políticas públicas, iniciativas culturais, referências académicas).",
+      "Os argumentos são consistentes e mantêm‑se pertinentes ao tema proposto, mostrando boa capacidade de análise e síntese.",
+      "Há uso correto da norma culta, com poucas ocorrências menores — por exemplo, falta de vírgula antes \".\" ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -978,7 +932,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a interpretação da obra de Guimarões ..."
+      "O texto apresenta organização clara, introduzindo a interpretação da \"terceira margem\" e desenvolvendo-a através de exemplos concretos (políticas públicas, iniciativas culturais, referências académicas).",
+      "Os argumentos são consistentes e mantêm‑se pertinentes ao tema proposto, mostrando boa capacidade de análise e síntese.",
+      "Há uso correto da norma culta, com poucas ocorrências menores — por exemplo, falta de vírgula antes \".\" ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -992,7 +948,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a interpretação da obra de Guimarões ..."
+      "O texto apresenta organização clara, introduzindo a interpretação da \"terceira margem\" e desenvolvendo-a através de exemplos concretos (políticas públicas, iniciativas culturais, referências académicas).",
+      "Os argumentos são consistentes e mantêm‑se pertinentes ao tema proposto, mostrando boa capacidade de análise e síntese.",
+      "Há uso correto da norma culta, com poucas ocorrências menores — por exemplo, falta de vírgula antes \".\" ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,

@@ -1,13 +1,13 @@
 [
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
-      ", 'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')",
-      ", 'poder relativo do sistema internacional' (regência/preposição: o correto seria 'poder relativo no sistema internacional')"
+      "'nos âmbitos e regional e multilateral' -> erro de digitação/concordância ('no âmbito regional e multilateral' ou 'nos âmbitos regional e multilateral').",
+      "'O Brasil de no seio do G4' -> omissão de verbo ('defende', 'pleiteia').",
+      "'poder relativo do sistema internacional' -> preposição inadequada ('poder relativo NO sistema internacional')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -18,14 +18,14 @@
     "ano": "2020-2021"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
-      ", 'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')",
-      ", 'poder relativo do sistema internacional' (regência/preposição: o correto seria 'poder relativo no sistema internacional')"
+      "'nos âmbitos e regional e multilateral' -> erro de digitação/concordância ('no âmbito regional e multilateral' ou 'nos âmbitos regional e multilateral').",
+      "'O Brasil de no seio do G4' -> omissão de verbo ('defende', 'pleiteia').",
+      "'poder relativo do sistema internacional' -> preposição inadequada ('poder relativo NO sistema internacional')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -36,14 +36,14 @@
     "ano": "2020-2021"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
-      ", 'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')",
-      ", 'poder relativo do sistema internacional' (regência/preposição: o correto seria 'poder relativo no sistema internacional')"
+      "'nos âmbitos e regional e multilateral' -> erro de digitação/concordância ('no âmbito regional e multilateral' ou 'nos âmbitos regional e multilateral').",
+      "'O Brasil de no seio do G4' -> omissão de verbo ('defende', 'pleiteia').",
+      "'poder relativo do sistema internacional' -> preposição inadequada ('poder relativo NO sistema internacional')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -54,11 +54,10 @@
     "ano": "2020-2021"
   },
   {
-    "nota_final": 54.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
-      "'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')"
+      "...nos âmbitos e regional..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -69,11 +68,10 @@
     "ano": "2020-2021"
   },
   {
-    "nota_final": 54.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
-      "'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')"
+      "...nos âmbitos e regional..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -87,8 +85,7 @@
     "nota_final": 54.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
-      "'O Brasil de no seio do G4' (omissão de verbo: deveria ser 'O Brasil defende no seio do G4')"
+      "...nos âmbitos e regional..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -102,9 +99,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
-      ", o Brasil de no seio do G4 a ampliação' (omissão de verbo: deveria ser 'o Brasil defende no seio do G4')",
-      "'poder relativo do sistema internacional' (falta de preposição: deveria ser 'poder relativo no sistema internacional')"
+      "...nos âmbitos **e** regional e multilateral."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -118,9 +113,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
-      ", o Brasil de no seio do G4 a ampliação' (omissão de verbo: deveria ser 'o Brasil defende no seio do G4')",
-      "'poder relativo do sistema internacional' (falta de preposição: deveria ser 'poder relativo no sistema internacional')"
+      "...nos âmbitos **e** regional e multilateral."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -134,9 +127,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'nos âmbitos e regional e multilateral' (erro de digitação/concordância: deveria ser 'nos âmbitos regional e multilateral' ou 'nos âmbitos regional e multilateral')",
-      ", o Brasil de no seio do G4 a ampliação' (omissão de verbo: deveria ser 'o Brasil defende no seio do G4')",
-      "'poder relativo do sistema internacional' (falta de preposição: deveria ser 'poder relativo no sistema internacional')"
+      "...nos âmbitos **e** regional e multilateral."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -152,8 +143,8 @@
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são' (Erro de concordância verbal: o núcleo do sujeito é 'discurso', no singular. O correto seria 'O discurso... é' ou 'Os discursos... são').",
-      "'emprego da forca' (Erro de ortografia/digitação: o correto é 'força')."
+      "Concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são...' (O núcleo do sujeito é 'discurso', singular; deveria ser 'Os discursos... são' ou 'O discurso... é').",
+      "Ortografia/Digitação: 'proíbe o emprego da forca nas relações internacionais' (Uso de 'forca' [instrumento de execução] em vez de 'força' [poder coercitivo])"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -169,8 +160,8 @@
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são' (Erro de concordância verbal: o núcleo do sujeito é 'discurso', no singular. O correto seria 'O discurso... é' ou 'Os discursos... são').",
-      "'emprego da forca' (Erro de ortografia/digitação: o correto é 'força')."
+      "Concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são...' (O núcleo do sujeito é 'discurso', singular; deveria ser 'Os discursos... são' ou 'O discurso... é').",
+      "Ortografia/Digitação: 'proíbe o emprego da forca nas relações internacionais' (Uso de 'forca' [instrumento de execução] em vez de 'força' [poder coercitivo])"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -186,8 +177,8 @@
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são' (Erro de concordância verbal: o núcleo do sujeito é 'discurso', no singular. O correto seria 'O discurso... é' ou 'Os discursos... são').",
-      "'emprego da forca' (Erro de ortografia/digitação: o correto é 'força')."
+      "Concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são...' (O núcleo do sujeito é 'discurso', singular; deveria ser 'Os discursos... são' ou 'O discurso... é').",
+      "Ortografia/Digitação: 'proíbe o emprego da forca nas relações internacionais' (Uso de 'forca' [instrumento de execução] em vez de 'força' [poder coercitivo/militar])."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -210,7 +201,7 @@
     "ano": "2020-2021"
   },
   {
-    "nota_final": 54.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -222,7 +213,7 @@
     "ano": "2020-2021"
   },
   {
-    "nota_final": 54.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -236,8 +227,14 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros significativos de norma culta."
+    ],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O texto apresenta uma estrutura exemplar, com introdução, desenvolvimento e conclusão logicamente encadeados. O candidato demonstrou alta capacidade de síntese ao conectar os fragmentos históricos dos discursos de 1946 com eventos contemporâneos específicos (Guerra ao Terror, Crise de 2008 e Pandemia de COVID-19), respondendo precisamente ao comando de 'analisar a atualidade' dos argumentos. A argumentação é sólida, utilizando exemplos concretos para refutar a premissa da 'confiança nas grandes potências', transformando a análise teórica em uma discussão geopolítica pertinente.",
+      "**Linguagem e Gramática:** O domínio da norma padrão é evidente. O vocabulário é preciso, rico e adequado ao registro formal exigido pelo CACD. Há excelente uso de conectivos e transições entre parágrafos, garantindo a fluidez da leitura.",
+      "**Análise Temática:** O autor conseguiu articular a tensão entre a igualdade jurídica dos Estados e a desigualdade fática de poder (veto no CSNU), relacionando-a corretamente com a ascensão de novos polos de poder e a necessidade de reforma da governança global."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -248,7 +245,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros significativos de norma culta."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -260,8 +259,14 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros significativos de norma culta."
+    ],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O texto apresenta uma estrutura exemplar, com introdução, desenvolvimento e conclusão logicamente encadeados. O candidato demonstrou alta capacidade de síntese ao conectar os fragmentos históricos dos discursos de 1946 com eventos contemporâneos específicos (Guerra ao Terror, Crise de 2008 e Pandemia de COVID-19), respondendo precisamente ao comando de 'analisar a atualidade' dos argumentos. A argumentação é sólida, utilizando exemplos concretos para refutar a premissa da 'confiança nas grandes potências'.",
+      "**Domínio Temático:** Há um domínio evidente da história diplomática e das Relações Internacionais. O autor transita com segurança entre a teoria da governança global pós-1945 e a realidade da multipolaridade do século XXI, evidenciando a erosão do consenso inicial mencionado pelos embaixadores.",
+      "**Linguagem:** A redação utiliza vocabulário preciso, formal e adequado ao padrão exigido pelo CACD. A coesão textual é mantida por conectivos eficientes, garantindo fluidez à leitura."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -270,12 +275,12 @@
     "ano": "2020-2021"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Repetição indevida de palavras: 'Os trechos dos discursos dos discursos' (1º parágrafo)."
+      "Repetição vocabular ('dos discursos dos discursos') logo na primeira linha."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -286,12 +291,12 @@
     "ano": "2020-2021"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Repetição indevida de palavras: 'Os trechos dos discursos dos discursos' (1º parágrafo)."
+      "Repetição vocabular ('dos discursos dos discursos') logo na primeira linha."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -302,12 +307,12 @@
     "ano": "2020-2021"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Repetição indevida de palavras: 'Os trechos dos discursos dos discursos' (1º parágrafo)."
+      "Repetição vocabular ('dos discursos dos discursos') logo na primeira linha."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -321,13 +326,27 @@
     "nota_final": 52.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "repetição de palavras ('dos discursos dos discursos') no primeiro período."
+      "repetição de termo ('dos discursos dos discursos') no primeiro parágrafo"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
     "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição vocabular ('dos discursos dos discursos') logo na primeira linha."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
     "essay": 3,
     "ano": "2020-2021"
   },
@@ -335,21 +354,7 @@
     "nota_final": 52.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Repetição indevida de palavras: 'dos discursos dos discursos' no primeiro período."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2020-2021"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "repetição de palavras ('dos discursos dos discursos') no primeiro período."
+      "repetição de palavra ('dos discursos dos discursos') no primeiro período"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -363,7 +368,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Repetição indevida de palavras no início do texto: 'Os trechos dos discursos dos discursos...' (erro de digitação/revisão)."
+      "Repetição indevida ('dos discursos dos discursos') logo na primeira frase."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -377,7 +382,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Repetição indevida de palavras no início do texto: 'Os trechos dos discursos dos discursos...' (erro de digitação/revisão)."
+      "Repetição inadequada ('discursos dos discursos') logo na primeira frase."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -391,7 +396,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Repetição indevida de palavras no início do texto: 'Os trechos dos discursos dos discursos...' (erro de digitação/revisão)."
+      "Repetição inadequada ('discursos dos discursos') logo na primeira frase."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -405,9 +410,9 @@
     "nota_1A": 9.0,
     "nota_1B": 10.0,
     "nota_1C": 19.0,
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Uso de 'a nível global' (expressão considerada imprecisa/incorreta em contextos formais, preferindo-se 'em nível global' ou 'globalmente')"
+      "Nenhum erro identificado."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -421,9 +426,9 @@
     "nota_1A": 9.0,
     "nota_1B": 10.0,
     "nota_1C": 19.0,
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Uso de 'a nível global' (expressão considerada imprecisa/incorreta em contextos formais, preferindo-se 'em nível global' ou 'globalmente')"
+      "Nenhum erro identificado."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -437,9 +442,9 @@
     "nota_1A": 9.0,
     "nota_1B": 10.0,
     "nota_1C": 19.0,
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Uso de 'a nível global' (expressão considerada imprecisa/incorreta em contextos formais, preferindo-se 'em nível global' ou 'globalmente')"
+      "Nenhum erro identificado."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -450,7 +455,7 @@
     "ano": "2020-2021"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 56.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -462,7 +467,7 @@
     "ano": "2020-2021"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 56.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -474,7 +479,7 @@
     "ano": "2020-2021"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 56.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -488,8 +493,14 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Nenhum erro relevante detectado."
+    ],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O texto apresenta uma estrutura impecável, com introdução, desenvolvimento e conclusão organicamente ligados. O candidato demonstrou alta capacidade de síntese e análise ao conectar os fragmentos históricos fornecidos pelos enunciados (Souza Dantas e Leão Velloso) com a realidade contemporânea da política externa brasileira. A argumentação é robusta, utilizando referências precisas (Constituição de 1891, CF/88, Conferência de Haia, Grupo G4 e teoria de John Galtung) para embasar a discussão sobre a transição do 'espírito construtivo' para a exigência de reforma institucional.",
+      "**Domínio Temático:** Houve total aderência ao comando da questão. O autor discutiu cada elemento solicitado ('perturbador da paz', 'igualdade jurídica vs. veto', 'confiança nas potências') integrando-os a exemplos concretos de atuação brasileira (Missões de Paz, Comitê de Consolidação da Paz). A análise sobre a anacronia do Conselho de Segurança diante da multipolaridade demonstra maturidade intelectual e visão estratégica típica de diplomatas experientes.",
+      "**Linguagem e Gramática:** O registro é formal, preciso e elegante. O vocabulário é rico e adequado ao contexto do CACD, com excelente emprego de conectivos e fluidez textual. Não foram observadas falhas de concordância, regência ou pontuação que comprometam a leitura; pelo contrário, a escrita evidencia domínio pleno da norma culta."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -500,8 +511,14 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Nenhum erro relevante detectado."
+    ],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O texto apresenta uma estrutura impecável, com introdução, desenvolvimento e conclusão organicamente ligados. O candidato demonstrou alta capacidade de síntese e análise ao conectar os fragmentos históricos fornecidos pelos enunciados (Souza Dantas e Leão Velloso) com a realidade contemporânea da política externa brasileira. A argumentação é robusta, utilizando referências precisas (Constituição de 1891, CF/88, Conferência de Haia, Grupo G4 e teoria de John Galtung) para embasar a discussão sobre a transição do 'espírito construtivo' para a exigência de reforma institucional.",
+      "**Domínio Temático:** Houve total aderência ao comando da questão. O autor discutiu cada elemento solicitado ('perturbador da paz', 'igualdade jurídica vs. veto', 'confiança nas potências') integrando-os a exemplos concretos de atuação brasileira (Missões de Paz, Comitê de Consolidação da Paz). A análise sobre a anacronia do Conselho de Segurança diante da multipolaridade demonstra maturidade intelectual e visão estratégica típica de diplomatas experientes.",
+      "**Linguagem e Gramática:** O registro é formal, preciso e elegante. O vocabulário é rico e adequado ao contexto do CACD, com excelente emprego de conectivos e fluidez textual. Não foram observadas falhas de concordância, regência ou pontuação que comprometam a leitura; pelo contrário, a escrita evidencia domínio pleno da norma culta."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -512,8 +529,14 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Nenhum erro relevante detectado."
+    ],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O texto apresenta uma estrutura impecável, com introdução, desenvolvimento e conclusão organicamente ligados. O candidato demonstrou alta capacidade de síntese e análise ao conectar os fragmentos históricos fornecidos pelos enunciados (Souza Dantas e Leão Velloso) com a realidade contemporânea da política externa brasileira. A argumentação é robusta, utilizando referências precisas (Constituição de 1891, CF/88, Conferência de Haia, Grupo G4 e teoria de John Galtung) para embasar a discussão sobre a transição do 'espírito construtivo' para a exigência de reforma institucional.",
+      "**Domínio Temático:** Houve total aderência ao comando da questão. O autor discutiu cada elemento solicitado ('perturbador da paz', 'igualdade jurídica vs. veto', 'confiança nas potências') integrando-os a exemplos concretos de atuação brasileira (Missões de Paz, Comitê de Consolidação da Paz). A análise sobre a anacronia do Conselho de Segurança diante da multipolaridade demonstra maturidade intelectual e visão estratégica típica de diplomatas experientes.",
+      "**Linguagem e Gramática:** O registro é formal, preciso e elegante. O vocabulário é rico e adequado ao contexto do CACD, com excelente emprego de conectivos e fluidez textual. Não foram observadas falhas de concordância, regência ou pontuação que comprometam a leitura; pelo contrário, a escrita evidencia domínio pleno da norma culta."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -523,13 +546,11 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 9.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'qualquer um que perturba a paz' (falta de concordância verbal/modo: o correto seria 'perturbe', dado o sentido de repúdio a qualquer possibilidade)",
-      "'a aquela não era uma medida de adequada' (erro de digitação/sintaxe: 'de adequada')",
-      "'prevenção e o de tensionamento' (erro de sintaxe/digitação: 'o de tensionamento')"
+      "...que qualquer um que **perturba** a paz"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -541,13 +562,11 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 9.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'qualquer um que perturba a paz' (falta de concordância verbal/modo: o correto seria 'perturbe', dado o sentido de repúdio a qualquer possibilidade)",
-      "'a aquela não era uma medida de adequada' (erro de digitação/sintaxe: 'de adequada')",
-      "'prevenção e o de tensionamento' (erro de sintaxe/digitação: 'o de tensionamento')"
+      "...que qualquer um que **perturba** a paz"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -559,13 +578,11 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 9.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'qualquer um que perturba a paz' (falta de concordância verbal/modo: o correto seria 'perturbe', dado o sentido de repúdio a qualquer possibilidade)",
-      "'a aquela não era uma medida de adequada' (erro de digitação/sintaxe: 'de adequada')",
-      "'prevenção e o de tensionamento' (erro de sintaxe/digitação: 'o de tensionamento')"
+      "...que qualquer um que **perturba** a paz"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -576,7 +593,7 @@
     "ano": "2020-2021"
   },
   {
-    "nota_final": 54.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -588,11 +605,9 @@
     "ano": "2020-2021"
   },
   {
-    "nota_final": 54.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "Não detalhados conforme instrução."
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -602,11 +617,9 @@
     "ano": "2020-2021"
   },
   {
-    "nota_final": 54.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "Não detalhados conforme instrução."
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -618,8 +631,15 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto demonstra um domínio excepcional da proposta, integrando com precisão as citações dos embaixadores ao cenário contemporâneo da política externa brasileira.",
+      "A organização é rigorosa, com introdução clara, desenvolvimento segmentado por temas (reforma do CSNU, desarmamento e prevenção de conflitos) e conclusão sintetizadora.",
+      "A argumentação é profunda e tecnicamente embasada, citando corretamente instâncias como o G-4, o TPAN e a Resolução 1973 (Líbia), demonstrando conhecimento sólido de Relações Internacionais.",
+      "A linguagem é formal, polida e adequada ao padrão exigido pelo CACD, com excelente uso de conectivos e progressão textual."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -630,7 +650,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -642,7 +664,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -653,13 +677,13 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 9.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Repetição redundante de frase: 'Essa nova organização internacional impôs... uma mudança de paradigma' (repetição quase literal da frase anterior).",
-      "Pontuação: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' (uso de vírgula onde deveria haver ponto final ou ponto e vírgula, seguido de letra maiúscula).",
-      "Pontuação: 'Hoje, um CSNU mais justo, é, também, um CNU mais efetivo' (vírgula separando sujeito do predicado)."
+      "Repetição redundante de frase ('Essa nova organização internacional impôs... uma mudança de paradigma' logo após 'A Carta da ONU, contudo, ocasionou uma mudança de paradigma')",
+      "Pontuação inadequada/Erro de digitação ('resposta da comunidade internacional foi célere, O CSNU condenou...' - vírgula seguida de maiúscula)",
+      "Vírgula separando sujeito de predicado ('Hoje, um CSNU mais justo, é, também, um CNU mais efetivo.' - a primeira vírgula isola incorretamente o sujeito)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -671,13 +695,13 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 9.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Repetição redundante de frase: 'Essa nova organização internacional impôs... uma mudança de paradigma' (repetição quase literal da frase anterior).",
-      "Pontuação: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' (uso de vírgula onde deveria haver ponto final ou ponto e vírgula, seguido de letra maiúscula).",
-      "Pontuação: 'Hoje, um CSNU mais justo, é, também, um CNU mais efetivo' (vírgula separando sujeito do predicado)."
+      "Repetição redundante de frase ('Essa nova organização internacional impôs... uma mudança de paradigma' logo após 'A Carta da ONU, contudo, ocasionou uma mudança de paradigma')",
+      "Pontuação inadequada/Erro de digitação ('resposta da comunidade internacional foi célere, O CSNU condenou...' - vírgula seguida de maiúscula)",
+      "Vírgula separando sujeito de predicado ('Hoje, um CSNU mais justo, é, também, um CNU mais efetivo.' - a primeira vírgula isola incorretamente o sujeito)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -689,13 +713,13 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 9.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Repetição redundante de frase: 'Essa nova organização internacional impôs... uma mudança de paradigma' (repetição quase literal da frase anterior).",
-      "Pontuação: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' (uso de vírgula onde deveria haver ponto final ou ponto e vírgula, seguido de letra maiúscula).",
-      "Pontuação: 'Hoje, um CSNU mais justo, é, também, um CNU mais efetivo' (vírgula separando sujeito do predicado)."
+      "Repetição redundante de frase ('Essa nova organização internacional impôs... uma mudança de paradigma' logo após 'A Carta da ONU, contudo, ocasionou uma mudança de paradigma')",
+      "Pontuação inadequada/Erro de digitação ('resposta da comunidade internacional foi célere, O CSNU condenou...' - vírgula seguida de maiúscula)",
+      "Vírgula separando sujeito de predicado ('Hoje, um CSNU mais justo, é, também, um CNU mais efetivo.' - a primeira vírgula isola incorretamente o sujeito)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -744,7 +768,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -756,7 +782,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -768,7 +796,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,

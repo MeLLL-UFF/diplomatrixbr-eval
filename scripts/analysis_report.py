@@ -21,6 +21,7 @@ def print_full(df):
     pd.reset_option('display.expand_frame_repr')
 
 def main(num_runs, eval_path, human_path, model, year):
+    print(year)
     pd.set_option('future.no_silent_downcasting', True)
     root_path = os.getcwd()
     output_path = os.path.join(root_path, "prompt_testing", "reports", model, f"{model}_{year}_{num_runs}_runs")
@@ -63,14 +64,12 @@ def main(num_runs, eval_path, human_path, model, year):
     df_notas_normalizado = scaler.fit_transform(df_notas)
     df_notas_normalizado = pd.DataFrame(df_notas_normalizado, columns=df_notas.columns, index=df_notas.index)
 
-    print(df_notas_normalizado)
-
     # Gerando gráficos
     # 1. Distribuição de Notas
     with open(os.path.join(root_path, "prompt_testing", "prompts.yaml"), 'r', encoding='utf-8') as file:
         prompts_yaml = yaml.safe_load(file)
         prompts = prompts_yaml['prompts']
-    """
+
     plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
 
     # 2. Comparação entre Notas Geradas e Humanas
@@ -123,7 +122,7 @@ def main(num_runs, eval_path, human_path, model, year):
     plot_corr_heatmap(df_notas_normalizado, output_path, year)
 
     # Gerando resumo em markdown
-    md_content = f# Relatório de Avaliação: {model} - {num_runs} execuções
+    md_content = f"""# Relatório de Avaliação: {model} - {num_runs} execuções
 **Gerado em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}**
 
 ## 1. Distribuição de Notas
@@ -168,6 +167,7 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 
 ### Humano
 {df_human.describe().to_markdown()}
+"""
 
 
     # Salva apenas o arquivo .md
@@ -176,7 +176,7 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
         f.write(md_content)
 
     print(f"Relatório gerado com sucesso em: {output_path}")
-    """
+  
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--num_runs", type=int, required=True)

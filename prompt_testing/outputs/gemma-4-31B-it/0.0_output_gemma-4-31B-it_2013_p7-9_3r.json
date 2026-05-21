@@ -1,10 +1,12 @@
 [
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "...não se buscava eliminar as injustiças... (Erro de concordância verbal: 'não se buscavam' eliminates the passive voice construction where 'injustiças' is the subject)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -14,11 +16,13 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "...não se buscava eliminar as injustiças... (Erro de concordância verbal: 'não se buscavam' eliminates the passive voice construction where 'injustiças' is the subject)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -28,11 +32,13 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "...não se buscava eliminar as injustiças... (Erro de concordância verbal: 'não se buscavam' eliminates the passive voice construction where 'injustiças' is the subject)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -42,10 +48,12 @@
     "ano": "2013"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -54,10 +62,12 @@
     "ano": "2013"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -66,10 +76,12 @@
     "ano": "2013"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -80,8 +92,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "O texto é muito bem estruturado e demonstra plena compreensão do comando da questão, conseguindo articular a tensão entre a visão crítica/estruturalista (Texto I) e a visão institucional/multilateralista (Texto II).",
+      "A estratégia argumentativa de utilizar a tese de Samuel Huntington como 'moldura' (introduzindo-a no início e retomando-a na conclusão) confere ao texto uma coesão sofisticada e um sentido de unidade narrativa.",
+      "O candidato conseguiu transpor a simples comparação dos textos para uma análise histórica e diplomática, inserindo corretamente a trajetória do Brasil (da crítica aos termos de troca na década de 60 à liderança na OMC com Roberto Azevêdo).",
+      "Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o autor poderia ter aprofundado a discussão teórica sobre a 'deterioração dos termos de troca' mencionada no Texto I, explorando mais a fundo a natureza do conflito centro-periferia antes de saltar para a solução via multilateralismo, conferindo assim maior densidade analítica ao embate de ideias proposto pelos enunciados."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -92,8 +111,16 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "O texto é muito bem estruturado, apresentando introdução, desenvolvimento e conclusão claros, com um encadeamento lógico de ideias.",
+      "O candidato conseguiu integrar com sucesso os dois textos motivadores, contrastando a visão pessimista/estruturalista do Texto I (deterioração dos termos de troca) com a visão institucional/multilateralista do Texto II (gestão de Roberto Azevêdo na OMC).",
+      "Houve uma contextualização histórica pertinente, relacionando a evolução do pensamento econômico brasileiro e a mudança no cenário geopolítico (ascensão de BRICS) para justificar a transição entre as duas visões apresentadas no enunciado.",
+      "A utilização de referências externas (Samuel Huntington) serviu como moldura narrativa eficiente para abrir e fechar o texto, conferindo coesão ao conjunto.",
+      "Para atingir as faixas 'Excelente' ou 'Excepcional', o autor poderia ter aprofundado a análise teórica sobre a 'deterioração dos termos de troca' mencionada no Texto I, indo além da descrição histórica para discutir a natureza sistêmica dessas desigualdades."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -104,8 +131,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "O texto é muito bem estruturado e demonstra plena compreensão do comando da questão, conseguindo articular a tensão entre a visão crítica/estruturalista (Texto I) e a visão institucional/multilateralista (Texto II).",
+      "A estratégia argumentativa de utilizar a tese de Samuel Huntington como 'moldura' (introduzindo-a no início e retomando-a na conclusão) confere ao texto uma coesão sofisticada e um sentido de unidade narrativa.",
+      "O candidato conseguiu transpor a simples comparação dos textos para uma análise histórica e diplomática, inserindo corretamente a trajetória do Brasil, a questão dos termos de troca e a importância da liderança de Roberto Azevêdo na OMC.",
+      "Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o autor poderia ter aprofundado a discussão teórica sobre a 'deterioração dos termos de troca' mencionada no Texto I (citando, por exemplo, a Tese Prebisch-Singer) ou explorado com mais nuance as contradições persistentes do multilateralismo contemporâneo, indo além da descrição factual."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -114,9 +148,9 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
       "Concordância verbal: 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos' (O núcleo do sujeito é 'crescimento', exigindo o verbo no singular: 'não é obtido')."
@@ -130,9 +164,9 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
       "Concordância verbal: 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos' (O núcleo do sujeito é 'crescimento', exigindo o verbo no singular: 'não é obtido')."
@@ -146,9 +180,9 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
       "Concordância verbal: 'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos' (O núcleo do sujeito é 'crescimento', exigindo o verbo no singular: 'não é obtido')."
@@ -200,8 +234,14 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio avançado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto demonstra alta competência analítica e maturidade estilística, características essenciais para o CACD. O candidato conseguiu integrar organicamente os dois textos de apoio, transformando a discussão teórica (deterioração dos termos de troca vs. comércio como ferramenta de desenvolvimento) em uma análise contextualizada com exemplos concretos (UNCTAD, SGP, Rodada Doha e atuação brasileira na OMC).",
+      "A estrutura é exemplar: introdução clara, desenvolvimento progressivo que transita da teoria histórica para a prática geopolítica contemporânea e conclusão sintetizadora. Há um excelente uso de conectivos ('Entrementes', 'Hodiernamente', 'Ademais'), garantindo a fluidez e a coesão textual.",
+      "A argumentação é sólida e demonstra conhecimento técnico da agenda de comércio internacional, evitando generalizações e fundamentando a opinião solicitada no enunciado com fatos institucionais. A linguagem é formal, precisa e adequada ao cargo pretendido."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -212,8 +252,14 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio avançado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto demonstra alta competência analítica e maturidade estilística, características essenciais para o CACD. O candidato conseguiu integrar organicamente os dois textos de apoio, transformando a discussão teórica (deterioração dos termos de troca vs. comércio como ferramenta de desenvolvimento) em uma análise contextualizada com exemplos concretos (UNCTAD, SGP, Rodada Doha e atuação brasileira na OMC).",
+      "A estrutura é exemplar: introdução clara, desenvolvimento progressivo que transita da teoria histórica para a prática geopolítica contemporânea e conclusão sintetizadora. Há um excelente uso de conectivos ('Entrementes', 'Hodiernamente', 'Ademais'), garantindo a fluidez e a coesão textual.",
+      "A argumentação é sólida e demonstra conhecimento técnico da agenda de comércio internacional, evitando generalizações e fundamentando a opinião solicitada no enunciado com fatos institucionais. O vocabulário é rico e preciso, adequado ao registro formal exigido pela carreira diplomática."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -224,8 +270,14 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio avançado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente capacidade de síntese e análise, integrando organicamente os dois fragmentos propostos. O candidato não se limitou a resumir os textos, mas utilizou-os como ponto de partida para uma discussão teórica e histórica robusta, citando conceitos como a 'deterioração dos termos de troca' e instituições como a UNCTAD e a OMC.",
+      "A estrutura é primorosa, com progressão lógica clara: parte-se da dicotomia entre a natureza potencialmente predatória do comércio e sua função promotora de desenvolvimento, passa-se pela atuação do Estado brasileiro e culmina-se em uma perspectiva prospectiva sobre o multilateralismo.",
+      "A linguagem é formal, precisa e adequada ao padrão exigido para o CACD, evidenciando maturidade estilística e riqueza vocabular ('alvissareiras', 'espúrias', 'clivagem')."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -234,13 +286,13 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "contribuiu (erro de acentuação: 'contribuiu' não leva acento no 'u' final)",
-      "sub- desenvolvidos (erro de digitação/espaçamento indevido após o hífen)"
+      "contribuiu (acentuado incorretamente como 'contribüiu')",
+      "sub- desenvolvidos (espaço indevido após o hífen)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -251,13 +303,13 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "contribuiu (erro de acentuação: 'contribuiu' não leva acento no 'u' no pretérito perfeito do indicativo)",
-      "sub- desenvolvidos (erro de digitação/espaçamento indevido após o hífen)"
+      "contribuiu (acentuado incorretamente como 'contribüiu')",
+      "sub- desenvolvidos (espaço indevido após o hífen)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -268,13 +320,13 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "contribuiu (erro de acentuação: 'contribuiu' não leva acento no 'u' por ser oxítona terminada em 'u')",
-      "sub- desenvolvidos (erro de digitação/espaçamento indevido após o hífen)"
+      "contribuiu (acentuado incorretamente como 'contribúiu')",
+      "sub- desenvolvidos (espaço indevido após o hífen)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -286,10 +338,11 @@
   },
   {
     "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "contribuiu (acentuação)",
-      "sub- desenvolvidos (espaçamento/hifenização)"
+      "contribuiu (acentuação incorreta)",
+      "sub- desenvolvidos (espaçamento indevido após hífen)",
+      "uso inadequado de ponto e vírgula antes de 'por outro' (estilo/pontuação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -301,10 +354,11 @@
   },
   {
     "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "contribuiu (acentuação)",
-      "sub- desenvolvidos (espaçamento/hifenização)"
+      "contribuiu (acentuação incorreta)",
+      "sub- desenvolvidos (espaçamento indevido após hífen)",
+      "uso inadequado de ponto e vírgula antes de 'por outro' (estilo/pontuação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -316,10 +370,11 @@
   },
   {
     "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "contribuiu (acentuação)",
-      "sub- desenvolvidos (espaçamento/hifenização)"
+      "contribuiu (acentuação incorreta)",
+      "sub- desenvolvidos (espaçamento indevido após hífen)",
+      "uso inadequado de ponto e vírgula antes de 'por outro' (estilo/pontuação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -333,8 +388,8 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "contribuiu (erro de acentuação em 'contribuiu')",
-      "sub- desenvolvidos (erro de hifenização/espaçamento)"
+      "contribuiu (grafia incorreta: 'contribuíu')",
+      "sub- desenvolvidos (espaçamento indevido após o hífen)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -348,8 +403,8 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "contribuiu (erro de acentuação em 'contribuiu')",
-      "sub- desenvolvidos (erro de hifenização/espaçamento)"
+      "contribuiu (grafia incorreta como 'contribuíu')",
+      "sub- desenvolvidos (espaçamento indevido após o hífen)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -363,8 +418,8 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "contribuiu (erro de acentuação em 'contribuiu')",
-      "sub- desenvolvidos (erro de hifenização/espaçamento)"
+      "contribuiu (grafia incorreta como 'contribuíu')",
+      "sub- desenvolvidos (espaçamento indevido após o hífen)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -375,13 +430,14 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...'",
-      "Erro de concordância nominal: '...resultou em importantes conquista...'"
+      "Vírgula indevida separando sujeito de predicado ('...promoção da liberdade no intercâmbio mundial, tornou-se...' - parágrafo 1)",
+      "Erro de concordância nominal ('importantes conquista' - parágrafo 5)",
+      "Uso inadequado de preposição/regência ('influenciará no modo' - preferencialmente 'influenciará o modo', embora aceito em contextos informais, no padrão CACD é rigoroso)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -392,13 +448,14 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...'",
-      "Erro de concordância nominal: '...resultou em importantes conquista...'"
+      "Vírgula indevida separando sujeito de predicado ('...promoção da liberdade no intercâmbio mundial, tornou-se...' - parágrafo 1)",
+      "Erro de concordância nominal ('importantes conquista' - parágrafo 5)",
+      "Uso inadequado de preposição/regência ('influenciará no modo' - preferencialmente 'influenciará o modo', embora aceito em contextos informais, no padrão CACD é rigoroso)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -409,13 +466,14 @@
     "ano": "2013"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...'",
-      "Erro de concordância nominal: '...resultou em importantes conquista...'"
+      "Vírgula indevida separando sujeito de predicado ('...promoção da liberdade no intercâmbio mundial, tornou-se...' - parágrafo 1)",
+      "Erro de concordância nominal ('importantes conquista' - penúltimo parágrafo)",
+      "Uso inadequado de vírgulas/pontuação em sequências adverbiais longas"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -426,17 +484,16 @@
     "ano": "2013"
   },
   {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "vírgula separando sujeito de predicado ('...a promoção da liberdade no intercâmbio mundial, tornou-se...')",
-      "erro de concordância nominal ('...resultou em importantes conquista...')"
-    ],
-    "feedbacks": [],
+    "nota_final":"54.00",
+    "numero_de_erros_gramaticais":2,
+    "erros_gramaticais":[
+      "vírgula separando sujeito de predicado ('...promoção da liberdade no intercâmbio mundial, tornou-se...')",
+      "falta de plural em substantivo ('importantes conquista' em vez de 'conquistas')"
+      ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
-    "versao": 1,
+    "versao": 2,
     "essay": 4,
     "ano": "2013"
   },
@@ -444,8 +501,8 @@
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "vírgula separando sujeito de predicado ('...a promoção da liberdade no intercâmbio mundial, tornou-se...')",
-      "erro de concordância nominal ('...resultou em importantes conquista...')"
+      "vírgula separando sujeito de predicado ('...promoção da liberdade no intercâmbio mundial, tornou-se...')",
+      "falta de plural em substantivo ('importantes conquista' em vez de 'conquistas')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -459,8 +516,8 @@
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "vírgula separando sujeito de predicado ('...a promoção da liberdade no intercâmbio mundial, tornou-se...')",
-      "erro de concordância nominal ('...resultou em importantes conquista...')"
+      "vírgula separando sujeito de predicado ('...promoção da liberdade no intercâmbio mundial, tornou-se...')",
+      "falta de plural em substantivo ('importantes conquista' em vez de 'conquistas')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -474,9 +531,9 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...'",
-      "Erro de concordância nominal: '...resultou em importantes conquista...'",
-      "Uso de nota de rodapé (¹ e ²), prática incomum e geralmente desaconselhada em redações de concursos, embora não configure erro gramatical stricto sensu."
+      "Vírgula indevida separando sujeito de predicado ('...promoção da liberdade no intercâmbio mundial, tornou-se...' )",
+      "Erro de concordância nominal ('importantes conquista' em vez de 'conquistas')",
+      "Uso inadequado da preposição/regência ('influenciará no modo' - embora aceito coloquialmente, a norma culta rigorosa prefere 'influenciará o modo')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -490,9 +547,9 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...' (1º parágrafo).",
-      "Erro de concordância nominal: '...resultou em importantes conquista...' (4º parágrafo).",
-      "Uso de nota de rodapé/referência numérica (¹ e ²) em texto dissertativo, o que foge ao padrão formal de redações de concurso."
+      "Vírgula indevida separando sujeito de predicado ('...promoção da liberdade no intercâmbio mundial, tornou-se...' )",
+      "Erro de concordância nominal ('importantes conquista' em vez de 'conquistas')",
+      "Uso inadequado da preposição/regência ('influenciará no modo' - embora aceito coloquialmente, a norma culta rigorosa prefere 'influenciará o modo')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -506,9 +563,9 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Vírgula indevida separando sujeito de predicado: '...a promoção da liberdade no intercâmbio mundial, tornou-se...' (1º parágrafo).",
-      "Erro de concordância nominal: '...resultou em importantes conquista...' (4º parágrafo).",
-      "Uso de nota de rodapé/referência numérica (¹ e ²) em texto dissertativo, o que foge ao padrão formal de redações de concurso."
+      "Vírgula indevida separando sujeito de predicado ('...promoção da liberdade no intercâmbio mundial, tornou-se...' )",
+      "Erro de concordância nominal ('importantes conquista' em vez de 'conquistas')",
+      "Uso inadequado da preposição/regência ('influenciará no modo' - embora aceito coloquialmente, a norma culta rigorosa prefere 'influenciará o modo')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",

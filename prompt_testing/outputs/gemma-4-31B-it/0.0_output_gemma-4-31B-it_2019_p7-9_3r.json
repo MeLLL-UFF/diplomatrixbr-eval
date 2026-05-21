@@ -1,11 +1,11 @@
 [
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Falta de concordância nominal em 'construção de fábrica de medicamentos' (o ideal seria 'construção de fábricas' ou 'de uma fábrica')"
+      "Nenhum erro identificado."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -16,12 +16,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Falta de concordância nominal em 'construção de fábrica de medicamentos' (o ideal seria 'construção de fábricas' ou 'de uma fábrica')"
+      "Nenhum erro identificado."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -32,12 +32,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Falta de concordância nominal em 'construção de fábrica de medicamentos' (o ideal seria 'construção de fábricas' ou 'de uma fábrica')"
+      "Nenhum erro identificado."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -48,7 +48,7 @@
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -60,10 +60,12 @@
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -72,10 +74,12 @@
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -86,7 +90,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -98,7 +104,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -110,7 +118,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -120,14 +130,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "...o oceano que os separam... (Erro de concordância verbal: o oceano que os separa)",
-      "...partilham intereses... (Erro de ortografia: interesses)",
-      "...podese identificar... (Erro de ortografia/digitação: pode-se)"
+      "...oceano que os separam..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -138,14 +146,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "...o oceano que os separam... (Erro de concordância verbal: o oceano que os separa)",
-      "...partilham intereses... (Erro de ortografia: interesses)",
-      "...podese identificar... (Erro de ortografia/digitação: pode-se)"
+      "...oceano que os separam..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -156,14 +162,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "...o oceano que os separam... (Erro de concordância verbal: o oceano que os separa)",
-      "...partilham intereses... (Erro de ortografia: interesses)",
-      "...podese identificar... (Erro de ortografia/digitação: pode-se)"
+      "...oceano que os separam..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -174,11 +178,10 @@
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'oceano que os separam' (concordância verbal: o oceano que os separa)",
-      "'podese' (erro de digitação/ortografia: pode-se)"
+      "oceano que os separam"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -189,11 +192,11 @@
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'oceano que os separam' (concordância verbal: o oceano que os separa)",
-      "'podese' (erro de digitação/ortografia: pode-se)"
+      "oceano que os separam (concordância verbal)",
+      "podese (ortografia/digitação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -204,11 +207,11 @@
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'oceano que os separam' (concordância verbal: o oceano que os separa)",
-      "'podese' (erro de digitação/ortografia: pode-se)"
+      "oceano que os separam (concordância verbal)",
+      "podese (ortografia/digitação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -220,405 +223,485 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2019"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 56.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 56.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 56.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2019"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Ortografia: 'Shael' em vez de 'Sahel'."
+      "...oceano que os separam..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
-    "prompt": 7,
+    "prompt": 9,
     "temp": 0.0,
     "versao": 1,
-    "essay": 4,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...oceano que os separam..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...oceano que os separam..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
     "ano": "2019"
   },
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Ortografia: 'Shael' em vez de 'Sahel'."
+      "Nenhum erro identificado"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
+    "versao": 1,
+    "essay": 3,
     "ano": "2019"
   },
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Ortografia: 'Shael' em vez de 'Sahel'."
+      "Nenhum erro identificado"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro identificado"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
-    "essay": 4,
+    "essay": 3,
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 58.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível excepcional de articulação e maturidade intelectual. O candidato conseguiu realizar a síntese solicitada pelo enunciado — fundindo a visão geopolítica de Alberto da Costa e Silva com a abstração literária de Guimarães Rosa — transformando a 'terceira margem' em uma categoria analítica para descrever os entraves imateriais (históricos, políticos e socioculturais) às relações Brasil-África.",
+      "A fundamentação teórica e histórica é robusta, citando corretamente a PEI, a Conferência de Berlim, o Apartheid e instrumentos contemporâneos como a ZOPACAS e a CPLP, demonstrando amplo domínio do conteúdo programático exigido para o CACD.",
+      "Do ponto de vista formal, a redação é impecável. O vocabulário é preciso e erudito sem ser anacrônico, a progressão textual é fluida e a estrutura dissertativo-argumentativa cumpre rigorosamente seu papel, culminando em uma conclusão que amarra as referências iniciais."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro relevante detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível excepcional de articulação e maturidade intelectual. O candidato conseguiu realizar a síntese solicitada pelo enunciado — fundindo a visão geopolítica de Alberto da Costa e Silva com a abstração literária de Guimarães Rosa — transformando a 'terceira margem' em uma categoria analítica para descrever os entraves imateriais (históricos, ideológicos e socioculturais) às relações Brasil-África.",
+      "A fundamentação teórica e histórica é robusta, citando corretamente a PEI, a Conferência de Berlim, o Apartheid e instrumentos contemporâneos como a ZOPACAS e a CPLP, demonstrando amplo domínio do conteúdo programático exigido para o CACD.",
+      "Do ponto de vista formal, a redação é impecável. O vocabulário é preciso e erudito sem ser anacrônico, a progressão textual é fluida e a estrutura dissertativo-argumentativa cumpre rigorosamente seu papel, culminando em uma conclusão que amarra as referências iniciais."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ortografia/Digitação: 'América do SulÁfrica' (falta de hífen ou preposição intermediária)",
+      "Ortografia: 'Shael' (grafia correta: Sahel)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
     "temp": 0.0,
     "versao": 1,
     "essay": 4,
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ortografia/Digitação: 'América do SulÁfrica' (falta de hífen ou preposição intermediária)",
+      "Ortografia: 'Shael' (grafia correta: Sahel)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
-    "prompt": 8,
+    "prompt": 7,
     "temp": 0.0,
     "versao": 2,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
     "essay": 4,
     "ano": "2019"
   },
   {
     "nota_1A": 10.0,
     "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "tornandose (falta de hífen: tornando-se)",
-      "no entanto indaga-se (falta de vírgula após a conjunção adversativa 'no entanto')"
+      "Ortografia/Digitação: 'América do SulÁfrica' (falta de hífen ou preposição intermediária)",
+      "Ortografia: 'Shael' (grafia correta: Sahel)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
+    "versao": 3,
+    "essay": 4,
     "ano": "2019"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "tornandose (falta de hífen: tornando-se)",
-      "no entanto indaga-se (falta de vírgula após a conjunção adversativa 'no entanto')"
+      "Nenhum erro significativo detectado."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
-    "prompt": 7,
+    "prompt": 9,
     "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
+    "versao": 1,
+    "essay": 4,
     "ano": "2019"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 3,
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "'tornandose' (falta de hífen: tornando-se)",
-      "'. . . no entanto indaga-se' (falta de vírgula após a conjunção adversativa 'no entanto')",
-      "'. . . mecanismo por que' (uso incorreto do pronome relativo; o correto seria 'pelo qual' ou 'por meio do qual')"
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...termina o conto, sem desvelar... (Vírgula separando verbo de complemento/adjunto adverbial curto - erro de pontuação)",
+      "...tornandose... (Ausência de hífen em 'tornando-se' - erro de ortografia)",
+      "...no entanto indaga-se... (Ausência de vírgula após conjunção adversativa deslocada/inicial de oração - erro de pontuação)",
+      "...mecanismo por que... (Emprego incorreto de 'por que'; o correto seria 'pelo qual' ou 'por meio do qual' - erro de regência/coesão)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
     "versao": 1,
     "essay": 5,
     "ano": "2019"
   },
   {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 7.0,
+    "nota_1B": 6.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...termina o conto, sem desvelar..."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
-    "prompt": 8,
+    "prompt": 7,
     "temp": 0.0,
     "versao": 2,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2019"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
     "essay": 5,
     "ano": "2019"
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Formavamse (falta de hífen: Formavam-se)"
+      "...termina o conto, sem desvelar... (Vírgula separando verbo de complemento/adjunto adverbial curto - erro de pontuação)",
+      "...tornandose... (Ausência de hífen em 'tornando-se' - erro de ortografia)",
+      "...no entanto indaga-se... (Ausência de vírgula após conjunção adversativa deslocada/inicial de oração - erro de pontuação)",
+      "...mecanismo por que... (Emprego incorreto de 'por que'; o correto seria 'pelo qual' ou 'por meio do qual' - erro de regência/coesão)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "tornandose (falta de hífen)",
+      "no entanto indaga-se (ausência de vírgula após conjunção adversativa deslocada/inicial)",
+      "para parafrasear (repetição viciosa)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "tornandose",
+      "quando ocorreu a exposição... abaixo do quadro, se colocou (próclise inadequada após vírgula/pausa)",
+      "informações insuficientes sobre 'ausência de um' no trecho de Nabuco (lacuna sintática)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "tornandose",
+      "quando ocorreu a exposição... abaixo do quadro, se colocou",
+      "para parafrasear (uso inadequado da preposição/regência)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível de sofisticação argumentativa e estilística muito elevado, condizente com as exigências do CACD. O candidato conseguiu realizar a síntese complexa solicitada pelo enunciado, fundindo a dimensão geopolítica/histórica de Alberto da Costa e Silva com a dimensão existencial/metafórica de Guimarães Rosa.",
+      "A organização textual é exemplar, com progressão lógica clara e uso preciso de conectivos. A mobilização de referências interdisciplinares — transitando por Joaquim Nabuco, Conceição Evaristo, Heidegger, Darcy Ribeiro e Raul Bopp — demonstra erudição e capacidade de análise crítica, elevando a discussão para além do senso comum.",
+      "No aspecto linguístico, há total domínio da norma culta, com vocabulário rico e variado ('alijadas', 'intelecção', 'insólita'), mantendo a formalidade necessária sem prejudicar a fluidez.",
+      "A conclusão amarra com precisão a tese inicial, transformando a 'terceira margem' em um conceito dinâmico de construção identitária e compromisso ético-político."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível de sofisticação argumentativa e estilística muito elevado, condizente com as exigências do CACD. O candidato conseguiu realizar a síntese complexa solicitada pelo enunciado, fundindo a dimensão geopolítica/histórica de Alberto da Costa e Silva com a dimensão existencial/metafórica de Guimarães Rosa.",
+      "A organização textual é exemplar, com progressão lógica clara e uso preciso de conectivos. A mobilização de referências interdisciplinares — transitando por Joaquim Nabuco, Conceição Evaristo, Heidegger, Darcy Ribeiro e Raul Bopp — demonstra erudição e capacidade de análise crítica, elevando a discussão para além do senso comum.",
+      "No aspecto linguístico, há total domínio da norma culta, com vocabulário rico e variado ('alijadas', 'intelecção', 'insólita'), mantendo a formalidade e a precisão necessárias ao cargo diplomático.",
+      "A conclusão amarra com sucesso todas as pontas do texto, transformando a metáfora da 'terceira margem' em um projeto ético e político de reconhecimento das matrizes formadoras do Brasil."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível de sofisticação argumentativa e stylistica muito elevado, condizente com as exigências do CACD. O candidato conseguiu realizar a síntese complexa solicitada pelo enunciado, fundindo a dimensão geopolítica/histórica de Alberto da Costa e Silva com a dimensão existencial/metafórica de Guimarães Rosa.",
+      "A organização textual é exemplar, com progressão lógica clara e uso preciso de conectivos. A mobilização de referências interdisciplinares — transitando por Joaquim Nabuco, Conceição Evaristo, Heidegger, Darcy Ribeiro e Raul Bopp — demonstra erudição e capacidade de análise crítica, elevando a discussão para além do senso comum.",
+      "No aspecto linguístico, há total domínio da norma culta, com vocabulário rico e variado ('alijadas', 'intelecção', 'insólita'), mantendo a formalidade e a precisão necessárias ao cargo diplomático."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Formavamse (falta de hífen/acentuação correta: formavam-se)",
+      "reconhecimento... são marcos (erro de concordância verbal: 'O reconhecimento... é marco' ou 'Os reconhecimentos... são')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -629,13 +712,13 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'Formavamse' (falta de hífen: Formavam-se)",
-      "'O reconhecimento... são marcos' (erro de concordância verbal: o núcleo do sujeito é 'reconhecimento', logo o verbo deveria ser 'é marco' ou 'constitui marco')"
+      "Formavamse (falta de hífen/acentuação correta: formavam-se)",
+      "reconhecimento... são marcos (erro de concordância verbal: 'O reconhecimento... é marco' ou 'Os reconhecimentos... são')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -646,12 +729,13 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 10.0,
+    "nota_1A": 9.5,
     "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Formavamse (falta de hífen: Formavam-se)"
+      "Formavamse (falta de hífen/acentuação correta: formavam-se)",
+      "reconhecimento... são marcos (erro de concordância verbal: 'O reconhecimento... é marco' ou 'Os reconhecimentos... são')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -663,10 +747,8 @@
   },
   {
     "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Formavamse (falta de hífen em 'Formavam-se')"
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -702,7 +784,9 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -714,8 +798,15 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos."
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível elevadíssimo de sofisticação analítica e maturidade estilística, plenamente compatíveis com as exigências do CACD.",
+      "Houve uma interpretação brilhante e criativa do comando: o candidato não apenas citou as referências, mas construiu um modelo lógico rigoroso onde a 'primeira margem' representava a influência africana no Brasil, a 'segunda' a projeção brasileira na África e a 'terceira' — a resposta central ao enigma proposto — a inserção conjunta e coordenada de ambos no sistema internacional.",
+      "A progressão temporal e temática é impecável, partindo do período colonial/escravocrata, passando pela virada pragmática dos anos 1970 (Governos Médici e Geisel) e culminando nas instâncias contemporâneas de governança global (BRICS, ZOPACAS, CPLP e Reforma do CSNU).",
+      "A linguagem é formal, precisa e elegante, demonstrando domínio pleno da norma culta e excelente capacidade de encadeamento de ideias através de conectivos precisos."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -726,8 +817,15 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos."
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível elevadíssimo de sofisticação analítica e maturidade estilística, plenamente compatíveis com as exigências do CACD.",
+      "Houve uma interpretação brilhante e criativa do comando: o candidato não se limitou a citar as referências, mas construiu um modelo lógico rigoroso onde a 'primeira margem' (África no Brasil/escravidão), a 'segunda margem' (Brasil na África/cooperação bilateral) e a 'terceira margem' (inserção conjunta no mundo) formam a espinha dorsal de uma narrativa histórica e diplomática coerente.",
+      "A progressão textual é impecável, partindo da gênese traumática das relações, passando pela virada pragmática dos anos 1970 e culminando nas agendas contemporâneas de reforma da governança global (BRICS, CSNU).",
+      "O domínio da norma culta é pleno, com vocabulário preciso, uso elegante de conectivos e ritmo fluido, demonstrando segurança tanto na escrita quanto no conhecimento técnico de Política Externa Brasileira."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -736,12 +834,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "um 'terceira margem' (erro de concordância nominal no 4º parágrafo)"
+      "um 'terceira margem' (concordância nominal - gênero)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -752,12 +850,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "um 'terceira margem' (erro de concordância nominal no 4º parágrafo)"
+      "um 'terceira margem' (concordância nominal - gênero)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -768,12 +866,12 @@
     "ano": "2019"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "um 'terceira margem' (erro de concordância nominal no 4º parágrafo)"
+      "um 'terceira margem' (concordância nominal - gênero)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -784,7 +882,7 @@
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -796,7 +894,7 @@
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -808,7 +906,7 @@
     "ano": "2019"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -822,7 +920,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -834,7 +934,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -846,7 +948,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,

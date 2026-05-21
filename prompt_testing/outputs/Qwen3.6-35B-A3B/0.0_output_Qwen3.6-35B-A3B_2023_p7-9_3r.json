@@ -3,15 +3,16 @@
     "nota_1A": 9.0,
     "nota_1B": 9.0,
     "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "cada ator escutaria... os seus colega.",
-      "crescimento econômico  ou miséria"
+      "crescimento econômico  ou",
+      "Desafios globais"
     ],
     "feedbacks": [
-      "O texto demonstra boa estrutura e clareza, mas algumas expressões soam repetitivas ou pouco idiomáticas ('atendimento dos pleitos', 'no domínio').",
-      "As ideias estão organizadas, mas faltou explorar mais profundamente a relação direta entre a ética da IA e a prática diplomática contemporânea.",
-      "Houve tentativa de análise crítica, porém ficou superficial em momentos-chave; ideal seria conectar mais fortemente os exemplos aos conceitos de IR."
+      "O texto demonstra boa estruturação e clareza expositiva...",
+      "Apresenta argumentos pertinentes e relevantes...",
+      "Demonstra capacidade analítica sólida..."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -24,10 +25,11 @@
     "nota_1A": 9.0,
     "nota_1B": 9.0,
     "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "cada ator escutaria... os seus colega.",
-      "crescimento econômico  ou miséria"
+      "crescimento econômico  ou",
+      "Desafios globais"
     ],
     "feedbacks": [
       "O texto demonstra boa estruturação e clareza expositiva...",
@@ -45,15 +47,16 @@
     "nota_1A": 9.0,
     "nota_1B": 9.0,
     "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "cada ator escutaria... os seus colega.",
-      "crescimento econômico  ou miséria"
+      "crescimento econômico  ou",
+      "Desafios globais"
     ],
     "feedbacks": [
-      "O texto demonstra boa estrutura e clareza, mas algumas expressões soam repetitivas ou pouco idiomáticas ('atendimento dos pleitos', 'no domínio').",
-      "As ideias estão organizadas, mas faltou explorar mais profundamente a relação direta entre a recomendação da UNESCO e os mecanismos específicos de ação diplomática mencionados.",
-      "Houve tentativa de análise crítica, porém a conexão entre os exemplos citados e a teoria das Relações Internacionais poderia ter sido mais densa."
+      "O texto demonstra boa estruturação e clareza expositiva...",
+      "Apresenta argumentos pertinentes e relevantes...",
+      "Demonstra capacidade analítica sólida..."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -66,7 +69,7 @@
     "nota_final": 59.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "seus colegas"
+      "cada ator escutaria, em seu idioma nativo, os seus colegas."
     ],
     "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
@@ -80,7 +83,7 @@
     "nota_final": 59.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "seus colegas"
+      "cada ator escutaria, em seu idioma nativo, os seus colegas."
     ],
     "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
@@ -94,49 +97,13 @@
     "nota_final": 59.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "seus colegas"
+      "cada ator escutaria, em seu idioma nativo, os seus colegas."
     ],
     "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
-    "essay": 1,
-    "ano": "2023"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "cada ator escutaria... os seus colega."
-    ],
-    "feedbacks": [
-      "O texto demonstra excelente organização e desenvolvimento do tema.",
-      "Há um pequeno erro gramatical ('seus colega' deveria ser 'seus colegas').",
-      "A análise é profunda, articulada e mostra domínio avançado do tema."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 1,
-    "ano": "2023"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "cada ator escutaria... os seus colega."
-    ],
-    "feedbacks": [
-      "O texto demonstra excelente organização e desenvolvimento do tema.",
-      "Há um pequeno erro gramatical ('seus colega' deveria ser 'seus colegas').",
-      "A análise é profunda, articulada e mostra domínio avançado do tema."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
     "essay": 1,
     "ano": "2023"
   },
@@ -154,6 +121,42 @@
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "cada ator escutaria... os seus colega."
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema.",
+      "Há um pequeno erro gramatical ('seus colega' deveria ser 'seus colegas').",
+      "A análise é profunda, articulada e mostra domínio avançado do tema."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "cada ator escutaria... os seus colega."
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente organização e desenvolvimento do tema.",
+      "Há um pequeno erro gramatical ('seus colega' deveria ser 'seus colegas').",
+      "A análise é profunda, articulada e mostra domínio avançado do tema."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
     "versao": 3,
     "essay": 1,
     "ano": "2023"
@@ -164,14 +167,14 @@
     "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "concordância nominal ('avanços... têm' vs 'contribuiram')",
+      "concordância nominal ('O surgimento... contribuíram')",
       "regência verbal/preposicional ('contra à humanidade')",
-      "uso inadequado de vírgula antes de oração subordinada adverbial concessiva"
+      "uso indevido de vírgula antes de 'de maneira'"
     ],
     "feedbacks": [
-      "O texto demonstra boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento organizado em tópicos lógicos e conclusão coesa.",
-      "Há domínio razoável do repertório sociocultural, mas algumas conexões conceituais poderiam ser mais profundas e menos genéricas.",
-      "Os argumentos apresentados são pertinentes ao tema, embora haja repetição excessiva de ideias e pouca originalidade analítica."
+      "Texto coeso e fluido, mas com repetição excessiva do sujeito.",
+      "Argumentação pertinente, porém superficial nos exemplos específicos de impacto diplomático.",
+      "Análise correta, mas falta profundidade crítica sobre dilemas éticos e geopolíticos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -186,14 +189,14 @@
     "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "concordância nominal ('avanços... têm' vs 'contribuiram')",
+      "concordância nominal ('O surgimento... contribuíram')",
       "regência verbal/preposicional ('contra à humanidade')",
-      "uso inadequado de vírgula antes de oração subordinada adverbial concessiva"
+      "uso inadequado de 'de maneira que'"
     ],
     "feedbacks": [
-      "O texto demonstra boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento organizado em tópicos lógicos e conclusão coesa.",
-      "Há domínio razoável do repertório sociocultural, mas algumas conexões conceituais poderiam ser mais profundas.",
-      "Os argumentos são pertinentes e bem articulados, embora haja repetição excessiva de estruturas sintáticas."
+      "Texto coeso e fluido, mas com repetição excessiva do sujeito.",
+      "Argumentação pertinente, porém superficial nos exemplos específicos de impacto direto na rotina diplomática.",
+      "Análise correta, mas falta profundidade crítica sobre dilemas éticos intrínsecos à IA."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -208,14 +211,14 @@
     "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "concordância nominal ('avanços... têm' vs 'contribuiram')",
+      "concordância nominal ('O surgimento... contribuíram')",
       "regência verbal/preposicional ('contra à humanidade')",
-      "uso inadequado de vírgula antes de oração subordinada adverbial concessiva"
+      "uso indevido de 'deve-se' + oração subordinada ('cabe ... regulamentar', mas o erro principal foi identificado na concordância anterior; ajustei para focar nos três claros"
     ],
     "feedbacks": [
-      "O texto demonstra boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento organizado em tópicos lógicos e conclusão coesa.",
-      "Há repetição excessiva da expressão \"inteligência artificial\" nos primeiros períodos de cada parágrafo, o que poderia ser mitigado com o uso de sinônimos ou pronomes.",
-      "As ideias estão bem encadeadas, mas algumas transições poderiam ser mais fluidas."
+      "Texto coeso, com boa progressão temática.",
+      "Argumentação sólida, embora algumas ideias possam ser mais aprofundadas.",
+      "Análise reflexiva presente, conectando IA, diplomacia e direitos humanos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -226,17 +229,11 @@
   },
   {
     "nota_final": 59.5,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "contra à humanidade -> contra-humanidade / contra a humanidade",
-      "contribuirão -> contribuíram"
+      "contra à humanidade"
     ],
-    "feedbacks": [
-      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
-      "Uso adequado de referências teóricas (Milton Santos) e exemplos históricos/geográficos relevantes (Primavera Árabe, Brexit, Rohingya, TPI, Amazônia).",
-      "Conexão forte entre IA, diplomacia, direitos humanos e meio ambiente, atendendo plenamente ao enunciado.",
-      "Pequenos deslizes gramaticais presentes, mas sem comprometer a fluidez ou a compreensão geral."
-    ],
+    "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
@@ -246,17 +243,11 @@
   },
   {
     "nota_final": 59.5,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "contra à humanidade -> contra-humanidade / contra a humanidade",
-      "contribuirão -> contribuíram"
+      "contra à humanidade"
     ],
-    "feedbacks": [
-      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
-      "Uso adequado de referências teóricas (Milton Santos) e exemplos históricos/geográficos relevantes (Primavera Árabe, Brexit, Rohingya, Ucrânia, Amazônia).",
-      "Conexão forte entre IA, diplomacia, direitos humanos e meio ambiente, atendendo plenamente ao enunciado.",
-      "Pequenos deslizes gramaticais presentes, mas sem comprometer significativamente a qualidade geral."
-    ],
+    "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
@@ -266,40 +257,15 @@
   },
   {
     "nota_final": 59.5,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "contra à humanidade -> contra-humanidade / contra a humanidade",
-      "contribuirão -> contribuíram"
+      "contra à humanidade"
     ],
-    "feedbacks": [
-      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
-      "Uso adequado de referências teóricas (Milton Santos) e exemplos históricos/geográficos relevantes (Primavera Árabe, Brexit, Rohingya, Ucrânia, Amazônia).",
-      "Conexão forte entre IA, diplomacia, direitos humanos e meio ambiente, atendendo plenamente ao enunciado.",
-      "Pequenos deslizes gramaticais presentes, mas sem comprometer significativamente a qualidade geral."
-    ],
+    "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
-    "essay": 2,
-    "ano": "2023"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "contra à humanidade -> contra a humanidade",
-      "contribuíram -> contribui"
-    ],
-    "feedbacks": [
-      "O texto demonstra organização clara e progressão temática adequada.",
-      "Há exemplos pertinentes relacionados à diplomacia, embora algumas conexões possam ser mais refinadas.",
-      "Apresenta dois erros gramaticais menores."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
     "essay": 2,
     "ano": "2023"
   },
@@ -317,7 +283,7 @@
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
-    "versao": 2,
+    "versao": 1,
     "essay": 2,
     "ano": "2023"
   },
@@ -331,6 +297,25 @@
     "feedbacks": [
       "O texto demonstra organização clara e progressão temática adequada.",
       "Há exemplos pertinentes relacionados à diplomacia, embora algumas conexões possam ser mais refinadas.",
+      "Apresenta dois erros gramaticais menores."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contra à humanidade -> contra a humanidade",
+      "contribuíram -> contribui"
+    ],
+    "feedbacks": [
+      "O texto demonstra organização clara e progressão temática adequada.",
+      "Há exemplos pertinentes e contextualizados, embora algumas conexões possam ser aprimoradas.",
       "Apresenta dois erros gramaticais menores."
     ],
     "modelo": "Qwen3.6-35B-A3B",
@@ -352,7 +337,7 @@
     "feedbacks": [
       "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo argumentos positivos e negativos, e concluindo adequadamente.",
       "As ideias estão bem articuladas, mas algumas repetições podem ser evitadas para melhorar a fluidez.",
-      "A análise é pertinente, embora falte profundidade crítica em relação aos riscos éticos mencionados no enunciado."
+      "A análise é pertinente, embora poderia explorar mais profundamente questões éticas mencionadas no enunciado."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -373,7 +358,7 @@
     "feedbacks": [
       "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo argumentos positivos e negativos, e concluindo adequadamente.",
       "As ideias estão bem articuladas, mas algumas repetições podem ser evitadas para melhorar a fluidez.",
-      "A análise é pertinente, embora falte profundidade em relação aos riscos éticos mencionados no enunciado."
+      "A análise é pertinente, embora poderia explorar mais profundamente questões éticas mencionadas no enunciado."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -392,9 +377,9 @@
       "preferência do pesqui sador"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e progressão lógica entre os parágrafos.",
-      "Há boa articulação entre ideias, embora algumas repetições possam ser evitadas.",
-      "As referências à UNESCO foram integradas adequadamente ao argumento central."
+      "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo argumentos positivos e negativos, e concluindo adequadamente.",
+      "As ideias estão bem articuladas, mas algumas repetições podem ser evitadas para melhorar a fluidez.",
+      "A análise é pertinente, embora poderia explorar mais profundamente questões éticas mencionadas no enunciado."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -501,7 +486,7 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 9.5,
+    "nota_1B": 9.0,
     "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
@@ -511,8 +496,8 @@
     ],
     "feedbacks": [
       "Texto coeso, fluido e formal.",
-      "Argumentação sólida e pertinente.",
-      "Análise crítica relevante, embora algumas ideias possam ser mais exploradas."
+      "Argumentação clara e pertinente.",
+      "Análise reflexiva, porém poderia explorar mais nuances."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -527,9 +512,9 @@
     "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "impactos negativos aumentam",
-      "potencial positivos",
-      "compartilhamento"
+      "concordância nominal",
+      "regência verbal/preposicional",
+      "ortografia"
     ],
     "feedbacks": [
       "Texto coeso, fluido e formal.",
@@ -549,9 +534,9 @@
     "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "impactos negativos aumentam",
-      "potencial positivos",
-      "compartilhamento"
+      "impactos negativos aumentarem",
+      "compartilhados",
+      "instrumentos"
     ],
     "feedbacks": [
       "Texto coeso, fluido e formal.",
@@ -567,17 +552,9 @@
   },
   {
     "nota_final": 59.5,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "impactos negativos aumentam -> impacto negativo aumenta",
-      "potencial positivos -> potencial positivo"
-    ],
-    "feedbacks": [
-      "Texto estruturado logicamente, com introdução clara, desenvolvimento organizado em tópicos específicos (diplomacia pública, articulação intersetorial, riscos geopolíticos e necessidade de governança)",
-      "Uso adequado de conectivos e vocabulário formal, demonstrando domínio da norma culta",
-      "Argumentação sólida, articulando bem o texto-base com questões contemporâneas da diplomacia brasileira e internacional",
-      "Pequenos deslizes gramaticais (concordância nominal e verbal) não comprometem significativamente a fluidez ou a compreensão geral"
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
@@ -589,11 +566,7 @@
     "nota_final": 59.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      "Texto extremamente coeso e coerente.",
-      "Argumentação sólida e bem estruturada.",
-      "Uso excelente de vocabulário técnico e formal."
-    ],
+    "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
@@ -603,18 +576,9 @@
   },
   {
     "nota_final": 59.5,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "impactos negativos aumentam -> impacto negativo aumenta",
-      "potencial positivos -> potencial positivo"
-    ],
-    "feedbacks": [
-      "Texto estruturado logicamente, com introdução clara, desenvolvimento organizado em tópicos específicos (diplomacia pública, articulação intersetorial, riscos geopolíticos e necessidade de governança)",
-      "Uso adequado de conectivos e coesão textual",
-      "Linguagem formal e adequada ao registro acadêmico/diplomático",
-      "Dois pequenos deslizes gramaticais identificados: 'impactos negativos aumentam' deveria ser 'impacto negativo aumenta' (concordância verbal/nominal) e 'potencial positivos' deveria ser 'potencial positivo'",
-      "Conteúdo relevante e bem fundamentado, citando fontes e exemplos concretos"
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
@@ -644,8 +608,9 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "Texto articula de forma clara e profunda os impactos positivos e negativos da IA na diplomacia.",
-      "Demonstração de conhecimento específico relevante (exemplos históricos, citações, referências institucionais).",
-      "Estrutura lógica robusta, com introdução contextualizadora, desenvolvimento equilibrado e conclusão sintética."
+      "Demonstração de conhecimento sólido sobre temas contemporâneos, como governança de dados, cooperação internacional e desigualdades globais.",
+      "Uso eficaz de referências teóricas e institucionais (UNESCO, ONU, G77, CBERS, etc.).",
+      "Estrutura lógica e progressão temática bem construídas, com introdução, desenvolvimento e conclusão articulados."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -660,8 +625,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "Texto articula de forma clara e profunda os impactos positivos e negativos da IA na diplomacia.",
-      "Demonstração de conhecimento específico relevante (exemplos históricos, citações, referências institucionais).",
-      "Estrutura lógica robusta, com introdução contextualizadora, desenvolvimento equilibrado e conclusão sintética."
+      "Demonstração de conhecimento específico relevante (exemplos de satélites CBERS, cooperação triangular, G77, etc.).",
+      "Uso eficaz de referências externas (UNESCO, Kofi Annan) integradas organicamente ao argumento central."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -674,15 +639,17 @@
     "nota_1A": 9.0,
     "nota_1B": 9.0,
     "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "uso indevido de 'a' antes de verbo",
-      "data incorreta"
+      "Apesar de uso",
+      "a exemplo da acentuação",
+      "conforme recomendado pela UNESCO, em 2011."
     ],
     "feedbacks": [
-      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado em blocos lógicos e conclusão sintética.",
-      "Argumentação sólida e pertinente, conectando diretamente a IA à prática diplomática (negociação, análise de sentimento, desigualdade digital).",
-      "Análise reflexiva demonstra maturidade crítica, equilibrando otimismo tecnológico com cautela regulatória, embora falte profundidade teórica adicional."
+      "O texto apresenta estrutura clara, introdução, desenvolvimento e conclusão bem definidas.",
+      "Há boa capacidade de argumentação, com argumentos pertinentes e organizados.",
+      "A análise é reflexiva, mas poderia explorar mais nuances sobre os desafios éticos específicos da diplomacia.",
+      "Erros gramaticais incluem problemas de crase/regência ('de uso'), preposição ('da acentuação') e factual/concordância temporal ('UNESCO, em 2011')."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -697,13 +664,13 @@
     "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "uso indevido de 'a' antes de verbo",
-      "data incorreta"
+      "uso indevido de 'a' antes de oração subordinada substantiva",
+      "concordância nominal"
     ],
     "feedbacks": [
-      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado em blocos lógicos e conclusão sintética.",
-      "Argumentação sólida e pertinente, conectando diretamente a IA à prática diplomática (negociação, análise de sentimento, desigualdade digital).",
-      "Análise reflexiva demonstra maturidade crítica, equilibrando otimismo tecnológico com cautela regulatória, embora falte profundidade teórica adicional."
+      "O texto apresenta estrutura clara, introdução, desenvolvimento e conclusão bem definidas.",
+      "Há boa capacidade de argumentação, com argumentos pertinentes e relevantes.",
+      "A análise e reflexão são boas, mas poderiam ser mais profundas em alguns aspectos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -718,13 +685,13 @@
     "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "uso indevido de 'a' antes de verbo",
-      "data incorreta"
+      "uso indevido de 'a' antes de oração subordinada substantiva",
+      "concordância nominal"
     ],
     "feedbacks": [
-      "Texto muito bem estruturado, com introdução clara, desenvolvimento organizado em blocos lógicos e conclusão sintética.",
-      "Argumentação sólida e pertinente, conectando diretamente a IA à prática diplomática (negociação, análise de sentimento, desigualdade digital).",
-      "Análise reflexiva demonstra maturidade crítica, equilibrando otimismo tecnológico com cautela regulatória, embora falte profundidade teórica adicional."
+      "O texto apresenta estrutura clara, introdução, desenvolvimento e conclusão bem definidas.",
+      "Há boa articulação entre os argumentos, mas algumas transições poderiam ser mais fluidas.",
+      "As ideias são pertinentes ao tema, embora haja repetição de conceitos em alguns trechos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -766,6 +733,26 @@
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Apesar de uso das técnicas...",
+      "...qualitativamente similares àqueles..."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, dividida em introdução, desenvolvimento e conclusão.",
+      "Há uma tentativa de abordar tanto os impactos positivos quanto os negativos da IA na diplomacia, atendendo parcialmente ao pedido do enunciado.",
+      "Os argumentos são desenvolvidos de forma lógica, embora algumas conexões possam ser aprimoradas.",
+      "Existem pequenos deslizes gramaticais, como 'Apesar de uso' (deveria ser 'Apesar do uso') e 'similares àqueles', que poderiam ser ajustados para melhorar a precisão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
     "essay": 5,
     "ano": "2023"
   },
@@ -781,26 +768,6 @@
       "Há uma tentativa de abordar tanto os impactos positivos quanto os negativos da IA na diplomacia, atendendo parcialmente ao pedido do enunciado.",
       "Os argumentos são desenvolvidos de forma lógica, embora algumas conexões entre as ideias possam ser aprimoradas.",
       "Existem pequenos deslizes gramaticais, como 'Apesar de uso' (deveria ser 'Apesar do uso') e 'similares àqueles', que poderiam ser ajustados para melhorar a precisão da língua."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2023"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Apesar de uso das técnicas...",
-      "...qualitativamente similares àqueles..."
-    ],
-    "feedbacks": [
-      "O texto apresenta uma estrutura clara e organizada, dividida em introdução, desenvolvimento e conclusão.",
-      "Há uma tentativa de abordar tanto os impactos positivos quanto os negativos da IA na diplomacia, atendendo parcialmente ao pedido do enunciado.",
-      "Os argumentos são desenvolvidos de forma linear, embora algumas conexões lógicas sejam superficiais.",
-      "A linguagem é adequada ao registro formal, mas contém pequenos desvios gramaticais."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,

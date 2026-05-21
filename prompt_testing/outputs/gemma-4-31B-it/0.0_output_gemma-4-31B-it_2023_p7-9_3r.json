@@ -2,11 +2,11 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'Cada ator escutaria, em seu idioma nativo, os seus colega' (Erro de concordância nominal: colega $\rightarrow$ colegas).",
-      "'A existência de numerosos benefícios não permite elidir desconsiderar' (Erro de sintaxe/redundância: o uso de 'elidir' e 'desconsiderar' juntos cria um pleonasmo vicioso ou erro de regência/escolha lexical, embora haja a marca de sobrescrita, o resultado final prejudica a fluidez)."
+      "'Cada ator escutaria... os seus colega' (Erro de concordância nominal - deveria ser 'colegas')",
+      "'não permite elidir desconsiderar' (Embora haja sobrescrita, a construção resultou em redundância viciosa ou erro sintático dependendo da leitura)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -19,11 +19,11 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'Cada ator escutaria, em seu idioma nativo, os seus colega' (Erro de concordância nominal: colega $\rightarrow$ colegas).",
-      "'A existência de numerosos benefícios não permite elidir desconsiderar' (Erro de sintaxe/redundância: o uso de 'elidir' e 'desconsiderar' juntos cria um pleonasmo vicioso ou erro de regência/escolha lexical, embora haja a marca de sobrescrita, o resultado final prejudica a fluidez)."
+      "'Cada ator escutaria... os seus colega' (Erro de concordância nominal - deveria ser 'colegas')",
+      "'não permite elidir desconsiderar' (Embora haja sobrescrita, a construção resultou em redundância viciosa ou erro sintático dependendo da leitura)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -36,11 +36,11 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'Cada ator escutaria, em seu idioma nativo, os seus colega' (Erro de concordância nominal: colega $\rightarrow$ colegas).",
-      "'A existência de numerosos benefícios não permite elidir desconsiderar' (Erro de sintaxe/redundância: o uso de 'elidir' e 'desconsiderar' juntos cria um pleonasmo vicioso ou erro de regência/escolha lexical, embora haja a marca de sobrescrita, o resultado final prejudica a fluidez)."
+      "'Cada ator escutaria... os seus colega' (Erro de concordância nominal - deveria ser 'colegas')",
+      "'não permite elidir desconsiderar' (Embora haja sobrescrita, a construção resultou em redundância viciosa ou erro sintático dependendo da leitura)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -54,7 +54,7 @@
     "nota_final": 52.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Não detalhados conforme instrução."
+      "não detalhado conforme instrução"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -68,7 +68,7 @@
     "nota_final": 52.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Não detalhados conforme instrução."
+      "não detalhado conforme instrução"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -82,7 +82,7 @@
     "nota_final": 52.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Não detalhados conforme instrução."
+      "não detalhado conforme instrução"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -96,9 +96,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'Cada ator escutaria, em seu idioma nativo, os seus colega' (Erro de concordância nominal: deveria ser 'colegas').",
-      "'A existência de numerosos benefícios não permite elidir desconsiderar' (Erro de sintaxe/redundância: 'elidir' e 'desconsiderar' são sinônimos neste contexto; o autor provavelmente quis escrever 'não permite desconsiderar' ou 'não permite elidir as desvantagens').",
-      "'A IA não pode findar por causar' (Impropriedade vocabular: o verbo 'findar' significa terminar/encerrar; o autor provavelmente quis utilizar 'acabar por causar')."
+      "Erro de concordância nominal em 'cada ator escutaria... os seus colega' (falta o plural em colegas).",
+      "Uso inadequado de termo técnico ('modelos de linguagem longa', quando o correto seria 'grandes modelos de linguagem' - Large Language Models).",
+      "Imprecisão sintática/estilística no trecho 'não permite elidir desconsiderar' (embora haja sobrescrita, a construção resultante ficou redundante ou truncada)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -112,9 +112,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'Cada ator escutaria, em seu idioma nativo, os seus colega' (Erro de concordância nominal: deveria ser 'colegas').",
-      "'A existência de numerosos benefícios não permite elidir desconsiderar' (Erro de sintaxe/redundância: 'elidir' e 'desconsiderar' são sinônimos neste contexto; o autor provavelmente quis escrever 'não permite desconsiderar' ou 'não permite elidir as desvantagens').",
-      "'A IA não pode findar por causar' (Impropriedade vocabular: o verbo 'findar' significa terminar/encerrar; o autor provavelmente quis utilizar 'acabar por causar')."
+      "...não permite elidir desconsiderar [sobrescrita] desvantagens..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -128,9 +126,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'Cada ator escutaria, em seu idioma nativo, os seus colega' (Erro de concordância nominal: deveria ser 'colegas').",
-      "'A existência de numerosos benefícios não permite elidir desconsiderar' (Erro de sintaxe/redundância: 'elidir' e 'desconsiderar' são sinônimos neste contexto; o autor provavelmente quis escrever 'não permite desconsiderar' ou 'não permite elidir as desvantagens').",
-      "'A IA não pode findar por causar' (Impropriedade vocabular: o verbo 'findar' significa terminar/encerrar; o autor provavelmente quis utilizar 'acabar por causar')."
+      "Erro de concordância nominal em 'cada ator escutaria... os seus colega' (falta o plural em colegas).",
+      "Uso inadequado de termo técnico ('modelos de linguagem longa', quando o correto seria 'grandes modelos de linguagem' - Large Language Models).",
+      "Imprecisão sintática/estilística no trecho 'não permite elidir desconsiderar' (embora haja sobrescrita, a construção resultante ficou redundante ou truncada)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -141,15 +139,15 @@
     "ano": "2023"
   },
   {
-    "nota_1A": 8.0,
+    "nota_1A": 9.0,
     "nota_1B": 8.0,
-    "nota_1C": 12.0,
+    "nota_1C": 14.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (O correto seria 'contribuiu', concordando com o núcleo 'surgimento').",
-      "Regência/Crase: 'crimes contra à humanidade' (A preposição 'contra' não admite a crase, pois não exige a preposição 'a').",
-      "Sintaxe/Modo Verbal: 'de maneira que a diplomacia pode ser importante' (No contexto de finalidade/hipótese, o ideal seria o subjuntivo 'possa').",
-      "Pontuação/Estilo: Uso excessivo de aspas em termos comuns como 'Internet', 'Facebook', 'Instagram', o que, embora não seja um erro crasso, prejudica a fluidez e a propriedade da linguagem técnica."
+      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (correto: contribuiu).",
+      "Regência nominal/Crase: 'graves crimes contra à humanidade' (contra é preposição, não admite crase neste caso).",
+      "Emprego de tempo verbal/Modo: 'a diplomacia pode ser importante' (no contexto condicional anterior 'deve-se', o ideal seria 'poderia').",
+      "Pontuação/Estilo: Uso excessivo de aspas em termos comuns ('Internet', 'Facebook'), embora seja erro leve, impacta a fluidez."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -160,15 +158,15 @@
     "ano": "2023"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 9.0,
+    "nota_1B": 8.0,
+    "nota_1C": 14.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (O correto seria 'contribuiu', concordando com o núcleo 'surgimento').",
-      "Regência/Crase: 'crimes contra à humanidade' (A preposição 'contra' não admite a preposição 'a', logo, não há crase).",
-      "Sintaxe/Modo Verbal: 'de maneira que a diplomacia pode ser importante' (No contexto de finalidade/hipótese, o ideal seria o subjuntivo 'possa').",
-      "Pontuação/Estilo: Uso excessivo de aspas em termos comuns como 'Internet', 'Facebook', 'Instagram', o que não é erro gramatical stricto sensu, mas prejudica a fluidez e a propriedade da linguagem técnica."
+      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (correto: contribuiu).",
+      "Regência nominal/Crase: 'graves crimes contra à humanidade' (contra é preposição, não admite crase neste caso).",
+      "Emprego do modo verbal: 'a diplomacia pode ser importante' (no contexto condicional anterior 'deve-se criar', o ideal seria o subjuntivo 'possa').",
+      "Pontuação/Estilo: Uso excessivo de aspas em termos comuns ('Internet', 'Facebook'), embora seja erro leve, impacta a fluidez."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -179,15 +177,15 @@
     "ano": "2023"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 9.0,
+    "nota_1B": 8.0,
+    "nota_1C": 14.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (O correto seria 'contribuiu', concordando com 'surgimento').",
-      "Regência/Crase: 'crimes contra à humanidade' (O termo 'contra' é preposição; não ocorre crase antes de 'humanidade' neste contexto).",
-      "Sintaxe/Modo Verbal: 'de maneira que a diplomacia pode ser importante' (O contexto de finalidade/hipótese exigiria o subjuntivo 'possa').",
-      "Pontuação/Estilo: Uso excessivo de aspas em termos comuns como 'Internet', 'Facebook', 'Instagram', o que não é erro gramatical stricto sensu, mas prejudica a fluidez e a propriedade da linguagem técnica."
+      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (correto: contribuiu).",
+      "Regência nominal/uso da crase: 'graves crimes contra à humanidade' (contra é preposição, não admite artigo feminino neste caso; correto: contra a humanidade).",
+      "Emprego do modo verbal: 'maneira que a diplomacia pode ser importante' (contexto hipotético/finalidade exige subjuntivo; correto: possa ser).",
+      "Pontuação/Estilo: Uso excessivo de aspas em termos comuns ('Internet', 'Facebook'), embora seja erro leve, impacta a fluidez."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -199,61 +197,62 @@
   },
   {
     "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "concordância verbal ('O surgimento... contribuíram')",
+      "regência nominal ('crimes contra à humanidade' - crase incorreta)",
+      "estilo/repetição excessiva do termo 'inteligência artificial'",
+      "falta de paralelismo sintático em trechos isolados."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "concordância verbal ('O surgimento... contribuíram')",
+      "regência nominal ('crimes contra à humanidade' - crase incorreta)",
+      "estilo/repetição excessiva do termo 'inteligência artificial'",
+      "falta de paralelismo sintático em trechos isolados."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "concordância verbal ('O surgimento... contribuíram')",
+      "regência nominal ('crimes contra à humanidade' - crase incorreta)",
+      "estilo/repetição excessiva do termo 'inteligência artificial'",
+      "falta de paralelismo sintático em trechos isolados."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "concordância verbal: 'O surgimento de novas tecnologias contribuíram' (correto: contribuiu)",
-      "regência/crase: 'crimes contra à humanidade' (correto: contra a humanidade)",
-      "concordância verbal/modo: 'de maneira que a diplomacia pode ser importante' (contexto de finalidade/hipótese sugere 'possa')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2023"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "concordância verbal: 'O surgimento de novas tecnologias contribuíram' (correto: contribuiu)",
-      "regência/crase: 'crimes contra à humanidade' (correto: contra a humanidade)",
-      "concordância verbal/modo: 'de maneira que a diplomacia pode ser importante' (contexto de finalidade/hipótese sugere 'possa')",
-      "pontuação/estilo: uso excessivo de aspas em termos comuns como 'Internet', 'Facebook', 'Instagram' e 'Brexit', embora não seja erro crasso, foge ao padrão de sobriedade da linguagem diplomática."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2023"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "concordância verbal: 'O surgimento de novas tecnologias contribuíram' (correto: contribuiu)",
-      "regência/crase: 'crimes contra à humanidade' (correto: contra a humanidade)",
-      "concordância verbal/modo: 'de maneira que a diplomacia pode ser importante' (contexto de finalidade/hipótese sugere 'possa')",
-      "pontuação/estilo: uso excessivo de aspas em termos comuns como 'Internet', 'Facebook', 'Instagram' e 'Brexit', embora não seja erro crasso, foge ao padrão de sobriedade da linguagem diplomática."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2023"
-  },
-  {
-    "faixa":"Bom",
-    "numero_de_erros_gramaticais":3,
-    "erros_gramaticais":[
-      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (o correto seria 'contribuiu', concordando com 'o surgimento').",
-      "Regência/Crase: 'crimes contra à humanidade' (o correto seria 'contra a humanidade', pois a preposição 'contra' não exige a preposição 'a').",
-      "Sintaxe/Modo verbal: 'de maneira que a diplomacia pode ser importante' (no contexto de finalidade/hipótese, o ideal seria o subjuntivo 'possa ser')."
+      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (correto seria 'contribuiu').",
+      "Regência nominal/Crase: 'documentação de graves crimes contra à humanidade' (não ocorre crase após preposição 'contra').",
+      "Emprego do modo verbal: 'maneira que a diplomacia pode ser importante' (no contexto de finalidade/hipótese, o ideal seria o subjuntivo 'possa')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -264,12 +263,12 @@
     "ano": "2023"
   },
   {
-    "faixa":"Bom",
-    "numero_de_erros_gramaticais":3,
-    "erros_gramaticais":[
-      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (o correto seria 'contribuiu', concordando com 'o surgimento').",
-      "Regência/Crase: 'crimes contra à humanidade' (o correto seria 'contra a humanidade', pois a preposição 'contra' não exige a preposição 'a').",
-      "Concordância/Modo verbal: 'de maneira que a diplomacia pode ser importante' (em contextos de finalidade ou consequência hipotética, o uso do subjuntivo 'possa' seria mais adequado)."
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (correto seria 'contribuiu').",
+      "Regência nominal/Crase: 'documentação de graves crimes contra à humanidade' (não ocorre crase após preposição 'contra').",
+      "Emprego do modo verbal: 'maneira que a diplomacia pode ser importante' (no contexto de finalidade/hipótese, o ideal seria o subjuntivo 'possa')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -283,11 +282,14 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (o núcleo do sujeito é 'surgimento', logo o verbo deveria estar no singular: 'contribuiu').",
-      "Regência/Crase: 'crimes contra à humanidade' (a preposição 'contra' não admite a fusão com artigo feminino 'a' neste contexto; o correto seria 'contra a humanidade').",
-      "Sintaxe/Modo Verbal: 'de maneira que a diplomacia pode ser importante' (em contextos de finalidade ou consequência hipotética, o uso do subjuntivo 'possa' seria mais adequado para a fluidez e correção do período)."
+      "Concordância verbal: 'O surgimento de novas tecnologias contribuíram' (correto seria 'contribuiu').",
+      "Regência nominal/Crase: 'documentação de graves crimes contra à humanidade' (não ocorre crase após preposição 'contra').",
+      "Emprego do modo verbal: 'maneira que a diplomacia pode ser importante' (no contexto de finalidade/hipótese, o ideal seria o subjuntivo 'possa')."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O texto é bem estruturado, seguindo a progressão lógica solicitada pelo enunciado (impactos positivos e negativos). Há um bom esforço de contextualização teórica inicial (Milton Santos), embora a transição entre a discussão generalizada sobre redes sociais e a especificidade da Inteligência Artificial seja um pouco imprecisa — o autor utiliza exemplos de algoritmos de redes sociais para ilustrar riscos da IA, o que é pertinente, mas poderia ter sido mais explicitamente conectado tecnicamente. A argumentação é clara e pertinente, cobrindo pontos relevantes como monitoramento nuclear, TPI e questões ambientais.",
+      "Linguagem e Gramática: O vocabulário é adequado e formal. Contudo, há falhas pontuais de concordância e sintaxe que impedem a classificação em níveis superiores. A repetição excessiva da expressão 'A inteligência artificial' no início de vários períodos prejudica a fluidez estilística do texto."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -298,11 +300,11 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'preferência do pesquisa dor' (erro de digitação/espaçamento)",
-      "'tornar-se-iam' (embora gramaticalmente aceitável em contextos arcaicos, a mesóclise com futuro do pretérito em textos contemporâneos de concurso pode ser vista como excesso de formalismo, mas o erro real aqui é a falta de concordância ou fluidez em 'em mundo inicial de benefícios' - falta de artigo ou ajuste sintático)"
+      "pesquisa dor (espaçamento indevido)",
+      "tornar-se-iam (uso inadequado do hífen/mesóclise em contexto onde a próclise seria a norma ou a construção soaria anacrônica, embora tecnicamente aceitável em registros ultraformais; contudo, o erro principal reside na fluidez sintática)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -315,11 +317,11 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'preferência do pesquisa dor' (erro de digitação/espaçamento)",
-      "'tornar-se-iam' (embora gramaticalmente aceitável em contextos arcaicos, a mesóclise com futuro do pretérito em textos contemporâneos de concurso pode ser vista como excesso de formalismo, mas o erro real aqui é a falta de concordância ou fluidez em 'em mundo inicial de benefícios' - falta de artigo ou ajuste sintático)"
+      "pesquisa dor (espaçamento indevido)",
+      "tornar-se-iam (uso inadequado do hífen/mesóclise em contexto onde a próclise seria preferencial ou a construção soaria anacrônica, embora tecnicamente aceitável em registros ultraformais; contudo, o erro de digitação 'pesquisa dor' é flagrante)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -332,11 +334,11 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 16.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'preferência do pesquisa dor' (erro de digitação/espaçamento)",
-      "'tornar-se-iam' (embora gramaticalmente aceitável em contextos arcaicos, a mesóclise com futuro do pretérito em textos contemporâneos de concurso pode ser vista como excesso de formalismo, mas o erro real aqui é a falta de concordância ou fluidez em 'em mundo inicial de benefícios' - falta de artigo ou ajuste sintático)"
+      "pesquisa dor (espaçamento indevido)",
+      "tornar-se-iam (uso inadequado do hífen; embora aceitável em contextos arcaicos, a norma culta moderna prefere 'tornariam' ou 'viriam a tornar-se')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -349,9 +351,7 @@
   {
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "pesquisa dor (erro de digitação/espaçamento)"
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -363,9 +363,7 @@
   {
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "pesquisa dor (erro de digitação/espaçamento)"
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -377,9 +375,7 @@
   {
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "pesquisa dor (erro de digitação/espaçamento)"
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -391,8 +387,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, com raríssimos lapsos que não comprometem a fluidez ou a correção (como o espaçamento indevido em 'pesquisa dor'), sendo plenamente adequado ao padrão exigido pelo CACD."
+    ],
+    "feedbacks": [
+      "O texto atende integralmente ao comando do enunciado, discutindo tanto os impactos positivos quanto os negativos da IA para a diplomacia.",
+      "A organização é exemplar: introdução clara com tese definida, parágrafos de desenvolvimento bem delimitados (um para eficiência informacional, outro para redução de burocracia e um terceiro para a questão da assimetria tecnológica) e conclusão sintetizadora.",
+      "A argumentação é coerente e demonstra maturidade, conectando a teoria (recomendações da UNESCO) com a prática do ofício diplomático (trabalhos de representação vs. tarefas burocráticas).",
+      "Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o candidato poderia ter explorado dimensões mais profundas da ética mencionada no texto de apoio — como a reprodução de vieses algorítmicos nas decisões diplomáticas ou a questão da soberania digital —, indo além da dicotomia 'eficiência versus desigualdade de acesso'."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -403,8 +406,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, com sintaxe fluida e vocabulário preciso."
+    ],
+    "feedbacks": [
+      "O texto atende plenamente ao comando do enunciado, discutindo tanto os impactos positivos quanto os negativos da IA para a diplomacia.",
+      "A organização é exemplar: introdução clara, parágrafos de desenvolvimento bem delimitados (um para eficiência informacional, outro para redução de burocracia e um terceiro para a questão da desigualdade tecnológica) e conclusão sintetizadora.",
+      "A argumentação é coerente e demonstra maturidade, conectando a teoria (recomendações da UNESCO) com exemplos práticos do cotidio diplomático (negociações ambientais, relatórios administrativos), evidenciando a capacidade de reflexão solicitada.",
+      "Linguagem formal, adequada ao cargo pretendido, com bom uso de conectivos e progressão textual lógica."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -415,8 +425,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, com raríssimos lapsos que não comprometem a fluidez ou a correção (como o espaçamento indevido em 'pesquisa dor'), sendo plenamente adequado ao padrão exigido pelo CACD."
+    ],
+    "feedbacks": [
+      "O texto atende integralmente ao comando do enunciado, discutindo tanto os impactos positivos quanto os negativos da IA para a diplomacia.",
+      "A organização é exemplar: introdução clara com tese definida, parágrafos de desenvolvimento bem delimitados (um para eficiência informacional, outro para redução de burocracia e um terceiro para a questão da assimetria tecnológica) e conclusão sintetizadora.",
+      "A argumentação é coerente e demonstra maturidade, conectando a teoria (recomendações da UNESCO) com a prática do ofício diplomático (trabalhos de representação vs. tarefas burocráticas).",
+      "Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o candidato poderia ter explorado dimensões mais profundas da ética mencionada no texto de apoio — como o risco de vieses algorítmicos influenciando decisões geopolíticas ou a questão da soberania digital —, indo além da dicotomia 'eficiência versus desigualdade de acesso'."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -430,9 +447,7 @@
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'impactos negativos aumentam as desigualdades globais' (Erro de concordância verbal/modo: o correto seria 'aumentem', devido à conjunção 'evitar que' que exige o subjuntivo).",
-      "'potencial positivos' (Erro de concordância nominal: o correto seria 'potenciais positivos').",
-      "'compartidos' (Embora aceitável em contextos específicos, o termo padrão para a distribuição de benefícios/custos é 'compartilhados'. O uso repetido de 'compartidos' beira a imprecisão vocabular, mas é contabilizado aqui como deslize de propriedade)."
+      "...evitar que os impactos negativos **aumentam** as desigualdades globais."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -448,9 +463,7 @@
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "...evitar que os impactos negativos aumentam as desigualdades globais. (Erro de modo verbal: o correto seria 'aumentem', devido à conjunção 'evitar que' que exige o subjuntivo).",
-      "...tem potencial positivos na consecução... (Erro de concordância nominal: o correto seria 'potenciais positivos' ou 'potencial positivo').",
-      "...tornem agente públicos e privados... (Erro de concordância nominal: o correto seria 'agentes públicos e privados')."
+      "...evitar que os impactos negativos **aumentam** as desigualdades globais."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -466,9 +479,7 @@
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'impactos negativos aumentam as desigualdades globais' (Erro de modo verbal: o correto seria 'aumentem', devido à conjunção 'evitar que' que exige o subjuntivo).",
-      "'potencial positivos' (Erro de concordância nominal: o correto seria 'potenciais positivos').",
-      "'compartidos' (Erro de ortografia/vocabulário: embora exista, o termo padrão para a distribuição de benefícios/custos no contexto é 'compartilhados')."
+      "...evitar que os impactos negativos **aumentam** as desigualdades globais."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -482,10 +493,8 @@
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "aumentam as desigualdades globais (concordância verbal/modo: deveria ser 'aumentem' para manter a correlação com 'evitar que')",
-      "potencial positivos (concordância nominal: deveria ser 'potenciais positivos')",
-      "tornem agente públicos (concordância nominal: deveria ser 'agentes públicos')",
-      "compartidos (vocabulário: embora exista, 'compartilhados' é a forma preferencial e mais adequada ao padrão culto do CACD)"
+      "impactos negativos aumentam as desigualdades globais (falta de subjuntivo: 'aumentem')",
+      "potencial positivos (concordância nominal)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -499,10 +508,8 @@
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "aumentam as desigualdades globais (concordância verbal/modo: deveria ser 'aumentem' para manter a correlação com 'evitar que')",
-      "potencial positivos (concordância nominal: deveria ser 'potenciais positivos')",
-      "tornem agente públicos (concordância nominal: deveria ser 'agentes públicos')",
-      "compartidos (vocabulário: embora exista, 'compartilhados' é a forma preferencial e mais adequada ao padrão culto do CACD)"
+      "impactos negativos aumentam as desigualdades globais (falta de subjuntivo: 'aumentem')",
+      "potencial positivos (concordância nominal)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -516,10 +523,8 @@
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "aumentam as desigualdades globais (concordância verbal/modo: deveria ser 'aumentem' para manter a correlação com 'evitar que')",
-      "potencial positivos (concordância nominal: deveria ser 'potenciais positivos')",
-      "tornem agente públicos (concordância nominal: deveria ser 'agentes públicos')",
-      "compartidos (ortografia/vocabulário: embora exista, o termo usual e preferencial no contexto é 'compartilhados')"
+      "impactos negativos aumentam as desigualdades globais (falta de subjuntivo: 'aumentem')",
+      "potencial positivos (concordância nominal)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -533,9 +538,7 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "...evitar que os impactos negativos aumentam as desigualdades globais (Erro de modo verbal: o correto seria 'aumentem', devido à conjunção 'evitar que' que exige o subjuntivo).",
-      "A IA tem potencial positivos (Erro de concordância nominal: o correto seria 'potenciais positivos' ou 'potencial positivo').",
-      "Cabe à diplomacia aproximação entre as nações (Omissão de artigo: o correto seria 'Cabe à diplomacia a aproximação' ou 'Cabe à diplomacia promover a aproximação')."
+      "...evitar que os impactos negativos aumentam as desigualdades globais."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -549,9 +552,7 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "...evitar que os impactos negativos aumentam as desigualdades globais (O correto seria 'aumentem', concordando com a oração subordinada substantiva objetiva direta após o verbo 'evitar').",
-      "A IA tem potencial positivos (Erro de concordância nominal: 'potenciais positivos' ou 'potencial positivo').",
-      "Cabe à diplomacia aproximação entre as nações (Falta o artigo definido: 'Cabe à diplomacia a aproximação...')."
+      "...evitar que os impactos negativos aumentam as desigualdades globais."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -565,9 +566,7 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "...evitar que os impactos negativos aumentam as desigualdades globais (Erro de modo verbal: o correto seria 'aumentem', devido à conjunção 'evitar que' que exige o subjuntivo).",
-      "A IA tem potencial positivos (Erro de concordância nominal: o correto seria 'potenciais positivos' ou 'potencial positivo').",
-      "Cabe à diplomacia aproximação entre as nações (Omissão de artigo: o correto seria 'Cabe à diplomacia a aproximação' ou 'Cabe à diplomacia promover a aproximação')."
+      "...evitar que os impactos negativos aumentam as desigualdades globais."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -579,12 +578,12 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 10.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Apesar de uso das técnicas de IA buscar... (Falta de artigo definido 'do' ou reestruturação para 'Apesar de o uso... buscar', evitando a contração quando o sujeito do infinitivo é o termo seguinte)",
-      "...conforme recomendado pela UNESCO, em 2011. (Erro de precisão factual/temporal: o texto de apoio cita a Recomendação de 2021, o candidato escreveu 2011)"
+      "Falta de artigo definido antes de 'uso' no trecho 'Apesar de uso das técnicas...' (O correto seria 'Apesar de o uso...'), erro de sintaxe/regência.",
+      "Erro factual de data: O candidato cita a Recomendação da UNESCO como sendo de 2011, quando o próprio enunciado indica 2021/2023."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -596,12 +595,12 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 10.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Apesar de uso das técnicas de IA buscar... (Falta de artigo definido 'do' ou 'o' antes de 'uso', ou reestruturação para 'Apesar de o uso... buscar')",
-      "...conforme recomendado pela UNESCO, em 2011. (Erro de precisão factual/referencial: o texto de apoio cita a Recomendação de 2021, não 2011)"
+      "Falta de artigo definido antes de 'uso' no trecho 'Apesar de uso das técnicas...' (O correto seria 'Apesar de o uso...'), erro de sintaxe/regência.",
+      "Erro factual de data: O candidato cita a Recomendação da UNESCO como sendo de 2011, quando o próprio enunciado indica 2021/2023."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -613,12 +612,12 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 10.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Apesar de uso das técnicas de IA buscar... (Falta de artigo definido 'do' ou 'o' antes de 'uso', ou reestruturação para 'Apesar de o uso... buscar')",
-      "...conforme recomendado pela UNESCO, em 2011. (Erro de precisão factual/referencial: o texto de apoio cita a Recomendação de 2021, o candidato escreveu 2011)"
+      "Falta de artigo definido antes de 'uso' no trecho 'Apesar de uso das técnicas...' (O correto seria 'Apesar de o uso...'), erro de sintaxe/regência.",
+      "Erro factual de data: O candidato cita a Recomendação da UNESCO como sendo de 2011, quando o próprio enunciado indica 2021/2023."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -629,12 +628,14 @@
     "ano": "2023"
   },
   {
-    "nota_final": 54.5,
+    "nota_final": 56.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Apesar de uso das técnicas de IA buscar o aperfeiçoamento da prática diplomática"
+      "Apesar de uso das técnicas... (falta artigo 'do' ou ajuste sintático)"
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Texto excelente, com estrutura rigorosamente adequada ao padrão CACD. O candidato demonstrou alta capacidade de articulação, progressão lógica e domínio do vocabulário formal. Abordou integralmente o comando do enunciado, equilibrando os impactos positivos (dinamismo em negociações, superação de barreiras linguísticas, análise de sentimentos e diplomacia pública) e os negativos (assimetria tecnológica entre Norte e Sul Global e riscos ético-autoritários), integrando corretamente a referência à UNESCO."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -643,12 +644,14 @@
     "ano": "2023"
   },
   {
-    "nota_final": 54.5,
+    "nota_final": 56.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Apesar de uso das técnicas de IA buscar o aperfeiçoamento da prática diplomática"
+      "Apesar de uso das técnicas... (falta artigo 'do' ou ajuste sintático)"
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Texto excelente, com estrutura rigorosamente adequada ao padrão CACD. O candidato demonstrou alta capacidade de articulação, progressão lógica e domínio do vocabulário formal. Abordou integralmente o comando do enunciado, equilibrando os impactos positivos (dinamismo em negociações, superação de barreiras linguísticas, análise de sentimentos e diplomacia pública) e os negativos (assimetria tecnológica Norte-Sul e riscos ético-autoritários), integrando corretamente a referência à UNESCO."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -657,12 +660,14 @@
     "ano": "2023"
   },
   {
-    "nota_final": 54.5,
+    "nota_final": 56.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Apesar de uso das técnicas de IA buscar (falta de artigo: 'Apesar de o uso')"
+      "No trecho 'Apesar de uso das técnicas', falta o artigo definido ('do') ou preposição adequada para a fluidez sintática."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Texto excelente, com estrutura rigorosamente organizada e progressão lógica impecável. O candidato demonstrou alta capacidade de abstração e domínio técnico ao conectar a IA a conceitos específicos da diplomacia (negociações comerciais, diplomacia pública e assimetrias Norte-Sul), atendendo plenamente ao comando do enunciado e integrando organicamente a referência à UNESCO."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -673,7 +678,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta alta correção gramatical; pequenas rasuras mencionadas pelo próprio candidato não comprometem a norma culta."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -685,7 +692,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta alta correção gramatical; pequenas rasuras mencionadas pelo próprio candidato não comprometem a norma culta."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -697,7 +706,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta alta correção gramatical; pequenas rasuras mencionadas pelo próprio candidato não comprometem a norma culta."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,

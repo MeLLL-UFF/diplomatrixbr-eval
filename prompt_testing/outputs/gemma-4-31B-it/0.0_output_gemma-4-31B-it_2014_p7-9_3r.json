@@ -1,818 +1,849 @@
 [
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 1,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 1,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 1,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 1,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 1,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 1,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 1,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 1,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 1,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "...300 milhões de pessoa (erro de concordância nominal: deveria ser 'pessoas')"
+      "Uso excessivo/desnecessário de vírgulas isolando advérbios curtos ('significativamente', 'positivamente'), embora não configurem erro crasso, prejudicam a fluidez estilística típica da norma culta exigida no CACD.",
+      "Ausência de paralelismo sintático leve em 'aproximação das políticas públicas desenvolvidas internamente e aquelas...' (faltou a preposição 'das' antes de 'aquelas')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
     "versao": 1,
-    "essay": 2,
+    "essay": 1,
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "...300 milhões de pessoa (erro de concordância nominal: deveria ser 'pessoas')"
+      "Uso excessivo/desnecessário de vírgulas isolando advérbios curtos ('significativamente', 'positivamente'), embora não configurem erro crasso, prejudicam a fluidez estilística típica da norma culta exigida no CACD.",
+      "Ausência de paralelismo sintático leve em 'aproximação das políticas públicas desenvolvidas internamente e aquelas...' (faltou a preposição 'das' antes de 'aquelas')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
     "versao": 2,
-    "essay": 2,
+    "essay": 1,
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "...300 milhões de pessoa (erro de concordância nominal: deveria ser 'pessoas')"
+      "Uso excessivo/desnecessário de vírgulas isolando advérbios curtos ('significativamente', 'positivamente'), embora não configurem erro crasso, prejudicam a fluidez estilística típica da norma culta exigida no CACD.",
+      "Ausência de paralelismo sintático leve em 'aproximação das políticas públicas desenvolvidas internamente e aquelas...' (faltou a preposição 'das' antes de 'aquelas')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
-    "essay": 2,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.00,
-    "numero_de_erros_gramaticais":1,
-    "erros_gramaticais":[
-      "concordância nominal: '300 milhões de pessoa' (em vez de pessoas)"
-    ],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "a¹ (Erro de regência: 'não se esgotam a' deveria ser 'não se esgotam a' no sentido de 'limitar-se a', porém o verbo esgotar-se, neste contexto de abrangência, exigiria a preposição 'em' ou a construção 'não se restringem a'. No entanto, a falha principal é a regência do verbo esgotar no sentido de exaurir),",
-      "econômico² (Erro de pontuação: falta de vírgula para isolar a oração seguinte ou ajuste de fluidez),",
-      "há4 (Erro de concordância/regência: 'há flexibilidade suficiente... para corrigir'. Embora gramaticalmente aceitável, a construção do período apresenta certa fragilidade sintática na transição para a conclusão)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "a¹ (Erro de regência: 'não se esgotam a' deveria ser 'não se esgotam a' no sentido de limite, mas o contexto sugere 'não se limitam a' ou 'não se esgotam em'. Se interpretado como 'esgotar-se a', há imprecisão vocabular/regência)",
-      "econômico² (Erro de pontuação: ausência de vírgula ou conectivo adequado para isolar a oração seguinte, embora seja um erro leve de fluidez)",
-      "há4 (Erro de concordância: 'projeções... faz' deveria ser 'projeções... fazem')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "a¹ questões (regência nominal: o correto seria 'a questões' sem crase ou 'às questões'. O autor usou 'a' sem crase, mas o contexto sugere a omissão do artigo ou erro de concordância com o plural)",
-      "diretorgeral (erro de ortografia/digitação: falta de hífen ou espaço)",
-      "há4 flexibilidade (erro de digitação: numeral junto à palavra)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
+    "essay": 1,
     "ano": "2014"
   },
   {
     "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "a¹ questões (regência/crase)",
-      "diretorgeral (ortografia/espaçamento)",
-      "há4 flexibilidade (ortografia/espaçamento)"
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
     "versao": 1,
-    "essay": 3,
+    "essay": 1,
     "ano": "2014"
   },
   {
     "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "a¹ questões (regência/crase)",
-      "diretorgeral (ortografia/espaçamento)",
-      "há4 flexibilidade (ortografia/espaçamento)"
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
     "versao": 2,
-    "essay": 3,
+    "essay": 1,
     "ano": "2014"
   },
   {
     "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "a¹ questões (regência/crase)",
-      "diretorgeral (ortografia/espaçamento)",
-      "há4 flexibilidade (ortografia/espaçamento)"
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
-    "essay": 3,
+    "essay": 1,
     "ano": "2014"
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "a¹ questões (erro de regência/crase: o correto seria 'a questões' ou 'às questões')",
-      "diretorgeral (erro de ortografia/digitação: falta de hífen ou espaço)",
-      "há4 flexibilidade (erro de digitação/espaçamento)"
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta excelente domínio da norma culta."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Organização e Tema: O texto é muito bem estruturado, com progressão lógica clara e coesa. O candidato consegue articular conceitos teóricos complexos (como 'autonomia pela distância' vs. 'autonomia pela participação') para responder ao comando do enunciado. A discussão sobre a relação entre política interna (democracia/sociedade civil) e projeção externa atende plenamente à solicitação de discutir as perspectivas de longo prazo frente às circunstâncias internas e internacionais.",
+      "Linguagem: A linguagem é formal, precisa e adequada ao padrão exigido para o CACD. O vocabulário é rico e a sintaxe é fluida, demonstrando segurança na escrita.",
+      "Observação Analítica: Embora o texto seja sólido e demonstre domínio técnico, ele tende a ser descritivo em relação a autores e eventos específicos (Gelson Fonseca, Luiz Alberto Figueiredo), aproximando-se de um formato de ensaio acadêmico. Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), seria recomendável aprofundar a análise crítica e a prospecção futura, indo além da exposição de paradigmas já estabelecidos para propor reflexões mais originais sobre os desafios concretos da atual conjuntura global mencionada nos textos motivadores."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
-    "essay": 3,
+    "essay": 1,
     "ano": "2014"
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "a¹ questões (regência/crase: o correto seria 'a questões' sem crase ou 'às questões')",
-      "diretorgeral (ortografia: falta de hífen em 'diretor-geral')",
-      "há4 flexibilidade (ortografia/digitação: erro de espaçamento ou caractere intruso)"
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta bom domínio da norma culta."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Organização e Tema: O texto é bem estruturado e responde ao comando do enunciado, relacionando a necessidade de planejamento estratégico às mudanças contextuais. O autor utiliza conceitos consolidados da literatura de Relações Internacionais (como 'autonomia pela distância' vs. 'autonomia pela participação') para embasar a discussão sobre as perspectivas de longo prazo. A progressão textual é clara, partindo de uma comparação histórica para chegar a uma conclusão sobre a legitimação da política externa via participação social.",
+      "Linguagem: A escrita é formal, precisa e adequada ao padrão exigido pelo CACD. O vocabulário é pertinente e a coesão entre os parágrafos é eficiente."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
     "versao": 2,
-    "essay": 3,
+    "essay": 1,
     "ano": "2014"
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "a¹ questões (erro de regência/crase: o correto seria 'a questões' ou 'às questões')",
-      "diretorgeral (erro de ortografia/digitação: falta de hífen ou espaço)",
-      "há4 flexibilidade (erro de digitação/espaçamento)"
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta bom domínio da norma culta."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "O texto é bem estruturado e demonstra segurança temática, utilizando conceitos clássicos da literatura de Relações Internacionais e História do Brasil (como 'autonomia pela distância' vs. 'autonomia pela participação').",
+      "Há uma articulação clara entre a teoria e exemplos concretos (CELAC, ONU, Rio+20), respondendo satisfatoriamente ao comando do enunciado ao discutir a relação entre circunstâncias internas (redemocratização/sociedade civil) e cenários internacionais (multilateralismo/assimetrias).",
+      "Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o candidato poderia ter aprofundado a análise crítica sobre a *viabilidade* atual desses projetos diante da nova conjuntura global mencionada nos textos motivadores (especialmente a questão da multipolaridade e a volatilidade do cenário geopolítico recente), evitando ficar excessivamente preso a referências bibliográficas específicas e partindo para uma reflexão autoral mais densa sobre as 'perspectivas de longo prazo'."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
     "versao": 3,
-    "essay": 3,
+    "essay": 1,
     "ano": "2014"
   },
   {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Vírgula indevida separando o verbo do complemento: 'estratégias de longo prazo que levem, em consideração, as circunstâncias...' (A expressão 'em consideração' não deve ser isolada por vírgulas neste contexto, pois interrompe a regência do verbo levar).",
-      "Erro de digitação/ortografia: 'tornase' (falta de hífen em 'torna-se')."
-    ],
+    "nota_1A": 1,
+    "nota_1B": 1,
+    "nota_1C": 1,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
     "versao": 1,
-    "essay": 4,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Vírgula indevida separando o verbo do complemento: 'estratégias de longo prazo que levem, em consideração, as circunstâncias...' (A expressão 'em consideração' não deve ser isolada por vírgulas neste contexto, pois interrompe a regência do verbo levar).",
-      "Erro de digitação/ortografia: 'tornase' (falta de hífen ou espaço em 'torna-se')."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Vírgula indevida separando o verbo de seu complemento: 'estratégias de longo prazo que levem, em consideração, as circunstâncias...' (A expressão 'em consideração' não deve ser isolada por vírgulas neste contexto, pois interrompe a regência do verbo levar).",
-      "Erro de digitação/ortografia: 'tornase' (falta de hífen ou espaço em 'torna-se')."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "tornase (falta de hífen: torna-se)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "tornase (falta de hífen: torna-se)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "tornase (falta de hífen: torna-se)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Uso indevido de vírgula separando o verbo de seu complemento em: 'estratégias de longo prazo que levem, em consideração, as circunstâncias domésticas e internacionais' (a expressão 'em consideração' não deveria estar isolada por vírgulas nesse contexto, ou a frase deveria ser reestruturada)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Uso indevido de vírgula separando o verbo de seu complemento em: 'estratégias de longo prazo que levem, em consideração, as circunstâncias domésticas e internacionais' (a expressão 'em consideração' não deveria estar isolada por vírgulas nesse contexto, ou a frase deveria ser reestruturada)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Uso indevido de vírgula separando o verbo de seu complemento em: 'estratégias de longo prazo que levem, em consideração, as circunstâncias domésticas e internacionais' (a expressão 'em consideração' não deveria estar isolada por vírgulas nesse contexto, ou a frase deveria ser reestruturada)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
+    "essay": 2,
     "ano": "2014"
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "necessidade de se ampliar (Erro de regência/estilo: a redação marca com '1', mas a construção é aceitável, embora a norma culta rigorosa prefira 'necessidade de que se amplie' ou 'necessidade de ampliar')",
-      "consciente, politicamente (Erro de pontuação: a vírgula separa indevidamente o adjetivo de seu advérbio modificador)",
-      "empecílios (Erro de ortografia: a grafia correta é 'empecilhos')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "necessidade de se ampliar (Erro de regência/estilo: a redação marca com '1', mas a construção é aceitável, embora a norma culta rigorosa prefira 'necessidade de que se amplie' ou 'necessidade de ampliar'. Contudo, avalia-se como deslize leve).",
-      "consciente, politicamente (Erro de pontuação: a vírgula separa o adjetivo do seu advérbio de modo, interrompendo o fluxo sintático indevidamente).",
-      "empecílios (Erro de ortografia: a grafia correta é 'empecilhos')."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "necessidade de se ampliar (Erro de regência/estilo: a redação marca com '1', mas a construção é aceitável, embora a norma culta rigorosa prefira 'necessidade de que se amplie' ou 'necessidade de ampliar'. Contudo, avalia-se como deslize leve).",
-      "consciente, politicamente (Erro de pontuação: a vírgula separa o adjetivo do seu advérbio de modo, interrompendo o fluxo sintático indevidamente).",
-      "empecílios (Erro de ortografia: a grafia correta é 'empecilhos')."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "necessidade¹ (uso inadequado de nota de rodapé/marcação em texto dissertativo)",
-      "politicamente;² (pontuação inadequada/marcação)",
-      "empecílios³ (erro de ortografia: o correto é empecilhos)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "necessidade¹ (uso inadequado de nota de rodapé/marcação em texto dissertativo)",
-      "politicamente;² (pontuação inadequada/marcação)",
-      "empecílios³ (erro de ortografia: o correto é empecilhos)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "necessidade¹ (uso inadequado de nota de rodapé/marcação em texto dissertativo)",
-      "politicamente;² (pontuação inadequada/marcação)",
-      "empecílios³ (erro de ortografia: o correto é empecilhos)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "necessidade¹ (uso de nota de rodapé ou marcação não textual)",
-      "politicamente;² (pontuação inadequada/marcação não textual)",
-      "empecílios³ (erro de ortografia: o correto é 'empecilhos' + marcação não textual)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "necessidade¹ (uso de nota de rodapé ou marcação não textual)",
-      "politicamente;² (pontuação inadequada/marcação não textual)",
-      "empecílios³ (erro de ortografia: o correto é 'empecilhos' + marcação não textual)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "necessidade¹ (uso de nota de rodapé ou marcação não textual)",
-      "politicamente;² (pontuação inadequada/marcação não textual)",
-      "empecílios³ (erro de ortografia: o correto é 'empecilhos' + marcação não textual)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "'para formação de ordem multilateral' (falta de artigo: para a formação de uma ordem multilateral)",
-      "'solucionálos' (erro de acentuação/ortografia: solucioná-los)",
-      "'politica externa' (falta de acento gráfico: política)",
-      "'atitude demandantes' (erro de concordância nominal: atitudes demandantes ou atitude demandante)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "'para formação de ordem multilateral' (falta de artigo: para a formação de uma ordem multilateral)",
-      "'solucionálos' (erro de acentuação/ortografia: solucioná-los)",
-      "'politica externa' (falta de acento gráfico: política)",
-      "'atitude demandantes' (erro de concordância nominal: atitudes demandantes ou atitude demandante)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "'para formação de ordem multilateral' (falta de artigo: para a formação de uma ordem multilateral)",
-      "'solucionálos' (erro de acentuação/ortografia: solucioná-los)",
-      "'politica externa' (falta de acento gráfico: política)",
-      "'atitude demandantes' (erro de concordância nominal: atitudes demandantes ou atitude demandante)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "falta de crase em 'para formação de ordem multilateral' (para a formação)",
-      "erro de digitação/ortografia em 'solucionálos' (solucioná-los)",
-      "falta de acento em 'politica' (política) no trecho 'tendências para a politica externa'"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "falta de crase em 'para formação de ordem multilateral' (linha 2)",
-      "erro de digitação/acentuação em 'solucionálos' (linha 11)",
-      "erro de digitação em 'politica' (linha 18)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "falta de crase em 'para formação de ordem multilateral' (para a formação)",
-      "erro de digitação/ortografia em 'solucionálos' (solucioná-los)",
-      "falta de acento em 'politica' (política) no trecho 'tendências para a politica externa'"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "falta de crase em 'contribuir de modo criativo para [a] formação de ordem multilateral' (ou 'para a formação de uma ordem')",
-      "erro de digitação/ortografia em 'solucionálos' (correto: solucioná-los)",
-      "erro de digitação em 'politica' (falta de acento em 'política' no trecho 'três tendências para a politica externa')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "falta de crase em 'contribuir de modo criativo para [a] formação de ordem multilateral' (ou 'para a formação de uma ordem')",
-      "erro de digitação/ortografia em 'solucionálos' (correto: solucioná-los)",
-      "erro de digitação em 'politica' (falta de acento em 'política' no trecho 'três tendências para a politica externa')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "maiores legitimidade e efetividade (concordância nominal: o correto seria 'maior legitimidade e efetividade' ou 'maiores legitimidade e efetividade' se concordasse com ambos, mas a construção soa inadequada no singular do primeiro substantivo)"
+      "pessoa (concordância nominal: '300 milhões de pessoas')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pessoa (concordância nominal: '300 milhões de pessoas')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "...aproximadamente, 300 milhões de pessoa..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "...aproximadamente, 300 milhões de pessoa..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "...aproximadamente, 300 milhões de pessoa..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "...classe média se estima ser de, aproximadamente, 300 milhões de pessoa [pessoas]..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "...classe média se estima ser de, aproximadamente, 300 milhões de pessoa [pessoas]..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "...classe média se estima ser de, aproximadamente, 300 milhões de pessoa [pessoas]..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Regência verbal/nominal: 'não se esgotam a' (correto seria 'não se esgotam a' no sentido de limite, mas usualmente pede-se 'não se limitam a' ou 'não se esgotam em').",
+      "Ortografia/Digitação: 'diretorgeral' (ausência de espaço entre as palavras).",
+      "Concordância nominal/verbal: 'projeções que [...] a sociedade civil faz' (embora correto gramaticalmente, a construção 'que não apenas os diplomatas, como... a sociedade civil faz' apresenta instabilidade sintática; o verbo deveria estar no plural 'fazem' para concordar com ambos os núcleos)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Regência verbal/nominal: 'não se esgotam a' (correto seria 'não se esgotam a' no sentido de limite, mas usualmente pede-se 'não se limitam a' ou 'não se esgotam em').",
+      "Ortografia/Digitação: 'diretorgeral' (ausência de espaço entre as palavras).",
+      "Concordância nominal/verbal: 'projeções que [...] a sociedade civil faz' (embora correto gramaticalmente, a construção 'que não apenas os diplomatas, como... a sociedade civil faz' apresenta instabilidade sintática; o verbo deveria estar no plural 'fazem' para concordar com ambos os núcleos)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Regência verbal/nominal: 'não se esgotam a' (correto seria 'não se esgotam a' no sentido de limite, mas usualmente pede-se 'não se limitam a' ou 'não se esgotam em').",
+      "Ortografia/Digitação: 'diretorgeral' (ausência de espaço entre as palavras).",
+      "Concordância nominal/verbal: 'projeções que [...] a sociedade civil faz' (embora correto gramaticalmente, a construção 'que não apenas os diplomatas, como... a sociedade civil faz' apresenta instabilidade sintática; o verbo deveria estar no plural 'fazem' para concordar com ambos os núcleos)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...não se esgotam a¹ questões..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...não se esgotam a¹ questões..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...não se esgotam a¹ questões..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...não se esgotam a¹ questões..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...não se esgotam a¹ questões..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...não se esgotam a¹ questões..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Vírgula indevida separando verbo de complemento ('levem, em consideração,' - embora 'em consideração' seja adjunto adverbial deslocado, a vírgula após 'levem' isola o objeto/complemento do verbo','Erro de digitação/ortografia ('tornase' em vez de 'torna-se')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Vírgula indevida separando verbo de complemento ('levem, em consideração,' - embora 'em consideração' seja adjunto adverbial deslocado, a vírgula após 'levem' isola o objeto/complemento do verbo','Erro de digitação/ortografia ('tornase' em vez de 'torna-se')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Vírgula indevida separando verbo de complemento ('levem, em consideração,' - embora 'em consideração' seja adjunto adverbial deslocado, a vírgula após 'levem' isola incorretamente o objeto/complemento da ação','Erro de digitação/ortografia ('tornase' em vez de 'torna-se')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 51.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "tornase (falta de hífen/acentuação)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 51.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "tornase (falta de hífen/estrangeirismo)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 51.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "tornase (falta de hífen/estrangeirismo gráfico) - 'torna-se'"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula separando o verbo de seu complemento ('...estratégias de longo prazo que levem, em consideração, as circunstâncias...' - a expressão 'em consideração' funciona aqui como complemento/adjunto do verbo levar, tornando a intercalação por vírgulas inadequada neste contexto específico)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula separando o verbo de seu complemento ('...estratégias de longo prazo que levem, em consideração, as circunstâncias...' - a expressão 'em consideração' funciona aqui como complemento/adjunto integrado ao verbo levar, tornando a intercalação por vírgulas inadequada neste contexto específico de regência."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula separando o verbo de seu complemento ('...estratégias de longo prazo que levem, em consideração, as circunstâncias...' - a expressão 'em consideração' funciona aqui como complemento/adjunto do verbo levar, tornando a intercalação por vírgulas inadequada neste contexto específico)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "necessidade de se ampliar"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "necessidade de se ampliar"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "necessidade de se ampliar"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "necessidade¹ (uso inadequado/desnecessário de marcação)",
+      "politicamente;² (pontuação incorreta)",
+      "empecílios³ (ortografia)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "necessidade¹ (uso inadequado/desnecessário de marcação)",
+      "politicamente;² (pontuação incorreta)",
+      "empecílios³ (ortografia)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "necessidade¹ (uso inadequado/desnecessário de marcação)",
+      "politicamente;² (pontuação incorreta)",
+      "empecílios³ (ortografia)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "necessidade¹ (marcação de nota/referência inadequada ao corpo do texto)",
+      "politicamente;² (pontuação inadequada/estranha)",
+      "empecílios³ (erro de grafia - o correto seria 'empecilhos')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "necessidade¹ (marcação de nota/referência inadequada ao corpo do texto)",
+      "politicamente;² (pontuação inadequada/estranha)",
+      "empecílios³ (erro de grafia - o correto seria 'empecilhos')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "necessidade¹ (marcação de nota/referência inadequada ao corpo do texto)",
+      "politicamente;² (pontuação inadequada/estranha)",
+      "empecílios³ (erro de grafia - o correto seria 'empecilhos')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de crase em 'para formação' (linha 2 - correto seria 'para a formação')",
+      "Erro de digitação/ortografia em 'solucionálos' (falta de til no segundo 'a')",
+      "Erro de acentuação em 'politica' (ausência de acento tônico)",
+      "Concordância verbal em 'êxito... estão transformando' (sujeito singular 'êxito', verbo deveria estar no singular 'está transformando')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de crase em 'para formação de ordem' (linha 2 - correto seria 'para a formação')",
+      "Erro de digitação/ortografia em 'solucionálos' (falta de til no 'a')",
+      "Erro de acentuação em 'politica' (ausência de acento tônico)",
+      "Ausência de artigo definido em 'descreve barco' (correto seria 'descreve um barco')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de crase em 'para formação' (linha 2 - correto seria 'para a formação')",
+      "Erro de digitação/ortografia em 'solucionálos' (falta de til no segundo 'a')",
+      "Erro de acentuação em 'politica' (ausência de acento tônico)",
+      "Concordância verbal em 'êxito... estão transformando' (sujeito singular 'êxito', verbo deveria estar no singular 'está transformando')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "falta de crase em 'para formação'",
+      "ausência de acento em 'solucionálos' (está escrito 'solucionálos', porém falta o hífen correto/acentuação adequada conforme norma cultiva)",
+      "falta de acento em 'politica' (no trecho 'tendências para a politica externa')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "falta de crase em 'para formação'",
+      "ausência de acento em 'solucionálos' (está escrito 'solucionálos', porém falta o hífen correto/acentuação adequada conforme norma cultiva)",
+      "falta de acento em 'politica' (no trecho 'tendências para a politica externa')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "falta de crase em 'para formação'",
+      "ausência de acento em 'solucionálos' (está escrito 'solucionálos', porém falta o hífen correto/acentuação adequada conforme norma culta)",
+      "falta de acento em 'politica' (no trecho 'tendências para a politica externa')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "falta de crase em 'contribuir de modo criativo para [a] formação'",
+      "ausência de acento em 'solucionálos' (correto: solucioná-los)",
+      "falta de acento em 'politica' (linha 14)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de artigo definido em 'para formação de ordem multilateral' (linha 2)",
+      "Erro de digitação/ortografia em 'solucionálos' (falta de til no segundo 'o')",
+      "Erro de digitação em 'politica' (ausência de acento agudo)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "falta de crase em 'contribuir de modo criativo para [a] formação'",
+      "ausência de acento em 'solucionálos' (correto: solucioná-los)",
+      "falta de acento em 'politica' (linha 14)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "maiores legitimidade e efetividade (concordância nominal - deveria ser 'maior' ou ambos no plural)",
+      "respeito ao Direito Internacional e a princípios (falta de crase em 'a princípios', embora aceitável por alguns autores, a paralelismo exigiria 'aos princípios')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -823,12 +854,12 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'maiores legitimidade e efetividade' (Erro de concordância nominal: o correto seria 'maior legitimidade e efetividade' ou 'maiores legitimidade e efetividade' se concordasse com ambos, mas a construção soa inadequada; preferencialmente 'maior legitimidade e maior efetividade' ou 'maiores níveis de...'). Nota: O texto é extremamente limpo, mas há essa imprecisão."
+      "maiores legitimidade"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -836,264 +867,254 @@
     "temp": 0.0,
     "versao": 2,
     "essay": 7,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "maiores legitimidade e efetividade (concordância nominal: o correto seria 'maior legitimidade e efetividade' ou 'maiores legitimidade e efetividade' se concordasse com ambos, mas a construção soa inadequada no singular do primeiro substantivo)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2014"
-  },
-  {
-  "nota_final": 52.00,
-  "numero_de_erros_gramaticais":1,
-  "erros_gramaticais": [
-    "maiores legitimidade e efetividade (concordância nominal)"
-  ],
-  "modelo": "gemma-4-31B-it",
-  "prompt": 8,
-  "temp": 0.0,
-  "versao": 1,
-  "essay": 7,
-  "ano": "2014"
-  },
-  {
-  "nota_final": 52.00,
-  "numero_de_erros_gramaticais":1,
-  "erros_gramaticais": [
-    "maiores legitimidade e efetividade (concordância nominal)"
-  ],
-  "modelo": "gemma-4-31B-it",
-  "prompt": 8,
-  "temp": 0.0,
-  "versao": 2,
-  "essay": 7,
-  "ano": "2014"
-  },
-  {
-  "nota_final": 52.00,
-  "numero_de_erros_gramaticais":1,
-  "erros_gramaticais": [
-    "maiores legitimidade e efetividade (concordância nominal)"
-  ],
-  "modelo": "gemma-4-31B-it",
-  "prompt": 8,
-  "temp": 0.0,
-  "versao": 3,
-  "essay": 7,
-  "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "No trecho 'proporciona, ainda, maiores legitimidade e efetividade', há um erro de concordância nominal; o adjetivo 'maiores' deveria concordar com os substantivos femininos 'legitimidade e efetividade', resultando em 'maiores legitimidade e efetividade' (aceitável se concordar com ambos) ou, preferencialmente, 'maior legitimidade e efetividade' ou 'maiores legitimidades e efetividades'. Contudo, a construção 'maiores legitimidade' soa inadequada na norma culta."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "No trecho 'proporciona, ainda, maiores legitimidade e efetividade', há um erro de concordância nominal; o correto seria 'maiores legitimidade e efetividade' apenas se ambos os substantivos fossem masculinos ou se o adjetivo concordasse com o conjunto, mas, sendo ambos femininos, o correto é 'maiores legitimidade e efetividade' (embora 'maior' no singular concordando com o mais próximo seja aceitável, o uso de 'maiores' exige que a concordância esteja rigorosamente alinhada ao gênero e número dos núcleos). Na verdade, o erro reside na concordância de 'maiores' com 'legitimidade' e 'efetividade', que embora femininos, aceitariam o plural, mas a construção soa truncada; contudo, o erro mais evidente é a falta de paralelismo ou a concordância inadequada em 'maiores legitimidade' (singular). O correto seria 'maior legitimidade e efetividade' ou 'maiores legitimidades e efetividades'."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "No trecho 'proporciona, ainda, maiores legitimidade e efetividade', há um erro de concordância nominal; o correto seria 'maiores legitimidade e efetividade' apenas se ambos os substantivos fossem masculinos ou se o adjetivo concordasse com o conjunto, mas, sendo ambos femininos, o correto é 'maiores legitimidade e efetividade' (embora 'maior' no singular concordando com o mais próximo seja aceitável, o uso de 'maiores' exige que a concordância esteja plena, porém a construção soa truncada; o ideal seria 'maior legitimidade e efetividade' ou 'maiores níveis de legitimidade e efetividade'). Nota: O texto é globalmente muito correto, mas apresenta esse deslize pontual."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "aliaça (ortografia)",
-      "favoreceria (falta de paralelismo/tempo verbal inadequado no contexto)",
-      "problemas ambientais (falta de vírgula após adjunto adverbial deslocado)",
-      "afirmas (erro de concordância verbal)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "'aliaça' (erro de ortografia/digitação)",
-      " 'vêm' (falta de acento circunflexo no plural: 'África e Ásia vem')",
-      "'afirmas' (erro de concordância verbal: 'conforme afirmas o embaixador')",
-      " 'nãoproliferação' (erro de ortografia/hifenização)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "aliaça (ortografia)",
-      "favoreceria (falta de paralelismo/tempo verbal inadequado no contexto)",
-      "problemas ambientais (falta de vírgula após adjunto adverbial deslocado)",
-      "afirmas (erro de concordância verbal)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "aliaça (ortografia)",
-      "favoreceria (falta de concordância/regência ou erro de digitação no contexto)",
-      "afirmas (erro de concordância verbal)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "aliaça (ortografia)",
-      "favoreceria (falta de concordância/regência ou erro de digitação no contexto)",
-      "afirmas (erro de concordância verbal)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "aliaça (ortografia)",
-      "favoreceria (falta de concordância/regência ou erro de digitação no contexto)",
-      "afirmas (erro de concordância verbal)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "aliaça (erro de digitação/ortografia)",
-      "favoreria (erro de digitação/ortografia)",
-      "afirmas (erro de concordância/digitação)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "aliaça (erro de digitação/ortografia)",
-      "favoreria (erro de digitação/ortografia)",
-      "afirmas (erro de concordância/digitação)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "aliaça (erro de digitação/ortografia)",
-      "favoreria (erro de digitação/ortografia)",
-      "afirmas (erro de concordância/digitação)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
     "ano": "2014"
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "maiores legitimidade"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "maiores legitimidade"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "maiores legitimidade"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "maiores legitimidade e efetividade"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "maiores legitimidade e efetividade (concordância nominal)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "maiores legitimidade e efetividade (concordância nominal)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "maiores legitimidade e efetividade (concordância nominal)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "aliança"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "aliança"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "aliança"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "aliança (ortografia/digitação)",
+      "favoreceria (regência/concordância temporal)",
+      "afirmas (flexão verbal)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "aliança (ortografia/digitação)",
+      "favoreceria (regência/concordância temporal)",
+      "afirmas (flexão verbal)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "aliança (ortografia/digitação)",
+      "favoreceria (regência/concordância temporal)",
+      "afirmas (flexão verbal)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "liaça¹"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "liaça¹"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "liaça¹"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1103,11 +1124,13 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1A": 9.5,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1117,11 +1140,13 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1A": 9.5,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1169,8 +1194,13 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Nenhum erro evidente identificado."
+    ],
+    "feedbacks": [
+      "Organização do texto e desenvolvimento do tema: O texto apresenta uma estrutura primorosa, com introdução, desenvolvimento e conclusão organicamente ligados. O candidato demonstra alta capacidade de síntese ao integrar os três textos motivadores (especialmente as teses de Azeredo da Silveira) a uma análise contemporânea. A argumentação é sofisticada, transcendendo a mera repetição dos enunciados para propor uma reflexão sobre a legitimidade democrática da política externa via diplomacia pública. Há um excelente encadeamento de ideias, movendo-se com fluidez entre a tradição histórica (Rio Branco/Silveira), a realidade sociopolítica interna (Jornadas de Junho) e a inserção internacional (BRICS/Multipolaridade).",
+      "Correção gramatical e propriedade da linguagem: Domínio pleno da norma culta. O vocabulário é rico, preciso e adequado ao registro formal exigido pelo CACD. A sintaxe é elegante, com uso correto de subordinação e pontuação, contribuindo para a clareza e a fluidez da leitura."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1181,8 +1211,13 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Nenhum erro evidente identificado."
+    ],
+    "feedbacks": [
+      "Organização do texto e desenvolvimento do tema: O texto apresenta uma estrutura primorosa, com introdução, desenvolvimento e conclusão organicamente ligados. O candidato demonstra alta capacidade de síntese ao integrar os três textos motivadores (especialmente as teses de Azeredo da Silveira) a uma análise contemporânea. A argumentação é sofisticada, transcendendo a mera paráfrase dos enunciados para propor uma reflexão sobre a legitimidade democrática da política externa via diplomacia pública. Há um excelente encadeamento de ideias, movendo-se com fluidez entre a tradição histórica (Rio Branco/Silveira), a realidade sociopolítica interna (Jornadas de Junho) e a inserção internacional (BRICS/Multipolaridade).",
+      "Correção gramatical e propriedade da linguagem: Domínio pleno da norma culta. O vocabulário é rico, preciso e adequado ao registro formal exigido pelo CACD. A sintaxe é elegante, com uso correto de subordinação e pontuação, contribuindo para a clareza e a fluidez da leitura."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1193,8 +1228,13 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Nenhum erro evidente identificado."
+    ],
+    "feedbacks": [
+      "Organização do texto e desenvolvimento do tema: O texto apresenta uma estrutura primorosa, com introdução, desenvolvimento e conclusão organicamente ligados. O candidato demonstra alta capacidade de síntese ao integrar os três textos motivadores, utilizando as referências a Azeredo da Silveira não apenas como citações, mas como eixos condutores da argumentação. Há uma reflexão profunda sobre a relação entre legitimidade democrática interna (diplomacia pública) e eficácia externa, elevando a discussão para além da superfície.",
+      "Correção gramatical e propriedade da linguagem: Domínio exemplar da norma culta. O vocabulário é rico e preciso ('insulamento', 'hodiernamente'), e a sintaxe é fluida, demonstrando maturidade estilística compatível com as exigências da carreira diplomática."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1203,13 +1243,13 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Concordância verbal: 'O significativo desenvolvimento socioeconômico obtido pelo Brasil... credenciam-no' (O sujeito é 'desenvolvimento', portanto o verbo deveria estar no singular: 'credencia-no').",
-      "Pontuação/Sintaxe: 'garante uma atuação coerente a principista' (Falta a conjunção 'e' para ligar os adjetivos ou a substituição por vírgula, resultando em erro de coesão textual)."
+      "Concordância verbal: 'O significativo desenvolvimento socioeconômico [...] credenciam-no' (correto seria 'credencia-no').",
+      "Pontuação/Regência: 'atuação coerente a principista' (falta conjunção coordenativa 'e' ou vírgula, tornando a expressão confusa)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1220,13 +1260,13 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Concordância verbal: 'O significativo desenvolvimento socioeconômico obtido pelo Brasil... credenciam-no' (O sujeito é 'desenvolvimento', portanto o verbo deveria estar no singular: 'credencia-no').",
-      "Pontuação/Sintaxe: 'garante uma atuação coerente a principista' (Falta a conjunção 'e' para ligar os adjetivos ou a substituição por vírgula, resultando em erro de coesão textual)."
+      "Concordância verbal: 'O significativo desenvolvimento socioeconômico [...] credenciam-no' (correto seria 'credencia-no').",
+      "Pontuação/Regência: 'atuação coerente a principista' (falta conjunção coordenativa 'e' ou vírgula, tornando a frase agramatical)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1237,13 +1277,13 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Concordância verbal: 'O significativo desenvolvimento socioeconômico obtido pelo Brasil... credenciam-no' (O sujeito é 'desenvolvimento', portanto o verbo deveria estar no singular: 'credencia-no').",
-      "Pontuação/Sintaxe: 'garante uma atuação coerente a principista' (Falta a conjunção 'e' para ligar os adjetivos ou a substituição por vírgula, resultando em erro de coesão textual)."
+      "Concordância verbal: 'O significativo desenvolvimento socioeconômico [...] credenciam-no' (correto seria 'credencia-no').",
+      "Pontuação/Regência: 'atuação coerente a principista' (falta conjunção coordenativa 'e' ou vírgula, tornando a frase agramatical)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1257,7 +1297,7 @@
     "nota_final": 54.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "concordância verbal em 'O significativo desenvolvimento socioeconômico obtido pelo Brasil, nas últimas décadas, credenciam-no' (o correto seria 'credencia-no')"
+      "concordância verbal em 'desenvolvimento socioeconômico... credenciam-no' (sujeito singular)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1271,7 +1311,7 @@
     "nota_final": 54.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "concordância verbal em 'O significativo desenvolvimento socioeconômico obtido pelo Brasil, nas últimas décadas, credenciam-no' (o correto seria 'credencia-no')"
+      "concordância verbal em 'credenciam-no' (sujeito singular 'desenvolvimento')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1285,7 +1325,7 @@
     "nota_final": 54.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "concordância verbal em 'O significativo desenvolvimento socioeconômico obtido pelo Brasil, nas últimas décadas, credenciam-no' (o correto seria 'credencia-no')"
+      "concordância verbal em 'desenvolvimento socioeconômico... credenciam-no' (sujeito singular)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1299,7 +1339,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Concordância verbal: 'O significativo desenvolvimento socioeconômico obtido pelo Brasil, nas últimas décadas, credenciam-no' (o sujeito 'desenvolvimento' é singular, exigindo 'credencia-no')"
+      "concordância verbal em 'O significativo desenvolvimento socioeconômico [...] credenciam-no' (o correto seria 'credencia-no')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1313,7 +1353,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Concordância verbal: 'O significativo desenvolvimento socioeconômico obtido pelo Brasil, nas últimas décadas, credenciam-no' (o sujeito 'desenvolvimento' é singular, exigindo 'credencia-no')"
+      "concordância verbal em 'O significativo desenvolvimento socioeconômico [...] credenciam-no' (o correto seria 'credencia-no')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1327,7 +1367,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Concordância verbal: 'O significativo desenvolvimento socioeconômico obtido pelo Brasil, nas últimas décadas, credenciam-no' (o sujeito 'desenvolvimento' é singular, exigindo 'credencia-no')"
+      "concordância verbal em 'O significativo desenvolvimento socioeconômico [...] credenciam-no' (o correto seria 'credencia-no')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1338,9 +1378,9 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1352,9 +1392,9 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1366,9 +1406,9 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1377,139 +1417,169 @@
     "temp": 0.0,
     "versao": 3,
     "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Nenhum erro evidente identificado"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização formal, com introdução, desenvolvimento e conclusão bem delimitados. Há um encadeamento lógico fluido e uso correto de conectivos, garantindo a coesão textual.",
+      "Quanto ao conteúdo, o candidato demonstra domínio do tema e dialoga corretamente com os textos motivadores, citando referências pertinentes (como Azeredo da Silveira) e relacionando a política externa ao projeto interno de democratização e desenvolvimento.",
+      "A argumentação é clara e pertinente, embora siga uma linha predominantemente descritiva e institucional, sem aprofundamentos teóricos ou provocações analíticas que a elevariam às faixas 'Excelente' ou 'Excepcional'.",
+      "A correção gramatical é rigorosa, com vocabulário preciso e adequado ao registro formal exigido pelo CACD."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Nenhum erro evidente identificado"
+    ],
+    "feedbacks": [
+      "Organização do texto e desenvolvimento do tema: O texto apresenta excelente estrutura formal, com introdução, desenvolvimento e conclusão bem delimitados. Há um encadeamento lógico fluido e as ideias são expostas com clareza. O candidato dialoga corretamente com os textos motivadores, integrando referências históricas (Azeredo da Silveira) e contemporâneas para sustentar a tese de que a política externa deve ser um projeto estratégico, democrático e orientado ao multilateralismo. A argumentação é pertinente e reflete a mentalidade institucional esperada para o cargo.",
+      "Correção gramatical e propriedade da linguagem: O domínio da norma culta é consistente. O vocabulário é preciso e adequado ao registro formal exigido pelo CACD, utilizando conectivos de forma eficaz para garantir a coesão textual."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Nenhum erro evidente identificado"
+    ],
+    "feedbacks": [
+      "Organização do texto e desenvolvimento do tema: O texto apresenta excelente estrutura formal, com introdução, desenvolvimento e conclusão bem delimitados. Há um encadeamento lógico fluido e as ideias são expostas com clareza. O candidato dialoga corretamente com os textos motivadores, integrando referências históricas (Azeredo da Silveira) e contemporâneas para sustentar a tese de que a política externa deve ser um projeto estratégico, democrático e orientado ao multilateralismo. A argumentação é pertinente e reflete a mentalidade institucional esperada para o cargo.",
+      "Correção gramatical e propriedade da linguagem: O domínio da norma culta é consistente. O vocabulário é preciso e adequado ao registro formal exigido pelo CACD, utilizando conectivos de forma eficaz para garantir a coesão textual."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 11,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'Diálogos sobre Política Externa': falta de artigo definido ('as do') ou ajuste de concordância para referenciar a iniciativa corretamente.",
+      "'livro branco': embora aceito como termo técnico, a ausência de maiúsculas em documentos oficiais específicos costuma ser apontada, mas aqui considerarei apenas a fluidez sintática."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'Diálogos sobre Política Externa': falta de artigo definido ('as do') ou ajuste de concordância para referenciar a iniciativa corretamente.",
+      "'livro branco': embora aceito como termo técnico, a ausência de maiúsculas em documentos oficiais específicos costuma ser apontada, mas aqui considerarei apenas a fluidez sintática."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'Diálogos sobre Política Externa': falta de artigo definido ('as do') ou ajuste de concordância para referir-se à iniciativa/programa.",
+      "'livro branco de política externa': embora aceito, a norma culta sugere iniciais maiúsculas para documentos oficiais específicos (Livro Branco)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 12,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 12,
     "ano": "2014"
   },
   {
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 11,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 11,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 11,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 11,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 11,
-    "ano": "2014"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 11,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 12,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 12,
-    "ano": "2014"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 12,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 12,
-    "ano": "2014"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -1518,7 +1588,7 @@
     "ano": "2014"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1532,8 +1602,13 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O texto é muito bem estruturado, seguindo uma progressão lógica clara. O candidato respondeu plenamente ao comando do enunciado, integrando as dimensões interna (democratização/legitimidade) e externa (multipolaridade/novas agendas). A utilização de referências externas (Kissinger e Sérgio Buarque de Holanda) foi pertinente e elevou o nível da discussão, demonstrando capacidade de síntese entre teoria e prática diplomática.",
+      "Linguagem: A escrita é formal, polida e adequada ao padrão exigido pelo CACD. Há bom uso de conectivos e vocabulário preciso, garantindo a fluidez da leitura."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1544,8 +1619,13 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O texto é muito bem estruturado, seguindo uma progressão lógica clara. O candidato respondeu plenamente ao comando do enunciado, integrando as dimensões interna (democratização/legitimidade) e externa (multipolaridade/novas agendas). A utilização de referências externas (Kissinger e Sérgio Buarque de Holanda) foi pertinente e elevou o nível da discussão, demonstrando capacidade de síntese entre teoria e prática diplomática.",
+      "Linguagem: A escrita é formal, polida e adequada ao padrão exigido pelo CACD. Há bom uso de conectivos e vocabulário preciso, garantindo a fluidez da leitura."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1556,8 +1636,13 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O texto é muito bem estruturado, seguindo uma progressão lógica clara. O candidato respondeu plenamente ao comando do enunciado, integrando as dimensões interna (democratização/legitimidade) e externa (multipolaridade/novas agendas). A utilização de referências externas (Kissinger e Sérgio Buarque de Holanda) foi pertinente e elevou o nível da discussão, demonstrando capacidade de síntese entre teoria e prática diplomática.",
+      "Linguagem: A escrita é formal, polida e adequada ao padrão exigido pelo CACD. Há bom uso de conectivos e vocabulário preciso, garantindo a fluidez da leitura."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1566,13 +1651,12 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições (G-20 e multipolaridade), quando o termo deve ser restrito a lugares físicos.",
-      "Falta de concordância nominal em 'a prevalências dos direitos humanos' (deveria ser 'a prevalência' ou 'as prevalências')."
+      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições ('G-20 financeiro', 'multipolaridade') - ocorrido duas vezes."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1583,12 +1667,12 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições (G-20 e multipolaridade), quando o termo deve ser utilizado exclusivamente para lugares físicos."
+      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições ('G-20 financeiro', 'multipolaridade') - ocorrido duas vezes."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1599,13 +1683,12 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições (G-20 e multipolaridade), quando o termo deve ser restrito a lugares físicos.",
-      "Ausência de concordância nominal em 'a prevalências dos direitos humanos' (deveria ser 'a prevalência' ou 'as prevalências')."
+      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições ('G-20 financeiro', 'multipolaridade') - ocorrido duas vezes."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1616,10 +1699,10 @@
     "ano": "2014"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos (G-20 e multipolaridade), quando o termo deve ser utilizado exclusivamente para lugares físicos."
+      "uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições (G-20 e multipolaridade)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1630,10 +1713,10 @@
     "ano": "2014"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos (G-20 e multipolaridade), quando o termo deve ser utilizado exclusivamente para lugares físicos."
+      "uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições (G-20 e multipolaridade)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1644,10 +1727,10 @@
     "ano": "2014"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos (G-20 e multipolaridade), quando o termo deve ser utilizado exclusivamente para lugares físicos."
+      "uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições (G-20 e multipolaridade)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1661,7 +1744,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos ou instituições (G-20 e multipolaridade), quando o termo deve ser utilizado exclusivamente para lugares físicos."
+      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições ('G-20 financeiro', 'multipolaridade'), quando este deve ser restrito a lugares físicos."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1675,7 +1758,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos ou instituições (G-20 e multipolaridade), quando o termo deve ser utilizado exclusivamente para lugares físicos."
+      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições ('G-20 financeiro', 'multipolaridade'), quando este deve ser restrito a lugares físicos."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1689,7 +1772,7 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos ou instituições (G-20 e multipolaridade), quando o termo deve ser utilizado exclusivamente para lugares físicos."
+      "Uso inadequado do pronome relativo 'onde' para referir-se a conceitos abstratos/instituições ('G-20 financeiro', 'multipolaridade'), quando deveria ser utilizado 'no qual' ou 'em que'. Repetido duas vezes."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1700,11 +1783,16 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 5.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de artigo definido em 'discurso proferido' (parágrafo 2 - paralelismo sintático)",
+      "Uso inadequado de vírgulas isolando adjunto adverbial curto ('ora vigentes, no Brasil')",
+      "Ausência de artigo definido em 'ensejou surgimento' (parágrafo 4)",
+      "Ausência de artigo definido em 'evitar... surgimento de rivalidades' (parágrafo 6)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1714,11 +1802,16 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 5.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de artigo definido em 'discurso proferido' (parágrafo 2 - paralelismo sintático)",
+      "Uso inadequado de vírgulas isolando adjunto adverbial curto ('ora vigentes, no Brasil')",
+      "Ausência de artigo definido em 'ensejou surgimento' (parágrafo 4)",
+      "Ausência de artigo definido em 'evitar... surgimento de rivalidades' (parágrafo 6)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1728,11 +1821,16 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 5.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de artigo definido em 'discurso proferido' (parágrafo 2 - paralelismo sintático)",
+      "Uso inadequado de vírgulas isolando adjunto adverbial curto ('ora vigentes, no Brasil')",
+      "Ausência de artigo definido em 'ensejou surgimento' (parágrafo 4)",
+      "Ausência de artigo definido em 'evitar... surgimento de rivalidades' (parágrafo 6)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1742,7 +1840,7 @@
     "ano": "2014"
   },
   {
-    "nota_final": 48.5,
+    "nota_final": 42.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1754,7 +1852,7 @@
     "ano": "2014"
   },
   {
-    "nota_final": 48.5,
+    "nota_final": 42.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1766,7 +1864,7 @@
     "ano": "2014"
   },
   {
-    "nota_final": 48.5,
+    "nota_final": 42.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1779,8 +1877,14 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de artigo definido em 'ensejou surgimento' (linha 20) - correto: 'ensejou o surgimento'.",
+      "Ausência de artigo definido em 'evitar... surgimento de rivalidades' (linha 34) - correto: 'evitar o surgimento'.",
+      "Pontuação inadequada/excessiva em 'As circunstâncias internas, ora vigentes, no Brasil,' (linha 13), onde a vírgula após 'vigentes' separa indevidamente o adjunto adverbial.",
+      "observacoes_adicionaiswriteObject Elimina a redundância excessiva e melhora a conexão entre parágrafos para elevar a nota.",
+      "analise_criticawriteObject "
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -1791,8 +1895,14 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de artigo definido em 'ensejou surgimento' (linha 20) - correto: 'ensejou o surgimento'.",
+      "Ausência de artigo definido em 'evitar... surgimento de rivalidades' (linha 34) - correto: 'evitar o surgimento'.",
+      "Pontuação inadequada/excessiva em 'As circunstâncias internas, ora vigentes, no Brasil,' (linha 13), onde a vírgula após 'vigentes' separa indevidamente o adjunto adverbial.",
+      "observacoes_adicionaiswriteObject Elimina a redundância excessiva e melhora a conexão entre parágrafos para elevar a nota.",
+      "analise_criticawriteObject "
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -1803,8 +1913,12 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ausência de artigo definido em 'ensejou surgimento' (linha 23) - correto: 'ensejou o surgimento'.",
+      "Ausência de artigo definido em 'evitar... surgimento de rivalidades' (linha 35) - correto: 'evitar o surgimento'.",
+      "observacao_sobre_estilo Eliminação excessiva de conectivos resultando em frases curtas e truncadas."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -1814,9 +1928,9 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 5.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1828,11 +1942,13 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 5.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro gramatical relevante identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1842,9 +1958,9 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 7.5,
+    "nota_1B": 6.0,
+    "nota_1C": 5.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1856,7 +1972,7 @@
     "ano": "2014"
   },
   {
-    "nota_final": 48.5,
+    "nota_final": 42.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1868,7 +1984,7 @@
     "ano": "2014"
   },
   {
-    "nota_final": 48.5,
+    "nota_final": 42.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1880,7 +1996,7 @@
     "ano": "2014"
   },
   {
-    "nota_final": 48.5,
+    "nota_final": 42.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -1894,8 +2010,13 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O texto é muito bem estruturado, seguindo uma progressão lógica clara. O candidato consegue articular a relação entre a conjuntura interna (políticas sociais, composição demográfica) e a projeção externa (cooperação Sul-Sul, mediação de conflitos), respondendo satisfatoriamente ao comando do enunciado. A argumentação é pertinente e utiliza referências adequadas (Constituição de 1988, conceitos sociológicos e citações), embora mantenha um tom predominantemente descritivo/expositivo, faltando-lhe talvez um aprofundamento crítico ou originalidade teórica para atingir as faixas superiores.",
+      "Linguagem: A escrita é fluida, formal e adequada ao padrão exigido para o CACD. Há bom uso de conectivos e vocabulário preciso."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1906,8 +2027,13 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta bom domínio da norma culta."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O texto é bem estruturado, seguindo uma sequência lógica que conecta a conjuntura interna às projeções externas. O candidato consegue articular os conceitos presentes nos textos motivadores (desenvolvimento, multipolaridade, perspectiva estratégica) com exemplos concretos, como a cooperação técnica sul-sul e a reforma do CSNU. A argumentação é clara e coerente, embora mantenha-se em um campo seguro/tradicional da retórica diplomática brasileira, sem aprofundamentos teóricos disruptivos que o levariam às faixas superiores.",
+      "Linguagem: A escrita é formal, precisa e adequada ao cargo. Há uso correto de conectivos e vocabulário pertinente ao tema (ex: 'propugna', 'coadunam-se')."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1918,8 +2044,13 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais evidentes; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O texto é muito bem estruturado, seguindo uma progressão lógica clara. O candidato consegue articular a relação entre a conjuntura interna (programas sociais, composição étnica/social) e a projeção externa (cooperação técnica, mediação de conflitos), respondendo satisfatoriamente ao comando do enunciado. A argumentação é pertinente e utiliza referências adequadas (Constituição de 1988, conceitos sociológicos e citações), embora mantenha um tom predominantemente descritivo e linear, evitando análises críticas mais profundas ou complexas sobre as contradições contemporâneas da política externa.",
+      "Linguagem: A escrita é formal, precisa e adequada ao padrão exigido para o CACD. Há bom uso de conectivos e vocabulário variado, garantindo a fluidez da leitura."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1928,13 +2059,15 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "'muito teóricos' (erro de concordância nominal; o correto seria 'muitos teóricos')",
-      "'consolidarse' (erro de ortografia/digitação; falta o hífen em 'consolidar-se')"
+      "'muito teóricos' (falta de pluralização do determinante 'muitos')",
+      "'consolidarse' (ausência de hífen em 'consolidar-se')",
+      "'politica' (ausência de acento gráfico em 'política')",
+      "Uso inadequado/impreciso de vírgula em passagens de coordenação"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1945,13 +2078,15 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "'muito teóricos' (erro de concordância nominal; o correto seria 'muitos teóricos')",
-      "'consolidarse' (erro de ortografia/digitação; falta o hífen em 'consolidar-se')"
+      "'muito teóricos' -> erro de concordância nominal; correto 'muitos teóricos'.",
+      "'consolidarse' -> erro de ortografia/digitação; correto 'consolidar-se'.",
+      "'politica' -> ausência de acento gráfico; correto 'política'.",
+      "Uso inadequado de vírgula separando sujeito de predicado em 'reservas energéticas e naturais, que... podem assegurar' (embora aceitável como oração explicativa, há imprecisão sintática em trechos adjacentes)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1962,13 +2097,15 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "'muito teóricos' (erro de concordância nominal; o correto seria 'muitos teóricos')",
-      "'consolidarse' (erro de ortografia/digitação; falta o hífen em 'consolidar-se')"
+      "'muito teóricos' -> erro de concordância nominal; correto 'muitos teóricos'.",
+      "'consolidarse' -> erro de ortografia/digitação; correto 'consolidar-se'.",
+      "'politica' -> ausência de acento gráfico; correto 'política'.",
+      "Uso inadequado de vírgula separando sujeito de predicado em 'reservas energéticas e naturais, que... podem assegurar' (embora aceitável como oração explicativa, há imprecisão sintática em trechos adjacentes)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1980,10 +2117,9 @@
   },
   {
     "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "muito teóricos (erro de concordância nominal: o correto seria 'muitos teóricos')",
-      "consolidarse (erro de ortografia/digitação: o correto seria 'consolidar-se')"
+      "muito teóricos"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1995,10 +2131,9 @@
   },
   {
     "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "muito teóricos (erro de concordância nominal: o correto seria 'muitos teóricos')",
-      "consolidarse (erro de ortografia/digitação: o correto seria 'consolidar-se')"
+      "muito teóricos"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2009,11 +2144,10 @@
     "ano": "2014"
   },
   {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 2,
+    "nota_final": 51.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "muito teóricos (erro de concordância nominal: o correto seria 'muitos teóricos')",
-      "consolidarse (erro de ortografia/digitação: o correto seria 'consolidar-se')"
+      "muito teóricos"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2025,10 +2159,9 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "'muito teóricos' (falta de concordância nominal: o correto seria 'muitos teóricos')",
-      "'consolidarse' (erro de ortografia/digitação: falta do hífen em 'consolidar-se')"
+      "politica (falta de acento gráfico)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2040,10 +2173,9 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "'muito teóricos' (falta de concordância nominal: o correto seria 'muitos teóricos')",
-      "'consolidarse' (erro de ortografia/digitação: falta do hífen em 'consolidar-se')"
+      "politica (falta de acento gráfico)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2055,10 +2187,9 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "'muito teóricos' (falta de concordância nominal: o correto seria 'muitos teóricos')",
-      "'consolidarse' (erro de ortografia/digitação: falta do hífen em 'consolidar-se')"
+      "politica (falta de acento gráfico)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2069,11 +2200,14 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "à tempo (Erro de crase diante de palavra masculina - correto: 'a tempo')",
+      "crises económicas (Grafia arcaica/portuguesa; embora aceitável em contextos específicos, foge ao padrão brasileiro esperado no CACD)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -2083,11 +2217,14 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "à tempo (Erro de crase diante de palavra masculina - correto: 'a tempo')",
+      "crises económicas (Grafia arcaica/portuguesa; embora aceitável em contextos específicos, foge ao padrão brasileiro esperado no CACD)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -2097,11 +2234,14 @@
     "ano": "2014"
   },
   {
-    "nota_1A": 10,
-    "nota_1B": 10,
-    "nota_1C": 20,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "à tempo (Erro de crase diante de palavra masculina - correto: 'a tempo')",
+      "crises económicas (Grafia arcaica/portuguesa; embora aceitável em contextos específicos, foge ao padrão brasileiro esperado no CACD)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -2148,12 +2288,11 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 4,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Uso de 'para¹' (provável erro de digitação/formatação)",
-      "Uso de 'à tempo' (erro de crase: 'tempo' é palavra masculina)",
-      "Uso de 'porém4' (provável erro de digitação/formatação)",
-      "Uso de 'efeito também6' (provável erro de digitação/formatação)"
+      "Uso inadequado da crase em 'convocadas à tempo' (tempo é palavra masculina)",
+      "Erro de acentuação/ortografia em 'crises económicas' (grafia portuguesa; no português brasileiro utiliza-se 'econômicas')",
+      "Ausência de vírgula após adjunto adverbial deslocado em 'com diferentes raças, credos, culturas e opiniões políticas significa' (falta vírgula para fechar a intercalação before the verb)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2165,12 +2304,11 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 4,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Uso de 'para¹' (provável erro de digitação/formatação)",
-      "Uso de 'à tempo' (erro de crase: 'tempo' é palavra masculina)",
-      "Uso de 'porém4' (provável erro de digitação/formatação)",
-      "Uso de 'efeito também6' (provável erro de digitação/formatação)"
+      "Uso inadequado da crase em 'convocadas à tempo' (tempo é palavra masculina)",
+      "Erro de acentuação/ortografia em 'crises económicas' (grafia portuguesa; no português brasileiro utiliza-se 'econômicas')",
+      "Ausência de vírgula após adjunto adverbial deslocado em 'com diferentes raças, credos, culturas e opiniões políticas significa' (falta vírgula para fechar a intercalação before the verb)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2182,12 +2320,11 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 4,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Uso inadequado da crase em 'à tempo' (tempo, neste contexto, é palavra masculina).",
-      "Erro de concordância em 'população vasta e matizada... significa' (o sujeito é composto por 'amplitude geográfica' e 'população', exigindo o verbo no plural: significam).",
-      "Uso inadequado da crase em 'à governança global' (embora aceitável em alguns contextos, a regência de 'essencial' geralmente pede a preposição 'para' ou 'a' sem crase, a menos que se considere a governança como entidade específica, mas soa forçado).",
-      "Uso de 'económicas' (grafia europeia) em um texto que segue a norma brasileira, embora seja um deslize menor."
+      "Uso inadequado da crase em 'convocadas à tempo' (tempo é palavra masculina)",
+      "Erro de acentuação/ortografia em 'crises económicas' (grafia portuguesa; no português brasileiro utiliza-se 'econômicas')",
+      "Ausência de vírgula após adjunto adverbial deslocado extenso em 'com diferentes raças, credos, culturas e opiniões políticas significa...' (falta vírgula para fechar a intercalação before the verb)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2200,11 +2337,11 @@
   {
     "nota_1A": 7.0,
     "nota_1B": 6.0,
-    "nota_1C": 10.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'orgãos' (falta de acento til: órgãos)",
-      "Repetição excessiva da conjunção 'pois' no primeiro parágrafo ('...faz-se necessário, pois ele permitirá... pois a realidade...')"
+      "Órgãos",
+      "\text{pós-2015} \rightarrow \text{falta de contextualização temporal/referencial}"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2217,11 +2354,11 @@
   {
     "nota_1A": 7.0,
     "nota_1B": 6.0,
-    "nota_1C": 10.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Órgãos (falta de acento gráfico no texto original: 'orgãos')",
-      "Concordância/Regência: 'estratégia internacional de longo prazo do Brasil' (embora aceitável, a redação apresenta repetições viciosas de termos como 'consecução' e 'ensejou', que prejudicam a fluidez, mas o erro pontual é a acentuação)."
+      "Órgãos",
+      "\text{pós-2015} \rightarrow \text{falta de contextualização temporal/referencial}"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2234,11 +2371,13 @@
   {
     "nota_1A": 7.0,
     "nota_1B": 6.0,
-    "nota_1C": 10.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 5.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "'orgãos' (falta de acento til: órgãos)",
-      "Repetição excessiva da conjunção 'pois' no primeiro parágrafo ('...faz-se necessário, pois ele permitirá... pois a realidade...')"
+      "Órgãos",
+      "\n(falta de vírgula após 'recentes' - adjunto adverbial deslocado)",
+      ">\n(repetição excessiva da conjunção 'pois' no primeiro parágrafo)",
+      ">\n(ausência de acento grave em 'visando a' / erro de regência nominal/verbal dependendo da interpretação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2250,8 +2389,12 @@
   },
   {
     "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos (falta de acento)",
+      "tornar-se-ão (uso inadequado do tempo verbal/estilo)",
+      "consecução da política externa (repetição excessiva do termo)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -2262,8 +2405,12 @@
   },
   {
     "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos (falta de acento)",
+      "pós-2015² (uso inadequado de sobrescrito/referência sem nota)",
+      "estratégia internacional de longo prazo do Brasil (repetição excessiva de termos)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -2274,8 +2421,12 @@
   },
   {
     "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "orgãos (falta de acento)",
+      "tornar-se-ão (uso inadequado do tempo verbal/estilo)",
+      "consecução da política externa brasileira... a qual deve sempre visar ao desenvolvimento inclusive (repetição excessiva de conectivos relativos)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -2288,9 +2439,9 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "orgãos (falta de acento agudo: órgãos)",
-      "tornar-se-ão (embora gramaticalmente correto, o uso do futuro do presente em contextos argumentativos modernos pode soar excessivamente formal ou arcaico, mas aqui é aceitável; contudo, a repetição de estruturas similares torna o texto monótono)",
-      "consecução da política externa brasileira (repetição excessiva do termo 'consecução' ao longo do texto)"
+      "orgãos (falta de acento circunflexo)",
+      "tornar-se-ão (embora correto, o uso excessivo de mesóclise/futuros sintéticos em certos contextos pode soar arcaico, mas aqui é aceitável; nota-se apenas a repetição de estruturas similares)",
+      "ausência de conectores interparágrafos mais fluidos (estilo truncado)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2304,9 +2455,9 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "orgãos (falta de acento circunflexo: órgãos)",
-      "tornar-se-ão (embora gramaticalmente correto, o uso do futuro do presente em contextos argumentativos modernos pode soar excessivamente formal ou arcaico, mas aqui é aceitável; contudo, a repetição de estruturas similares torna o texto monótono)",
-      "consecução da política externa brasileira (repetição excessiva do termo 'consecução' ao longo do texto)"
+      "orgãos (falta de acento circunflexo)",
+      "tornar-se-ão (embora correto, o uso excessivo de mesóclise/futuros sintéticos em certos contextos pode soar arcaico, mas aqui é aceitável; o erro real reside na falta de paralelismo em algumas enumerações)",
+      "repetição excessiva da palavra 'objetivos' e 'longo prazo', prejudicando a fluidez estilística"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2320,9 +2471,9 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "orgãos (falta de acento agudo: órgãos)",
-      "tornar-se-ão (embora gramaticalmente correto, o uso do futuro do presente em contextos argumentativos modernos pode soar excessivamente formal ou arcaico, mas aqui é aceitável; contudo, a repetição de estruturas similares torna o texto monótono)",
-      "consecução da política externa brasileira (repetição excessiva do termo 'consecução' ao longo do texto)"
+      "orgãos (falta de acento agudo)",
+      "tornar-se-ão (embora correto, o uso excessivo de mesóclise/futuros sintéticos em certos contextos pode soar arcaico, mas aqui é aceitável; nota-se apenas a repetição de conectivos simples)",
+      "repetição excessiva da palavra 'objetivos' e 'desenvolvimento', prejudicando a fluidez estilística."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",

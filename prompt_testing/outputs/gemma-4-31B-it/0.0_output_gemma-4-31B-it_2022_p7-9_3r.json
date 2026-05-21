@@ -5,10 +5,10 @@
     "nota_1C": 19.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "...possibilidade de erradicação guerra (falta de preposição 'da')",
-      "...a guerra acontece, quando a política (vírgula indevida separando a oração principal da subordinada adverbial temporal)",
-      "...Tratado de Não-Proliferação Nuclear, em 1967 (erro de precisão histórica/data: o TNP é de 1968)",
-      "...apoiou- se (erro de digitação/espaçamento)"
+      "erradicação guerra (falta de preposição 'da')",
+      "acontece, quando (vírgula indevida separando oração principal de subordinada adverbial temporal/condicional)",
+      "apoiou- se (espaçamento inadequado após hífen)",
+      "causar.Uma (ausência de espaço após ponto final)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -24,10 +24,10 @@
     "nota_1C": 19.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "...possibilidade de erradicação guerra (falta de preposição 'da')",
-      "...a guerra acontece, quando a política (vírgula indevida separando a oração principal da subordinada adverbial temporal)",
-      "...Tratado de Não-Proliferação Nuclear, em 1967 (erro de precisão histórica/data: o TNP é de 1968)",
-      "...apoiou- se (erro de digitação/espaçamento)"
+      "erradicação guerra (falta de preposição 'da')",
+      "guerra acontece, quando (vírgula separando oração principal de subordinada adverbial temporal deslocada/integrante)",
+      "apoiou- se (espaçamento indevido após hífen)",
+      "que diminuíam o alcance de mísseis que levam armas nucleares (repetição viciosa de 'que' / cacofonia)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -43,10 +43,10 @@
     "nota_1C": 19.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "...possibilidade de erradicação guerra (falta de preposição 'da')",
-      "...a guerra acontece, quando a política (vírgula indevida separando a oração principal da subordinada adverbial temporal)",
-      "...Tratado de Não-Proliferação Nuclear, em 1967 (erro factual/cronológico: o TNP é de 1968, embora a redação foque na gramática, a precisão técnica no CACD é avaliada no conteúdo, mas a pontuação aqui é gramatical)",
-      "...apoiou- se (espaço indevido entre o hífen e o pronome)"
+      "erradicação guerra (falta de preposição 'da')",
+      "guerra acontece, quando (vírgula separando oração principal de subordinada adverbial temporal deslocada/integrante)",
+      "apoiou- se (espaçamento indevido após hífen)",
+      "que diminuíam o alcance de mísseis que levam armas nucleares (repetição viciosa de 'que' / cacofonia)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -57,11 +57,9 @@
     "ano": "2022"
   },
   {
-    "nota_final": 56.5,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "A redação apresenta excelente domínio da norma culta, com raras imprecisões pontuais de pontuação (ex: vírgulas desnecessárias separando sujeito de predicado ou em adjuntos adverbiais curtos), que não comprometem a fluidez nem a clareza do texto."
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -71,11 +69,9 @@
     "ano": "2022"
   },
   {
-    "nota_final": 56.5,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "A redação apresenta excelente domínio da norma culta, com raras imprecisões pontuais de pontuação (ex: vírgulas desnecessárias separando sujeito de predicado ou em adjuntos adverbiais curtos), que não comprometem a fluidez nem a clareza do texto."
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -85,11 +81,9 @@
     "ano": "2022"
   },
   {
-    "nota_final": 56.5,
+    "nota_final": 54.5,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "A redação apresenta excelente domínio da norma culta, com raras imprecisões pontuais de pontuação (ex: vírgulas desnecessárias separando sujeito de predicado ou em adjuntos adverbiais curtos), que não comprometem a fluidez nem a clareza do texto."
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -100,11 +94,12 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Vírgula indevida separando o sujeito do predicado: '...a guerra acontece, quando a política...' (O correto seria sem a vírgula antes de 'quando', dado que a oração subordinada temporal está restringindo o sentido).",
-      "Vírgula indevida separando o sujeito do predicado: '...o conflito ideológico entre os Estados Unidos e a União Soviética acarretou uma corrida armamentista, que, por sua vez, fez as potências desenvolverem armas nucleares cada vez mais destrutivas.' (Embora a pontuação esteja correta no trecho citado, há uma vírgula desnecessária em '...um esforço, para estabelecer uma cultura...', separando o substantivo de seu complemento).",
-      "Vírgula indevida: '...Tratado de Não-Proliferação Nuclear, em 1967, que inaugurou uma fase de maior estabilidade, na Guerra Fria...' (A vírgula após 'estabilidade' é desnecessária e quebra a fluidez da locução adverbial de tempo)."
+      "Vírgula indevida separando sujeito de predicado ('...é necessário um esforço, para estabelecer...' - embora aceitável como pausa enfática, beira a imprecisão sintática neste contexto)",
+      "Vírgula indevida após advérbio curto/conjunção temporal ('A guerra acontece, quando a política...')",
+      "Erro de pontuação/vírgula excessiva ('Além da assinatura do Tratado..., em 1967, que inaugurou...', a vírgula após 'assinatura' isola incorretamente o complemento)",
+      "Uso de vírgula inadequada antes de orações subordinadas adjetivas restritivas ou complementos em trechos específicos."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -116,11 +111,12 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Vírgula indevida separando o sujeito do predicado: '...a guerra acontece, quando a política...' (O correto seria sem a vírgula antes de 'quando', dado que a oração temporal está restringindo o sentido).",
-      "Vírgula indevida separando o sujeito do predicado: '...o conflito ideológico entre os Estados Unidos e a União Soviética acarretou uma corrida armamentista, que, por sua vez, fez as potências desenvolverem armas nucleares...' (Embora a vírgula após 'que' e 'vez' esteja correta por ser intercalação, a estrutura geral é fluida, mas há um excesso de pontuação em trechos como '...um esforço, para estabelecer...', onde a vírgula é desnecessária).",
-      "Vírgula indevida: '...um esforço, para estabelecer uma cultura avessa à guerra...' (A vírgula separa o substantivo de seu complemento finalístico/adjunto, prejudicando a fluidez)."
+      "Vírgula indevida separando sujeito de predicado ('...é necessário um esforço, para estabelecer...' - embora aceitável como pausa enfática, beira a imprecisão sintática neste contexto)",
+      "Vírgula indevida após advérbio curto/conjunção temporal ('A guerra acontece, quando a política...')",
+      "Erro de digitação/espaçamento ('apoiou- se')",
+      "Uso de vírgula excessiva em 'Além da assinatura do Tratado..., em 1967, que inaugurou...', fragmentando demais a frase."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -132,11 +128,12 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Vírgula indevida separando o sujeito do predicado: '...a guerra acontece, quando a política...' (O correto seria sem a vírgula antes de 'quando', dado que a oração subordinada temporal está restringindo o sentido).",
-      "Vírgula indevida separando o sujeito do predicado: '...o conflito ideológico entre os Estados Unidos e a União Soviética acarretou uma corrida armamentista, que, por sua vez, fez as potências desenvolverem armas nucleares cada vez mais destrutivas.' (Embora a pontuação esteja correta, há uma vírgula desnecessária em '...se define, apenas, como...', que interrompe a fluidez sem necessidade sintática).",
-      "Vírgula indevida: '...em 1967, que inaugurou uma fase de maior estabilidade, na Guerra Fria...' (A vírgula após 'estabilidade' isola inadequadamente o adjunto adverbial de tempo no final da frase)."
+      "Vírgula indevida separando sujeito de predicado ('...é necessário um esforço, para estabelecer...' - embora aceitável como pausa enfática, beira a imprecisão sintática neste contexto)",
+      "Vírgula indevida após advérbio curto/conjunção temporal ('A guerra acontece, quando a política...')",
+      "Erro de pontuação/vírgula excessiva ('Além da assinatura do Tratado..., em 1967, que inaugurou...', a vírgula após 'assinatura' isola incorretamente o complemento)",
+      "Uso de vírgula inadequada antes de orações subordinadas adjetivas restritivas ou complementos em trechos específicos."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -148,10 +145,12 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 10.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -162,10 +161,12 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 10.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -176,10 +177,12 @@
   },
   {
     "nota_1A": 9.0,
-    "nota_1B": 10.0,
+    "nota_1B": 9.5,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -189,7 +192,7 @@
     "ano": "2022"
   },
   {
-    "nota_final": 56.5,
+    "nota_final": 57.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -201,7 +204,7 @@
     "ano": "2022"
   },
   {
-    "nota_final": 56.5,
+    "nota_final": 57.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -213,7 +216,7 @@
     "ano": "2022"
   },
   {
-    "nota_final": 56.5,
+    "nota_final": 57.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -227,8 +230,16 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível elevadíssimo de sofisticação analítica e maturidade estilística, plenamente alinhado às expectativas de excelência do CACD.",
+      "No critério 'Organização do texto e desenvolvimento do tema', o candidato demonstra excepcional capacidade de síntese e articulação. A utilização da metáfora de Sísifo — introduzida no início e retomada no fechamento através de Albert Camus — confere ao texto uma unidade orgânica rara, transformando a redação em um ensaio fluido e persuasivo.",
+      "Quanto ao cumprimento do comando, o autor integra organicamente as provocações de Einstein e Freud (violência vs. direito, atitude cultural, medo das consequências), conectando-as a conceitos robustos de Teoria das Relações Internacionais (Realismo/Balança de Poder, Liberalismo/Interdependência Complexa) e autores fundamentais (Edward Said, Hannah Arendt).",
+      "Os exemplos históricos (Crise dos Mísseis, Criação da ONU, Invasão do Iraque e Ucrânia) não são meras citações, mas evidências usadas para sustentar a tese de que a diplomacia opera em três frentes complementares: a cultural, a comunicacional/securitária e a normativa.",
+      "Em relação à correção gramatical e propriedade da linguagem, o texto é impecável. O vocabulário é rico e preciso ('proscrita', 'antitético', 'positivada'), e a sintaxe é elegante, mantendo a clareza mesmo em períodos mais longos."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -239,8 +250,16 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível elevadíssimo de sofisticação analítica e maturidade estilística, plenamente alinhado às expectativas de excelência do CACD.",
+      "Quanto à organização e desenvolvimento do tema, o candidato demonstra excepcional capacidade de síntese e articulação. A utilização da metáfora de Sísifo — introduzida no início e retomada no fechamento através de Albert Camus — confere ao texto uma unidade orgânica rara, transformando a redação em um ensaio fluido e elegante.",
+      "A interlocução com os textos de apoio é precisa e profunda. O autor não apenas cita Einstein e Freud, mas integra conceitos como 'psicoses do ódio', 'atitude cultural' e a transição 'violência $\rightarrow$ direito' como pilares para sustentar a tese sobre o papel da diplomacia.",
+      "A fundamentação teórica é robusta e diversificada, mobilizando corretamente autores de peso (Edward Said, Hannah Arendt, Robert Keohane) e paradigmas das Relações Internacionais (Realismo vs. Liberalismo), aplicando-os a exemplos históricos concretos e pertinentes (Crise dos Mísseis, Criação da ONU, Invasão da Ucrânia).",
+      "No quesito correção gramatical e propriedade da linguagem, o texto é impecável. O vocabulário é rico e preciso ('proscrita', 'antitético', 'positivada'), a sintaxe é complexa porém clara, e a pontuação é utilizada com maestria para conduzir o ritmo da leitura."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -251,8 +270,16 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível elevadíssimo de sofisticação analítica e maturidade estilística, plenamente alinhado às expectativas de excelência do CACD.",
+      "No critério 'Organização do texto e desenvolvimento do tema', o candidato demonstra excepcional capacidade de síntese e articulação. A utilização da metáfora de Sísifo — introduzida no início e retomada no fechamento através de Albert Camus — confere ao texto uma unidade orgânica rara, transformando a redação em um ensaio fluido e persuasivo.",
+      "Quanto ao cumprimento do comando, o autor integra organicamente as provocações de Einstein e Freud (violência vs. direito, atitude cultural, medo das consequências), conectando-as a conceitos robustos de Teoria das Relações Internacionais (Realismo/Balança de Poder, Liberalismo/Interdependência Complexa) e autores fundamentais (Edward Said, Hannah Arendt).",
+      "Os exemplos históricos (Crise dos Mísseis, Criação da ONU, Invasão do Iraque e Ucrânia) não são meras citações, mas evidências usadas para sustentar a tese de que a diplomacia opera em três frentes complementares: a cultural, a comunicacional/securitária e a normativa.",
+      "Em relação à correção gramatical e propriedade da linguagem, o texto é impecável. O vocabulário é rico e preciso ('proscrita', 'antitético', 'positivada'), e a sintaxe é elegante, mantendo a clareza mesmo em períodos complexos."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -265,7 +292,9 @@
     "nota_1B": 10.0,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -279,7 +308,9 @@
     "nota_1B": 10.0,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -293,7 +324,9 @@
     "nota_1B": 10.0,
     "nota_1C": 18.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -341,8 +374,15 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura exemplar, com introdução, desenvolvimento e conclusão perfeitamente encadeados.",
+      "Houve plena integração entre os conceitos teóricos propostos pelos autores (Einstein e Freud) e a aplicação prática no campo da diplomacia, atendendo rigorosamente ao comando do enunciado.",
+      "A fundamentação histórica é robusta e diversificada, citando corretamente a Carta da ONU, crises específicas (Suez), missões de paz (MINUSTAH), grupos de cooperação (G77, Mercosul, IBAS) e exemplos de soft power (diplomacia cultural).",
+      "A linguagem é formal, precisa e adequada ao padrão exigido pelo CACD, demonstrando maturidade estilística e excelente domínio da norma culta."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -353,8 +393,16 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura exemplar, com introdução, desenvolvimento e conclusão perfeitamente encadeados.",
+      "Houve total aderência ao comando do enunciado: o candidato integrou organicamente as provocações teóricas de Einstein e Freud (instintos agressivos, laços emocionais/identificação e evolução cultural) à análise do papel da diplomacia.",
+      "A fundamentação histórica é robusta e diversificada, transitando com precisão entre a fundação da ONU, crises específicas (Suez), missões de paz (MINUSTAH), geopolítica da Guerra Fria, cooperação Sul-Sul (G77, IBAS) e exemplos contemporâneos (Ucrânia).",
+      "A redação demonstra maturidade intelectual ao evitar maniqueísmos, admitindo a natureza 'utópica' do fim absoluto da guerra (concordando parcialmente com Freud), mas defendendo a eficácia pragmática da diplomacia como ferramenta de mitigação.",
+      "Domínio pleno da norma culta, com vocabulário preciso, variado e adequado ao registro formal exigido pelo CACD."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -365,8 +413,16 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura exemplar, com introdução, desenvolvimento e conclusão perfeitamente encadeados.",
+      "Houve total aderência ao comando do enunciado: o candidato integrou organicamente as provocações teóricas de Einstein e Freud (instintos agressivos, laços emocionais/identificação e evolução cultural) à análise do papel da diplomacia.",
+      "A fundamentação histórica é robusta e diversificada, transitando com precisão entre a fundação da ONU, crises específicas (Suez), missões de paz (MINUSTAH), geopolítica da Guerra Fria, grupos de cooperação (G77, Mercosul, IBAS) e exemplos contemporâneos (Ucrânia).",
+      "A linguagem é formal, precisa e elegante, demonstrando domínio da norma culta e vocabulário adequado ao cargo pretendido.",
+      "A argumentação foge do óbvio ao conectar conceitos psicológicos citados no texto base com práticas concretas da política externa e da diplomacia pública."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -375,11 +431,13 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 7.0,
+    "nota_1B": 6.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "...esqueceu- se..."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -389,11 +447,14 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 7.0,
+    "nota_1B": 6.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'esqueceu- se' (espaçamento indevido após o hífen)",
+      " 'Lula da Silva' (imprecisão nominal/estilo: o nome correto é Luiz Inácio Lula da Silva)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -403,11 +464,14 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 7.0,
+    "nota_1B": 6.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'esqueceu- se' (espaçamento indevido após o hífen)",
+      " 'Lula da Silva' (imprecisão nominal/estilo: o nome correto é Luiz Inácio Lula da Silva)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -454,11 +518,9 @@
   },
   {
     "faixa": "Regular",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
-      "Apesar da diplomacia brasileira não mais orientar-se (Erro de colocação pronominal: a palavra negativa 'não' atrai o pronome para antes do verbo - próclise: 'não se orientar mais')",
-      "A propósito, mesmo quando a diplomacia falha em salientar o amor entre os povos (Uso impreciso do conectivo 'A propósito', que sugere um comentário incidental, enquanto o texto tenta estabelecer uma progressão argumentativa)",
-      "dissolveu a instituição responsável pela formação de diplomatas na França (Erro de precisão factual/argumentativa: a reforma da ENAP não significou a dissolução da formação de diplomatas, mas uma mudança estrutural, o que fragiliza a base do argumento final)"
+      "...esqueceu- se..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -470,11 +532,15 @@
   },
   {
     "faixa": "Regular",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
-      "Apesar da diplomacia brasileira não mais orientar-se (Erro de colocação pronominal: a palavra negativa 'não' atrai o pronome para antes do verbo - próclise: 'não se orientar mais')",
-      "A propósito, mesmo quando a diplomacia falha em salientar o amor entre os povos (Uso impreciso do conectivo 'A propósito', que sugere um comentário incidental, enquanto o texto tenta estabelecer uma progressão argumentativa)",
-      "dissolveu a instituição responsável pela formação de diplomatas na França (Erro de precisão factual/argumentativa: a reforma da ENAM não significou a dissolução da formação de diplomatas, mas uma mudança estrutural, o que fragiliza a base do argumento final)"
+      "Esqueceu- se (espaçamento indevido após hífen)",
+      "apesar da diplomacia brasileira não mais orientar-se (falta de preposição 'de' antes do verbo no infinitivo flexionado/nominal: 'apesar de a diplomacia')",
+      "Lula da Silva (imprecisão nominal: Luiz Inácio Lula da Silva)",
+      "conferência de anápolis (embora capitalizada, o evento citado carece de precisão histórica quanto ao impacto real na resolução do conflito palestino conforme descrito)",
+      "proíbe a solução... por meio do uso da força (regência verbal/estilo: a Carta proíbe *que* se solucione ou proíbe *a utilização* da força)",
+      "dissolveu a instituição responsável pela formação de diplomatas na França (erro factual grave: a ENAM foi reformulada/substituída, não extinta a formação diplomática francesa)",
+      "ausência da diplomacia (generalização excessiva/argumentação circular)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -486,11 +552,15 @@
   },
   {
     "faixa": "Regular",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 7,
     "erros_gramaticais": [
-      "Apesar da diplomacia brasileira não mais orientar-se (Erro de colocação pronominal: a palavra negativa 'não' atrai o pronome para antes do verbo - próclise: 'não se orientar mais')",
-      "A propósito, mesmo quando a diplomacia falha em salientar o amor entre os povos (Uso impreciso do conectivo 'A propósito', que introduz um comentário incidental, enquanto o texto busca estabelecer uma progressão argumentativa de adição ou ressalva)",
-      "dissolveu a instituição responsável pela formação de diplomatas na França (Imprecisão factual/conceitual: a França não dissolveu a formação de seus diplomatas, houve reformas administrativas e a criação de novos modelos de gestão, mas a afirmação de que o país está 'exposto à violência' por falta de diplomatas é um salto argumentativo desproporcional)"
+      "Esqueceu- se (espaçamento indevido após hífen)",
+      "apesar da diplomacia brasileira não mais orientar-se (falta de preposição 'de' antes do verbo no infinitivo flexionado/nominal: 'apesar de a diplomacia')",
+      "Lula da Silva (imprecisão nominal: Luiz Inácio Lula da Silva)",
+      "laço fraternal entre os povos árabes e muçulmanos (confusão categorial: árabe refere-se a etnia/nacionalidade, muçulmano a religião)",
+      "vista a diplomacia (regência inadequada: preferivelmente 'vista a', mas no contexto soa incompleto ou coloquial)",
+      "dissolveu a instituição responsável pela formação de diplomatas na França (erro factual grave: a ENAP/INSP mudou de natureza jurídica/nome, mas a formação diplomática francesa não foi extinta)",
+      "ausência da diplomacia... falta dela (repetição redundante)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -501,158 +571,153 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "'Para a psicólogo' (Erro de concordância nominal/gênero. O correto seria 'Para o psicólogo')",
-      "]'ações diplomáticos' (Erro de concordância nominal. O correto seria 'ações diplomáticas')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "'Para a psicólogo' (Erro de concordância nominal/gênero. O correto seria 'Para o psicólogo')",
-      "]'ações diplomáticos' (Erro de concordância nominal. O correto seria 'ações diplomáticas')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "'Para a psicólogo' (Erro de concordância nominal/gênero. O correto seria 'Para o psicólogo')",
-      "]'ações diplomáticos' (Erro de concordância nominal. O correto seria 'ações diplomáticas')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para a psicólogo (erro de concordância nominal)",
-      "ações diplomáticos (erro de concordância nominal)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para a psicólogo (concordância nominal)",
-      "ações diplomáticos (concordância nominal)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para a psicólogo (concordância nominal)",
-      "ações diplomáticos (concordância nominal)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para o psicólogo (em vez de 'Para a psicólogo')",
-      "ações diplomáticas (em vez de 'ações diplomáticos')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para o psicólogo (em vez de 'Para a psicólogo')",
-      "ações diplomáticas (em vez de 'ações diplomáticos')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para o psicólogo (em vez de 'Para a psicólogo')",
-      "ações diplomáticas (em vez de 'ações diplomáticos')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2022"
-  },
-  {
-    "nota_1A": 9.0,
+    "nota_1A": 7.0,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'Para a psicólogo' (Erro de concordância nominal/gênero)",
+      " 'uma série de ações diplomáticos' (Erro de concordância nominal)",
+      " 'medicação entre iguais' (Erro lexical/semântico - pretendia-se escrever 'mediação')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7.0,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'Para a psicólogo' (Erro de concordância nominal/gênero)",
+      " 'uma série de ações diplomáticos' (Erro de concordância nominal)",
+      " 'medicação entre iguais' (Erro lexical/semântico - pretendia-se escrever 'mediação')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 7.0,
+    "nota_1B": 9.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'Para a psicólogo' (Erro de concordância nominal/gênero)",
+      " 'uma série de ações diplomáticos' (Erro de concordância nominal)",
+      " 'medicação entre iguais' (Erro lexical/semântico - pretendia-se escrever 'mediação')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para a psicólogo"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para o psicólogo (estava 'Para a psicólogo')",
+      "ações diplomáticas (estava 'ações diplomáticos')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para o psicólogo (estava 'Para a psicólogo')",
+      "ações diplomáticas (estava 'ações diplomáticos)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para o psicólogo (estava 'Para a psicólogo')",
+      "ações diplomáticas (estava 'ações diplomáticos)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ",1A: O texto apresenta excelente legibilidade, fluidez e estilo formal adequado ao padrão exigido pelo CACD. A estrutura é coerente, com introdução, desenvolvimento e conclusão bem delimitados, mantendo a progressão lógica do raciocínio.",
-      "1B: O candidato demonstra ótima capacidade de sistematização. Consegue articular a discussão teórica (Realismo vs. Liberalismo) com os excertos fornecidos e com fatos históricos precisos (Liga das Nações, Wilson, Paz Cartaginesa, MAD). A argumentação é objetiva e pertinente ao comando da questão.",
-      "1C: A análise é profunda e reflexiva. O autor não se limita a resumir os textos, mas utiliza as ideias de Freud (laços emocionais, instinto de destruição) e Einstein (psicoses do ódio) para analisar a função da diplomacia, tanto na vertente da cooperação (diplomacia pública/liberal) quanto na vertente da segurança (equilíbrio de poder/realista). A conexão entre a 'destruição mútua assegurada' e o alerta de Freud sobre o aperfeiçoamento dos meios de destruição foi um ponto alto de reflexão.",
-      "CGPL: O texto é primoroso do ponto de vista gramatical. Não foram identificados erros de concordância, regência, pontuação ou ortografia. A propriedade da linguagem é plena."
-    ],
+    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
@@ -661,17 +726,12 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 20.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ",1A: O texto apresenta excelente legibilidade, fluidez e estilo formal adequado ao padrão exigido pelo CACD. A estrutura é coerente, com introdução, desenvolvimento e conclusão bem delimitados, mantendo a progressão lógica do raciocínio.",
-      "1B: O candidato demonstra ótima capacidade de sistematização. Consegue articular a discussão teórica (Realismo vs. Liberalismo) com os excertos fornecidos e com fatos históricos precisos (Liga das Nações, Wilson, Paz Cartaginesa, MAD). A argumentação é objetiva e pertinente ao comando da questão.",
-      "1C: A análise é profunda e reflexiva. O autor não se limita a resumir os textos, mas utiliza as ideias de Freud (laços emocionais, instinto de destruição) e Einstein (psicoses do ódio) para analisar a função da diplomacia, tanto na vertente da cooperação (diplomacia pública/liberal) quanto na vertente da segurança (equilíbrio de poder/realista). A conexão entre a 'destruição mútua assegurada' e o alerta de Freud sobre o aperfeiçoamento dos meios de destruição foi um ponto alto de reflexão.",
-      "CGPL: O texto é primoroso do ponto de vista gramatical. Não foram identificados erros de concordância, regência, pontuação ou ortografia. A propriedade da linguagem é plena."
-    ],
+    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
@@ -682,15 +742,12 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ",1A: O texto apresenta excelente legibilidade, fluidez e estilo formal adequado ao padrão exigido pelo CACD. A estrutura é coerente, com introdução, desenvolvimento e conclusão bem delimitados, mantendo a progressão lógica do raciocínio.",
-      "1B: O candidato demonstra ótima capacidade de sistematização. Consegue articular a discussão teórica (Realismo vs. Liberalismo) com os excertos fornecidos e com fatos históricos precisos (Liga das Nações, Wilson, Paz Cartaginesa, MAD). A argumentação é objetiva e pertinente ao comando da questão.",
-      "1C: A análise é profunda e reflexiva. O autor não se limitou a resumir os textos, mas utilizou as provocações de Einstein e Freud para discutir a natureza da diplomacia (pública vs. secreta) e a gestão do poder. A conexão entre a 'evolução cultural' mencionada no texto e a 'paz democrática' de Kant demonstra maturidade intelectual e capacidade de síntese interdisciplinar.",
-      "CGPL: O texto é primoroso do ponto de vista gramatical. Não foram identificados erros de concordância, regência, pontuação ou ortografia. A propriedade da linguagem é plena."
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "...incentivar os norte- americanos..."
     ],
+    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
@@ -699,7 +756,7 @@
     "ano": "2022"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -711,7 +768,7 @@
     "ano": "2022"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -723,7 +780,7 @@
     "ano": "2022"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -737,8 +794,13 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado / Nenhum erro gritante identificado"
+    ],
+    "feedbacks": [
+      "**Organização do texto e desenvolvimento do tema:** O candidato demonstrou excelente capacidade de síntese e análise, integrando organicamente os fragmentos filosóficos/psicológicos de Einstein e Freud com conceitos fundamentais de Teoria das Relações Internacionais (Realismo vs. Liberalismo) e fatos históricos precisos. A transição entre a 'natureza humana' discutida nos textos e a 'estratégia estatal' foi feita com maturidade intelectual. O texto responde plenamente ao comando do enunciado, utilizando exemplos históricos pertinentes (Liga das Nações, Paz Cartaginesa, Destruição Mútua Assegurada) para ilustrar o papel da diplomacia.",
+      "**Correção gramatical e propriedade da linguagem:** O texto apresenta domínio avançado da norma culta. O vocabulário é preciso, rico e adequado ao rigor exigido pelo CACD. A sintaxe é fluida, com bom uso de conectivos e pontuação correta."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -749,8 +811,13 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado / Nenhum erro gritante identificado"
+    ],
+    "feedbacks": [
+      "**Organização do texto e desenvolvimento do tema:** O candidato demonstrou excelente capacidade de síntese e análise, integrando organicamente os fragmentos filosóficos/psicológicos de Einstein e Freud com conceitos fundamentais de Teoria das Relações Internacionais (Realismo vs. Liberalismo) e fatos históricos precisos. A transição entre a 'natureza humana' discutida nos textos e a 'estratégia estatal' foi feita com maturidade intelectual. O texto responde plenamente ao comando do enunciado, utilizando exemplos históricos pertinentes (Liga das Nações, Paz Cartaginesa, Destruição Mútua Assegurada) para ilustrar o papel da diplomacia.",
+      "**Correção gramatical e propriedade da linguagem:** O texto apresenta domínio avançado da norma culta. O vocabulário é preciso, rico e adequado ao rigor exigido pelo CACD. A sintaxe é fluida, com bom uso de conectivos e pontuação correta."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -761,8 +828,13 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado / Nenhum erro gritante identificado"
+    ],
+    "feedbacks": [
+      "**Organização do texto e desenvolvimento do tema:** O candidato demonstrou excelente capacidade de síntese e análise, integrando organicamente os fragmentos filosóficos/psicológicos de Einstein e Freud com conceitos fundamentais de Teoria das Relações Internacionais (Realismo vs. Liberalismo) e fatos históricos precisos. A transição entre a 'natureza humana' discutida nos textos e a 'estratégia estatal' foi feita com maturidade intelectual. O texto responde plenamente ao comando do enunciado, utilizando exemplos históricos pertinentes (Liga das Nações, Paz Cartaginesa, Destruição Mútua Assegurada) para ilustrar o papel da diplomacia.",
+      "**Correção gramatical e propriedade da linguagem:** O texto apresenta domínio avançado da norma culta. O vocabulário é preciso, rico e adequado ao rigor exigido pelo CACD. A sintaxe é fluida, com bom uso de conectivos e pontuação correta."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,

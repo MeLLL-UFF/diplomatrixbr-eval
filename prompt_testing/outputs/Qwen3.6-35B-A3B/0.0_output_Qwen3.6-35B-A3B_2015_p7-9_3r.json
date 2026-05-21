@@ -1,17 +1,17 @@
 [
   {
-    "nota_1A": 7.5,
+    "nota_1A": 7.0,
     "nota_1B": 6.0,
-    "nota_1C": 8.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "ambos o",
       "exter na bra sileira"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, embora haja repetição excessiva de algumas ideias e transições pouco fluidas.",
-      "As ideias estão organizadas, mas a argumentação carece de profundidade crítica e sistematização teórica robusta.",
-      "Apesar de tentar articular conceitos, a análise permanece superficial e descritiva, sem explorar contradições ou nuances do tema."
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é fragmentada devido às constantes comparações diretas com o autor do texto-base.",
+      "As ideias estão organizadas em parágrafos curtos, porém falta articulação clara entre eles, comprometendo a fluidez e a coesão global.",
+      "Apesar de abordar temas relevantes como identidade nacional e papel internacional do Brasil, a argumentação carece de profundidade analítica e sistematização teórica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -21,18 +21,18 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7.5,
+    "nota_1A": 7.0,
     "nota_1B": 6.0,
-    "nota_1C": 8.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "ambos o",
       "exter na bra sileira"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, embora haja repetição excessiva de algumas ideias e transições pouco fluidas.",
-      "As ideias estão organizadas, mas a argumentação carece de profundidade crítica e sistematização teórica robusta.",
-      "Apesar de abordar temas relevantes, a análise reflexiva fica superficial, limitando-se a comparações superficiais e afirmações genéricas."
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é fragmentada devido às constantes comparações diretas com o autor do texto-base.",
+      "As ideias estão organizadas em parágrafos curtos, porém falta articulação clara entre eles, comprometendo a fluidez e a coesão global.",
+      "Apesar de abordar temas relevantes como identidade nacional e papel internacional do Brasil, a argumentação carece de profundidade analítica e releitura crítica do texto base."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -42,18 +42,18 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7.5,
+    "nota_1A": 7.0,
     "nota_1B": 6.0,
-    "nota_1C": 8.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "ambos o",
       "exter na bra sileira"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, embora haja repetição excessiva de algumas ideias e transições pouco fluidas.",
-      "As ideias estão organizadas, mas a argumentação carece de profundidade crítica e sistematização teórica robusta.",
-      "Apesar de tentar articular conceitos, a análise permanece superficial e descritiva, sem explorar contradições ou nuances do tema."
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é fragmentada devido às constantes comparações diretas com o autor do texto-base.",
+      "As ideias estão organizadas em parágrafos curtos, porém falta articulação clara entre eles, comprometendo a fluidez e a coesão global.",
+      "Apesar de abordar temas relevantes como identidade nacional e papel internacional do Brasil, a argumentação carece de profundidade analítica e sistematização teórica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -66,12 +66,13 @@
     "nota_final": 48.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "ambos o sentimento -> amb**os** o **sentiment**o (concordância)",
-      "exter na bra sileira -> ext**erna brasi**leira (ortografia/segmentação)"
+      "septuagenário -> septenário (uso incorreto)",
+      "exter na bra sileira -> externa brasileira (divisão errônea/ortográfica)"
     ],
     "feedbacks": [
-      "Erro grave de segmentação ('bra sileira') compromete a correção.",
-      "Concordância nominal incorreta ('ambos o')."
+      "Erro grave de vocabulário ('septuagenário' significa pessoa com 70 anos, quando o IRB foi fundado em 1945, logo teria 70 anos em 2015, então tecnicamente correto factualmente, mas 'septenário' não existe, provavelmente quis dizer 'setenta anos'. Vou considerar erro leve.",
+      "Divisão silábica/ortográfica clara: 'exter na bra sileira'",
+      "Falta de vírgula após 'ambos': 'embuídos de ambos o sentimento'"
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -84,13 +85,14 @@
     "nota_final": 48.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "ambos o sentimento -> amb**os** o **sentiment**o (concordância)",
-      "exter na bra sileira -> ext**erna brasi**leira (ortografia/segmentação)"
+      "ambos o sentimento -> ambossentimentopatrioticoeconhecimentodo paìs->ambosaoSentimentopatrioticoeconhecimentoDoPaÌs",
+      "exter na bra sileira->externabrasileira",
+      "septuagenario->septuagésimoano"
     ],
     "feedbacks": [
-      "Erro grave de segmentação ('bra sileira') indica falta de revisão.",
-      "Concordância nominal incorreta ('ambos o').",
-      "Uso inadequado de 'embuído' (deveria ser 'impregnado', 'revestido' ou 'dotado'; 'embuir' significa infundir/incutir algo *em* alguém/algo, não receber)."
+      "Erro grave de digitação/segmentação ('exter na bra sileira') compromete a legibilidade.",
+      "Uso inadequado de 'ambos' seguido de artigo singular ('ambos o').",
+      "Termo 'septuagenário' usado incorretamente para idade/aniversário institucional."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -103,14 +105,14 @@
     "nota_final": 48.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "ambos o sentimento -> ambossentimentopatrioticoeconhecimento->ambososentimentospatrioticoeconhecimentodepaís->ambososentimentospatrioticoeconhecimentodoPaís",
-      "exter na bra sileira -> externa brasileira",
-      "septuagenario -> setenta anos / 70 anos"
+      "ambos o sentimento -> ambossentimentopatrioticoeconhecimentodo paìs->ambosaoSentimentopatrioticoeconhecimentoDoPaÌs",
+      "exter na bra sileira->externabrasileira",
+      "septuagenario->septuagésimoano"
     ],
     "feedbacks": [
-      "Erro grave de digitação/ortografia ('exter na bra sileira') compromete a correção.",
-      "Uso inadequado de 'septuagenário' (refere-se a pessoa idosa) para instituição.",
-      "Concordância nominal incorreta ('ambos o sentimento')."
+      "Erro grave de digitação/segmentação ('exter na bra sileira') compromete a legibilidade.",
+      "Uso inadequado de 'ambos' seguido de artigo singular ('ambos o').",
+      "Termo 'septuagenário' usado incorretamente para idade/aniversário institucional."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -161,7 +163,7 @@
     ],
     "feedbacks": [
       "O texto apresenta uma estrutura clara e organizada, desenvolvendo a proposta temática de maneira coerente.",
-      "Apresenta bom domínio da língua portuguesa, embora contenham pequenos desvios de digitação."
+      "Apresenta bom domínio da norma culta, embora contenham pequenos deslizes formais."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -173,18 +175,17 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "fundamentar",
-      "diminutas"
+      "concordância nominal/verbal",
+      "ortografia/vocabulário",
+      "pontuação/conveniência estilística"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura e clareza.",
-      "Argumentação pertinente, mas falta profundidade reflexiva.",
-      "Análise superficial do conceito de 'essência' e 'raízes'.",
-      "Erro de conjugação verbal ('fundamenta').",
-      "Uso inadequado de adjetivo ('ambições diminutas')."
+      "O texto apresenta estrutura clara e progressão lógica, mas carece de profundidade reflexiva.",
+      "As ideias estão bem organizadas, porém a conexão com o texto-base é superficial.",
+      "Apresenta alguns desvios normativos que comprometem ligeiramente a fluidez."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -196,18 +197,17 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "fundamentar",
-      "diminutas"
+      "concordância nominal/verbal",
+      "ortografia/vocabulário",
+      "pontuação/conveniência estilística"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura e clareza.",
-      "Argumentação pertinente, mas falta profundidade reflexiva.",
-      "Análise superficial do conceito de 'essência' e 'raízes'.",
-      "Erro de conjugação verbal ('fundamenta').",
-      "Uso inadequado de adjetivo ('ambições diminutas')."
+      "O texto apresenta estrutura clara e progressão temática lógica.",
+      "Argumentação focada demais em aspectos institucionais contemporâneos, afastando-se da questão filosófica/cultural proposta.",
+      "Análise superficial da relação entre 'essência' e 'diplomacia', limitando-se a associações literais."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -219,23 +219,38 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "fundamentar",
-      "diminutas"
+      "concordância nominal/verbal",
+      "ortografia/vocabulário",
+      "pontuação/conveniência estilística"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura e clareza.",
-      "Argumentação pertinente, mas falta profundidade reflexiva.",
-      "Análise superficial do conceito de 'essência' e 'raízes'.",
-      "Erro de conjugação verbal ('fundamenta').",
-      "Uso inadequado de adjetivo ('ambições diminutas')."
+      "O texto apresenta estrutura clara e progressão lógica, mas carece de profundidade reflexiva.",
+      "As ideias estão bem organizadas, porém a conexão com o texto-base é superficial.",
+      "Apresenta alguns desvios normativos que comprometem a fluidez."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
+    "essay": 2,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "defendem, como a democracia...",
+      "fundamental a identidade nacional,",
+      "ambições da nação brasileira - que não são diminutas"
+    ],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
     "essay": 2,
     "ano": "2015"
   },
@@ -248,32 +263,10 @@
       "não são diminutas, ao contrário do que afirma Cardoso"
     ],
     "feedbacks": [
-      "Erro de concordância verbal/nominal: 'interdependência entre princípios fundamentados' deveria ser 'princípios fundamentais'.",
-      "Erro de conjugação/verbo: 'parâmetros que fundamental a identidade nacional' deveria ser 'que fundam' ou 'que fundamentam'.",
-      "Uso inadequado de vírgula após 'marginalizados -,'.",
-      "Possível erro de digitação ou estrutura frasal complexa."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 58.75,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "defendem os parâmetros que fundamental a identidade nacional -> fundamentais",
-      "Em função de deficiências do sistema internacional e do relativo desinteresse pelos temas internacionais, os diplomatas trabalhavam em contexto de isolamento da população – por vezes, sequer retornavam ao Brasil, como retratado por Machado de Assis, em Memorial de Aires.",
-      "Atualmente, graças a avanços na diminuição da desigualdade social e às oportunidades abertas pelas ações afirmativas e pelos concursos públicos, os diplomatas brasileiros constituem grupo mais representativo da totalidade da população, o que valida a atuação da diplomacia em nome da sociedade brasileira.",
-      "Uma vez que o diplomata possibilita o diálogo com outras civilizações, o processo contínuo de formação da brasilidade depende da atuação da diplomacia."
-    ],
-    "feedbacks": [
-      "Erro de concordância nominal/verbal: 'fundamental' deveria ser 'fundamentais'.",
-      "Uso inadequado de hífen/trava de frase: substituir travessão por vírgula ou ponto final para melhor fluidez.",
-      "Falta artigo definido: 'constituem o grupo mais representativo'.",
-      "Concordância verbal/nominal implícita: 'processo contínuo ... depende', ok, mas verificar estrutura geral."
+      "Erro de concordância nominal/verbal: 'interdependência entre princípios fundamentados' deveria ser 'princípios fundamentais'.",
+      "Erro de conjugação verbal: 'parâmetros que fundamental' deveria ser 'que fundam' ou 'que fundamentam'.",
+      "Uso inadequado de vírgula após travessão.",
+      "Repetição excessiva de estruturas sintáticas ('O diplomata brasileiro...', 'O diplomata defende...')."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -286,17 +279,11 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "defendem os parâmetros que fundamental a identidade nacional -> fundamentais",
-      "Em função de deficiências do sistema internacional e do relativo desinteresse pelos temas internacionais, os diplomatas trabalhavam em contexto de isolamento da população – por vezes, sequer retornavam ao Brasil, como retratado por Machado de Assis, em Memorial de Aires.",
-      "Atualmente, graças a avanços na diminuição da desigualdade social e às oportunidades abertas pelas ações afirmativas e pelos concursos públicos, os diplomatas brasileiros constituem grupo mais representativo da totalidade da população, o que valida a atuação da diplomacia em nome da sociedade brasileira.",
-      "Uma vez que o diplomata possibilita o diálogo com outras civilizações, o processo contínuo de formação da brasilidade depende da atuação da diplomacia."
+      "defendem, como a democracia...",
+      "fundamental a identidade nacional,",
+      "ambições da nação brasileira - que não são diminutas"
     ],
-    "feedbacks": [
-      "Erro de concordância nominal/verbal: 'fundamental' deveria ser 'fundamentais'.",
-      "Uso inadequado de hífen/trava de frase: substituir travessão por vírgula ou ponto final para melhor fluidez.",
-      "Falta artigo definido: 'constituem o grupo mais representativo'.",
-      "Concordância verbal/nominal implícita: 'processo contínuo ... depende', ok, mas verificar estrutura geral."
-    ],
+    "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
@@ -310,9 +297,9 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
-      "As ideias são desenvolvidas de maneira coerente, embora haja algumas transições abruptas entre os parágrafos.",
-      "A argumentação é pertinente e demonstra conhecimento do tema, mas carece de profundidade teórica e análise crítica mais refinada.",
-      "Apresenta domínio razoável da norma culta, com poucos deslizes gramaticais."
+      "As ideias são desenvolvidas de maneira coerente, embora haja alguma repetição de conceitos relacionados à representação e legitimidade da diplomacia.",
+      "A conexão com o texto-base é feita inicialmente, mas perde força ao longo do desenvolvimento, focando mais em características gerais da diplomacia contemporânea do que numa discussão profunda inspirada diretamente nas reflexões de Lúcio Cardoso sobre 'essência' e 'identidade'.",
+      "Apresenta domínio sólido da norma culta, com vocabulário preciso e sintaxe adequada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -345,8 +332,8 @@
     "feedbacks": [
       "O texto apresenta uma estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
       "As ideias são desenvolvidas de maneira coerente, embora haja algumas transições abruptas entre os parágrafos.",
-      "A argumentação é pertinente e demonstra conhecimento do tema, mas carece de maior profundidade e originalidade.",
-      "Apresenta domínio razoável da norma padrão, com poucos deslizes gramaticais."
+      "A argumentação é pertinente e demonstra conhecimento do tema, mas carece de profundidade teórica e análise crítica mais refinada.",
+      "Apresenta domínio razoável da norma culta, com poucos deslizes gramaticais."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -358,17 +345,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "dependência",
+      "[1]",
       "[2]",
-      "lucy"
+      "luminosa"
     ],
     "feedbacks": [
-      "O texto demonstra boa organização interna, com introdução clara, desenvolvimento temático bem articulado e conclusão sintética.",
-      "Apresenta argumentos pertinentes e relevantes, embora algumas conexões possam ser aprimoradas para maior fluidez.",
-      "Reflexão profunda e consistente, articulando adequadamente as ideias do texto-base com a figura do diplomata brasileiro."
+      "O texto demonstra boa organização e clareza.",
+      "Argumentação sólida, embora algumas conexões possam ser melhor desenvolvidas.",
+      "Reflexão pertinente, mas pode ser aprofundada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -380,17 +368,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "dependência",
+      "[1]",
       "[2]",
-      "lucy"
+      "luminosa"
     ],
     "feedbacks": [
-      "O texto demonstra boa organização interna, com introdução clara, desenvolvimento temático bem articulado e conclusão sintética.",
-      "Apresenta argumentos pertinentes e relevantes, embora algumas conexões possam ser aprimoradas para maior fluidez.",
-      "Reflexão profunda e consistente, articulando adequadamente as ideias do texto-base com a figura do diplomata brasileiro."
+      "O texto demonstra boa organização e clareza.",
+      "Argumentação sólida, embora algumas conexões possam ser melhor desenvolvidas.",
+      "Reflexão pertinente, mas pode ser aprofundada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -402,17 +391,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "dependência",
-      "[2]",
-      "lucy"
+      "necessitava",
+      "[1]",
+      "[2]"
     ],
     "feedbacks": [
       "O texto demonstra boa organização e clareza.",
-      "Argumentação sólida e pertinente.",
-      "Análise reflexiva e bem fundamentada."
+      "Argumentação sólida, embora algumas conexões possam ser melhor desenvolvidas.",
+      "Reflexão pertinente, mas pode ser aprofundada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -443,8 +433,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "A redação demonstra excelente domínio do tema proposto, articulando perfeitamente as ideias do texto-base com a figura do diplomata.",
-      "Apresenta estrutura coesa, progressão temática clara e vocabulário sofisticado, típico de candidatos aprovados.",
-      "Os argumentos são bem fundamentados, utilizando exemplos históricos e conceituais relevantes para a área."
+      "Apresenta estrutura coesa, progressão lógica clara e vocabulário sofisticado, típico de candidatos aprovados.",
+      "A análise histórica e teórica (Modernismo, Equidistância Pragmática) enriquece significativamente o argumento central."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -458,9 +448,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "A redação demonstra excelente domínio do tema proposto, articulando perfeitamente as ideias do texto-base com a figura do diplomata.",
-      "Apresenta estrutura coesa, progressão lógica clara e vocabulário sofisticado, típico de candidatos aprovados.",
-      "Os argumentos são bem fundamentados, utilizando exemplos históricos e conceituais relevantes para a área."
+      "Texto bem fundamentado e articulado.",
+      "Uso correto de vocabulário técnico e conceitual.",
+      "Argumentação clara e progressão lógica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -474,9 +464,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra excelente domínio conceitual e histórico, articulando perfeitamente a questão da identidade nacional com a prática diplomática.",
-      "A argumentação é densa, progressiva e altamente relevante, utilizando referências teóricas precisas (Modernismo, Antropofagia, Edward Said) para fundamentar a análise.",
-      "A conexão entre o trecho literário proposto e a figura do diplomata é feita de maneira orgânica e profunda, evitando generalidades superficiais."
+      "O texto demonstra excelente domínio conceitual e histórico, articulando perfeitamente a ideia central do enunciado (identidade nacional) com a prática diplomática.",
+      "A progressão temática é impecável, passando da literatura para a história cultural e finalmente para a política externa, sempre mantendo o foco na questão solicitada.",
+      "As citações teóricas são empregadas com precisão técnica e rigor acadêmico, enriquecendo substancialmente a análise."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -507,8 +497,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto demonstra excelente domínio conceitual e histórico, articulando perfeitamente a questão da identidade nacional com a prática diplomática.",
-      "A argumentação é densa, progressiva e altamente relevante, utilizando referências teóricas precisas (Modernismo, Equidistância Pragmática) para sustentar a tese central.",
-      "Apresenta um estilo maduro, fluido e preciso, característico de textos de alto nível acadêmico e profissional."
+      "A progressão argumentativa é clara e profunda, passando da literatura para a história cultural e finalmente para a teoria da política externa brasileira.",
+      "Apresenta vocabulário preciso e uso correto de terminologia técnica específica da área."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -519,16 +509,17 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 7.5,
-    "nota_1C": 16.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "institucionalizarem-se",
       "constitutivo"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento temático e conclusão coesa. Há uso adequado de conectivos e parágrafos bem delimitados.",
-      "As ideias estão organizadas de forma lógica, mas algumas transições poderiam ser mais fluidas. A argumentação é pertinente ao tema, embora haja momentos em que o foco se distancia ligeiramente do núcleo conceitual proposto pelo texto-base."
+      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento temático e conclusão coesa.",
+      "As citações do texto-base foram integradas de forma pertinente, embora algumas pareçam forçadas ou fora de contexto imediato.",
+      "A capacidade analítica demonstra bom nível, conectando a ideia de 'raízes' e 'essência' com a atuação diplomática contemporânea."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -539,16 +530,17 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 7.5,
-    "nota_1C": 16.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "institucionalizarem-se",
       "constitutivo"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento temático e conclusão coesa. Há uso adequado de conectivos e parágrafos bem delimitados.",
-      "As ideias estão organizadas de forma lógica, mas algumas transições poderiam ser mais fluidas. A argumentação é pertinente ao tema, embora haja momentos em que o foco se distancia ligeiramente do núcleo conceitual proposto pelo texto-base."
+      "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo argumentos relacionados ao enunciado e concluindo adequadamente.",
+      "As citações do texto-base foram integradas de forma pertinente, embora algumas interpretações tenham sido estendidas além do proposto.",
+      "A capacidade analítica demonstra boa articulação entre o conceito de 'raízes' e a atuação diplomática moderna."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -559,16 +551,17 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 7.5,
-    "nota_1C": 16.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "institucionalizarem-se",
       "constitutivo"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento temático e conclusão coesa. Há uso adequado de conectivos e parágrafos bem delimitados.",
-      "As ideias estão organizadas de forma lógica, mas algumas transições poderiam ser mais fluidas. A argumentação é pertinente ao tema, embora haja momentos em que o foco se distancia ligeiramente do núcleo conceitual proposto pelo texto-base."
+      "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo argumentos relacionados ao enunciado e concluindo adequadamente.",
+      "As citações do texto-base foram integradas de forma pertinente, embora algumas interpretações tenham sido estendidas além do proposto.",
+      "A capacidade analítica demonstra boa articulação entre o conceito de 'raízes' e a atuação diplomática contemporânea."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -581,12 +574,12 @@
     "nota_final": 48.75,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se -> institucionalizam-se",
-      "constitutivo -> constituída"
+      "\"institucionalizarem-se\" deveria ser \"institucionalizou-se\"",
+      "\"constitutivo\" deveria ser \"constitutiva\""
     ],
     "feedbacks": [
-      "Erro de conjugação verbal ('institucionalizarem-se' deveria ser 'institucionalizam-se').",
-      "Erro de concordância nominal/adjetival ('formação constituído' deveria ser 'formação constituída')."
+      "O texto apresenta boa estrutura e coesão.",
+      "Os argumentos estão bem desenvolvidos e conectados ao tema proposto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -599,12 +592,12 @@
     "nota_final": 48.75,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se -> institucionalizam-se",
-      "constitutivo -> constituída"
+      "\"institucionalizarem-se\" deveria ser \"institucionalizou-se\"",
+      "\"constitutivo\" deveria ser \"constitutiva\""
     ],
     "feedbacks": [
-      "Erro de conjugação verbal ('institucionalizarem-se' deveria ser 'institucionalizam-se').",
-      "Erro de concordância nominal/adjetival ('formação constituído' deveria ser 'formação constituída')."
+      "O texto apresenta boa estrutura e coesão.",
+      "Os argumentos estão bem desenvolvidos e conectados ao tema proposto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -617,12 +610,13 @@
     "nota_final": 48.75,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se -> institucionalizam-se",
-      "constitutivo -> constituída"
+      "\"institucionalizarem-se\" deveria ser \"institucionalizou-se\"",
+      "\"constitutivo\" deveria ser \"constitutiva\""
     ],
     "feedbacks": [
-      "Erro de conjugação verbal ('institucionalizarem-se' deveria ser 'institucionalizam-se').",
-      "Erro de concordância nominal/adjetival ('formação constituído' deveria ser 'formação constituída')."
+      "O texto apresenta boa estrutura e coesão.",
+      "As citações foram utilizadas adequadamente.",
+      "Os argumentos estão bem desenvolvidos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -680,8 +674,8 @@
     "feedbacks": [
       "O texto apresenta uma estrutura clara e organizada, dividindo-se em parágrafos temáticos.",
       "Apresenta citações pertinentes ao texto-base, demonstrando leitura atenta.",
-      "No entanto, algumas passagens parecem deslocadas do foco principal da questão 'discutir o que é ser um diplomata', especialmente trechos sobre diversidade populacional e referências históricas longas.",
-      "Os erros gramaticais indicados comprometem levemente a correção formal."
+      "No entanto, algumas passagens parecem deslocadas do foco principal da questão 'discutir o que é ser um diplomata', especialmente trechos sobre diversidade demográfica e referências históricas longas.",
+      "Os erros gramaticais indicados comprometem ligeiramente a correção formal."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -693,57 +687,57 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "[1] 'Europa' - Maiúscula desnecessária quando usada genericamente",
-      "[2] 'inviabilizariam' - Concordância verbal inadequada"
-    ],
-    "feedbacks": [
-      "O texto apresenta boa fluidez e clareza.",
-      "As referências teóricas estão bem integradas.",
-      "Falta profundidade na conexão direta com o texto-base."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "[1] 'Europa' - Maiúscula desnecessária quando usada genericamente",
-      "[2] 'inviabilizariam' - Concordância verbal inadequada"
-    ],
-    "feedbacks": [
-      "O texto apresenta boa fluidez e clareza.",
-      "As referências teóricas estão bem integradas.",
-      "Falta profundidade na conexão direta com o texto-base."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "[1] 'Europa' - Maiúscula desnecessária",
       "[2] 'inviabilizariam' - Concordância verbal inadequada"
     ],
     "feedbacks": [
       "O texto apresenta boa fluidez e clareza.",
-      "As referências teóricas estão bem integradas.",
+      "As referências teóricas estão bem inseridas.",
+      "Falta profundidade na conexão direta com o texto-base."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "[1] 'Europa' - Maiúscula desnecessária",
+      "[2] 'inviabilizariam' - Concordância verbal inadequada"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa fluidez e clareza.",
+      "As referências teóricas estão bem inseridas.",
+      "Falta profundidade na conexão direta com o texto-base."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "[1] 'Europa' - Maiúscula desnecessária",
+      "[2] 'inviabilizariam' - Concordância verbal inadequada"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa fluidez e clareza.",
+      "As referências teóricas estão bem inseridas.",
       "Falta profundidade na conexão direta com o texto-base."
     ],
     "modelo": "Qwen3.6-35B-A3B",
@@ -762,8 +756,9 @@
       "dezenovesco"
     ],
     "feedbacks": [
-      "Uso inadequado de marcadores numéricos ([1], [2]) no corpo do texto.",
-      "Emprego incorreto do numeral 'dezenovesco'."
+      "Uso inadequado de marcadores numéricos ([1], [2]) dentro do fluxo textual.",
+      "Emprego incorreto do numeral 'dezenovesco' quando o correto seria 'décimo nono'.",
+      "Ausência de revisão formal."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -781,8 +776,9 @@
       "dezenovesco"
     ],
     "feedbacks": [
-      "Uso inadequado de marcadores numéricos ([1], [2]) no corpo do texto.",
-      "Emprego incorreto do numeral 'dezenovesco'."
+      "Uso inadequado de marcadores numéricos ([1], [2]) dentro do fluxo textual.",
+      "Emprego incorreto do adjetivo 'dezenovesco' quando o correto é 'século XIX'.",
+      "Ausência de revisão formal."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -800,13 +796,30 @@
       "dezenovesco"
     ],
     "feedbacks": [
-      "Uso inadequado de marcadores numéricos ([1], [2]) no corpo do texto.",
-      "Emprego incorreto do numeral 'dezenovesco'."
+      "Uso inadequado de marcadores numéricos ([1], [2]) dentro do fluxo textual.",
+      "Emprego incorreto do adjetivo 'dezenovesco' quando o correto é 'século XIX'.",
+      "Ausência de revisão formal."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
+    "essay": 5,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente domínio conceitual, articulando referências teóricas fundamentais da literatura e sociologia brasileiras (Silviano Santiago, Evaldo Cabral de Mello, Roberto Schwarz, Mario de Andrade, Darcy Ribeiro) de maneira orgânica e pertinente.",
+      "A argumentação é densa, progressiva e altamente coerente, estabelecendo conexões sólidas entre a construção da identidade nacional e a atuação prática do diplomata.",
+      "A linguagem é formal, precisa e sofisticada, evidenciando maturidade intelectual e amplo conhecimento de campo."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
     "essay": 5,
     "ano": "2015"
   },
@@ -823,22 +836,6 @@
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto demonstra excelente domínio conceitual, articulando referências teóricas fundamentais da literatura e sociologia brasileiras (Silviano Santiago, Evaldo Cabral de Mello, Roberto Schwarz, Mario de Andrade, Darcy Ribeiro) de maneira orgânica e pertinente.",
-      "A argumentação é densa, progressiva e altamente coerente, estabelecendo conexões sólidas entre a construção da identidade nacional e a atuação prática do diplomata.",
-      "A linguagem é formal, precisa e sofisticada, evidenciando maturidade intelectual e amplo conhecimento de campo."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
     "versao": 2,
     "essay": 5,
     "ano": "2015"
@@ -850,7 +847,7 @@
     "feedbacks": [
       "O texto demonstra excelente domínio conceitual, articulando referências teóricas fundamentais da literatura e sociologia brasileiras (Silviano Santiago, Evaldo Cabral de Mello, Roberto Schwarz, Mario de Andrade, Darcy Ribeiro) de maneira orgânica e pertinente.",
       "A argumentação é densa, progressiva e altamente coerente, estabelecendo conexões sólidas entre a construção da identidade nacional e a atuação prática do diplomata.",
-      "A linguagem é formal, precisa e sofisticada, evidenciando maturidade intelectual e amplo conhecimento de campo."
+      "Apresenta alto grau de sofisticação estilística e vocabulário preciso, mantendo rigorosamente a norma culta e a formalidade exigida pelo concurso."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -862,18 +859,17 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
+    "nota_1C": 6.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'conceito ... baseiam' deveria ser 'baseia'.",
-      "Uso inadequado de crase/preposição: 'delinea-se à medida' soa forçado; ideal seria 'delinea-se à medida' (aceitável, mas prefere-se 'na medida') ou reestruturação.",
-      "Referencial/anafórico vago: 'discussão feita' refere-se a quê? Falta clareza."
+      "Concordância nominal/verbal: 'baseiam-se [...] em ativa participação' deveria ser 'na ativa participação'.",
+      "Regência/Pontuação: 'discussão feita [3]' soa artificial e indica erro de digitação ou formatação.",
+      "Uso inadequado de crase/concordância: 'delinea-se [1] à medida' - embora 'à medida que' esteja correto, o uso de colchetes numerados sugere falha técnica."
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura introdutória, desenvolvimentista e conclusiva, com parágrafos bem distribuídos.",
-      "As citações de autores e conceitos estão presentes, mas algumas conexões lógicas ficam frágeis (ex.: transição abrupta de Lúcio Cardoso para Gilberto Freyre).",
-      "A análise reflexiva é competente, mas carece de maior profundidade crítica frente às contradições apontadas no próprio texto.",
-      "Erros gramaticais foram mínimos, indicando bom domínio da norma culta."
+      "O texto apresenta boa estrutura inicial, citando corretamente o Barão do Rio Branco e conectando-o ao tema. No entanto, perde força analítica ao focar excessivamente em exemplos históricos específicos (Gilberto Freyre, Afonso Arinos, etc.) sem desenvolver uma tese central clara sobre *ser* diplomata baseada no texto-base.",
+      "A citação de Lúcio Cardoso é forçada e fora de contexto histórico/literário apropriado para este tipo de ensaio, prejudicando a credibilidade acadêmica.",
+      "Os parênteses com números ([1], [2], [3]) indicam provável cópia de material editado ou erro grave de formatação, comprometendo a apresentação formal exigida no CACD."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -885,18 +881,17 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
+    "nota_1C": 6.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "Concordância nominal/verbal: 'baseiam-se [...] em ativa participação' deveria ser 'na ativa participação'.",
-      "Uso inadequado de crase/preposição: 'delinea-se à medida que' soa forçado; o ideal seria 'delinea-se à medida que' (aceitável, mas prefere-se 'à proporção que') ou reestruturação.",
-      "Regência/Pontuação: 'discussão feita [3]' refere-se a algo implícito, mas a frase anterior já encerra o raciocínio; falta articulação clara."
+      "Regência/Pontuação: 'discussão feita [3]' soa artificial e indica erro de digitação ou formatação.",
+      "Uso inadequado de crase/concordância: 'delinea-se [1] à medida' - embora a crase esteja correta, o uso excessivo de marcadores artificiais ([1], [2]) prejudica a fluidez."
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura inicial e citações pertinentes, mas perde força analítica ao misturar referências literárias (Lucio Cardoso) com dados estatísticos e nomes de ministros sem conexão profunda com o texto-base.",
-      "A menção a 'democracia racial' e 'políticas públicas' foge ligeiramente do foco filosófico-existencial do excerto de Guimarães Rosa, que trata da *identidade interior* do intelectual/diplomata, não de diagnósticos sociológicos externos.",
-      "Faltou explorar a tensão entre 'essência verdadeira' e 'ambição diminuta', central no texto-proposta.",
-      "A conclusão é genérica ('Brasil sempre melhor'), fraca frente à densidade proposta pelo enunciado."
+      "O texto apresenta boa estrutura inicial, citando corretamente o Barão do Rio Branco e conectando-o ao tema. No entanto, perde força ao tentar equilibrar múltiplas referências teóricas (Lucio Cardoso, Gilberto Freyre, Afonso Arinos, etc.) sem desenvolver profundamente a relação delas com o texto-base. A citação de Lúcio Cardoso parece forçada, pois o nome aparece duas vezes, mas o texto original menciona apenas implícitas reflexões sobre identidade. Isso demonstra falta de precisão na leitura atenta do enunciado.",
+      "A capacidade analítica é mediana. O candidato aborda aspectos importantes da carreira diplomática (formação no IRBr, pragmatismo responsável, COP), mas falha em articular criticamente as ideias do texto-base ('carência', 'essência verdadeira') com a prática diplomática contemporânea. Há uma tendência descritiva demais, listando exemplos históricos sem aprofundamento crítico.",
+      "Apresenta alguns deslizes gramaticais menores, principalmente relacionados a regência preposicional e clareza sintática. O uso indevido de colchetes numerados ([1], [2], [3]) sugere edição descuidada ou tentativa de marcar trechos específicos, o que compromete a formalidade esperada em provas de alto nível."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -908,17 +903,17 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
+    "nota_1C": 6.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "Concordância nominal/verbal: 'baseiam-se [...] em ativa participação' deveria ser 'na ativa participação'.",
-      "Uso inadequado de crase/preposição: 'delinea-se à medida que' soa forçado; o ideal seria 'delinea-se à medida que' (aceitável, mas prefere-se 'à proporção que') ou reestruturação.",
-      "Regência/Pontuação: 'discussão feita [3]' refere-se a algo implícito, mas falta clareza."
+      "Regência/Pontuação: 'discussão feita [3]' soa artificial e indica erro de digitação ou formatação.",
+      "Uso inadequado de crase/concordância: 'delinea-se [1] à medida' - embora 'à medida que' esteja correto, o uso de colchetes numerados sugere falha técnica."
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura inicial, citando corretamente o Barão do Rio Branco e conectando-o ao tema. No entanto, a citação de Lúcio Cardoso parece fora de contexto, pois o autor do texto-base é Graciliano Ramos, não Lúcio Cardoso. Isso compromete a precisão factual.",
-      "A argumentação mistura elementos válidos (formação no IRBr, história da PEAB) com generalizações e exemplos pouco pertinentes (exemplo da COP e 'diferenciação concêntrica', termo não oficializado).",
-      "A análise reflexiva é superficial em alguns trechos, repetindo ideias já ditas anteriormente sem avançar na profundidade conceitual exigida pelo CACD."
+      "O texto apresenta boa estrutura inicial, citando corretamente o Barão do Rio Branco e conectando-o ao tema. No entanto, perde força analítica ao focar excessivamente em exemplos históricos específicos (Gilberto Freyre, Afonso Arinos, etc.) sem desenvolver uma tese central clara sobre *ser* diplomata à luz do texto-base.",
+      "As citações de autores externos (Lucio Cardoso, Alberto da Costa e Silva) são usadas de maneira superficial e, em alguns casos, incorreta (ex.: atribuição de frases ao texto-base a outros autores). Isso demonstra falta de domínio da fonte primária exigida.",
+      "A conclusão é genérica e não sintetiza adequadamente a relação entre a 'essência verdadeira' mencionada no texto e a prática diplomática contemporânea."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -931,13 +926,14 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "[1] 'delinea-se à' deveria ser 'delinea-se na'",
-      "[2] 'baseiam-se em' deveria ser 'baseiam-na em' ou reescrita para evitar ambiguidade/uso inadequado do pronome oblíquo átono",
-      "[3] 'discussão feita' soa artificial/redundante"
+      "[1]",
+      "[2]",
+      "[3]"
     ],
     "feedbacks": [
-      "Uso excessivo de citações diretas e indiretas sem análise crítica profunda.",
-      "Algumas construções sintáticas apresentam vícios de linguagem."
+      "Erro de digitação/identificador residual '[1]' após 'delinea-se'.",
+      "Erro de digitação/identificador residual '[2]' após 'baseiam-se'.",
+      "Erro de digitação/identificador residual '[3]' após 'discussão feita'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -950,13 +946,14 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "[1] 'delinea-se à' deveria ser 'delinea-se na'",
-      "[2] 'baseiam-se em' deveria ser 'baseiam-na em' ou reescrita para evitar ambiguidade/uso inadequado do pronome oblíquo átono",
-      "[3] 'discussão feita' soa artificial/redundante"
+      "[1]",
+      "[2]",
+      "[3]"
     ],
     "feedbacks": [
-      "Uso excessivo de citações diretas e indiretas sem análise crítica profunda.",
-      "Algumas construções sintáticas apresentam vícios de linguagem."
+      "Erro de digitação/identificador residual '[1]' após 'delinea-se'.",
+      "Erro de digitação/identificador residual '[2]' após 'baseiam-se'.",
+      "Erro de digitação/identificador residual '[3]' após 'discussão feita'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -969,14 +966,14 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "[1] 'delinea-se à' deveria ser 'delinea-se na'",
-      "[2] 'baseiam-se em' deveria ser 'baseiam-na em' ou reestruturar frase",
-      "[3] 'discussão feita' soa redundante/impessoal demais"
+      "[1]",
+      "[2]",
+      "[3]"
     ],
     "feedbacks": [
-      "Uso excessivo de citações diretas sem análise crítica profunda.",
-      "Falta conexão clara entre o texto-base e a tese principal.",
-      "Algumas frases longas dificultam a fluidez."
+      "Erro de digitação/identificador residual '[1]' após 'delinea-se'.",
+      "Erro de digitação/identificador residual '[2]' após 'baseiam-se'.",
+      "Erro de digitação/identificador residual '[3]' após 'discussão feita'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1014,9 +1011,9 @@
       "[3]"
     ],
     "feedbacks": [
-      "O texto apresenta organização clara e progressão temática adequada, articulando a ideia central com exemplos históricos e contemporâneos.",
-      "Apresenta três marcas indicativas de revisão manual ([1], [2], [3]) que comprometem a apresentação formal do trabalho final.",
-      "A citação de Lúcio Cardoso parece inadequada ao contexto, pois o trecho fornecido refere-se claramente a Guimarães Rosa."
+      "O texto apresenta uma estrutura clara e organizada, abordando o tema proposto de maneira pertinente.",
+      "Apresenta três marcadores de erro ([1], [2], [3]) que indicam falhas na correção gramatical ou na formatação final.",
+      "A argumentação demonstra bom domínio do tema, embora possa ser considerada previsível em algumas passagens."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1035,7 +1032,7 @@
     ],
     "feedbacks": [
       "O texto apresenta organização clara e progressão temática adequada, articulando a ideia central com exemplos históricos e contemporâneos.",
-      "Apresenta três marcas indicativas de revisão manual ([1], [2], [3]) que comprometem a apresentação formal do trabalho final.",
+      "Apresenta três marcas indicativas de revisão manual ([1], [2], [3]) que comprometem a apresentação formal do trabalho.",
       "A citação de autores externos (Lucio Cardoso, Alberto da Costa e Silva) demonstra pesquisa, embora a conexão direta com o excerto de Guimarães Rosa pudesse ser mais profunda."
     ],
     "modelo": "Qwen3.6-35B-A3B",
@@ -1048,18 +1045,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 16.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "[1] 'sentindo' deveria ser 'para sentir'",
       "[2] falta de artigo 'uma' antes de 'diplomacia pública'",
-      "[3] vírgula desnecessária após 'trabalhar'",
+      "[3] falta de vírgula após 'trabalhar'",
       "[4] 'representa-las' deveria ser 'representá-las'"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura e clareza.",
-      "Argumentação sólida e pertinente ao tema.",
-      "Análise reflexiva, embora superficial em alguns aspectos."
+      "O texto apresenta boa estrutura e clareza, embora algumas passagens possam ser aprimoradas quanto à coesão.",
+      "As ideias são pertinentes e bem organizadas, demonstrando capacidade de argumentação sólida.",
+      "A análise reflete compreensão do tema, mas poderia explorar mais profundamente a relação entre identidade e diplomacia."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1071,18 +1068,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 16.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "[1] 'sentindo' deveria ser 'para sentir'",
-      "[2] falta de artigo 'uma' antes de 'diplomacia pública'",
-      "[3] falta de vírgula após 'trabalhar'",
+      "[2] falta de artigo após 'conduzir'",
+      "[3] vírgula desnecessária",
       "[4] 'representa-las' deveria ser 'representá-las'"
     ],
     "feedbacks": [
       "O texto apresenta boa estrutura e clareza.",
-      "Argumentação sólida e pertinente ao tema.",
-      "Análise reflexiva, embora superficial em alguns aspectos."
+      "Argumentação sólida e pertinente.",
+      "Reflexão adequada, mas poderia explorar mais profundamente a tensão entre identidade e universalidade."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1094,7 +1091,7 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 16.0,
+    "nota_1C": 7.5,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "[1] 'sentindo' deveria ser 'para sentir'",
@@ -1103,9 +1100,9 @@
       "[4] 'representa-las' deveria ser 'representá-las'"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura e clareza.",
-      "Argumentação sólida e pertinente ao tema.",
-      "Análise reflexiva, embora superficial em alguns aspectos."
+      "O texto apresenta boa estrutura e clareza, embora algumas passagens possam ser aprimoradas quanto à coesão.",
+      "As ideias são pertinentes e bem organizadas, demonstrando capacidade de argumentação sólida.",
+      "A análise reflete compreensão do tema, mas poderia explorar mais profundamente a relação entre identidade e diplomacia."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1124,10 +1121,10 @@
       "[4]"
     ],
     "feedbacks": [
-      "Erro de sintaxe/ortografia: 'para [1]' - palavra faltante.",
-      "Erro de sintaxe/orfografia: '[2], de modo' - falta verbo/conector.",
-      "Erro de sintaxe/ortografia: 'trabalhar, [3],' - palavra faltante.",
-      "Erro de sintaxe/ortografia: 'bem representa-las [4].' - erro de crase/acento."
+      "Erro de sintaxe/coordenação oracional.",
+      "Uso inadequado de 'de modo a' seguido de verbo no infinitivo.",
+      "Ausência de vírgula após adjunto adverbial deslocado.",
+      "Concordância verbal/nominal incorreta."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1146,10 +1143,10 @@
       "[4]"
     ],
     "feedbacks": [
-      "Erro de sintaxe/ortografia: 'para [1]' - palavra faltante.",
-      "Erro de sintaxe/orfografia: '[2], de modo' - falta verbo/conector.",
-      "Erro de sintaxe/ortografia: 'trabalhar, [3],' - palavra faltante.",
-      "Erro de sintaxe/ortografia: 'bem representa-las [4].' - erro de crase/acento."
+      "Erro de sintaxe/coordenação oracional.",
+      "Uso inadequado de 'de modo a' seguido de verbo no infinitivo.",
+      "Ausência de vírgula após adjunto adverbial deslocado.",
+      "Concordância verbal/nominal incorreta."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1168,10 +1165,10 @@
       "[4]"
     ],
     "feedbacks": [
-      "Erro de sintaxe/ortografia: 'para [1]' - palavra faltante.",
-      "Erro de sintaxe/orfografia: '[2], de modo' - falta verbo/conector.",
-      "Erro de sintaxe: 'trabalhar, [3],' - vírgula desnecessária/falta complemento.",
-      "Erro de concordância verbal: 'bem representa-las' -> 'representá-las'."
+      "Erro de sintaxe/ortografia: 'sentindo-se' deveria ser 'para sentir-se'.",
+      "Erro de sintaxe/orfografia: 'conduzir Diplomacia Pública.' deveria ser 'conduzirmos a Diplomacia Pública.'.",
+      "Erro de sintaxe: 'trabalhar,' deveria ser 'trabalharmos,'.",
+      "Erro de sintaxe: 'representa-las' deveria ser 'representá-las'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1187,7 +1184,7 @@
     "feedbacks": [
       "O texto apresenta organização clara e progressiva, articulando bem as ideias.",
       "A argumentação é pertinente e demonstra bom domínio do tema proposto.",
-      "Apresenta pequenos desvios de regência ('bem representa-las') e uso inadequado de vírgula ('para [3]'), indicando necessidade de revisão final."
+      "Apresenta domínio razoável da norma culta, embora haja pequenos desvios de regência e concordância."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1201,9 +1198,10 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta organização clara e progressiva, articulando bem as ideias.",
-      "A argumentação é pertinente e demonstra bom domínio do tema proposto.",
-      "Apresenta domínio razoável da norma culta, embora haja pequenos desvios de regência e concordância."
+      "O texto apresenta uma organização clara e sequencial, com introdução, desenvolvimento e conclusão bem delimitadas.",
+      "As ideias são desenvolvidas de maneira coerente, articulando conceitos de identidade nacional, multiculturalidade e papel do diplomata.",
+      "Apresenta bom domínio da norma culta, embora haja algumas expressões que poderiam ser refinadas para maior precisão conceitual.",
+      "A argumentação é pertinente e demonstra familiaridade com autores e temas relacionados à formação cultural brasileira."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1231,18 +1229,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "concordancia",
-      "ortografia/espacamento",
-      "regencia/concordancia"
+      "definição apresentada enfatiza",
+      "po vo",
+      "consequência s",
+      "tem"
     ],
     "feedbacks": [
-      "1A - Coerência e Estilo: Texto bem organizado, com introdução clara, desenvolvimento lógico e conclusão adequada. Uso adequado de conectivos. Pequena falha de digitação ('po vo') e erro de concordância ('definição ... enfatiza'). Nota alta.",
-      "1B - Argumentação: Boa articulação entre as funções clássicas e a especificidade brasileira. Citações históricas pertinentes (Barão do Rio Branco, Guerra Fria, autores-diplomatas). Contudo, a relação direta com o texto-base (Viana Moog) fica implícita apenas na citação final, faltando uma interlocução mais densa durante o desenvolvimento.",
-      "1CGPL - Correção Gramatical: Identificaram-se 5 erros relevantes: 'definição ... enfatiza' (concordância); 'po vo', 'vivencia a s', 'consequência s' (digitação/espaçamento); 'tem como objetivo' (concordância verbal); 'mediador ... respectivamente monarquistas e republicano' (concordância nominal/adjetival).",
-      "Nota Final: 37.5 / 60.0"
+      "Texto bem organizado, mas com algumas falhas de coesão.",
+      "Argumentação pertinente, mas falta profundidade analítica.",
+      "Análise superficial, focando mais em exemplos históricos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1254,13 +1252,13 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "definição apresentada enfatiza",
       "po vo",
       "consequência s",
-      "social"
+      "tem"
     ],
     "feedbacks": [
       "Texto bem organizado, mas com algumas falhas de coesão.",
@@ -1277,17 +1275,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "concordancia",
-      "ortografia/espacamento",
-      "regencia/concordancia"
+      "definição apresentada enfatiza",
+      "po vo",
+      "consequência s",
+      "tem"
     ],
     "feedbacks": [
-      "1A - Coerência e Estilo: Texto bem organizado, com introdução clara, desenvolvimento lógico e conclusão adequada. Uso adequado de conectivos. Pequena falha de digitação ('po vo') e erro de concordância ('definição ... enfatiza').",
-      "1B - Argumentação: Boa articulação entre as funções clássicas e a especificidade brasileira. Exemplos históricos e literários pertinentes. Contudo, a relação direta com o texto-base (identidade, 'essência', 'raízes') fica implícita demais, especialmente na comparação com a 'ambição' e a 'carência' mencionadas.",
-      "1C - Análise e Reflexão: Reflete bem sobre a dualidade interno/externo e a influência da cultura. Falta profundidade crítica frente às contradições apontadas no texto original (ex.: 'país de ambições diminutas')."
+      "Texto bem organizado, mas com algumas falhas de coesão.",
+      "Argumentação pertinente, mas falta profundidade analítica.",
+      "Análise superficial, focando mais em exemplos históricos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1300,18 +1299,16 @@
     "nota_final": 52.8,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "ênfase",
-      "po vo",
-      "consequência s",
-      "tem"
+      "ênfase -> ênfase",
+      "po vo -> povo",
+      "consequência s -> consequências",
+      "tem -> têm"
     ],
     "feedbacks": [
-      "Erro de digitação 'po vo' (povo)",
-      "Erro de digitação 'consequência s' (consequências)",
-      "Uso incorreto de 'ênfase' (deveria ser 'ênfase')",
-      "Concordância verbal: 'todos os seus esforços tem' deveria ser 'têm'",
-      "Falta de coesão/encadeamento em alguns trechos",
-      "Desvio parcial do foco central do texto-base (identidade vs. função técnica)"
+      "Erro de digitação 'po vo' e 'consequência s'.",
+      "Concordância verbal incorreta: 'todos os seus esforços tem' deveria ser 'têm'.",
+      "Uso inadequado de crase/ortografia: 'ênfase' escrito corretamente.",
+      "Analisar melhor a conexão direta com o trecho de Lúcio Cardoso."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1324,16 +1321,16 @@
     "nota_final": 52.8,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "ênfase",
-      "po vo",
-      "consequência s",
-      "tem"
+      "ênfase -> ênfase",
+      "po vo -> povo",
+      "consequência s -> consequências",
+      "tem -> têm"
     ],
     "feedbacks": [
-      "Erro de digitação 'po vo' deveria ser 'povo'.",
-      "Erro de digitação 'consequência s' deveria ser 'consequências'.",
-      "'Embora a definição apresentada enfatiza...' -> Concordância verbal incorreta.",
-      "'todos os seus esforços tem' -> Concordância verbal incorreta."
+      "Erro de digitação 'po vo' e 'consequência s'.",
+      "Concordância verbal incorreta: 'todos os seus esforços tem' deveria ser 'têm'.",
+      "Uso inadequado de crase/ortografia: 'ênfase' escrito corretamente.",
+      "Analisar melhor a conexão direta com o trecho de Lúcio Cardoso."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1346,15 +1343,16 @@
     "nota_final": 52.8,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "definição apresentada enfatiza -> deveria ser 'enfatize' (concordância verbal)",
-      "po vo -> erro de digitação ('povo')",
-      "consequência s -> erro de digitação/acentuação ('consequências')",
-      "tem -> deveria ser 'têm' (concordância verbal)"
+      "ênfase -> ênfase",
+      "po vo -> povo",
+      "consequência s -> consequências",
+      "tem -> têm"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura e coesão.",
-      "Os argumentos conectam bem a função do diplomata com a identidade nacional.",
-      "Existem alguns pequenos erros gramaticais e de digitação."
+      "Erro de digitação 'po vo' e 'consequência s'.",
+      "Concordância verbal incorreta: 'todos os seus esforços tem' deveria ser 'têm'.",
+      "Uso inadequado de crase/ortografia: 'ênfase' escrito corretamente.",
+      "Analisar melhor a conexão direta com o trecho de Lúcio Cardoso."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1367,16 +1365,16 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "definição apresentada enfatiza -> deveria ser 'enfatize' (concordância verbal)",
+      "definição apresentada enfatiza -> deveria ser 'enfatizam' (concordância verbal)",
       "po vo -> erro de digitação ('povo')",
       "aconsequências -> erro de digitação/acentuação ('sociais')",
-      "tem -> deveria ser 'têm' (concordância)"
+      "tem -> deveria ser 'têm' (concordância verbal)"
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura clara e organizada, abordando diversos aspectos da identidade do diplomata brasileiro.",
-      "A conexão com o texto-base é feita apenas no final, através de citação direta, o que limita a integração profunda das ideias propostas pelo autor do excerto durante o desenvolvimento.",
-      "Apresenta exemplos históricos e literários pertinentes, demonstrando conhecimento contextual.",
-      "Possui alguns deslizes gramaticais menores (concordância e digitação) que não comprometem gravemente a compreensão, mas indicam necessidade de revisão."
+      "O texto apresenta uma estrutura clara e organizada, dividindo-se logicamente em introdução, desenvolvimento e conclusão.",
+      "A conexão com o texto-base é feita principalmente através da citação final, embora a relação temática possa ser explorada com mais profundidade durante o desenvolvimento.",
+      "Os argumentos são pertinentes e demonstram conhecimento histórico e institucional relevante.",
+      "Apresenta pequenos deslizes gramaticais e de digitação que afetam ligeiramente a fluidez."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1397,8 +1395,8 @@
     "feedbacks": [
       "O texto apresenta uma estrutura clara e organizada, dividindo-se logicamente em introdução, desenvolvimento e conclusão.",
       "A conexão com o texto-base é feita principalmente através da citação final, embora a relação temática possa ser explorada com mais profundidade durante o desenvolvimento.",
-      "Os argumentos são pertinentes e demonstram conhecimento histórico e institucional relevante (Itamaraty, Barão do Rio Branco, figuras literárias).",
-      "Apresenta pequenos deslizes gramaticais e de digitação que afetam ligeiramente a fluidez, mas não comprometem a compreensão."
+      "Os argumentos são pertinentes e demonstram conhecimento histórico e institucional relevante.",
+      "Apresenta alguns erros gramaticais menores, incluindo concordância verbal e erros de digitação."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1432,39 +1430,35 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "Uso inadequado de hífen em 'contexto doméstico- em'",
-      "Erro de crase/uso indevido de artigo em 'erradicação da pobreza externa' (conceitual)",
-      "Ponto após '[1]' seguido de vírgula ('[1], faz-se')"
-    ],
-    "feedbacks": [
-      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento organizado e conclusão sintética.",
-      "Apresenta bom domínio vocabular e coesão interparágrafo, embora haja leve repetição conceitual entre parágrafos.",
-      "A argumentação é pertinente e sistematizada, articulando bem a ideia central do texto-base com conceitos da história e teoria da política externa brasileira."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 9,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "Uso inadequado de hífen",
-      "Erro de regência/colocação pronominal",
-      "Concordância nominal"
+      "Erro de regência/ambiguidade sintática"
     ],
     "feedbacks": [
       "O texto apresenta boa estrutura dissertativo-argumentativa, mas carece de profundidade analítica.",
-      "As referências teóricas são pertinentes, porém pouco articuladas ao texto-base.",
-      "Apresenta alguns deslizes gramaticis que comprometem ligeiramente a fluidez."
+      "Apresenta bom domínio vocabular, porém com alguns deslizes técnicos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso inadequado de hífen",
+      "Erro de regência/ambiguidade sintática"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativo-argumentativa, mas carece de profundidade analítica.",
+      "Apresenta bom domínio vocabular, porém com alguns deslizes técnicos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1476,17 +1470,15 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Uso inadequado de hífen em 'contexto doméstico- em' (deveria ser travessão ou parênteses)",
-      "Erro de crase/uso indevido de artigo em 'erradicação da pobreza externa'",
-      "Concordância nominal/vocabular em 'pobreza externa'"
+      "Uso inadequado de hífen",
+      "Erro de regência/ambiguidade sintática"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura dissertativo-argumentativa, mas perde pontos pela desconexão inicial com o texto-base.",
-      "Argumentação sólida, porém foca excessivamente em história da PE e pouco na questão filosófica/nacional do texto base.",
-      "Análise superficial da ideia central do texto (identidade vs. universalismo/exotismo); falta profundidade crítica."
+      "O texto apresenta boa estrutura dissertativo-argumentativa, mas carece de profundidade analítica.",
+      "Apresenta bom domínio vocabular, porém com alguns deslizes técnicos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1503,8 +1495,8 @@
       "vírgula após 'tradição'"
     ],
     "feedbacks": [
-      "Erro de pontuação: uso indevido de ponto após hífen.",
-      "Uso inadequado de vírgula separando sujeito e predicado."
+      "Uso inadequado de travessão/hífen.",
+      "Vício de construção sintática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1539,8 +1531,8 @@
       "vírgula após 'tradição'"
     ],
     "feedbacks": [
-      "Erro de pontuação: uso indevido de ponto após hífen.",
-      "Uso inadequado de vírgula separando sujeito e predicado."
+      "Uso inadequado de travessão/hífen.",
+      "Vício de construção sintática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1561,8 +1553,9 @@
       "Argumentação coerente e pertinente ao tema proposto, articulando conceitos de identidade nacional, história da política externa e contemporaneidade.",
       "Uso adequado de referências teóricas (Gilberto Freyre) e históricas (Vargas, Modernismo) para embasar a análise.",
       "Linguagem formal e adequada ao registro acadêmico/diplomático, demonstrando bom domínio da norma culta.",
-      "Pequenos deslizes gramaticais e de pontuação não comprometem significativamente a leitura.",
-      "Desenvolvimento sólido, embora algumas transições possam ser aprimoradas para maior fluidez."
+      "Pequenos deslizes gramaticais (hífen/travessão e falta de vírgula) não comprometem significativamente a leitura.",
+      "Desenvolvimento sólido, embora algumas transições possam ser aprimoradas para maior fluidez.",
+      "Conclusao sintetiza bem os argumentos apresentados, reforçando a tese central."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1583,7 +1576,7 @@
       "Argumentação coerente e pertinente ao tema proposto, articulando conceitos de identidade nacional, história da política externa e contemporaneidade.",
       "Uso adequado de referências teóricas (Gilberto Freyre) e históricas (Vargas, Modernismo) para embasar a análise.",
       "Linguagem formal e adequada ao registro acadêmico/diplomático, demonstrando bom domínio da norma culta.",
-      "Pequenos deslizes gramaticais e de pontuação não comprometem significativamente a leitura.",
+      "Pequenos deslizes gramaticais (hífen/travessão e falta de vírgula) não comprometem significativamente a leitura.",
       "Desenvolvimento sólido, embora algumas transições possam ser aprimoradas para maior fluidez."
     ],
     "modelo": "Qwen3.6-35B-A3B",
@@ -1604,8 +1597,8 @@
       "Texto apresenta estrutura clara e organizada, com introdução, desenvolvimento e conclusão bem definidos.",
       "Argumentação coerente e pertinente ao tema proposto, articulando conceitos modernos e tradicionais da diplomacia brasileira.",
       "Uso adequado de referências teóricas (Gilberto Freyre, Azeredo da Silveira) e exemplos concretos (cotas raciais, diplomacia pública).",
-      "Linguagem formal e adequada ao contexto acadêmico/profissional esperado no CACD.",
-      "Pequenos deslizes gramaticais e de pontuação não comprometem significativamente a compreensão do texto."
+      "Linguagem formal e adequada ao contexto acadêmico/diplomático, embora apresente pequenos deslizes de pontuação.",
+      "Desenvolvido de maneira equilibrada, abordando dimensões históricas, sociais e institucionais da função diplomática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1615,19 +1608,23 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 9.5,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "ma s",
       "[1]",
-      "[2]"
+      "[2]",
+      "busca"
     ],
     "feedbacks": [
       "Texto coeso, fluido e formal.",
-      "Argumentação sólida e pertinente.",
-      "Análise reflexiva e crítica."
+      "Argumentação sólida, porém pouco crítica frente ao texto-base.",
+      "Análise superficial da tensão entre 'essência' e 'construção'.",
+      "Erro tipográfico ('ma s').",
+      "Uso indevido de marcadores '[1]' e '[2]'.",
+      "'Busca da' -> 'busca de'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1637,19 +1634,21 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 9.5,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "ma s",
       "[1]",
-      "[2]"
+      "[2]",
+      "busca"
     ],
     "feedbacks": [
       "Texto coeso, fluido e formal.",
-      "Argumentação sólida e pertinente.",
-      "Análise reflexiva e crítica."
+      "Argumentação sólida, porém pouco crítica frente ao texto-base.",
+      "Análise superficial da tensão entre 'essência' e 'construção'.",
+      "Erro tipográfico claro."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1659,19 +1658,24 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 9.5,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "ma s",
       "[1]",
-      "[2]"
+      "[2]",
+      "busca"
     ],
     "feedbacks": [
       "Texto coeso, fluido e formal.",
-      "Argumentação sólida e pertinente.",
-      "Análise reflexiva e crítica."
+      "Argumentação sólida, porém pouco crítica frente ao texto-base.",
+      "Análise superficial da tensão entre 'essência' e 'construção'.",
+      "Erro tipográfico ('ma s').",
+      "Marcas de edição/numeração presentes no corpo do texto.",
+      "Uso inadequado de colchetes '[1]' e '[2]'.",
+      "'Busca' deveria ser 'da busca'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1690,7 +1694,7 @@
     ],
     "feedbacks": [
       "Erro de digitação 'ma s' no primeiro parágrafo.",
-      "Uso indevido de colchetes '[1]' e '[2]', possivelmente indicando notas de rodapé ou referências internas."
+      "Uso indevido de colchetes '[1]' e '[2]', possivelmente indicando revisões pendentes."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1742,31 +1746,14 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "Texto articula de maneira profunda e crítica a questão da 'essência' nacional proposta no texto-base, dialogando diretamente com a obra de Benedict Anderson ('comunidades imaginadas') para problematizar a ideia fixa de 'espírito nacional'.",
-      "Demonstração clara de maturidade teórica ao conciliar a necessidade prática de conhecer a cultura/tradição para a atuação diplomática com a visão construtivista/histórica da nação.",
-      "Estrutura impecável, com progressão temática fluida: define o papel do diplomata (representante/intérprete/promotor) e justifica cada faceta com argumentos sólidos ancorados no texto-base e em referências externas pertinentes."
+      "Texto articula de maneira profunda e crítica a questão da 'essência' nacional proposta no texto-base, utilizando conceitos teóricos sólidos (como a 'comunidade imaginada') para construir uma visão moderna e dinâmica da nacionalidade.",
+      "Apresenta excelente organização e progressão temática, conectando a representação política, a interpretação cultural e a promoção do desenvolvimento nacional de forma coerente e fluida.",
+      "Demonstra domínio avançado da língua portuguesa, com sintaxe complexa, vocabulário preciso e registro formal adequado ao contexto acadêmico-diplomático."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
-    "essay": 10,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "Texto articula de maneira profunda e crítica a questão da 'essência' nacional proposta no texto-base, dialogando diretamente com a obra de Benedict Anderson ('comunidades imaginadas') para problematizar a ideia fixa de 'espírito nacional'.",
-      "Demonstração clara de que o candidato leu e compreendeu profundamente o fragmento de Guimarães Rosa, utilizando-o como ponto de partida para uma análise teórica sofisticada.",
-      "Estrutura argumentativa robusta, passando da representação política para a dimensão cultural/intelectual e finalizando com a projeção internacional, mantendo sempre o foco na pergunta central.",
-      "Linguagem formal, precisa e adequada ao registro acadêmico/diplomático esperado no CACD."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
     "essay": 10,
     "ano": "2015"
   },
@@ -1783,6 +1770,23 @@
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto articula de maneira profunda e crítica a questão da 'essência' nacional proposta no texto-base, dialogando diretamente com a obra de Benedict Anderson ('comunidades imaginadas') para problematizar a ideia fixa de 'espírito nacional'.",
+      "Demonstração clara de raciocínio lógico e progressivo, construindo argumentos sólidos que conectam teoria política/histórica às funções práticas do diplomata.",
+      "Uso impecável da norma culta, com excelente controle sintático, vocabulário preciso e variado, e marcadores textuais sofisticados (Conquanto, Dessa forma, Nesse sentido) que garantem alta coesão.",
+      "Capacidade excepcional de síntese e abstração, elevando o debate para níveis conceituais típicos de especialistas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
     "versao": 3,
     "essay": 10,
     "ano": "2015"
@@ -1790,16 +1794,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "sus -> suas",
-      "abster-se em relação -> abster-se"
+      "abster-se em relação -> abster-se de pronunciar/emitir opiniões",
+      "incompreensões -> confusões/mal-entendidos (uso inadequado)",
+      "poder suave -> soft power"
     ],
     "feedbacks": [
       "Texto bem organizado, com introdução clara, desenvolvimento coeso e conclusão satisfatória.",
-      "Argumentação sólida, embora dependa excessivamente de citações externas, limitando a autonomia reflexiva.",
-      "Análise superficial do texto-base; foca em generalidades sobre diplomacia sem explorar nuances do fragmento."
+      "Argumentação sólida, embora dependa excessivamente de citações externas, o que reduz a autonomia reflexiva.",
+      "Análise superficial da ideia central do texto-base; foca mais em generalidades sobre diplomacia do que na tensão existencial proposta pelo autor."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1811,16 +1817,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "sus -> suas",
-      "abster-se em relação -> abster-se"
+      "abster-se em relação -> abster-se de pronunciar/emitir opiniões",
+      "incompreensões -> confusões/mal-entendidos (uso inadequado)",
+      "poder suave -> soft power"
     ],
     "feedbacks": [
-      "Texto bem organizado, com introdução clara, desenvolvimento coeso e conclusão satisfatória.",
-      "Argumentação sólida, embora dependa excessivamente de citações externas, o que limita a autonomia reflexiva.",
-      "Análise superficial do conceito de 'essência' e 'identidade', focando mais em definições institucionais do que na problematização filosófica proposta."
+      "Texto bem organizado, mas repetitivo.",
+      "Argumentação sólida, porém pouco crítica.",
+      "Análise superficial do conceito de 'essência'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1832,17 +1840,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "sus -> suas",
-      "abster-se em relação -> abster-se"
+      "abster-se em relação -> abster-se de pronunciar/emitir opiniões",
+      "incompreensões -> confusões/mal-entendidos (uso inadequado)",
+      "poder suave -> soft power"
     ],
     "feedbacks": [
       "Texto bem organizado, com introdução clara, desenvolvimento coeso e conclusão satisfatória.",
-      "Argumentação sólida, embora dependa excessivamente de citações externas, o que limita a autonomia reflexiva.",
-      "Análise superficial do texto-base; foca apenas na 'identificação' e ignora tensões como 'carência', 'repugnância' e 'luminosa humildade'.",
-      "Excelente domínio da norma culta, com pouquíssimos desvios."
+      "Argumentação sólida, embora dependa excessivamente de citações externas, o que reduz a autonomia reflexiva.",
+      "Análise superficial da ideia central do texto-base; foca mais em generalidades sobre diplomacia do que na tensão existencial proposta pelo autor."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1857,11 +1866,12 @@
     "erros_gramaticais": [
       "sus -> suas",
       "abster-se em relação -> abster-se de pronunciar/emitir opiniões",
-      "incompreensões -> mal-entendidos / equívocos"
+      "incompreensões -> falta de clareza/concisão"
     ],
     "feedbacks": [
       "O texto apresenta boa estrutura e coesão.",
-      "Apresenta alguns erros gramaticais menores."
+      "Os argumentos estão bem desenvolvidos e conectados ao tema.",
+      "As citações reforçam a tese principal."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1876,11 +1886,11 @@
     "erros_gramaticais": [
       "sus -> suas",
       "abster-se em relação -> abster-se de pronunciar/emitir opiniões",
-      "incompreensões -> mal-entendidos / equívocos"
+      "incompreensões -> falta de clareza/concisão"
     ],
     "feedbacks": [
       "O texto apresenta boa estrutura e coesão.",
-      "Apresenta alguns erros gramaticais menores."
+      "As citações estão bem integradas ao argumento principal."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1895,16 +1905,36 @@
     "erros_gramaticais": [
       "sus -> suas",
       "abster-se em relação -> abster-se de pronunciar/emitir opiniões",
-      "incompreensões -> mal-entendidos / equívocos"
+      "incompreensões -> falta de clareza/concisão"
     ],
     "feedbacks": [
       "O texto apresenta boa estrutura e coesão.",
-      "Apresenta alguns erros gramaticais menores."
+      "Os argumentos estão bem desenvolvidos e conectados ao tema.",
+      "As citações reforçam a tese principal."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
+    "essay": 11,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "sus -> suas",
+      "abster-se em relação -> abster-se de pronunciar/emitir"
+    ],
+    "feedbacks": [
+      "Texto organizado e coerente, apresentando argumentos pertinentes.",
+      "Uso correto de referências externas, embora algumas sejam questionáveis historicamente.",
+      "Pequenos deslizes gramaticais presentes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
     "essay": 11,
     "ano": "2015"
   },
@@ -1923,25 +1953,6 @@
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
-    "versao": 1,
-    "essay": 11,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "sus -> suas",
-      "abster-se em relação -> abster-se de pronunciar/declarar"
-    ],
-    "feedbacks": [
-      "Texto organizado e coerente.",
-      "Desenvolvido com argumentos pertinentes.",
-      "Uso correto de citações."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
     "versao": 2,
     "essay": 11,
     "ano": "2015"
@@ -1966,19 +1977,23 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7.5,
+    "nota_1A": 7.0,
     "nota_1B": 6.0,
-    "nota_1C": 8.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 5.0,
+    "numero_de_erros_gramaticais": 8,
     "erros_gramaticais": [
-      "Concordância verbal: 'exigem' deveria ser 'exige'",
-      "Pontuação/Regência: falta vírgula após 'Atualmente'",
-      "Uso inadequado de citação/contextualização"
+      "Concordância nominal/verbal",
+      "Regência verbal/nominal"
     ],
     "feedbacks": [
       "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é fragmentada.",
-      "As ideias não dialogam efetivamente com o texto-base, focando em aspectos instrumentais da diplomacia.",
-      "A análise carece de profundidade filosófica e reflexiva proposta pelo enunciado."
+      "As ideias não fluem organicamente; há saltos abruptos entre temas (tecnologia, IRBr, estética, diversidade) sem articulação clara.",
+      "Apesar de mencionar conceitos do texto-base ('espírito brasileiro'), o candidato não os problematiza criticamente.",
+      "Faltam conexões lógicas entre parágrafos e uso inadequado de conectivos.",
+      "O texto demonstra domínio superficial do tema, limitando-se a listar fatos históricos e institucionais.",
+      "Não há diálogo efetivo com as ideias do autor do texto base (Alberto da Costa e Silva/Lúcio Cardoso).",
+      "A análise fica restrita a aspectos externos da profissão (formação, tecnologia, estética), ignorando a dimensão filosófica/cultural proposta.",
+      "O texto carece de profundidade reflexiva e originalidade interpretativa."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1988,19 +2003,20 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7.5,
+    "nota_1A": 7.0,
     "nota_1B": 6.0,
-    "nota_1C": 8.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 5.0,
+    "numero_de_erros_gramaticais": 8,
     "erros_gramaticais": [
-      "Concordância verbal: 'exigem' deveria ser 'exige'",
-      "Pontuação/Regência: falta vírgula após 'Atualmente'",
-      "Uso inadequado de citação/contextualização"
+      "Concordância nominal/verbal",
+      "Regência verbal/nominal"
     ],
     "feedbacks": [
       "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é fragmentada.",
-      "As ideias são organizadas em blocos desconectados, dificultando a construção de um argumento central coeso.",
-      "A relação com o texto-base é superficial e ocorre apenas no último parágrafo, caracterizando fuga parcial ao tema."
+      "As ideias não fluem organicamente; há saltos abruptos entre temas (tecnologia, IRBr, estética, diversidade) sem articulação clara.",
+      "Apesar de mencionar conceitos do texto-base ('espírito brasileiro'), o candidato não os problematiza criticamente.",
+      "Faltam conexões lógicas entre parágrafos e uso inadequado de conectivos.",
+      "O texto demonstra domínio superficial do assunto, priorizando informação factual em detrimento da análise reflexiva."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2010,19 +2026,18 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7.5,
+    "nota_1A": 7.0,
     "nota_1B": 6.0,
-    "nota_1C": 8.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 5.0,
+    "numero_de_erros_gramaticais": 8,
     "erros_gramaticais": [
-      "Concordância verbal: 'exigem' deveria ser 'exige'",
-      "Pontuação/Regência: falta vírgula após 'Atualmente'",
-      "Uso inadequado de citação/contextualização histórica"
+      "Concordância nominal/verbal",
+      "Regência verbal/nominal"
     ],
     "feedbacks": [
       "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas a progressão temática é fragmentada.",
-      "As ideias não dialogam efetivamente com o texto-base, focando em aspectos instrumentais da diplomacia.",
-      "A análise carece de profundidade filosófica e reflexiva sobre identidade nacional."
+      "As ideias não fluem organicamente; há saltos abruptos entre temas (tecnologia, IRBr, estética, diversidade) sem articulação clara.",
+      "Apesar de mencionar conceitos do texto-base ('espírito brasileiro'), o candidato não os problematiza criticamente, limitando-se a afirmações genéricas."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2035,12 +2050,13 @@
     "nota_final": 38.75,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Concordância verbal incorreta: 'exigem' deveria ser 'exige', referindo-se a 'características'.",
-      "Uso inadequado de vírgula após sujeito composto/longo: 'Atualmente, não é necessário...'"
+      "Concordância verbal incorreta: 'exigem' deveria ser 'exige', referindo-se ao sujeito singular implícito ou à estrutura impessoal.",
+      "Uso inadequado de vírgula após 'país': 'Para que isso ocorra, é essencial...' - embora comum, em contextos acadêmicos rigorosos, a separação excessiva pode ser considerada falha de estilo."
     ],
     "feedbacks": [
-      "Falta conexão clara com o texto-base.",
-      "Desenvolvimento superficial do tema."
+      "O texto apresenta boa organização e coesão, desenvolvendo argumentos claros sobre as funções do diplomata.",
+      "No entanto, há desconexão significativa com o texto-base proposto no enunciado, focando mais em aspectos históricos e institucionais do IRBr do que na discussão filosófica sobre identidade nacional e espiritualidade proposta pelo autor.",
+      "Erros gramaticais menores foram observados, impactando levemente a correção formal."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -2053,13 +2069,13 @@
     "nota_final": 38.75,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Concordância verbal incorreta: 'exigem' deveria ser 'exige', referindo-se a 'características'.",
-      "Uso inadequado de vírgula após sujeito composto/longo: 'Atualmente, não é necessário...'"
+      "Concordância verbal incorreta: 'exigem' deveria ser 'exige', referindo-se ao sujeito singular implícito ou à estrutura impessoal.",
+      "Uso inadequado de vírgula após 'país': 'Para que isso ocorra, é essencial...' - embora comum, em contextos acadêmicos rigorosos, a separação excessiva pode ser considerada falha de estilo."
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura dissertativa, com introdução clara, desenvolvimento organizado e conclusão coesa.",
-      "No entanto, o candidato demonstra dificuldade em articular criticamente as ideias do texto-base com o conceito de diplomata brasileiro, optando por uma abordagem descritiva e factual que pouco dialoga com a problematização proposta.",
-      "As citações de autores e obras parecem inseridas de forma mecânica, sem integração profunda às reflexões centrais do enunciado."
+      "O texto apresenta boa organização e coesão, desenvolvendo argumentos claros sobre as funções do diplomata.",
+      "No entanto, há desconexão significativa com o texto-base proposto no enunciado, focando mais em aspectos históricos e institucionais do IRBr do que na discussão filosófica sobre identidade nacional e espiritualidade proposta pelo autor.",
+      "Erros gramaticais menores foram observados, impactando levemente a correção formal."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -2072,11 +2088,11 @@
     "nota_final": 38.75,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Concordância verbal incorreta: 'exigem' deveria ser 'exige', referindo-se a 'características'.",
-      "Uso inadequado de vírgula após sujeito composto/longo: 'Atualmente, não é necessário...'"
+      "Concordância verbal incorreta: 'exigem' deveria ser 'exige'",
+      "Uso inadequado de vírgula após sujeito composto"
     ],
     "feedbacks": [
-      "Falta conexão clara com o texto-base.",
+      "Falta conexão clara com o texto base.",
       "Desenvolvimento superficial do tema."
     ],
     "modelo": "Qwen3.6-35B-A3B",
@@ -2097,12 +2113,32 @@
       "O texto apresenta estrutura clara e organizada, dividindo-se em parágrafos temáticos que abordam diferentes facetas da figura do diplomata.",
       "Apesar de mencionar autores citados no enunciado (Alberto da Costa e Silva, Lúcio Cardoso) e obras relacionadas, a conexão direta com as ideias centrais do trecho de Guimarães Rosa ('essência verdadeira', 'raízes', 'espírito nacional') permanece superficial e descritiva, limitando-se a citações soltas sem diálogo crítico aprofundado.",
       "Argumentação factualizada: predomínio de dados históricos e institucionais (criação do IRBr, evolução tecnológica, casos anecdóticos) em detrimento de análise conceitual sobre identidade nacional e representação diplomática.",
-      "Linguagem adequada ao registro formal, embora algumas construções sintáticas apresentem pequenos desvios de concordância e pontuação."
+      "Linguagem adequada ao registro formal, embora com algumas imprecisões sintáticas menores."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
+    "essay": 12,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância verbal incorreta: 'exigem' deveria ser 'exige', referindo-se a 'características'.",
+      "Uso inadequado de vírgula após sujeito longo: 'O ministério mantém-se bem informado, pois...' - a vírgula separa indevidamente orações coordenadas sindéticas explicativas."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e organizada, dividindo-se em parágrafos temáticos que abordam diferentes facetas da figura do diplomata.",
+      "Apesar de mencionar autores citados no enunciado (Alberto da Costa e Silva, Lúcio Cardoso) e obras relacionadas, a conexão direta com as ideias centrais do trecho de Guimarães Rosa ('essência verdadeira', 'raízes', 'espírito nacional') permanece superficial e descritiva, limitando-se a citações soltas sem diálogo crítico aprofundado.",
+      "Argumentação factualizada: predomínio de dados históricos e institucionais (criação do IRBr, evolução tecnológica, tradição aristocrática vs meritocracia) em detrimento de análise conceitual sobre identidade nacional e representação diplomática.",
+      "Linguagem adequada ao registro formal, embora algumas construções sintáticas apresentem pequenos desvios de concordância e pontuação."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
     "essay": 12,
     "ano": "2015"
   },
@@ -2115,29 +2151,9 @@
     ],
     "feedbacks": [
       "O texto apresenta organização clara e progressiva, dividindo-se em tópicos lógicos (informar, negociar, representar) que facilitam a leitura.",
-      "A conexão com o texto-base é feita apenas implicitamente através da menção final ao \"espírito brasileiro\" de Lúcio Cardoso, faltando uma análise mais profunda e crítica das ideias apresentadas no fragmento de Guimarães Rosa sobre identidade, pertencimento e autenticidade.",
-      "As citações históricas (Holbein, Telégrafo, IRBr) são pertinentes, mas algumas parecem inseridas de forma mecânica, sem integrar plenamente a discussão central proposta pelo enunciado.",
-      "Linguagem formal adequada ao gênero dissertativo-argumentativo, embora haja pequenos deslizes de concordância e pontuação."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 12,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Concordância verbal incorreta: 'exigem' deveria ser 'exige', referindo-se a 'características'.",
-      "Uso inadequado de vírgula após sujeito longo: 'O ministério mantém-se bem informado, pois...' - a vírgula separa indevidamente orações coordenadas sindéticas explicativas."
-    ],
-    "feedbacks": [
-      "O texto apresenta estrutura clara e organizada, dividindo-se em parágrafos temáticos que abordam diferentes facetas da figura do diplomata.",
-      "Apesar de mencionar autores citados no enunciado (Alberto da Costa e Silva, Lúcio Cardoso) e obras relacionadas, a conexão direta com as ideias centrais do trecho de Guimarães Rosa ('essência verdadeira', 'raízes', 'espírito nacional') permanece superficial e descritiva, limitando-se a citações soltas sem diálogo crítico aprofundado.",
-      "Argumentação factualizada: predomínio de dados históricos e institucionais (criação do IRBr, evolução tecnológica, casos anecdóticos) em detrimento de análise conceitual sobre identidade nacional e representação diplomática.",
-      "Linguagem adequada ao registro formal, embora algumas construções sintáticas apresentem pequenos desvios de concordância e pontuação."
+      "A conexão com o texto-base é feita apenas implicitamente através da menção final ao \"espírito brasileiro\", faltando uma análise mais profunda das ideias do autor sobre identidade, pertencimento e crítica às aparências.",
+      "As citações históricas (Holbein, Lúcio Cardoso, IRBr) são pertinentes, mas algumas parecem inseridas de forma mecânica, sem integração plena com a tese central.",
+      "Linguagem formal adequada ao gênero dissertativo-argumentativo, embora haja pequenos lapsos de concordância e pontuação."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -2149,17 +2165,22 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "concordância nominal",
-      "ortografia/uso indevido de hífen"
+      "ortografia/uso indevido de hífen",
+      "regência verbal/preposicional",
+      "pontuação"
     ],
     "feedbacks": [
-      "Texto bem organizado...",
-      "Argumentação sólida...",
-      "Reflexão pertinente...",
-      "Correção gramatical boa..."
+      "Texto bem organizado, com introdução clara, desenvolvimento coeso e conclusão impactante.",
+      "Argumentação sólida, articulando referências históricas e contemporâneas ao tema proposto.",
+      "Reflexão profunda sobre a relação entre identidade nacional e papel diplomático.",
+      "Erro de concordância: 'diferentes costumes' deveria ser 'diversos costumes'.",
+      "Uso inadequado de hífen em 'retroalimenta-se': o correto é 'retroalimentase' ou reescrita.",
+      "Regência: 'contribuir com o desenvolvimento' seria preferível a 'contribuir para', embora ambos sejam aceitos.",
+      "Pontuação: vírgula após 'porém' desnecessária."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2171,17 +2192,19 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "concordância nominal",
-      "ortografia/uso indevido de hífen"
+      "ortografia/uso indevido de hífen",
+      "regência verbal/preposicional",
+      "pontuação"
     ],
     "feedbacks": [
-      "Texto bem organizado...",
-      "Argumentação sólida...",
-      "Análise reflexiva...",
-      "Correção gramatical boa..."
+      "Texto bem organizado, com introdução clara, desenvolvimento coeso e conclusão impactante.",
+      "Argumentação sólida, articulando referências históricas e contemporâneas ao tema proposto.",
+      "Reflexão profunda sobre a relação entre identidade nacional e papel diplomático.",
+      "Erros menores de concordância e regência presentes, mas sem comprometer a fluidez."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2193,17 +2216,21 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "concordância nominal",
-      "ortografia/uso indevido de hífen"
+      "regência verbal/preposicional",
+      "ortografia/uso indevido"
     ],
     "feedbacks": [
-      "Texto bem organizado...",
-      "Argumentação sólida...",
-      "Análise reflexiva...",
-      "Correção gramatical..."
+      "Texto bem organizado, com introdução clara, desenvolvimento coeso e conclusão impactante.",
+      "Argumentação sólida, articulando referências históricas e contemporâneas ao tema proposto.",
+      "Reflexão profunda sobre a relação entre identidade nacional e papel diplomático.",
+      "Erro de concordância: 'diferentes costumes' deveria ser 'diversos costumes'.",
+      "Uso inadequado de 'casa situação': correto seria 'cada situação'.",
+      "Regência: 'atribuem ... a aspectos' -> 'atribuem ... aos aspectos'.",
+      "Ortografia: 'ufoanista' -> 'ufanista'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2213,15 +2240,15 @@
     "ano": "2015"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 58.33,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "[1]",
       "[2]"
     ],
     "feedbacks": [
-      "Erro de digitação/parêntese solto: '[1]' aparece isolado no segundo parágrafo.",
-      "Parênteses fechamentos inconsistentes: '(...)'."
+      "Erro de digitação/símbolo indevido: '[1]' aparece isoladamente no segundo parágrafo.",
+      "Erro de digitação/símbolo indevido: '[2]' aparece isoladamente no último parágrafo."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -2231,15 +2258,15 @@
     "ano": "2015"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 58.33,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "[1]",
       "[2]"
     ],
     "feedbacks": [
-      "Erro de digitação/identificador residual '[1]' no segundo parágrafo.",
-      "Uso inadequado de 'casa' no último período ('...existentes em cada situação.' seria o correto)."
+      "Erro de digitação/símbolo indevido: '[1]' aparece isoladamente no segundo parágrafo.",
+      "Erro de digitação/símbolo indevido: '[2]' aparece isoladamente no último parágrafo."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -2249,58 +2276,20 @@
     "ano": "2015"
   },
   {
-    "nota_final": 58.5,
+    "nota_final": 58.33,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "[1]",
       "[2]"
     ],
     "feedbacks": [
-      "Erro de digitação/parêntese solto: '[1]' aparece isolado no segundo parágrafo.",
-      "Parênteses fechamentos inconsistentes: '(...)'."
+      "Erro de digitação/símbolo indevido: '[1]' aparece isoladamente no segundo parágrafo.",
+      "Erro de digitação/símbolo indevido: '[2]' aparece isoladamente no último parágrafo."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Em 'como um instrumento vibrado pelo vento', deveria haver vírgula após 'instrumento' para isolar a expressão explicativa.",
-      "Na frase 'que fazem dele um bom mediador', o verbo deveria estar no singular ('faz') para concordar com 'habilidade'."
-    ],
-    "feedbacks": [
-      "Texto articula bem a relação entre identidade nacional e papel diplomático, citando autores clássicos e contemporâneos de forma pertinente.",
-      "Argumentação sólida, com progressão temática clara e uso eficaz de exemplos históricos e teóricos.",
-      "Linguagem formal adequada ao contexto acadêmico-diplomático, embora apresente pequenos deslizes de pontuação e concordância."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Em 'como um instrumento vibrado pelo vento', deveria haver vírgula após 'instrumento' para isolar a expressão explicativa.",
-      "Na frase 'que fazem dele um bom mediador', o verbo deveria estar no singular ('faz') para concordar com 'habilidade'."
-    ],
-    "feedbacks": [
-      "Texto articula bem a relação entre identidade nacional e papel diplomático, citando autores clássicos e contemporâneos de forma pertinente.",
-      "Argumentação clara e progressiva, conectando passado, presente e futuro da diplomacia brasileira.",
-      "Uso eficaz de citações para embasar reflexões teóricas e práticas."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
     "essay": 13,
     "ano": "2015"
   },
@@ -2320,6 +2309,48 @@
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
+    "versao": 1,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em 'como um instrumento vibrado pelo vento', deveria haver vírgula após 'instrumento' para isolar a oração adjetiva.",
+      "Na frase 'não sentimos muito vivas as nossas raízes', a ordem direta seria 'muito vivas não sentimos'. No entanto, essa inversão é aceitável pela ênfase poética."
+    ],
+    "feedbacks": [
+      "Texto articula bem a relação entre identidade nacional e papel diplomático, citando autores clássicos e contemporâneos.",
+      "Argumentação clara e progressiva, conectando passado e presente.",
+      "Uso correto de citações e referências históricas.",
+      "Linguagem formal e adequada ao contexto acadêmico/diplomático.",
+      "Pequenos ajustes de pontuação poderiam melhorar a fluidez."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em 'como um instrumento vibrado pelo vento', deveria haver vírgula após 'instrumento' para isolar a oração adjetiva.",
+      "Na frase 'não sentimos muito vivas as nossas raízes', a ordem direta seria 'muito vivas não sentimos'. No entanto, essa inversão é aceitável pela ênfase poética."
+    ],
+    "feedbacks": [
+      "Texto articula bem a relação entre identidade nacional e papel diplomático, citando autores clássicos e contemporâneos.",
+      "Argumentação clara e progressiva, conectando passado e presente.",
+      "Uso correto de citações e referências históricas.",
+      "Linguagem formal e adequada ao contexto acadêmico/diplomático.",
+      "Pequenos ajustes de pontuação poderiam melhorar a fluidez."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
     "versao": 3,
     "essay": 13,
     "ano": "2015"
@@ -2327,17 +2358,19 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "tato",
+      "diplomara",
       "frequências",
       "calcados"
     ],
     "feedbacks": [
-      "O texto demonstra boa estrutura e clareza, atendendo parcialmente ao critério de organização.",
-      "Apesar de bem organizado, o texto falha em articular criticamente as ideias do autor do texto-base com a figura do diplomata, limitando-se a citações soltas.",
-      "A análise carece de profundidade crítica, focando mais em aspectos institucionais e históricos do que na reflexão filosófica exigida pelo enunciado."
+      "O texto demonstra boa estruturação e clareza, atendendo parcialmente ao pedido de discussão sobre o que é ser um diplomata brasileiro.",
+      "Apresenta argumentos pertinentes e bem organizados, conectando identidade nacional, patriotismo pragmático e atuação prática do MRE.",
+      "Reflete adequadamente sobre a ligação entre a política externa e os valores internos do país, alinhando-se ao texto-base.",
+      "Erros de digitação/ortográficos leves presentes, mas sem comprometer gravemente a compreensão."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2349,17 +2382,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "tato",
+      "diplomara",
       "frequências",
       "calcados"
     ],
     "feedbacks": [
-      "O texto demonstra boa estrutura e clareza, atendendo parcialmente ao critério de organização.",
-      "Apesar de bem organizado, o texto falha em dialogar criticamente com o excerto de Guimarães Rosa, limitando-se a citações soltas.",
-      "A análise carece de profundidade filosófica e crítica, focando excessivamente em aspectos institucionais e técnicos."
+      "O texto possui boa estrutura e clareza, atendendo parcialmente ao critério.",
+      "Apresenta argumentos pertinentes, mas com pouca profundidade analítica.",
+      "Reflexão presente, porém limitada pela abordagem descritiva."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2371,17 +2405,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "tato",
-      "frequências",
+      "diplomara",
+      "frequences",
       "calcados"
     ],
     "feedbacks": [
-      "O texto demonstra boa estrutura e clareza, atendendo parcialmente ao critério de organização.",
-      "Apesar de bem organizado, o texto falha em articular criticamente as ideias do autor do texto-base com a figura do diplomata, limitando-se a citações soltas.",
-      "A análise carece de profundidade crítica, focando mais em aspectos institucionais e históricos do que na reflexão filosófica exigida pelo enunciado."
+      "O texto demonstra boa estruturação e clareza, atendendo parcialmente aos requisitos de organização.",
+      "Apresenta argumentos pertinentes, porém com pouca profundidade analítica em alguns trechos.",
+      "Reflexão presente, mas limitada pela abordagem descritiva e falta de conexão crítica com o texto-base."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2399,8 +2434,8 @@
     ],
     "feedbacks": [
       "O texto demonstra boa organização e coesão.",
-      "Apresenta argumentos bem fundamentados e claros.",
-      "Possui alguns pequenos erros gramaticais."
+      "Apresenta argumentos bem fundamentados e desenvolvidos.",
+      "Atende plenamente ao tema proposto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -2418,8 +2453,8 @@
     ],
     "feedbacks": [
       "O texto demonstra boa organização e coesão.",
-      "Apresenta argumentos bem fundamentados e articulados com o tema proposto.",
-      "Contém alguns pequenos deslizes gramaticais."
+      "Apresenta argumentos bem fundamentados e desenvolvidos.",
+      "Atende plenamente ao tema proposto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -2437,8 +2472,8 @@
     ],
     "feedbacks": [
       "O texto demonstra boa organização e coesão.",
-      "Apresenta argumentos bem fundamentados e claros.",
-      "Possui alguns pequenos erros gramaticais."
+      "Apresenta argumentos bem fundamentados e desenvolvidos.",
+      "Atende plenamente ao tema proposto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -2499,9 +2534,10 @@
       "calcados -> calcados"
     ],
     "feedbacks": [
-      "O texto demonstra conhecimento sólido da temática e articula bem as ideias centrais.",
-      "Apresenta exemplos concretos e referências pertinentes à área diplomática.",
-      "Contém pequenos desvios de grafia e uso inadequado de termos que comprometem ligeiramente a correção formal."
+      "O texto demonstra organização clara e progressiva, articulando bem as ideias centrais.",
+      "Apresenta argumentos pertinentes e exemplos concretos relacionados à atuação diplomática.",
+      "Contém pequenos desvios de grafia e uso inadequado de termos ('tato' em vez de 'tanto', 'diplomara').",
+      "A conexão com o texto-base é feita implicitamente, mas poderia ter sido explorada com mais profundidade teórica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -2512,18 +2548,16 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 7,
+    "nota_1B": 7.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "concordância nominal",
-      "regência verbal/nominal",
-      "ortografia/acentuação"
+      "demanda"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento organizado e conclusão adequada.",
-      "As referências bibliográficas estão bem inseridas, embora algumas pareçam desconectadas do núcleo central do argumento principal.",
-      "A capacidade analítica demonstra compreensão do tema, mas falta aprofundamento crítico nas conexões entre as citações e a tese proposta."
+      "O texto apresenta boa estrutura inicial, introduzindo claramente o conceito central de 'ser diplomata'.",
+      "Os parágrafos estão bem organizados, seguindo uma progressão lógica desde a definição até aspectos históricos e contemporâneos.",
+      "No entanto, alguns trechos poderiam ter sido desenvolvidos com mais profundidade analítica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2534,18 +2568,16 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 7,
+    "nota_1B": 7.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "concordância nominal",
-      "regência verbal/nominal",
-      "ortografia/acentuação"
+      "demanda"
     ],
     "feedbacks": [
-      "O texto apresenta boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento organizado e conclusão adequada.",
-      "As referências bibliográficas estão bem inseridas, embora algumas pareçam desconectadas do núcleo central do argumento principal.",
-      "A capacidade analítica demonstra compreensão do tema, mas falta aprofundamento crítico nas conexões entre as citações e a tese proposta."
+      "O texto apresenta boa estrutura inicial, mas carece de coesão progressiva e clareza conceitual.",
+      "As referências literárias estão presentes, porém desconectadas do núcleo teórico da questão.",
+      "Faltam elementos críticos que relacionem efetivamente a ideia de 'essência' e 'raízes' do texto-base às práticas diplomáticas."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2556,19 +2588,16 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 7,
+    "nota_1B": 7.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "concordância nominal",
-      "regência verbal/nominal",
-      "ortografia/acentuação"
+      "demanda"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara, com introdução, desenvolvimento e conclusão bem definidos.",
-      "Os parágrafos estão organizados logicamente, avançando progressivamente na discussão.",
-      "A escrita é fluida e demonstra domínio vocabular adequado ao nível exigido pela CACD.",
-      "Apresenta boa capacidade de articulação teórica, citando autores relevantes para a temática."
+      "O texto apresenta boa estrutura inicial, mas carece de coesão progressiva e clareza conceitual.",
+      "As referências literárias estão presentes, porém desconectadas do núcleo teórico da questão.",
+      "Faltam argumentos críticos sobre a tensão entre soberania e globalização."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2582,92 +2611,62 @@
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "política públicas -> políticas públicas",
-      "confrontar suas opiniões para, eventualmente, chegar a consenso -> chegar a um consenso / chegar ao consenso",
-      "expansão do número de embaixadas brasileiras, notadamente em países em que a presença do empresariado nacional é incipiente, é representativa desse “ethos” da diplomacia nacional, a qual está comprometida em ser vanguarda da sociedade para expandir as oportunidades nacionais.",
-      "crescentemente [3]",
-      "Caillères"
-    ],
-    "feedbacks": [
-      "Erro de concordância nominal: 'políticas públicas' deveria ser plural.",
-      "Erro de regência/omissão de artigo: 'chegar a um consenso'.",
-      "Uso inadequado de vírgula após advérbio: 'contribui, crescentemente,'."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 15,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 54.78,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "política públicas -> políticas públicas",
-      "consequencia -> consequência",
-      "dezenovesco -> dezannovesco"
-    ],
-    "feedbacks": [
-      "O texto apresenta boa estrutura e coesão.",
-      "Os argumentos estão bem desenvolvidos.",
-      "Existem alguns pequenos erros gramaticais."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 15,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 58.75,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "política públicas -> políticas públicas",
-      "chegar a consenso -> chegar a um consenso / chegar ao consenso",
-      "expansarem -> expandir",
+      "confrontar suas opiniões para, eventualmente, chegar a consenso -> cheguem a um consenso / chegam a um consenso",
+      "expansãorem -> expansão rem",
       "crescentemente -> crescente"
     ],
     "feedbacks": [
-      "Atenção às normas cultas da língua portuguesa.",
-      "Revisar a concordância nominal."
+      "O texto apresenta boa estrutura e coesão.",
+      "Os argumentos estão bem desenvolvidos e conectados ao tema.",
+      "A linguagem é adequada ao contexto acadêmico/profissional."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 15,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta organização clara e progressiva, articulando bem as referências literárias e históricas ao longo da dissertação.",
-      "A argumentação demonstra coerência interna e conexão adequada com o enunciado proposto.",
-      "Apresenta domínio satisfatório da norma culta, embora possa beneficiar-se de refinamentos estilísticos menores."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
     "temp": 0.0,
     "versao": 1,
     "essay": 15,
     "ano": "2015"
   },
   {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "política públicas -> políticas públicas",
+      "confrontar suas opiniões para, eventualmente, chegar a consenso -> cheguem a um consenso / chegam a um consenso",
+      "expansãorem -> expansão rem",
+      "crescentemente -> crescente"
+    ],
     "feedbacks": [
-      "O texto apresenta organização clara e progressiva, articulando bem as referências literárias e históricas ao longo da dissertação.",
-      "A argumentação demonstra coerência interna e conexão adequada com o enunciado, embora a abordagem inicial possa parecer ligeiramente deslocada em relação à densidade filosófica do trecho de Guimarães Rosa.",
-      "Apresenta domínio satisfatório da norma culta, com vocabulário variado e sintaxe correta."
+      "O texto apresenta boa estrutura e coesão.",
+      "Os argumentos estão bem desenvolvidos e conectados ao tema.",
+      "A linguagem é adequada ao contexto formal."
     ],
     "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
+    "prompt": 8,
     "temp": 0.0,
     "versao": 2,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "política públicas -> políticas públicas",
+      "confrontar suas opiniões para, eventualmente, chegar a consenso -> cheguem a um consenso / chegam a um consenso",
+      "expansãorem as fronteira s -> expansion of the borders is incorrect in context but grammatically 'expandirem' should be expanded or rephrased? Actually 'expandirem' is correct subjunctive/infinitivo pessoal after 'tradição de'. Wait, let's check: 'perpetuarem a tradição de expandirem...' - infinitivo pessoal agrees with subject implied from main clause? The subject of 'expandirem' is 'diplomatas'. So it's fine.",
+      "crescentemente -> crescente"
+    ],
+    "feedbacks": [
+      "Erro de concordância nominal/adjetival: 'políticas públicas'",
+      "Erro de regência/concordância verbal: 'chegar a consenso' deveria ser 'cheguem a um consenso' ou similar.",
+      "Uso inadequado de advérbio: 'crescentemente' deveria ser adjetivo 'crescente' modificando 'contribui'?",
+      "Possível erro de digitação ou estrutura: 'Caillères'?"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
     "essay": 15,
     "ano": "2015"
   },
@@ -2684,6 +2683,39 @@
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
+    "versao": 1,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara e progressiva, articulando bem as referências literárias e históricas ao longo da discussão.",
+      "As ideias estão encadeadas logicamente, embora algumas transições possam parecer abruptas devido às citações sucessivas.",
+      "A argumentação demonstra conhecimento do tema e contextualiza adequadamente a função do diplomata brasileiro, relacionando-a com a identidade nacional e a democracia.",
+      "Apresenta domínio razoável da norma culta, com poucas imprecisões pontuais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara e progressiva, articulando bem as referências literárias e históricas ao longo da discussão.",
+      "A argumentação demonstra coerência interna e conexão adequada com o enunciado, embora a abordagem inicial possa parecer ligeiramente deslocada em relação ao tom filosófico do excerto de Guimarães Rosa.",
+      "Apresenta domínio satisfatório da norma culta, com uso correto de conectivos e estruturas sintáticas variadas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
     "versao": 3,
     "essay": 15,
     "ano": "2015"
@@ -2691,17 +2723,19 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "pais",
       "[1]",
-      "[2]"
+      "[2]",
+      "executores"
     ],
     "feedbacks": [
-      "Texto bem organizado, mas com repetições excessivas.",
-      "Argumentação correta, porém superficial na ligação com o texto-base.",
-      "Análise histórica presente, mas falta profundidade reflexiva."
+      "Apresentação e Impression Geral do Texto:",
+      "Capacidade de Argumentação:",
+      "Capacidade de Análise e Reflexão:",
+      "Correção Gramatical e Propriedade da Linguagem:"
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2713,17 +2747,19 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "pais",
       "[1]",
-      "[2]"
+      "[2]",
+      "executores"
     ],
     "feedbacks": [
-      "Texto bem organizado, mas com repetições excessivas.",
-      "Argumentação correta, porém superficial na ligação com o texto-base.",
-      "Análise histórica presente, mas falta profundidade reflexiva."
+      "Apresentação e Impression Geral do Texto:",
+      "Capacidade de Argumentação:",
+      "Capacidade de Análise e Reflexão:",
+      "Correção Gramatical e Propriedade da Linguagem:"
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2735,17 +2771,19 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "pais",
       "[1]",
-      "[2]"
+      "[2]",
+      "executores"
     ],
     "feedbacks": [
-      "Texto bem organizado, mas com repetições excessivas.",
-      "Argumentação correta, porém superficial e descritiva.",
-      "Análise limitada pela falta de profundidade teórica."
+      "Apresentação e Impression Geral do Texto:",
+      "Capacidade de Argumentação:",
+      "Capacidade de Análise e Reflexão:",
+      "Correção Gramatical e Propriedade da Linguagem:"
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -2764,7 +2802,7 @@
     ],
     "feedbacks": [
       "Erro de digitação/ortográfico: 'pais' deveria ser 'país'.",
-      "Uso indevido de marcadores '[1]' e '[2]', indicando provável erro de formatação ou cópia.",
+      "Presença de marcadores numéricos '[1]' e '[2]', indicando provável cópia indevida.",
       "'Executores' parece inadequado neste contexto; 'diplomatas', 'agentes' ou 'gestores' seriam termos mais precisos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
@@ -2784,7 +2822,7 @@
     ],
     "feedbacks": [
       "Erro de digitação/ortográfico: 'pais' deveria ser 'país'.",
-      "Uso indevido de marcadores '[1]' e '[2]', indicando provável erro de formatação ou cópia.",
+      "Presença de marcadores numéricos '[1]' e '[2]', indicando provável erro de formatação ou cópia.",
       "'Executores' parece inadequado neste contexto; 'diplomatas', 'agentes' ou 'gestores' seriam termos mais precisos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
@@ -2803,14 +2841,32 @@
       "executores"
     ],
     "feedbacks": [
-      "Erro de digitação/ortográfico: 'pais' deveria ser 'país'.",
-      "Uso indevido de marcadores '[1]' e '[2]', indicando provável erro de formatação ou cópia.",
-      "'Executores' parece inadequado neste contexto; 'diplomatas', 'agentes' ou 'gestores' seriam termos mais precisos."
+      "Erro grave de digitação/ortográfico ('pais' em vez de 'país') repetido.",
+      "Presença de marcadores numéricos '[1]' e '[2]', indicando provável erro de formatação/cópia.",
+      "'Executores' usado inadequadamente no sentido de agentes/diplomatas."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
+    "essay": 16,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "pais"
+    ],
+    "feedbacks": [
+      "Texto apresenta organização clara e progressiva, articulando argumentos históricos e teóricos para discutir a identidade do diplomata.",
+      "Argumentação coerente, embora algumas conexões possam ser aprimoradas para evitar repetições.",
+      "Domínio razoável da norma culta, com pequenos desvios ortográficos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
     "essay": 16,
     "ano": "2015"
   },
@@ -2828,24 +2884,6 @@
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
-    "versao": 1,
-    "essay": 16,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "pais"
-    ],
-    "feedbacks": [
-      "Texto apresenta estrutura clara e organização temática adequada, desenvolvendo argumentos consistentes sobre a ligação entre identidade nacional e atuação diplomática.",
-      "Apresenta exemplos históricos pertinentes (Gusmão, Rio Branco) e referências teóricas (Ricupero, Oliveira Viana), demonstrando bom domínio do assunto.",
-      "Contém três erros de grafia ('pais' em vez de 'país'), indicando falta de revisão final."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
     "versao": 2,
     "essay": 16,
     "ano": "2015"
@@ -2857,9 +2895,9 @@
       "pais"
     ],
     "feedbacks": [
-      "Texto apresenta estrutura clara e organização temática adequada, desenvolvendo argumentos consistentes sobre a ligação entre identidade nacional e atuação diplomática.",
-      "Apresenta exemplos históricos pertinentes (Gusmão, Rio Branco) e referências teóricas (Ricupero, Oliveira Viana), demonstrando bom domínio do assunto.",
-      "Contém três erros de grafia ('pais' em vez de 'país'), indicando falhas básicas de revisão ortográfica."
+      "Texto apresenta organização clara e progressiva, articulando argumentos históricos e teóricos.",
+      "Argumentação coerente, embora algumas conexões possam ser aprimoradas.",
+      "Domínio razoável da norma culta, com pequenos desvios."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,

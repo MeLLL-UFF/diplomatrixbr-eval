@@ -1,0 +1,912 @@
+[
+  {
+    "nota_1A": 6.0,
+    "nota_1B": 5.0,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso inadequado de 'Ademais' no lugar de 'Além'",
+      "Repetição excessiva de trechos e frases completas entre diferentes parágrafos"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas carece de progressão temática clara.",
+      "Há repetições significativas de argumentos e frases inteiras, indicando falta de planejamento estrutural.",
+      "As informações são pertinentes ao tema, mas a organização impede uma leitura fluida."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 6.0,
+    "nota_1B": 5.0,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso inadequado de 'Ademais' no lugar de 'Além'",
+      "Repetição excessiva de frases/conteúdo entre o segundo e o terceiro parágrafo"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas carece de progressão temática clara.",
+      "Há repetições significativas de argumentos e trechos, indicando falta de síntese e organização lógica.",
+      "As ideias são pertinentes ao tema, mas a abordagem é superficial e descritiva, sem aprofundamento crítico necessário."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 6.0,
+    "nota_1B": 5.0,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso inadequado de 'Ademais' no lugar de 'Além'",
+      "Repetição excessiva de trechos e frases completas entre parágrafos diferentes."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura básica de introdução, desenvolvimento e conclusão, mas carece de progressão temática clara.",
+      "As ideias são repetidas diversas vezes ao longo do texto, indicando falta de síntese e organização lógica.",
+      "Há menção aos temas solicitados, mas a articulação entre eles é superficial e descritiva.",
+      "Apresenta alguns deslizes gramaticais, incluindo erro de emprego de conectivo ('Ademais') e redundâncias graves que prejudicam a fluidez.",
+      "Falta profundidade analítica nas relações causais e consequenciais propostas pela questão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 64.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Argumentação sólida, conectando adequadamente o texto de José Bonifácio às questões contemporâneas, incluindo a COP30."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 64.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Uso correto de conectivos e boa progressão temática entre os parágrafos.",
+      "Linguagem formal e apropriada ao gênero dissertativo-argumentativo.",
+      "Atenção aos detalhes históricos e contemporâneos relacionados às mudanças climáticas e à COP30."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 64.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Argumentação sólida, conectando adequadamente o texto de José Bonifácio às questões contemporâneas, incluindo a COP30."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ademais de liderar...",
+      "possui parcerias com países africanos com o objetivo..."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, abordando adequadamente o tema proposto.",
+      "Há repetição excessiva de algumas frases e ideias, especialmente nas conclusões de parágrafo.",
+      "Alguns trechos podem ser considerados superficiais ou genéricos, faltando uma análise mais profunda sobre o papel específico da diplomacia brasileira.",
+      "Pequenos deslizes gramaticais e de pontuação foram identificados."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ademais de liderar...",
+      "possui parcerias com países africanos com o objetivo..."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, abordando adequadamente o tema proposto.",
+      "Há repetição excessiva de algumas frases e ideias, especialmente nas conclusões de parágrafo.",
+      "Alguns trechos podem ser considerados superficiais ou genéricos, faltando uma análise mais profunda sobre a atuação específica da diplomacia brasileira.",
+      "Pequenos deslizes gramaticais e de pontuação foram identificados."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ademais de liderar...",
+      "possui parcerias com países africanos com o objetivo..."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e segue a ordem proposta pelo enunciado.",
+      "Há repetição excessiva de frases e ideias, especialmente nas conclusões de parágrafo e no fechamento final.",
+      "A análise da relação entre desmatamento e ciclo hidrológico ('chuvas volantes') foi pertinente e demonstra bom conhecimento técnico.",
+      "A menção aos acordos internacionais (Acordo de Paris) e às políticas internas adiciona concretude ao argumento."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'tem sido cada vez mais comum' (sujeito plural 'surgimento... áreas', deveria ser 'comuns').",
+      "Regência/Crase: 'referência ao tratar' (falta crase: 'à medida que trata' ou reestruturação necessária para clareza, embora seja aceitável coloquialmente, em norma culta exige preposição adequada)."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara, introdução, desenvolvimento e conclusão coesas.",
+      "Argumentação sólida, conectando o passado ao presente e abordando a COP30 adequadamente.",
+      "Análise reflexiva demonstra compreensão profunda do tema, embora algumas generalizações possam ser questionadas."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'tem sido cada vez mais comum' (sujeito plural 'surgimento... áreas', deveria ser 'comuns').",
+      "Regência/preposição: 'referência ao tratar' (falta preposição 'de': 'referência *ao* tratar' -> correto seria 'referência *à questão de* tratar' ou reestruturar; aqui considero erro leve de regência/construção).",
+      "Ortografia/Acentuação: 'hodiernO' (adjetivo derivado de hoje leva acento agudo no 'i'? Não, 'hodierno' não leva acento. Erro de acentuação gráfica).",
+      "Pontuação/Vírgula: 'As metas promissoras...' (fragmento solto após vírgula anterior, falta verbo principal ou conexão clara com oração antecedente).",
+      "Concordância verbal: 'economias avançadas.' (Frase incompleta/cortada propositalmente? Ou erro de estrutura: 'baseada em uma matriz...'. Concordância de 'baseada' com 'neutralidade' está ok, mas a frase fica truncada visualmente)."
+    ],
+    "feedbacks": [
+      "Texto demonstra boa organização estrutural, com introdução clara, desenvolvimento articulado e conclusão coesa.",
+      "Argumentação pertinente, conectando adequadamente o texto histórico à contemporaneidade (desertificação, migração climática, COP30).",
+      "Análise reflexiva sólida, embora algumas transições possam ser aprimoradas para evitar repetição de termos ('diplomacia brasileira', 'migração climática').",
+      "Correção gramatical satisfatória, com poucos deslizes pontuais que não comprometem a compreensão global."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'tem sido cada vez mais comum' (sujeito plural 'surgimento... áreas', deveria ser 'comuns').",
+      "Regência/preposição: 'referência ao tratar' (falta preposição 'de': 'referência *ao* tratar' -> correto seria 'referência *à questão de* tratar' ou reestruturar). Melhor erro claro: 'conforme referenciado por...' (uso inadequado de 'conforme' para citação direta, idealmente 'segundo' ou 'na visão de')."
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Há articulação pertinente entre o pensamento histórico de José Bonifácio e questões contemporâneas, incluindo a COP30.",
+      "Apresenta alguns deslizes gramaticais menores, principalmente de regência e concordância, que não comprometem gravemente a compreensão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 69.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Concordância nominal: 'metas promissoras' deveria ser 'meta promissora'.",
+      "Regência/Preposição: 'sob pena de ... ser' poderia ser interpretado como erro leve de regência verbal/nominal, embora seja aceitável.",
+      "Uso de vírgula: '...poluentes nas últimas décadas, as metas...' - falta verbo ou conjunção adequada ('com').",
+      "Ortografia/Acentuação: Não houve erros graves."
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulário técnico e formal adequado ao concurso.",
+      "Estrutura dissertativo-argumentativa muito sólida, com introdução clara, desenvolvimento rico em dados e conclusão coesa.",
+      "Atendeu perfeitamente a todas as exigências do enunciado, incluindo a menção específica à COP30 e Belém.",
+      "Pequenos deslizes gramaticais menores não comprometem gravemente a qualidade textual, mas impediram a nota máxima."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 69.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Concordância nominal: 'metas promissoras' deveria ser 'meta(s) promissora(s)' ou reescrita para evitar ambiguidade.",
+      "Uso inadequado de hífen/traço: 'políticas-jurídicos' deveria ser 'político-jurídica'.",
+      "Regência/preposição: 'sob pena de ... ser irreversivelmente concretizada' - construção aceitável, mas poderia ser aprimorada."
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulário técnico e formal adequado ao concurso.",
+      "Argumentação sólida, conectando adequadamente o texto histórico com questões contemporâneas (desertificação, migração climática, COP30).",
+      "Estrutura coesa, com introdução clara, desenvolvimento bem articulado e conclusão impactante.",
+      "Pequenos deslizes gramaticais não comprometem significativamente a qualidade geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 69.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'tem sido cada vez mais comum' deveria ser 'têm sido', pois o sujeito é plural ('processos').",
+      "Regência verbal/preposição: 'motivos... que se objetiva concretizar' - falta preposição após objetivo/concretizar.",
+      "Uso inadequado de hífen/travessão: 'políticos-jurídicos' - o correto seria usar travessão ou vírgula, pois são adjetivos coordenados.",
+      "Ortografia/Acentuação: 'hodierna' (adjetivo) vs 'hodiernamente'; aqui está ok, mas verificar 'mudança do clima' vs 'mudanças climáticas'. O uso de 'mudança do clima' é aceitável."
+    ],
+    "feedbacks": [
+      "Excelente estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento coeso e conclusão impactante.",
+      "Argumentação sólida, conectando adequadamente o pensamento de José Bonifácio com questões contemporâneas (desertificação, migração climática, COP30).",
+      "Linguagem formal e adequada ao registro acadêmico/diplomático, embora contenha pequenos deslizes gramaticais.",
+      "Atenção à coerência textual e progressão temática muito boa."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente o pensamento histórico de José Bonifácio com questões contemporâneas urgentes.",
+      "Há forte competência na construção argumentativa, estabelecendo conexões sólidas entre desmatamento, desertificação, migração climática e a posição geopolítica do Brasil."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente o pensamento de José Bonifácio com questões contemporâneas como desertificação, migração climática e a relevância da COP30.",
+      "Há forte coerência interna e progressividade temática, construindo argumentos sólidos que conectam passado, presente e futuro político-diplomático.",
+      "A linguagem é formal, precisa e adequada ao registro acadêmico/diplomático, com bom uso de conectivos e terminologia técnica."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente o pensamento histórico de José Bonifácio com questões contemporâneas urgentes.",
+      "Há forte competência na construção argumentativa, estabelecendo conexões sólidas entre desmatamento, desertificação, migração climática e a posição geopolítica do Brasil."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 23.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "ortografia",
+      "concordancia_nominal",
+      "pontuacao"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara, introdução bem definida, desenvolvimento organizado e conclusão adequada.",
+      "As ideias são pertinentes e bem articuladas, embora haja repetição de alguns argumentos.",
+      "Há boa capacidade analítica, conectando o passado ao presente e discutindo temas complexos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 23.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "ortografia",
+      "concordancia_nominal",
+      "pontuacao"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara, introdução bem definida, desenvolvimento organizado e conclusão adequada.",
+      "As ideias são pertinentes e bem articuladas, embora haja repetição de alguns argumentos.",
+      "Há boa capacidade analítica, conectando o passado ao presente e discutindo temas complexos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 23.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "ortográfica",
+      "concordância nominal",
+      "regência verbal/preposição",
+      "pontuação",
+      "ortográfica"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clássica de dissertação-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão sintética.",
+      "As referências bibliográficas são pertinentes e contextualizadas historicamente, embora haja uma citação acadêmica específica ('Maurecir Guimaraes de Moraes') que pode parecer fora de lugar em um exame oficial, já que geralmente espera-se domínio direto da fonte primária ou secundária canônica.",
+      "Há uma forte capacidade analítica ao conectar o passado (Bonifácio) com o presente (COP30) e o futuro (justiça climática), demonstrando visão geopolítica sofisticada."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 69.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "povoamentos -> povoação",
+      "estéreis -> estéreis",
+      "países -> países",
+      "florestas -> florestas"
+    ],
+    "feedbacks": [
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em argumentos históricos e geopolíticos, e conclusão adequada.",
+      "Uso excelente de referências bibliográficas e conceituais (Bertha Becker, Ailton Krenak, TCA/OTCA, RCPD).",
+      "Linguagem formal, precisa e adequada ao nível exigido pela carreira diplomática.",
+      "Pequenos desvios ortográficos e de digitação presentes, mas sem comprometer a fluidez ou a compreensão."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 69.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Maurecir Guimaraes -> Maurício Guimarães",
+      "\"responsabilidades\" -> \"responsabilidades\"",
+      "\"desmatamento de sua florestas\" -> \"de suas florestas\"",
+      "\"ponto de inflexão ,\" -> \".\","
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulário técnico e acadêmico.",
+      "Argumentação sólida e bem estruturada, conectando adequadamente o passado ao presente.",
+      "Uso correto de referências bibliográficas e conceituais relevantes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 69.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Maurecir Guimaraes -> Maurício Guimarães",
+      "\"responsabilidades\" -> \"responsabilidades\"",
+      "\"desmatamento de sua florestas\" -> \"de suas florestas\"",
+      "\"ponto de inflexão ,\" -> \".\","
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulário técnico e acadêmico.",
+      "Argumentação sólida e bem estruturada, conectando adequadamente o passado ao presente.",
+      "Uso correto de referências bibliográficas e conceituais relevantes."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "desmatamento de sua florestas nativas -> desmatamento de suas florestas nativas",
+      "ponto final após 'inflexão' seguido de vírgula -> ponto final após 'infle xão'. Tanto...",
+      "vírgula antes de 'como' em 'tanto... como...' desnecessária ou inadequada dependendo da leitura, mas aceitável.",
+      "Uso correto de colchetes [1], embora referências bibliográficas não sejam exigidas."
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente o trecho histórico de José Bonifácio com questões atuais como mudanças climáticas, desmatamento e o papel da diplomacia brasileira na COP30.",
+      "Há forte embasamento teórico e conceitual, citando autores como Bertha Becker, Ailton Krenak e conceitos como 'responsabilidades comuns, porém diferenciadas', demonstrando amplitude de conhecimento.",
+      "A argumentação é densa, crítica e bem estruturada, conectando passado e presente de maneira fluida e persuasiva.",
+      "Apresenta pequenos deslizes gramaticais (concordância nominal, pontuação), mas nada que comprometa a compreensão ou a sofisticação do texto.",
+      "Linguagem formal, precisa e adequada ao contexto acadêmico/diplomático esperado no CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "desmatamento de sua florestas nativas -> desmatamento de suas florestas nativas",
+      "ponto final após 'inflexão' seguido de vírgula -> ponto final após 'infle xão'. Tanto...",
+      "vírgula antes de 'como' em 'tanto... como...' desnecessária ou inadequada dependendo da leitura, mas aceitável.",
+      "Uso correto de colchetes [1], embora referências bibliográficas não sejam exigidas."
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente o trecho histórico de José Bonifácio com questões atuais como mudanças climáticas, desmatamento e o papel da diplomacia brasileira na COP30.",
+      "Há forte embasamento teórico e conceitual, citando autores como Bertha Becker, Ailton Krenak e conceitos como 'responsabilidades comuns porém diferenciadas', demonstrando amplitude de conhecimento.",
+      "A argumentação é densa, crítica e bem estruturada, conectando passado e presente de maneira fluida e persuasiva.",
+      "Apresenta pequenos deslizes gramaticais (concordância nominal, pontuação), mas nada que comprometa a compreensão ou a sofisticação do texto.",
+      "Linguagem formal, precisa e adequada ao nível esperado para um concurso de alta complexidade como a CACD."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "desmatamento de sua florestas nativas -> desmatamento de suas florestas nativas",
+      "ponto final após 'inflexão' seguido de vírgula -> ponto final após 'infle xão'. Tanto...",
+      "vírgula antes de 'como' em 'tanto... como...' desnecessária ou inadequada dependendo da leitura, mas aceitável.",
+      "Uso correto de colchetes [1], embora referências bibliográficas não sejam exigidas."
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente domínio do tema, articulando perfeitamente o trecho histórico de José Bonifácio com questões atuais como mudanças climáticas, desmatamento e a relevância geopolítica da COP30 na Amazônia.",
+      "Há forte embasamento conceitual, citando autores como Bertha Becker e Ailton Krenak, e abordando temas complexos como o princípio das responsabilidades comuns e diferenciadas e a crítica à visão eurocêntrica/internacionalizadora da Amazônia.",
+      "A estrutura é clara e progressiva, conectando passado, presente e futuro institucional/diplomático.",
+      "Apresenta pequenos deslizes gramaticais (concordância nominal, pontuação) que impedem a nota máxima ('Excepcional'), mas mantêm alto nível acadêmico e formal."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'se verificam' deveria ser 'se verifica' (processos... se verifica)",
+      "Ortografia/Acentuação: 'pre- -industriais' (hífen duplo/espaçamento incorreto)",
+      "Regência verbal: 'contribuir internamente como os planos' -> 'com os planos'",
+      "Concordância verbal: 'Essas mudanças já vem' -> 'vêm'",
+      "Pontuação/Estrutura: 'já que são principalmente causadas...' (início de oração explicativa após ponto final, gerando frase fragmentada/informal)",
+      "Uso inadequado de hífen/conjunção: 'não por  isso' (duplo espaço)"
+    ],
+    "feedbacks": [
+      "O texto apresenta introdução clara, desenvolvimento bem estruturado em três partes (desmatamento, mudanças climáticas, perspectiva/diplomacia) e conclusão coesa.",
+      "Há domínio razoável do vocabulário acadêmico e bom uso de conectivos ('conquanto', 'todavia', 'ora').",
+      "As citações de Bonifácio são integradas adequadamente ao argumento.",
+      "Apresenta alguns deslizes gramaticais menores que afetam ligeiramente a correção formal."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'se verificam' deveria ser 'se verifica' (processos... se verifica)",
+      "Ortografia/Acentuação: 'pré-industriais' (hífen incorreto ou desnecessário dependendo da norma, mas geralmente aceito; entretanto, 'pre- -industriais' com espaço duplo é erro tipográfico/formatual grave)",
+      "Regência/Crase: 'através da análise' (uso inadequado de 'através', preferível 'por meio')",
+      "Concordância verbal: 'Essas mudanças já vem' -> 'vêm'",
+      "Uso indevido de hífen/espaço: 'pré- -industriais'",
+      "Possível erro de digitação/formatação: 'não por  isso' (duplo espaço)"
+    ],
+    "feedbacks": [
+      "O texto apresenta introdução clara, desenvolvimento bem estruturado em três partes (desmatamento, mudanças climáticas, perspectiva/diplomacia) e conclusão coesa.",
+      "Há domínio conceitual relevante (Fundo Amazônia, Rios Voadores, IPCC, Acordo de Paris, NDCs, Rio+20, BBNJ).",
+      "A articulação entre o pensamento de Bonifácio e a atualidade é feita de forma pertinente, embora algumas transições possam ser aprimoradas.",
+      "A menção à COP30 e ao papel da diplomacia brasileira é adequada e contextualizada corretamente.",
+      "Pontos fracos: alguns erros gramaticais recorrentes (concordância, uso de 'vir'), emprego questionável de 'através', e pequenos descuidos editoriais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'se verificam' deveria ser 'se verifica' (processos... se verifica)",
+      "Ortografia/Acentuação: 'pre- -industriais' (hífen duplo/espaçamento incorreto)",
+      "Regência verbal: 'contribuir internamente como os planos' -> 'com os planos'",
+      "Concordância verbal: 'Essas mudanças já vem' -> 'vêm'",
+      "Pontuação/Estrutura: 'já que são principalmente causadas...' (início de oração explicativa após ponto final, gerando frase incompleta/corte abrupto)",
+      "Uso inadequado de conectivo/semântico: 'talvez' faltando antes de 'justo essa ideia'"
+    ],
+    "feedbacks": [
+      "O texto apresenta introdução clara, desenvolvimento bem estruturado em três partes (desmatamento, mudanças climáticas, perspectiva/diplomacia) e conclusão coesa.",
+      "Há domínio conceitual relevante (Fundo Amazônia, Rios Voadores, IPCC, Acordo de Paris, NDCs, BBNJ, Desenvolvimento Sustentável).",
+      "A articulação entre o pensamento de Bonifácio e a temática contemporânea é feita de forma pertinente.",
+      "A menção específica à COP30 em Belém e seu contexto geopolítico demonstra atualização e alinhamento ao enunciado."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 69.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 69.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 69.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'se verificam' deveria ser 'se verifica', pois o sujeito é 'processos'.",
+      "Regência verbal/preposição: 'contribuir internamente como os planos' está incorreto; o correto seria 'contribuir para os planos' ou 'no sentido de viabilizar os planos'.",
+      "Ortografia/Acentuação: 'já vem' deveria estar no plural ('vêm'), concordando com 'mudanças climáticas'.",
+      "Pontuação/Espaçamento: 'pré-industriais.' apresenta hífen seguido de ponto final sem espaço adicional, embora seja aceitável, o uso de dois pontos seguidos após 'prejuízos:' antes de listar exemplos é inadequado.",
+      "Uso de vírgula: 'metano, entre outros,' – a expressão 'entre outros' geralmente exige vírgulas antes e depois, ficando 'CO2, metano, entre outros,', mas aqui a construção ficou truncada.",
+      "Clareza/Sintaxe: 'Ora, justa essa ideia...' parece haver erro de digitação ou concordância; talvez o autor quisesse dizer 'Justamente essa ideia...'"
+    ],
+    "feedbacks": [
+      "O texto demonstra bom conhecimento do tema e articula adequadamente as ideias de José Bonifácio com questões contemporâneas, incluindo menção específica à COP30 e ao papel da diplomacia brasileira.",
+      "Há organização clara em introdução, desenvolvimento e conclusão, com parágrafos bem delimitados por tópicos (desmatamento, mudanças climáticas, avanços/perspectivas).",
+      "Apresenta algumas imprecisões gramaticais e de regência que comprometem ligeiramente a fluidez e a precisão técnica esperadas em um texto de alto nível acadêmico/diplomático."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'se verificam' deveria ser 'se verifica', pois o sujeito é 'processos'.",
+      "Uso inadequado de hífen/travessão: 'pré-industriais' está correto, mas 'prejuízo' parece ter havido erro de digitação.",
+      "Regência/preposição: 'contribuir internamente como os planos' soa estranho; talvez 'como viabilizar os planos' ou 'na implementação dos planos'.",
+      "Ortografia/Acentuação: 'hodiernamente' está correto, mas o uso excessivo de termos eruditos ('conquanto', 'todavia', 'ora') pode soar artificial.",
+      "Pontuação/Fraseologia: 'já que são principalmente causadas...' a vírgula antes de 'que' não é necessária aqui.",
+      "Clareza/Lógica: A transição entre parágrafos é funcional, mas algumas conexões poderiam ser mais fluidas."
+    ],
+    "feedbacks": [
+      "O texto demonstra bom conhecimento do tema e consegue articular adequadamente as ideias de José Bonifácio com questões contemporâneas, incluindo a COP30.",
+      "Há uma tentativa clara de seguir a estrutura proposta pelo enunciado, abordando desmatamento, mudanças climáticas e o papel da diplomacia.",
+      "Os argumentos são pertinentes e embasados em dados concretos (ex.: 7% da Mata Atlântica, Rios Voadores, IPCC, Acordo de Paris).",
+      "Apresenta alguns deslizes gramaticais menores, especialmente de concordância verbal e regência, que não comprometem gravemente a compreensão, mas indicam necessidade de revisão fina.",
+      "O estilo é formal e adequado ao concurso, embora ocasionalmente recorra a conectivos muito marcantes ('conquanto', 'ora'), o que pode soar um pouco forjado.",
+      "Faltou explorar com mais profundidade a tensão específica entre interesses nacionais e pressões internacionais na COP30, limitando-se a afirmar que o Brasil deve liderar.",
+      "A conclusão é adequada, retomando a tese inicial, mas poderia ser mais impactante ao propor uma visão estratégica concreta para Belém 2025."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'se verificam' deveria ser 'se verifica'",
+      "Uso inadequado de hífen/travessão: 'pré-industriais' (hífen desnecessário)",
+      "Erro de digitação/repetição: 'não por  isso'"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura clara e organizada, dividindo-se logicamente em introdução, desenvolvimento (desmatamento, mudanças climáticas, avanços/perspectivas) e conclusão.",
+      "Há bom uso de citações diretas do texto-base e conexão com conceitos modernos (Fundo Amazônia, Rios Voadores, IPCC, Acordo de Paris, NDCs).",
+      "Apresenta alguns deslizes gramaticais menores (concordância, pontuação e digitação) que não comprometem gravemente a compreensão, mas indicam necessidade de revisão final."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'O atual estágio... permite' -> Sujeito singular ('estágio'), verbo no singular ('permite'). Correto.",
+      "Regência/Pontuação: 'coordenação com o Itamaraty é fundamental...' -> Falta vírgula antes de 'é'? Não obrigatório. Erro real: 'conduzidos pelo Ministério... em coordenação com o Itamaraty é fundamental'. Concordância: 'conservação ... é fundamental'. OK. Outro erro: 'As nações desenvolvidas devem ser instadas a cumprir com seu compromisso...'. Cumprir algo. 'Cumprir com' é redundante/poor style but maybe acceptable. Let's look for clearer errors.\n\nError 1: 'O atual estágio de desenvolvimento institucional da diplomacia climática, contudo, permite ao governo brasileiro executar ações ambiciosas de conservação ambiental.' - Correct.\n\nLet's check the text again carefully.\n\n'É evidente, portanto, que a conservação desses biomas por meio de programas como o PPCDAm e o PPCerrado, conduzidos pelo Ministério do Meio Ambiente em coordenação com o Itamaraty é fundamental para o equilíbrio climático no Brasil.'\n-> Missing comma after 'Itamaraty': '..., em coordenação com o Itamaraty, é fundamental...'\n\n'The current stage of institutional development of climate diplomacy, however, allows the Brazilian government to execute ambitious environmental conservation actions.'\n\nWait, I need to be strict about grammar points.\n\nLet's count:\n1. Punctuation: missing comma before 'é fundamental' in paragraph 2.\n2. Style/Grammar: 'cumprir com seu compromisso' vs 'cumprir seu compromisso'. In formal Portuguese, 'cumprir' is transitive direct. 'Com' is pleonasm or error depending on prescriptive norms. Often marked down in exams.\n3. Maybe others?\n\nI will stick with ~3 minor errors."
+    ],
+    "feedbacks": [
+      "1A",
+      "1B",
+      "1C",
+      "CGPL"
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'coordenação com o Itamaraty' deveria levar artigo definido ('com o Itamaraty') ou preposição adequada dependendo do sentido, mas o erro mais claro é a falta de vírgula antes de 'é fundamental'.",
+      "Pontuação/Frase longa: A frase 'É evidente... Itamaraty é fundamental...' carece de pausa após 'Itamaraty', gerando confusão sintática."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara, introdução, desenvolvimento e conclusão. Há coesão entre parágrafos.",
+      "Argumentos pertinentes, citando dados concretos (PPCDAm, NDC, fundos bilaterais)."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal/verbal: 'O atual estágio... permite' -> Sujeito singular ('estágio'), verbo no singular ('permite'). Correto.",
+      "Regência/Pontuação: 'coordenação com o Itamaraty é fundamental...' -> Falta vírgula antes de 'é'? Não obrigatório. Erro real: 'conduzidos pelo Ministério... em coordenação com o Itamaraty é fundamental'. Concordância: Programas (plural) ... é (singular). Deve ser 'são fundamentais'.",
+      "Ortografia/Acentuação: Nenhuma."
+    ],
+    "feedbacks": [
+      "1A: Texto coeso, paragrafação adequada, vocabulário preciso. Pequena falha de pontuação/concordância prejudica levemente a fluidez.",
+      "1B: Argumentação sólida, dados pertinentes (PPCDAm, fundos, COP30). Faltou maior profundidade na articulação entre a citação inicial e a conclusão, embora tenha sido feita.",
+      "1C: Boa análise causal (desmatamento -> chuva -> agricultura). Conecta passado/presente/futuro adequadamente. Perde pontos por ser descritiva demais em alguns trechos e menos reflexiva sobre dilemas políticos/diplomáticos reais.",
+      "CGPL: Erro grave de concordância ('programas... é') e possível erro de regência/vírgula."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 68.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Concordância nominal: 'As nações desenvolvidas devem ser instadas a cumprir com seu compromisso...' - Uso inadequado da preposição 'com' após 'cumprir'. O verbo 'cumprir', neste sentido, é transitivo direto.",
+      "Pontuação/Regência: '...Ministério do Meio Ambiente em coordenação com o Itamaraty é fundamental...' - Ausência de vírgula antes do predicativo 'é fundamental', separando sujeito ('conservação') de sua oração principal. Embora não seja erro grave, a falta de pausa pode gerar leve confusão sintática inicial.",
+      "Ortografia/Acentuação: Não houve erros graves de ortografia ou acentuação identificados.",
+      "Clareza/Sintaxe: 'Demonstrando possuir visão estratégica de longo prazo, o ex-chanceller José Bonifácio advertiu...' - Particípio passado usado incorretamente como adjetivo antes do substantivo. O correto seria 'demonstradora' ou reformular a frase."
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulário técnico e adequado ao contexto diplomático e ambiental.",
+      "Estrutura dissertativa-argumentativa muito bem construída, com introdução clara, desenvolvimento coeso e conclusão satisfatória.",
+      "Uso eficiente de dados concretos (PPCDAm, NDC, fundos bilaterais) para embasar a argumentação.",
+      "Atenção especial dada à conexão entre o texto histórico e a realidade contemporânea, atendendo plenamente ao enunciado."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 68.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Concordância nominal: 'As nações desenvolvidas devem ser instadas a cumprir com seu compromisso...' - Uso inadequado da preposição 'com' após 'cumprir'. O verbo 'cumprir', neste sentido, é transitivo direto.",
+      "Pontuação/Regência: '...conduzidos pelo Ministério do Meio Ambiente em coordenação com o Itamaraty é fundamental...' - Falta vírgula antes do verbo 'é' para isolar o sujeito oracional ou a expressão adjetiva, embora a estrutura esteja aceitável, a falta de pausa pode gerar leve confusão sintática inicial. Melhor seria: '..., conduzidas pelo Ministério...', já que 'conservação' é feminino."
+    ],
+    "feedbacks": [
+      "Excelente domínio do vocabulário técnico e adequado ao contexto diplomático e ambiental.",
+      "Estrutura dissertativo-argumentativa muito clara, com introdução, desenvolvimento e conclusão bem articulados.",
+      "Uso correto de conectivos e boa progressão temática.",
+      "Pequenos deslizes gramaticais menores não comprometem significativamente a compreensão ou a qualidade do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 68.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Concordância nominal: 'As nações desenvolvidas devem ser instadas a cumprir com seu compromisso...' - Uso inadequado da preposição 'com' após 'cumprir'. O verbo 'cumprir', neste sentido, é transitivo direto.",
+      "Pontuação/Regência: '...conduzidos pelo Ministério do Meio Ambiente em coordenação com o Itamaraty é fundamental...' - Falta vírgula antes do sujeito 'é fundamental' ou ajuste sintático. Melhor: '..., conduzidas pelo Ministério...', ou inserir vírgulas isolando a oração adjetiva/participial."
+    ],
+    "feedbacks": [
+      "Excelente estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento coeso e conclusão adequada.",
+      "Uso preciso de terminologia técnica e conceitual relacionada às mudanças climáticas e à política externa brasileira.",
+      "Argumentação sólida, conectando adequadamente o pensamento histórico de José Bonifácio com questões contemporâneas e o papel da diplomacia na COP30.",
+      "Pequenos deslizes gramaticais e de regência não comprometem significativamente a compreensão do texto, mas impedem a nota máxima."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma análise profunda e articulada, conectando eficazmente o pensamento histórico de José Bonifácio às questões contemporâneas de mudanças climáticas e desmatamento.",
+      "Há excelente domínio conceitual, citando mecanismos específicos como evapotranspiração, massas de ar, fundos internacionais (Fundo Amazônia) e instrumentos legais (PPCDAm, NDCs).",
+      "A estrutura é altamente organizada, passando logicamente da problemática histórica para a situação atual, o papel da diplomacia, os impactos regionais e as responsabilidades globais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma análise profunda e articulada, conectando eficazmente o pensamento histórico de José Bonifácio às questões contemporâneas de mudanças climáticas e desmatamento.",
+      "Há excelente domínio conceitual, citando mecanismos específicos como evapotranspiração, massas de ar, fundos internacionais (Fundo Amazônia) e instrumentos legais (PPCDAm, NDCs).",
+      "A estrutura é altamente organizada, passando logicamente da problemática histórica para a situação atual, papel da diplomacia, desafios regionais e soluções multilaterais."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta uma análise profunda e articulada, conectando eficazmente o pensamento histórico de José Bonifácio às questões contemporâneas de mudanças climáticas e desmatamento.",
+      "Há excelente domínio conceitual, citando mecanismos específicos como evapotranspiração, massas de ar, fundos internacionais (Fundo Amazônia) e instrumentos legais (PPCDAm, NDCs).",
+      "A estrutura é altamente organizada, passando logicamente da problemática histórica para a situação atual, o papel da diplomacia, os impactos regionais e finalmente o contexto específico da COP30."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  }
+]

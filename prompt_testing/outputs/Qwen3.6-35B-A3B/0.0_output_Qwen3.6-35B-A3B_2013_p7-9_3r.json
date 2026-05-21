@@ -2,16 +2,17 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'responsáveis para que' -> idealmente 'responsáveis por fazer com que'",
-      "Regência/preposição: 'previsão ... não se tornou' -> correto, mas 'explicar por que' poderia ser refinado para 'explicar o motivo pelo qual'. No entanto, o erro mais claro é a repetição excessiva."
+      "Concordância nominal/verbal: 'um dos principais responsáveis' deveria ser 'responsáveis'.",
+      "Regência verbal/preposicional: 'principalmente responsável para que' soa menos natural que 'para', embora 'por' seja aceitável.",
+      "Pontuação/Fraseologia: 'O resultado... é a promoção..., uma vez que...' - oração subordinada adverbial causal deslocada pode gerar ambiguidade leve, mas é aceitável."
     ],
     "feedbacks": [
-      "O texto apresenta boa fluidez e coesão, embora haja alguma repetição lexical ('comércio internacional', 'diplomacia brasileira').",
-      "A argumentação é pertinente, mas carece de profundidade teórica sobre os conceitos-chave dos textos-base.",
-      "Houve tentativa de dialogar com ambos os textos, mas a conexão direta com as citações específicas pode ser fortalecida."
+      "Organização e Estilo: Texto bem estruturado, com introdução clara, desenvolvimento histórico e conclusão coesa. Uso adequado de conectivos ('Porém', 'Assim', 'Portanto'). Legível e formal.",
+      "Argumentação: Boa articulação entre os textos base e o contexto brasileiro/histórico. Argumentos pertinentes, mas falta profundidade teórica específica sobre 'deterioração das relações de troca' (Termos de Troca) mencionada no Texto I.",
+      "Análise e Reflexão: Excelente contextualização histórica (Guerra Fria, ascensão BRICS, OMC). Reflete bem sobre multilateralismo vs. bilateralismo. Poderia ter explorado mais a tensão entre eficiência econômica e justiça distributiva citada no Texto II."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -23,16 +24,17 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "Concordância nominal/verbal: 'um dos principais responsáveis' deveria ser 'responsáveis'.",
-      "Regência verbal/preposicional: 'principalmente' usado como advérbio isolado pode soar ambíguo; ideal seria 'em grande parte'."
+      "Regência verbal/preposicional: 'principalmente responsável para que' soa menos natural que 'para', embora 'por' seja aceitável.",
+      "Pontuação/Fraseologia: 'O resultado... é a promoção..., uma vez que...' - oração subordinada adverbial causal deslocada pode gerar ambiguidade leve, mas é aceitável."
     ],
     "feedbacks": [
-      "O texto apresenta boa fluidez e coesão, embora algumas transições possam ser aprimoradas.",
-      "As ideias são bem organizadas, mas há repetição excessiva de conceitos-chave.",
-      "A análise é pertinente, mas carece de profundidade teórica e contextualização histórica mais rica."
+      "Organização e Estilo: Texto bem estruturado, com introdução clara, desenvolvimento histórico e conclusão coesa. Uso adequado de conectivos ('Porém', 'Assim', 'Portanto'). Legível e formal.",
+      "Argumentação: Boa articulação entre os textos base e o contexto brasileiro/histórico. Argumentos pertinentes, mas falta profundidade teórica específica sobre 'deterioração das relações de troca' (Termos de Troca) mencionada no Texto I.",
+      "Análise e Reflexão: Excelente contextualização histórica (Guerra Fria, ascensão BRICS, OMC). Reflete bem sobre multilateralismo vs. bilateralismo. Poderia explorar mais a tensão entre eficiência econômica e justiça distributiva."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -44,16 +46,19 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'responsáveis para que' -> idealmente 'responsáveis por fazer com que'",
-      "Regência/preposição: 'previsão ... não se tornou' -> correto, mas 'explicar por que' poderia ser refinado para 'explicar o motivo pelo qual'. No entanto, o erro mais claro é a repetição excessiva."
+      "Concordância nominal/verbal: 'um dos principais responsáveis' deveria ser 'responsáveis'.",
+      "Regência verbal/preposicional: 'principalmente responsável para que' soa menos natural que 'para'; embora aceito coloquialmente, em norma culta rigorosa prefere-se 'de que' ou reestruturação.",
+      "Pontuação/Frase longa: 'O resultado... são...' (sujeito singular 'resultado', verbo plural 'são') - erro de concordância verbal.",
+      "Uso de vírgula antes de 'porém': falta de conjunção adversativa adequada ou uso incorreto."
     ],
     "feedbacks": [
-      "O texto apresenta boa fluidez e coesão, embora haja alguma repetição lexical ('comércio internacional', 'diplomacia brasileira').",
-      "A argumentação é pertinente, mas carece de profundidade teórica sobre os conceitos-chave dos textos-base.",
-      "Houve tentativa de dialogar com ambos os textos, mas a conexão direta com as citações específicas pode ser fortalecida."
+      "Organização e Estilo: O texto apresenta boa fluidez e coesão sequencial, utilizando conectivos variados ('Porquanto', 'Embora', 'Com isso'). No entanto, há repetição excessiva de ideias e estruturas sintáticas similares, o que reduz ligeiramente a sofisticação estilística esperada para um nível máximo.",
+      "Argumentação: A dissertação aborda ambos os textos, contrastando a visão pessimista inicial com a esperança contemporânea. Contudo, a análise fica superficial em momentos-chave, focando muito na narrativa histórica brasileira em detrimento de uma discussão teórica mais densa sobre os mecanismos de deterioração dos termos de troca mencionados no Texto I.",
+      "Análise Crítica: Há tentativa de síntese crítica, ligando a eleição de Azevêdo à mudança estrutural. Porém, a conclusão peca por generalizar demais os resultados positivos, ignorando nuances críticas importantes sobre a eficácia real dessas políticas atuais.",
+      "Correção Gramatical: O texto contém poucos erros graves, mas falhas recorrentes de concordância e regência impedem a nota máxima nesta categoria."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -66,14 +71,14 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "preposição inadequada ('responsáveis para' -> 'responsáveis por')",
-      "uso indevido de vírgula antes de oração subordinada substantiva objetiva direta",
-      "concordância nominal/verbal ambígua ou erro leve"
+      "Concordância nominal incorreta: 'diferenças culturais existente' deveria ser 'existentes'.",
+      "Uso inadequado de pronome relativo/advérbio relativo: 'motivo que explica' deveria ser 'motivo pelo qual explica'."
     ],
     "feedbacks": [
-      "Excelente domínio da norma culta.",
-      "Boa coesão textual e articulação das ideias.",
-      "Argumentação sólida e bem fundamentada."
+      "A introdução apresenta uma tese clara e bem articulada.",
+      "Os argumentos são bem estruturados e sustentados por exemplos históricos concretos.",
+      "Há uma boa conexão entre os textos base e a análise proposta.",
+      "As conclusões reforçam adequadamente a posição adotada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -86,14 +91,14 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "preposição inadequada ('responsáveis para' -> 'responsáveis por')",
-      "uso indevido de vírgula antes de oração subordinada substantiva objetiva direta",
-      "concordância nominal/verbal ambígua ou erro leve ('possibilitem' vs 'permitem')"
+      "Concordância nominal incorreta: 'diferenças culturais existente' deveria ser 'existentes'.",
+      "Uso inadequado de pronome relativo/advérbio relativo: 'países cujos capacidades' deveria ser 'cujas capacidades', pois 'capacidade' é feminino.",
+      "Regência verbal/preposição: 'responsáveis para que' poderia ser ajustado para 'responsáveis por fazer com que' ou reestruturado, embora 'para que' seja aceito em contextos formais, pode indicar leve falta de precisão."
     ],
     "feedbacks": [
-      "Excelente domínio da norma culta.",
-      "Argumentação sólida e bem estruturada.",
-      "Boa articulação entre os textos base e conhecimento histórico."
+      "Excelente domínio da norma culta e vocabulário sofisticado.",
+      "Argumentação sólida e bem estruturada, conectando os textos propostos com exemplos históricos concretos.",
+      "Capacidade excepcional de síntese e conclusão impactante."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -106,14 +111,14 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "preposição inadequada: 'responsáveis para' -> deveria ser 'responsáveis por'",
-      "concordância nominal/verbal sutilmente questionável ou estilo: 'possibilitam mais que apenas' (aceitável, mas poderia ser refinado)",
-      "pontuação/concisão: frase longa e ligeiramente redundante no início ('...porquanto representa uma possibilidade real...' - aceitável)"
+      "Concordância nominal: 'diferenças cultural' deveria ser 'culturais'.",
+      "Regência verbal/preposicional: 'responsáveis para que' deveria ser 'responsáveis por fazer com que' ou 'responsáveis para que' (aceitável, mas menos formal) - ajustei mentalmente para considerar erro leve.",
+      "Uso inadequado de vírgula/estrutura: 'porquanto as trocas...' pode ser questionado estilisticamente, mas é aceitável."
     ],
     "feedbacks": [
-      "Excelente domínio da língua portuguesa.",
-      "Argumentação sólida e bem estruturada.",
-      "Boa articulação entre os textos base e o conhecimento histórico/diplomático."
+      "Excelente domínio da língua portuguesa e vocabulário sofisticado.",
+      "Argumentação sólida, conectando bem os textos base com exemplos históricos e contemporâneos.",
+      "Estrutura coesa e clara, atendendo aos requisitos do CACD."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -132,9 +137,9 @@
     "feedbacks": [
       "O texto apresenta uma estrutura clara e organizada, abordando tanto o Texto I quanto o Texto II de forma equilibrada.",
       "Há uma tentativa de contextualizar historicamente o papel do Brasil no comércio internacional, o que enriquece a análise.",
-      "A argumentação segue uma linha lógica, conectando passado e presente, e destacando a importância do multilateralismo.",
-      "No entanto, a análise permanece em um nível descritivo, faltando uma crítica mais profunda aos conceitos teóricos subjacentes aos textos.",
-      "Alguns trechos poderiam ser mais concisos, evitando repetições desnecessárias."
+      "A argumentação segue uma linha lógica, conectando passado e presente, desafios e conquistas.",
+      "No entanto, a análise permanece em um nível descritivo, faltando uma crítica mais profunda aos conceitos subjacentes aos textos, como 'deterioração das relações de troca' ou 'multilateralismo'.",
+      "Alguns trechos são redundantes, especialmente na conclusão, onde ideias já apresentadas são reiteradas sem acrescentar novos insights."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -172,11 +177,10 @@
       "A frase 'Os diferentes discursos brasileiros... mostram a evolução...' poderia ter sido articulada de forma mais fluida."
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura clara e organizada, abordando tanto o Texto I quanto o Texto II de forma equilibrada.",
-      "Há uma tentativa de contextualizar historicamente o papel do Brasil no comércio internacional, o que enriquece a análise.",
-      "A argumentação segue uma linha lógica, conectando passado e presente, e destacando a importância do multilateralismo.",
-      "No entanto, a análise permanece em um nível descritivo, faltando uma crítica mais profunda aos conceitos subjacentes aos textos, como 'deterioração das relações de troca' ou 'multilateralismo'.",
-      "Alguns trechos são redundantes, especialmente na conclusão, onde ideias já apresentadas são reiteradas sem acrescentar novas camadas de interpretação."
+      "O texto apresenta uma estrutura clara e organizada, abordando o tema proposto de forma pertinente.",
+      "Há uma tentativa de articular os dois textos fornecidos, estabelecendo comparações históricas e contemporâneas.",
+      "A argumentação segue uma linha lógica, conectando passado e presente, e destacando o papel do Brasil.",
+      "Apresenta algumas falhas menores de coesão e precisão terminológica, mas mantém-se dentro dos padrões esperados para uma redação de bom nível."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -188,18 +192,16 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'O crescimento... não são' deveria ser 'não é'.",
-      "Uso inadequado de hífen/regência: 'matizadas³ certas distorções' - uso incorreto do pronome oblíquo.",
-      "Erro de digitação/formatação: Uso indevido de notas de rodapé ('¹', '²') no corpo do texto.",
-      "Regência/concordância: 'tendência... que, ... , pode favorecer' - estrutura aceitável, mas a frase anterior contém erro."
+      "Concordância nominal/verbal: 'O crescimento econômico aliado à melhoria dos indicadores sociais **não são**...' -> deveria ser '**não é**' (sujeito composto por abstração ou núcleo único)."
     ],
     "feedbacks": [
-      "1A: Coerência e coesão estão presentes, embora haja algumas frases longas e complexas que poderiam ser simplificadas. Estilo formal adequado ao contexto.",
-      "1B: Argumentação sólida, com boa sistematização. No entanto, há repetição de ideias e alguns trechos podem parecer opinativos demais sem base factual suficiente.",
-      "1CGPL: Erros gramaticais leves, principalmente relacionados a concordância e uso de pronomes. Não comprometem gravemente a compreensão."
+      "1A - Coerência e Estilo",
+      "1B - Argumentação",
+      "1C - Análise",
+      "CGPL - Gramática"
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -211,19 +213,16 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'O crescimento... não são' deveria ser 'não é'.",
-      "Uso inadequado de hífen/regência: 'matizadas³ certas distorções' - uso incorreto do pronome oblíquo átono.",
-      "Erro de digitação/formatação: Uso indevido de notas de rodapé ('¹', '²') no corpo do texto.",
-      "Regência/concordância: 'tendência... que, ... , pode favorecer' - estrutura aceitável, mas a frase anterior contém erro."
+      "Concordância nominal/verbal: 'O crescimento econômico aliado à melhoria dos indicadores sociais **não são**...' -> deveria ser '**não é**' (sujeito composto por abstração ou núcleo único)."
     ],
     "feedbacks": [
-      "1A: Coerência e coesão estão presentes, embora haja algumas frases longas e complexas que poderiam ser simplificadas. Estilo formal adequado ao contexto.",
-      "1B: Argumentação sólida, com boa sistematização. No entanto, há repetição de ideias e alguns trechos podem parecer opinativos demais sem base factual suficiente.",
-      "1C: Análise reflexiva é pertinente, conectando bem os textos-base com questões históricas e atuais. Falta profundidade crítica em alguns momentos.",
-      "CGPL: Erros gramaticais leves, principalmente de concordância e formatação. Não comprometem gravemente a compreensão."
+      "1A - Coerência e Estilo",
+      "1B - Argumentação",
+      "1C - Análise",
+      "CGPL - Gramática"
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -235,18 +234,16 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'O crescimento... não são' deveria ser 'não é'.",
-      "Uso inadequado de hífen/regência: 'matizadas³ certas distorções' - uso incorreto do pronome oblíquo átono.",
-      "Erro de digitação/formatação: Uso indevido de notas de rodapé ('¹', '²') no corpo do texto.",
-      "Regência/concordância: 'tendência... que, ... , pode favorecer' - estrutura aceitável, mas a frase anterior contém erro."
+      "Concordância nominal/verbal: 'O crescimento econômico aliado à melhoria dos indicadores sociais **não são**...' -> deveria ser '**não é**' (sujeito composto por abstração ou núcleo único)."
     ],
     "feedbacks": [
-      "1A: Coerência e coesão estão presentes, embora haja algumas frases longas e complexas que poderiam ser simplificadas. Estilo formal adequado ao contexto.",
-      "1B: Argumentação sólida, com boa sistematização. No entanto, há repetição de ideias e alguns trechos podem parecer opinativos demais sem base factual suficiente.",
-      "1CGPL: Erros gramaticais leves, principalmente relacionados a concordância verbal e uso de pronomes. Não comprometem gravemente a compreensão."
+      "1A - Coerência e Estilo",
+      "1B - Argumentação",
+      "1C - Análise",
+      "CGPL - Gramática"
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -259,16 +256,14 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "matizadas³ certas distorções -> matizando certas distorções",
-      "não são obtidos -> não se obtém / não são alcançados",
-      "clivagem norte-sul deixou de ser característica predominantee da geografia mundial."
+      "clivagem norte-sul deveria ter hífen (norte-sul)",
+      "matizadas³ - uso inadequado de acento circunflexo/acentuação irregular ou erro de digitação",
+      "ex-Chanceler - hífene desnecessário após prefixo terminado em vogal"
     ],
     "feedbacks": [
-      "Uso inadequado de 'matizadas' (particípio) quando deveria ser gerúndio ('matizando') para expressar ação simultânea.",
-      "Concordância verbal incorreta: 'crescimento... aliados à melhoria...' deveria usar verbo no singular ('se obtém' ou 'são alcançadas').",
-      "Repetição desnecessária de 'da': 'característica predominantee da geografia'.",
-      "Falta de vírgula após 'Hodiernamente,'.",
-      "Erro de digitação/clique duplo em 'predominanttee'."
+      "Excelente domínio da estrutura dissertativa-argumentativa.",
+      "Uso sofisticado de vocabulário técnico e conceitual adequado ao nível CACD.",
+      "Argumentação bem articulada, conectando os dois textos de forma crítica e reflexiva."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -282,33 +277,33 @@
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "clivagem norte-sul deveria ter hífen (norte-sul)",
+      "matizadas³ - uso inadequado de acento circunflexo/combinação gráfica",
+      "ex-Chanceler - hífene desnecessário após prefixo terminado em vogal"
+    ],
+    "feedbacks": [
+      "Excelente domínio da estrutura dissertativa-argumentativa.",
+      "Uso sofisticado de vocabulário técnico e referências históricas precisas.",
+      "Argumentação coesa e bem articulada, demonstrando profundo conhecimento do tema."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 58.75,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "clivagem norte-sul deveria ter hífen (norte-sul)",
       "matizadas³ - uso inadequado de acento circunflexo/acentuação irregular ou erro de digitação",
-      "não são obtidos -> sujeito 'crescimento' exige singular ('não se obtém') ou reestruturação"
+      "ex-Chanceler - hífene desnecessário após prefixo terminado em vogal"
     ],
     "feedbacks": [
-      "Excelente domínio do vocabulário técnico e conceitual.",
-      "Argumentação sólida e bem estruturada.",
-      "Pequenos deslizes gramaticais e estilísticos."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2013"
-  },
-  {
-    "nota_final": 58.75,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "matizadas³ certas distorções -> matizando certas distorções",
-      "não são obtidos -> não se obtém / não são alcançados",
-      "clivagem norte-sul deixou de ser característica predominantee da geografia mundial."
-    ],
-    "feedbacks": [
-      "Uso inadequado de 'matizadas' (particípio) quando deveria ser gerúndio ('matizando') para expressar ação simultânea.",
-      "Concordância verbal incorreta: 'crescimento... aliados...' deveria ser 'aliado', pois o sujeito composto é singularizado pela preposição 'à revelia'. Alternativamente, reestruturar a frase.",
-      "Erro de digitação/repetição: 'predominanttee'."
+      "Excelente domínio da estrutura dissertativa-argumentativa.",
+      "Uso sofisticado de vocabulário técnico e conceitual adequado ao nível CACD.",
+      "Argumentação bem articulada, conectando os dois textos de forma crítica e reflexiva."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -324,9 +319,9 @@
       "não são obtidos"
     ],
     "feedbacks": [
-      "O texto demonstra excelente domínio do tema, articulando os dois textos de maneira profunda e crítica.",
-      "Apresenta estrutura clara, progressão temática lógica e uso sofisticado de vocabulário técnico e conceitual.",
-      "Há apenas dois pequenos deslizes gramaticais ('não são' deveria ser 'não é', e falta de crase antes de 'distribuição'), que não comprometem a excelência geral."
+      "O uso correto de conectivos e transições garante excelente progressividade temática.",
+      "Há apenas dois pequenos deslizes gramaticais ('não são' deveria ser 'é', pois o sujeito composto se refere a singularidade conceitual, e falta vírgula após 'matizadas').",
+      "A análise demonstra conhecimento técnico preciso sobre temas específicos da carreira."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -342,10 +337,8 @@
       "não são obtidos"
     ],
     "feedbacks": [
-      "O texto demonstra excelente domínio do tema, articulando os dois textos-base com precisão histórica e conceitual.",
-      "Apresenta estrutura dissertativo-argumentativa robusta, com introdução clara, desenvolvimento denso e conclusão sintética.",
-      "Há uso sofisticado de conectivos e repertório específico (UNCTAD, SGP, Rodada Doha, termos de troca) que enriquece a análise.",
-      "A referência ao embassador Roberto Azevêdo e ao Chanceler Patriota mostra atualização e contextualização política relevante."
+      "O uso correto de 'não são' seria preferível se o sujeito fosse plural ('crescimento... aliados'), mas aqui parece haver erro de concordância verbal.",
+      "Uso inadequado de vírgula antes de 'certas', gerando ambiguidade sintática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -362,8 +355,8 @@
     ],
     "feedbacks": [
       "O texto demonstra excelente domínio do tema, articulando os dois textos de maneira profunda e crítica.",
-      "Apresenta estrutura clara, progressão temática lógica e uso sofisticado de vocabulário técnico e conceitual.",
-      "Há apenas dois pequenos deslizes gramaticais ('não são' deveria ser 'não é', e falta de crase antes de 'distribuição'), que não comprometem a excelência geral."
+      "Há uso sofisticado de vocabulário técnico e conceitual próprio da área de Relações Internacionais e Economia Internacional.",
+      "A estrutura é clara, progressiva e bem fundamentada historicamente."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -375,11 +368,11 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "contribuíu",
-      "sub- desenvolvidos",
+      "sub-desenvolvidos",
       "tem"
     ],
     "feedbacks": [
@@ -397,11 +390,11 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "contribuíu",
-      "sub- desenvolvidos",
+      "sub-desenvolvidos",
       "tem"
     ],
     "feedbacks": [
@@ -419,11 +412,11 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 13.0,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "contribuíu",
-      "sub- desenvolvidos",
+      "sub-desenvolvidos",
       "tem"
     ],
     "feedbacks": [
@@ -444,12 +437,12 @@
     "erros_gramaticais": [
       "contribuíu -> contribuiu",
       "tem recebido -> têm recebido",
-      "sub- desenvolvidos -> subdesenvolvidos"
+      "sub- desenvolvido -> subdesenvolvido"
     ],
     "feedbacks": [
-      "Erro de digitação/acentuação ('contribuíu').",
-      "Concordância verbal incorreta ('críticas... tem' deveria ser 'têm').",
-      "Uso indevido de hífen/espaço em 'sub- desenvolvidos'."
+      "Erro de grafia/acentuação: 'contribuíu' deveria ser 'contribuiu'.",
+      "Concordância verbal: 'críticas que tem recebido' deveria ser 'que têm recebido', pois o sujeito ('críticas') está no plural.",
+      "Hífen incorreto: 'sub- desenvolvido' deveria ser 'subdesenvolvido'."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -464,12 +457,12 @@
     "erros_gramaticais": [
       "contribuíu -> contribuiu",
       "tem recebido -> têm recebido",
-      "sub- desenvolvidos -> subdesenvolvidos"
+      "sub- desenvolvido -> subdesenvolvido"
     ],
     "feedbacks": [
-      "Erro de digitação/acentuação ('contribuíu').",
-      "Concordância verbal incorreta ('críticas... tem' deveria ser 'têm').",
-      "Uso indevido de hífen/espaço em 'sub- desenvolvidos'."
+      "Erro de grafia/acentuação: 'contribuíu' deveria ser 'contribuiu'.",
+      "Concordância verbal: 'críticas que tem recebido' deveria ser 'que têm recebido', pois o sujeito ('críticas') está no plural.",
+      "Hífen incorreto: 'sub- desenvolvido' não possui hífen neste caso."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -484,11 +477,12 @@
     "erros_gramaticais": [
       "contribuíu -> contribuiu",
       "tem recebido -> têm recebido",
-      "sub- desenvolvidos -> subdesenvolvidos"
+      "sub- desenvolvido -> subdesenvolvido"
     ],
     "feedbacks": [
-      "O uso correto de conectivos e a estruturação clara dos argumentos demonstram domínio da língua.",
-      "A aplicação correta da teoria de Prebisch enriquece a análise temática."
+      "Erro de grafia/acentuação: 'contribuíu' deveria ser 'contribuiu'.",
+      "Concordância verbal: 'críticas que tem recebido' deveria ser 'que têm recebido', pois o sujeito ('críticas') está no plural.",
+      "Hífen incorreto: 'sub- desenvolvido' não possui hífen."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -526,7 +520,7 @@
     "feedbacks": [
       "O texto apresenta uma análise clara e organizada, identificando corretamente as posições contrastantes dos textos propostos.",
       "Há uso pertinente de conceitos teóricos (Teoria Centro-Periferia) para embasar a argumentação.",
-      "Apresentam-se pequenos deslizes gramaticais (concordância verbal e acentuação), mas não comprometem significativamente a leitura."
+      "Apresentam-se pequenos deslizes gramaticais (acento diferencial, crase implícita), mas não comprometem a leitura."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -557,16 +551,16 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "concordância nominal",
       "ortografia"
     ],
     "feedbacks": [
-      "O texto apresenta boa fluidez e coesão sequencial, embora haja pequenas falhas de pontuação.",
-      "As ideias são bem organizadas e pertinentes ao tema, demonstrando domínio conceitual sólido.",
-      "Há capacidade analítica relevante, conectando textos históricos e atuais, mas falta profundidade crítica."
+      "O texto apresenta boa fluidez e clareza expositiva.",
+      "Há domínio conceitual relevante sobre economia política internacional.",
+      "Faltou articular explicitamente os dois textos propostos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -578,16 +572,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "concordância nominal",
-      "ortografia"
+      "ponto e vírgula após 'intercâmbio mundial' desnecessário",
+      "concordância nominal incorreta ('importantes conquista')",
+      "uso indevido de numeral ordinal ('diretoria geral¹', deveria ser 'geral' ou 'primeira'",
+      "regência/ortografia ('nacional' -> 'nascido' ou 'originário'; 'influenciará no modo' -> 'no modo' é aceitável, mas 'na maneira' soaria melhor; contudo, o erro grave é 'nacional' usado como substantivo para pessoa nascida em local"
     ],
     "feedbacks": [
-      "O texto apresenta boa fluidez e clareza, embora haja alguns pequenos deslizes de pontuação.",
-      "As ideias são bem organizadas e pertinentes ao tema, demonstrando domínio conceitual sólido.",
-      "Há capacidade analítica relevante, especialmente na comparação histórica entre clássicos e estruturalistas."
+      "O texto apresenta boa fluidez e coesão, embora haja alguns problemas de pontuação.",
+      "Argumentação sólida e pertinente, abordando tanto a perspectiva clássica/liberal quanto a estruturalista/desenvolvimentista.",
+      "Análise reflexiva bem construída, conectando passado e presente."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -598,8 +594,8 @@
   },
   {
     "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1B": 8.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "concordância nominal",
@@ -607,8 +603,8 @@
     ],
     "feedbacks": [
       "O texto apresenta boa fluidez e clareza, embora haja alguns pequenos deslizes de pontuação.",
-      "As ideias são bem organizadas e pertinentes ao tema, demonstrando domínio conceitual sólido.",
-      "Há capacidade analítica relevante, especialmente na comparação histórica entre clássicos e estruturalistas."
+      "As ideias são bem organizadas e pertinentes ao tema, demonstrando conhecimento histórico relevante.",
+      "Há capacidade analítica satisfatória, conectando passado e presente, mas poderia haver maior profundidade crítica."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -626,8 +622,8 @@
     ],
     "feedbacks": [
       "Excelente domínio histórico e teórico.",
-      "Argumentação sólida e bem estruturada.",
-      "Linguagem formal adequada."
+      "Boa articulação entre os textos propostos.",
+      "Pequenos lapsos gramaticais."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -645,8 +641,8 @@
     ],
     "feedbacks": [
       "Excelente domínio histórico e teórico.",
-      "Argumentação sólida e bem estruturada.",
-      "Linguagem formal adequada."
+      "Boa articulação entre os textos propostos.",
+      "Pequenos lapsos gramaticis."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -664,8 +660,8 @@
     ],
     "feedbacks": [
       "Excelente domínio histórico e teórico.",
-      "Boa articulação entre os textos propostos.",
-      "Pequenos lapsos gramaticais."
+      "Argumentação sólida e bem estruturada.",
+      "Linguagem formal adequada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
