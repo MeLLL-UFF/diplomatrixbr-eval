@@ -27,8 +27,8 @@ def quadratic_weighted_kappa(df):
         cohen_ano = []
         for prompt in prompts:
             df_format = df[(df["ano"] == year) & (df["prompt"] == prompt)]
-            notas_modelos = df_format["nota_final_model"].to_list()
-            notas_humanos = df_format["nota_final_human"].to_list()
+            notas_modelos = df_format["nota_final_model"].astype(int).to_list()
+            notas_humanos = df_format["nota_final_human"].astype(int).to_list()
             
             notas_modelos = list(map(round, notas_modelos))
             notas_humanos = list(map(round, notas_humanos))
@@ -49,7 +49,7 @@ def plot_qwk(df, model, path):
     plt.savefig(f"{path}/QWK.png")
 
 def plot_RMSE(df, model, path):
-    fig, axes = plt.subplots(1, figsize=(12,8))
+    fig, axes = plt.subplots(1, figsize=(12,6))
 
     df = df[["prompt", "ano", "val_squared_error"]]
 
@@ -163,8 +163,8 @@ def full_report(num_runs, model_name):
     cohen_kappa_df = quadratic_weighted_kappa(df)
 
     output_path = os.path.join(os.getcwd(), "prompt_testing", "reports", model_name)
-    #plot_RMSE(df, model_name, output_path)
-    #plot_qwk(cohen_kappa_df, model_name, output_path)
+    plot_RMSE(df, model_name, output_path)
+    plot_qwk(cohen_kappa_df, model_name, output_path)
     plot_corr(df, model_name, output_path)
 
 if __name__ == "__main__":
