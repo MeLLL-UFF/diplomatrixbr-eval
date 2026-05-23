@@ -2,18 +2,19 @@
   {
     "nota_1A": 9.5,
     "nota_1B": 9.8,
-    "nota_1C": 19.5,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 9.7,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "Concordância nominal/verbal: 'Erving Goffman demonstra de que maneira...' -> O uso de 'de' após 'demonstra' é redundante quando seguido de oração subordinada substantiva objetiva direta iniciada por 'que'. O correto seria 'demonstra que maneira...'",
-      "Regência verbal/preposição: 'conforme o preceituado por Marcel Mauss em A nação.' -> Embora aceitável, soa ligeiramente deslocado sem vírgula antes de 'conforme', mas pode ser considerado erro leve de pontuação/sintaxe.",
-      "Ortografia/Acentuação: Nenhuma evidência clara de erro ortográfico grave."
+      "Regência verbal/preposição: 'conforme o preceituado por Marcel Mauss em A nação.' -> Embora comum, a construção 'preceituado por' soa artificial; o verbo 'prescreve' ou 'defende' seria mais natural, mas isso é questão estilística, não erro grave.",
+      "Ortografia/Acentuação: 'sincretismo' está correto, mas verifiquei 'secuturização' vs 'securitização'. O termo correto é 'securitização', presente no texto corretamente.",
+      "Pontuação/Uso de vírgulas: Há excesso de vírgulas em algumas frases longas, mas nada que comprometa a clareza."
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clássica de tese-direitos-argumentos-conclusão, com introdução bem articulada e conclusão sintética. A progressão temática segue ordem lógica, abordando primeiro relações interpessoais, depois religiosas e finalmente internacionais/diplomáticas, atendendo plenamente aos três âmbitos solicitados no enunciado.",
-      "Os argumentos são consistentes e pertinentes, utilizando referências teóricas relevantes (Clarice Lispector, Erving Goffman, Hobbes, Mauss, Saramago) de forma contextualizada. Há articulação sólida entre teoria e prática, especialmente nos exemplos brasileiros e na aplicação ao direito internacional.",
-      "Há capacidade analítica avançada, demonstrada pela distinção entre 'tolerar' e 'promover', pela crítica à assimetria inerente à tolerância e pela proposição de alternativas construtivas. A reflexão transcende o óbvio, propondo uma redefinição positiva da convivência baseada em igualdade e solidariedade ativa.",
-      "Apesar da alta qualidade geral, há pequenos deslizes gramaticais que afetam levemente a fluidez. Destaca-se o uso inadequado de preposição ('demonstra de que maneira') e possíveis ajustes de pontuação/regência que poderiam melhorar a precisão estilística."
+      "O texto apresenta excelente domínio estrutural, coesão progressiva bem planejada e vocabulário rico e preciso. A introdução contextualiza a citação e posiciona claramente a tese. Os parágrafos desenvolvem ideias complexas com fluidez e elegância estilística.",
+      "Os argumentos são robustos, articulando filosofia, literatura, sociologia e direito internacional. As referências teóricas (Clarice Lispector, Erving Goffman, Marcel Mauss, Hobbes) são pertinentes e bem aplicadas. A defesa da passagem da 'tolerância' (passiva/asimétrica) para a 'promoção' (ativa/solidária) é consistente e original.",
+      "Há profunda capacidade analítica ao desconstruir o conceito de tolerância como hierárquico e propor alternativas éticas e políticas concretas. A articulação entre planos micro (interpessoal), meso (religioso) e macro (estatal/diplomático) demonstra maturidade intelectual e visão sistêmica.",
+      "Apesar da alta qualidade, há pequenos deslizes gramaticais pontuais (ex.: 'demonstra de que maneira') e alguns trechos excessivamente densos que poderiam beneficiar de maior clareza sintática. Ainda assim, o nível linguístico é excepcionalmente elevado para um concurso dessa natureza."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -25,17 +26,19 @@
   {
     "nota_1A": 9.5,
     "nota_1B": 9.8,
-    "nota_1C": 19.5,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 9.7,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "Concordância nominal/verbal: 'Erving Goffman demonstra de que maneira...' -> O uso de 'de' após 'demonstra' é redundante quando seguido de oração subordinada substantiva objetiva direta iniciada por 'que'. O correto seria 'demonstra que maneira...'",
-      "Regência verbal/preposição: 'conforme o preceituado por Marcel Mauss em A nação.' -> Embora comum, a construção 'preceituado por' soa artificial; o verbo 'prescreve', 'defende' ou 'argumenta' seria mais natural. Contudo, isso pode ser considerado erro leve.",
-      "Pontuação/Frase fragmentada: 'Em oposição a \"evitar\", \"promover\" constitui uma ideia-força capaz de integrar cultos e consagrar a paz, que é mais que o antônimo de guerra.' -> A frase anterior termina abruptamente sem conexão clara com a última sentença, criando uma sensação de conclusão apressada."
+      "Regência verbal/preposição: 'conforme o preceituado por Marcel Mauss em A nação.' -> Embora comum, a construção 'preceituado por' soa artificial; o verbo 'prescreve' ou 'defende' seria mais natural, mas isso é questão estilística, não erro grave.",
+      "Ortografia/Acentuação: 'sincretismo' está correto, mas verifiquei 'secuturização'? Não, está escrito corretamente 'securitização'.",
+      "Pontuação/Uso de vírgulas: Há excesso de vírgulas em algumas frases longas, mas nada que comprometa a clareza."
     ],
     "feedbacks": [
-      "O texto apresenta excelente domínio estrutural, coesão lexical avançada e vocabulário preciso. A progressão temática é fluida e bem articulada.",
-      "Argumentação robusta, com referências teóricas pertinentes (Clarice Lispector, Erving Goffman, Marcel Mauss) aplicadas corretamente aos três níveis solicitados (interpessoal, religioso e interestatal).",
-      "Reflexão profunda sobre a distinção entre tolerância passiva e promoção ativa da alteridade, alinhando-se criticamente ao pensamento de Saramago com originalidade intelectual."
+      "O texto apresenta estrutura clara, introdução bem definida, desenvolvimento organizado por tópicos (relações interpessoais, religião, Estado/diplomacia) e conclusão sintética. O estilo é formal, acadêmico e adequado ao nível exigido pela CACD.",
+      "Os argumentos são pertinentes, sistemáticos e fundamentados em autores relevantes (Clarice Lispector, Erving Goffman, Marcel Mauss, Hobbes). A articulação teórica é sólida e mostra domínio conceitual.",
+      "Há capacidade analítica avançada, especialmente na distinção entre 'tolerar' e 'promover', e na aplicação crítica desses conceitos às diferentes esferas mencionadas no enunciado.",
+      "Apesar da alta qualidade, há pequenos deslizes gramaticais e estilísticos que impedem a perfeição absoluta."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -47,18 +50,19 @@
   {
     "nota_1A": 9.5,
     "nota_1B": 9.8,
-    "nota_1C": 19.5,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 9.7,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "Concordância nominal/verbal: 'Erving Goffman demonstra de que maneira...' -> O uso de 'de' após 'demonstra' é redundante quando seguido de oração subordinada substantiva objetiva direta iniciada por 'que'. O correto seria 'demonstra que maneira...'",
-      "Regência verbal/preposição: 'conforme o preceituado por Marcel Mauss em A nação.' -> Embora aceitável, soa ligeiramente deslocado sem vírgula antes de 'conforme', mas pode ser considerado erro leve de pontuação/sintaxe.",
-      "Ortografia/Acentuação: Nenhuma evidência clara de erro ortográfico grave."
+      "Regência verbal/preposição: 'conforme o preceituado por Marcel Mauss em A nação.' -> Embora comum, a construção 'preceituado por' soa artificial; o verbo 'prescreve' ou 'defende' seria mais natural, mas isso é questão estilística, não erro grave.",
+      "Ortografia/Acentuação: 'sincretismo' está correto, mas verifiquei 'secuturização'? Não, está escrito corretamente 'securitização'.",
+      "Pontuação/Uso de vírgulas: Há excesso de vírgulas em algumas frases longas, mas nada que comprometa a clareza."
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clássica de tese-direitos-argumentos-conclusão, com introdução bem articulada e conclusão sintética. A progressão temática segue ordem lógica, abordando primeiro relações interpessoais, depois religiosas e finalmente internacionais/diplomáticas, atendendo plenamente aos três âmbitos solicitados no enunciado.",
-      "Os argumentos são consistentes e pertinentes, utilizando referências teóricas relevantes (Clarice Lispector, Erving Goffman, Hobbes, Mauss, Saramago) de forma contextualizada. Há articulação sólida entre teoria e prática, especialmente nos exemplos brasileiros e na aplicação ao direito internacional.",
-      "Há capacidade analítica avançada, demonstrada pela distinção entre 'tolerar' e 'promover', pela crítica à assimetria inerente à tolerância e pela proposição de alternativas construtivas. A reflexão transcende o óbvio, propondo uma redefinição positiva da convivência baseada em igualdade e solidariedade ativa.",
-      "Apesar da sofisticação lexical e conceitual, há pequenos deslizes gramaticais que comprometem levemente a fluidez. Destaca-se o erro de regência ('demonstra de que maneira') e possíveis ajustes de pontuação/concordância menores."
+      "Texto extremamente bem estruturado, com introdução clara, desenvolvimento organizado por esferas (interpessoal, religiosa, estatal/diplomática) e conclusão sintética. Estilo acadêmico adequado ao nível CACD.",
+      "Argumentação robusta, com citações pertinentes (Clarice Lispector, Erving Goffman, Marcel Mauss, Embaixador Araújo Castro) e conceitos teóricos aplicados corretamente. Demonstrou domínio do vocabulário técnico e capacidade de articular teoria e prática.",
+      "Reflexão profunda sobre a distinção entre tolerância passiva ('aceitar') e ação afirmativa ('promover'). Conseguiu transcender o óbvio e oferecer uma leitura crítica original alinhada às diretrizes da carreira diplomática brasileira.",
+      "O texto apresenta quatro deslizes menores de natureza gramatical/regencial, sem prejuízo significativo à compreensão global. Recomenda-se revisão fina de construções verbais complexas."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -71,13 +75,13 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Erving Goffman demonstra de que maneira..."
+      "Em 'Erving Goffman demonstra de que maneira...', a construção 'demonstra de que maneira' soa redundante/coloquial; o adequado seria 'demonstra como...' ou 'explica de que forma...'.",
+      "Na frase 'Como afirmou o Embaixador Araújo Castro', a vírgula após 'Castro' pode ser considerada opcional dependendo da ênfase, mas aqui foi usada corretamente."
     ],
     "feedbacks": [
-      "Texto extremamente bem estruturado, com introdução clara, desenvolvimento rico em referências teóricas e conclusão coesa.",
-      "Uso adequado de vocabulário acadêmico e conceitual próprio da área de Relações Internacionais e Filosofia Política.",
-      "Argumentação sólida, alinhada ao enunciado e demonstrando domínio do tema 'tolerância' sob múltiplas perspectivas (interpessoal, religiosa e estatal/diplomática).",
-      "Pequeno erro de regência ('demonstra de que maneira') foi identificado, mas não comprometeu significativamente a fluidez ou a compreensão geral."
+      "Excelente domínio da estrutura dissertativo-argumentativa.",
+      "Uso sofisticado de repertório sociocultural (Clarice Lispector, Hobbes, Goffman, Mauss) bem articulado aos temas solicitados.",
+      "Argumentação coesa e progressiva, abordando claramente as três esferas mencionadas no enunciado (pessoal, religiosa e interestatal)."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -90,13 +94,14 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Erving Goffman demonstra de que maneira..."
+      "Em 'Erving Goffman demonstra de que maneira...', a construção 'demonstra de que maneira' soa redundante; o correto seria 'demonstra como' ou 'explica de que maneira'.",
+      "Na frase 'Como afirmou o Embaixador Araújo Castro... Consoante o preceituado por Marcel Mauss...', há uma leve desconexão sintática implícita na passagem direta/indireta, mas o erro principal é estilístico/referencial."
     ],
     "feedbacks": [
-      "Texto extremamente bem estruturado, com introdução clara, desenvolvimento rico em referências teóricas e conclusão coesa.",
-      "Uso adequado de vocabulário acadêmico e conceitual próprio da área de Relações Internacionais e Filosofia Política.",
-      "Argumentação sólida, alinhada ao enunciado e demonstrando domínio do tema 'tolerância' sob múltiplas perspectivas (interpessoal, religiosa e estatal/diplomática).",
-      "Pequeno deslize gramatical na frase \"demonstra de que maneira\", onde o uso de \"de\" após \"demonstrar\" pode ser considerado redundante ou inadequado dependendo da norma prescritiva adotada, mas não compromete a compreensão."
+      "Excelente domínio da norma culta.",
+      "Argumentação sólida e bem estruturada.",
+      "Uso adequado de referências teóricas e literárias.",
+      "Atenção aos detalhes gramaticais pode melhorar ainda mais a qualidade."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -109,13 +114,14 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Erving Goffman demonstra de que maneira..."
+      "Em 'Erving Goffman demonstra de que maneira...', a construção 'demonstra de que maneira' soa redundante/coloquial; o correto seria 'demonstra como...' ou 'explica de que forma...'.",
+      "Na frase 'Como afirmou o Embaixador Araújo Castro', a vírgula após 'Castro' pode ser considerada opcional, mas a estrutura geral está correta."
     ],
     "feedbacks": [
-      "Texto extremamente bem estruturado, com introdução clara, desenvolvimento rico em referências teóricas e conclusão coesa.",
-      "Uso adequado de vocabulário acadêmico e conceitual próprio da área de Relações Internacionais e Filosofia Política.",
-      "Argumentação sólida, alinhada ao enunciado e demonstrando domínio do tema 'tolerância' sob múltiplas perspectivas (interpessoal, religiosa e estatal/diplomática).",
-      "Pequeno erro de regência ('demonstra de que maneira') foi identificado, mas não comprometeu significativamente a fluidez ou a compreensão geral."
+      "Excelente domínio da norma culta.",
+      "Argumentação sólida e bem estruturada.",
+      "Uso adequado de referências teóricas e literárias.",
+      "Pequenos deslizes estilísticos não comprometem significativamente a qualidade do texto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -145,8 +151,7 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta uma análise profunda e articulada do tema proposto, demonstrando domínio conceitual avançado.",
-      "Há excelente uso de referências teóricas e literárias (Clarice Lispector, Hobbes, Goffman, Mauss) integradas organicamente aos argumentos.",
-      "A progressão temática é clara, passando da relação interpessoal para a religião e finalmente às relações internacionais/diplomáticas, atendendo plenamente ao enunciado."
+      "Há excelente uso de referências teóricas e literárias (Clarice Lispector, Hobbes, Goffman, Mauss) integradas organicamente aos argumentos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -161,8 +166,7 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta uma análise profunda e articulada do tema proposto, demonstrando domínio conceitual avançado.",
-      "Há excelente uso de referências teóricas e literárias (Clarice Lispector, Hobbes, Goffman, Mauss) integradas organicamente aos argumentos.",
-      "A progressão temática é clara, passando da relação interpessoal para a religião e finalmente às relações internacionais/diplomáticas, atendendo plenamente ao enunciado."
+      "Há excelente uso de referências teóricas e literárias (Clarice Lispector, Hobbes, Goffman, Mauss) integradas organicamente aos argumentos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -173,18 +177,19 @@
   },
   {
     "nota_1A": 7.5,
-    "nota_1B": 6.0,
-    "nota_1C": 13.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1B": 6.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "Concordância nominal/verbal: 'extremamente detrimental' deveria ser 'detrimental' ou 'detrimental'.",
-      "Erro de digitação/factual: 'formação da não brasileira' deveria ser 'formação da nação brasileira'."
+      "Ortografia/Tipo grafia: 'não brasileira' deveria ser 'nação brasileira'.",
+      "Pontuação/Vírgula desnecessária: 'até mesmo a violência' deveria ter vírgula antes ('até mesmo, a violência') ou reestruturação.",
+      "Regência/Crase: 'por parte das elites' poderia ser melhor estruturado, embora aceitável; contudo, há erro claro de crase/regência em 'para a formação da não brasileira'."
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e progressão temática adequada.",
-      "Houve uso adequado de referências teóricas (Rawls, Barroso, Saramago).",
-      "Faltou maior profundidade na crítica direta às ideias de Saramago.",
-      "Erros gramaticais foram mínimos e pontuais."
+      "O texto apresenta estrutura clara e progressão lógica, mas perde pontos por repetições excessivas e algumas imprecisões conceituais.",
+      "A argumentação é pertinente, porém carece de profundidade analítica em momentos-chave, especialmente na articulação entre tolerância e reconhecimento.",
+      "Houve falhas graves de digitação/orfografia que comprometem a correção gramatical."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -195,18 +200,18 @@
   },
   {
     "nota_1A": 7.5,
-    "nota_1B": 6.0,
-    "nota_1C": 13.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1B": 6.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "Concordância nominal/verbal: 'extremamente detrimental' deveria ser 'detrimental' ou 'detrimental'.",
-      "Erro conceitual/factual grave: 'formação da não brasileira'."
+      "Ortografia/Tipo grafia: 'não brasileira' deveria ser 'nação brasileira'.",
+      "Pontuação/Vírgula desnecessária: 'até mesmo a violência' deveria ter vírgula antes ('até mesmo, a violência') ou reestruturação.",
+      "Regência/Crase: 'por parte das elites' poderia ser melhor estruturado, embora aceitável; contudo, há erro claro em 'conformação das dinâmicas sociais contemporâneas' -> falta artigo? Não, está ok. Erro mais grave: 'igualdade como reconhecimento' repetitivo? Não. Vamos focar nos claros."
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e progressão temática lógica.",
-      "Há uso adequado de referências teóricas (Rawls, Barroso) e históricas (Nazismo).",
-      "A análise crítica é consistente, embora haja um erro factual significativo.",
-      "A correção gramatical foi comprometida pelo erro conceitual grave."
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada. Argumentos pertinentes e bem fundamentados.",
+      "Uso adequado de referências teóricas (Rawls, Barroso) e exemplos históricos (nazismo)."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -217,21 +222,60 @@
   },
   {
     "nota_1A": 7.5,
-    "nota_1B": 6.0,
-    "nota_1C": 13.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1B": 6.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "Concordância nominal/verbal: 'extremamente detrimental' deveria ser 'detrimental' ou 'detrimental'.",
-      "Erro de digitação/factual: 'formação da não brasileira' deveria ser 'formação da nação brasileira'."
+      "Ortografia/Tipo grafia: 'não brasileira' deveria ser 'nação brasileira'.",
+      "Pontuação/Vírgula desnecessária: 'até mesmo a violência' deveria ter vírgula antes ('até mesmo, a violência') ou reestruturação.",
+      "Regência/Crase: 'por parte das elites' poderia ser melhor estruturado, embora aceitável; contudo, há erro claro em 'conformação das dinâmicas sociais contemporâneas' -> falta artigo? Não, está ok. Erro mais grave: 'igualdade como reconhecimento' repetitivo? Não. Vamos focar nos claros."
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e progressão temática adequada.",
-      "Houve uso adequado de referências teóricas (Rawls, Barroso, Saramago)."
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão adequada. Argumentação sólida com referências teóricas relevantes (Rawls, Barroso)."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal: 'extremamente detrimental' deveria ser 'detrimental' ou 'prejudicial'.",
+      "Erro de digitação/ortográfico: 'formação da não brasileira' deveria ser 'formação nacional brasileira'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e teóricos (Rawls, Barroso), e conclusão adequada.",
+      "Argumentação sólida, alinhada ao enunciado, abordando tanto a crítica à tolerância quanto a necessidade de igualdade e reconhecimento.",
+      "Pequenos deslizes gramaticais presentes, mas sem comprometer significativamente a compreensão ou a qualidade geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Concordância nominal: 'extremamente detrimental' deveria ser 'detrimental' ou 'prejudicial'.",
+      "Erro de digitação/ortográfico: 'formação da não brasileira' deveria ser 'formação nacional brasileira'."
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e teóricos (Rawls, Barroso), e conclusão adequada.",
+      "Argumentação sólida, alinhada ao enunciado, abordando tanto a crítica à tolerância quanto a necessidade de igualdade e reconhecimento.",
+      "Pequenos deslizes gramaticais presentes, mas sem comprometer significativamente a compreensão ou a qualidade geral do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
     "essay": 2,
     "ano": "2017"
   },
@@ -243,47 +287,9 @@
       "Erro de digitação/ortográfico: 'formação da não brasileira' deveria ser 'formação nacional brasileira'"
     ],
     "feedbacks": [
-      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e teóricos (Rawls, Barroso), e conclusão sólida.",
-      "Argumentação forte e alinhada ao enunciado, mostrando domínio conceitual e capacidade crítica."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 57.5,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Concordância nominal: 'extremamente detrimental' deveria ser 'detrimentais', pois concorda com 'relações'.",
-      "Erro de digitação/ortográfico: 'formação da não brasileira' deveria ser 'formação nacional brasileira'."
-    ],
-    "feedbacks": [
-      "Excelente domínio do vocabulário técnico e conceitual.",
-      "Argumentação sólida e bem estruturada.",
-      "Uso adequado de referências teóricas e jurídicas.",
-      "Pequenos lapsos gramaticais não comprometem significativamente a qualidade geral."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 57.5,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Concordância nominal: 'extremamente detrimental' deveria ser 'detrimentais', pois concorda com 'relações'.",
-      "Erro de digitação/ortográfico: 'formação da não brasileira' deveria ser 'formação nacional brasileira'."
-    ],
-    "feedbacks": [
-      "Excelente domínio do vocabulário acadêmico e conceitual.",
-      "Argumentação sólida e bem estruturada, com uso pertinente de autores e conceitos filosóficos/jurídicos.",
-      "Atenção às regras básicas de concordância verbal/nominal."
+      "Texto bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e teóricos (Rawls, Barroso), e conclusão adequada.",
+      "Argumentação sólida, alinhada ao enunciado, explorando tanto a dimensão individual quanto estatal da tolerância.",
+      "Linguagem culta e apropriada, embora apresente dois pequenos deslizes gramaticais."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -298,8 +304,7 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta uma análise profunda e multifacetada do tema, articulando conceitos filosóficos (Rawls), jurídicos (Barroso) e históricos (nazismo) de maneira coerente.",
-      "Há excelente domínio da norma culta, com vocabulário preciso e sintaxe complexa construída corretamente.",
-      "A argumentação segue uma linha lógica clara: reconhece a importância histórica da tolerância, aponta suas limitações diante da desigualdade material e propõe o 'direito ao reconhecimento' como complemento necessário."
+      "Há excelente domínio da norma culta, com uso preciso de conectivos ('Conquanto', 'porquanto') e vocabulário técnico adequado."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -313,8 +318,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma análise profunda e multifacetada do tema, articulando conceitos filosóficos (Rawls), jurídicos (Barroso, Constituição de 1988) e históricos (Nazismo) de maneira coerente.",
-      "Há excelente domínio da norma culta, com uso preciso de conectivos ('Conquanto', 'porquanto') e vocabulário técnico adequado ao contexto acadêmico-diplomático."
+      "O texto apresenta uma análise profunda e multifacetada do tema, articulando conceitos filosóficos (Rawls), jurídicos (Barroso, Constituição de 1988) e históricos (Nazismo) de maneira coesa.",
+      "Há excelente domínio da terminologia acadêmica e jurídica ('igualdade formal/material/reconhecimento', 'princípio da diferença'), evidenciando maturidade intelectual adequada ao Nível Superior.",
+      "A estrutura segue rigorosamente a proposta do enunciado: introduz a tese, desenvolve-a com múltiplos recortes (religião, Estado, relações internacionais implícitas) e conclui sintetizando a visão saramaguiana."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -328,8 +334,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma análise profunda e multifacetada do tema, articulando conceitos filosóficos (Rawls), jurídicos (Barroso, Constituição de 1988) e históricos (Nazismo) de maneira coerente.",
-      "Há excelente domínio da norma culta, com uso preciso de conectivos ('Conquanto', 'porquanto') e vocabulário técnico adequado ao contexto acadêmico-diplomático."
+      "O texto apresenta uma análise profunda e multifacetada do tema, articulando conceitos filosóficos (Rawls), jurídicos (Barroso, Constituição de 1988) e históricos (Nazismo) de maneira coesa.",
+      "Há excelente domínio da terminologia acadêmica e jurídica ('igualdade formal/material/reconhecimento', 'princípio da diferença'), evidenciando maturidade intelectual adequada ao Nível Superior.",
+      "A estrutura segue rigorosamente a proposta do enunciado: introduz a tese, desenvolve-a com múltiplos recortes (religião, Estado, relações internacionais implícitas) e conclui sintetizando a visão saramaguiana."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -339,19 +346,20 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 17.5,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 9.5,
+    "nota_1B": 9.8,
+    "nota_1C": 9.7,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'não é forte apenas' deveria ser 'não nasce apenas', pois 'forte' não combina semanticamente com 'relação'.",
-      "Uso inadequado de preposição/conjunção: 'uma vez que juravam' poderia ser interpretado como causalidade indevida; ideal seria 'enquanto juravam' ou 'pois juravam', dependendo da intenção.",
-      "Pontuação/Vírgula: 'ao contrário do que o discurso...' - falta vírgula após 'do que' para isolar oração subordinada adverbial concessiva."
+      "Concordância nominal/verbal: 'não é forte apenas' deveria ser 'não é fraca apenas'.",
+      "Pontuação/Frase fragmentada: 'O mundo moderno...' deve estar conectado à oração anterior.",
+      "Regência verbal: 'tributária dessa tradição que vê...'"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara, introduzindo a tese de Saramago, desenvolvendo-a com autores contemporâneos e encerrando com síntese crítica. Há coesão sequencial bem construída.",
-      "Os argumentos são pertinentes e diversificados, articulando filosofia, cinema e antropologia. Contudo, algumas transições poderiam ser mais fluidas, especialmente na passagem do exemplo cinematográfico para o antropológico.",
-      "Há capacidade analítica avançada, problematizando conceitos-chave ('tolerância', 'diferença', 'violência'). A articulação teórica é consistente, embora haja leve repetição conceitual em alguns trechos."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em referências teóricas e conclusão contundente.",
+      "Argumentação sólida, articulando filosofia, literatura e antropologia para sustentar a tese.",
+      "Análise profunda, indo além do senso comum e explorando nuances conceituais.",
+      "Pequenos deslizes gramaticais não comprometem a fluidez ou a compreensão global."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -361,19 +369,21 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 17.5,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 9.5,
+    "nota_1B": 9.8,
+    "nota_1C": 9.7,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'não é forte apenas' deveria ser 'não nasce apenas', pois 'forte' não combina semanticamente com 'relação'.",
-      "Uso inadequado de preposição/conjunção: 'uma vez que juravam' poderia ser interpretado como causalidade indevida; ideal seria 'enquanto juravam' ou 'pois juravam', dependendo da intenção.",
-      "Pontuação/Vírgula: 'ao contrário do que o discurso...' - falta vírgula após 'do que' para isolar oração subordinada adverbial concessiva."
+      "Concordância nominal/verbal: 'não é forte apenas' -> deveria ser 'não nasce apenas', 'é fraca apenas' ou reescrita completa.",
+      "Regência/preposição: 'tributária dessa tradição que vê...' -> correto, mas 'reduzida a uma única lei' poderia ter vírgula antes; erro menor.",
+      "Ortografia/Acentuação: 'iminentemente' -> grafia incorreta, o correto é 'imediatamente' ou 'inerentemente'.",
+      "Pontuação/Vírgulas excessivas: uso inadequado de vírgulas após sujeito longo."
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara, introduzindo a tese de Saramago, desenvolvendo-a com autores contemporâneos e encerrando com síntese crítica. A fluidez é notável, embora haja pequenos deslizes lexicais.",
-      "Os argumentos são bem articulados, utilizando referências teóricas sólidas (Zizek, Viveiros de Castro, Oswald de Andrade) para sustentar a posição de que a tolerância pode mascarar dominação. Há pertinência temática e profundidade analítica.",
-      "Há capacidade avançada de reflexão, conectando filosofia política, literatura e antropologia. Contudo, algumas transições poderiam ser mais precisas, e a conclusão, embora contundente, repete parcialmente ideias já exploradas."
+      "O texto apresenta estrutura clara, introdução bem definida, desenvolvimento rico em referências teóricas e conclusão sintética. A escrita é fluida e sofisticada.",
+      "Os argumentos são pertinentes, sistemáticos e sustentados por autores relevantes (Zizek, Viveiros de Castro, Oswald de Andrade). Há diálogo constante com o enunciado.",
+      "Há capacidade analítica avançada, conectando filosofia, literatura, cinema e etnologia para discutir a natureza conflituosa da tolerância.",
+      "Apesar da alta qualidade, há pequenos deslizes gramaticais que impedem a perfeição absoluta."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -383,21 +393,23 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 17.5,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 9.5,
+    "nota_1B": 9.8,
+    "nota_1C": 9.7,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'não é forte apenas' deveria ser 'não nasce apenas', 'é fraca apenas' ou reescrita completa.",
-      "Regência/preposição: 'tributária dessa tradição que vê com maus olhos' - construção aceitável, mas 'com maus olhos' é expressão idiomática; erro menor de clareza estilística.",
-      "Pontuação/conjunção: 'ao contrário do que o discurso...' falta vírgula após 'contrário'.",
-      "Ortografia/vocabulário: 'iminentemente' -> 'iminentemente'."
+      "Concordância nominal/verbal: 'não é forte apenas' -> deveria ser 'não nasce apenas', 'é fraca apenas' ou reescrita completa.",
+      "Regência/preposição: 'tributária dessa tradição que vê...' -> correto, mas 'reduzida a uma única lei' poderia ter vírgula antes; erro menor.",
+      "Pontuação/vírgulas excessivas ou ausentes em algumas orações coordenadas.",
+      "Ortografia/Vocabulário: 'iminentemente' -> grafia correta é 'iminentemente'.",
+      "Uso de hífen/travessão: 'O marxismo — e não só' -> falta espaço após travessão."
     ],
     "feedbacks": [
-      "Texto bem estruturado, com introdução clara, desenvolvimento rico em referências teóricas e conclusão sintética. Estilo acadêmico adequado ao nível CACD.",
-      "Argumentação sólida, articulando Saramago, Žižek, Viveiros de Castro e Oswald de Andrade. Pertinência temática alta, embora algumas conexões possam parecer forçadas.",
-      "Reflexão profunda sobre a tensão entre tolerância e dominação, com abordagem crítica original. Falta maior articulação direta com o enunciado ('religiões ou Estados'), limitando-se principalmente a relações interpessoais/culturais.",
-      "Erros gramaticais leves, majoritariamente de precisão lexical e pontuação. Não comprometem a compreensão global."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em referências teóricas e conclusão sintética.",
+      "Argumentação sólida, articulando filosofia, literatura e antropologia para sustentar a tese.",
+      "Análise profunda, indo além do senso comum sobre tolerância.",
+      "Pequenos deslizes gramaticais não comprometem a fluidez, mas merecem atenção.",
+      "Recomenda-se revisar cuidadosamente a concordância verbal/nominal e a ortografia de termos específicos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -410,7 +422,7 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Imminentemente -> Iminente"
+      "Imprópria grafia 'muito' escrita como 'mucho'. Esta palavra existe em espanhol, mas não em português."
     ],
     "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
@@ -424,12 +436,9 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Imminentemente -> Iminente"
+      "Imprópria grafia 'muito' escrita como 'mucho'. Esta palavra existe em espanhol, mas não em português."
     ],
-    "feedbacks": [
-      "A redação apresenta excelente domínio conceitual e teórico, articulando referências complexas (Zizek, Viveiros de Castro, Modernismo) de forma coesa e pertinente.",
-      "Houve um único erro grave de grafia ('iminentemente' em vez de 'iminente'), que impactou levemente a correção gramatical."
-    ],
+    "feedbacks": [],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
@@ -441,9 +450,13 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Imminentemente -> Iminente"
+      "Imprópria grafia 'muito' escrita como 'mucho'. Esta palavra existe em espanhol/italiano/português arcaico, mas não é usada assim."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Texto muito bem estruturado, com excelente domínio da língua portuguesa e uso sofisticado de referências teóricas.",
+      "Argumentação sólida e original, explorando nuances filosóficas e antropológicas do conceito de tolerância.",
+      "Pequeno erro de digitação ('mucho') que não compromete significativamente a qualidade geral do texto."
+    ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
@@ -457,7 +470,7 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta uma análise profunda e multifacetada do conceito de tolerância, articulando referências teóricas diversas (Kant, Žižek, Viveiros de Castro) e exemplos culturais concretos (cinema, literatura moderna), demonstrando grande amplitude intelectual.",
-      "A argumentação segue uma estrutura lógica rigorosa, construindo um diálogo crítico entre o pensamento ocidental contemporâneo e perspectivas antropológicas brasileiras, culminando numa síntese filosófica robusta."
+      "A argumentação segue uma estrutura lógica rigorosa, construindo um diálogo crítico entre o pensamento ocidental contemporâneo e tradições indígenas brasileiras, culminando numa síntese filosófica robusta sobre o conflito humano."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -472,8 +485,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta uma análise profunda e multifacetada do tema, articulando referências teóricas diversas (Kant, Žižek, Viveiros de Castro) de forma coerente.",
-      "Há excelente uso de exemplos concretos (filme 'Get Out', ensaios antropológicos) para sustentar a argumentação filosófica.",
-      "A conclusão sintetiza com maestria a posição do candidato frente à citação de Saramago, demonstrando maturidade intelectual."
+      "Há excelente uso de exemplos concretos (filme 'Get Out', artefato cultural 'múrta' vs 'mármore') para sustentar a argumentação filosófica.",
+      "A conclusão sintetiza magistralmente a tese inicial, demonstrando maturidade intelectual e domínio completo do assunto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -487,9 +500,10 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto apresenta uma análise profunda e multifacetada do tema, articulando referências teóricas diversas (Kant, Žižek, Viveiros de Castro) de forma coerente.",
-      "Há excelente uso de exemplos concretos (filme 'Get Out', ensaios antropológicos) para sustentar a argumentação filosófica.",
-      "A conclusão sintetiza com maestria a posição do candidato frente à citação de Saramago, demonstrando maturidade intelectual."
+      "O texto apresenta uma análise profunda e multifacetada do tema, articulando referências teóricas diversas (Kant, Žižek, Viveiros de Castro) de forma orgânica.",
+      "Há excelente uso de exemplos concretos (filme 'Get Out', ensaios antropológicos) para sustentar a tese filosófica.",
+      "A escrita demonstra maturidade acadêmica, com vocabulário rico e precisão conceitual.",
+      "A conclusão sintetiza eficazmente a posição do candidato frente ao enunciado."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -499,18 +513,18 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 9,
-    "nota_1C": 16,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "concordância nominal/verbal",
       "ortografia"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo-o em três esferas (interpessoal, religiosa e interestatal) e concluindo com posicionamento definido. Há progressão lógica e paragrafação adequada.",
-      "Os argumentos são pertinentes e bem articulados, utilizando exemplos históricos (Paz de Westfália), sociológicos (Edward Said) e contemporâneos (redes sociais, Trump, Coreia do Norte). Contudo, há repetição excessiva de ideias semelhantes nos últimos parágrafos, reduzindo ligeiramente a eficiência argumentativa.",
-      "O candidato demonstra capacidade analítica ao contrastar a visão saramaguiana com realidades práticas, propondo a tolerância como 'etapa necessária' antes da harmonia plena. A articulação entre teoria política (Contrato Social) e prática diplomática mostra maturidade intelectual."
+      "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo-o em três esferas (interpessoal, religiosa e interestatal) e concluindo com posicionamento definido.",
+      "Os argumentos são pertinentes e bem articulados, utilizando exemplos históricos e contemporâneos para sustentar a tese.",
+      "Há capacidade analítica significativa, especialmente na distinção entre tolerância como passo necessário e como fim último."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -520,18 +534,18 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 9,
-    "nota_1C": 16,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "concordância nominal/verbal",
-      "regência verbal/preposicional"
+      "ortografia"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo-o em três esferas (interpessoal, religiosa e interestatal) e concluindo com posicionamento definido. Há progressão lógica e paragrafação adequada.",
-      "Os argumentos são pertinentes e bem articulados, utilizando exemplos históricos (Paz de Westfália), sociológicos (Edward Said) e contemporâneos (redes sociais, Trump, Coreia do Norte). Contudo, há repetição excessiva de ideias e algumas generalizações sem aprofundamento crítico suficiente.",
-      "O candidato consegue articular a crítica de Saramago com conceitos filosóficos (Contrato Social) e relacioná-la a múltiplas dimensões da convivência humana. Mostra capacidade analítica ao distinguir 'tolerância' de 'coexistência ativa', embora pudesse ter explorado melhor a tensão proposta pelo autor."
+      "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo-o em três esferas (interpessoal, religiosa e interestatal) e concluindo com posicionamento definido.",
+      "Os argumentos são pertinentes e bem articulados, utilizando exemplos históricos e contemporâneos para sustentar a tese.",
+      "Há capacidade analítica significativa, especialmente na distinção entre tolerância como passo necessário e como fim último."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -541,18 +555,18 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 9,
-    "nota_1C": 16,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "concordância nominal/verbal",
       "ortografia"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo-o em três esferas (interpessoal, religiosa e interestatal) e concluindo com posicionamento definido. Há progressão lógica e paragrafação adequada.",
-      "Os argumentos são pertinentes e bem articulados, utilizando exemplos históricos (Paz de Westfália), sociológicos (Edward Said) e contemporâneos (redes sociais, Trump, Coreia do Norte). Contudo, há repetição excessiva de ideias semelhantes nos últimos parágrafos, reduzindo ligeiramente a eficiência argumentativa.",
-      "Há capacidade analítica significativa ao articular a crítica de Saramago com conceitos filosóficos (Contrato Social) e realidades geopolíticas. O candidato consegue matizar a posição, reconhecendo a validade parcial da tese saramaguiana sem abandoná-la completamente."
+      "O texto apresenta estrutura clara, introduzindo o tema, desenvolvendo-o em três esferas (interpessoal, religiosa e interestatal) e concluindo com posicionamento definido.",
+      "Os argumentos são pertinentes e bem articulados, utilizando exemplos históricos e contemporâneos para sustentar a tese.",
+      "Há capacidade analítica significativa, especialmente na distinção entre tolerância como passo necessário e como fim último."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -565,14 +579,11 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Tornaram-se constantes, portanto, as manifestações de intolerância e de ódio por meio das redes sociais.",
-      "As relações entre seres humanos demandam um patamar mínimo de segurança e de previsibilidade quanto às ações dos indivíduos."
+      "interagiram em  harmonia -> 'harmonia' deveria ter espaço único antes.",
+      "coexistences -> 'coexistências'"
     ],
     "feedbacks": [
-      "Os dois exemplos históricos citados são pertinentes e bem articulados ao argumento central.",
-      "Há repetição excessiva de termos como 'tolerância', 'relações' e 'coexistência'.",
-      "A frase 'A tolerância, que consiste em mera coexistência passiva...' contém erro de concordância verbal ('consiste' deveria ser 'consistem').",
-      "A estrutura geral do texto segue padrões acadêmicos aceitáveis, embora haja falta de profundidade teórica em alguns trechos."
+      "Excelente estruturação e desenvolvimento temático."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -589,10 +600,8 @@
       "As relações entre seres humanos demandam um patamar mínimo de segurança e de previsibilidade quanto às ações dos indivíduos."
     ],
     "feedbacks": [
-      "Os dois exemplos históricos citados são pertinentes e bem articulados ao argumento central.",
-      "Há repetição excessiva de termos como 'tolerância', 'relações' e 'coexistência'.",
-      "A frase 'A tolerância, que consiste em mera coexistência passiva...' contém erro de concordância verbal ('consiste' deveria ser 'consistem').",
-      "A estrutura geral do texto segue padrões acadêmicos aceitáveis, embora haja falta de profundidade teórica em alguns trechos."
+      "Erro de concordância verbal: 'Tornaram-se' deveria ser 'Tornou-se', pois o sujeito é 'manifestações'.",
+      "Uso inadequado de vírgula após 'previsibilidade': a oração seguinte não justifica pausa."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -609,12 +618,8 @@
       "As relações entre seres humanos demandam um patamar mínimo de segurança e de previsibilidade quanto às ações dos indivíduos."
     ],
     "feedbacks": [
-      "Os dois exemplos históricos citados são pertinentes e bem articulados ao argumento central.",
-      "Há repetição excessiva de termos como 'tolerância', 'relações' e 'coexistência'.",
-      "A frase 'Tornaram-se constantes...' apresenta erro de concordância verbal, pois o sujeito 'manifestações' é plural, exigindo o verbo no plural ('tornaram'), o que ocorre, mas há um problema de colocação pronominal implícita ou estrutura frasal que soa artificial. Corrigido para: 'Manifestações... tornaram-se constantes.'",
-      "A frase 'As relações entre seres humanos demandam...' contém um erro de regência nominal/verbal sutil. 'Previsibilidade quanto às ações' deveria ser 'previsibilidade das ações' ou 'quanto aos atos'.",
-      "O texto possui excelente domínio vocabular e estrutura sintática complexa.",
-      "A conclusão reforça adequadamente a tese inicial, alinhando-a ao pensamento de Saramago."
+      "Os dois primeiros períodos são muito genéricos e parecem desconectados do restante do texto.",
+      "Há repetição excessiva de algumas ideias, especialmente nos últimos três parágrafos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -635,32 +640,32 @@
       "Argumentação pertinente e bem articulada, abordando os três níveis solicitados pelo enunciado (pessoal, religioso e interestatal).",
       "Uso correto de conectivos e estruturas complexas, demonstrando bom domínio da língua portuguesa.",
       "Pequenos deslizes gramaticais presentes, mas que não comprometem a compreensão do texto.",
+      "Análise profunda do conceito de tolerância, contrastando-o com a visão de Saramago e apresentando exemplos históricos e contemporâneos."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "As relações interpessoais modificaram-se em razão das novas tecnologias de comunicação.",
+      "O aumento do número de refugiados no Oriente Médio potencializou os conflitos étnicos e religiosos."
+    ],
+    "feedbacks": [
+      "Texto claro e organizado, com introdução, desenvolvimento e conclusão bem definidos.",
+      "Argumentação pertinente e bem articulada, abordando os três níveis solicitados pelo enunciado (pessoal, religioso e interestatal).",
+      "Uso correto de conectivos e estruturas complexas, demonstrando bom domínio da língua portuguesa.",
+      "Pequenos deslizes gramaticais presentes, mas que não comprometem a compreensão do texto.",
       "Análise profunda do tema, alinhando a visão de Saramago com conceitos sociológicos e históricos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "As relações interpessoais modificaram-se em razão das novas tecnologias de comunicação.",
-      "O aumento do número de refugiados no Oriente Médio potencializou os conflitos étnicos e religiosos."
-    ],
-    "feedbacks": [
-      "Texto claro e organizado, com introdução, desenvolvimento e conclusão bem definidos.",
-      "Argumentação pertinente e bem articulada, abordando os três níveis solicitados pelo enunciado (pessoal, religioso e interestatal).",
-      "Uso correto de conectivos e estruturas complexas, demonstrando bom domínio da língua portuguesa.",
-      "Alguns pequenos deslizes gramaticais podem ser observados, mas não comprometem a compreensão do texto.",
-      "Conclusão forte e alinhada aos argumentos desenvolvidos."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
     "versao": 2,
     "essay": 4,
     "ano": "2017"
@@ -676,8 +681,8 @@
       "Texto claro e organizado, com introdução, desenvolvimento e conclusão bem definidos.",
       "Argumentação pertinente e bem articulada, abordando os três níveis solicitados pelo enunciado (pessoal, religioso e interestatal).",
       "Uso correto de conectivos e estruturas complexas, demonstrando bom domínio da língua portuguesa.",
-      "Pequenos deslizes gramaticais presentes, mas sem comprometer a compreensão do texto.",
-      "Reflexão profunda sobre o tema, alinhada aos objetivos do CACD."
+      "Pequenos deslizes gramaticais presentes, mas que não comprometem a compreensão do texto.",
+      "Análise profunda do tema, alinhando a visão de Saramago com conceitos sociológicos e históricos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -689,17 +694,16 @@
   {
     "nota_1A": 9.5,
     "nota_1B": 9.8,
-    "nota_1C": 19.5,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 9.7,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Uso inadequado de 'mesmo' como advérbio ('discórdias e, mesmo, sentimentos'). O correto seria 'inclusive', 'até' ou reestruturação.",
-      "Possível erro de regência/concordância sutil em 'vincula-se exclusivamente a considerações'. Embora comum, o verbo 'vincular-se' exige 'a' quando indica destino/relação fixa, mas aqui soa melhor 'baseada em' ou 'determinada por'. Não é erro grave, mas conta como impropriedade leve."
+      "Omitiu-se a preposição 'de' após 'processo': 'amadurecimento civilizacional' deveria ser 'amadurecimento **do** processo...'."
     ],
     "feedbacks": [
-      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em referências teóricas e conclusão sólida. Estilo formal e adequado ao nível CACD.",
-      "Argumentação objetiva e sistemática. Uso pertinente de Hobbes, Maquiavel e Kant para contrastar perspectivas. Pertinência alta ao tema.",
-      "Reflexão profunda sobre a tensão entre tolerância como concessão hierárquica e como necessidade pragmática. Excelente capacidade analítica.",
-      "Três pequenos deslizes linguísticos, sem comprometer a fluidez ou a clareza. Pontuação e ortografia corretas."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em referências teóricas e conclusão sólida.",
+      "Argumentação objetiva e pertinente, articulando perfeitamente a citação de Saramago com a defesa da tolerância como necessidade pragmática.",
+      "Análise profunda, contrastando realismo político (Hobbes/Maquiavel) com idealismo ético (Kant) para justificar a posição do autor.",
+      "Excelente domínio da norma culta. Apenas um pequeno lapso sintático na última página."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -711,17 +715,17 @@
   {
     "nota_1A": 9.5,
     "nota_1B": 9.8,
-    "nota_1C": 19.5,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 9.7,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Uso inadequado de 'mesmo' como advérbio ('discórdias e, mesmo, sentimentos'). O correto seria 'inclusive', 'até' ou reestruturação.",
-      "Possível erro de regência/concordância sutil em 'vincula-se exclusivamente a considerações'. Embora comum, o verbo 'vincular-se' exige 'a' quando indica destino/relação fixa, mas aqui soa melhor 'baseada em' ou 'determinada por'. Não é erro grave, mas conta como impropriedade leve."
+      "Omitiu-se a preposição 'de' após 'processo': 'amadurecimento civilizacional' deveria ser 'amadurecimento *do* processo'.",
+      "Erro de crase/uso indevido de vírgula antes de 'que se referia Kant.' Sugiro reescrita."
     ],
     "feedbacks": [
-      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em referências teóricas e conclusão sólida. Estilo formal e adequado ao nível CACD.",
-      "Argumentação objetiva e sistemática. Uso pertinente de Hobbes, Maquiavel e Kant para contrastar perspectivas. Pertinência alta ao tema.",
-      "Reflexão profunda sobre a tensão entre tolerância como concessão hierárquica e como necessidade pragmática. Excelente capacidade analítica.",
-      "Três pequenos deslizes linguísticos, sem comprometer a fluidez ou a clareza. Pontuação e ortografia corretas."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em referências teóricas e conclusão sólida.",
+      "Argumentação objetiva e pertinente, articulando perfeitamente a citação de Saramago com a defesa da tolerância como necessidade pragmática.",
+      "Análise profunda, contrastando realismo político (Hobbes/Maquiavel) com idealismo ético (Kant), culminando numa síntese madura.",
+      "Excelente domínio da norma culta. Apenas um erro menor de regência/preposicional ('amadurecimento do processo') foi identificado."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -733,17 +737,13 @@
   {
     "nota_1A": 9.5,
     "nota_1B": 9.8,
-    "nota_1C": 19.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "Uso inadequado de 'mesmo' como advérbio ('discórdias e, mesmo, sentimentos'). O correto seria 'inclusive', 'até' ou reestruturação.",
-      "Possível erro de regência/concordância sutil em 'vincula-se exclusivamente a considerações'. Embora aceito, 'refere-se a' ou 'liga-se a' soaria melhor; contudo, conta-se como erro menor de estilo/propriedade."
-    ],
+    "nota_1C": 9.7,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra excelente domínio estrutural e estilístico, com progressão temática clara e coesa.",
-      "Argumentação robusta, com citação pertinente de filósofos clássicos e aplicação direta ao tema proposto.",
-      "Reflexão profunda sobre a dualidade tolerância/respeito, alinhada à provocação de Saramago sem cair em simplificações.",
-      "Pequenos deslizes gramaticis e estilísticos não comprometem a excelência geral."
+      "O texto demonstra excelente organização estrutural, com introdução clara, desenvolvimento bem articulado e conclusão coesa.",
+      "Os parágrafos seguem uma progressão temática lógica, conectados adequadamente por elementos coesivos.",
+      "A escrita é formal, precisa e adequada ao nível exigido pela CACD."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -757,12 +757,12 @@
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "Na frase 'Desde os primórdios da civilização...', a vírgula após 'civilização' separa sintagmas essenciais, gerando erro de pontuação.",
-      "No trecho '...amadurecimento civilizacional da humanidade, cujo fim último é a convivência harmoniosa entre todos, a “paz perpétua”', a expressão 'a paz perpétua' deveria vir precedida de travessão ou dois-pontos para funcionar como aposto explicativo adequado."
+      "No trecho '...amadurecimento civilizacional da humanidade, cujo fim último é a convivência harmoniosa entre todos, a “paz perpétua”', a expressão 'entre todos' deveria vir seguida de travessão antes de 'a \"paz perpétua\"'."
     ],
     "feedbacks": [
-      "A organização textual é excelente, apresentando introdução clara, desenvolvimento bem estruturado com embasamento teórico sólido (Hobbes, Maquiavel, Kant) e conclusão coesa que dialoga diretamente com o enunciado.",
-      "A correção gramatical é muito alta, demonstrando domínio avançado da norma culta. Os poucos deslizes pontuais não comprometem a fluidez ou a inteligibilidade do texto.",
-      "A propriedade linguística é impecável, com vocabulário rico e variado, perfeito alinhamento register formal-acadêmico exigido pela CACD e construção frasal sofisticada."
+      "A organização textual é excelente, apresentando introdução clara, desenvolvimento bem estruturado com citações filosóficas pertinentes e conclusão sólida que reafirma a tese inicial.",
+      "A correção gramatical é muito alta, demonstrando domínio avançado da norma culta e vocabulário sofisticado adequado ao nível exigido pela CACD.",
+      "Os argumentos são consistentes e bem articulados, mostrando grande capacidade analítica e crítica frente ao enunciado proposto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -776,12 +776,12 @@
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "Na frase 'Desde os primórdios da civilização...', a vírgula após 'civilização' separa sintagmas essenciais, gerando erro de pontuação.",
-      "No trecho '...amadurecimento civilizacional da humanidade, cujo fim último é a convivência harmoniosa entre todos, a “paz perpétua”', a expressão 'a paz perpétua' deveria vir precedida de travessão ou dois-pontos para funcionar como aposto explicativo adequado."
+      "No trecho '...amadurecimento civilizacional da humanidade, cujo fim último é a convivência harmoniosa entre todos, a “paz perpétua”', a expressão 'entre todos' deveria vir seguida de travessão antes de 'a \"paz perpétua\"'."
     ],
     "feedbacks": [
-      "A organização textual é excelente, apresentando introdução clara, desenvolvimento bem estruturado com embasamento teórico sólido (Hobbes, Maquiavel, Kant) e conclusão coesa que dialoga diretamente com o enunciado.",
-      "A correção gramatical é muito alta, demonstrando domínio avançado da norma culta. Os poucos deslizes pontuais não comprometem a fluidez ou a inteligibilidade do texto.",
-      "A propriedade linguística é impecável, com vocabulário rico e variado, perfeito alinhamento register formal acadêmico-diplomático e construção frasal sofisticada."
+      "A organização textual é excelente, apresentando introdução clara, desenvolvimento bem estruturado com citações filosóficas pertinentes e conclusão coesa.",
+      "A correção gramatical é muito alta, demonstrando domínio avançado da norma culta e vocabulário sofisticado.",
+      "Os argumentos são consistentes e alinhados ao enunciado, abordando tanto as relações individuais quanto interestatais."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -795,12 +795,12 @@
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "Na frase 'Desde os primórdios da civilização...', a vírgula após 'civilização' separa sintagmas essenciais, gerando erro de pontuação.",
-      "No trecho '...amadurecimento civilizacional da humanidade, cujo fim último é a convivência harmoniosa entre todos, a “paz perpétua”', a expressão 'a paz perpétua' deveria vir precedida de travessão ou dois-pontos para funcionar como aposto explicativo adequado."
+      "No trecho '...amadurecimento civilizacional da humanidade, cujo fim último é a convivência harmoniosa entre todos, a “paz perpétua”', a expressão 'entre todos' deveria vir seguida de travessão antes de 'a \"paz perpétua\"'."
     ],
     "feedbacks": [
-      "A organização textual é excelente, apresentando introdução clara, desenvolvimento bem estruturado com embasamento teórico sólido (Hobbes, Maquiavel, Kant) e conclusão coesa que dialoga diretamente com o enunciado.",
-      "A correção gramatical é muito alta, demonstrando domínio avançado da norma culta. Os poucos deslizes pontuais não comprometem a fluidez ou a inteligibilidade do texto.",
-      "A propriedade linguística é impecável, com vocabulário rico, variado e adequadamente sofisticado para o nível exigido pela CACD."
+      "A organização textual é excelente, apresentando introdução clara, desenvolvimento bem estruturado com citações filosóficas pertinentes e conclusão sólida que reafirma a tese inicial.",
+      "A correção gramatical é muito alta, demonstrando domínio avançado da norma culta e vocabulário sofisticado adequado ao nível exigido pela CACD.",
+      "Os argumentos são consistentes e bem articulados, mostrando grande capacidade analítica e crítica frente ao enunciado proposto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -832,7 +832,7 @@
     "feedbacks": [
       "O texto demonstra excelente organização e desenvolvimento do tema, articulando claramente a crítica de Saramago com uma defesa fundamentada da tolerância como etapa necessária.",
       "Apresenta argumentação sólida e profunda, utilizando referências teóricas pertinentes (Hobbes, Maquiavel, Kant) para construir uma análise dialética rica e matizada.",
-      "Demonstra domínio completo da norma culta, com correção gramatical impecável, vocabulário variado e estilo fluido e acadêmico."
+      "Demonstra domínio completo da norma culta, com correção gramatical impecável, vocabulário variado e estilo fluido e maduro."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -848,7 +848,7 @@
     "feedbacks": [
       "O texto demonstra excelente organização e desenvolvimento do tema, articulando claramente a crítica de Saramago com uma defesa fundamentada da tolerância como etapa necessária.",
       "Apresenta argumentação sólida e profunda, utilizando referências teóricas pertinentes (Hobbes, Maquiavel, Kant) para construir uma análise dialética rica e matizada.",
-      "Demonstra domínio avançado da língua portuguesa, com vocabulário preciso, sintaxe complexa e fluida, e correção gramatical impecável."
+      "Demonstra domínio excepcional da língua portuguesa, com vocabulário variado, sintaxe complexa e correta, e estilo maduro e fluido."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -860,17 +860,20 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 6,
     "erros_gramaticais": [
       "estado de natureza\"",
+      "assumir a função",
       "Tolerar é a o princípio",
-      "imprescíndivel ,"
+      "ignorar a capacidade",
+      "Simbólica desse processo",
+      "nacionalismos intolerantes"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara, com introdução, desenvolvimento e conclusão bem definidos. A progressão temática segue uma linha lógica, partindo da filosofia política clássica até exemplos históricos contemporâneos.",
-      "Os argumentos são pertinentes e sustentados por referências teóricas sólidas (Hobbes, Saramago, Bull). Contudo, há momentos em que a articulação entre ideias poderia ser mais fluida, e algumas transições carecem de maior precisão conceitual.",
-      "A análise demonstra bom nível de reflexão crítica, especialmente ao problematizar a visão de Saramago sem descartá-la completamente. Há tentativa de superação dialética, propondo estágios evolutivos da tolerância."
+      "O texto apresenta estrutura clara e progressão temática adequada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "Os argumentos são pertinentes e sustentados por referências teóricas relevantes, embora algumas conexões possam ser mais aprofundadas.",
+      "Há bom nível de análise crítica, especialmente na articulação entre tolerância, cooperação e solidariedade."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -882,17 +885,20 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 6,
     "erros_gramaticais": [
-      "estado de natureza\"",
-      "Tolerar é a o",
+      "Estado de natureza”: falta de fechamento de aspas",
+      "Tolerar é a o princípio... duplicação de artigo",
+      "ignora a capacidade evolutiva do conceito.",
+      "Simbólica dessa processo...",
+      "Mesmo que nacionalismo intolerantes...",
       "imprescíndivel ,"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clássica de introdução, desenvolvimento e conclusão, com progressão temática clara. Há uso adequado de conectivos e paragrafação coesa.",
-      "Os argumentos são pertinentes e bem articulados, utilizando referências teóricas relevantes (Hobbes, Saramago, Bull) e exemplos históricos concretos (Nazismo, UE). Contudo, há repetição desnecessária de ideias nos últimos parágrafos, reduzindo ligeiramente a eficiência argumentativa.",
-      "O candidato demonstra excelente capacidade analítica ao desconstruir a visão de Saramago e propor uma evolução dialética da tolerância (convivência → cooperação → solidariedade). A articulação entre filosofia política, história contemporânea e relações internacionais é sofisticada."
+      "O texto apresenta estrutura clara e progressão temática adequada, com introdução, desenvolvimento e conclusão bem definidos. Há uso consistente de conectivos e parágrafos coesos. Contudo, há alguns deslizes de digitação e pontuação que afetam levemente a fluidez e a apresentação visual.",
+      "Os argumentos são pertinentes e articulados às ideias de Saramago e Hobbes. A sistematização ocorre através de etapas (tolerância → cooperação → solidariedade), demonstrando domínio conceitual. Porém, algumas generalizações históricas carecem de maior precisão analítica, e a referência ao FMI aparece sem contextualização suficiente.",
+      "Há reflexão crítica interessante ao propor a tolerância como estágio inicial de um processo civilizatório. A articulação teórica entre filosofia política e relações internacionais mostra maturidade intelectual. Ainda assim, a defesa da tolerância poderia ter sido aprofundada frente aos riscos de instrumentalização política desse conceito."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -904,17 +910,20 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 6,
     "erros_gramaticais": [
       "estado de natureza\"",
+      "assumir a função",
       "Tolerar é a o princípio",
-      "imprescíndivel ,"
+      "ignorar a capacidade",
+      "Simbólica desse processo",
+      "nacionalismos intolerantes"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara, introduzindo a tese inicial com referência a Hobbes, desenvolvendo-a através de etapas lógicas (tolerância -> cooperação -> solidariedade) e concluindo com uma síntese que responde diretamente ao enunciado. A progressão temática é fluida e o vocabulário é adequado ao nível exigido pelo CACD.",
-      "Os argumentos são pertinentes e bem articulados, utilizando referências teóricas (Hobbes, Saramago, Bull) e exemplos históricos concretos (Nazismo, UE) para fundamentar a posição contrária à crítica radical de Saramago. Há sistematização clara, embora algumas transições possam ser aprimoradas para maior densidade analítica.",
-      "A análise demonstra maturidade intelectual ao propor uma leitura dialética da tolerância (etapas evolutivas) e ao contextualizar historicamente a necessidade desse estágio mínimo antes da cooperação/solidariedade. A resposta ao prompt é direta e sustentada por raciocínio lógico consistente."
+      "O texto apresenta estrutura clara e progressão temática adequada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "Os argumentos são pertinentes e articulados, embora algumas transições possam ser aprimoradas para maior fluidez.",
+      "Há bom nível de análise crítica, especialmente na articulação entre filosofia política e relações internacionais."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -927,15 +936,16 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "\"estado de natureza\",\" -> vírgula sobrando antes do fechamento de aspas.",
-      "\"Tolerar é a o princípio...\" -> erro de digitação/artigo duplicado ('a o').",
-      "\"Simbólica dessa processo,\" -> erro de concordância nominal/gênero ('dessa' deveria ser 'desse', referindo-se a 'processo')."
+      "\"estado de natureza\", vive\" -> falta espaço antes da vírgula.",
+      "\"Tolerar é a o princípio\" -> erro de digitação ('a' sobrando).",
+      "\"Simbólica dessa processo\" -> erro de concordância nominal ('dessa' deveria ser 'desse').",
+      "\"nacionalismo intolerantes\" -> erro de concordância nominal ('nacionalismos' deveria ser 'nacionalistas')."
     ],
     "feedbacks": [
       "Excelente domínio da estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão contundente.",
-      "Uso sofisticado de repertório sociocultural (Hobbes, Leis de Nuremberg, UE, Hedley Bull) integrado de maneira coesa aos argumentos.",
-      "Capacidade excepcional de articular filosofia política, história contemporânea e relações internacionais para defender a tese proposta.",
-      "Pequenos lapsos gramaticais (vírgulas desnecessárias, artigo duplicado, erro de gênero) não comprometem significativamente a fluidez ou a compreensão geral."
+      "Uso sofisticado de referencial teórico (Hobbes, Saramago, Bull) e exemplos históricos concretos (Nazismo, UE), demonstrando ampla cultura geral e capacidade analítica.",
+      "Argumentação coesa e progressiva, construindo uma tese original que posiciona a tolerância como fundamento necessário (ainda que insuficiente) para a cooperação e a solidariedade.",
+      "Linguagem culta e adequada ao nível exigido pela CACD, com bom uso de conectivos e vocabulário preciso."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -948,15 +958,15 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "\"estado de natureza\",\" -> vírgula sobrando antes da aspas.",
-      "\"Tolerar é a o princípio...\" -> erro de digitação ('a o').",
-      "\"Simbólica dessa processo...\" -> erro de concordância nominal/demonstrativo ('dessa' deveria ser 'desse')."
+      "\"estado de natureza\", vive\" -> falta espaço antes da vírgula.",
+      "\"Tolerar é a o princípio\" -> erro de digitação ('a' sobrando).",
+      "\"Simbólica dessa processo\" -> erro de concordância nominal ('dessa' deveria ser 'desse').",
+      "\"nacionalismo intolerantes\" -> erro de concordância nominal ('nacionalismos' deveria ser 'nacionalistas')."
     ],
     "feedbacks": [
-      "Excelente estruturação teórica, articulando bem Hobbes, Saramago e Bull.",
-      "Argumentação sólida e progressiva, defendendo claramente sua posição.",
-      "Uso adequado de exemplos históricos (Nazismo) e contemporâneos (UE/FMI).",
-      "Pequenos lapsos gramaticais não comprometem significativamente a fluidez."
+      "A estrutura do texto segue um padrão claro de introdução, desenvolvimento e conclusão, atendendo aos requisitos formais.",
+      "As ideias estão bem encadeadas, utilizando conectivos apropriados para garantir a coesão textual.",
+      "Os argumentos apresentados são pertinentes e demonstram conhecimento prévio relevante, enriquecendo a análise temática."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -969,15 +979,14 @@
     "nota_final": 58.75,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "\"estado de natureza\",\" -> vírgula sobrando antes do fechamento de aspas.",
-      "\"Tolerar é a o princípio...\" -> erro de digitação/artigo duplicado ('a o').",
-      "\"Simbólica dessa processo,\" -> erro de concordância nominal/gênero ('dessa' deveria ser 'desse', referindo-se a 'processo')."
+      "\"estado de natureza\", vive\" -> falta espaço antes da vírgula.",
+      "\"Tolerar é a o princípio\" -> erro de digitação ('a o').",
+      "\"Simbólica dessa processo\" -> erro de concordância nominal ('dessa' deveria ser 'desse')."
     ],
     "feedbacks": [
       "Excelente domínio da estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão contundente.",
-      "Uso sofisticado de repertório sociocultural (Hobbes, Leis de Nuremberg, UE, Hedley Bull) integrado de maneira coesa aos argumentos.",
-      "Capacidade excepcional de articular filosofia política, história contemporânea e relações internacionais para defender a tese.",
-      "Pequenos lapsos mecânicos (vírgulas extras, artigos duplicados, erro de gênero) não comprometem significativamente a fluidez ou a compreensão."
+      "Uso sofisticado de referências teóricas (Hobbes, Saramago, Bull) e exemplos históricos concretos (Nazismo, UE), demonstrando ampla cultura geral e capacidade analítica.",
+      "Linguagem culta, coesa e adequada ao nível exigido pela CACD, com bom uso de conectivos e vocabulário preciso."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -988,16 +997,17 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "\"estado de natureza\", vive\" -> falta de crase ou erro de digitação na citação.",
-      "\"Tolerar é a o princípio\" -> artigo duplicado ('a' antes de 'o').",
-      "\"Simbólica dessa processo\" -> concordância nominal incorreta ('desse' deveria ser usado)."
+      "estado de natureza\"",
+      "(aspas soltas)",
+      "imprescídivel"
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa muito clara e progressiva, construindo uma defesa robusta da tolerância como fundamento necessário para a cooperação e a solidariedade, respondendo diretamente à provocação de Saramago.",
-      "Há excelente uso de referências teóricas (Hobbes, Bull) e exemplos históricos concretos (Nazismo, UE), demonstrando amplitude temática e capacidade de síntese histórica.",
-      "A linguagem é formal, precisa e adequada ao registro acadêmico-diplomático, com bom controle sintático e vocabulário rico."
+      "O texto apresenta uma estrutura argumentativa muito clara e progressiva.",
+      "Há um uso excelente de referências teóricas (Hobbes, Saramago, Bull) para fundamentar a análise.",
+      "Os exemplos históricos (Nazismo, UE) são pertinentes e bem articulados aos argumentos.",
+      "Apresenta dois pequenos deslizes formais (uma aspas solta e um erro de digitação), mas isso não compromete a excelência do raciocínio."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1015,9 +1025,9 @@
       "\"Simbólica dessa processo\" -> erro de concordância nominal/gênero ('desse processo')."
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura muito clara e progressiva, articulando perfeitamente a filosofia política clássica (Hobbes) com a crítica contemporânea de Saramago e teorias de Relações Internacionais (Hedley Bull), demonstrando grande amplitude temática e rigor conceitual.",
-      "Os exemplos históricos (Nazismo/Leis de Nuremberg) e geopolíticos (União Europeia/FMI) foram empregados com maestria para fundamentar a tese de que a tolerância é a base necessária para a cooperação e a solidariedade.",
-      "Apesar de excelentes, há pequenos deslizes mecânicos (como \"da o princípio\" e \"dessa processo\") que impediram a nota máxima, mas que não comprometem a fluidez ou a sofisticação intelectual do ensaio."
+      "O texto apresenta uma estrutura muito clara e progressiva, articulando perfeitamente a filosofia política clássica (Hobbes) com a crítica contemporânea de Saramago. A tese central — de que a tolerância é um fundamento necessário, ainda que insuficiente, para níveis superiores de integração humana — é defendida com solidez teórica e exemplos históricos pertinentes (Nazismo, UE).",
+      "Os parágrafos estão bem encadeados, utilizando conectivos lógicos que guiam o leitor através da evolução conceitual proposta pelo autor (anarquia -> lei/tolerância -> cooperação -> solidariedade).",
+      "Apresenta domínio avançado do léxico acadêmico e diplomático, citando autores consagrados (Hobbes, Bull) e aplicando-os corretamente ao debate proposto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1030,14 +1040,17 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "\"estado de natureza\",\" -> vírgula sobrando antes da aspas fechante.",
-      "\"Tolerar é a o princípio...\" -> duplicação de artigo ('a o').",
-      "\"Simbólica dessa processo,\" -> erro de concordância nominal/gênero ('dessa' deveria ser 'desse', referindo-se a 'processo')."
+      "\"estado de natureza\", vive\" -> falta vírgula antes de 'quando' ou ajuste de pontuação.",
+      "\"Tolerar é a o princípio\" -> erro de digitação ('a o').",
+      "\"Simbólica dessa processo\" -> erro de concordância nominal/gênero ('desse processo')."
     ],
     "feedbacks": [
-      "O texto apresenta uma estrutura argumentativa muito bem articulada, partindo de uma fundamentação teórica clássica (Hobbes) para dialogar diretamente com a provocação de Saramago. A progressão das ideias — da necessidade da tolerância como base mínima (convivência), passando pela cooperação até aspirar à solidariedade — demonstra maturidade intelectual e capacidade de síntese histórica e filosófica.",
-      "O uso de exemplos concretos e pertinentes, como as Leis de Nuremberg e a construção da União Europeia, enriquece significativamente a argumentação, mostrando aplicação prática dos conceitos discutidos. A referência final a Hedley Bull adiciona camadas de complexidade às Relações Internacionais, alinhando-se perfeitamente ao perfil esperado pelo CACD.",
-      "Apesar da alta qualidade geral, há pequenos deslizes mecânicos (vírgulas desnecessárias, duplicação de artigos e erro de gênero) que impedem a nota máxima absoluta. Contudo, esses erros são isolados e não comprometem a fluidez ou a compreensão do texto."
+      "O texto apresenta uma estrutura argumentativa muito bem articulada, partindo de uma fundamentação teórica clássica (Hobbes) para dialogar diretamente com a provocação de Saramago. A progressão temática — da necessidade da tolerância como base mínima (convivência), passando pela cooperação até a aspiração à solidariedade — demonstra maturidade intelectual e capacidade de síntese histórica e filosófica.",
+      "Os exemplos históricos (Nazismo/Leis de Nuremberg e UE/FMI) são pertinentes e bem integrados aos argumentos, reforçando a tese central de que a tolerância é condição *sine qua non* para qualquer ordem civilizada, mesmo que insatisfatória sozinha.",
+      "Apesar da alta qualidade conceitual e discursiva, há pequenos deslizes formais que impedem a nota máxima absoluta:",
+      "- Pontuação inadequada na introdução da citação de Hobbes;",
+      "- Erro de digitação evidente ('é a o princípio');",
+      "- Desacordo de gênero ('dessa processo', sendo o correto 'deste processo') e uso de adjetivo no plural onde deveria estar no singular ('nacionalismo intolerantes'应为'nacionalismos intolerantes' ou 'nações intolerantes', dependendo da intenção exata, mas claramente um erro de morfologia)."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1049,18 +1062,15 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 6,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'respeite' deveria ser 'respeitem', pois refere-se aos 'limites'.",
-      "Pontuação/Acentuação: 'pós Segunda Guerra Mundial' carece de hífen ('pós-Segunda').",
-      "Ortografia/Terminologia: 'yazigis' grafia incorreta, o correto é 'ezidis' ou 'yazidis'; 'Quênia' pode levar til, mas a ausência não é erro grave, contudo a falta de vírgula após 'Hungria e Sérvia' cria ambiguidade.",
-      "Regência/Crase: 'à perspectiva' está correto, mas a frase 'com finalidade terroristas' poderia ser mais precisa."
+      "ortografia",
+      "regencia"
     ],
     "feedbacks": [
-      "O texto demonstra domínio conceitual sólido, citando autores relevantes e construindo argumentos complexos. No entanto, a densidade excessiva de ideias em poucos parágrafos comprometeu a fluidez e a clareza expositiva, especialmente na transição abrupta entre exemplos históricos e geopolíticos atuais.",
-      "Os argumentos são pertinentes e bem fundamentados, embora alguns desenvolvimentos fiquem superficiais devido à pressa narrativa. O uso de Hannah Arendt e Kant foi pertinente, mas merecia uma articulação mais clara com a tese central sobre a insuficiência da tolerância.",
-      "Houve tentativa avançada de análise crítica, conectando teoria política e fenômenos contemporâneos. Contudo, a conclusão ficou redundante e não sintetizou adequadamente a proposta de 'aceitação incondicional' mencionada inicialmente, perdendo força retórica no fechamento."
+      "O texto apresenta estrutura clara e introdução bem definida.",
+      "Os exemplos históricos e geográfricos são pertinentes, embora alguns pareçam desconexos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1072,19 +1082,15 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 6,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'respeite' deveria ser 'respeitem'.",
-      "Pontuação/Acentuação: falta hífen em 'pós-Segunda'.",
-      "Ortografia/Terminologia: 'lindes' é arcaico/poético, inadequado ao registro formal.",
-      "Regência/Pontuação: vírgula antes de 'de um lado' desnecessária."
+      "ortografia",
+      "regencia"
     ],
     "feedbacks": [
-      "O texto demonstra domínio conceitual sólido e vocabulário variado, embora ocasionalmente soe excessivamente denso.",
-      "Os exemplos históricos e geopolíticos são pertinentes, mas alguns carecem de conexão mais clara com o argumento central sobre a 'tolerância ativa'.",
-      "Há momentos em que a estrutura sintática compromete ligeiramente a fluidez da leitura.",
-      "As referências filosóficas (Kant, Hobbes, Arendt) enriquecem a análise, mas poderiam ser melhor integradas aos parágrafos seguintes."
+      "O texto apresenta estrutura clara e introdução bem definida.",
+      "Os exemplos históricos e geográfricos são pertinentes, embora alguns pareçam desconexos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1096,18 +1102,15 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 8.0,
-    "nota_1C": 16.0,
-    "numero_de_erros_gramaticais": 4,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 6,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'respeite' deveria ser 'respeitem'.",
-      "Pontuação/Acentuação: falta hífen em 'pós-Segunda'.",
-      "Ortografia/Terminologia: 'lindes' é arcaico/poético, inadequado ao registro formal.",
-      "Regência/Pontuação: vírgula antes de 'de um lado' desnecessária."
+      "ortografia",
+      "regencia"
     ],
     "feedbacks": [
-      "O texto demonstra domínio conceitual sólido e vocabulário variado, embora ocasionalmente soe excessivamente denso.",
-      "Os exemplos históricos e geopolíticos são pertinentes, mas alguns carecem de conexão mais clara com o argumento central sobre tolerância vs. respeito.",
-      "Há momentos em que a estrutura sintática compromete ligeiramente a fluidez, especialmente em períodos longos."
+      "O texto apresenta estrutura clara e introdução bem definida.",
+      "Os exemplos históricos e geográfricos são pertinentes, embora alguns pareçam desconexos."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1122,9 +1125,9 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "A redação apresenta excelente domínio da estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão satisfatória.",
-      "Os argumentos são pertinentes, diversificados e bem fundamentados, abrangendo exemplos históricos e contemporâneos relevantes.",
-      "Há uso sofisticado de referências teóricas (Hannah Arendt, Thomas Hobbes, Immanuel Kant) e literárias (José Saramago), demonstrando ampla cultura geral.",
-      "A correção gramatical é impecável, com vocabulário preciso e adequado ao registro formal exigido pelo CACD."
+      "Os argumentos são pertinentes, diversificados e sustentados por exemplos históricos e contemporâneos relevantes, demonstrando ampla cultura geral e capacidade analítica.",
+      "Há uso sofisticado de referências teóricas (Hannah Arendt, Thomas Hobbes, Immanuel Kant) e literárias (José Saramago), enriquecendo a reflexão.",
+      "A correção gramatical é impecável, com vocabulário preciso, sintaxe complexa e adequada, e pontuação correta."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1139,9 +1142,9 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "A redação apresenta excelente domínio da estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão satisfatória.",
-      "Os argumentos são pertinentes, diversificados e bem fundamentados, abrangendo exemplos históricos e contemporâneos relevantes.",
-      "Há uso sofisticado de referências teóricas (Hannah Arendt, Thomas Hobbes, Immanuel Kant) e literárias (José Saramago), demonstrando ampla cultura geral.",
-      "A correção gramatical é impecável, com vocabulário preciso e adequado ao registro formal exigido pelo CACD."
+      "Os argumentos são pertinentes, diversificados e sustentados por exemplos históricos e contemporâneos relevantes, demonstrando ampla cultura geral e capacidade analítica.",
+      "Há uso sofisticado de referências teóricas (Hannah Arendt, Thomas Hobbes, Immanuel Kant) e literárias (José Saramago), enriquecendo a reflexão.",
+      "A correção gramatical é impecável, com vocabulário preciso, sintaxe complexa e adequada, e pontuação correta."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1156,9 +1159,9 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "A redação apresenta excelente domínio da estrutura dissertativo-argumentativa, com introdução clara, desenvolvimento bem articulado e conclusão satisfatória.",
-      "Os argumentos são pertinentes, diversificados e bem fundamentados, abrangendo exemplos históricos e contemporâneos relevantes.",
-      "Há uso sofisticado de referências teóricas (Hannah Arendt, Thomas Hobbes, Immanuel Kant) e literárias (José Saramago), demonstrando ampla cultura geral.",
-      "A correção gramatical é impecável, com vocabulário preciso e adequado ao nível exigido pelo CACD."
+      "Os argumentos são pertinentes, diversificados e sustentados por exemplos históricos e contemporâneos relevantes, demonstrando ampla cultura geral e capacidade analítica.",
+      "Há uso sofisticado de referências teóricas (Hannah Arendt, Thomas Hobbes, Immanuel Kant) e literárias (José Saramago), enriquecendo a reflexão.",
+      "A correção gramatical é impecável, com vocabulário preciso, sintaxe complexa e adequada, e pontuação correta."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1175,7 +1178,30 @@
       "ortografia/terminologia ('Yazidis' foi grafado como 'yazigis', termo técnico/histórico)",
       "pontuação/comma splice potencial ('...poder. Internamente...', embora correto, poderia ser mais fluido)",
       "regência/preposição ('ao estado de natureza' - falta artigo definido antes de 'Estado')",
-      "vulgarismo/cultura popular ('muros que dividem...' - uso coloquial de 'dividem' vs 'separavam')"
+      "vulgarismo/construção ('há pouco tempo havia apenas 17' - redundância temporal leve)"
+    ],
+    "feedbacks": [
+      "O texto demonstra bom conhecimento histórico e filosófico, citando autores como Arendt, Hobbes e Kant.",
+      "Há uma tentativa clara de articular teoria e prática, usando exemplos concretos (Jim Crow, ISIS, muros).",
+      "Os parágrafos estão bem estruturados, seguindo uma introdução, desenvolvimento e conclusão claros.",
+      "No entanto, algumas construções sintáticas poderiam ser refinadas para evitar ambiguidades ou soar menos natural."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "concordância nominal ('respeita' deveria ser 'respeitados')",
+      "ortografia/terminologia ('Yazidis' foi grafado como 'yazigis', termo técnico/histórico)",
+      "pontuação/comma splice potencial ('...poder. Internamente...', embora correto, poderia ser mais fluido)",
+      "regência/preposição ('ao estado de natureza' - falta artigo definido antes de 'Estado')",
+      "clareza/concisão ('As migrações evidenciam...' - frase um tanto solta, conexão fraca)"
     ],
     "feedbacks": [
       "O texto demonstra bom conhecimento histórico e filosófico, citando autores como Arendt, Hobbes e Kant.",
@@ -1184,30 +1210,6 @@
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordância nominal ('respeita' deveria ser 'respeitados')",
-      "ortografia/terminologia ('yazigis' deveria ser 'ezidis' ou 'yazidis')",
-      "pontuação/comma splice ('...pós Segunda Guerra Mundial'), falta de hífen)",
-      "regência/preposição ('ao estado islâmico', artigo definido antes de nome próprio estrangeiro pode ser questionável dependendo do uso, mas aqui é mais sobre estilo) - Na verdade, vou focar nos claros.",
-      "Uso inadequado de vírgula ou ponto final? Não vejo erro grave."
-    ],
-    "feedbacks": [
-      "O texto apresenta uma tese clara e alinhada ao enunciado, demonstrando bom conhecimento histórico e filosófico (Hannah Arendt, Hobbes, Kant).",
-      "Os exemplos utilizados (Jim Crow, Estado Islâmico, muros fronteiriços) são pertinentes e enriquecem a argumentação.",
-      "No entanto, há falhas de precisão factual e terminológica (ex.: 'yazigis' em vez de 'ezidis/yazidis'; referência imprecisa aos muros Quênia-Somália/Hungria-Sérbia/Jerusalém/México-EUA como exemplo único de 'barreiras físicas' recentes, quando muitos são antigos ou contextuais; a afirmação de que o EI resulta diretamente da invasão de 2003 é uma simplificação excessiva que ignora fatores sectários pré-existentes e a guerra civil síria).",
-      "Erros gramaticais menores comprometem ligeiramente a correção formal (ex.: 'desde que se respeita os limites' -> 'respeitem').",
-      "A conclusão retoma a ideia inicial adequadamente, mas poderia explorar melhor a distinção entre tolerância passiva e cidadania ativa."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
     "versao": 2,
     "essay": 7,
     "ano": "2017"
@@ -1220,14 +1222,13 @@
       "ortografia/terminologia ('Yazidis' foi grafado como 'yazigis', termo técnico/histórico)",
       "pontuação/comma splice potencial ('...poder. Internamente...', embora correto, poderia ser mais fluido)",
       "regência/preposição ('ao estado de natureza' - falta artigo definido antes de 'Estado')",
-      "vírgula desnecessária ou mal colocada ('exemplar disso é a ascensão, e o gradual declínio...' - vírgulas isolando conjunção aditiva)"
+      "vulgarismo/crase ('há pouco tempo havia apenas 17.' -> frase completa, mas 'havia' pode soar informal dependendo do contexto, aqui aceitável)"
     ],
     "feedbacks": [
-      "O texto demonstra bom conhecimento histórico e filosófico, citando Hannah Arendt, Thomas Hobbe e Immanuel Kant.",
-      "Há uma tentativa clara de articular as ideias com exemplos concretos (Jim Crow, EUA, Israel/EI, muros fronteiriços).",
-      "No entanto, algumas passagens apresentam imprecisões históricas ou conceituais que fragilizam a argumentação. O exemplo do EI é problemático pois associa 'tolerância' a um ato terrorista extremo, quando a crítica de Saramago refere-se às sociedades liberais democráticas que 'toleram' minorias sem integrá-las plenamente. Isso gera uma certa contradição interna na tese.",
-      "Os exemplos de muros fronteiriços são pertinentes, mas a conexão direta com a definição de Saramago precisa ser mais apurada.",
-      "Erros gramaticais menores (como 'respeita' no lugar de 'respetidos') indicam necessidade de revisão fina."
+      "O texto apresenta uma tese clara e alinhada ao enunciado, demonstrando bom conhecimento histórico e filosófico.",
+      "Os exemplos utilizados (Jim Crow, EUA, Israel/EI, Muros) são pertinentes e enriquecem a argumentação.",
+      "Há pequenos lapsos gramaticais (concordância, terminologia específica) que impedem a classificação 'Ótimo'.",
+      "A conclusão retoma a ideia inicial de forma satisfatória."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1239,61 +1240,66 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "Um dos mecanismos para lidar com as diferenças é tolerância",
-      "Partindo de ideais kantianos...",
-      "religiões, e não com"
-    ],
-    "feedbacks": [
-      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
-      "Argumentos pertinentes e bem fundamentados, embora alguns exemplos históricos possam ser questionáveis.",
-      "Análise profunda e reflexiva, conectando teoria e prática de forma eficaz."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "Um dos mecanismos para lidar com as diferenças é tolerância",
-      "Partindo de ideais kantianos...",
-      "religiões, e não com"
-    ],
-    "feedbacks": [
-      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
-      "Argumentos pertinentes e bem fundamentados, com exemplos históricos e conceituais relevantes.",
-      "Análise profunda e crítica, demonstrando capacidade de reflexão filosófica e sociológica."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 8.5,
-    "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "Falta de crase antes de 'tolerância' ('Um dos mecanismos... é tolerância').",
       "Erro de digitação/ortográfico: 'Mangabeira Unger,' seguido de vírgula e início de nova frase sem ponto final anterior.",
-      "Uso inadequado de hífen/travessão? Não identificado erro grave aqui, mas a estrutura 'Partindo de...' poderia ser melhor conectada."
+      "Uso inadequado de hífen/travessão? Não identificado claramente, mas a estrutura 'Partindo de...' poderia ter sido melhor articulada.",
+      "Possível erro de regência/concordância sutil em 'medidas imperialistas tendem a predominar em relação à diplomacia.'"
     ],
     "feedbacks": [
       "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
-      "Argumentos pertinentes e bem fundamentados, com exemplos históricos e sociais relevantes.",
-      "Análise profunda do conceito de tolerância versus aceitação/respeito, abordando múltiplas dimensões (interpessoal, estatal, religiosa)."
+      "Argumentos pertinentes e bem fundamentados, utilizando exemplos históricos e filosóficos relevantes.",
+      "Análise crítica profunda, conectando teoria e prática, pessoal e internacional.",
+      "Pequenos lapsos gramaticais não comprometem significativamente a clareza ou a qualidade do texto."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de crase antes de 'tolerância' ('Um dos mecanismos... é tolerância').",
+      "Erro de digitação/ortográfico: 'Mangabeira Unger,' seguido de vírgula e início de nova frase sem ponto final anterior.",
+      "Uso inadequado de hífen/travessão? Não identificado claramente, mas a estrutura 'Partindo de...' poderia ter sido melhor articulada.",
+      "Possível erro de regência/concordância sutil em 'medidas imperialistas tendem a predominar em relação à diplomacia.'"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentos pertinentes e bem fundamentados, utilizando exemplos históricos e conceituais adequados.",
+      "Análise crítica profunda, conectando teoria e prática, com bom domínio do vocabulário acadêmico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de crase antes de 'tolerância' ('Um dos mecanismos... é tolerância').",
+      "Erro de digitação/ortográfico: 'Mangabeira Unger,' seguido de vírgula e início de nova frase sem ponto final anterior.",
+      "Uso inadequado de hífen/travessão? Não identificado claramente, mas a estrutura 'Partindo de...' poderia ter sido melhor articulada.",
+      "Possível erro de regência/concordância sutil em 'medidas imperialistas tendem a predominar em relação à diplomacia.'"
+    ],
+    "feedbacks": [
+      "Texto bem estruturado, com introdução clara, desenvolvimento organizado e conclusão coesa.",
+      "Argumentos pertinentes e bem fundamentados, utilizando exemplos históricos e filosóficos relevantes.",
+      "Análise crítica profunda, conectando teoria e prática, pessoal e político.",
+      "Pequenos lapsos gramaticais não comprometem significativamente a clareza ou a qualidade do texto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1311,9 +1317,9 @@
       "...Partindo de ideais kantianos..."
     ],
     "feedbacks": [
-      "Erro grave de concordância/regência ('é tolerância').",
-      "Ponto final faltante após nome próprio.",
-      "Uso correto de vírgulas e estrutura sintática geralmente adequada."
+      "Texto bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e políticos, e conclusão coesa.",
+      "Argumentos sólidos e alinhados ao enunciado, demonstrando domínio conceitual e capacidade crítica.",
+      "Pequenos deslizes gramaticais presentes, mas sem comprometer significativamente a fluidez ou a correção geral."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1331,9 +1337,9 @@
       "...Partindo de ideais kantianos..."
     ],
     "feedbacks": [
-      "Erro grave de concordância/regência ('é tolerância').",
-      "Ponto final faltante após nome próprio.",
-      "Uso correto de vírgulas e estrutura sintática geralmente adequada."
+      "Texto bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e políticos, e conclusão coesa.",
+      "Argumentos sólidos e alinhados ao enunciado, demonstrando domínio conceitual e capacidade crítica.",
+      "Pequenos deslizes gramaticais presentes, mas sem comprometer significativamente a fluidez ou a correção geral."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1351,14 +1357,45 @@
       "...Partindo de ideais kantianos..."
     ],
     "feedbacks": [
-      "Erro grave de concordância/regência ('é tolerância').",
-      "Ponto final faltante após nome próprio.",
-      "Uso correto de vírgulas e estrutura sintática geralmente adequada."
+      "Texto bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e conceituais, e conclusão coesa.",
+      "Argumentos sólidos e alinhados ao enunciado, demonstrando domínio do tema e capacidade crítica.",
+      "Pequenos deslizes gramaticais presentes, mas sem comprometer significativamente a fluidez ou a correção geral."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto articula de forma magistral a crítica saramaguiana à tolerância, distinguindo-a claramente de respeito e aceitação.",
+      "Uso exemplar de exemplos históricos concretos (Estado Novo, Segunda Guerra) para sustentar a tese central."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Texto articula de forma magistral a crítica saramaguiana à tolerância, diferenciando-a claramente de respeito e aceitação plena.",
+      "Uso exemplar de exemplos históricos concretos (Estado Novo, racismo estrutural) e geopolíticos (EUA/Oriente Médio, Apaziguamento pré-Segunda Guerra), demonstrando amplitude temática e rigor histórico.",
+      "Linguagem precisa, acadêmica e fluida, com excelente controle sintático e vocabulário rico."
+    ],
+    "modelo": "Qwen3.6-35B-A3B",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
     "essay": 8,
     "ano": "2017"
   },
@@ -1373,36 +1410,6 @@
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
     "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "Texto articula de forma magistral a crítica saramaguiana à tolerância, distinguindo-a claramente de respeito e aceitação.",
-      "Uso exemplar de exemplos históricos concretos (Estado Novo, Segunda Guerra) para sustentar a tese central."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "Texto articula de forma magistral a crítica saramaguiana à tolerância, distinguindo-a claramente de respeito e aceitação.",
-      "Uso exemplar de exemplos históricos concretos (Estado Novo, Segunda Guerra) para sustentar a tese central."
-    ],
-    "modelo": "Qwen3.6-35B-A3B",
-    "prompt": 9,
-    "temp": 0.0,
     "versao": 3,
     "essay": 8,
     "ano": "2017"
@@ -1410,16 +1417,19 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'mais sujeita' deveria ser 'mais sujeitas', referindo-se às formas de intolerância.",
-      "Uso inadequado de pronome relativo/conjunção: 'razão pela qual há certo exagero...' poderia ser melhor estruturado, mas é passível de defesa estilística; entanto, 'haver' impessoal exige cuidado, aqui usado corretamente, mas a estrutura ficou pesada."
+      "Concordância nominal/verbal: 'sociedade' deveria estar no plural ('desenvolver sociedades')",
+      "Regência/Crase: 'combate a injustiças' deveria ter crase ('combate às injustiças'), pois 'injustiças' é substantivo feminino plural precedido de artigo definido implícito/explícito.",
+      "Pontuação/Virgulação: 'razão pela qual há...' - a vírgula antes de 'razão' é opcional, mas a estrutura está correta; No entanto, 'José Saramago apresenta...' poderia ter sido melhor articulado com o parágrafo anterior.",
+      "Ortografia/Uso de hífen/travessão: Não houve erro grave, mas 'mais sujeita... à condenação' está correto."
     ],
     "feedbacks": [
-      "O texto demonstra domínio conceitual sólido, articulando bem a crítica saragiana com a história intelectual (Iluminismo, Bobbio, Kant).",
-      "Houve leve repetição de ideias nos parágrafos finais, o que afetou levemente a economia linguística.",
-      "Os exemplos concretos (Oriente Médio, racismo no Brasil) foram pertinentes, embora pudessem ter sido integrados com mais profundidade analítica aos conceitos teóricos."
+      "O texto demonstra domínio conceitual sólido, articulando bem a crítica de Saramago com conceitos filosóficos e históricos (Iluminismo, Bobbio, Kant, Laraia).",
+      "Houve leve repetição de ideias nos últimos parágrafos, especialmente na conclusão, onde a tese principal é reafirmada sem acrescentar novos elementos analíticos significativos.",
+      "Os exemplos concretos (Oriente Médio, Brasil, Europa) foram pertinentes, embora pudessem ter sido explorados com maior profundidade causal.",
+      "A referência a *Ensaio sobre a Cegueira* foi interessante, mas careceu de conexão mais direta com o argumento central sobre tolerância vs. aceitação."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1431,18 +1441,18 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'mais sujeita' deveria ser 'mais sujeitas', referindo-se às formas de intolerância.",
-      "Regência/Crase: 'combate a injustiças' deveria ser 'combate às injustiças'.",
-      "Pontuação/Virgulação: 'razão pela qual há certo exagero...' - uso inadequado de vírgula antes de 'quando' em oração subordinada adverbial temporal."
+      "Concordância nominal/verbal: 'sociedade' deveria estar no plural ('desenvolver sociedades')",
+      "Regência verbal/preposição: 'busca da igualdade' soa artificial; o ideal seria 'busca de igualdade'",
+      "Uso inadequado de vírgula antes de oração subordinada adverbial reduzida: 'Nesse sentido, Saramago tem razão, quando...' -> Vírgula indevida separando sujeito e predicado/oração principal",
+      "Possível erro de digitação/repetição: 'igualdade  nesta,' (dois espaços)"
     ],
     "feedbacks": [
-      "O texto demonstra domínio conceitual sólido, articulando bem a crítica de Saramago com conceitos filosóficos e históricos. No entanto, a estrutura poderia ser mais fluida, evitando repetições excessivas de ideias centrais nos parágrafos finais.",
-      "Os argumentos são pertinentes e bem sustentados, embora algumas conexões lógicas possam ser aprimoradas para evitar pequenas contradições aparentes.",
-      "Houve uma tentativa interessante de dialogar com autores como Bobbio e Kant, mas a aplicação desses referenciais poderia ter sido mais profunda e integrada à tese central.",
-      "Apresentei três erros gramaticais específicos. Recomendo atenção especial à crase e à concordância nominal/plural, pois esses são deslizes frequentes mesmo em textos bem elaborados."
+      "O texto demonstra domínio conceitual sólido, articulando bem a crítica de Saramago com conceitos históricos e sociológicos.",
+      "Houve uso pertinente de autores como Bobbio, Kant e Laraia, enriquecendo a argumentação.",
+      "A estrutura segue um caminho lógico claro: introdução, desenvolvimento histórico/filosófico, contraponto atual e conclusão equilibrada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1454,17 +1464,19 @@
   {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Concordância nominal/verbal: 'mais sujeita' deveria ser 'mais sujeitas', referindo-se às formas de intolerância.",
-      "Uso inadequado de pronome relativo/conjunção: 'razão pela qual há certo exagero...' poderia ser melhor estruturado, mas é aceitável; no entanto, 'quando populações... ainda se confrontam' falta vírgula antes de 'quando'.",
-      "Regência/Virgulação: 'Saramago tem razão, quando afirma...' - a vírgula após 'razão' é indevida."
+      "Concordância nominal/verbal: 'sociedade' deveria estar no plural ('desenvolver sociedades')",
+      "Regência/Crase: 'combate a injustiças' deveria ter crase ('combate às injustiças'), pois 'injustiças' é substantivo feminino plural determinando o verbo transitivo direto 'combater'",
+      "Pontuação/Virgulação: 'razão pela qual há...' - a vírgula antes de 'razão' é opcível, mas a estrutura está correta; No entanto, 'José Saramago apresenta...' poderia ter sido melhor articulado.",
+      "Uso inadequado de termo técnico/conceitual: 'transigência' usada como sinônimo de tolerância sem distinção clara."
     ],
     "feedbacks": [
-      "O texto demonstra domínio conceitual sólido, articulando bem a crítica saragiana com exemplos históricos e contemporâneos. No entanto, a conclusão repete excessivamente ideias já desenvolvidas, reduzindo o impacto retórico final.",
-      "Houve pequena falha de coesão sequencial nos parágrafos finais, onde o raciocínio oscila entre reafirmar a tese inicial e introduzir novos elementos sem síntese clara.",
-      "Os exemplos citados (Oriente Médio, Brasil, Iluminismo) são pertinentes, mas poderiam ter sido integrados de forma mais orgânica aos argumentos teóricos, evitando listas descritivas."
+      "O texto demonstra domínio conceitual sólido, articulando bem a crítica de Saramago com conceitos filosóficos e históricos. A progressão temática é lógica e coesa.",
+      "Os argumentos são pertinentes e bem estruturados, embora algumas passagens possam ser consideradas redundantes ou excessivamente descritivas.",
+      "Há uma tentativa interessante de conectar a literatura de Saramago com a tese central, mas a conexão poderia ser mais profunda e direta.",
+      "Erros gramaticais são mínimos e não comprometem significativamente a compreensão do texto."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1481,8 +1493,9 @@
       "Embora a tolerância não seja suficiente..."
     ],
     "feedbacks": [
-      "Erro de regência verbal ('pressupor' exige 'de').",
-      "Uso inadequado de 'embora' seguido de subjuntivo."
+      "O texto demonstra excelente domínio da estrutura dissertativo-argumentativa, apresentando introdução clara, desenvolvimento bem articulado e conclusão sólida.",
+      "Há uso consistente de referências teóricas (Bobbio, Kant, Laraia) e exemplos históricos concretos, enriquecendo a análise temática.",
+      "Os conectivos estão empregados de maneira eficaz, garantindo coesão textual e progressão lógica das ideias."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1499,8 +1512,10 @@
       "Embora a tolerância não seja suficiente..."
     ],
     "feedbacks": [
-      "Erro de concordância verbal.",
-      "Uso inadequado de 'embora' seguido de subjuntivo."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e sociológicos, e conclusão sólida.",
+      "Uso excelente de referências teóricas (Bobbio, Kant, Laraia) e literárias (obra de Saramago), demonstrando ampla cultura geral.",
+      "Linguagem formal, precisa e adequada ao nível exigido pela CACD.",
+      "Pequenos deslizes gramaticis mínimos, como 'pressupunha' (deveria ser 'presumia') e uso de 'embora... sejam', mas nada que comprometa a fluidez."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1517,8 +1532,10 @@
       "Embora a tolerância não seja suficiente..."
     ],
     "feedbacks": [
-      "Erro de regência verbal ('pressupor' exige 'de').",
-      "Uso inadequado de 'embora' seguido de subjuntivo."
+      "Texto muito bem estruturado, com introdução clara, desenvolvimento rico em exemplos históricos e atuais, e conclusão sólida.",
+      "Uso excelente de referências teóricas (Bobbio, Kant, Laraia) e literárias (obra de Saramago), demonstrando ampla cultura geral.",
+      "Linguagem formal, precisa e adequada ao nível exigido pelo CACD.",
+      "Pequenos deslizes gramaticais mínimos, como 'pressupunha' (deveria ser 'presumia') e uso de 'embora... sejam', mas nada que comprometa a fluidez."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1548,9 +1565,9 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra organização clara e progressiva, articulando adequadamente a citação inicial de Saramago com a tese central.",
-      "Há bom uso de referências teóricas (Bob bio, Kant) e exemplos históricos e contemporâneos para sustentar a argumentação.",
-      "Apresenta domínio razoável da norma culta, embora algumas construções possam soar ligeiramente rígidas ou redundantes."
+      "O texto demonstra organização clara e progressiva, apresentando introdução, desenvolvimento histórico-filosófico e conclusão articulada.",
+      "Há bom uso de referências teóricas (Bob bio, Kant, Laraia) e exemplos concretos (conflitos no Oriente Médio, racismo no Brasil), embora algumas conexões possam ser aprimoradas.",
+      "Apresenta domínio sólido da norma culta, com vocabulário preciso e sintaxe adequada."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1565,8 +1582,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto demonstra organização clara e progressiva, articulando adequadamente a citação inicial de Saramago com a tese central.",
-      "Há bom uso de referências teóricas (Bob bio, Kant) e exemplos históricos e contemporâneos para sustentar a argumentação.",
-      "Apresenta domínio razoável da norma culta, embora algumas construções possam soar ligeiramente rígidas ou redundantes."
+      "Há bom uso de referências teóricas (Iluminismo, Bobbio, Kant) e exemplos concretos (conflitos religiosos, racismo), embora algumas conexões possam ser refinadas.",
+      "Apresenta domínio sólido da norma culta, com vocabulário preciso e estruturas sintáticas variadas."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1576,18 +1593,17 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 7.5,
-    "nota_1C": 13.0,
+    "nota_1A": 7.0,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "concordância nominal/verbal",
-      "regência verbal"
+      "ortografia"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e progressiva, embora algumas conexões possam ser aprimoradas.",
-      "Os argumentos são pertinentes e bem fundamentados historicamente, mas carecem de maior profundidade teórica sobre 'tolerância'.",
-      "Há uma tentativa interessante de ligar liberalismo, colonialismo e contemporaneidade, mas a conclusão fica genérica."
+      "O texto apresenta estrutura clara, com introdução, desenvolvimento histórico-político e conclusão. No entanto, há momentos em que a progressão temática fica fragmentada, especialmente na passagem abrupta para o pós-Segunda Guerra Mundial sem conexão lógica explícita.",
+      "Os argumentos são pertinentes e bem fundamentados historicamente, embora haja certa repetição conceitual sobre 'tolerância' vs. 'superioridade'. O uso de exemplos históricos (Liga das Nações, descolonização, EUA/Iraque) demonstra conhecimento factual sólido."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1597,18 +1613,17 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 7.5,
-    "nota_1C": 13.0,
+    "nota_1A": 7.0,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "concordância nominal/verbal",
-      "regência verbal"
+      "ortografia"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e progressiva, embora algumas conexões possam ser aprimoradas.",
-      "Os argumentos são pertinentes e bem fundamentados historicamente, mas carecem de maior profundidade teórica sobre 'tolerância'.",
-      "Há uma tentativa interessante de ligar liberalismo, colonialismo e contemporaneidade, mas a conclusão fica genérica."
+      "O texto apresenta estrutura clara, com introdução, desenvolvimento histórico-político e conclusão. No entanto, há momentos em que a progressão temática fica fragmentada, especialmente na passagem abrupta para o pós-Segunda Guerra Mundial sem conexão lógica explícita.",
+      "Os argumentos são pertinentes e bem fundamentados historicamente, embora haja certa repetição conceitual sobre 'tolerância' vs. 'superioridade'. O uso de exemplos históricos (Liga das Nações, descolonização, EUA/Iraque) demonstra conhecimento factual sólido."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1618,18 +1633,18 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 8.5,
-    "nota_1B": 7.5,
-    "nota_1C": 13.0,
+    "nota_1A": 7.0,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
       "concordância nominal/verbal",
-      "regência verbal"
+      "ortografia"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e progressiva, embora algumas conexões possam ser aprimoradas.",
-      "Os argumentos são pertinentes e bem fundamentados historicamente, mas carecem de maior foco no conceito filosófico de tolerância.",
-      "Há uma tentativa interessante de relacionar tolerância com desigualdades estruturais, mas a conexão direta com a citação de Saramago poderia ser mais explícita."
+      "O texto apresenta estrutura clara, com introdução, desenvolvimento histórico-político e conclusão. No entanto, há momentos em que a progressão temática fica fragmentada, especialmente na passagem abrupta para o pós-guerra fria sem conexão explícita.",
+      "Os argumentos são pertinentes e bem fundamentados historicamente, embora haja certa repetição conceitual sobre 'tolerância' vs. 'superioridade'. O uso de exemplos históricos é adequado, mas carece de maior articulação teórica direta com a citação de Saramago.",
+      "Há tentativa de análise crítica profunda, relacionando tolerância com hegemonia estatal. Contudo, a reflexão poderia ser mais sistemática, integrando melhor as diferentes escalas (pessoal, religiosa, interestatal) exigidas pelo enunciado."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 7,
@@ -1663,7 +1678,7 @@
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "descrença nos ideias -> descrença nas ideias",
-      "permite mitigações -> permitem mitigações / permita mitigar",
+      "permite mitigações -> permitem mitigações / permita mitigações",
       "conveniência acerca de seu emprego -> conveniência de seu emprego / uso de sua aplicação"
     ],
     "feedbacks": [
@@ -1683,13 +1698,13 @@
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "descrença nos ideias -> descrença nas ideias",
-      "permite mitigações -> permitem mitigações / permita mitigar",
+      "permite mitigações -> permitem mitigações / permita mitigações",
       "conveniência acerca de seu emprego -> conveniência de seu emprego / uso de sua aplicação"
     ],
     "feedbacks": [
-      "O texto apresenta estrutura clara e bem articulada, com introdução, desenvolvimento histórico e conclusão.",
-      "Os exemplos históricos são pertinentes e bem explorados, reforçando a tese central.",
-      "Houve alguns pequenos deslizes gramaticais, mas nada que comprometa seriamente a compreensão."
+      "Atenção aos pronomes relativos e às preposições.",
+      "Concordância verbal.",
+      "Precisão vocabular."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 8,
@@ -1706,8 +1721,7 @@
     ],
     "feedbacks": [
       "O texto apresenta uma estrutura clara e organizada, dividindo-se em introdução, desenvolvimento histórico e conclusão.",
-      "Há bom uso de conectivos e articuladores discursivos ('Nesse sentido', 'Sem embargo', 'Assim', 'Apesar de', 'Para os Estados').",
-      "Os exemplos históricos utilizados são pertinentes e contribuem para a argumentação."
+      "Há uma tentativa interessante de articular a questão filosófica da tolerância com exemplos históricos concretos (Conferência de Haia, Liga das Nações, descolonização, pós-Guerra Fria/11/Setembro), embora algumas conexões pareçam forçadas ou superficiais."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,
@@ -1724,7 +1738,7 @@
     ],
     "feedbacks": [
       "O texto apresenta uma estrutura clara e organizada, dividindo-se em introdução, desenvolvimento histórico e conclusão.",
-      "Há bom uso de conectivos e articuladores discursivos ('Nesse sentido', 'Sem embargo', 'Assim', 'Apesar de', 'Para os Estados').",
+      "Há uso adequado de conectivos e articuladores discursivos ('Nesse sentido', 'Sem embargo', 'Assim', 'Apesar de', 'Para os Estados').",
       "Os exemplos históricos utilizados são pertinentes e contribuem para a argumentação."
     ],
     "modelo": "Qwen3.6-35B-A3B",
@@ -1742,7 +1756,8 @@
     ],
     "feedbacks": [
       "O texto apresenta uma estrutura clara e organizada, dividindo-se em introdução, desenvolvimento histórico e conclusão.",
-      "Há uma tentativa interessante de articular a questão filosófica da tolerância com exemplos históricos concretos (Conferência de Haia, Liga das Nações, descolonização, pós-Guerra Fria/11 de Setembro), embora algumas conexões pareçam forçadas ou superficiais."
+      "Há bom uso de conectivos e articuladores discursivos ('Nesse sentido', 'Sem embargo', 'Assim', 'Apesar de', 'Para os Estados').",
+      "Os exemplos históricos utilizados são pertinentes e contribuem para a argumentação."
     ],
     "modelo": "Qwen3.6-35B-A3B",
     "prompt": 9,

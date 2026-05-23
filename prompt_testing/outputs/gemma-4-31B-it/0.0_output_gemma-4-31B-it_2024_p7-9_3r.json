@@ -1,0 +1,685 @@
+[
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso inadequado de 'Ademais de' (no início do penúltimo parágrafo), onde o correto seria 'Além de'.",
+      "Repetição excessiva de termos e frases inteiras entre o primeiro e o terceiro parágrafos ('Atualmente, o Brasil e o mundo estão comprometidos...'), configurando redundância estrutural."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso inadequado de 'Ademais de' (no início do penúltimo parágrafo), onde o correto seria 'Além de'.",
+      "Repetição excessiva de termos e frases inteiras entre o primeiro e o terceiro parágrafos ('Atualmente, o Brasil e o mundo estão comprometidos...'), configurando redundância estrutural."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso inadequado de 'Ademais de' (no início do penúltimo parágrafo), onde o correto seria 'Além de'.",
+      "Repetição excessiva de termos e frases inteiras entre o primeiro e o terceiro parágrafos ('Atualmente, o Brasil e o mundo estão comprometidos...'), configurando redundância estrutural."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram identificados erros gramaticais gritantes que comprometam a nota, embora haja repetições lexicais excessivas."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente aderência ao tema e cumpre integralmente todas as exigências do enunciado: conecta as ideias de José Bonifácio às mudanças climáticas contemporâneas, aborda o desmatamento e detalha a responsabilidade da diplomacia brasileira frente à COP30.",
+      "A organização textual é clara e segue uma progressão lógica, com introdução, desenvolvimento fundamentado e conclusão sintetizadora. O argumento sobre a relação entre a Floresta Amazônica e a produtividade agrícola no Centro-Sul (rios voadores/umidade) foi um ponto alto, demonstrando capacidade de análise técnica aplicada ao tema.",
+      "Do ponto de vista linguístico, o texto domina a norma culta e mantém a formalidade exigida para o CACD. Contudo, observa-se certa redundância vocabular e a repetição de frases inteiras ou estruturas muito similares entre os parágrafos (especialmente a reiteração de que 'Brasil e mundo estão comprometidos com a mitigação...'), o que retira a sofisticação estilística necessária para as faixas superiores ('Excelente' ou 'Excepcional').",
+      "Para evoluir, o candidato poderia ter explorado conceitos teóricos mais densos da diplomacia ambiental ou citado instrumentos específicos de governança climática além do Acordo de Paris, evitando circularidades argumentativas."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente aderência ao comando do enunciado, integrando organicamente a citação de José Bonifácio às discussões contemporâneas sobre crise climática e geopolítica ambiental.",
+      "A organização textual é clara, com introdução, desenvolvimento e conclusão bem delimitados, mantendo a progressão temática e a coesão entre os parágrafos.",
+      "Do ponto de vista argumentativo, o candidato foi feliz ao conectar a visão 'econômica' de Bonifácio (relação between mata/umidade/agricultura) com a realidade atual dos rios voadores e a dependência do agronegócio em relação à Floresta Amazônica, demonstrando capacidade de análise crítica.",
+      "Quanto à dimensão diplomática, o texto aborda corretamente o papel do Brasil frente à COP30, mencionando a liderança pelo exemplo e a busca por financiamentos e transferências tecnológicas, elementos centrais da agenda externa brasileira.",
+      "Em termos de correção gramatical e propriedade da linguagem, o texto é fluido e segue rigorosamente a norma culta, embora utilize algumas repetições lexicais (como o termo 'sustentável') que poderiam ter sido evitadas com o uso de sinônimos para elevar o estilo ao nível 'Excelente'."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram identificados erros gramaticais gritantes que comprometam a nota, embora haja repetições lexicais excessivas."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente aderência ao tema e cumpre integralmente todas as exigências do enunciado: conecta as ideias de José Bonifácio às mudanças climáticas contemporâneas, aborda o desmatamento e detalha a responsabilidade da diplomacia brasileira frente à COP30.",
+      "A organização textual é clara e segue uma progressão lógica, com introdução, desenvolvimento fundamentado e conclusão sintetizadora. O candidato demonstrou boa capacidade de transpor a visão setecentista/oitocentista de Bonifácio para conceitos modernos, como a relação entre a Floresta Amazônica e o regime de chuvas do Centro-Sul (rios voadores), conferindo substância técnica ao argumento.",
+      "Do ponto de vista da linguagem, o texto é correto e formal. Contudo, observa-se certa redundância vocabular e circularidade em alguns trechos (especialmente nas passagens que reiteram que 'as ideias de Bonifácio continuam atuais' e que 'Brasil e mundo estão comprometidos'), o que impede a classificação como Excelente ou Excepcional, pois falta ao texto a sofisticação estilística e a concisão esperadas para os níveis mais altos do CACD.",
+      "A argumentação é pertinente e segura, demonstrando domínio do contexto geopolítico e ambiental."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "'debates políticos-jurídicos' - Embora aceitável em contextos informais, a norma culta prefere 'político-jurídicos', onde apenas o último elemento flexiona no plural."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "'debates políticos-jurídicos': Embora aceitável em contextos informais, a norma culta prefere 'político-jurídicos', onde apenas o último elemento flexiona no plural."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "'debates políticos-jurídicos' - Embora aceitável em contextos informais, a norma culta prefere 'político-jurídicos', onde apenas o último elemento flexiona no plural."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 64.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 64.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 64.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros significativos de norma culta."
+    ],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O texto apresenta uma estrutura exemplar, com introdução, desenvolvimento e conclusão bem delimitados. O candidato conseguiu integrar organicamente o pensamento de José Bonifácio aos dilemas contemporâneos, evitando que a citação fosse meramente ilustrativa. Houve uma progressão lógica clara: partiu-se da análise teórica/histórica para a materialização dos danos (desertificação) e a consequência social (migrações climáticas), culminando na dimensão diplomática e institucional (COP30).",
+      "**Capacidade Argumentativa:** A argumentação é robusta e demonstra maturidade. O autor conecta corretamente a 'esterilidade' mencionada por Bonifácio ao conceito moderno de desertificação e relaciona a 'ausência de gente' ao fenômeno dos refugiados climáticos, demonstrando alta capacidade de síntese e abstração. Além disso, abordou a responsabilidade da diplomacia brasileira não apenas como anfitriã da COP30, mas através do conceito de 'liderança pelo exemplo', citando a matriz energética e as metas do Acordo de Paris.",
+      "**Linguagem e Gramática:** O domínio da norma culta é evidente. O vocabulário é preciso, rico e adequado ao cargo pretendido (utilizando termos como 'quadra histórica', 'hodierno', 'tempestivas'), mantendo a formalidade exigida sem cair no rebuscamento excessivo ou artificial."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros significativos de norma culta."
+    ],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O texto apresenta uma estrutura exemplar, com introdução, desenvolvimento e conclusão bem delimitados. O candidato conseguiu integrar organicamente o pensamento de José Bonifácio aos dilemas contemporâneos, evitando que a citação fosse meramente ilustrativa. Houve uma progressão lógica clara: partiu-se da análise teórica/histórica para a materialização dos danos (desertificação) e a consequência social (migrações climáticas), culminando na dimensão diplomática e institucional (COP30).",
+      "**Capacidade Argumentativa:** A argumentação é robusta e demonstra maturidade. O autor conecta corretamente a 'ausência de gente' mencionada por Bonifácio ao conceito moderno de refugiados climáticos, demonstrando alta capacidade de síntese e atualização temática. Além disso, abordou a responsabilidade diferenciada das economias avançadas, ponto crucial em discussões de governança climática global.",
+      "**Propriedade da Linguagem:** O vocabulário é preciso, rico e adequado ao cargo pretendido (Diplomata). Utiliza conectivos de forma eficiente ('Haja vista', 'Consoante', 'Nesse panorama'), garantindo a fluidez do texto. A norma culta foi rigorosamente observada, mantendo a formalidade exigida pelo CACD."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros significativos de norma culta."
+    ],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O texto apresenta uma estrutura exemplar, com introdução, desenvolvimento e conclusão bem delimitados. O candidato conseguiu integrar organicamente o pensamento de José Bonifácio aos dilemas contemporâneos, evitando que a citação fosse meramente ilustrativa. Houve uma progressão lógica clara: partiu-se da análise teórica/histórica para a materialização geográfica (desertificação) e social (migrantes climáticos), culminando na dimensão diplomática exigida pelo enunciado.",
+      "**Capacidade Argumentativa:** A argumentação é robusta e demonstra maturidade. O autor conecta corretamente a 'esterilidade' mencionada por Bonifácio ao conceito moderno de desertificação e relaciona a 'ausência de gente' ao fenômeno dos refugiados climáticos, demonstrando alta capacidade de síntese e abstração. Além disso, abordou a COP30 não apenas como um evento, mas como ferramenta estratégica de liderança e captação de recursos.",
+      "**Linguagem e Gramática:** O domínio da norma padrão é consistente. O vocabulário é preciso e adequado ao cargo (utilizando termos como 'quadra histórica', 'mitigação', 'tempestivas'), mantendo a formalidade necessária sem cair no rebuscamento excessivo. A coesão textual é garantida por conectivos bem empregados, conferindo fluidez à leitura."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.5,
+    "nota_1C": 24.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ausência de vírgula após 'Organização do Tratado para a Cooperação Amazônica (OTCA)' para fechar a oração intercalada/aposto antes de '[1]'",
+      "Espaçamento duplo inadequado entre 'combustíveis' e 'fósseis'"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.5,
+    "nota_1C": 24.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ausência de vírgula após 'Organização do Tratado para a Cooperação Amazônica (OTCA)' para fechar a oração intercalada/aposto antes de '[1]'",
+      "Espaçamento duplo inadequado entre 'combustíveis' e 'fósseis'"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.5,
+    "nota_1C": 24.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ausência de vírgula após 'Organização do Tratado para a Cooperação Amazônica (OTCA)' para fechar a oração intercalada/aposto antes de '[1]'",
+      "Espaçamento duplo inadequado entre 'combustíveis' e 'fósseis'"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 66.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 66.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 66.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível de sofisticação analítica e estilística raramente encontrado, plenamente compatível com as expectativas de excelência do CACD.",
+      "Quanto à organização e desenvolvimento do tema, o candidato demonstra total domínio do comando da questão. Ele não apenas relaciona as ideias de José Bonifácio à atualidade, mas integra essas referências a um arcabouço teórico robusto (citando Bertha Becker, Ailton Krenak e Rudyard Kipling), conectando a história do Brasil, a geopolítica ambiental e a atuação da diplomacia brasileira.",
+      "A argumentação é densa e fluida, transitando com naturalidade entre a análise histórica (desde Caminha e Léry), a crítica ao eurocentrismo/imperialismo ('fardo do homem branco') e a aplicação técnica de conceitos do Direito Internacional Ambiental, como o princípio das 'responsabilidades comuns, porém diferenciadas'.",
+      "No tocante à correção gramatical e propriedade da linguagem, o texto é impecável. O vocabulário é rico, preciso e adequado ao registro formal exigido para a carreira diplomática, com excelente emprego de conectivos e estruturas sintáticas complexas e bem resolvidas."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 21.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "...quando se verifica os processos..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 21.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "...quando se verifica os processos..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 21.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "...quando se verifica os processos..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 62.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 62.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 62.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...quando se verifica os processos de arenização..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...quando se verifica os processos de arenização..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...quando se verifica os processos de arenização..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 23.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Falta de vírgula isolando o adjunto adverbial deslocado 'em coordenação com o Itamaraty' (está faltando a vírgula após 'Itamaraty' para fechar a intercalação iniciada antes de 'conduzidos')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 23.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Falta de vírgula isolando o adjunto adverbial deslocado 'em coordenação com o Itamaraty' (está faltando a vírgula após 'Itamaraty' para fechar a intercalação iniciada antes de 'em coordenação')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 23.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Falta de vírgula isolando o adjunto adverbial deslocado 'em coordenação com o Itamaraty' (está faltando a vírgula após 'Itamaraty' para fechar a intercalação iniciada antes de 'conduzidos')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 64.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 64.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 64.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros significativos de norma culta."
+    ],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O texto apresenta uma estrutura exemplar, com introdução, desenvolvimento e conclusão organicamente ligados. O candidato conseguiu integrar perfeitamente a citação histórica de José Bonifácio às discussões contemporâneas de geopolítica ambiental. Houve precisão técnica ao mencionar conceitos como 'evapotranspiração', 'NDCs' e instrumentos específicos como o 'PPCDAm'. A transição entre a análise ecológica e a responsabilidade diplomática foi fluida, culminando em uma discussão pertinente sobre a COP30 e a questão do financiamento climático (os US$ 100 bilhões), demonstrando maturidade argumentativa e conhecimento da agenda internacional.",
+      "**Linguagem e Gramática:** O domínio da norma padrão é sólido. O vocabulário é preciso, formal e adequado ao cargo de diplomata, utilizando conectivos de forma eficaz para manter a coesão textual. A sintaxe é clara e elegante, sem vícios de repetição ou ambiguidades."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura primorosa, com introdução, desenvolvimento e conclusão organicamente ligados. O candidato demonstrou alta capacidade de síntese ao conectar as premonições de José Bonifácio às dinâmicas contemporâneas de mudança climática.",
+      "Houve total atendimento ao comando do enunciado: a relação entre o pensamento do 'Patriarca' e a realidade atual foi estabelecida, a dimensão técnica do desmatamento (evapotranspiração, aquíferos) foi abordada com precisão e a responsabilidade da diplomacia brasileira — culminando na COP30 — foi centralizada na argumentação.",
+      "Do ponto de vista formal, a linguagem é sóbria, precisa e adequada ao padrão exigido para o CACD. O vocabulário é rico e a progressão textual é fluida, utilizando conectivos de forma eficaz para sustentar a tese de que a conservação ambiental é, simultaneamente, um imperativo ético e um interesse estratégico do Estado brasileiro."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura exemplar, com introdução, desenvolvimento e conclusão organicamente ligados. O candidato demonstrou alta capacidade de síntese ao conectar as premonições de José Bonifácio às dinâmicas contemporâneas de mudança climática.",
+      "Do ponto de vista temático, houve total aderência ao enunciado. O autor transitou com precisão entre a análise histórica/filosófica do texto-base, a realidade técnica dos biomas (evapotranspiração, aquíferos) e a dimensão diplomática (Acordo de Paris, NDC, Fundo Amazônia, COP30).",
+      "A argumentação é robusta e fundamentada em conceitos reais da política externa brasileira e da ciência ambiental, evidenciando maturidade intelectual e domínio do vocabulário técnico exigido para a carreira diplomática.",
+      "Quanto à correção gramatical, o texto é primoroso, com excelente emprego de conectivos, regência correta e pontuação precisa, mantendo a formalidade e a sobriedade adequadas ao certame."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  }
+]

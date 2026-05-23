@@ -2,12 +2,10 @@
   {
     "nota_1A": 8,
     "nota_1B": 9,
-    "nota_1C": 17,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 27,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ","
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -18,12 +16,10 @@
   {
     "nota_1A": 8,
     "nota_1B": 9,
-    "nota_1C": 17,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 27,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ","
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -34,12 +30,10 @@
   {
     "nota_1A": 8,
     "nota_1B": 9,
-    "nota_1C": 17,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1C": 15,
+    "numero_de_erros_gramaticais": 27,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ","
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -48,14 +42,12 @@
     "ano": "2022"
   },
   {
-    "nota_final": 53.4,
+    "nota_final": 57.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Uso t‑​ t</>..."
+      "errata"
     ],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -64,14 +56,12 @@
     "ano": "2022"
   },
   {
-    "nota_final": 53.4,
+    "nota_final": 57.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Uso t‑​ t</>..."
+      "errata"
     ],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -80,14 +70,12 @@
     "ano": "2022"
   },
   {
-    "nota_final": 53.4,
+    "nota_final": 57.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Uso t‑​ t</>..."
+      "errata"
     ],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -97,8 +85,10 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "]"
+    ],
     "feedbacks": [
       ""
     ],
@@ -111,8 +101,10 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "]"
+    ],
     "feedbacks": [
       ""
     ],
@@ -125,8 +117,10 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "]"
+    ],
     "feedbacks": [
       ""
     ],
@@ -138,13 +132,11 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
+    "nota_1A": 7.5,
+    "nota_1B": 8.3,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [
       ","
     ],
@@ -156,13 +148,11 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
+    "nota_1A": 7.5,
+    "nota_1B": 8.3,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [
       ","
     ],
@@ -174,13 +164,11 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
+    "nota_1A": 7.5,
+    "nota_1B": 8.3,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [
       ","
     ],
@@ -237,10 +225,11 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      ""
+      "Uso incorreto da preposição \"por\" em \"para que o direito prevaleça sobre o poder\""
     ],
     "feedbacks": [
-      ""
+      "Mantenha atenção às construções sintáticas corretas.",
+      "Continue desenvolvendo argumentos sólidos e conectados."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -253,10 +242,11 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      ""
+      "Uso incorreto da preposição \"por\" em \"para que o direito prevaleça sobre o poder\""
     ],
     "feedbacks": [
-      ""
+      "Mantenha atenção às construções sintáticas corretas.",
+      "Continue desenvolvendo argumentos sólidos e conectados."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -269,10 +259,11 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      ""
+      "Uso incorreto da preposição \"por\" em \"para que o direito prevaleça sobre o poder\""
     ],
     "feedbacks": [
-      ""
+      "Mantenha atenção às construções sintáticas corretas.",
+      "Continue desenvolvendo argumentos sólidos e conectados."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -282,13 +273,13 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [],
     "feedbacks": [
-      ","
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -298,13 +289,13 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [],
     "feedbacks": [
-      ","
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -314,13 +305,13 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 12,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [],
     "feedbacks": [
-      ","
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -333,11 +324,10 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "..."
+      "faltante",
+      "]"
     ],
-    "feedbacks": [
-      "..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -349,11 +339,10 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "..."
+      "faltante",
+      "]"
     ],
-    "feedbacks": [
-      "..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -365,11 +354,10 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "..."
+      "faltante",
+      "]"
     ],
-    "feedbacks": [
-      "..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -379,14 +367,14 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "conter‑ – “contém"
+      "\n"
     ],
     "feedbacks": [
-      "Texto apresenta organização clara, introduz tese, desenvolve argumentos usando exemplos históricos pertinentes.",
-      "Argumentação bem fundamentada, citando documentos e eventos (ONU, UNIF, etc.)",
-      "Alguns pontos críticos: ..."
+      "Texto apresenta boa organização e desenvolvimento lógico das ideias, conectando argumentos aos trechos citados.",
+      "Aponta apelo …",
+      "..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -397,14 +385,14 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "conter‑ – “contém"
+      "\n"
     ],
     "feedbacks": [
-      "Texto apresenta organização clara, introduz tese, desenvolve argumentos usando exemplos históricos pertinentes.",
-      "Argumentação bem fundamentada, citando documentos e eventos (ONU, UNIF, etc.)",
-      "Alguns pontos críticos: ..."
+      "Texto apresenta boa organização e desenvolvimento lógico das ideias, conectando argumentos aos trechos citados.",
+      "Aponta apelo …",
+      "..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -415,14 +403,14 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "conter‑ – “contém"
+      "\n"
     ],
     "feedbacks": [
-      "Texto apresenta organização clara, introduz tese, desenvolve argumentos usando exemplos históricos pertinentes.",
-      "Argumentação bem fundamentada, citando documentos e eventos (ONU, UNIF, etc.)",
-      "Alguns pontos críticos: ..."
+      "Texto apresenta boa organização e desenvolvimento lógico das ideias, conectando argumentos aos trechos citados.",
+      "Aponta apelo …",
+      "..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -439,13 +427,7 @@
     "erros_gramaticais": [
       ""
     ],
-    "feedbacks": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -461,13 +443,7 @@
     "erros_gramaticais": [
       ""
     ],
-    "feedbacks": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -483,13 +459,7 @@
     "erros_gramaticais": [
       ""
     ],
-    "feedbacks": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -498,13 +468,15 @@
     "ano": "2022"
   },
   {
-    "nota_final": 57.3,
+    "nota_final": 44.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "\"\"",
-      "]"
+      "Es..."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Coherence",
+      "Argumentation etc."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -513,13 +485,15 @@
     "ano": "2022"
   },
   {
-    "nota_final": 57.3,
+    "nota_final": 44.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "\"\"",
-      "]"
+      "Es..."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Coherence",
+      "Argumentation etc."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -528,13 +502,15 @@
     "ano": "2022"
   },
   {
-    "nota_final": 57.3,
+    "nota_final": 44.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "\"\"",
-      "]"
+      "Es..."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Coherence",
+      "Argumentation etc."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -546,10 +522,10 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Escreva ..."
+      "]"
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -562,10 +538,10 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Escreva ..."
+      "]"
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -578,10 +554,10 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Escreva ..."
+      "]"
     ],
     "feedbacks": [
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -594,7 +570,7 @@
     "nota_1A": 8,
     "nota_1B": 7,
     "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
+    "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
       "..."
     ],
@@ -612,7 +588,7 @@
     "nota_1A": 8,
     "nota_1B": 7,
     "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
+    "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
       "..."
     ],
@@ -630,7 +606,7 @@
     "nota_1A": 8,
     "nota_1B": 7,
     "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
+    "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
       "..."
     ],
@@ -648,12 +624,11 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "/\t/",
-      "\\\"\\",
+      "\" ",
       "]"
     ],
     "feedbacks": [
-      "..."
+      "Coherence..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -666,12 +641,11 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "/\t/",
-      "\\\"\\",
+      "\" ",
       "]"
     ],
     "feedbacks": [
-      "..."
+      "Coherence..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -684,12 +658,11 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "/\t/",
-      "\\\"\\",
+      "\" ",
       "]"
     ],
     "feedbacks": [
-      "..."
+      "Coherence..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
@@ -699,13 +672,15 @@
     "ano": "2022"
   },
   {
-    "faixa": "Bom",
+    "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      ","
+      "concordancia verbal incorreta \"para o psych​",
+      "acento/ortografia faltante"
     ],
     "feedbacks": [
-      "..."
+      "Coerência e organização textual demonstram bom controle.",
+      "Argumentação clara, embora às vezes preditiva."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -715,13 +690,15 @@
     "ano": "2022"
   },
   {
-    "faixa": "Bom",
+    "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      ","
+      "concordancia verbal incorreta \"para o psych​",
+      "acento/ortografia faltante"
     ],
     "feedbacks": [
-      "..."
+      "Coerência e organização textual demonstram bom controle.",
+      "Argumentação clara, embora às vezes preditiva."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -731,13 +708,15 @@
     "ano": "2022"
   },
   {
-    "faixa": "Bom",
+    "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      ","
+      "concordancia verbal incorreta \"para o psych​",
+      "acento/ortografia faltante"
     ],
     "feedbacks": [
-      "..."
+      "Coerência e organização textual demonstram bom controle.",
+      "Argumentação clara, embora às vezes preditiva."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -747,10 +726,10 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "..."
     ],
@@ -763,10 +742,10 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "..."
     ],
@@ -779,10 +758,10 @@
     "ano": "2022"
   },
   {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 22,
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 14,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "..."
     ],
@@ -796,12 +775,13 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
-      "contribuïi",
       "..."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "..."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -811,12 +791,13 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
-      "contribuïi",
       "..."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "..."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -826,12 +807,13 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
-      "contribuïi",
       "..."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "..."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -844,8 +826,7 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "Texto apresenta boa organização textual, com introdução clara, desenvolvimento sequencial e conclusão que retoma argumentos principais.",
-      "Argumentação de ‑ “​"
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -859,8 +840,7 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "Texto apresenta boa organização textual, com introdução clara, desenvolvimento sequencial e conclusão que retoma argumentos principais.",
-      "Argumentação de ‑ “​"
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -874,8 +854,7 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "Texto apresenta boa organização textual, com introdução clara, desenvolvimento sequencial e conclusão que retoma argumentos principais.",
-      "Argumentação de ‑ “​"
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,

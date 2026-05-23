@@ -1,0 +1,934 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "no âmbito internacional, uma vez que o país possui parcerias com países africanos com o objetivo de aumentar a agricultura sustentável e o uso de fontes energéticas sustentáveis."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo adequado e legibilidade, com pouca repetição e boa organização dos parágrafos. (1A)",
+      "A argumentação é objetiva, pertinente ao tema e bem sistematizada, trazendo informações atuais e relevantes sobre o contexto ambiental e diplomático. (1B)",
+      "A análise é aprofundada, relacionando o pensamento de José Bonifácio à situação atual, mostrando reflexão sobre a urgência e a responsabilidade diplomática brasileira. (1C)",
+      "Há um pequeno erro de pontuação: falta de vírgula após 'uma vez que', que deveria ser seguida de pausa para maior clareza. (CGPL)"
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "uma vez que  o país possui"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e legibilidade, com estilo claro e adequado ao tema. A estrutura é bem organizada, facilitando a compreensão do leitor.",
+      "A argumentação é objetiva, pertinente e bem sistematizada, com informações atuais e relevantes sobre o contexto ambiental e diplomático.",
+      "A análise demonstra reflexão crítica sobre a atualidade das ideias de José Bonifácio, relacionando-as com desafios contemporâneos e o papel da diplomacia brasileira.",
+      "Há apenas um erro gramatical identificado: ausência de vírgula após \"uma vez que\", que deveria ser \"uma vez que, o país possui...\" ou reescrito para evitar a separação indevida.",
+      "O texto poderia aprofundar um pouco mais a discussão sobre os desafios específicos da COP30 e as limitações da diplomacia brasileira, mas, de modo geral, cumpre plenamente o que é solicitado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "uma vez que  o país possui"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, legibilidade e estilo, com introdução clara, desenvolvimento consistente e conclusão bem amarrada ao tema. Apenas pequenos ajustes de fluidez poderiam aprimorá-lo.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato relaciona adequadamente o pensamento de José Bonifácio com a situação atual, trazendo exemplos concretos e atuais, como o Acordo de Paris e a COP30.",
+      "A análise e reflexão são aprofundadas, mostrando compreensão do contexto histórico e contemporâneo, além de discutir a responsabilidade diplomática brasileira. Poderia ter explorado mais contrapontos ou desafios internos ao Brasil.",
+      "Há um erro de pontuação: falta de vírgula após “uma vez que”, resultando em junção indevida de orações.",
+      "No geral, o texto é bem estruturado, com argumentos sólidos e linguagem adequada ao gênero dissertativo-argumentativo. O erro gramatical é pontual e não compromete a compreensão."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente domínio da norma culta da língua portuguesa, sem erros gramaticais detectáveis.",
+      "A redação demonstra clareza, coerência e encadeamento lógico das ideias, abordando o tema de forma aprofundada e pertinente.",
+      "O candidato soube relacionar adequadamente o pensamento de José Bonifácio à atualidade, às mudanças climáticas e ao papel da diplomacia brasileira na COP30.",
+      "A argumentação é sólida, com exemplos concretos e reflexão crítica sobre o papel do Brasil no cenário internacional ambiental.",
+      "A linguagem é formal, precisa e adequada ao contexto do concurso diplomático.",
+      "A redação atende plenamente aos critérios de organização, desenvolvimento e correção linguística, justificando uma nota elevada, próxima do máximo possível."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "No entanto, o Estado brasileiro não mais respalda tais ações de destruição e se esforça para promover o desenvolvimento sustentável. (Falta de vírgula após \"destruição\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é adequada ao contexto e há pouquíssimos desvios gramaticais, sendo apenas um erro de pontuação identificado.",
+      "O candidato soube relacionar adequadamente as ideias de José Bonifácio com a atualidade, abordando o papel da diplomacia brasileira na COP30 e a relevância das questões ambientais globais.",
+      "A redação atende plenamente ao enunciado, discute a atualidade das ideias do Patriarca da Independência e contextualiza o Brasil no cenário internacional das mudanças climáticas.",
+      "A repetição de algumas ideias e a ausência de uma vírgula em um trecho específico são os únicos pontos que impedem a nota máxima, mas não comprometem a qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "uma vez que  o país possui parcerias"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, com clareza, coerência e encadeamento lógico das ideias. O candidato demonstra capacidade de argumentação e reflexão ao relacionar as ideias de José Bonifácio à atualidade das questões ambientais e à responsabilidade diplomática do Brasil na COP30.",
+      "A linguagem é adequada ao contexto formal do concurso, com vocabulário preciso e propriedade discursiva.",
+      "Há apenas um erro gramatical leve (falta de espaço após vírgula), o que não compromete a compreensão nem a qualidade geral do texto.",
+      "O texto aborda todos os pontos solicitados pelo enunciado, mostrando domínio do tema e capacidade de síntese.",
+      "A conclusão é pertinente e reforça a atualidade das ideias de José Bonifácio, bem como o papel da diplomacia brasileira."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "No entanto, o Estado brasileiro não mais respalda tais ações de destruição e se esforça para promover o desenvolvimento sustentável."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e coesa as ideias de José Bonifácio com a atualidade das questões ambientais e o papel da diplomacia brasileira na COP30.",
+      "A argumentação é consistente, com encadeamento lógico e reflexão aprofundada sobre a responsabilidade internacional do Brasil.",
+      "A linguagem é formal, adequada e demonstra bom domínio da norma culta, com apenas um pequeno deslize gramatical (uso de vírgula facultativa ou ausência dela em trecho específico).",
+      "O texto é bem estruturado, com introdução, desenvolvimento e conclusão claros, e explora de maneira pertinente o contexto histórico e contemporâneo.",
+      "A repetição de ideias é controlada e não prejudica a clareza ou a progressão argumentativa."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "No entanto, o Estado brasileiro não mais respalda tais ações de destruição e se esforça para promover o desenvolvimento sustentável."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e clareza, desenvolvendo o tema de forma pertinente e com encadeamento lógico das ideias. O candidato articula bem o pensamento de José Bonifácio com a atualidade das questões ambientais, contextualizando a responsabilidade da diplomacia brasileira na COP30.",
+      "A argumentação é consistente e demonstra reflexão sobre o tema, com referências históricas e contemporâneas adequadas. O texto é coeso e demonstra domínio da norma padrão, com poucos deslizes gramaticais.",
+      "Há apenas um pequeno desvio de concordância: o correto seria 'não mais respalda' (sem vírgula) ou, para maior clareza, 'não respalda mais'. O restante do texto está bem construído e demonstra maturidade linguística.",
+      "O texto evidencia boa capacidade de análise e articulação, mas não chega ao nível de originalidade ou sofisticação argumentativa que justificaria a faixa 'Excelente' ou 'Excepcional'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "em 2015, a maioria dos países do mundo assinou o Acordo de Paris e se comprometeu com metas nacionais de mitigação das mudanças climáticas. O Brasil estabeleceu metas ambiciosas com o objetivo de zerar o desmatamento ilegal, aumentar o uso de energia sustentável e incentivar o reflorestamento no país. Os esforços brasileiros também são observados no âmbito internacional, uma vez que  o país possui parcerias com países africanos com o objetivo de aumentar a agricultura sustentável e o uso de fontes energéticas sustentáveis."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, clareza e encadeamento lógico das ideias, abordando o tema de forma pertinente e com reflexão adequada.",
+      "A argumentação é consistente e demonstra compreensão do enunciado e dos desafios contemporâneos relacionados ao pensamento de José Bonifácio.",
+      "A linguagem é formal e apropriada ao contexto, com poucos deslizes gramaticais. Houve uma pequena repetição desnecessária de ideias em alguns parágrafos, mas isso não compromete a qualidade geral.",
+      "O texto evidencia domínio temático e capacidade de articular passado e presente, além de tratar da responsabilidade diplomática brasileira de modo coerente.",
+      "O único erro gramatical identificado foi uma falha de pontuação (espaço duplo antes de \"o país\")."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "matriz energética mais limpa do que a de economias avançadas",
+      "a esterilidade das terras, com os processos hodiernos de desertificação, e a ausência de ocupação humana nesses locais inóspitos, com a migração climática"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e linguagem adequada ao tema. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto, com exemplos concretos e referências históricas e atuais.",
+      "A análise é profunda, relacionando o pensamento de José Bonifácio com questões contemporâneas como desertificação, migração climática e o papel da diplomacia brasileira, demonstrando reflexão crítica.",
+      "Há um erro de concordância: 'a esterilidade das terras, com os processos hodiernos de desertificação, e a ausência de ocupação humana nesses locais inóspitos, com a migração climática' — a estrutura paralela poderia ser mais clara. Além disso, a expressão 'matriz energética mais limpa do que a de economias avançadas' carece de precisão técnica, pois depende do contexto comparativo.",
+      "O texto cumpre plenamente os requisitos do enunciado, abordando a atualidade das ideias de José Bonifácio, o contexto das mudanças climáticas e o papel da diplomacia brasileira na COP30."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "haja vista que eles dependem do equilíbrio e da previsibilidade ambientais"
+    ],
+    "feedbacks": [
+      "1A: O texto apresenta boa coerência, legibilidade e estilo, com linguagem formal e adequada ao tema. A estrutura é clara, mas há pequenas imprecisões estilísticas que impedem a nota máxima.",
+      "1B: A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato relaciona adequadamente as ideias de José Bonifácio com a atualidade, mas poderia aprofundar um pouco mais a conexão entre os conceitos históricos e os desafios contemporâneos.",
+      "1C: O texto demonstra boa capacidade de análise e reflexão, especialmente ao relacionar desertificação, migração climática e o papel da diplomacia brasileira. A reflexão sobre a responsabilidade histórica e a necessidade de ação internacional é pertinente e bem fundamentada.",
+      "Erro gramatical: O uso de 'haja vista que' é inadequado, pois a expressão exige a forma 'haja vista o fato de que' ou deve ser usada sem o 'que'. O correto seria 'haja vista o equilíbrio e a previsibilidade ambientais' ou 'haja vista que dependem do equilíbrio...'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "matriz energética mais limpa do que a de economias avançadas"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com linguagem formal e adequada ao tema. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, trazendo exemplos atuais e conexões claras com o pensamento de José Bonifácio.",
+      "A análise é profunda, relacionando o pensamento histórico com desafios contemporâneos, como desertificação, migração climática e o papel da diplomacia brasileira. A reflexão sobre a responsabilidade internacional e a liderança do Brasil é pertinente e bem fundamentada.",
+      "Há um erro de concordância nominal: 'matriz energética mais limpa do que a de economias avançadas' deveria ser 'mais limpa do que as de economias avançadas' para manter a concordância no plural.",
+      "O texto demonstra domínio do tema e da linguagem, mas poderia aprofundar um pouco mais as nuances da diplomacia brasileira frente aos desafios globais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O termo \"políticos-jurídicos\" deveria ser grafado com hífen apenas se compusesse um adjetivo composto, mas, no contexto, a forma mais adequada seria \"político-jurídicos\" (plural concordando com \"debates\")."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, com clareza, coerência e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é formal, precisa e adequada ao contexto de redação diplomática, com vocabulário rico e domínio de conceitos contemporâneos relacionados ao meio ambiente e à diplomacia.",
+      "A redação faz uso pertinente de referências históricas e atuais, conectando o pensamento de José Bonifácio às questões ambientais contemporâneas e à responsabilidade diplomática do Brasil na COP30.",
+      "Há apenas um erro gramatical leve, referente à concordância do adjetivo composto \"político-jurídicos\", que não compromete a compreensão nem a qualidade geral do texto.",
+      "A conclusão é bem elaborada, retomando o tema central e reforçando a responsabilidade do Brasil, o que demonstra maturidade analítica e capacidade de síntese."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O correto seria \"político-jurídicos\", com hífen, pois se trata de um adjetivo composto."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário técnico relacionado à diplomacia e ao meio ambiente.",
+      "O candidato soube relacionar de forma pertinente as ideias de José Bonifácio com a atualidade, abordando a responsabilidade da diplomacia brasileira diante da COP30 e dos desafios climáticos globais.",
+      "Houve apenas um erro gramatical de hifenização, o que não compromete a compreensão nem a qualidade geral do texto.",
+      "A conclusão é coerente e reforça a atualidade das preocupações ambientais do “Patriarca da Independência”, integrando adequadamente todos os pontos discutidos."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "políticos-jurídicos (forma hifenizada inadequada; o correto seria 'político-jurídicos' para concordar com 'debates', plural masculino)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre o pensamento de José Bonifácio e os desafios contemporâneos das mudanças climáticas e do desmatamento.",
+      "A argumentação é clara, bem estruturada e demonstra compreensão aprofundada do tema, com referências pertinentes à diplomacia brasileira e à COP30.",
+      "O texto evidencia reflexão crítica e coesão, com encadeamento lógico das ideias e linguagem adequada ao contexto acadêmico e diplomático.",
+      "Há apenas um deslize gramatical de concordância nominal, sem comprometer a clareza ou a correção geral do texto.",
+      "A conclusão retoma o tema de forma consistente e reforça a responsabilidade do Brasil, conferindo fechamento coeso à redação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "políticos-jurídicos (forma preferencial: político-jurídicos, com hífen no masculino plural apenas se ambos os termos forem substantivos; aqui, “político” é adjetivo, portanto o correto seria “político-jurídicos”)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre o pensamento de José Bonifácio e a atualidade das questões ambientais, demonstrando compreensão profunda do tema e boa estrutura argumentativa.",
+      "A redação é clara, coesa e demonstra domínio da norma culta, com apenas um deslize gramatical pontual.",
+      "A argumentação é pertinente e bem encadeada, abordando a responsabilidade da diplomacia brasileira e o contexto da COP30 de forma integrada ao referencial histórico.",
+      "O texto evidencia reflexão e capacidade de análise, mas não chega ao nível de excepcionalidade por não apresentar insights teóricos inovadores ou estilo marcadamente original."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "políticos-jurídicos (forma preferencial: político-jurídicos, com hífen no masculino plural e adjetivo composto invariável no segundo elemento)"
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com ideias claras e boa articulação argumentativa, demonstrando domínio do tema e da linguagem formal exigida pelo concurso.",
+      "Há pertinência temática, com conexão explícita entre as ideias de José Bonifácio, o contexto atual das mudanças climáticas e o papel da diplomacia brasileira na COP30.",
+      "A argumentação é consistente, com exemplos concretos (desertificação, migração climática, Amazônia, Sudeste Asiático, África subsaariana) e reflexão sobre responsabilidade histórica e desigualdade internacional.",
+      "O texto apresenta poucos deslizes gramaticais, sendo o principal a forma do adjetivo composto \"políticos-jurídicos\".",
+      "A linguagem é adequada ao contexto acadêmico-diplomático, com vocabulário preciso e construções sintáticas bem elaboradas.",
+      "A conclusão retoma o tema central e reforça a responsabilidade da diplomacia brasileira, fechando o raciocínio de forma coesa."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "supostamente, para proteger a floresta (uso inadequado da vírgula após supostamente, que deveria estar entre vírgulas ou sem vírgula alguma, conforme o sentido pretendido)",
+      "desmatamento de sua florestas nativas (erro de concordância: sua deveria ser suas)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com linguagem formal e adequada ao tema. A estrutura é clara e o encadeamento lógico é bem construído, embora haja pequenas falhas de pontuação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências históricas e atuais relevantes. O candidato demonstra domínio do assunto e capacidade de relacionar o pensamento de Bonifácio às questões contemporâneas.",
+      "A análise é profunda e reflexiva, abordando a responsabilidade diplomática, a soberania e o contexto internacional. O texto explora nuances políticas e conceituais, como o princípio das responsabilidades comuns, porém diferenciadas, e a crítica ao eurocentrismo.",
+      "Foram identificados dois erros gramaticais: um de pontuação e um de concordância nominal. Ambos não comprometem a compreensão geral, mas afetam a correção formal do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "supostamente, para proteger a floresta",
+      "supostamente",
+      "compromisso com a contribuição anual de cem bilhões de dólares para a mitigação do aquecimento global não tem sido cumprido"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com linguagem clara e elegante, cumprindo plenamente o requisito de apresentação e impressão geral (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, mobilizando referências históricas, conceitos diplomáticos e dados atuais, o que justifica uma pontuação elevada em capacidade de argumentação (1B).",
+      "A capacidade de análise e reflexão é profunda, relacionando o pensamento de José Bonifácio às questões contemporâneas de mudanças climáticas, diplomacia e soberania, com críticas e proposições consistentes (1C).",
+      "Foram identificados dois erros gramaticais: uso inadequado da vírgula após \"supostamente\" e concordância verbal no trecho \"compromisso [...] não tem sido cumprido\" (deveria ser \"não têm sido cumpridos\").",
+      "O texto é denso, bem fundamentado e demonstra domínio do tema, mas poderia ser ainda mais objetivo em alguns trechos para evitar pequenas imprecisões gramaticais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "supostamente, para proteger a floresta",
+      "desmatamento de sua florestas nativas"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com linguagem formal e adequada ao tema. Apenas pequenos ajustes de fluidez poderiam ser feitos, mas não comprometem a impressão geral. (1A: 9/10)",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com referências históricas e atuais relevantes. Apenas faltou maior aprofundamento em alguns pontos, como a comparação entre o contexto do século XIX e o atual. (1B: 9/10)",
+      "A capacidade de análise e reflexão é elevada, com conexões entre o pensamento de Bonifácio, a diplomacia contemporânea e os desafios ambientais globais. O texto demonstra maturidade intelectual, mas poderia explorar mais as contradições internas do Brasil na questão ambiental. (1C: 18/20)",
+      "Foram identificados dois erros gramaticais: uso inadequado da vírgula em 'supostamente, para proteger a floresta' e erro de concordância em 'desmatamento de sua florestas nativas'.",
+      "A redação é consistente, bem fundamentada e demonstra domínio do tema e dos critérios exigidos. Recomenda-se atenção à pontuação e à concordância para evitar pequenas falhas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "No trecho 'além de muitos outros frutos dignos de particular estimação, e sem causa, como até agora se tem praticado no Brasil', o uso da vírgula antes de 'e sem causa' é inadequado, pois separa o sujeito do complemento verbal.",
+      "No trecho 'A COP 30 tem potencial para ser um ponto de inflexão , tanto para o efetivo combate ao aquecimento global', há um espaço indevido antes da vírgula."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão crítica sobre o tema proposto.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático, com domínio de vocabulário técnico e referências históricas pertinentes.",
+      "A redação articula de forma consistente o pensamento de José Bonifácio com a atualidade das questões ambientais, diplomáticas e geopolíticas, evidenciando compreensão profunda do tema.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão global do texto, mas impactam negativamente a correção formal.",
+      "A abordagem contextualiza a responsabilidade da diplomacia brasileira frente à COP30, ao princípio das responsabilidades comuns, porém diferenciadas, e à defesa da soberania sobre a Amazônia, demonstrando maturidade analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ponto e vírgula usado indevidamente antes de 'ora', quando deveria ser vírgula: '...gases de efeito estufa (GEEs) na atmosfera, ora, o compromisso...'"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, com argumentação clara, coerente e bem encadeada, relacionando o pensamento de José Bonifácio à atualidade das questões ambientais e diplomáticas.",
+      "A linguagem é formal, precisa e adequada ao contexto do concurso, com citações pertinentes e referências históricas e conceituais bem integradas.",
+      "Há apenas um pequeno desvio gramatical de pontuação, que não compromete a compreensão nem a qualidade geral do texto.",
+      "A reflexão sobre a responsabilidade da diplomacia brasileira é aprofundada e atual, demonstrando maturidade analítica e consciência crítica sobre o papel do Brasil na COP30 e no regime ambiental global."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "ponto de inflexão , tanto para o efetivo combate ao aquecimento global"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, articulando de forma clara e coerente as ideias de José Bonifácio com o contexto atual das mudanças climáticas, o desmatamento e o papel da diplomacia brasileira na COP30.",
+      "A argumentação é sólida, com referências históricas, conceituais e contemporâneas, demonstrando domínio do tema e capacidade de reflexão crítica.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático, com pouquíssimos desvios gramaticais.",
+      "Há apenas um erro de pontuação (vírgula indevida após “ponto de inflexão”), que não compromete a clareza ou a correção global do texto.",
+      "A redação cumpre plenamente os requisitos de organização, coerência, clareza e correção linguística, sendo merecedora de nota elevada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "No trecho \"realizar a COP 30 na Amazônia equivale a converter a região em sujeito, não objeto, do combate às mudanças do clima e ao desmatamento.\", a pontuação pode ser aprimorada: seria mais adequado usar travessão ou parêntese para isolar a expressão \"não objeto\".",
+      "No trecho \"A COP 30 tem potencial para ser um ponto de inflexão , tanto para o efetivo combate ao aquecimento global, como para a proteção soberana dos recursos naturais...\", há uma vírgula desnecessária após \"inflexão\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e coerente as ideias de José Bonifácio com o contexto contemporâneo das mudanças climáticas, do desmatamento e da diplomacia brasileira.",
+      "A argumentação é consistente, com referências históricas, políticas e culturais pertinentes, demonstrando reflexão aprofundada e capacidade de relacionar diferentes níveis de análise.",
+      "A linguagem é formal, adequada ao contexto do CACD, com vocabulário rico e construções sintáticas variadas, embora haja pequenos deslizes pontuais de pontuação.",
+      "O texto é coeso e bem estruturado, com encadeamento lógico das ideias e transições suaves entre os parágrafos.",
+      "A abordagem é atual e relevante, destacando o papel do Brasil e da diplomacia nacional diante dos desafios ambientais globais, especialmente no contexto da COP30.",
+      "Os erros gramaticais são poucos e não comprometem a clareza ou a qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "No trecho \"os povos europeus responsáveis pela exploração predatória dos patrimônios naturais do Sul global, respaldados pelos Estados Unidos, aventaram, contudo, a hipótese de 'internacionalização' da Amazônia, supostamente, para proteger a floresta.\", a vírgula após \"supostamente\" é desnecessária e prejudica a fluidez.",
+      "No trecho \"A COP 30 tem potencial para ser um ponto de inflexão , tanto para o efetivo combate ao aquecimento global, como para a proteção soberana dos recursos naturais...\", há um espaço indevido antes da vírgula após \"inflexão\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e sofisticada as ideias de José Bonifácio com o contexto contemporâneo das mudanças climáticas e da diplomacia brasileira.",
+      "A argumentação é bem estruturada, com encadeamento lógico e referências históricas e teóricas pertinentes, demonstrando reflexão aprofundada.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário rico e preciso, embora apresente poucos deslizes gramaticais.",
+      "A redação evidencia capacidade de análise crítica, especialmente ao discutir a ideia de internacionalização da Amazônia e o conceito de responsabilidades comuns, porém diferenciadas.",
+      "O texto cumpre plenamente a proposta, relacionando o pensamento de Bonifácio à atualidade e à responsabilidade do Brasil na COP 30, com coesão e clareza."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "supostamente, para proteger a floresta"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e coerente as ideias de José Bonifácio com o contexto contemporâneo das mudanças climáticas, do desmatamento e da diplomacia brasileira na COP30.",
+      "A argumentação é sólida, com referências históricas, conceituais e atuais, demonstrando reflexão aprofundada e pertinência temática.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais.",
+      "Há boa estruturação dos parágrafos, encadeamento lógico das ideias e uso pertinente de exemplos e citações.",
+      "O erro de vírgula após \"supostamente\" é um deslize pontual e não compromete a clareza do texto.",
+      "O texto evidencia capacidade analítica, coesão e domínio consistente da norma padrão, sendo compatível com a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "já que são principalmente causadas por um aumento de gases como CO2, o metano, entre outros, na atmosfera. Essas mudanças já vem provocando...",
+      "já há mudanças irreversíveis na atmosfera, que acompanharão a humanidade pelos próximos séculos. Acrescenta, todavia, que...",
+      "pré- -industriais"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo adequado e boa legibilidade, com poucas falhas de fluidez. A estrutura é clara e o desenvolvimento do tema é bem encadeado. (1A: 9/10)",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos atuais e referências históricas e internacionais. (1B: 9/10)",
+      "A análise é profunda, reflete sobre a atualidade das ideias de Bonifácio, relaciona desmatamento, mudanças climáticas e o papel da diplomacia brasileira, mas poderia explorar mais as contradições internas do Brasil. (1C: 17/20)",
+      "Foram identificados três erros gramaticais: concordância verbal ('já vem'), pontuação inadequada ('pré- -industriais') e uso inadequado de conectivo ('Acrescenta, todavia, que...').",
+      "O texto é bem fundamentado, mas poderia aprofundar a discussão sobre os desafios internos do Brasil e a complexidade do multilateralismo na COP-30."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "já vem provocando",
+      "pré- -industriais",
+      "os acusassem"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e legibilidade, com estilo formal e adequado ao tema. A estrutura é clara e o encadeamento lógico é bem construído.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos atuais e relaciona adequadamente as ideias de José Bonifácio ao contexto contemporâneo.",
+      "A análise é aprofundada, demonstrando capacidade de reflexão sobre a responsabilidade diplomática brasileira frente ao desmatamento e às mudanças climáticas. O texto dialoga com fontes e conceitos relevantes, como o Relatório Brundtland, o IPCC e as COPs.",
+      "Foram identificados três erros gramaticais: 1) concordância verbal em 'já vem provocando' (deveria ser 'vêm provocando'); 2) erro de digitação em 'pré- -industriais'; 3) regência inadequada em 'os acusassem' (o correto seria 'nos acusassem').",
+      "Apesar dos pequenos deslizes gramaticais, o texto é bem elaborado e atende plenamente aos critérios de organização, argumentação e análise."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "já vem provocando cada vez mais desastres",
+      "já que são principalmente causadas por um aumento de gases como CO2, o metano, entre outros",
+      "conforme se nota pelas enchentes no Rio Grande do Sul (Brasil), os tornados na Flórida (EUA) e as inundações na Turquia"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, clareza e estilo, com boa estruturação dos parágrafos e encadeamento lógico das ideias. Apenas pequenos ajustes de fluidez poderiam ser feitos, mas a impressão geral é muito positiva.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza exemplos atuais e fontes reconhecidas (IPCC, Acordo de Paris, COPs), demonstrando domínio do assunto e capacidade de relacionar o pensamento de José Bonifácio à realidade contemporânea.",
+      "A análise é profunda e reflexiva, especialmente ao conectar o conceito de responsabilidade intergeracional de Bonifácio com o desenvolvimento sustentável e o papel da diplomacia brasileira na COP-30. O texto demonstra capacidade de síntese e de crítica, embora pudesse explorar ainda mais as contradições do multilateralismo atual.",
+      "Foram identificados três erros gramaticais: (1) concordância verbal em 'já vem provocando' (o correto seria 'vêm provocando', pois o sujeito é plural); (2) regência inadequada em 'já que são principalmente causadas por um aumento de gases como CO2, o metano, entre outros' (falta de paralelismo e clareza); (3) uso inadequado de 'conforme se nota pelas enchentes... os tornados... e as inundações', que gera ambiguidade e quebra de paralelismo sintático.",
+      "Apesar dos pequenos deslizes gramaticais, a linguagem é formal, precisa e adequada ao gênero dissertativo-argumentativo. O texto cumpre plenamente os requisitos do enunciado e dos critérios de avaliação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "já vem provocando",
+      "pró -industriais",
+      "apoio ao financiamento climático e apoio ao desenvolvimento sustentável (redundância)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário técnico relacionado ao meio ambiente e à diplomacia.",
+      "Há poucos erros gramaticais, como a concordância em \"já vem provocando\" (o correto seria \"vêm provocando\"), erro de hifenização em \"pró -industriais\" e uma redundância no trecho sobre apoio ao financiamento climático e ao desenvolvimento sustentável.",
+      "O texto responde de forma pertinente ao enunciado, relacionando as ideias de José Bonifácio à atualidade, ao desmatamento, às mudanças climáticas e ao papel da diplomacia brasileira na COP30.",
+      "A conclusão é coerente e reforça a atualidade das preocupações de Bonifácio, destacando o papel da diplomacia brasileira no contexto internacional.",
+      "A redação atende aos critérios de correção gramatical e propriedade de linguagem, com apenas pequenas falhas que não comprometem a compreensão ou a qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "já vem provocando",
+      "pró -industriais",
+      "apoio ao financiamento climático e apoio ao desenvolvimento sustentável (redundância desnecessária)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto e demonstra domínio do vocabulário técnico relacionado à diplomacia e meio ambiente.",
+      "Há poucos erros gramaticais, que não comprometem a compreensão global do texto.",
+      "A redação aborda de forma pertinente a atualidade das ideias de José Bonifácio, relacionando-as ao desmatamento, às mudanças climáticas e ao papel da diplomacia brasileira na COP30.",
+      "A conclusão é coerente e reforça a responsabilidade intergeracional e o papel da diplomacia brasileira, conforme solicitado pelo enunciado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "já vem provocando",
+      "níveis pré- -industriais",
+      "se observado avanços e perspectivas"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento temático, articulando de forma clara e coerente as ideias de José Bonifácio com a atualidade das questões ambientais, mudanças climáticas e o papel da diplomacia brasileira.",
+      "Há boa capacidade de argumentação e reflexão, com exemplos concretos e referência a eventos recentes, o que demonstra domínio do tema.",
+      "A linguagem é formal e adequada ao contexto do concurso, mas há pequenos deslizes gramaticais que afetam a correção textual.",
+      "Os erros identificados são pontuais e não comprometem a compreensão geral do texto, mas impactam negativamente na nota final devido à exigência de precisão linguística no CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "já que são principalmente causadas por um aumento de gases como CO2, o metano, entre outros, na atmosfera"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação temática, conectando as ideias de José Bonifácio às questões ambientais contemporâneas, como desmatamento, mudanças climáticas e o papel da diplomacia brasileira na COP30.",
+      "A argumentação é clara, bem estruturada e demonstra reflexão crítica sobre o tema, com exemplos atuais e referências históricas e institucionais pertinentes.",
+      "O domínio da norma padrão é consistente, mas há pequenos deslizes gramaticais, como o uso inadequado de vírgulas e a concordância em \"já que são principalmente causadas por um aumento de gases como CO2, o metano, entre outros, na atmosfera\" (o correto seria \"como o CO2 e o metano\").",
+      "A linguagem é formal, adequada ao contexto do concurso, e o texto demonstra coesão e encadeamento lógico das ideias.",
+      "A conclusão é pertinente e reforça a atualidade das ideias de Bonifácio, além de destacar o papel da diplomacia brasileira no contexto global."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "já que são principalmente causadas por um aumento de gases como CO2, o metano, entre outros, na atmosfera"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, com clareza e encadeamento lógico das ideias. O candidato demonstra capacidade de argumentação e reflexão sobre o tema, relacionando adequadamente o pensamento de José Bonifácio às questões ambientais contemporâneas e ao papel da diplomacia brasileira.",
+      "A linguagem é formal, precisa e adequada ao contexto do CACD, com poucos deslizes gramaticais. O uso de exemplos e referências (IPCC, COPs, Acordo de Paris) enriquece a argumentação.",
+      "Há pequenos problemas de concordância e pontuação, como em \"já que são principalmente causadas por um aumento de gases como CO2, o metano, entre outros, na atmosfera\" (o correto seria \"como o CO2 e o metano\").",
+      "O texto demonstra domínio temático e linguístico consistente, com reflexão pertinente sobre a responsabilidade intergeracional e o papel do Brasil nas negociações climáticas. A articulação entre passado e presente é bem feita, conferindo profundidade à análise."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "já que são principalmente causadas por um aumento de gases como CO2, o metano, entre outros, na atmosfera",
+      "Essas mudanças já vem provocando",
+      "no âmbito do Acordo de Paris. Se as últimas COPs foram infrutíferas, é dever do Itamaraty conduzir discussões que demandem apoio ao financiamento climático e apoio ao desenvolvimento sustentável."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de articulação entre o pensamento de José Bonifácio e os desafios ambientais contemporâneos, demonstrando compreensão aprofundada do tema e boa estrutura argumentativa.",
+      "A redação é clara, coesa e demonstra domínio consistente da norma padrão, com apenas alguns deslizes pontuais de concordância e regência.",
+      "A argumentação é pertinente e bem encadeada, abordando desmatamento, mudanças climáticas e o papel da diplomacia brasileira, inclusive com referência a eventos recentes e acordos internacionais.",
+      "O texto evidencia reflexão crítica e atualização temática, relacionando adequadamente o legado histórico ao contexto da COP30 e à responsabilidade intergeracional.",
+      "Sugere-se atenção à concordância verbal (“já vêm provocando”) e à regência (“causadas pelo aumento de gases como CO2 e metano”), além de evitar pequenas imprecisões de pontuação e repetição de termos."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A cooperação ambiental é prioridade para a diplomacia brasileira, desde a realização da Conferência das Nações Unidas para o Meio Ambiente e o Desenvolvimento no Rio de Janeiro, em 1992."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com estrutura clara e linguagem adequada ao tema (nota 1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, trazendo informações atuais e relevantes sobre desmatamento, diplomacia e mudanças climáticas (nota 1B).",
+      "A análise é profunda, relacionando o pensamento de José Bonifácio à situação contemporânea, com reflexão crítica sobre o papel da diplomacia brasileira e os desafios da COP30 (nota 1C).",
+      "Há um erro de pontuação: falta de vírgula após o adjunto adverbial 'desde a realização da Conferência...'.",
+      "O texto demonstra domínio do tema, boa articulação entre passado e presente, e compreensão clara do papel da diplomacia brasileira frente aos desafios ambientais globais."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A cooperação com parceiros internacionais é fundamental para esses esforços e deve ser aprimorada durante a COP 30. (Falta de vírgula antes de \"e deve ser aprimorada\" para separar orações coordenadas assindéticas de sujeitos diferentes, embora o erro seja leve e discutível; considerado como um desvio de pontuação)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, estilo e legibilidade, com linguagem clara e adequada ao tema (1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente, relacionando o pensamento de José Bonifácio às questões atuais de mudança climática, desmatamento e diplomacia (1B).",
+      "A análise é profunda, refletindo sobre a responsabilidade diplomática do Brasil, o contexto da COP30 e as consequências ambientais e sociais do desmatamento (1C).",
+      "Há apenas um leve desvio de pontuação, o que não compromete a correção gramatical geral do texto.",
+      "O texto demonstra domínio do tema, capacidade de articulação entre passado e presente, e compreensão do papel do Brasil no cenário internacional climático."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "no trecho \"coordenação com o Itamaraty é fundamental\", falta uma vírgula antes do \"é\" para isolar o aposto ou para marcar a pausa sintática adequada; contudo, o erro é sutil e pode ser considerado opcional em certos estilos. O erro mais claro é a ausência de crase em \"a COP30\", pois se trata de nome feminino regido por preposição: \"à COP30\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e estilo, com linguagem clara e adequada ao tema (1A).",
+      "A argumentação é objetiva, bem sistematizada e utiliza informações pertinentes sobre o desmatamento, mudanças climáticas e diplomacia (1B).",
+      "A análise é profunda, relacionando o pensamento de José Bonifácio à conjuntura atual, à responsabilidade diplomática e à COP30 (1C).",
+      "Há um erro gramatical claro: ausência de crase em \"a COP30\" (deveria ser \"à COP30\").",
+      "O texto é bem estruturado, mas poderia ser ainda mais coeso com o uso de conectores entre alguns parágrafos."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O correto seria “no âmbito do Itamaraty”, e não “com o Itamaraty”, pois o Ministério das Relações Exteriores integra a mesma estrutura de coordenação, não sendo um ente externo para se usar “com” neste contexto."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando domínio do tema e capacidade de argumentação. A relação entre o pensamento de José Bonifácio e a atualidade é bem estabelecida, com referência pertinente às mudanças climáticas, ao desmatamento e ao papel da diplomacia brasileira, especialmente no contexto da COP30. O uso de exemplos concretos, como o PPCDAm, o Fundo Amazônia e a cooperação internacional, enriquece a argumentação. A linguagem é formal, adequada e precisa, com apenas um desvio gramatical pontual (regência). O texto atende plenamente aos critérios de coerência, clareza e correção, sendo apenas ligeiramente penalizado pelo erro de regência identificado."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "O governo brasileiro se comprometeu a zerar o desmatamento ilegal até o fim desta década. Essa meta ambiciosa, assumida de forma voluntária, como uma Contribuição Nacionalmente Determinada (NDC), demonstra...\" - falta de vírgula após \"voluntária\" para isolar a expressão explicativa \"como uma Contribuição Nacionalmente Determinada (NDC)\"."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, demonstrando capacidade de argumentação e reflexão sobre o tema proposto.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático, com uso correto de termos técnicos.",
+      "A redação faz conexões pertinentes entre o pensamento de José Bonifácio, o desmatamento atual e o papel da diplomacia brasileira, especialmente no contexto da COP30.",
+      "Há apenas um pequeno deslize gramatical relacionado à pontuação, o que não compromete a compreensão nem a qualidade geral do texto.",
+      "O texto atende plenamente aos critérios de coerência, clareza, argumentação e correção gramatical, sendo digno de nota elevada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "no trecho \"coordenação com o Itamaraty é fundamental\", falta uma vírgula antes do \"é\" para isolar o aposto explicativo, ou seja, deveria ser \"coordenação com o Itamaraty, é fundamental\" ou reestruturado para evitar ambiguidade."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente domínio do tema, articulando de forma clara e coerente as ideias de José Bonifácio com a atualidade das questões ambientais, diplomáticas e climáticas. A argumentação é bem encadeada, com exemplos concretos e referências a políticas públicas e acordos internacionais. A linguagem é formal, precisa e adequada ao contexto do CACD. Houve apenas um pequeno deslize gramatical de pontuação, que não compromete a compreensão nem a qualidade geral do texto. O texto demonstra reflexão aprofundada e capacidade de articulação entre passado e presente, além de considerar o papel da diplomacia brasileira no contexto da COP30."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A cooperação com parceiros internacionais é fundamental para esses esforços e deve ser aprimorada durante a COP 30."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza, com encadeamento lógico das ideias e argumentação pertinente ao tema proposto.",
+      "Há domínio consistente da norma culta, com apenas um deslize gramatical leve (uso do espaçamento antes do ponto final na última frase).",
+      "O candidato demonstra capacidade de reflexão e articulação entre o pensamento de José Bonifácio, o contexto atual de mudanças climáticas e o papel da diplomacia brasileira, especialmente no contexto da COP30.",
+      "A linguagem é adequada, com vocabulário técnico e precisão conceitual, evidenciando compreensão do tema e dos desafios ambientais e diplomáticos.",
+      "A argumentação é bem fundamentada, com referências a políticas públicas, acordos internacionais e exemplos concretos, o que enriquece a análise.",
+      "O texto é coeso e coerente, com transições suaves entre os parágrafos e ideias bem conectadas.",
+      "Apesar do alto nível, a argumentação não atinge o patamar de excepcionalidade por não apresentar insights teóricos inovadores ou análise comparativa mais sofisticada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A cooperação com parceiros internacionais é fundamental para esses esforços e deve ser aprimorada durante a COP 30."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com clareza e encadeamento lógico das ideias. O candidato demonstra compreensão profunda do tema, articulando o pensamento de José Bonifácio às questões contemporâneas do desmatamento, mudanças climáticas e ao papel da diplomacia brasileira, especialmente no contexto da COP30.",
+      "A argumentação é consistente, com referências precisas a políticas públicas (PPCDAm, PPCerrado, Fundo Amazônia), acordos internacionais (Acordo de Paris) e desafios concretos (financiamento, desenvolvimento sustentável, desigualdade regional).",
+      "A linguagem é formal, adequada e demonstra domínio da norma culta, com poucos deslizes gramaticais. O único erro identificado foi a ausência de crase em \"durante a COP 30\", que deveria ser \"durante a COP 30\" (não há erro, mas a ausência de crase não se aplica aqui, pois \"COP\" é sigla feminina e não exige crase antes de numeral). Portanto, o erro apontado é indeterminado ou inexistente; o texto não apresenta erro gramatical claro.",
+      "O texto evidencia reflexão e coesão, com transições suaves entre os parágrafos e integração de diferentes dimensões do tema (ambiental, diplomática, econômica e social).",
+      "A redação é pertinente, atual e demonstra capacidade de análise crítica, além de boa articulação entre passado e presente, o que justifica a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "A cooperação com parceiros internacionais é fundamental para esses esforços e deve ser aprimorada durante a COP 30."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e clareza, com encadeamento lógico das ideias e boa articulação entre o pensamento de José Bonifácio, a atualidade do desmatamento e o papel da diplomacia brasileira frente à COP30.",
+      "A argumentação é pertinente, demonstrando domínio do tema, uso adequado de exemplos e referências institucionais (PPCDAm, Fundo Amazônia, COP30, etc.), além de reflexão sobre as consequências ambientais e diplomáticas.",
+      "A linguagem é formal, precisa e apropriada ao contexto do CACD, com poucos deslizes gramaticais. Houve um pequeno erro de pontuação ao final do texto, com ausência de vírgula antes de \"durante a COP 30\" (embora o erro seja sutil e não comprometa a compreensão).",
+      "O texto evidencia coesão, capacidade de reflexão e domínio da norma padrão, mas não chega ao nível de originalidade ou sofisticação argumentativa que justifique a faixa \"Excelente\"."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  }
+]

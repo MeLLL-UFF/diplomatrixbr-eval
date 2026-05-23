@@ -2,10 +2,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
+    "nota_1C": 7,
     "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      "..."
+      "concordancia",
+      "ortografia",
+      "pontuacao"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -18,10 +20,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
+    "nota_1C": 7,
     "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      "..."
+      "concordancia",
+      "ortografia",
+      "pontuacao"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -34,10 +38,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
+    "nota_1C": 7,
     "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      "..."
+      "concordancia",
+      "ortografia",
+      "pontuacao"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -49,9 +55,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "faltou vírgula após \"informações\"?"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -63,9 +69,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "faltou vírgula após \"informações\"?"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -77,9 +83,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "faltou vírgula após \"informações\"?"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -134,11 +140,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1C": 7,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "concordancia",
-      "ortografia"
+      "ortografia",
+      "pontuacao"
     ],
     "feedbacks": [
       "..."
@@ -153,11 +160,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1C": 7,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "concordancia",
-      "ortografia"
+      "ortografia",
+      "pontuacao"
     ],
     "feedbacks": [
       "..."
@@ -172,11 +180,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1C": 7,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "concordancia",
-      "ortografia"
+      "ortografia",
+      "pontuacao"
     ],
     "feedbacks": [
       "..."
@@ -190,7 +199,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
     ],
@@ -204,7 +213,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
     ],
@@ -218,7 +227,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
     ],
@@ -273,13 +282,11 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
-    "erros_gramaticais": [
-      "..."
-    ],
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -289,13 +296,11 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
-    "erros_gramaticais": [
-      "..."
-    ],
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -305,13 +310,11 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 7,
-    "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
-    "erros_gramaticais": [
-      "..."
-    ],
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -407,8 +410,8 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
+    "nota_1C": 7,
+    "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       "..."
     ],
@@ -425,8 +428,8 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
+    "nota_1C": 7,
+    "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       "..."
     ],
@@ -443,8 +446,8 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
+    "nota_1C": 7,
+    "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       "..."
     ],
@@ -460,7 +463,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 15,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
     ],
@@ -474,7 +477,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 15,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
     ],
@@ -488,7 +491,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 15,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
     ],
@@ -506,7 +509,10 @@
     "erros_gramaticais": [
       ""
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, argumentos consistentes e demonstra bom domínio da língua.",
+      "Aponta boas conexões entre passado histórico ..."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -520,7 +526,10 @@
     "erros_gramaticais": [
       ""
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, argumentos consistentes e demonstra bom domínio da língua.",
+      "Aponta boas conexões entre passado histórico ..."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -534,7 +543,10 @@
     "erros_gramaticais": [
       ""
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, argumentos consistentes e demonstra bom domínio da língua.",
+      "Aponta boas conexões entre passado histórico ..."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -545,14 +557,14 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
+    "nota_1C": 6,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "..."
+      "concordancia",
+      "ortografia",
+      "pontuacao"
     ],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -563,14 +575,14 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
+    "nota_1C": 6,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "..."
+      "concordancia",
+      "ortografia",
+      "pontuacao"
     ],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -581,14 +593,14 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 27,
+    "nota_1C": 6,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "..."
+      "concordancia",
+      "ortografia",
+      "pontuacao"
     ],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -598,10 +610,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
-      "concordancia verbal",
-      "uso incorreto de vírgula"
+      "..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -613,10 +624,9 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
-      "concordancia verbal",
-      "uso incorreto de vírgula"
+      "..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -628,14 +638,61 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 2,
+    "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
-      "concordancia verbal",
-      "uso incorreto de vírgula"
+      "..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Apresenta organização clara, introduzindo tese, desenvolvendo argumentos e concluindo de maneira coerente.",
+      "Mantém consistência temática ao relacionar histórico citado e desafios contemporâneos.",
+      "Domínio sólido da norma padrão; raras falhas pontuais."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Apresenta organização clara, introduzindo tese, desenvolvendo argumentos e concluindo de maneira coerente.",
+      "Mantém consistência temática ao relacionar histórico citado e desafios contemporâneos.",
+      "Domínio sólido da norma padrão; raras falhas pontuais."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "Apresenta organização clara, introduzindo tese, desenvolvendo argumentos e concluindo de maneira coerente.",
+      "Mantém consistência temática ao relacionar histórico citado e desafios contemporâneos.",
+      "Domínio sólido da norma padrão; raras falhas pontuais."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
     "temp": 0.0,
     "versao": 3,
     "essay": 5,
@@ -687,13 +744,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal",
-      "acentuacao"
+      "conversao"
     ],
-    "feedbacks": [
-      "Coerencia geral boa; argumentos bem estruturados.",
-      "Alguns pequenos deslizes gramaticais."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -705,13 +758,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal",
-      "acentuacao"
+      "conversao"
     ],
-    "feedbacks": [
-      "Coerencia geral boa; argumentos bem estruturados.",
-      "Alguns pequenos deslizes gramaticais."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -723,13 +772,9 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia verbal",
-      "acentuacao"
+      "conversao"
     ],
-    "feedbacks": [
-      "Coerencia geral boa; argumentos bem estruturados.",
-      "Alguns pequenos deslizes gramaticais."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -743,8 +788,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta organização clara, introduzindo o panorama histórico e conectando‑o ao cenário atual de comunicação digital.",
-      "Os argumentos são consistentes e demonstram bom conhecimento do papel do diplomata frente à rapidez das mídias contemporâneas.",
-      "Há variedade lexical e construção adequada de períodos; pequenos desvios pontuais não comprometem a compreensão."
+      "Os argumentos são consistentes; há bom desenvolvimento acerca do dever do diplomata frente à rapidez das mídias e à necessidade de credibilidade.",
+      "A linguagem está adequada ao gênero dissertativo‑argumentativo, com vocabulário preciso e poucas falhas formais."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -759,8 +804,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta organização clara, introduzindo o panorama histórico e conectando‑o ao cenário atual de comunicação digital.",
-      "Os argumentos são consistentes e demonstram bom conhecimento do papel do diplomata frente à rapidez das mídias contemporâneas.",
-      "Há variedade lexical e construção adequada de períodos; pequenos desvios pontuais não comprometem a compreensão."
+      "Os argumentos são consistentes; há bom desenvolvimento acerca do dever do diplomata frente à rapidez das mídias e à necessidade de credibilidade.",
+      "A linguagem está adequada ao gênero dissertativo‑argumentativo, com vocabulário preciso e poucas falhas formais."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -775,8 +820,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta organização clara, introduzindo o panorama histórico e conectando‑o ao cenário atual de comunicação digital.",
-      "Os argumentos são consistentes e demonstram bom conhecimento do papel do diplomata frente à rapidez das mídias contemporâneas.",
-      "Há variedade lexical e construção adequada de períodos; pequenos desvios pontuais não comprometem a compreensão."
+      "Os argumentos são consistentes; há bom desenvolvimento acerca do dever do diplomata frente à rapidez das mídias e à necessidade de credibilidade.",
+      "A linguagem está adequada ao gênero dissertativo‑argumentativo, com vocabulário preciso e poucas falhas formais."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,

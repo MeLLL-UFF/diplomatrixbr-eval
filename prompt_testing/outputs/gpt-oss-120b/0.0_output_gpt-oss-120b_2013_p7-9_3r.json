@@ -5,9 +5,7 @@
     "nota_1C": 0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -21,9 +19,7 @@
     "nota_1C": 0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -37,9 +33,7 @@
     "nota_1C": 0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -52,9 +46,12 @@
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "conforme",
-      "existe"
+      "exemplo"
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Coherence and development of ideas is good but some arguments could have been more developed.",
+      "The essay has minor grammatical errors that affect the flow."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -67,9 +64,12 @@
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "conforme",
-      "existe"
+      "exemplo"
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Coherence and development of ideas is good but some arguments could have been more developed.",
+      "The essay has minor grammatical errors that affect the flow."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -82,9 +82,12 @@
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "conforme",
-      "existe"
+      "exemplo"
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Coherence and development of ideas is good but some arguments could have been more developed.",
+      "The essay has minor grammatical errors that affect the flow."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -139,12 +142,11 @@
   },
   {
     "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1B": 9,
+    "nota_1C": 7,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "",
-      ""
+      "..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -156,12 +158,11 @@
   },
   {
     "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1B": 9,
+    "nota_1C": 7,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "",
-      ""
+      "..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -173,12 +174,11 @@
   },
   {
     "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
+    "nota_1B": 9,
+    "nota_1C": 7,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
-      "",
-      ""
+      "..."
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -192,8 +192,8 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "]",
-      ""
+      "acertar",
+      "..."
     ],
     "feedbacks": [
       ""
@@ -209,8 +209,8 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "]",
-      ""
+      "acertar",
+      "..."
     ],
     "feedbacks": [
       ""
@@ -226,8 +226,8 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "]",
-      ""
+      "acertar",
+      "..."
     ],
     "feedbacks": [
       ""
@@ -237,159 +237,6 @@
     "temp": 0.0,
     "versao": 3,
     "essay": 2,
-    "ano": "2013"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "]"
-    ],
-    "feedbacks": [
-      "..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2013"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "]"
-    ],
-    "feedbacks": [
-      "..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2013"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "]"
-    ],
-    "feedbacks": [
-      "..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2013"
-  },
-  {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "contribuiu",
-      "sub-",
-      "paragrafo",
-      "etc"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2013"
-  },
-  {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "contribuiu",
-      "sub-",
-      "paragrafo",
-      "etc"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2013"
-  },
-  {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 15,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "contribuiu",
-      "sub-",
-      "paragrafo",
-      "etc"
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2013"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "contribuiu",
-      "contribuíu",
-      "..."
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2013"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "contribuiu",
-      "contribuíu",
-      "..."
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2013"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      "contribuiu",
-      "contribuíu",
-      "..."
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
     "ano": "2013"
   },
   {
@@ -405,7 +252,7 @@
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
-    "essay": 3,
+    "essay": 2,
     "ano": "2013"
   },
   {
@@ -421,7 +268,7 @@
     "prompt": 9,
     "temp": 0.0,
     "versao": 2,
-    "essay": 3,
+    "essay": 2,
     "ano": "2013"
   },
   {
@@ -437,13 +284,175 @@
     "prompt": 9,
     "temp": 0.0,
     "versao": 3,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "contribuÃ§Ã?",
+      "c",
+      "]"
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
     "essay": 3,
     "ano": "2013"
   },
   {
     "nota_1A": 8,
-    "nota_1B": 9,
-    "nota_1C": 15,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "contribuÃ§Ã?",
+      "c",
+      "]"
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "contribuÃ§Ã?",
+      "c",
+      "]"
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "contribuiu",
+      "contribuí",
+      "contribuía",
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "contribuiu",
+      "contribuí",
+      "contribuía",
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "contribuiu",
+      "contribuí",
+      "contribuía",
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]",
+      ""
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]",
+      ""
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]",
+      ""
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8,
+    "nota_1B": 7,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
@@ -458,8 +467,8 @@
   },
   {
     "nota_1A": 8,
-    "nota_1B": 9,
-    "nota_1C": 15,
+    "nota_1B": 7,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
@@ -474,8 +483,8 @@
   },
   {
     "nota_1A": 8,
-    "nota_1B": 9,
-    "nota_1C": 15,
+    "nota_1B": 7,
+    "nota_1C": 5,
     "numero_de_erros_gramaticais": 12,
     "erros_gramaticais": [
       "..."
@@ -492,7 +501,8 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "conquista"
+      "conquista",
+      "articulada"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -506,7 +516,8 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "conquista"
+      "conquista",
+      "articulada"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -520,7 +531,8 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "conquista"
+      "conquista",
+      "articulada"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -536,7 +548,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta boa estrutura, argumentos claros e demonstra conhecimento histórico relevante.",
-      "Aponta corretamente as divergências entre as visões apresentadas nos textos‑I ..."
+      "Aponta corretamente a diferença entre visões clássicas e críticas ao comércio internacional.",
+      "Mantém registro formal adequado ao gênero dissertativo‑argumentativo."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -551,7 +564,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta boa estrutura, argumentos claros e demonstra conhecimento histórico relevante.",
-      "Aponta corretamente as divergências entre as visões apresentadas nos textos‑I ..."
+      "Aponta corretamente a diferença entre visões clássicas e críticas ao comércio internacional.",
+      "Mantém registro formal adequado ao gênero dissertativo‑argumentativo."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -566,7 +580,8 @@
     "erros_gramaticais": [],
     "feedbacks": [
       "O texto apresenta boa estrutura, argumentos claros e demonstra conhecimento histórico relevante.",
-      "Aponta corretamente as divergências entre as visões apresentadas nos textos‑I ..."
+      "Aponta corretamente a diferença entre visões clássicas e críticas ao comércio internacional.",
+      "Mantém registro formal adequado ao gênero dissertativo‑argumentativo."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,

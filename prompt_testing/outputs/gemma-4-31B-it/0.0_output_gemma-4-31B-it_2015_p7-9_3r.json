@@ -1,12 +1,14 @@
 [
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.0,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "política exter na bra sileira (erro de digitação/espaçamento)",
-      "em Cardoso (falta de preposição ou erro de sintaxe: 'no texto de Cardoso' ou 'em Cardoso')"
+      "política exter na bra sileira (Erro de digitação/espaçamento grave)",
+      "embuidos de ambos o sentimento patriótico e o conhecimento (Falta de concordância nominal: 'ambos os sentimentos' ou 'tanto do sentimento... quanto do conhecimento')",
+      "processo de consolidação identitária (Ausência de artigo definido: 'passa por UM processo')",
+      "escritor em Cardoso (Impropriedade vocabular/estilística: 'no texto de Cardoso' ou 'segundo Cardoso')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -17,13 +19,15 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.0,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "política exter na bra sileira (erro de digitação/espaçamento)",
-      "em Cardoso (falta de preposição ou erro de sintaxe: 'no texto de Cardoso' ou 'em Cardoso')"
+      "política exter na bra sileira (Erro de digitação/espaçamento grave)",
+      "embuidos de ambos o sentimento patriótico e o conhecimento (Falta de concordância nominal: 'ambos os sentimentos' ou 'tanto do sentimento... quanto do conhecimento')",
+      "processo de consolidação identitária (Ausência de artigo definido: 'passa por UM processo')",
+      "escritor em Cardoso (Impropriedade vocabular/estilística: deveria ser 'no texto de Cardoso' ou 'segundo Cardoso')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -34,13 +38,15 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.0,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "política exter na bra sileira (erro de digitação/espaçamento)",
-      "em Cardoso (falta de preposição ou erro de sintaxe: 'no texto de Cardoso' ou 'em Cardoso')"
+      "política exter na bra sileira (Erro de digitação/espaçamento grave)",
+      "embuidos de ambos o sentimento patriótico e o conhecimento (Falta de concordância nominal: 'ambos os sentimentos' ou 'tanto do sentimento... quanto do conhecimento')",
+      "processo de consolidação identitária (Ausência de artigo definido: 'passa por UM processo')",
+      "escritor em Cardoso (Impropriedade vocabular/estilística: 'no texto de Cardoso' ou 'segundo Cardoso')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -51,12 +57,14 @@
     "ano": "2015"
   },
   {
-    "nota_final": 48.50,
-    "numero_de_erros_gramaticais":1,
+    "nota_final":"48.50",
+    "numero_de_erros_gramaticais":3,
     "erros_gramaticais":[
-      "política exter na bra sileira (erro de digitação/espaçamento)"
+      "política exter na bra sileira (erro de digitação/espaçamento)",
+      "celebrara, em 2015, o seu septuagenário (anacronismo temporal/falta de precisão contextual)",
+      "embuidos de ambos o sentimento patriótico e o conhecimento (regência/concordância sintática)"
     ],
-    "feedbacks": [],
+        "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -65,12 +73,14 @@
     "ano": "2015"
   },
   {
-    "nota_final": 48.50,
-    "numero_de_erros_gramaticais":1,
+    "nota_final":"48.50",
+    "numero_de_erros_gramaticais":3,
     "erros_gramaticais":[
-      "política exter na bra sileira (erro de digitação/espaçamento)"
+      "política exter na bra sileira (erro de digitação/espaçamento)",
+      "celebrara, em 2015, o seu septuagenário (anacronismo temporal/falta de precisão contextual)",
+      "embuidos de ambos o sentimento patriótico e o conhecimento (regência/concordância sintática)"
     ],
-    "feedbacks": [],
+        "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -79,12 +89,14 @@
     "ano": "2015"
   },
   {
-    "nota_final": 48.50,
-    "numero_de_erros_gramaticais":1,
+    "nota_final":"48.50",
+    "numero_de_erros_gramaticais":3,
     "erros_gramaticais":[
-      "política exter na bra sileira (erro de digitação/espaçamento)"
+      "política exter na bra sileira (erro de digitação/espaçamento)",
+      "celebrara, em 2015, o seu septuagenário (anacronismo temporal/falta de precisão contextual)",
+      "embuidos de ambos o sentimento patriótico e o conhecimento (regência/concordância sintática)"
     ],
-    "feedbacks": [],
+        "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -96,9 +108,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "política exter na bra sileira (erro de digitação/espaçamento)",
-      "celebrara, em 2015, o seu septuagenário (anacronismo/falta de atualização temporal do texto)",
-      "embuidos de ambos o sentimento patriótico e o conhecimento (falta de concordância no plural 'ambos os sentimentos' ou ajuste de regência)"
+      "política exter na bra sileira (Erro de digitação/espaçamento)",
+      "celebrara, em 2015, o seu septuagenário (Anacronismo temporal/falta de atualização do texto frente ao ano atual, embora gramaticalmente correto)",
+      "embuidos de ambos o sentimento patriótico e o conhecimento (Problema de concordância nominal: deveria ser 'ambos os sentimentos' ou 'tanto do sentimento... quanto do conhecimento')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -112,9 +124,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "política exter na bra sileira (erro de digitação/espaçamento)",
-      "celebrara, em 2015, o seu septuagenário (anacronismo/falta de atualização temporal do texto)",
-      "embuidos de ambos o sentimento patriótico e o conhecimento (falta de concordância no plural 'ambos os sentimentos' ou ajuste de regência)"
+      "política exter na bra sileira (Erro de digitação/espaçamento)",
+      "celebrara, em 2015, o seu septuagenário (Anacronismo temporal/falta de atualização do texto frente ao ano atual, embora gramaticalmente correto)",
+      "embuiro de ambos o sentimento patriótico (Falta de paralelismo ou erro de concordância: 'ambos os sentimentos' ou 'tanto o sentimento...')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -128,9 +140,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "política exter na bra sileira (erro de digitação/espaçamento)",
-      "celebrara, em 2015, o seu septuagenário (anacronismo/falta de atualização temporal do texto)",
-      "embuidos de ambos o sentimento patriótico e o conhecimento (falta de concordância no plural 'ambos os sentimentos' ou ajuste de regência)"
+      "política exter na bra sileira (Erro de digitação/espaçamento)",
+      "celebrara, em 2015, o seu septuagenário (Anacronismo temporal/falta de atualização do texto frente ao ano atual, embora gramaticalmente correto)",
+      "embuidos de ambos o sentimento patriótico e o conhecimento (Problema de concordância nominal: deveria ser 'ambos os sentimentos' ou 'tanto do sentimento... quanto do conhecimento')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -141,12 +153,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "...defende os parâmetros que fundamental a identidade nacional... (Erro de concordância/morfologia: o correto seria 'fundamentam')"
+      "'defende os parâmetros que fundamental a identidade nacional' -> erro de concordância/flexão verbal (correto seria 'fundamentam')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -157,12 +169,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "...defende os parâmetros que fundamental a identidade nacional... (Erro de concordância/morfologia: o correto seria 'fundamentam')"
+      "'defende os parâmetros que fundamental a identidade nacional' -> erro de concordância/flexão verbal (correto seria 'fundamentam')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -173,28 +185,27 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "...defende os parâmetros que fundamental a identidade nacional... (Erro de concordância/morfologia: o correto seria 'fundamentam' ou 'são fundamentais')"
+      "'defende os parâmetros que fundamental a identidade nacional' -> erro de concordância/flexão verbal (correto seria 'fundamentam')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
-    "versao": 3,
+    "versao": 2,
     "essay": 2,
     "ano": "2015"
   },
   {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "...defende os parâmetros que fundamental a identidade nacional... (erro de concordância/flexão verbal: deveria ser 'fundamentam')"
-    ],
-    "feedbacks": [],
+    "nota_final":48.50,
+    "numero_de_erros_gramaticais":1,
+    "erros_gramaticais":[
+      "defendem os parâmetros que fundamental a identidade nacional (concordância verbal/nominal)"
+      ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -203,12 +214,11 @@
     "ano": "2015"
   },
   {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "...defende os parâmetros que fundamental a identidade nacional... (erro de concordância/flexão: deveria ser 'fundamentam')"
-    ],
-    "feedbacks": [],
+    "nota_final":48.50,
+    "numero_de_erros_gramaticais":1,
+    "erros_gramaticais":[
+      "defendem os parâmetros que fundamental a identidade nacional (concordância verbal/nominal)"
+      ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -217,12 +227,11 @@
     "ano": "2015"
   },
   {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "...defende os parâmetros que fundamental a identidade nacional... (erro de concordância/flexão: deveria ser 'fundamentam')"
-    ],
-    "feedbacks": [],
+    "nota_final":48.50,
+    "numero_de_erros_gramaticais":1,
+    "erros_gramaticais":[
+      "defendem os parâmetros que fundamental a identidade nacional (concordância verbal/nominal)"
+      ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -232,9 +241,9 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "...defende os parâmetros que fundamental a identidade nacional... (Erro de concordância/flexão: o correto seria 'fundamentam' ou 'são fundamentais para')"
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros evidentes de ortografia, concordância ou regência."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -246,9 +255,9 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "...defende os parâmetros que fundamental a identidade nacional... (Erro de concordância/flexão: o correto seria 'fundamentam' ou 'são fundamentais para')"
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros evidentes de ortografia, concordância ou regência."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -260,11 +269,15 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "...defende os parâmetros que fundamental a identidade nacional... (Erro de concordância/flexão: o correto seria 'fundamentam' ou 'são fundamentais para')"
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros evidentes de ortografia, concordância ou regência."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "O candidato demonstrou ótima capacidade de transpor a reflexão existencial e literária de Lucio Cardoso para a dimensão profissional e institucional da carreira diplomática. Houve um esforço genuíno em conectar a 'vinculação à terra' mencionada no texto-base com a necessidade de representatividade sociodemográfica e legitimidade democrática do corpo diplomático atual.",
+      "A organização textual é clara, com parágrafos bem delimitados e progressão lógica de ideias. O uso de referências externas (como Machado de Assis) enriqueceu a argumentação, conferindo maturidade ao texto.",
+      "Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o autor poderia ter aprofundado a tensão dialética presente no fragmento de Cardoso — especificamente a angústia entre a busca por uma 'essência' e a rejeição ao patriotismo superficial/estéril —, explorando mais a subjetividade do 'ser' diplomata além da descrição funcional e institucional da burocracia moderna."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -273,12 +286,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 10.0,
-    "nota_1C": 19.0,
+    "nota_1C": 9.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Ausência de artigo definido em 'visa a instaurar ordem global mais justa' (o correto seria 'uma ordem global' ou 'a ordem global')"
+      "Ausência de artigo definido em 'visa a instaurar ordem global' (correto seria 'uma ordem global') - erro de sintaxe/omissão."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -289,12 +302,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 10.0,
-    "nota_1C": 19.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Ausência de artigo definido em 'visa a instaurar ordem global mais justa' (o correto seria 'uma ordem global' ou 'a ordem global')"
+      "Nenhum erro identificado."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -305,12 +318,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 10.0,
-    "nota_1C": 19.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Ausência de artigo definido em 'visa a instaurar ordem global mais justa' (o correto seria 'uma ordem global' ou 'a ordem global')"
+      "Nenhum erro identificado."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -321,7 +334,7 @@
     "ano": "2015"
   },
   {
-    "nota_final": 56.5,
+    "nota_final": 58.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -345,7 +358,7 @@
     "ano": "2015"
   },
   {
-    "nota_final": 56.5,
+    "nota_final": 58.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -359,8 +372,15 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto demonstra um nível elevadíssimo de sofisticação analítica e maturidade estilística. O candidato conseguiu realizar a transposição perfeita entre a provocação literária de Lucio Cardoso e a práxis da carreira diplomática, evitando a armadilha de fazer apenas um resumo do texto motivador ou uma descrição genérica da profissão.",
+      "A fundamentação teórica é robusta e pertinente, mobilizando conceitos de Edward Said ('sentimento colonizado'), Silviano Santiago ('entre-lugar') e o movimento modernista para construir a tese de que a identidade brasileira — e, consequentemente, a atuação do diplomata — reside na tensão dialética entre a tradição nacional e a abertura ao universal.",
+      "No campo da Política Externa Brasileira (PEB), o autor demonstrou domínio técnico ao citar exemplos concretos (Equidistância Pragmática, PEI, Autonomia pela Diversificação) e conceitos contemporâneos (Responsabilidade ao Proteger), integrando-os organicamente à discussão filosófica sobre a 'identidade'.",
+      "A estrutura textual é impecável, com progressão lógica clara, conectivos precisos e um fechamento circular elegante que retoma a premissa inicial através da máxima de Mário de Andrade. Domínio pleno da norma culta e vocabulário rico e preciso."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -371,8 +391,15 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto demonstra um nível elevadíssimo de sofisticação analítica e maturidade estilística. O candidato conseguiu realizar a transposição perfeita entre a provocação literária de Lucio Cardoso e a práxis da carreira diplomática, evitando a armadilha de fazer apenas um resumo do texto motivador ou uma descrição genérica da profissão.",
+      "A fundamentação teórica é robusta e pertinente, mobilizando conceitos de Edward Said ('sentimento colonizado'), Silviano Santiago ('entre-lugar') e o movimento modernista para construir a tese de que a identidade brasileira — e, consequentemente, a atuação do diplomata — reside na tensão dialética entre a tradição nacional e a abertura ao universal.",
+      "No campo da Política Externa Brasileira (PEB), o autor demonstrou domínio técnico ao citar exemplos concretos (Equidistância Pragmática, PEI, Autonomia pela Diversificação) e conceitos contemporâneos ('diferenciações concêntricas' e 'Responsibility while Protecting'), integrando-os organicamente à discussão filosófica sobre a identidade.",
+      "Quanto à correção gramatical e propriedade da linguagem, o texto é impecável. O vocabulário é rico, preciso e adequado ao registro formal exigido pelo CACD, com conectivos que garantem fluidez total ao raciocínio. A conclusão fecha o ciclo argumentativo com maestria ao retomar a premissa inicial através da máxima de Mário de Andrade."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -383,8 +410,15 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto demonstra um nível elevadíssimo de sofisticação analítica e maturidade estilística. O candidato conseguiu realizar a transposição perfeita entre a provocação literária de Lucio Cardoso e a práxis da carreira diplomática, evitando a armadilha de fazer apenas um resumo do texto motivador ou uma descrição genérica da profissão.",
+      "A fundamentação teórica é robusta e pertinente, mobilizando conceitos de Edward Said ('sentimento colonizado'), Silviano Santiago ('entre-lugar') e o movimento modernista para construir a tese de que a identidade brasileira — e, consequentemente, a atuação do diplomata — reside na tensão dialética entre a tradição nacional e a abertura ao universal.",
+      "No campo da Política Externa Brasileira (PEB), o autor demonstrou domínio técnico ao citar exemplos concretos (Equidistância Pragmática, PEI, Autonomia pela Diversificação) e conceitos contemporâneos (Responsabilidade ao Proteger), integrando-os organicamente à discussão filosófica sobre a 'identidade'.",
+      "A estrutura textual é impecável, com progressão lógica clara, conectivos precisos e um fechamento circular elegante que retoma a premissa inicial através da citação de Mário de Andrade. Domínio pleno da norma culta e vocabulário rico e preciso."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -393,14 +427,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 8.0,
+    "nota_1A": 8.5,
     "nota_1B": 7.0,
-    "nota_1C": 12.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se (erro de concordância/flexão: o correto seria 'institucionalizaram-se' para manter a concordância temporal com 'evoluíram')",
-      "formação constitutivo (erro de concordância nominal: o correto seria 'formação constitutiva')",
-      "identificados à terra (embora cite o texto, a regência de 'identificar' no sentido de 'reconhecer-se como' geralmente não exige crase, mas aqui o candidato mimetiza o erro ou estilo do autor; contudo, gramaticalmente é questionável)"
+      "institucionalizarem-se"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -411,14 +443,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 8.0,
+    "nota_1A": 8.5,
     "nota_1B": 7.0,
-    "nota_1C": 12.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se (erro de concordância/flexão: o correto seria 'institucionalizaram-se' para manter a concordância temporal com 'evoluíram')",
-      "formação constitutivo (erro de concordância nominal: o correto seria 'formação constitutiva')",
-      "identificados à terra (embora cite o texto, a regência de 'identificar' no sentido de 'reconhecer-se como' geralmente não exige crase, mas aqui o candidato mimetiza o erro ou estilo do autor; contudo, gramaticalmente é questionável)"
+      "institucionalizarem-se"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -429,14 +459,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 8.0,
+    "nota_1A": 8.5,
     "nota_1B": 7.0,
-    "nota_1C": 12.0,
-    "numero_de_erros_gramaticais": 3,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se (erro de concordância/flexão: o correto seria 'institucionalizaram-se' para manter a concordância temporal com 'evoluíram')",
-      "formação constitutivo (erro de concordância nominal: o correto seria 'formação constitutiva')",
-      "identificados à terra (embora cite o texto, a regência de 'identificar' no sentido de 'reconhecer-se como' geralmente não exige crase, mas aqui o candidato mimetiza o erro ou estilo do autor; contudo, gramaticalmente é questionável)"
+      "institucionalizarem-se"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -450,8 +478,8 @@
     "nota_final": 48.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se (erro de concordância/flexão verbal)",
-      "formação constitutivo (erro de concordância nominal)"
+      "institucionalizarem-se (regência/concordância temporal)",
+      "formação constitutivo (concordância nominal)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -465,8 +493,8 @@
     "nota_final": 48.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se (erro de concordância/flexão verbal)",
-      "formação constitutivo (erro de concordância nominal)"
+      "institucionalizarem-se (regência/concordância temporal)",
+      "formação constitutivo (concordância nominal)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -480,8 +508,8 @@
     "nota_final": 48.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se (erro de concordância/flexão verbal)",
-      "formação constitutivo (erro de concordância nominal)"
+      "institucionalizarem-se (regência/concordância temporal)",
+      "formação constitutivo (concordância nominal)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -493,11 +521,10 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se (erro de concordância/flexão: o correto seria 'institucionalizaram-se' para concordar com o tempo verbal do período)",
-      "formação constitutivo (erro de concordância nominal: o correto seria 'formação constitutiva')",
-      "identificados à terra (embora cite o texto, a regência de 'identificar' no sentido de 'reconhecer-se como' geralmente não exige a crase da forma utilizada, mas aqui segue a literalidade do autor, o que é aceitável, porém a construção 'identificados com a terra' seria a norma padrão)"
+      "institucionalizarem-se (concordância verbal/tempo)",
+      "formação constitutivo (concordância nominal)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -509,11 +536,10 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se (erro de concordância/flexão: o correto seria 'institucionalizaram-se' para concordar com o tempo verbal do período)",
-      "formação constitutivo (erro de concordância nominal: o correto seria 'formação constitutiva')",
-      "identificados à terra (embora cite o texto, a regência de 'identificar' no sentido de 'reconhecer-se como' geralmente não exige a crase da forma utilizada, mas aqui segue a literalidade do texto base)"
+      "institucionalizarem-se (concordância verbal/tempo)",
+      "formação constitutivo (concordância nominal)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -525,11 +551,10 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "institucionalizarem-se (erro de concordância/flexão: o correto seria 'institucionalizaram-se' para concordar com o tempo verbal do período)",
-      "formação constitutivo (erro de concordância nominal: o correto seria 'formação constitutiva')",
-      "identificados à terra (embora cite o texto, a regência de 'identificar' no sentido de 'reconhecer-se como' geralmente não exige a crase da forma utilizada, mas aqui segue a literalidade do autor, o que é aceitável, porém a construção 'identificados com a terra' seria a norma padrão)"
+      "institucionalizarem-se (concordância verbal/tempo)",
+      "formação constitutivo (concordância nominal)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -540,11 +565,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Regência nominal/crase: 'em relação a sua terra e a Europa'. Embora haja facultatividade diante de possessivos femininos ('a sua'), a paralelidade sintática exigiria crase em 'à Europa' para manter a coesão da regência de 'em relação a'."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -554,11 +581,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Regência nominal/crase: 'em relação a sua terra e a Europa'. Embora haja facultatividade diante de possessivos femininos ('a sua'), a paralelidade sintática exigiria crase em 'à Europa' para manter a coesão da regência de 'em relação a', ou a ausência total de artigo em ambos."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -568,11 +597,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Regência nominal/crase: 'em relação a sua terra e a Europa'. Embora haja facultatividade diante de possessivos femininos ('a sua'), a paralelidade sintática exigiria crase em 'à Europa' para manter a coesão da regência de 'em relação a'."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -620,8 +651,15 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta alta correção gramatical, sem deslizes evidentes que comprometam a nota."
+    ],
+    "feedbacks": [
+      "O candidato demonstrou excelente capacidade de transpor a provocação filosófica/literária do texto de apoio para a dimensão pragmática e teórica da profissão diplomática.",
+      "Houve um uso primoroso de referências intelectuais (Silviano Santiago, Evaldo Cabral de Mello, Roberto Schwarz, Darcy Ribeiro) que não foram meramente citadas, mas integradas organicamente à argumentação para fundamentar a tese de que ser diplomata exige a superação de alienações culturais ('mazombismo', 'ideias fora do lugar') em favor de uma leitura autêntica da brasilidade.",
+      "A estrutura textual é fluida, com progressão lógica clara e vocabulário preciso e sofisticado, condizente com o padrão exigido para o CACD.",
+      "A resposta atendeu plenamente ao comando do enunciado, discutindo a identidade do diplomata sob a ótica da tensão entre a influência externa e a essência nacional proposta pelo autor do fragmento."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -632,8 +670,15 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta alta correção gramatical, sem deslizes evidentes que comprometam a nota."
+    ],
+    "feedbacks": [
+      "O candidato demonstrou excelente capacidade de transpor a provocação filosófica/literária do texto de apoio para a dimensão pragmática e teórica da profissão diplomática.",
+      "Houve um uso primoroso de referências intelectuais (Silviano Santiago, Evaldo Cabral de Mello, Roberto Schwarz, Darcy Ribeiro) que não foram meramente citadas, mas integradas organicamente à argumentação para fundamentar a tese de que ser diplomata exige a superação de alienações culturais ('mazombismo', 'ideias fora do lugar') em prol de uma leitura autêntica da brasilidade.",
+      "A estrutura textual é fluida, com progressão lógica clara e vocabulário preciso e sofisticado, condizente com o padrão esperado para o CACD.",
+      "A resposta atendeu plenamente ao comando do enunciado, discutindo a identidade do diplomata sob a ótica da tensão entre a influência externa e a essência nacional proposta pelo autor do fragmento."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -644,8 +689,15 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta alta correção gramatical, sem deslizes evidentes que comprometam a nota."
+    ],
+    "feedbacks": [
+      "O candidato demonstrou excelente capacidade de transpor a provocação filosófica/literária do texto de apoio para a dimensão pragmática e teórica da profissão diplomática.",
+      "Houve um uso primoroso de referências intelectuais (Silviano Santiago, Evaldo Cabral de Mello, Roberto Schwarz, Darcy Ribeiro) que não foram meramente citadas, mas integradas organicamente à argumentação para fundamentar a tese de que ser diplomata exige a superação de alienações culturais ('mazombismo', 'ideias fora do lugar') em favor de uma leitura autêntica da brasilidade.",
+      "A estrutura textual é fluida, com progressão lógica clara e vocabulário preciso e sofisticado, condizente com o padrão esperado para o CACD.",
+      "A resposta atendeu plenamente ao comando do enunciado, discutindo a identidade do diplomata sob a ótica da tensão entre a influência externa e a essência nacional proposta pelo autor do fragmento."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -654,13 +706,14 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Concordância nominal: 'negociações bilaterais ou multilaterais' (está correto, mas o termo anterior 'âmbitos de negociação internacionais' apresenta erro de concordância: deveria ser 'negociações internacionais' ou 'negociação internacional').",
-      "Regência/Crase: 'servir a nação' (o verbo servir, no sentido de prestar serviço a alguém/algo, exige a preposição 'a'. Como 'nação' é substantivo feminino determinado, ocorre a crase: 'servir à nação')."
+      "Concordância nominal/verbal: 'negociações bilaterais ou multilaterais' preceded by 'âmbitos de negociação internacionais'. Embora aceitável em contextos informais, a norma culta exige 'âmbito de negociações internacionais' ou 'âmbitos de negociação internacional'.",
+      "Regência verbal: 'servir a nação'. O verbo servir, no sentido de prestar serviços a alguém/algo, rege preposição 'a', mas quando se refere a entidades públicas ou pátria, recomenda-se a crase ('à nação') devido à natureza determinada do substantivo feminino.",
+      "Pontuação/Estilo: Uso excessivo de vírgulas intercalando adjuntos adverbiais curtos, embora não configurem erro grave, prejudicam levemente a fluidez do período."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -671,13 +724,14 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Concordância nominal: 'negociações bilaterais ou multilaterais' (está correto, mas o trecho 'negociação internacionais' apresenta erro de concordância entre substantivo e adjetivo).",
-      "Regência/Crase: 'servir a nação' (o verbo servir, no sentido de prestar serviço a alguém/algo, exige a preposição 'a'. Como 'nação' é substantivo feminino determinado, ocorre a crase: 'servir à nação')."
+      "Concordância nominal/verbal: 'negociações bilaterais ou multilaterais' preceded by 'âmbitos de negociação internacionais'. Embora aceitável em contextos informais, a norma culta exige 'âmbito de negociações internacionais' ou 'âmbitos de negociação internacional'.",
+      "Regência verbal: 'servir a nação'. O verbo servir, no sentido de prestar serviços a alguém/algo, rege preposição 'a', mas quando se refere a entidades públicas ou pátria, recomenda-se a crase ('à nação') devido à natureza determinada do substantivo feminino.",
+      "Pontuação/Estilo: Uso excessivo de vírgulas intercalando adjuntos adverbiais curtos, embora não configurem erro grave, prejudicam levemente a fluidez do período."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -688,31 +742,20 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Concordância nominal: 'negociações bilaterais ou multilaterais' (está correto, mas o trecho 'negociação internacionais' apresenta erro de concordância entre substantivo e adjetivo).",
-      "Regência/Crase: 'servir a nação' (o verbo servir, no sentido de prestar serviço a alguém/algo, exige a preposição 'a', ocorrendo a crase: 'servir à nação')."
+      "Concordância nominal/verbal: 'negociações bilaterais ou multilaterais' preceded by 'âmbitos de negociação internacionais'. Embora aceitável em contextos informais, a norma culta exige 'âmbito de negociações internacionais' ou 'âmbitos de negociação internacional'.",
+      "Regência verbal: 'servir a nação'. O verbo servir, no sentido de prestar serviços a alguém/algo, rege preposição 'a', mas quando se refere a entidades públicas ou pátria, recomenda-se a crase ('à nação') devido à natureza determinada do substantivo feminino.",
+      "Pontuação/Estilo: Uso excessivo de vírgulas intercalando adjuntos adverbiais curtos, embora não configurem erro grave, prejudicam levemente a fluidez do período."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
-    "essay": 6,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
     "essay": 6,
     "ano": "2015"
   },
@@ -724,6 +767,18 @@
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
     "versao": 2,
     "essay": 6,
     "ano": "2015"
@@ -744,11 +799,15 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "delinea-se [1] à medida que (uso inadequado de regência/estilo: o verbo delinear, neste contexto, seria mais preciso como 'define-se' ou 'configura-se', embora não seja um erro crasso)",
-      "baseiam-se [2] em ativa participação (falta de artigo: 'baseiam-se na ativa participação')",
-      "servir a nação [3] (falta de crase: 'servir à nação')"
+      "[1] Regência verbal/nominal: 'delineia-se' geralmente requer complemento direto ou preposição diferente dependendo do sentido pretendido; no contexto, a construção ficou levemente imprecisa.",
+      "[2] Concordância nominal/regência: 'baseiam-se em ativa participação' carece de artigo ('na ativa participação') para maior precisão formal.",
+      "[3] Coesão textual: 'Considerando a discussão feita' é uma expressão coloquial/simplória para fechar um texto deste nível, faltando-lhe elegância estilística."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "O candidato demonstrou excelente capacidade de interlocução com o texto motivador, integrando as citações de Lucio Cardoso de maneira orgânica e inteligente para responder ao comando da questão.",
+      "Houve um bom equilíbrio entre a teoria (identidade nacional) e a prática (exemplos de PEB e menção à COP), evidenciando repertório cultural e conhecimento técnico esperado para o cargo.",
+      "A estrutura é clara, com progressão lógica e parágrafos bem definidos. No entanto, para atingir as faixas superiores (Excelente/Excepcional), seria necessária uma sofisticação maior no estilo literário e uma análise mais profunda e menos descritiva sobre a tensão entre a 'essência' mencionada no texto e a 'realidade' social."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -760,9 +819,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "delinea-se [1] à medida que (uso inadequado de regência/estilo: o verbo delinear, neste contexto, seria mais preciso como 'define-se' ou 'configura-se', embora não seja um erro crasso)",
-      "baseiam-se [2] em ativa participação (falta de artigo: 'baseiam-se na ativa participação')",
-      "servir a nação [3] (falta de crase: 'servir à nação')"
+      "[1] Regência verbal/nominal: 'delineia-se' requer complemento ou preposição adequada dependendo do sentido pretendido; no contexto, a construção ficou levemente imprecisa.",
+      "[2] Concordância nominal/Regência: 'baseiam-se em ativa participação' carece de artigo ('na ativa participação') para maior precisão formal.",
+      "[3] Coesão textual: 'Considerando a discussão feita' é uma expressão coloquial/simplória para fechar um texto deste nível, faltando-lhe elegância estilística."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -776,9 +835,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "delinea-se [1] à medida que (uso inadequado de regência/estilo: o verbo delinear, neste contexto, seria mais preciso como 'define-se' ou 'configura-se', embora não seja um erro crasso)",
-      "baseiam-se [2] em ativa participação (falta de artigo: 'baseiam-se na ativa participação')",
-      "servir a nação [3] (falta de crase: 'servir à nação')"
+      "[1] Regência verbal/nominal: 'delineia-se' requer complemento ou preposição adequada dependendo do sentido pretendido; no contexto, a construção ficou levemente imprecisa.",
+      "[2] Concordância nominal/Regência: 'baseiam-se em ativa participação' carece de artigo ('na ativa participação') para maior precisão formal.",
+      "[3] Coesão textual: 'Considerando a discussão feita' é uma expressão coloquial/simplória para fechar um texto deste nível, faltando um adjetivo qualificativo (ex: 'discussão ora empreendida')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -789,14 +848,14 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "[1] 'para sentindo-se' (Erro de regência/sintaxe: o correto seria 'para que, sentindo-se' ou 'para sentir-se')",
-      "[2] 'conduzir Diplomacia Pública' (Falta de artigo: 'conduzir a Diplomacia Pública')",
-      "[4] 'representa-las' (Erro de acentuação: o correto é 'representá-las')"
+      "Erro de sintaxe/regência no trecho '[1] ...para sentindo-se parte da coletividade' (O correto seria 'sentindo-se' ou 'para que, sentindo-se').",
+      "Ausência de hífen em 'representa-las' [4] (O correto é 'representá-las', embora haja acento, falta a precisão gráfica do hífen conforme norma culta).",
+      "Pontuação inadequada/estilo truncado no trecho '[3] ...obrigação de trabalhar, para que...' (Vírgula separando verbo de sua oração final subordinada, prejudicando a fluidez)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -807,14 +866,14 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "[1] 'para sentindo-se' (Erro de regência/sintaxe: o correto seria 'para que, sentindo-se' ou 'para sentir-se')",
-      "[2] 'conduzir Diplomacia Pública' (Falta de artigo: 'conduzir a Diplomacia Pública')",
-      "[4] 'representa-las' (Erro de acentuação: o correto é 'representá-las')"
+      "Erro de sintaxe/regência no trecho '[1] ...para sentindo-se parte da coletividade' (O correto seria 'sentindo-se' ou 'para que, sentindo-se').",
+      "Ausência de hífen em 'representa-las' [4] (O correto é 'representá-las', embora haja acento, falta a norma gráfica rigorosa dependendo da interpretação de digitação vs erro).",
+      "Pontuação excessiva/estilo fragmentado no último parágrafo ('Apresenta-se ao mundo como multicultural, busca dialogar com todos'), configurando orações justapostas sem conectivos adequados."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -825,15 +884,14 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 4,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "[1] 'para sentindo-se' (Erro de regência/sintaxe: o correto seria 'para que, sentindo-se' ou 'para sentir-se')",
-      "[2] 'conduzir Diplomacia Pública' (Falta de artigo: 'conduzir a Diplomacia Pública')",
-      "[3] 'trabalhar, para que' (Vírgula indevida separando a oração principal da subordinada final)",
-      "[4] 'representa-las' (Erro de acentuação: o correto é 'representá-las')"
+      "Erro de sintaxe/regência no trecho '[1] ...para sentindo-se parte da coletividade' (O correto seria 'sentindo-se' ou 'para que, sentindo-se').",
+      "Ausência de hífen em 'representa-las' [4] (O correto é 'representá-las', embora haja acento, falta a precisão gráfica do pronome enclítico conforme norma culta).",
+      "Pontuação inadequada/estilo truncado no trecho '[3] ...obrigação de trabalhar, para que...' (Vírgula separando verbo de sua oração final subordinada, prejudicando a fluidez)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -844,13 +902,13 @@
     "ano": "2015"
   },
   {
-    "nota_final": 48.5,
+    "nota_final": 52.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "[1] Erro de sintaxe/regência: 'para sentindo-se' (o correto seria 'para que, sentindo-se' ou 'por sentir-se').",
-      "[2] Falta de artigo: 'conduzir Diplomacia Pública' (o correto seria 'conduzir a Diplomacia Pública').",
-      "[3] Erro de pontuação: vírgula separando a oração principal da final ('trabalhar, para que').",
-      "[4] Erro de ortografia/acentuação: 'representa-las' (o correto seria 'representá-las')."
+      "Erro de sintaxe/regência no trecho '[1] para sentindo-se'",
+      "Ausência de vírgula após 'ofício' no segundo parágrafo ('Para exercer, adequadamente, seu ofício[,] é premente')",
+      "Erro de acentuação gráfica em 'representa-las' ([4]) - correto seria 'representá-las'",
+      "Falta de paralelismo ou erro de pontuação no último parágrafo ('reconhecimento da identidade brasileira, de sua característica multicultural') - falta conectivo ou ajuste de pontuação para fluidez."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -861,13 +919,13 @@
     "ano": "2015"
   },
   {
-    "nota_final": 48.5,
+    "nota_final": 52.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "[1] Erro de sintaxe/regência: 'para sentindo-se' (o correto seria 'para que, sentindo-se' ou 'por sentir-se').",
-      "[2] Falta de artigo: 'conduzir Diplomacia Pública' (o correto seria 'conduzir a Diplomacia Pública').",
-      "[3] Erro de pontuação: vírgula separando a oração principal da final ('trabalhar, para que').",
-      "[4] Erro de ortografia/acentuação: 'representa-las' (o correto seria 'representá-las')."
+      "Erro de sintaxe/regência no trecho '[1] para sentindo-se' (uso inadequado do gerúndio após a preposição 'para', onde seria esperado o infinitivo)",
+      "Ausência de vírgula separando orações coordenadas ou adjuntos deslocados no trecho '[2] de modo a conduzir Diplomacia Pública' (embora aceitável, prejudica a fluidez)",
+      "Erro de paralelismo ou omissão de termo no trecho '[3] trabalhar, para que'",
+      "Erro de acentuação gráfica/ortográfica em 'representa-las' (falta de acento tônico no verbo 'representá-las')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -878,13 +936,13 @@
     "ano": "2015"
   },
   {
-    "nota_final": 48.5,
+    "nota_final": 52.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "[1] Erro de sintaxe/regência: 'para sentindo-se' (o correto seria 'para que, sentindo-se' ou 'por sentir-se').",
-      "[2] Falta de artigo: 'conduzir Diplomacia Pública' (o correto seria 'conduzir a Diplomacia Pública').",
-      "[3] Erro de pontuação: vírgula separando a oração principal da final ('trabalhar, para que').",
-      "[4] Erro de ortografia/acentuação: 'representa-las' (o correto seria 'representá-las')."
+      "Erro de sintaxe/regência no trecho '[1] para sentindo-se'",
+      "Ausência de vírgula após 'ofício' no segundo parágrafo ('Para exercer, adequadamente, seu ofício[,] é premente')",
+      "Erro de acentuação gráfica em 'representa-las' ([4]) - correto seria 'representá-las'",
+      "Falta de paralelismo ou erro de pontuação no último parágrafo ('reconhecimento da identidade brasileira, de sua característica multicultural') - falta conectivo ou ajuste de pontuação para fluidez."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -897,13 +955,12 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "[1] 'para sentindo-se parte da coletividade' (Erro de sintaxe/regência: o correto seria 'para que, sentindo-se...' ou 'para sentir-se...')",
-      "[2] 'conduzir Diplomacia Pública' (Uso impreciso do verbo 'conduzir' com o conceito de Diplomacia Pública; seria mais adequado 'implementar' ou 'promover')",
-      "[3] 'trabalhar, para que' (Vírgula desnecessária separando a oração principal da oração subordinada final)",
-      "[4] 'representa-las' (Erro de acentuação: o correto é 'representá-las')"
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização e progressão lógica, respondendo diretamente ao comando do enunciado ao transpor a angústia existencial/estética de Lúcio Cardoso para a dimensão profissional e ética do diplomata.",
+      "A argumentação é pertinente e demonstra maturidade, conectando conceitos de identidade nacional (Mário de Andrade, Darcy Ribeiro) às práticas contemporâneas do Itamaraty (Diplomacia Pública, Diversidade no CACD).",
+      "No campo da correção gramatical, o texto é fluido e domina a norma culta, embora apresente lapsos pontuais de sintaxe e digitação que impedem a nota máxima (como a construção truncada no trecho '[1] sentindo-se parte da coletividade' e o erro de digitação 'representa-las' no trecho [4])."
     ],
-    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -914,13 +971,12 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "[1] Erro de sintaxe/regência: 'para [1] sentindo-se parte da coletividade' (o correto seria 'para que, sentindo-se...' ou 'para sentir-se...').",
-      "[2] Falta de artigo: 'conduzir Diplomacia Pública' (o ideal seria 'conduzir a Diplomacia Pública').",
-      "[3] Pontuação: a vírgula antes de 'para que a política externa...' é facultativa, mas a construção do período torna a leitura levemente truncada.",
-      "[4] Erro de ortografia/acentuação: 'representa-las' (o correto é 'representá-las')."
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização e progressão lógica, respondendo diretamente ao comando do enunciado ao transpor a angústia existencial/estética de Lúcio Cardoso para a dimensão profissional e ética do diplomata.",
+      "A argumentação é pertinente e demonstra maturidade, conectando conceitos de identidade nacional (Mário de Andrade, Darcy Ribeiro) às práticas contemporâneas do Itamaraty (Diplomacia Pública, Diversidade no CACD).",
+      "No campo da correção gramatical, o texto é fluido e domina a norma culta, embora apresente lapsos pontuais de sintaxe e ortografia (como a falha de paralelismo/regência no trecho '[1]' e o erro de acentuação gráfica em 'representa-las' no trecho [4])."
     ],
-    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -931,13 +987,12 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "[1] 'para sentindo-se parte da coletividade' (Erro de regência/sintaxe: o correto seria 'para que, sentindo-se...' ou 'para sentir-se...')",
-      "[2] 'conduzir Diplomacia Pública' (Uso impreciso do verbo 'conduzir' com o conceito de Diplomacia Pública; seria mais adequado 'implementar' ou 'promover')",
-      "[3] 'trabalhar, para que' (Vírgula desnecessária separando a oração principal da oração subordinada final)",
-      "[4] 'representa-las' (Erro de acentuação: o correto é 'representá-las')"
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta excelente organização e progressão lógica, respondendo diretamente ao comando do enunciado ao transpor a angústia existencial/estética de Lúcio Cardoso para a dimensão profissional e ética do diplomata.",
+      "A argumentação é pertinente e demonstra maturidade, conectando conceitos de identidade nacional (Mário de Andrade, Darcy Ribeiro) às práticas contemporâneas do Itamaraty (Diplomacia Pública, Diversidade no CACD).",
+      "No campo da correção gramatical, o texto é fluido e domina a norma culta, embora apresente lapsos pontuais de sintaxe e digitação que impedem a nota máxima (como a falha estrutural no trecho '[1] ...para sentindo-se', erro de concordância nominal/digitação em '[4] representa-las' e ausência de vírgula em 'característica multicultural')."
     ],
-    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -946,13 +1001,14 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "enfatiza (erro de concordância verbal/modo: o correto seria 'enfatize', após a conjunção 'embora')",
-      "tem (erro de concordância verbal: 'todos os seus esforços tem' deveria ser 'têm', no plural)"
+      "'embora a definição apresentada enfatiza' -> erro de modo verbal (subjuntivo exigido após 'embora'): deveria ser 'enfatize'.",
+      "'consequência s' / 'po vo' -> erros de digitação/espaçamento (considerados lapsus calami, mas contabilizados como falhas formais).",
+      "'todos os seus esforços tem' -> erro de concordância verbal (plural): deveria ser 'têm'."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -963,13 +1019,15 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "enfatiza (erro de concordância verbal/modo: o correto seria 'enfatize', após a conjunção 'embora')",
-      "tem (erro de concordância verbal: 'todos os seus esforços tem' deveria ser 'têm', no plural)"
+      "'embora a definição apresentada enfatiza' -> erro de modo verbal (subjuntivo exigido: 'enfatize')",
+      "'vivencia a s consequência s' -> erro de digitação/espaçamento (considerado erro formal)",
+      "'todos os seus esforços tem' -> falta de acento diferencial de plural ('têm')",
+      "'irmãos gêmeos respectivamente monarquistas e republicano' -> erro de concordância nominal ('republicanos')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -980,51 +1038,21 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "enfatiza (erro de concordância verbal/modo: o correto seria 'enfatize', após a conjunção 'embora')",
-      "tem (erro de concordância verbal: 'todos os seus esforços tem' deveria ser 'têm', no plural)"
+      "'embora a definição apresentada enfatiza' -> erro de modo verbal (subjuntivo exigido: 'enfatize')",
+      "'vivencia a s consequência s' -> erro de digitação/espaçamento (considerado erro formal)",
+      "'todos os seus esforços tem' -> falta de acento diferencial de plural ('têm')",
+      "'irmãos gêmeos respectivamente monarquistas e republicano' -> erro de concordância nominal ('republicanos')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'embora a definição apresentada enfatiza' (erro de regência/modo verbal: deveria ser 'enfatize')",
-      "'consequência s sociais' (erro de digitação/espaçamento)",
-      "'todos os seus esforços tem' (erro de concordância verbal: deveria ser 'têm' para concordar com o plural 'esforços')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'embora a definição apresentada enfatiza' (erro de regência/modo verbal: deveria ser 'enfatize')",
-      "'consequência s sociais' (erro de digitação/espaçamento)",
-      "'todos os seus esforços tem' (erro de concordância verbal: deveria ser 'têm' para concordar com 'esforços')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
     "essay": 8,
     "ano": "2015"
   },
@@ -1032,8 +1060,38 @@
     "nota_final": 48.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "enfatiza (deveria ser enfatize)",
-      "tem (deveria ser têm) comentário: concordância com 'esforços'"
+      "concordância verbal ('definição apresentada enfatiza' - correto seria 'enfatize', dado o sentido concessivo de 'embora')",
+      "acentuação/digitação ('tem como objetivo' - falta acento diferencial de plural em 'têm')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância verbal ('definição apresentada enfatiza' - correto seria 'enfatize', dado o sentido concessivo de 'embora')",
+      "acentuação/digitação ('tem como objetivo' - falta acento diferencial de plural em 'têm')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "concordância verbal ('definição apresentada enfatiza' - correto seria 'enfatize', dado o sentido concessivo de 'embora')",
+      "acentuação/digitação ('tem como objetivo' - falta acento diferencial de plural em 'têm')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1045,9 +1103,10 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "...definição apresentada enfatiza..."
+      "Embora a definição apresentada enfatiza (Erro de regência/modo verbal: deveria ser 'enfatize' após a conjunção concessiva 'embora')",
+      "todos os seus esforços tem (Erro de concordância nominal/acentuação: deveria ser 'têm', plural, concordando com 'esforços')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1059,9 +1118,10 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "...definição apresentada enfatiza..."
+      "Embora a definição apresentada enfatiza (Erro de regência/modo verbal: deveria ser 'enfatize' devido à conjunção concessiva 'embora')",
+      "todos os seus esforços tem (Erro de concordância nominal/acentuação: deveria ser 'têm', plural, concordando com 'esforços')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1073,9 +1133,10 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "...definição apresentada enfatiza..."
+      "Embora a definição apresentada enfatiza (incorreto) $\rightarrow$ enfatize (correto): erro de flexão verbal após conjunção concessiva.",
+      "todos os seus esforços tem (incorreto) $\rightarrow$ têm (correto): ausência de acento diferencial de plural."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1086,12 +1147,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso inadequado de vírgula separando o sujeito do predicado: 'Não obstante, o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária a adaptação...' (A vírgula após 'brasileira' é incorreta)."
+      "Uso inadequado de vírgula separando sujeito de predicado ('...papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária...' - erro de sintaxe/pontuação)",
+      "Ausência de preposição adequada ou conectivo após 'Não obstante' (que aqui foi usado como conjunção concessiva, mas a frase ficou fragmentada ou exigiria 'apesar do')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1102,12 +1164,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso inadequado de vírgula separando o sujeito do predicado: 'Não obstante, o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária a adaptação...' (A vírgula após 'brasileira' é incorreta)."
+      "Uso inadequado de vírgula separando sujeito de predicado ('...papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária...' - erro de sintaxe/pontuação)",
+      "Ausência de preposição adequada ou conectivo após 'Não obstante' (que aqui foi usado como conjunção concessiva, mas a frase ficou fragmentada ou exigiria 'apesar do')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1118,13 +1181,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "Uso inadequado de vírgula separando o sujeito do predicado: 'Não obstante, o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária...' (A vírgula após 'brasileira' é incorreta).",
-      "Uso de hífen em vez de travessão ou vírgula para isolar aposto/explicação: 'contexto doméstico- em termos socioeconômicos...' (Falta de padronização e espaçamento na pontuação)."
+      "Uso inadequado de vírgula separando sujeito de predicado ('...papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária...' - erro de sintaxe/pontuação)",
+      "Ausência de preposição adequada ou conectivo após 'Não obstante' (que aqui foi usado como conjunção concessiva, mas a frase ficou fragmentada ou exigiria 'apesar do')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1148,8 +1211,10 @@
   },
   {
     "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "falta de vírgula após 'No entanto' / 'Não obstante' (uso inadequado da conjunção concessiva iniciando frase sem complemento oracional adequado ou falta de pausa),"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -1160,8 +1225,12 @@
   },
   {
     "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "falta de vírgula após 'No entanto' / 'Não obstante' (uso inadequado da conjunção concessiva iniciando frase sem complemento oracional adequado ou falta de pausa),",
+      "espaçamento/pontuação inconsistente em 'doméstico- em terms',",
+      "vírgula separando sujeito de predicado em 'o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária' (Erro grave de sintaxe)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -1174,9 +1243,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Uso inadequado de hífen em 'doméstico- em termos' (falta de espaço ou pontuação inadequada para a intercalação).",
-      "Uso de vírgula separando o sujeito do predicado em 'o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária a adaptação' (erro de sintaxe/pontuação).",
-      "Uso de 'erradicação da pobreza externa' (imprecisão vocabular/semântica, provavelmente quis dizer 'erradicação da pobreza no plano externo' ou 'exportação de políticas de erradicação')."
+      "Uso inadequado do hífen/travessão em 'doméstico- em termos' (falta de simetria ou espaçamento incorreto)",
+      "Vírgula separando sujeito de predicado em 'o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária...'",
+      "Imprecisão terminológica em 'erradicação da pobreza externa' (provavelmente quis dizer 'combate à pobreza no exterior' ou 'exportação de políticas de erradicação')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1187,12 +1256,13 @@
     "ano": "2015"
   },
   {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "Uso inadequado do hífen em 'doméstico- em termos' (falta de espaço ou pontuação inadequada para a intercalação).",
-      "Uso de vírgula separando o sujeito do predicado em 'o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária a adaptação' (erro de sintaxe/pontuação).",
-      "Uso de 'erradicação da pobreza externa' (imprecisão vocabular/semântica, provavelmente quis dizer 'erradicação da pobreza no plano externo' ou 'exportação de políticas de erradicação')."
+    "faixa":"Ótimo",
+    "numero_de_erros_gramaticais":3,
+    "erros_gramaticais":[
+      "Uso inadequado do hífen/travessão em 'doméstico- em termos' (falta de simetria ou espaçamento incorreto)",
+      "Vírgula separando sujeito de predicado em 'o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária...'",
+      "Imprecisão terminológica em 'erradicação da pobreza externa', quando o contexto sugere a exportação de políticas de erradicação da pobreza para o exterior.",
+      "observacoes_do_avaliador：“O texto apresenta excelente estrutura formal, com introdução, desenvolvimento e conclusão bem demarcados. O candidato demonstrou ótima capacidade de transpor a provocação filosófica do texto de apoio (sobre a busca pela essência nacional e a recusa ao exotismo) para a dimensão pragmática da função diplomática. Houve referências pertinentes a intelectuais e figuras da área (Gilberto Freyre, Azeredo da Silveira, Lúcio Cardoso), conferindo densidade ao argumento. A progressão textual é fluida e a linguagem é adequada ao cargo. Para atingir as faixas superiores, seria recomendável evitar lapsos sintáticos pontuais (como a vírgula proibida entre sujeito e verbo) e aprofundar a análise crítica sobre a tensão entre 'tradição' e 'inovação', indo além da descrição de fatos recentes (cotas e diplomacia pública)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1206,9 +1276,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Uso inadequado de hífen em 'doméstico- em termos' (deveria ser travessão ou vírgula).",
-      "Vírgula desnecessária separando o sujeito do predicado em 'o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária a adaptação' (erro de sintaxe/pontuação).",
-      "Uso de 'erradicação da pobreza externa' (imprecisão terminológica; a pobreza é interna, a ação de combate é que se projeta externamente)."
+      "Uso inadequado do hífen/travessão em 'doméstico- em termos' (falta de simetria ou espaçamento incorreto)",
+      "Vírgula separando sujeito de predicado em 'o papel essencial que a tradição desempenha no seio da diplomacia brasileira, faz-se necessária...'",
+      "Imprecisão terminológica em 'erradicação da pobreza externa' (provavelmente quis dizer 'combate à pobreza no exterior' ou 'exportação de políticas de erradicação')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1219,9 +1289,9 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
       "Erro de digitação/ortografia: 'ma s' (espaço indevido no primeiro parágrafo)."
@@ -1235,9 +1305,9 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
       "Erro de digitação/ortografia: 'ma s' (espaço indevido no primeiro parágrafo)."
@@ -1251,9 +1321,9 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
       "Erro de digitação/ortografia: 'ma s' (espaço indevido no primeiro parágrafo)."
@@ -1267,12 +1337,11 @@
     "ano": "2015"
   },
   {
-    "nota_final": 52.00,
+    "nota_final":"54.50",
     "numero_de_erros_gramaticais":1,
     "erros_gramaticais":[
-      "ma s (erro de digitação/espaçamento)"
+      "mas (espaçamento indevido)"
     ],
-    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -1281,12 +1350,11 @@
     "ano": "2015"
   },
   {
-    "nota_final": 52.00,
+    "nota_final":"54.50",
     "numero_de_erros_gramaticais":1,
     "erros_gramaticais":[
-      "ma s (erro de digitação/espaçamento)"
+      "mas (espaçamento indevido)"
     ],
-    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -1295,12 +1363,11 @@
     "ano": "2015"
   },
   {
-    "nota_final": 52.00,
+    "nota_final":"54.50",
     "numero_de_erros_gramaticais":1,
     "erros_gramaticais":[
-      "ma s (erro de digitação/espaçamento)"
+      "mas (espaçamento indevido)"
     ],
-    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -1310,11 +1377,14 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Erro de digitação/espaçamento em 'ma s' (primeiro parágrafo)"
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, com sintaxe complexa e correta."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O texto é muito bem estruturado, apresentando progressão lógica e coesa. O candidato conseguiu transpor a discussão filosófica/literária do fragmento (sobre 'essência' vs. 'construção' da nacionalidade) para a dimensão pragmática da função diplomática. A utilização do conceito de 'comunidades imaginadas' de Benedict Anderson demonstra repertório sociocultural e capacidade de abstração, elevando a discussão para além do senso comum. O argumento final sobre a tensão entre cosmopolitismo e nacionalidade respondeu adequadamente à angústia do autor do texto base sobre ser um 'artista exótico'.",
+      "**Linguagem e Gramática:** A linguagem é formal, precisa e adequada ao padrão exigido pelo CACD. Há uso correto de conectivos ('Conquanto', 'Nesse sentido', 'Ao passo que'), garantindo a fluidez do texto. Não foram detectados erros significativos de ortografia, concordância ou regência."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1324,11 +1394,14 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Erro de digitação/espaçamento em 'ma s' (primeiro parágrafo)"
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, com sintaxe complexa e correta."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O candidato demonstrou ótima capacidade de abstração ao conectar o fragmento literário/filosófico proposto às funções concretas da diplomacia. Houve um encadeamento lógico fluido, partindo da distinção entre Estado e Nação, passando pela teoria de Benedict Anderson ('comunidades imaginadas') para problematizar a 'essência' mencionada no texto, e culminando na definição do diplomata como representante, intérprete e promotor. A argumentação é coerente e foge do senso comum, elevando a discussão para um plano teórico pertinente ao CACD.",
+      "**Linguagem e Gramática:** O vocabulário é preciso e formal, adequado ao cargo pretendido. A estrutura frasal é equilibrada, utilizando conectivos de forma eficaz para garantir a coesão textual. Não foram detectados erros significativos de ortografia, concordância ou regência."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1338,11 +1411,14 @@
   },
   {
     "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [
-      "Erro de digitação/espaçamento em 'ma s' (primeiro parágrafo)"
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, com sintaxe complexa e correta."
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "**Organização e Desenvolvimento:** O candidato demonstrou ótima capacidade de abstração ao conectar o fragmento literário/filosófico proposto às funções concretas da diplomacia. Houve um encadeamento lógico fluido, partindo da distinção entre Estado e Nação, passando pela crítica teórica ao 'espírito nacional' via Benedict Anderson, até chegar à conclusão pragmática sobre a função do diplomata como intérprete e promotor do país. A argumentação é coerente e evita clichês, elevando a discussão para um plano sociológico e político pertinente ao CACD.",
+      "**Linguagem e Gramática:** O vocabulário é preciso e formal, adequado ao cargo pretendido. A estrutura frasal é equilibrada, utilizando conectivos de forma eficaz para garantir a coesão textual. Não foram detectados erros significativos de ortografia, concordância ou regência."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1351,12 +1427,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 8.0,
+    "nota_1A": 8.5,
     "nota_1B": 7.0,
-    "nota_1C": 10.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "sus responsabilidades (erro de digitação/ortografia)"
+      "sus"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1367,12 +1443,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 8.0,
+    "nota_1A": 8.5,
     "nota_1B": 7.0,
-    "nota_1C": 10.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "sus responsabilidades (erro de digitação/ortografia)"
+      "sus responsabilidades (ortografia/digitação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1383,12 +1459,12 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 8.0,
+    "nota_1A": 8.5,
     "nota_1B": 7.0,
-    "nota_1C": 10.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "sus responsabilidades (erro de digitação/ortografia)"
+      "sus responsabilidades (ortografia/digitação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1399,12 +1475,11 @@
     "ano": "2015"
   },
   {
-    "nota_final": 48.50,
+    "nota_final":"48.50",
     "numero_de_erros_gramaticais":1,
-    "erros_gramaticais": [
-      "sus responsabilidades (erro de digitação/ortografia)"
+    "erros_gramaticais":[
+      "sus responsabilidades (digitação/ortografia)"
     ],
-    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -1412,13 +1487,12 @@
     "essay": 11,
     "ano": "2015"
   },
-  {
-    "nota_final": 48.50,
+{
+    "nota_final":"48.50",
     "numero_de_erros_gramaticais":1,
-    "erros_gramaticais": [
-      "sus responsabilidades (erro de digitação/ortografia)"
+    "erros_gramaticais":[
+      "sus responsabilidades (digitação/ortografia)"
     ],
-    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -1427,12 +1501,11 @@
     "ano": "2015"
   },
   {
-    "nota_final": 48.50,
+    "nota_final":"48.50",
     "numero_de_erros_gramaticais":1,
-    "erros_gramaticais": [
-      "sus responsabilidades (erro de digitação/ortografia)"
+    "erros_gramaticais":[
+      "sus responsabilidades (digitação/ortografia)"
     ],
-    "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -1442,9 +1515,11 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "sus responsabilidades (erro de digitação/ortografia)"
+      "sus responsabilidades (ortografia/digitação)",
+      "abster-se em relação a pronunciamentos (regência verbal - preferencialmente 'abster-se de')",
+      "contribuir para incompreensões (imprecisão lexical/estilística)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1456,9 +1531,11 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "sus responsabilidades (erro de digitação/ortografia)"
+      "sus responsabilidades (ortografia/digitação)",
+      "abster-se em relação a pronunciamentos (regência verbal - preferencialmente 'abster-se de')",
+      "contribuir para incompreensões (imprecisão lexical/estilística)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1470,9 +1547,11 @@
   },
   {
     "faixa": "Bom",
-    "numero_de_erros_gramaticais": 1,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "sus responsabilidades (erro de digitação/ortografia)"
+      "sus responsabilidades (ortografia/digitação)",
+      "abster-se em relação a pronunciamentos (regência verbal - preferencialmente 'abster-se de')",
+      "contribuir para incompreensões (imprecisão lexical/estilística)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1486,8 +1565,10 @@
     "nota_1A": 7.0,
     "nota_1B": 6.0,
     "nota_1C": 5.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "comenta quadro"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1500,8 +1581,10 @@
     "nota_1A": 7.0,
     "nota_1B": 6.0,
     "nota_1C": 5.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "comenta quadro"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1514,8 +1597,10 @@
     "nota_1A": 7.0,
     "nota_1B": 6.0,
     "nota_1C": 5.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "falta de artigo definido antes de 'quadro' ('comenta QUADRO de Hans Holbein')"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1564,7 +1649,12 @@
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      "O candidato demonstra domínio da norma culta e apresenta um texto organizado formalmente, porém falhou gravemente no critério de 'desenvolvimento do tema' e 'capacidade de reflexão'.",
+      "O comando da questão solicitava expressamente que a discussão tivesse como *fundamento* as ideias defendidas pelo autor do texto motivador (Lucio Cardoso). No entanto, o candidato utilizou o fragmento apenas como uma citação marginal ao final do texto, ignorando a tese central do autor: a necessidade de o indivíduo mergulhar nas raízes nacionais, superar a alienação ('artista exótico') e encontrar a 'essência verdadeira' do povo para atingir a lucidez.",
+      "Em vez de discutir a dimensão ontológica e identitária de 'ser um diplomata brasileiro' sob a ótica proposta, o candidato optou por fazer um relato descritivo e histórico sobre a profissão, citando a história do IRBr, a evolução tecnológica da informação e anedotas sobre a aparência dos diplomatas.",
+      "Houve uma confusão entre 'discutir o papel do diplomata' e 'discutir o que é ser um diplomata brasileiro tendo por fundamento o texto'. O resultado é um texto informativo/descritivo, mas pobre em análise crítica e distante da provocação filosófica do enunciado."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1575,7 +1665,9 @@
   {
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -1587,7 +1679,9 @@
   {
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -1597,11 +1691,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ao mesmo tempo que [1] -> Uso inadequado da locução conjuntiva 'ao mesmo tempo que' com sentido temporal/concomitante seguido de orações coordenadas; recomenda-se 'ao passo que' ou 'enquanto'. (Erro leve de sintaxe/estilo)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1611,11 +1707,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ao mesmo tempo que [1] -> Uso inadequado da locução conjuntiva 'ao mesmo tempo que' com sentido temporal/concomitante seguido de orações coordenadas; recomenda-se 'ao passo que' ou 'enquanto'. (Erro leve de sintaxe/estilo)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1625,11 +1723,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ao mesmo tempo que [1] -> Uso inadequado da locução conjuntiva 'ao mesmo tempo que' com sentido temporal/concomitante seguido de orações coordenadas; recomenda-se 'ao passo que' ou 'enquanto'. (Erro leve de sintaxe/estilo)"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -1652,10 +1752,8 @@
   },
   {
     "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Uso inadequado de colchetes [1] no corpo do texto, o que não é previsto na norma culta ou em redações de concurso."
-    ],
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -1666,24 +1764,27 @@
   },
   {
     "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Uso inadequado de colchetes [1] no corpo do texto, o que não é previsto em normas de redação dissertativa."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros evidentes de ortografia, concordância ou regência."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O candidato demonstrou ótima capacidade de articular o texto motivador (que trata da busca pela essência nacional e da recusa ao exotismo/ufanismo) com a prática profissional da diplomacia. Houve um encadeamento lógico fluido, partindo da definição histórica da carreira até chegar à contemporaneidade e à ideia de 'representatividade'. A utilização de referências externas (Joaquim Nabuco, Manoel Bomfim, Oswald de Andrade e Sílvio Romero) foi pertinente e elevou o nível da discussão, transformando a resposta em uma reflexão orgânica sobre a identidade do diplomata enquanto espelho e agente do Estado.",
+      "Linguagem: A linguagem é formal, precisa e adequada ao padrão exigido pelo CACD. O vocabulário é rico e a sintaxe é bem construída, garantindo clareza e concisão."
+    ],
+    "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
@@ -1692,239 +1793,248 @@
   },
   {
     "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros evidentes de ortografia, concordância ou regência."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O candidato demonstrou ótima capacidade de articular o texto motivador (que trata da busca pela essência nacional e da recusa ao exotismo/ufanismo) com a prática profissional da diplomacia. Houve um encadeamento lógico fluido, partindo da definição histórica da carreira até chegar à contemporaneidade e à ideia de 'antropofagia' cultural aplicada à função diplomática. A argumentação é pertinente e utiliza referências sólidas (Joaquim Nabuco, Mauro Vieira, Manoel Bomfim, Oswald de Andrade e Sílvio Romero) para sustentar a tese de que o diplomata deve ser um espelho crítico e diverso da nação.",
+      "Linguagem: A linguagem é formal, precisa e adequada ao padrão exigido pelo CACD. O vocabulário é rico e a sintaxe é bem construída, conferindo clareza e elegância ao discurso."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros evidentes de ortografia, concordância ou regência."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O candidato demonstrou ótima capacidade de articular o texto motivador (que trata da busca pela essência nacional e da recusa ao exotismo/ufanismo) com a prática profissional da diplomacia. Houve um encadeamento lógico fluido, partindo da definição histórica da carreira até chegar à contemporaneidade e à ideia de 'antropofagia' cultural aplicada à função diplomática. A argumentação é pertinente e utiliza referências sólidas (Joaquim Nabuco, Mauro Vieira, Manoel Bomfim, Oswald de Andrade e Sílvio Romero) para sustentar a tese de que o diplomata deve ser um espelho crítico e diverso da nação.",
+      "Linguagem: A linguagem é formal, precisa e adequada ao padrão exigido pelo CACD. O vocabulário é rico e a sintaxe é bem construída, conferindo clareza e elegância ao discurso."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 13,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 6.0,
+    "nota_1C": 5.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tato"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 6.0,
+    "nota_1C": 5.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tato"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 6.0,
+    "nota_1C": 5.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "tato"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Para tato"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Para tato"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Para tato"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para tato (digitação/ortografia)",
+      "identificação do diplomara (digitação/ortografia)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para tato (digitação/ortografia)",
+      "identificação do diplomara (digitação/ortografia)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Para tato (digitação/ortografia)",
+      "identificação do diplomara (digitação/ortografia)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 14,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "falta de crase em 'relação a politica públicas' (correto: relação às políticas públicas)",
+      "ausência de artigo definido em 'chegar a consenso' (preferencialmente: chegar a um consenso)",
+      "uso inadequado de vírgula separando sujeito de predicado/complemento em 'com a democratização [2] o diplomata...' (necessitaria de vírgula após adjunto adverbial deslocado)",
+      "concordância nominal/ortográfica em 'política públicas' (plural inconsistente)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "falta de crase em 'relação a politica públicas' (correto: relação às políticas públicas)",
+      "ausência de artigo definido em 'chegar a consenso' (preferencialmente: chegar a um consenso)",
+      "uso inadequado de vírgula separando sujeito de predicado/complemento em 'com a democratização [2] o diplomata...' (necessitaria de vírgula após adjunto adverbial deslocado)",
+      "concordância nominal/ortográfica em 'política públicas' (plural inconsistente)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "falta de crase em 'relação a politica públicas' (correto: relação às políticas públicas)",
+      "ausência de artigo definido em 'chegar a consenso' (preferencialmente: chegar a um consenso)",
+      "uso inadequado de vírgula após 'crescentemente' (está isolando o advérbio de forma incompleta ou desnecessária dependendo da leitura sintática)",
+      "concordância nominal/ortográfica em 'política públicas' (plural inconsistente)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 48.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
-    "prompt": 9,
+    "prompt": 8,
     "temp": 0.0,
-    "versao": 2,
-    "essay": 13,
+    "versao": 1,
+    "essay": 15,
     "ano": "2015"
   },
   {
-    "faixa": "Ótimo",
+    "nota_final": 48.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 13,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7.0,
-    "nota_1B": 7.0,
-    "nota_1C": 8.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para tato (erro de digitação/ortografia para 'Para tanto')",
-      "identificação do diplomara (erro de digitação/ortografia para 'diplomata')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7.0,
-    "nota_1B": 7.0,
-    "nota_1C": 8.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para tato (erro de digitação/ortografia para 'Para tanto')",
-      "identificação do diplomara (erro de digitação/ortografia para 'diplomata')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 7.0,
-    "nota_1B": 7.0,
-    "nota_1C": 8.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para tato (erro de digitação/ortografia para 'Para tanto')",
-      "identificação do diplomara (erro de digitação/ortografia para 'diplomata')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Para tato (Para tal) - erro de digitação/ortografia."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Para tato (Para tal) - erro de digitação/ortografia."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Para tato (Para tal) - erro de digitação/ortografia."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para tato (erro de digitação/ortografia para 'Para tanto')",
-      "identificação do diplomara (erro de digitação/ortografia para 'diplomata')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para tato (erro de digitação/ortografia para 'Para tanto')",
-      "identificação do diplomara (erro de digitação/ortografia para 'diplomata')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "faixa": "Bom",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Para tato (erro de digitação/ortografia para 'Para tanto')",
-      "identificação do diplomara (erro de digitação/ortografia para 'diplomata')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 14,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...divergem em relação a politica públicas essenciais (falta de crase em 'às políticas' ou erro de concordância em 'política')",
-      "...chegar a consenso (falta de artigo 'a um consenso' ou 'ao consenso')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 15,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...divergem em relação a politica públicas essenciais... (falta de crase em 'às políticas' ou erro de concordância em 'política')",
-      "...chegar a consenso que irá fundamentar... (falta de artigo 'a um consenso' ou 'ao consenso')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 15,
-    "ano": "2015"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...divergem em relação a politica públicas essenciais (falta de crase em 'às políticas' ou erro de concordância em 'política')",
-      "...chegar a consenso (falta de artigo 'a um consenso' ou 'ao consenso')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 15,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "Não detalhados conforme instrução."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 15,
-    "ano": "2015"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "Não detalhados conforme instrução."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
     "versao": 2,
@@ -1934,9 +2044,7 @@
   {
     "nota_final": 48.5,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [
-      "Não detalhados conforme instrução."
-    ],
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -1949,9 +2057,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Ausência de crase em 'em relação a política públicas' (correto: 'em relação às políticas públicas').",
-      "Ausência de artigo definido em 'chegar a consenso' (embora aceitável em contextos específicos, a norma culta sugere 'chegar a um consenso' para melhor fluidez).",
-      "Uso de 'dezenovesco' (neologismo estilístico que, embora compreensível, beira a imprecisão vocabular em textos formais, preferindo-se 'do século XIX')."
+      "Falta de crase em 'relação a politica públicas' (correto seria 'às políticas públicas')",
+      "Ausência de artigo definido em 'chegar a consenso' (embora aceitável em contextos específicos, prejudica a fluidez paralelística)",
+      "Uso inadequado de vírgula/pontuação em trechos de citações ou referências bibliográficas rápidas."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1965,9 +2073,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Ausência de crase em 'em relação a política públicas' (correto: 'em relação às políticas públicas').",
-      "Ausência de artigo definido em 'chegar a consenso' (embora aceitável em contextos específicos, a norma culta sugere 'chegar a um consenso' para melhor fluidez).",
-      "Uso de 'dezenovesco' (neologismo estilístico que, embora compreensível, beira a imprecisão vocabular em textos formais, preferindo-se 'do século XIX')."
+      "Falta de crase em 'relação a politica públicas' (correto seria 'às políticas públicas')",
+      "Ausência de artigo definido em 'chegar a consenso' (embora aceitável em contextos específicos, prejudica a fluidez paralelística)",
+      "Uso inadequado de vírgula/pontuação em trechos de citações ou referências bibliográficas rápidas."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1981,9 +2089,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Ausência de crase em 'em relação a politica públicas' (deveria ser 'às políticas públicas' ou 'a políticas públicas', mas o texto apresenta erro de concordância nominal simultâneo).",
-      "Ausência de artigo definido em 'chegar a consenso' (embora aceitável em contextos informais, em redações de alto nível para o CACD, prefere-se 'chegar a um consenso').",
-      "Uso de 'dezenovesco' (neologismo estilístico que, embora compreensível, beira a imprecisão vocabular em relação ao padrão formal esperado)."
+      "Falta de crase em 'relação a politica públicas' (correto seria 'às políticas públicas')",
+      "Ausência de artigo definido em 'chegar a consenso' (embora aceitável em contextos específicos, prejudica a fluidez paralelística)",
+      "Uso inadequado de vírgula/pontuação em trechos de citações ou referências bibliográficas intercaladas."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1994,15 +2102,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7.0,
-    "nota_1B": 8.0,
-    "nota_1C": 12.0,
+    "nota_1A": 8.0,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Ausência de acento em 'pais' (duas ocorrências) - deveria ser 'país'.",
-      "Ausência de artigo definido em 'durante governo de Jânio Quadros' - deveria ser 'durante o governo'.",
-      "Ausência de artigo definido em 'responsável por negociação de fronteiras' - deveria ser 'responsável pela negociação'.",
-      "Uso inadequado de vírgula em 'que se iniciou, durante governo de Jânio Quadros' (interrupção desnecessária do fluxo sintático)."
+      "Ausência de acento agudo em 'pais' (ocorreu três vezes - deveria ser 'país')",
+      "Ausência de artigo definido em '[...] durante governo de Jânio Quadros' (correto seria 'durante o governo')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2013,15 +2119,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7.0,
-    "nota_1B": 8.0,
-    "nota_1C": 12.0,
+    "nota_1A": 8.0,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Ausência de acento em 'pais' (duas ocorrências) - deveria ser 'país'.",
-      "Ausência de artigo definido em 'durante governo de Jânio Quadros' - deveria ser 'durante o governo'.",
-      "Ausência de artigo definido em 'responsável por negociação de fronteiras' - deveria ser 'responsável pela negociação'.",
-      "Uso inadequado de vírgula em 'que se iniciou, durante governo de Jânio Quadros' (interrupção desnecessária do fluxo sintático)."
+      "Ausência de acento agudo em 'pais' (ocorreu três vezes - deveria ser 'país')",
+      "Ausência de artigo definido em '[...] durante governo de Jânio Quadros' (correto seria 'durante o governo')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2032,15 +2136,13 @@
     "ano": "2015"
   },
   {
-    "nota_1A": 7.0,
-    "nota_1B": 8.0,
-    "nota_1C": 12.0,
+    "nota_1A": 8.0,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Ausência de acento em 'pais' (duas ocorrências) - deveria ser 'país'.",
-      "Ausência de artigo definido em 'durante governo de Jânio Quadros' - deveria ser 'durante o governo'.",
-      "Ausência de artigo definido em 'responsável por negociação de fronteiras' - deveria ser 'responsável pela negociação'.",
-      "Uso inadequado de vírgula em 'que se iniciou, durante governo de Jânio Quadros' (interrupção desnecessária do fluxo sintático)."
+      "Ausência de acento agudo em 'pais' (ocorreu três vezes - deveria ser 'país')",
+      "Ausência de artigo definido em '[...] durante governo de Jânio Quadros' (correto seria 'durante o governo')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2051,11 +2153,10 @@
     "ano": "2015"
   },
   {
-    "nota_final": 42.5,
-    "numero_de_erros_gramaticais": 4,
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "ausência de acento em 'pais' (repetida três vezes)",
-      "ausência de artigo definido em 'durante governo de Jânio Quadros' (durante o governo)"
+      "pais"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2066,12 +2167,10 @@
     "ano": "2015"
   },
   {
-    "nota_final": 42.5,
+    "nota_final": 48.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "ausência de acento em 'pais' (repetida três vezes)",
-      "ausência de artigo definido em 'durante governo de Jânio Quadros'",
-      "falta de paralelismo/clareza sintática no trecho 'conquanto importante para o exercício do ofício de diplomata, que deve identificar-se com a nação' (período fragmentado ou mal conectado)"
+      "pais"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2082,12 +2181,10 @@
     "ano": "2015"
   },
   {
-    "nota_final": 42.5,
+    "nota_final": 48.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "ausência de acento em 'pais' (repetida três vezes)",
-      "ausência de artigo definido em 'durante governo de Jânio Quadros'",
-      "falta de paralelismo/clareza sintática no trecho 'conquanto importante para o exercício do ofício de diplomata, que deve identificar-se com a nação' (período fragmentado ou mal conectado)"
+      "pais"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2101,9 +2198,9 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Ausência de acento em 'pais' (deveria ser 'país') - ocorre repetidamente no texto.",
-      "Ausência de artigo definido em 'durante governo de Jânio Quadros' (deveria ser 'durante o governo').",
-      "Uso inadequado de vírgula em 'estudo da política externa, apesar de ser recente, no Brasil, é fundamental' (a vírgula após 'recente' isola incorretamente o adjunto adverbial 'no Brasil')."
+      "Ausência de acento agudo em 'pais' (ocorrendo três vezes no texto) onde deveria ler-se 'país'.",
+      "Falta de artigo definido em '[...] durante governo de Jânio Quadros', onde o correto seria 'durante o governo'.",
+      "Uso inadequado de vírgulas isolando adjuntos adverbiais curtos ou complementos, prejudicando levemente a fluidez (ex: 'identificar-se, nacionalmente, com seu pais')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2117,9 +2214,9 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Ausência de acento em 'pais' (deveria ser 'país') - ocorre repetidamente no texto.",
-      "Ausência de artigo definido em 'durante governo de Jânio Quadros' (deveria ser 'durante o governo').",
-      "Uso inadequado de vírgula em 'estudo da política externa, apesar de ser recente, no Brasil, é fundamental' (a vírgula após 'recente' isola incorretamente o adjunto adverbial 'no Brasil')."
+      "Ausência de acento agudo em 'pais' (ocorrendo três vezes no texto) onde deveria ler-se 'país'.",
+      "Falta de artigo definido em '[...] durante governo de Jânio Quadros', sugerindo-se 'durante o governo'.",
+      "Uso inadequado de vírgulas isolando adjuntos adverbiais curtos ou complementos, prejudicando levemente a fluidez (ex: 'identificar-se, nacionalmente, com seu pais')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -2133,9 +2230,9 @@
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Ausência de acento em 'pais' (ocorrendo três vezes no texto, onde deveria ser 'país')",
-      "Ausência de artigo definido em 'durante governo de Jânio Quadros' (o correto seria 'durante o governo')",
-      "Uso inadequado de vírgula em 'estudo da política externa, apesar de ser recente, no Brasil, é fundamental' (a vírgula após 'recente' isola incorretamente o adjunto adverbial 'no Brasil' do seu núcleo)"
+      "Ausência de acento agudo em 'pais' (ocorrendo três vezes no texto) onde deveria ler-se 'país'.",
+      "Falta de artigo definido em '[...] durante governo de Jânio Quadros', sugerindo-se 'durante o governo'.",
+      "Uso inadequado de vírgulas isolando adjuntos adverbiais curtos ou complementos, prejudicando levemente a fluidez (ex: 'identificar-se, nacionalmente, com seu pais')."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",

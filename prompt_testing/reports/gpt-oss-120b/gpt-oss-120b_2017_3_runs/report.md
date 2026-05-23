@@ -1,5 +1,5 @@
 # Relatório de Avaliação: gpt-oss-120b - 3 execuções
-**Gerado em: 14/05/2026 18:27:18**
+**Gerado em: 21/05/2026 08:51:54**
 
 ## 1. Distribuição de Notas
 Nesta seção comparamos as notas atribuídas pelo modelo gpt-oss-120b em diferentes prompts/temperaturas versus a correção humana.
@@ -33,9 +33,9 @@ Nesta seção, apresentamos a comparação entre as notas finais geradas pelo mo
     <tr>
       <td>7</td>
       <td>0.0</td>
-      <td>88.15</td>
-      <td>9.46</td>
-      <td>10.4078</td>
+      <td>28384.85</td>
+      <td>2839.84</td>
+      <td>8941.4475</td>
     </tr>
     <tr>
       <td>8</td>
@@ -47,9 +47,9 @@ Nesta seção, apresentamos a comparação entre as notas finais geradas pelo mo
     <tr>
       <td>9</td>
       <td>0.0</td>
-      <td>32.20</td>
-      <td>4.34</td>
-      <td>6.4962</td>
+      <td>27.20</td>
+      <td>3.34</td>
+      <td>3.8602</td>
     </tr>
   </tbody>
 </table>
@@ -72,16 +72,16 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 
 ## Estatísticas Descritivas
 ### Modelo gpt-oss-120b
-|       |    prompt |   temp |   redacao |   nota_final |   nota_final_std |        1A |      1B |       1C |     CGPL |   num_errors |
-|:------|----------:|-------:|----------:|-------------:|-----------------:|----------:|--------:|---------:|---------:|-------------:|
-| count | 30        |     30 |  30       |     30       |               30 | 10        | 10      | 10       | 10       |     30       |
-| mean  |  8        |      0 |   5.5     |     48.1533  |                0 |  7.1      |  7.6    | 13.9     |  8.56    |      7.4     |
-| std   |  0.830455 |      0 |   2.92138 |      8.82636 |                0 |  0.875595 |  1.7127 |  1.37032 |  2.43593 |      8.88858 |
-| min   |  7        |      0 |   1       |     29.4     |                0 |  5        |  3      | 12       |  5.4     |      0       |
-| 25%   |  7        |      0 |   3       |     42.025   |                0 |  7        |  8      | 12.5     |  7.025   |      0       |
-| 50%   |  8        |      0 |   5.5     |     50       |                0 |  7        |  8      | 14.5     |  7.9     |      2       |
-| 75%   |  9        |      0 |   8       |     57.3     |                0 |  7.5      |  8      | 15       | 11.175   |     12       |
-| max   |  9        |      0 |  10       |     57.3     |                0 |  8.5      |  9      | 15       | 11.4     |     27       |
+|       |    prompt |   temp |   redacao |   nota_final |   nota_final_std |       1A |       1B |       1C |      CGPL |   num_errors |
+|:------|----------:|-------:|----------:|-------------:|-----------------:|---------:|---------:|---------:|----------:|-------------:|
+| count | 30        |     30 |  30       |        30    |               30 | 10       | 10       | 10       |     10    |       30     |
+| mean  |  8        |      0 |   5.5     |      -895.71 |                0 |  5.9     |  5.83    |  4.94    |  -2810.1  |      947.967 |
+| std   |  0.830455 |      0 |   2.92138 |      5162.31 |                0 |  3.12517 |  3.63625 |  2.86015 |   8939.38 |     5162.58  |
+| min   |  7        |      0 |   1       |    -28228.3  |                0 |  0       |  0       |  0       | -28252    |        0     |
+| 25%   |  7        |      0 |   3       |        38.25 |                0 |  7       |  3.25    |  5       |      4.25 |        0     |
+| 50%   |  8        |      0 |   5.5     |        50    |                0 |  7.25    |  8       |  5       |     15    |        2     |
+| 75%   |  9        |      0 |   8       |        57.3  |                0 |  7.5     |  8       |  6.875   |     27    |       10.25  |
+| max   |  9        |      0 |  10       |        57.3  |                0 |  8       |  9       |  8       |     30    |    28282     |
 
 ### Humano
 |       |   redacao |   nota_final |   num_errors |

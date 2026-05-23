@@ -1,12 +1,10 @@
 [
   {
     "nota_1A": 7.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
+    "nota_1B": 8.3,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 22,
+    "erros_gramaticais": [],
     "feedbacks": [
       ","
     ],
@@ -19,12 +17,10 @@
   },
   {
     "nota_1A": 7.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
+    "nota_1B": 8.3,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 22,
+    "erros_gramaticais": [],
     "feedbacks": [
       ","
     ],
@@ -37,12 +33,10 @@
   },
   {
     "nota_1A": 7.5,
-    "nota_1B": 8.0,
-    "nota_1C": 15.0,
-    "numero_de_erros_gramaticais": 12,
-    "erros_gramaticais": [
-      ""
-    ],
+    "nota_1B": 8.3,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 22,
+    "erros_gramaticais": [],
     "feedbacks": [
       ","
     ],
@@ -99,14 +93,10 @@
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "faltou vírgula antes \"de",
-      "concordancia verbal"
+      "Uso incorreto del \"\"",
+      "Falta falta"
     ],
-    "feedbacks": [
-      "O texto apresenta organização básica, mas carece de aprofundamento nas relações entre a citação e o evento histórico selecionado.",
-      " ",
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -118,14 +108,10 @@
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "faltou vírgula antes \"de",
-      "concordancia verbal"
+      "Uso incorreto del \"\"",
+      "Falta falta"
     ],
-    "feedbacks": [
-      "O texto apresenta organização básica, mas carece de aprofundamento nas relações entre a citação e o evento histórico selecionado.",
-      " ",
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -137,14 +123,10 @@
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "faltou vírgula antes \"de",
-      "concordancia verbal"
+      "Uso incorreto del \"\"",
+      "Falta falta"
     ],
-    "feedbacks": [
-      "O texto apresenta organização básica, mas carece de aprofundamento nas relações entre a citação e o evento histórico selecionado.",
-      " ",
-      ""
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
     "temp": 0.0,
@@ -154,11 +136,16 @@
   },
   {
     "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "nota_1B": 3,
+    "nota_1C": 2,
+    "numero_de_erros_gramaticais": 151515151,
+    "erros_gramaticais": [
+      "]... .........."
+    ],
+    "feedbacks": [
+      "…",
+      "  etc..etc."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -168,11 +155,16 @@
   },
   {
     "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "nota_1B": 3,
+    "nota_1C": 2,
+    "numero_de_erros_gramaticais": 151515151,
+    "erros_gramaticais": [
+      "]... .........."
+    ],
+    "feedbacks": [
+      "…",
+      "  etc..etc."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -182,11 +174,16 @@
   },
   {
     "nota_1A": 0,
-    "nota_1B": 0,
-    "nota_1C": 0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "nota_1B": 3,
+    "nota_1C": 2,
+    "numero_de_erros_gramaticais": 151515151,
+    "erros_gramaticais": [
+      "]... .........."
+    ],
+    "feedbacks": [
+      "…",
+      "  etc..etc."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -196,7 +193,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "..."
     ],
@@ -210,7 +207,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "..."
     ],
@@ -224,7 +221,7 @@
   },
   {
     "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 12,
+    "numero_de_erros_gramaticais": 15,
     "erros_gramaticais": [
       "..."
     ],
@@ -241,8 +238,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra dificuldade em articular claramente a relação solicitada entre a citação de Machado de Assis e um fato cultural brasileiro do século XX; optou‑se por focar quase exclusivamente nas organizações internacionais, distante do escopo proposto.",
-      "Embora apresente referências a autores e conceitos políticos teóricos — Morg … etc."
+      "O texto demonstra dificuldade em articular claramente a relação solicitada entre a citação de Machado de Assis e um fato cultural brasileiro ou mundial do séc.xx.",
+      "Ele apresenta argumentos dispersos, uso excessivo de citações externas —‑ que fogem ​…"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -256,8 +253,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra dificuldade em articular claramente a relação solicitada entre a citação de Machado de Assis e um fato cultural brasileiro do século XX; optou‑se por focar quase exclusivamente nas organizações internacionais, distante do escopo proposto.",
-      "Embora apresente referências a autores e conceitos políticos teóricos — Morg … etc."
+      "O texto demonstra dificuldade em articular claramente a relação solicitada entre a citação de Machado de Assis e um fato cultural brasileiro ou mundial do séc.xx.",
+      "Ele apresenta argumentos dispersos, uso excessivo de citações externas —‑ que fogem ​…"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -271,8 +268,8 @@
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "O texto demonstra dificuldade em articular claramente a relação solicitada entre a citação de Machado de Assis e um fato cultural brasileiro do século XX; optou‑se por focar quase exclusivamente nas organizações internacionais, distante do escopo proposto.",
-      "Embora apresente referências a autores e conceitos políticos teóricos — Morg … etc."
+      "O texto demonstra dificuldade em articular claramente a relação solicitada entre a citação de Machado de Assis e um fato cultural brasileiro ou mundial do séc.xx.",
+      "Ele apresenta argumentos dispersos, uso excessivo de citações externas —‑ que fogem ​…"
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -284,16 +281,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
+    "nota_1C": 7,
     "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      "concordancia",
-      "ortografia",
-      "pontuacao"
+      "..."
     ],
-    "feedbacks": [
-      "Apresentação ..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -304,16 +297,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
+    "nota_1C": 7,
     "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      "concordancia",
-      "ortografia",
-      "pontuacao"
+      "..."
     ],
-    "feedbacks": [
-      "Apresentação ..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -324,16 +313,12 @@
   {
     "nota_1A": 7,
     "nota_1B": 8,
-    "nota_1C": 14,
+    "nota_1C": 7,
     "numero_de_erros_gramaticais": 22,
     "erros_gramaticais": [
-      "concordancia",
-      "ortografia",
-      "pontuacao"
+      "..."
     ],
-    "feedbacks": [
-      "Apresentação ..."
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
     "temp": 0.0,
@@ -347,10 +332,7 @@
     "erros_gramaticais": [
       "concordancia verbal - \"...politica ...\" deveria ser 'política'"
     ],
-    "feedbacks": [
-      "Coerencia",
-      "Argumentacao"
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -364,10 +346,7 @@
     "erros_gramaticais": [
       "concordancia verbal - \"...politica ...\" deveria ser 'política'"
     ],
-    "feedbacks": [
-      "Coerencia",
-      "Argumentacao"
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -381,10 +360,7 @@
     "erros_gramaticais": [
       "concordancia verbal - \"...politica ...\" deveria ser 'política'"
     ],
-    "feedbacks": [
-      "Coerencia",
-      "Argumentacao"
-    ],
+    "feedbacks": [],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -393,7 +369,7 @@
     "ano": "2016"
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
@@ -407,7 +383,7 @@
     "ano": "2016"
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
@@ -421,7 +397,7 @@
     "ano": "2016"
   },
   {
-    "faixa": "Ótimo",
+    "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
@@ -437,11 +413,11 @@
   {
     "nota_1A": 7.5,
     "nota_1B": 3,
-    "nota_1C": 8,
-    "numero_de_erros_gramaticais": 5,
+    "nota_1C": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "]... ......"
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -453,11 +429,11 @@
   {
     "nota_1A": 7.5,
     "nota_1B": 3,
-    "nota_1C": 8,
-    "numero_de_erros_gramaticais": 5,
+    "nota_1C": 1,
+    "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [
-      "]... ......"
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -469,689 +445,715 @@
   {
     "nota_1A": 7.5,
     "nota_1B": 3,
+    "nota_1C": 1,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.32,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.32,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.32,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de concord entre \"busca\" e \"ideais\", necessita \"buscar seus ideais\""
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de concord entre \"busca\" e \"ideais\", necessita \"buscar seus ideais\""
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de concord entre \"busca\" e \"ideais\", necessita \"buscar seus ideais\""
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 5,
+    "nota_1B": 3,
+    "nota_1C": 4,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "...",
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 5,
+    "nota_1B": 3,
+    "nota_1C": 4,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "...",
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 5,
+    "nota_1B": 3,
+    "nota_1C": 4,
+    "numero_de_erros_gramaticais": 27,
+    "erros_gramaticais": [
+      "...",
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]"
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]"
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]"
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]"
+    ],
+    "feedbacks": [
+      "Analisamos..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]"
+    ],
+    "feedbacks": [
+      "Analisamos..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "]"
+    ],
+    "feedbacks": [
+      "Analisamos..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 5.3,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 5.3,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 0,
+    "nota_1B": 0,
+    "nota_1C": 5.3,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      ""
+    ],
+    "feedbacks": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Con..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Con..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Con..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 5,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 28,
+    "erros_gramaticais": [
+      "",
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 5,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 28,
+    "erros_gramaticais": [
+      "",
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 5,
+    "nota_1B": 7,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 28,
+    "erros_gramaticais": [
+      "",
+      ""
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      "..."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta algumas falhas de organização e conexão entre as ideias, dificultando a construção de um argumento sólido.",
+      "Apontar a necessidade de melhorar a co‑coerência textual e aprofundar a análise da relação entre a citação de Mach­​?"
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta algumas falhas de organização e conexão entre as ideias, dificultando a construção de um argumento sólido.",
+      "Apontar a necessidade de melhorar a co‑coerência textual e aprofundar a análise da relação entre a citação de Mach­​?"
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Regular",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta algumas falhas de organização e conexão entre as ideias, dificultando a construção de um argumento sólido.",
+      "Apontar a necessidade de melhorar a co‑coerência textual e aprofundar a análise da relação entre a citação de Mach­​?"
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7,
+    "nota_1B": 8,
+    "nota_1C": 5,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 57.3,
+    "numero_de_erros_gramaticais": 15,
+    "erros_gramaticais": [
+      "..."
+    ],
+    "feedbacks": [],
+    "modelo": "gpt-oss-120b",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, introduzindo a citação, desenvolvendo‑a através do Modernismo e concluindo de maneira coerente.",
+      "Argumentação bem estruturada, conectando a ideia de \"cair\"/\"saltos\" ao movimento modernista brasileiro.",
+      "Domínio sólido da norma culta, uso correto de pontuação e vocabulário culto."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, introduzindo a citação, desenvolvendo‑a através do Modernismo e concluindo de maneira coerente.",
+      "Argumentação bem estruturada, conectando a ideia de \"cair\"/\"saltos\" ao movimento modernista brasileiro.",
+      "Domínio sólido da norma culta, uso correto de pontuação e vocabulário culto."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      "O texto apresenta organização clara, introduzindo a citação, desenvolvendo‑a através do Modernismo e concluindo de maneira coerente.",
+      "Argumentação bem estruturada, conectando a ideia de \"cair\"/\"saltos\" ao movimento modernista brasileiro.",
+      "Domínio sólido da norma culta, uso correto de pontuação e vocabulário culto."
+    ],
+    "modelo": "gpt-oss-120b",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 5,
+    "nota_1B": 7,
     "nota_1C": 8,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "]... ......"
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "/\t",
-      "\\",
-      "]"
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "/\t",
-      "\\",
-      "]"
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "/\t",
-      "\\",
-      "]"
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "faltou acentuar \"guar\"?"
-    ],
-    "feedbacks": [
-      "O texto demonstra bom domínio ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "faltou acentuar \"guar\"?"
-    ],
-    "feedbacks": [
-      "O texto demonstra bom domínio ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "faltou acentuar \"guar\"?"
-    ],
-    "feedbacks": [
-      "O texto demonstra bom domínio ..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 5,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 27,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 5,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 27,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 5,
-    "nota_1B": 8,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 27,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "]"
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "]"
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "]"
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 5,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 5,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 7,
-    "nota_1B": 5,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 55.2,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "acentuacao"
-    ],
-    "feedbacks": [
-      "Coerencia geral boa.",
-      "Argumentos bem estruturados."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 55.2,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "acentuacao"
-    ],
-    "feedbacks": [
-      "Coerencia geral boa.",
-      "Argumentos bem estruturados."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 55.2,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "concordancia verbal",
-      "acentuacao"
-    ],
-    "feedbacks": [
-      "Coerencia geral boa.",
-      "Argumentos bem estruturados."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 5,
-    "nota_1B": 7,
-    "nota_1C": 12,
     "numero_de_erros_gramaticais": 28,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 5,
-    "nota_1B": 7,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 28,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 5,
-    "nota_1B": 7,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 28,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [
-      "..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [
-      "..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [
-      "..."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto demonstra alguma organização básica, apresentando introdução, desenvolvimento e conclusão, mas carece de aprofundamento crítico e conexão direta entre a citação de Machado de Assis e os eventos históricos citados.",
-      "Há falta de clareza nas relações lógicas ‑ por exemplo …"
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto demonstra alguma organização básica, apresentando introdução, desenvolvimento e conclusão, mas carece de aprofundamento crítico e conexão direta entre a citação de Machado de Assis e os eventos históricos citados.",
-      "Há falta de clareza nas relações lógicas ‑ por exemplo …"
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Regular",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto demonstra alguma organização básica, apresentando introdução, desenvolvimento e conclusão, mas carece de aprofundamento crítico e conexão direta entre a citação de Machado de Assis e os eventos históricos citados.",
-      "Há falta de clareza nas relações lógicas ‑ por exemplo …"
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 8,
-    "nota_1B": 7,
-    "nota_1C": 14,
-    "numero_de_erros_gramaticais": 22,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [
-      ""
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "..."
-    ],
-    "feedbacks": [],
-    "modelo": "gpt-oss-120b",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a citação, desenvolvendo‑a através da análise do Modernismo e concluindo de maneira pertinente.",
-      "Argumentação consistente, conectando a ideia de \"cair\"/\"saltar\" à proposta modernista de ruptura e à antropofagia de Oswaldo Andrade.",
-      "Domínio sólido da norma culta, uso correto de pontuação e concordância, com apenas eventuais repetições menores."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a citação, desenvolvendo‑a através da análise do Modernismo e concluindo de maneira pertinente.",
-      "Argumentação consistente, conectando a ideia de \"cair\"/\"saltar\" à proposta modernista de ruptura e à antropofagia de Oswaldo Andrade.",
-      "Domínio sólido da norma culta, uso correto de pontuação e concordância, com apenas eventuais repetições menores."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [
-      "O texto apresenta organização clara, introduzindo a citação, desenvolvendo‑a através da análise do Modernismo e concluindo de maneira pertinente.",
-      "Argumentação consistente, conectando a ideia de \"cair\"/\"saltar\" à proposta modernista de ruptura e à antropofagia de Oswaldo Andrade.",
-      "Domínio sólido da norma culta, uso correto de pontuação e concordância, com apenas eventuais repetições menores."
-    ],
-    "modelo": "gpt-oss-120b",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 5,
-    "nota_1B": 7,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 38,
     "erros_gramaticais": [
       "concordancia",
-      "ortho",
+      "ortografia",
       "pontuacao"
     ],
     "feedbacks": [
-      "...",
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1163,16 +1165,15 @@
   {
     "nota_1A": 5,
     "nota_1B": 7,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 38,
+    "nota_1C": 8,
+    "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       "concordancia",
-      "ortho",
+      "ortografia",
       "pontuacao"
     ],
     "feedbacks": [
-      "...",
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1184,16 +1185,15 @@
   {
     "nota_1A": 5,
     "nota_1B": 7,
-    "nota_1C": 12,
-    "numero_de_erros_gramaticais": 38,
+    "nota_1C": 8,
+    "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       "concordancia",
-      "ortho",
+      "ortografia",
       "pontuacao"
     ],
     "feedbacks": [
-      "...",
-      "..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1206,9 +1206,12 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "concordancia verbal",
+      "uso incorreto de preposição"
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Mantenha o uso correto da frase..."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -1220,9 +1223,12 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "concordancia verbal",
+      "uso incorreto de preposição"
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Mantenha o uso correto da frase..."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -1234,9 +1240,12 @@
     "nota_final": 57.3,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "concordancia verbal",
+      "uso incorreto de preposição"
     ],
-    "feedbacks": [],
+    "feedbacks": [
+      "Mantenha o uso correto da frase..."
+    ],
     "modelo": "gpt-oss-120b",
     "prompt": 8,
     "temp": 0.0,
@@ -1248,10 +1257,11 @@
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia"
+      "]",
+      "]"
     ],
     "feedbacks": [
-      "O texto demonstra alguma compreensão do tema proposto, porém apresenta sérias defações ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -1264,10 +1274,11 @@
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia"
+      "]",
+      "]"
     ],
     "feedbacks": [
-      "O texto demonstra alguma compreensão do tema proposto, porém apresenta sérias defações ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -1280,10 +1291,11 @@
     "faixa": "Regular",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "concordancia"
+      "]",
+      "]"
     ],
     "feedbacks": [
-      "O texto demonstra alguma compreensão do tema proposto, porém apresenta sérias defações ..."
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -1295,13 +1307,17 @@
   {
     "nota_1A": 5,
     "nota_1B": 7,
-    "nota_1C": 12,
+    "nota_1C": 6,
     "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       ""
     ],
     "feedbacks": [
-      ","
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1313,13 +1329,17 @@
   {
     "nota_1A": 5,
     "nota_1B": 7,
-    "nota_1C": 12,
+    "nota_1C": 6,
     "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       ""
     ],
     "feedbacks": [
-      ","
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1331,13 +1351,17 @@
   {
     "nota_1A": 5,
     "nota_1B": 7,
-    "nota_1C": 12,
+    "nota_1C": 6,
     "numero_de_erros_gramaticais": 28,
     "erros_gramaticais": [
       ""
     ],
     "feedbacks": [
-      ","
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 7,
@@ -1347,10 +1371,10 @@
     "ano": "2016"
   },
   {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "nota_final": 57.32,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "consecutiva"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -1361,10 +1385,10 @@
     "ano": "2016"
   },
   {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "nota_final": 57.32,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "consecutiva"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -1375,10 +1399,10 @@
     "ano": "2016"
   },
   {
-    "nota_final": 57.3,
-    "numero_de_erros_gramaticais": 5,
+    "nota_final": 57.32,
+    "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "..."
+      "consecutiva"
     ],
     "feedbacks": [],
     "modelo": "gpt-oss-120b",
@@ -1395,7 +1419,8 @@
       "consecutiva"
     ],
     "feedbacks": [
-      "O seu argumento principal parece perder foco quando tenta conectar a citação de Machado ..."
+      "O texto apresenta algumas falhas de coesão e conexão entre as ideias, resultando numa sequência de argumentos que podem parecer desconectados.",
+      "É preciso melhorar o ponto ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -1411,7 +1436,8 @@
       "consecutiva"
     ],
     "feedbacks": [
-      "O seu argumento principal parece perder foco quando tenta conectar a citação de Machado ..."
+      "O texto apresenta algumas falhas de coesão e conexão entre as ideias, resultando numa sequência de argumentos que podem parecer desconectados.",
+      "É preciso melhorar o ponto ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,
@@ -1427,7 +1453,8 @@
       "consecutiva"
     ],
     "feedbacks": [
-      "O seu argumento principal parece perder foco quando tenta conectar a citação de Machado ..."
+      "O texto apresenta algumas falhas de coesão e conexão entre as ideias, resultando numa sequência de argumentos que podem parecer desconectados.",
+      "É preciso melhorar o ponto ..."
     ],
     "modelo": "gpt-oss-120b",
     "prompt": 9,

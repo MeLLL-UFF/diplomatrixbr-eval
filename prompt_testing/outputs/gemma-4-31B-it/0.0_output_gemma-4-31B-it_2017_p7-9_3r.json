@@ -1,10 +1,12 @@
 [
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -14,11 +16,13 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -28,11 +32,13 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -45,7 +51,9 @@
     "nota_final": 58.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -57,7 +65,9 @@
     "nota_final": 58.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -69,7 +79,9 @@
     "nota_final": 58.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
@@ -80,8 +92,14 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Nenhum erro relevante detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível de sofisticação analítica e estilística raramente encontrado, plenamente compatível com as exigências mais elevadas do CACD. O candidato não apenas respondeu ao comando do enunciado, mas transpôs a provocação de Saramago para diferentes dimensões (interpessoal, religiosa e interestatal) com maestria.",
+      "A organização textual é impecável, com introdução clara, desenvolvimento progressivo e conclusão sintetizadora. O uso de referências interdisciplinares — transitando por Clarice Lispector, Thomas Hobbes, Erving Goffman, Marcel Mauss e até menções à tradição diplomática brasileira (Araújo Castro) — foi feito de forma orgânica e pertinente, servindo como suporte à argumentação e não como mera 'colagem' de citações.",
+      "Do ponto de vista linguístico, o texto demonstra domínio pleno da norma culta, com vocabulário rico, precisão terminológica ('pluralidade ontológica', 'securitização') e excelente fluidez rítmica. A construção sintática é complexa e correta, evidenciando maturidade intelectual e segurança na escrita."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -92,8 +110,14 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Nenhum erro relevante detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível de sofisticação analítica e estilística raramente encontrado, plenamente compatível com as exigências mais elevadas do CACD. O candidato não apenas respondeu ao comando do enunciado, mas transpôs a provocação de Saramago para diferentes dimensões (interpessoal, religiosa e interestatal) com maestria.",
+      "A organização textual é impecável, com introdução clara, desenvolvimento progressivo e conclusão sintetizadora. O uso de referências interdisciplinares — transitando por Clarice Lispector, Thomas Hobbes, Erving Goffman, Marcel Mauss e até menções à tradição diplomática brasileira (Araújo Castro) — foi feito de forma orgânica e pertinente, servindo como suporte à argumentação e não como mera 'colagem' de citações.",
+      "Do ponto de vista linguístico, o texto demonstra domínio pleno da norma culta, com vocabulário rico, precisão terminológica ('pluralidade ontológica', 'securitização') e excelente fluidez rítmica. A construção sintática é complexa e correta, evidenciando maturidade intelectual e segurança na escrita."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -104,8 +128,14 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Nenhum erro relevante detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível de sofisticação analítica e estilística raramente encontrado, plenamente compatível com as exigências mais elevadas do CACD. O candidato não apenas respondeu ao comando do enunciado, mas transpôs a provocação de Saramago para diferentes dimensões (interpessoal, religiosa e interestatal) com maestria.",
+      "A organização textual é impecável, com introdução clara, desenvolvimento progressivo e conclusão sintetizadora. O uso de referências interdisciplinares — transitando por Clarice Lispector, Thomas Hobbes, Erving Goffman, Marcel Mauss e até menções à tradição diplomática brasileira (Araújo Castro) — foi feito de forma orgânica e pertinente, servindo como suporte à argumentação e não como mera 'colagem' de citações.",
+      "Do ponto de vista linguístico, o texto demonstra domínio pleno da norma culta, com vocabulário rico, precisão terminológica ('pluralidade ontológica', 'securitização') e excelente fluidez rítmica. A construção sintática é complexa e correta, evidenciando maturidade intelectual e segurança na escrita."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -114,12 +144,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 10.0,
     "nota_1B": 10.0,
-    "nota_1C": 18.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "...formação da não brasileira. (Erro de digitação/ortografia: 'não' em vez de 'nação')"
+      "...formação da **não** brasileira. (Erro de digitação/ortografia; deveria ser 'nação')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -130,12 +160,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 10.0,
     "nota_1B": 10.0,
-    "nota_1C": 18.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "...formação da não brasileira. (Erro de digitação/ortografia: 'não' em vez de 'nação')"
+      "...formação da **não** brasileira. (Erro de digitação/ortografia; deveria ser 'nação')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -146,12 +176,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 10.0,
     "nota_1B": 10.0,
-    "nota_1C": 18.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "...formação da não brasileira. (Erro de digitação/ortografia: 'não' em vez de 'nação')"
+      "...formação da **não** brasileira. (Erro de digitação/ortografia; deveria ser 'nação')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -162,9 +192,12 @@
     "ano": "2017"
   },
   {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "formação da não brasileira",
+      "até mesmo a violência (falta de vírgula após 'mesmo')"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -174,9 +207,11 @@
     "ano": "2017"
   },
   {
-    "nota_final": 56.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "...formação da não brasileira."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -186,9 +221,11 @@
     "ano": "2017"
   },
   {
-    "nota_final": 56.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "...formação da não brasileira."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -200,7 +237,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio elevado da norma culta."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -212,8 +251,15 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio elevado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura primorosa, com introdução clara, desenvolvimento progressivo e conclusão sintetizadora.",
+      "A argumentação é profunda e sofisticada, transcendendo a superfície do tema ao mobilizar conceitos teóricos robustos, como a distinção entre igualdade formal e material, o 'princípio da diferença' de John Rawls e a noção de 'igualdade como reconhecimento'.",
+      "Houve total aderência ao comando do enunciado: o candidato dialogou diretamente com a tese de Saramago, expressando concordância fundamentada e expandindo a discussão para as esferas jurídica e sociológica.",
+      "A linguagem é precisa, elegante e adequada ao padrão exigido pelo CACD, demonstrando maturidade estilística e excelente coesão textual."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -224,8 +270,15 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio elevado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura primorosa, com introdução clara, desenvolvimento progressivo e conclusão sintetizadora.",
+      "A argumentação é profunda e sofisticada, transcendendo a superfície do tema ao mobilizar conceitos teóricos robustos, como a distinção entre igualdade formal e material, o 'princípio da diferença' de John Rawls e a noção de 'igualdade como reconhecimento'.",
+      "Houve total aderência ao comando do enunciado: o candidato dialogou diretamente com a tese de Saramago, expressando concordância fundamentada e expandindo a discussão para as esferas jurídica e sociológica.",
+      "A linguagem é precisa, formal e adequada ao padrão exigido pelo CACD, demonstrando maturidade estilística e excelente encadeamento lógico (coesão textual)."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -234,12 +287,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "iminentemente (uso inadequado do advérbio; o correto seria 'iminente' ou 'imanente', dependendo do sentido, mas no contexto de 'caráter intrínseco', o termo técnico correto seria 'imanente'. 'Iminentemente' refere-se a algo que está prestes a acontecer)."
+      "iminentemente"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -250,12 +303,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "iminentemente (uso inadequado do advérbio; o correto seria 'iminente' ou 'imanente', dependendo do sentido, mas no contexto de 'caráter intrínseco', o termo técnico correto seria 'imanente')"
+      "iminentemente"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -266,12 +319,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "iminentemente (uso inadequado do advérbio; o correto seria 'iminente' ou 'imanente', dependendo do sentido, mas no contexto de 'caráter intrínseco', o termo técnico correto seria 'imanente')"
+      "iminentemente"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -279,317 +332,383 @@
     "temp": 0.0,
     "versao": 3,
     "essay": 3,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excepcional",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excepcional",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excepcional",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
     "ano": "2017"
   },
   {
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
     "versao": 1,
-    "essay": 4,
+    "essay": 3,
     "ano": "2017"
   },
   {
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
     "versao": 2,
-    "essay": 4,
+    "essay": 3,
     "ano": "2017"
   },
   {
     "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
-    "feedbacks": [],
+    "feedbacks": [
+      ""
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
-    "essay": 4,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 58.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
+    "essay": 3,
     "ano": "2017"
   },
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio pleno da norma culta."
+    ],
+    "feedbacks": [
+      "O texto demonstra um nível analítico e estilístico raríssimo, alinhando-se perfeitamente às expectativas de excelência do CACD.",
+      "A argumentação é sofisticada e foge do óbvio: em vez de tratar a tolerância sob a ótica comum do 'respeito mútuo', o autor mergulha na ontologia da alteridade, utilizando referências interdisciplinares densas e pertinentes (Kant, Žižek, Viveiros de Castro e Oswald de Andrade) para sustentar a tese de que a tolerância pode ser uma ferramenta de domesticação e invisibilização do outro.",
+      "A estrutura é impecável, com transições fluidas entre a filosofia contemporânea, a análise cinematográfica, a antropologia e a literatura brasileira, culminando em uma síntese conclusiva que responde precisamente ao comando do enunciado.",
+      "O vocabulário é rico e preciso, evidenciando maturidade intelectual e plena competência linguística."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
-    "essay": 5,
+    "essay": 3,
     "ano": "2017"
   },
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio pleno da norma culta."
+    ],
+    "feedbacks": [
+      "O texto demonstra um nível analítico e estilístico raríssimo, alinhando-se perfeitamente às expectativas de excelência do CACD.",
+      "A argumentação é sofisticada e foge do óbvio: em vez de tratar a tolerância sob a ótica comum do 'respeito mútuo', o autor mergulhou na provocação filosófica de Saramago, discutindo a assimetria de poder intrínseca ao ato de 'tolerar'.",
+      "Houve um uso primoroso de referências interdisciplinares (Kant, Žižek, Viveiros de Castro e Oswald de Andrade), todas organicamente integradas ao raciocínio, servindo como sustentáculo da tese e não como meros adornos eruditos.",
+      "A estrutura textual é fluida, com transições elegantes entre a teoria sociológica/filosófica, a análise cultural (cinema) e a etnográfica, culminando em uma síntese conclusiva poderosa que reafirma a posição do autor diante do enigma proposto pelo enunciado."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
     "versao": 2,
-    "essay": 5,
+    "essay": 3,
     "ano": "2017"
   },
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio pleno da norma culta."
+    ],
+    "feedbacks": [
+      "O texto demonstra um nível analítico e estilístico raríssimo, alinhando-se perfeitamente às expectativas de excelência do CACD.",
+      "A argumentação é sofisticada e foge do óbvio: em vez de tratar a tolerância sob a ótica comum do 'respeito mútuo', o autor mergulha na ontologia da alteridade, utilizando referências interdisciplinares densas e pertinentes (Kant, Žižek, Viveiros de Castro e Oswald de Andrade) para sustentar a tese de que a tolerância pode ser uma ferramenta de domesticação e invisibilização do outro.",
+      "A estrutura é impecável, com transições fluidas entre a filosofia contemporânea, a análise cinematográfica, a antropologia e a literatura brasileira, culminando em uma síntese conclusiva que responde precisamente ao comando do enunciado.",
+      "O vocabulário é rico e preciso, evidenciando maturidade intelectual e segurança linguística."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
     "versao": 3,
-    "essay": 5,
+    "essay": 3,
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio elevado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura primorosa, com introdução clara, desenvolvimento segmentado logicamente e conclusão sintetizadora.",
+      "Houve total aderência ao comando do enunciado: o candidato discutiu a tolerância nos três níveis solicitados (interpessoal, religioso e interestatal) e posicionou-se criticamente em relação à tese de Saramago, utilizando argumentos sólidos para justificar sua discordância parcial/contextualizada.",
+      "A fundamentação teórica é pertinente e diversificada, citando desde conceitos de Relações Internacionais (Paz de Vestfália, Multilateralismo), Teoria Política (Contrato Social) até referências intelectuais precisas (Edward Said), o que demonstra maturidade acadêmica compatível com as exigências do CACD.",
+      "A progressão textual é fluida, com excelente uso de conectivos e manutenção da coesão throughout the essay. A linguagem é formal, precisa e adequada ao cargo."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio elevado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura primorosa, com introdução clara, desenvolvimento segmentado logicamente e conclusão sintetizadora.",
+      "Houve total aderência ao comando do enunciado: o candidato discutiu a tolerância nos três níveis solicitados (interpessoal, religioso e interestatal) e posicionou-se criticamente em relação à tese de Saramago, utilizando argumentos sólidos para defender que a tolerância, embora insuficiente enquanto ideal, é indispensável como estágio pragmático de sobrevivência e convivência.",
+      "A fundamentação teórica é pertinente e diversificada, citando desde conceitos de Relações Internacionais (Paz de Vestfália, Multilateralismo), teoria sociológica/cultural (Edward Said) até filosofia política (Contrato Social), demonstrando a maturidade intelectual esperada para o CACD.",
+      "A progressão textual é fluida, com conectivos bem empregados e vocabulário preciso e formal."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio elevado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura primorosa, com introdução clara, desenvolvimento segmentado logicamente e conclusão sintetizadora.",
+      "Houve total aderência ao comando do enunciado: o candidato discutiu a tolerância nos três níveis solicitados (interpessoal, religioso e interestatal) e posicionou-se criticamente em relação à tese de Saramago, utilizando argumentos sólidos para defender que a tolerância, embora insuficiente enquanto ideal, é indispensável como estágio pragmático de sobrevivência e convivência.",
+      "A fundamentação teórica é pertinente e diversificada, citando desde conceitos de Relações Internacionais (Paz de Vestfália, Multilateralismo), teoria sociológica/cultural (Edward Said) até filosofia política (Contrato Social), demonstrando maturidade intelectual compatível com as exigências do CACD.",
+      "A progressão textual é fluida, com conectivos bem empregados e vocabulário preciso e formal."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro identificado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Tolerar é a o princípio (Erro de digitação/Sintaxe)",
-      "Simbólica dessa processo (Erro de concordância nominal)",
-      "nacionalismo intolerantes (Erro de concordância nominal)",
+      "Tolerar é a o princípio... (Erro de digitação/duplicação de artigo)",
+      "Simbólica dessa processo... (Erro de concordância nominal - correto: 'deste' ou 'desse')",
+      "Mesmo que nacionalismo intolerantes... (Erro de concordância nominal - correto: 'nacionalismos'",
       "imprescíndivel (Erro de ortografia)"
     ],
     "feedbacks": [],
@@ -601,14 +720,14 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Tolerar é a o princípio (Erro de digitação/Sintaxe)",
-      "Simbólica dessa processo (Erro de concordância nominal)",
-      "nacionalismo intolerantes (Erro de concordância nominal)",
+      "Tolerar é a o princípio... (Erro de digitação/duplicação de artigo)",
+      "Simbólica dessa processo... (Erro de concordância nominal - correto: 'deste' ou 'desse')",
+      "Mesmo que nacionalismo intolerantes... (Erro de concordância nominal - correto: 'nacionalismos'",
       "imprescíndivel (Erro de ortografia)"
     ],
     "feedbacks": [],
@@ -620,15 +739,15 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 8.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Tolerar é a o princípio (Erro de digitação/Sintaxe: artigo redundante)",
-      "Simbólica dessa processo (Erro de concordância nominal: 'dessa' em vez de 'desse')",
-      "nacionalismo intolerantes (Erro de concordância nominal: 'nacionalismo' no singular e 'intolerantes' no plural)",
-      "imprescíndivel (Erro de ortografia: falta do 's' antes do 'c')"
+      "Tolerar é a o princípio... (Erro de digitação/duplicação de artigo)",
+      "Simbólica dessa processo... (Erro de concordância nominal - correto: 'deste' ou 'desse')",
+      "Mesmo que nacionalismo intolerantes... (Erro de concordância nominal - correto: 'nacionalismos'",
+      "imprescíndivel (Erro de ortografia)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -639,12 +758,12 @@
     "ano": "2017"
   },
   {
-    "nota_final": 54.0,
+    "nota_final": 52.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'Tolerar é a o princípio' (repetição de artigo/erro de digitação)",
-      "'Simbólica dessa processo' (erro de concordância nominal)",
-      "'imprescíndivel' (erro de ortografia)"
+      "Tolerar é a o princípio...",
+      "...nacionalismo intolerantes...",
+      "imprescindível (grafia incorreta no original)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -655,12 +774,12 @@
     "ano": "2017"
   },
   {
-    "nota_final": 54.0,
+    "nota_final": 52.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'Tolerar é a o princípio' (repetição de artigo/erro de digitação)",
-      "'Simbólica dessa processo' (erro de concordância nominal)",
-      "'imprescíndivel' (erro de ortografia)"
+      "Tolerar é a o princípio...",
+      "...nacionalismo intolerantes...",
+      "imprescindível (grafia incorreta no original)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -671,34 +790,18 @@
     "ano": "2017"
   },
   {
-    "nota_final": 54.0,
+    "nota_final": 52.0,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'Tolerar é a o princípio' (repetição de artigo/erro de digitação)",
-      "'Simbólica dessa processo' (erro de concordância nominal)",
-      "'imprescíndivel' (erro de ortografia)"
+      "Tolerar é a o princípio...",
+      "...nacionalismo intolerantes...",
+      "imprescindível (grafia incorreta no original)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
     "temp": 0.0,
     "versao": 3,
-    "essay": 6,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'Tolerar é a o princípio' (erro de digitação/duplicação de artigo)",
-      "'Simbólica dessa processo' (erro de concordância nominal)",
-      "'imprescíndivel' (erro de ortografia)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
     "essay": 6,
     "ano": "2017"
   },
@@ -706,9 +809,25 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'Tolerar é a o princípio' (erro de digitação/duplicação de artigo)",
-      "'Simbólica dessa processo' (erro de concordância nominal)",
-      "'imprescíndivel' (erro de ortografia)"
+      "Uso inadequado do artigo definido ('Tolerar é **a** o princípio' / 'criticar a oposição... pois esta ignora **a** a capacidade') - prováveis lapsos de digitação/revisão.",
+      "Erro de concordância nominal ('Mesmo que **nacionalismo intolerantes** sejam inevitáveis').",
+      "Erro de ortografia ('imprescíndivel' em vez de imprescindível)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso inadequado do artigo definido ('Tolerar é **a** o princípio' / 'criticar a oposição... pois esta ignora **a** a capacidade') - prováveis lapsos de digitação/revisão.",
+      "Erro de concordância nominal ('Mesmo que **nacionalismo intolerantes** sejam inevitáveis').",
+      "Erro de ortografia ('imprescíndivel' em vez de imprescindível)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -722,9 +841,9 @@
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'Tolerar é a o princípio' (erro de digitação/duplicação de artigo)",
-      "'Simbólica dessa processo' (erro de concordância nominal)",
-      "'imprescíndivel' (erro de ortografia)"
+      "Uso inadequado do artigo definido ('Tolerar é **a** o princípio' / 'criticar a oposição... pois esta ignora **a** a capacidade') - prováveis lapsos de digitação/revisão.",
+      "Erro de concordância nominal ('Mesmo que **nacionalismo intolerantes** sejam inevitáveis').",
+      "Erro de ortografia ('imprescíndivel' em vez de imprescindível)."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -732,382 +851,425 @@
     "temp": 0.0,
     "versao": 3,
     "essay": 6,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "norte americanos (falta de hífen: norte-americanos)",
-      "desde que se respeite os limites físicos (erro de concordância verbal: respeitem)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "norte americanos (falta de hífen: norte-americanos)",
-      "desde que se respeite os limites físicos (erro de concordância verbal: respeitem)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "'norte americanos' (falta de hífen: norte-americanos)",
-      "'desde que se respeite os limites físicos' (erro de concordância verbal: o correto seria 'respeitem', concordando com 'limites')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Ausência de vírgula após 'cooperação igualitária entre os países' (oração intercalada/adjunto adverbial deslocado).",
-      "Ausência de vírgula após 'Mangabeira Unger' (erro de pontuação ao encerrar a frase com ponto final, mas a estrutura sugere a continuidade do pensamento ou falta de pontuação adequada na transição para a frase seguinte)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Ausência de vírgula após 'cooperação igualitária entre os países' (oração intercalada/adjunto adverbial deslocado).",
-      "Ausência de vírgula após 'Mangabeira Unger' (erro de pontuação ao encerrar a frase com ponto final, mas a estrutura sugere a continuidade do pensamento ou falta de pontuação adequada na transição para a frase seguinte)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Ausência de vírgula após 'cooperação igualitária entre os países' (oração intercalada/adjunto adverbial deslocado).",
-      "Ausência de vírgula após 'Mangabeira Unger' (erro de pontuação ao encerrar a frase com ponto final, mas a estrutura sugere a continuidade do pensamento ou falta de pontuação adequada na transição para a frase seguinte)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Ausência de artigo definido em 'desenvolver sociedade igualitária' (linha 21) - O correto seria 'desenvolver UMA sociedade igualitária' ou 'A sociedade igualitária'."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 9,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Ausência de artigo definido em 'desenvolver sociedade igualitária' (linha 21) - o correto seria 'desenvolver UMA sociedade igualitária' ou 'A sociedade igualitária'."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 9,
-    "ano": "2017"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "Ausência de artigo definido em 'desenvolver sociedade igualitária' (linha 21) - o correto seria 'desenvolver UMA sociedade igualitária' ou 'A sociedade igualitária'."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 9,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 9,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 9,
-    "ano": "2017"
-  },
-  {
-    "nota_final": 54.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 9,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 9,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 9,
-    "ano": "2017"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 9,
     "ano": "2017"
   },
   {
     "nota_1A": 10.0,
     "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'descrença nos ideias liberais' (erro de concordância nominal: deveria ser 'ideais')",
-      "'de modo que não impediam' (erro de concordância verbal: o sujeito 'generosidade' é singular, deveria ser 'impedia')"
+      "norte americanos"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "norte americanos"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "norte americanos"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta domínio avançado da norma culta, sem erros evidentes de sintaxe, ortografia ou concordância."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta domínio avançado da norma culta, sem erros evidentes de sintaxe, ortografia ou concordância."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta alta correção gramatical, com raríssimos lapsos que não comprometem a nota."
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente capacidade de articulação e profundidade analítica, características essenciais para o CACD. O candidato não se limitou a repetir as palavras de Saramago, mas expandiu a discussão para dimensões sociológicas, históricas e geopolíticas.",
+      "A organização é rigorosa, com um encadeamento lógico fluido. A transição entre exemplos concretos (leis Jim Crow, conflito sunita/xiita, barreiras físicas) e referências teóricas (Hannah Arendt, Thomas Hobbes, Immanuel Kant) evidencia maturidade intelectual e repertório interdisciplinar.",
+      "Houve plena adesão ao comando do enunciado: o autor expressou claramente sua concordância com a tese de Saramago e fundamentou tal posição através de argumentos sólidos, diferenciando 'tolerância' (como concessão hierárquica) de 'respeito/aceitação'.",
+      "Linguagem formal, precisa e adequada ao cargo diplomático, com vocabulário rico e uso correto de conectivos."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Ausência de artigo definido antes de 'tolerância' no trecho: 'Um dos mecanismos para lidar com as diferenças é tolerância' (Erro de sintaxe/omissão).",
+      "Falta de vírgula após adjunto adverbial deslocado no trecho: 'A política de tolerância perante o Oriente Médio, sem cooperação igualitária entre os países não é suficiente...' (Vírgula necessária após 'países' para fechar a intercalação)."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Falta de vírgula após 'cooperação igualitária entre os países' (oração intercalada/adjunto adverbial deslocado)",
+      "Erro de concordância nominal em 'elementos que a separam' (referindo-se a 'barreiras', deveria ser 'as separam')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Falta de vírgula após 'cooperação igualitária entre os países' (oração intercalada/adjunto adverbial deslocado)",
+      "Erro de concordância nominal em 'elementos que a separam' (referindo-se a 'barreiras', deveria ser 'as separam')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "falta de vírgula antes de 'não é suficiente' no trecho 'sem cooperação igualitária entre os países não é suficiente'",
+      "pontuação inadequada/vírgula substituindo ponto final após 'Mangabeira Unger'"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "falta de vírgula antes de 'não é suficiente' no trecho 'sem cooperação igualitária entre os países não é suficiente'",
+      "pontuação inadequada/vírgula substituindo ponto final após 'Mangabeira Unger'"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "falta de vírgula antes de 'não é suficiente' no trecho 'sem cooperação igualitária entre os países não é suficiente'",
+      "pontuação inadequada/vírgula substituindo ponto final após 'Mangabeira Unger'"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta alta correção normativa."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta alta correção normativa."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta alta correção normativa."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ausência de artigo definido antes de 'sociedade igualitária' no trecho: 'Embora a tolerância não seja suficiente para desenvolver sociedade igualitária...' (O correto seria 'desenvolver **uma** sociedade equalitária' ou '**a** sociedade')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ausência de artigo definido antes de 'sociedade igualitária' no trecho: 'Embora a tolerância não seja suficiente para desenvolver sociedade igualitária...' (O correto seria 'desenvolver **uma** sociedade equalitária' ou '**a** sociedade')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Ausência de artigo definido antes de 'sociedade igualitária' no trecho: 'Embora a tolerância não seja suficiente para desenvolver sociedade igualitária...' (O correto seria 'desenvolver **uma** sociedade equalitária' ou '**a** sociedade')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto demonstra domínio elevado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura dissertativo-argumentativa exemplar, com introdução clara, desenvolvimento fluido e conclusão sintetizadora.",
+      "Houve excelente interlocução com o comando da questão: o candidato não apenas discutiu a tolerância, mas posicionou-se criticamente em relação à tese de Saramago, concordando parcialmente com a insuficiência da tolerância, mas refutando a ideia de que ela fosse dispensável ou prejudicial.",
+      "A mobilização de repertório sociocultural é pertinente e diversificada, citando corretamente referências teóricas (Norberto Bobbio, Immanuel Kant), antropológicas (Roque Laraia) e literárias (referência direta à obra 'Ensaio sobre a Cegueira'), integrando-as organicamente ao argumento.",
+      "A progressão textual é lógica e a coesão é mantida por conectivos precisos, demonstrando maturidade estilística e rigor terminológico compatíveis com as exigências do CACD."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto demonstra domínio elevado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura dissertativo-argumentativa exemplar, com introdução clara, desenvolvimento fluido e conclusão sintetizadora.",
+      "Houve excelente interlocução com o texto motivador, demonstrando que o candidato não apenas leu a citação de Saramago, mas refletiu criticamente sobre ela, posicionando-se de maneira equilibrada (concordando parcialmente) e fundamentando sua tese.",
+      "A mobilização de repertório sociocultural é pertinente e diversificada, citando corretamente autores como Norberto Bobbio, Immanuel Kant e Roque Laraia, integrando esses conceitos organicamente ao argumento sem parecerem 'citações soltas'.",
+      "A progressão textual é lógica e a coesão é mantida por conectivos precisos, conduzindo o leitor desde a análise histórica da tolerância até a aplicação em contextos contemporâneos (imigração na Europa, racismo e sexismo no Brasil), culminando em uma referência literária ('Ensaio sobre a Cegueira') que fecha o ciclo argumentativo com sofisticação."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto demonstra domínio elevado da norma culta."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura dissertativo-argumentativa exemplar, com introdução clara, desenvolvimento fluido e conclusão sintetizadora.",
+      "Houve excelente interlocução com o texto motivador, demonstrando que o candidato não apenas leu a citação de Saramago, mas refletiu criticamente sobre ela, posicionando-se de maneira equilibrada (concordando parcialmente, mas defendendo a utilidade pragmática da tolerância).",
+      "A mobilização de repertório sociocultural é pertinente e diversificada, citando corretamente autores como Norberto Bobbio, Immanuel Kant e Roque Laraia, integrando esses conceitos organicamente ao argumento sem parecerem 'citações soltas'.",
+      "A progressão textual é lógica e a coesão é mantida por conectivos precisos ('por outro lado', 'posteriormente', 'contudo', 'nesse sentido'), conferindo maturidade ao estilo."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2017"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...não impediam o surgimento..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1118,13 +1280,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "'descrença nos ideias liberais' (erro de concordância nominal: deveria ser 'ideais')",
-      "'de modo que não impediam' (erro de concordância verbal: o sujeito 'generosidade' é singular, deveria ser 'impedia')"
+      "...não impediam o surgimento..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1135,13 +1296,12 @@
     "ano": "2017"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "'descrença nos ideias liberais' (erro de concordância nominal: deveria ser 'ideais')",
-      "'de modo que não impediam' (erro de concordância verbal: o sujeito 'generosidade' é singular, deveria ser 'impedia')"
+      "...não impediam o surgimento..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1153,8 +1313,10 @@
   },
   {
     "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...descrença nos ideias liberais..."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -1165,8 +1327,10 @@
   },
   {
     "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...descrença nos ideias liberais..."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -1177,8 +1341,10 @@
   },
   {
     "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...descrença nos ideias liberais..."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -1189,8 +1355,10 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...descrença nos ideias liberais..."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -1201,8 +1369,10 @@
   },
   {
     "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...descrença nos ideias liberais..."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -1214,8 +1384,15 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta alta correção gramatical; eventuais imprecisões são mínimas e não comprometem a nota."
+    ],
+    "feedbacks": [
+      "O candidato demonstrou excelente capacidade de articular a provocação filosófica de Saramago com fatos concretos da História das Relações Internacionais.",
+      "Houve um uso primoroso de repertório técnico (Conferência de Haia, Sistema de Mandatos, Teoria da Paz Democrática de Kant), elevando a discussão do campo puramente abstrato para o plano analítico.",
+      "A tese central — de que a tolerância, quando entendida como 'concessão' de quem detém o poder, reforça a hierarquia e a instabilidade — foi defendida com rigor lógico e progressão textual clara.",
+      "A linguagem é formal, precisa e adequada aos padrões exigidos pelo CACD, evidenciando maturidade estilística e domínio da norma culta."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,

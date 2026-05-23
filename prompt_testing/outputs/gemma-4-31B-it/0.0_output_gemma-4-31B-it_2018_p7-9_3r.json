@@ -2,10 +2,10 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' (o correto seria 'fazem', dado que o sujeito é composto)"
+      "concordância verbal: '...rapidez e a abrangência da difusão de notícias faz surgir...' -> deveria ser 'fazem' (sujeito composto)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -18,10 +18,10 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' (o correto seria 'fazem', dado que o sujeito é composto)"
+      "concordância verbal: '...rapidez e a abrangência da difusão de notícias FAZ surgir...' -> deveria ser 'FAZEM', dado que há dois núcleos no sujeito"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -34,10 +34,10 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 17.0,
+    "nota_1C": 8.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' (o correto seria 'fazem', dado que o sujeito é composto)"
+      "concordância verbal: '...rapidez e a abrangência da difusão de notícias faz surgir...' -> deveria ser 'fazem' (sujeito composto)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -48,7 +48,7 @@
     "ano": "2018"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -60,7 +60,7 @@
     "ano": "2018"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -72,7 +72,7 @@
     "ano": "2018"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -86,8 +86,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e progressão lógica, atendendo plenamente ao comando do enunciado. O candidato conseguiu integrar organicamente a citação de Oliveira Lima, utilizando-a não apenas como ilustração, mas como contraponto histórico para discutir a mutação do papel do diplomata frente à democratização e aceleração da informação.",
+      "A argumentação é clara e pertinente, distinguindo corretamente 'informação confiável' (combate a fake news/desinformação) de 'informação privilegiada' (expressão da vontade do Estado), demonstrando maturidade intelectual e compreensão da natureza do cargo público.",
+      "Quanto à correção gramatical, o texto é primoroso, com uso adequado de conectivos, regência correta e vocabulário preciso e formal, condizente com o padrão exigido para o CACD.",
+      "Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o autor poderia ter aprofundado a reflexão teórica sobre a tensão entre a publicidade necessária da era digital e a confidencialidade inerente à atividade diplomática, elevando a discussão de um plano pragmático para um plano mais analítico/estratégico."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -98,8 +105,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e progressão lógica, atendendo plenamente ao comando do enunciado. O candidato conseguiu integrar a citação de Oliveira Lima não apenas como referência formal, mas como base comparativa para discutir a transição do 'monopólio' da informação para a era da hiperconectividade.",
+      "A argumentação é clara e pertinente, distinguindo corretamente a natureza da notícia (muitas vezes efêmera ou enviesada) da informação diplomática (fundamentada em perspectivas de Estado).",
+      "Quanto à correção gramatical, o texto demonstra domínio seguro da norma culta, com vocabulário preciso e uso adequado de conectivos, garantindo a fluidez da leitura.",
+      "Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o autor poderia ter aprofundado a reflexão teórica sobre a tensão entre a publicidade exigida pelas redes sociais e a necessidade de sigilo/discrição inerente a certas etapas da atividade diplomática, elevando a discussão de um plano descritivo/funcional para um plano mais analítico."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -110,8 +124,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e progressão lógica, atendendo plenamente ao comando do enunciado. O candidato conseguiu integrar a citação de Oliveira Lima não apenas como referência formal, mas como base comparativa para discutir a transição do 'monopólio' da informação para a era da hiperconectividade.",
+      "A argumentação é clara e pertinente, distinguindo corretamente a natureza da notícia (muitas vezes efêmera ou enviesada) da informação diplomática (fundamentada em perspectivas de Estado).",
+      "Quanto à correção gramatical, o texto demonstra domínio seguro da norma culta, com vocabulário preciso e uso adequado de conectivos, garantindo a fluidez da leitura.",
+      "Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o autor poderia ter aprofundado a reflexão teórica sobre a tensão entre a publicidade exigida pelas redes sociais e a necessidade de sigilo/discrição inerente a certas etapas da atividade diplomática, elevando a discussão de um plano descritivo/funcional para um plano mais analítico."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -122,10 +143,10 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Ausência de preposição/conectivo em: 'o surgimento da rede mundial de computadores [e] a difusão das redes sociais' (falta a conjunção coordenativa 'e' para ligar os núcleos do sujeito)."
+      "Falta de conjunção coordenativa ('e') ou sinal de pontuação adequada entre 'computadores' e 'a difusão' no segundo período do primeiro parágrafo."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -138,10 +159,10 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Ausência de preposição/conectivo em: 'o surgimento da rede mundial de computadores [e] a difusão das redes sociais' (Erro de sintaxe/omissão)."
+      "Falta de conjunção coordenativa ('e') ou sinal de pontuação adequada entre 'computadores' e 'a difusão' no segundo período do primeiro parágrafo."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -154,10 +175,10 @@
   {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Ausência de preposição/conectivo em: 'o surgimento da rede mundial de computadores [e] a difusão das redes sociais' (Erro de sintaxe/omissão)."
+      "Falta de conjunção coordenativa ('e') ou sinal de pontuação adequada entre 'computadores' e 'a difusão' no segundo período do primeiro parágrafo."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -171,7 +192,7 @@
     "nota_final": 54.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "ausência de preposição/conectivo em 'o surgimento da rede mundial de computadores a difusão das redes sociais' (falta o 'e' coordenativo)"
+      "falta de preposição/conectivo em 'surgimento da rede mundial de computadores [e] a difusão'"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -185,7 +206,7 @@
     "nota_final": 54.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "Ausência de preposição/conectivo em 'o surgimento da rede mundial de computadores a difusão das redes sociais' (falta o 'e' coordenativo)°."
+      "falta de preposição/conectivo em 'surgimento da rede mundial de computadores [e] a difusão'"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -199,7 +220,7 @@
     "nota_final": 54.5,
     "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "ausência de preposição ou conjunção entre 'computadores' e 'a difusão' no segundo período do primeiro parágrafo: '...rede mundial de computadores [e] a difusão das redes sociais...']}"
+      "falta de preposição/conectivo em 'surgimento da rede mundial de computadores [e] a difusão'"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -212,7 +233,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -224,7 +247,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -236,7 +261,9 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -248,7 +275,7 @@
   {
     "nota_1A": 10.0,
     "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -262,7 +289,7 @@
   {
     "nota_1A": 10.0,
     "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -276,7 +303,7 @@
   {
     "nota_1A": 10.0,
     "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1C": 10.0,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -326,8 +353,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "O texto atende plenamente ao comando do enunciado, estabelecendo um diálogo claro entre a citação de Oliveira Lima e a contemporaneidade.",
+      "A organização é lógica e progressiva: inicia com a contextualização histórica, transita para a análise dos impactos tecnológicos modernos (pluralidade de narrativas e fake news) e culmina na discussão sobre a permanência das competências essenciais do diplomata.",
+      "A argumentação é coerente e bem desenvolvida, demonstrando capacidade de abstração ao conectar a 'escrita volumosa' do passado com a necessidade de 'filtragem crítica' do presente.",
+      "Linguagem formal, precisa e adequada ao padrão esperado para o CACD. Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o candidato poderia ter explorado conceitos teóricos mais densos sobre a diplomacia pública ou a natureza da inteligência estatal, elevando a sofisticação analítica além da observação empírica."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -338,8 +372,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "O texto atende plenamente ao comando do enunciado, estabelecendo um diálogo claro entre a citação de Oliveira Lima e a contemporaneidade.",
+      "A organização é lógica e progressiva: inicia com a contextualização histórica, transita para a análise dos impactos tecnológicos modernos (pluralidade de narrativas e fake news) e culmina na discussão sobre a permanência das competências essenciais do diplomata.",
+      "A argumentação é coerente e bem desenvolvida, demonstrando capacidade de abstração ao conectar a 'escrita volumosa' do passado com a necessidade de 'filtragem crítica' do presente.",
+      "Linguagem formal, precisa e adequada ao padrão esperado para o CACD, com bom uso de conectivos e encadeamento fluido de ideias."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -350,8 +391,15 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta excelente domínio da norma culta."
+    ],
+    "feedbacks": [
+      "O texto atende plenamente ao comando do enunciado, estabelecendo um diálogo claro entre a citação de Oliveira Lima e a contemporaneidade.",
+      "A organização é lógica e progressiva: inicia com a contextualização histórica, transita para a análise dos impactos tecnológicos modernos (pluralidade de narrativas e fake news) e culmina na discussão sobre a permanência das competências essenciais do diplomata.",
+      "A argumentação é coerente e bem desenvolvida, demonstrando capacidade de abstração ao conectar a 'escrita volumosa' do passado com a necessidade de 'filtragem crítica' do presente.",
+      "Linguagem formal, precisa e adequada ao padrão esperado para o CACD. Para atingir as faixas superiores ('Excelente' ou 'Excepcional'), o candidato poderia ter explorado conceitos teóricos mais densos sobre a diplomacia pública ou a natureza da inteligência estatal, elevando a sofisticação analítica além da observação empírica."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -360,16 +408,15 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 5,
+    "nota_1A": 7.0,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Letra minúscula no início de frase: 'se nos tempos de oliveira lima' (Linha 2).",
-      "Ausência de maiúscula em nome próprio: 'oliveira lima' (Linha 2).",
-      "Erro de regência/digitação: 'tende as ser renovada' (em vez de 'tende a ser') (Linha 24).",
-      "Erro de digitação/ortografia: 'politica externa' (ausência de acento em 'política') (Linha 33).",
-      "Erro de digitação: 'f iltros' (espaço indevido no meio da palavra) (Linha 18)."
+      "Ausência de letra maiúscula no início do segundo período ('se nos tempos...').",
+      "Erro de digitação/ortografia em 'legitimada' onde deveria ser 'legitimidade'.",
+      "Uso incorreto da preposição em 'tende as ser renovada' (correto seria 'tende a ser').",
+      "Erro de acentuação em 'politica' (falta o acento tônico em 'política') no penúltimo período."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -380,16 +427,15 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 5,
+    "nota_1A": 7.0,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Letra minúscula no início de frase: 'se nos tempos de oliveira lima' (Linha 2).",
-      "Ausência de maiúscula em nome próprio: 'oliveira lima' (Linha 2).",
-      "Erro de regência/digitação: 'tende as ser renovada' (em vez de 'tende a ser') (Linha 24).",
-      "Erro de digitação/ortografia: 'politica externa' (ausência de acento em 'política') (Linha 33).",
-      "Erro de digitação: 'f iltros' (espaço indevido no meio da palavra) (Linha 18)."
+      "Ausência de letra maiúscula no início do segundo período ('se nos tempos...').",
+      "Erro de digitação/ortografia em 'legitimada' onde deveria ser 'legitimidade'.",
+      "Uso incorreto da preposição em 'tende as ser renovada' (correto seria 'tende a ser').",
+      "Erro de acentuação em 'politica' (falta o acento tônico em 'política') no penúltimo período."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -400,16 +446,15 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 5,
+    "nota_1A": 7.0,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
-      "Letra minúscula no início de frase: 'se nos tempos de oliveira lima' (Linha 2).",
-      "Ausência de maiúscula em nome próprio: 'oliveira lima' (Linha 2).",
-      "Erro de concordância nominal: 'procedência duvidosas' (Linha 12).",
-      "Erro de regência/digitação: 'tende as ser renovada' (em vez de 'tende a ser') (Linha 26).",
-      "Erro de ortografia/digitação: 'politica externa' (ausência de acento em 'política') (Linha 36)."
+      "Ausência de letra maiúscula no início do segundo período ('se nos tempos...').",
+      "Erro de digitação/ortografia em 'legitimada' onde deveria ser 'legitimidade'.",
+      "Uso incorreto da preposição em 'tende as ser renovada' (correto seria 'tende a ser').",
+      "Erro de acentuação em 'politica' (falta o acento tônico em 'política') no penúltimo período."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -420,12 +465,12 @@
     "ano": "2018"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 48.5,
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "se nos tempos de oliveira lima (falta de letra maiúscula no início da frase e no nome próprio)",
-      "tende as ser renovada (erro de crase/regência: o correto seria 'tende a ser')",
-      "politica externa (falta de acento em 'política')"
+      "falta de letra maiúscula inicial no segundo período ('se nos tempos...')",
+      "concordância nominal incorreta ('legitimada questionada' em vez de 'legitimidade')",
+      "regência verbal/crase inadequada ('tende as ser renovada' em vez de 'tende a ser')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -436,9 +481,13 @@
     "ano": "2018"
   },
   {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "falta de letra maiúscula inicial no segundo período ('se nos tempos...')",
+      "concordância nominal incorreta ('legitimada questionada' em vez de 'legitimidade')",
+      "regência verbal/crase inadequada ('tende as ser renovada' em vez de 'tende a ser')"
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -448,28 +497,28 @@
     "ano": "2018"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "falta de letra maiúscula inicial no segundo período ('se nos tempos...')",
+      "concordância nominal incorreta ('legitimada questionada' em vez de 'legitimidade')",
+      "regência verbal/crase inadequada ('tende as ser renovada' em vez de 'tende a ser')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
       "Ausência de letra maiúscula no início do segundo período ('se nos tempos...')",
-      "Erro de concordância nominal em 'procedência duvidosas'",
-      "Erro de regência/digitação em 'tende as ser renovada' (uso de 'as' em vez de 'a')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2018"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "Ausência de letra maiúscula no início do segundo período ('se nos tempos de oliveira lima...').",
-      "Ausência de letra maiúscula no nome próprio 'Oliveira Lima' no segundo período.",
-      "Erro de regência/digitação no trecho 'tende as ser renovada' (o correto seria 'tende a ser')."
+      "Erro de digitação/concordância nominal em 'tem a legitimada questionada' (provavelmente quis dizer 'legitimidade')",
+      "Uso inadequado da preposição em 'tende as ser renovada' (correto seria 'tende a ser')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -483,9 +532,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Ausência de letra maiúscula no início do segundo período ('se nos tempos de oliveira lima...').",
-      "Ausência de letra maiúscula no nome próprio 'Oliveira Lima' no segundo período.",
-      "Erro de regência/digitação no trecho 'tende as ser renovada' (o correto seria 'tende a ser')."
+      "Ausência de letra maiúscula no início do segundo período ('se nos tempos...')",
+      "Erro de digitação/concordância nominal em 'tem a legitimada questionada' (provavelmente quis dizer 'legitimidade')",
+      "Uso inadequado da preposição em 'tende as ser renovada' (correto seria 'tende a ser')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -499,9 +548,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "Ausência de letra maiúscula no início do segundo período ('se nos tempos de oliveira lima...').",
-      "Ausência de letra maiúscula no nome próprio 'Oliveira Lima' no segundo período.",
-      "Erro de regência/digitação no trecho 'tende as ser renovada' (o correto seria 'tende a ser')."
+      "Ausência de letra maiúscula no início do segundo período ('se nos tempos...')",
+      "Erro de digitação/concordância nominal em 'tem a legitimada questionada' (provavelmente quis dizer 'legitimidade')",
+      "Uso inadequado da preposição em 'tende as ser renovada' (correto seria 'tende a ser')"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -512,13 +561,12 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 7.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'política publica' (falta de acento em 'pública')",
-      "'diálogo com a sociedade fundamental' (falta do verbo 'é')"
+      "política publica"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -529,13 +577,12 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 7.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'política publica' (falta de acento em 'pública')",
-      "'diálogo com a sociedade fundamental' (falta do verbo 'é')"
+      "política publica"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -546,13 +593,12 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
+    "nota_1A": 7.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.5,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "'política publica' (falta de acento em 'pública')",
-      "'diálogo com a sociedade fundamental' (falta do verbo 'é')"
+      "política publica"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -563,7 +609,7 @@
     "ano": "2018"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 48.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -575,7 +621,7 @@
     "ano": "2018"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 48.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -587,7 +633,7 @@
     "ano": "2018"
   },
   {
-    "nota_final": 52.0,
+    "nota_final": 48.5,
     "numero_de_erros_gramaticais": 0,
     "erros_gramaticais": [],
     "feedbacks": [],
@@ -601,7 +647,9 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros gritantes de sintaxe ou ortografia."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -613,7 +661,9 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros gritantes de sintaxe ou ortografia."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -625,7 +675,9 @@
   {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros gritantes de sintaxe ou ortografia."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -635,17 +687,11 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "'atividade diplomáticas' (erro de concordância nominal: deveria ser 'atividades diplomáticas' ou 'atividade diplomática')",
-      ", consideravelmente o sigilo (vírgula separando o advérbio do objeto, prejudicando a fluidez, embora menos grave que a anterior)",
-      ", potencialmente, dificulte (vírgula desnecessária isolando o advérbio)",
-      "avaliação histórico (erro de concordância nominal: deveria ser 'avaliação histórica')",
-      "'para além das consequências imediatas*' (falta de letra maiúscula no início da frase)"
-    ],
+    "nota_1A": 1,
+    "nota_1B": 1,
+    "nota_1C": 1,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -655,17 +701,11 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "'atividade diplomáticas' (erro de concordância nominal: deveria ser 'atividades diplomáticas' ou 'atividade diplomática')",
-      ", consideravelmente o sigilo (vírgula separando o advérbio do objeto, prejudicando a fluidez, embora menos grave que a anterior)",
-      ", potencialmente, dificulte (vírgula desnecessária isolando o advérbio)",
-      "avaliação histórico (erro de concordância nominal: deveria ser 'avaliação histórica')",
-      "'para além das consequências imediatas*' (falta de letra maiúscula no início da frase)"
-    ],
+    "nota_1A": 1,
+    "nota_1B": 1,
+    "nota_1C": 1,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -675,17 +715,11 @@
     "ano": "2018"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 5,
-    "erros_gramaticais": [
-      "'atividade diplomáticas' (erro de concordância nominal: deveria ser 'atividades diplomáticas' ou 'atividade diplomática')",
-      ", consideravelmente o sigilo (vírgula separando o advérbio do objeto, prejudicando a fluidez, embora menos grave que a anterior)",
-      ", potencialmente, dificulte (vírgula desnecessária isolando o advérbio)",
-      "avaliação histórico (erro de concordância nominal: deveria ser 'avaliação histórica')",
-      "'para além das consequências imediatas*' (falta de letra maiúscula no início da frase)"
-    ],
+    "nota_1A": 1,
+    "nota_1B": 1,
+    "nota_1C": 1,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
@@ -695,13 +729,14 @@
     "ano": "2018"
   },
   {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "atividade diplomáticas (concordância nominal)",
+    "nota_final":"48.50",
+    "numero_de_erros_gramaticais":7,
+    "erros_gramaticais":[
+      "atividade diplomáticas (concordância)",
       "diminuído, consideravelmente (vírgula separando verbo de advérbio)",
-      "avaliação histórico (concordância nominal)",
-      "para além das consequências imediatas* (erro de digitação/pontuação)"
+      "avaliação histórico (concordância)","para além (falta de letra maiúscula após ponto final)",
+      "contribuírem (infinitivo flexionado inadequado neste contexto)",
+      "muitas vezes, ocorre (pontuação excessiva/desnecessária)","estavam em Sorbonne (regência/uso de artigo)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -712,13 +747,14 @@
     "ano": "2018"
   },
   {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "atividade diplomáticas (concordância nominal)",
+    "nota_final":"48.50",
+    "numero_de_erros_gramaticais":7,
+    "erros_gramaticais":[
+      "atividade diplomáticas (concordância)",
       "diminuído, consideravelmente (vírgula separando verbo de advérbio)",
-      "avaliação histórico (concordância nominal)",
-      "para além das consequências imediatas* (erro de digitação/pontuação)"
+      "avaliação histórico (concordância)","para além (falta de letra maiúscula após ponto final)",
+      "contribuírem (infinitivo flexionado inadequado neste contexto)",
+      "muitas vezes, ocorre (pontuação excessiva/desnecessária)","estavam em Sorbonne (regência/uso de artigo)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -729,13 +765,14 @@
     "ano": "2018"
   },
   {
-    "nota_final": 52.0,
-    "numero_de_erros_gramaticais": 4,
-    "erros_gramaticais": [
-      "atividade diplomáticas (concordância nominal)",
+    "nota_final":"48.50",
+    "numero_de_erros_gramaticais":7,
+    "erros_gramaticais":[
+      "atividade diplomáticas (concordância)",
       "diminuído, consideravelmente (vírgula separando verbo de advérbio)",
-      "avaliação histórico (concordância nominal)",
-      "para além das consequências imediatas* (erro de digitação/pontuação)"
+      "avaliação histórico (concordância)","para além (falta de letra maiúscula após ponto final)",
+      "contribuírem (infinitivo flexionado inadequado neste contexto)",
+      "muitas vezes, ocorre (pontuação excessiva/desnecessária)","estavam em Sorbonne (regência/uso de artigo)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -749,9 +786,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "'atividade diplomáticas' (falta de concordância nominal)",
-      " 'diminuído, consideravelmente' (vírgula separando verbo de advérbio de modo)",
-      " 'para além das consequências imediatas' (início de frase com letra minúscula)"
+      "atividade diplomáticas (falta de concordância nominal)",
+      "avaliação histórico (falta de concordância nominal)",
+      "para além das consequências imediatas* (ausência de letra maiúscula após ponto final/erro de digitação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -765,9 +802,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "atividade diplomáticas (erro de concordância nominal)",
-      "avaliação histórico (erro de concordância nominal)",
-      "para além das consequências imediatas* (erro de digitação/pontuação: início de frase com letra minúscula e presença de caractere residual)"
+      "atividade diplomáticas (falta de concordância nominal)",
+      "avaliação histórico (falta de concordância nominal)",
+      "para além das consequências imediatas* (ausência de letra maiúscula após ponto final/erro de digitação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -781,9 +818,9 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "atividade diplomáticas (erro de concordância nominal)",
-      "avaliação histórico (erro de concordância nominal)",
-      "para além das consequências imediatas* (erro de digitação/pontuação: início de frase com letra minúscula e presença de caractere residual)"
+      "atividade diplomáticas (falta de concordância nominal)",
+      "avaliação histórico (falta de concordância nominal)",
+      "para além das consequências imediatas* (ausência de letra maiúscula após ponto final/erro de digitação)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",

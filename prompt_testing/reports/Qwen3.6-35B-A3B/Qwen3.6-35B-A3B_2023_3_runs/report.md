@@ -1,5 +1,5 @@
 # Relatório de Avaliação: Qwen3.6-35B-A3B - 3 execuções
-**Gerado em: 14/05/2026 18:26:30**
+**Gerado em: 21/05/2026 08:53:30**
 
 ## 1. Distribuição de Notas
 Nesta seção comparamos as notas atribuídas pelo modelo Qwen3.6-35B-A3B em diferentes prompts/temperaturas versus a correção humana.
@@ -33,22 +33,22 @@ Nesta seção, apresentamos a comparação entre as notas finais geradas pelo mo
     <tr>
       <td>7</td>
       <td>0.0</td>
-      <td>38.85</td>
-      <td>9.68</td>
-      <td>9.6968</td>
+      <td>39.2167</td>
+      <td>9.7933</td>
+      <td>9.8116</td>
     </tr>
     <tr>
       <td>8</td>
       <td>0.0</td>
-      <td>1.85</td>
-      <td>0.52</td>
+      <td>1.8500</td>
+      <td>0.5200</td>
       <td>0.6693</td>
     </tr>
     <tr>
       <td>9</td>
       <td>0.0</td>
-      <td>41.35</td>
-      <td>10.06</td>
+      <td>41.3500</td>
+      <td>10.0600</td>
       <td>11.0968</td>
     </tr>
   </tbody>
@@ -74,14 +74,14 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 ### Modelo Qwen3.6-35B-A3B
 |       |    prompt |   temp |   redacao |   nota_final |   nota_final_std |   1A |       1B |   1C |      CGPL |   num_errors |
 |:------|----------:|-------:|----------:|-------------:|-----------------:|-----:|---------:|-----:|----------:|-------------:|
-| count | 15        |     15 |  15       |     15       |               15 |    5 | 5        |    5 |  5        |    15        |
-| mean  |  8        |      0 |   3       |     52.6267  |                0 |    9 | 9.1      |   16 | 15.28     |     1.62222  |
-| std   |  0.845154 |      0 |   1.46385 |      5.82365 |                0 |    0 | 0.223607 |    0 |  0.164317 |     0.898559 |
-| min   |  7        |      0 |   1       |     45       |                0 |    9 | 9        |   16 | 15.1      |     0        |
-| 25%   |  7        |      0 |   2       |     49.25    |                0 |    9 | 9        |   16 | 15.1      |     1        |
-| 50%   |  8        |      0 |   3       |     49.6     |                0 |    9 | 9        |   16 | 15.4      |     2        |
-| 75%   |  9        |      0 |   4       |     59.5     |                0 |    9 | 9        |   16 | 15.4      |     2        |
-| max   |  9        |      0 |   5       |     59.5     |                0 |    9 | 9.5      |   16 | 15.4      |     3        |
+| count | 15        |     15 |  15       |     15       |       15         |    5 | 5        |    5 |  5        |     15       |
+| mean  |  8        |      0 |   3       |     52.5889  |        0.0307933 |    9 | 9.06666  |   16 | 15.2      |      1.55555 |
+| std   |  0.845154 |      0 |   1.46385 |      5.84628 |        0.0841438 |    0 | 0.149056 |    0 |  0.141421 |      1.07398 |
+| min   |  7        |      0 |   1       |     45       |        0         |    9 | 9        |   16 | 15.1      |      0       |
+| 25%   |  7        |      0 |   2       |     49.1     |        0         |    9 | 9        |   16 | 15.1      |      1       |
+| 50%   |  8        |      0 |   3       |     49.4333  |        0         |    9 | 9        |   16 | 15.1      |      2       |
+| 75%   |  9        |      0 |   4       |     59.5     |        0         |    9 | 9        |   16 | 15.3      |      2.16665 |
+| max   |  9        |      0 |   5       |     59.5     |        0.2887    |    9 | 9.3333   |   16 | 15.4      |      3       |
 
 ### Humano
 |       |   redacao |   nota_final |   num_errors |

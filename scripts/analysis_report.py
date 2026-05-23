@@ -21,6 +21,7 @@ def print_full(df):
     pd.reset_option('display.expand_frame_repr')
 
 def main(num_runs, eval_path, human_path, model, year):
+    print(year)
     pd.set_option('future.no_silent_downcasting', True)
     root_path = os.getcwd()
     output_path = os.path.join(root_path, "prompt_testing", "reports", model, f"{model}_{year}_{num_runs}_runs")
@@ -168,13 +169,14 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 {df_human.describe().to_markdown()}
 """
 
+
     # Salva apenas o arquivo .md
     report_path = os.path.join(output_path, "report.md")
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(md_content)
 
     print(f"Relatório gerado com sucesso em: {output_path}")
-    
+  
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--num_runs", type=int, required=True)

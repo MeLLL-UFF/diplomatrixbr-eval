@@ -1,0 +1,945 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "elidir desconsiderar [sobrescrita] — uso redundante e inadequado do verbo “elidir” junto com “desconsiderar”; o correto seria apenas “não se pode desconsiderar”",
+      "cada ator escutaria, em seu idioma nativo, os seus colega — erro de concordância: “os seus colegas”"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, clareza e estilo adequado ao tema, com coerência e legibilidade elevadas. A introdução contextualiza bem o assunto e o desenvolvimento segue uma linha lógica, mas há pequenas imprecisões estilísticas.",
+      "A argumentação é objetiva, pertinente e bem sistematizada, com exemplos concretos e referências a fatos e documentos. Os argumentos positivos e negativos são equilibrados e pertinentes ao tema da diplomacia.",
+      "A análise é aprofundada, com reflexão crítica sobre os impactos da IA na diplomacia, mas poderia explorar mais as nuances das recomendações da UNESCO e das implicações éticas. A conclusão é consistente, mas faltam algumas conexões mais explícitas entre os argumentos e as soluções propostas.",
+      "Os erros gramaticais são poucos e não comprometem a compreensão, mas demonstram pequena falta de revisão. A linguagem é formal e apropriada ao contexto do CACD."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "elidir desconsiderar [sobrescrita] — uso redundante e inadequado do verbo elidir",
+      "cada ator escutaria, em seu idioma nativo, os seus colega — erro de concordância nominal: colega deveria estar no plural (colegas)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e estilo, com boa coerência e legibilidade. A introdução contextualiza bem o tema e a conclusão é coesa e pertinente.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, trazendo exemplos concretos e atuais, como a simulação de conferências e o uso da IA em acordos ambientais e educacionais.",
+      "A análise é aprofundada, refletindo sobre os impactos positivos e negativos da IA na diplomacia, bem como sobre a necessidade de regulação internacional. A reflexão sobre desigualdades e riscos éticos é pertinente e bem fundamentada.",
+      "Há dois erros gramaticais pontuais: uso redundante de 'elidir desconsiderar' e erro de concordância em 'colega'. Ambos não comprometem a compreensão, mas afetam a correção formal.",
+      "A linguagem é adequada e formal, com vocabulário apropriado ao contexto diplomático e acadêmico."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "elidir desconsiderar [sobrescrita] — uso redundante e incorreto do verbo “elidir” junto com “desconsiderar”; o correto seria apenas “não se pode desconsiderar” ou “não se pode elidir”.",
+      "cada ator escutaria, em seu idioma nativo, os seus colega",
+      "colega",
+      "deveria estar no plural: “os seus colegas”."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, legibilidade e estilo, com linguagem clara e adequada ao tema. A estrutura é bem organizada, com introdução, desenvolvimento e conclusão bem definidos.",
+      "A argumentação é objetiva, pertinente e bem sistematizada, trazendo exemplos concretos e referências teóricas pertinentes (Wendt, UNESCO, ODS).",
+      "A análise é aprofundada, refletindo sobre os impactos positivos e negativos da IA na diplomacia, bem como sobre possíveis soluções e desafios globais. A reflexão sobre a dualidade da tecnologia é especialmente relevante.",
+      "Há dois erros gramaticais pontuais, que não comprometem a compreensão, mas afetam a correção formal do texto.",
+      "A redação demonstra domínio do tema e capacidade de reflexão crítica, alinhada aos critérios do concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "elidir desconsiderar (uso redundante, provavelmente deveria ser apenas \"elidir\" ou \"desconsiderar\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sólida e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e formalidade compatível.",
+      "Há apenas um pequeno desvio gramatical (redundância), que não compromete a compreensão nem a qualidade geral do texto.",
+      "O candidato aborda de forma equilibrada os impactos positivos e negativos da IA para a diplomacia, citando exemplos concretos e referências internacionais, como a UNESCO e os ODS.",
+      "A conclusão é coerente e reforça a necessidade de cooperação internacional, alinhando-se ao enunciado e aos critérios de avaliação."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "elidir desconsiderar (redundância)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sólida e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada e demonstra domínio do vocabulário técnico, com pouquíssimos desvios gramaticais.",
+      "Há um pequeno erro de redundância (“elidir desconsiderar”), que não compromete a compreensão, mas deve ser corrigido.",
+      "O candidato aborda de forma equilibrada os impactos positivos e negativos da IA para a diplomacia, citando exemplos concretos e referências pertinentes.",
+      "A conclusão é coerente e reforça a necessidade de cooperação internacional, alinhando-se ao espírito do enunciado e das recomendações da UNESCO."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "elidir desconsiderar (redundância, uso inadequado do verbo elidir no contexto)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, com argumentação sólida e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto diplomático e acadêmico, com poucos desvios gramaticais.",
+      "O candidato soube explorar tanto os impactos positivos quanto negativos da IA para a diplomacia, trazendo exemplos concretos e referências pertinentes.",
+      "A conclusão é coerente e reforça a necessidade de cooperação internacional, alinhando-se ao espírito do enunciado e das recomendações da UNESCO.",
+      "O erro gramatical identificado é pontual e não compromete a compreensão global do texto, mas afeta a precisão linguística em um trecho específico."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "elidir desconsiderar [sobrescrita]"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, com introdução clara, desenvolvimento bem encadeado e conclusão reflexiva. A argumentação é pertinente, equilibrada e demonstra compreensão aprofundada do tema, citando exemplos concretos e referências teóricas adequadas.",
+      "A linguagem é formal, precisa e adequada ao contexto diplomático, com poucos deslizes gramaticais. O único erro identificado foi a repetição de palavras (“elidir desconsiderar”), que pode ser corrigida para maior clareza.",
+      "O texto evidencia reflexão crítica sobre os impactos positivos e negativos da IA na diplomacia, além de propor soluções globais e multilaterais, em consonância com o enunciado e as recomendações da UNESCO.",
+      "A articulação entre os parágrafos é coesa e a progressão temática é lógica, facilitando a compreensão do leitor.",
+      "O uso de exemplos práticos (simulação de conferências, aplicação em setores como agricultura e mineração) enriquece a argumentação e demonstra domínio do tema.",
+      "A conclusão é bem elaborada, retomando a dualidade da IA e reforçando a necessidade de cooperação internacional, o que confere ao texto um fechamento consistente e maduro."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "elidir desconsiderar [sobrescrita]"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, com introdução clara, desenvolvimento bem encadeado e conclusão reflexiva. A argumentação é pertinente ao tema e demonstra compreensão dos impactos positivos e negativos da IA para a diplomacia.",
+      "A linguagem é formal, adequada ao contexto acadêmico e diplomático, com poucos deslizes gramaticais. O único erro identificado foi a repetição de palavras ('elidir desconsiderar'), que pode ser corrigida para maior clareza.",
+      "O texto evidencia boa articulação entre ideias, uso de exemplos concretos e referência a documentos e autores relevantes, o que enriquece a argumentação.",
+      "A reflexão sobre a necessidade de regulamentação internacional e a menção a desafios globais demonstram maturidade analítica e consciência do papel da diplomacia contemporânea.",
+      "Apesar da qualidade geral elevada, a argumentação poderia ser ainda mais sofisticada com aprofundamento teórico ou discussão de contrapontos mais detalhados, o que justifica a faixa “Ótimo” em vez de “Excelente” ou “Excepcional”."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "elidir desconsiderar [sobrescrita]"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização e desenvolvimento temático, com argumentação clara, encadeamento lógico e reflexão aprofundada sobre os impactos da IA na diplomacia.",
+      "A linguagem é formal, adequada e demonstra domínio da norma culta, com apenas um erro gramatical pontual (redundância/sobrescrita).",
+      "O candidato articula exemplos concretos e faz referências pertinentes (Wendt, UNESCO, ODS), evidenciando repertório e capacidade analítica.",
+      "A abordagem equilibra aspectos positivos e negativos da IA, propondo soluções e ressaltando a necessidade de cooperação internacional.",
+      "A conclusão é coesa e reforça a dualidade do tema, com estilo maduro e clareza argumentativa."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contração de crase em \"contra à humanidade\"",
+      "concordância verbal em \"O surgimento de novas tecnologias contribuíram para\" (deveria ser \"contribuiu\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo adequado e legibilidade, com poucas falhas de fluidez. (1A)",
+      "Os argumentos são pertinentes, bem sistematizados e alinhados ao tema, com exemplos concretos e referências relevantes. (1B)",
+      "A análise é reflexiva e equilibrada, abordando impactos positivos e negativos da IA na diplomacia, mas poderia aprofundar mais as nuances e limitações. (1C)",
+      "Há dois erros gramaticais: uso indevido de crase e erro de concordância verbal.",
+      "A linguagem é formal e apropriada, mas a correção gramatical pode ser aprimorada para atingir nota máxima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contra à humanidade (contra a humanidade)",
+      "criação veloz de resumos (uso impreciso do advérbio, poderia ser 'rápida' ou 'ágil', mas não constitui erro grave; considerado como impropriedade leve)"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, legibilidade e estilo, com introdução clara e encadeamento lógico dos argumentos. Apenas pequenas impropriedades de linguagem afetam a nota máxima em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos concretos e referências históricas. Apenas faltou maior aprofundamento em alguns pontos para atingir a nota máxima em 1B.",
+      "A análise é crítica e reflexiva, abordando tanto impactos positivos quanto negativos da IA na diplomacia, com referência a casos reais e potenciais. A reflexão sobre o papel regulador da diplomacia é pertinente, mas poderia ser mais aprofundada em relação aos desafios éticos e institucionais, o que justifica a nota um pouco abaixo do máximo em 1C.",
+      "Foram identificados dois erros gramaticais: um de regência ('contra à humanidade') e uma impropriedade leve de linguagem ('criação veloz')."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contração de crase em \"contra à humanidade\" (correto: \"contra a humanidade\")",
+      "concordância verbal em \"O surgimento de novas tecnologias contribuíram para...\" (correto: \"contribuiu\")"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo adequado e legibilidade, mas há pequenas falhas de apresentação (nota 1A).",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos concretos e referências relevantes (nota 1B).",
+      "A análise é profunda, reflete sobre impactos positivos e negativos da IA na diplomacia e relaciona com questões contemporâneas, mas poderia aprofundar mais a discussão sobre desafios éticos específicos (nota 1C).",
+      "Há dois erros gramaticais: uso indevido de crase e erro de concordância verbal.",
+      "A linguagem é, em geral, correta e apropriada ao gênero dissertativo-argumentativo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contra à humanidade",
+      "criação veloz de resumos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente capacidade de argumentação, clareza e encadeamento lógico das ideias, abordando de forma equilibrada os impactos positivos e negativos da IA para a diplomacia.",
+      "A linguagem é adequada ao contexto e há boa utilização de exemplos concretos e referências internacionais.",
+      "Há poucos erros gramaticais, como a regência em \"contra à humanidade\" (o correto seria \"contra a humanidade\") e a expressão \"criação veloz de resumos\", que poderia ser mais precisa.",
+      "A redação demonstra reflexão crítica e respeito ao tema proposto, além de boa organização textual.",
+      "A conclusão é coerente e reforça a necessidade de regulamentação internacional para potencializar os efeitos positivos da IA na diplomacia."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contra à humanidade (correto: contra a humanidade)",
+      "por intermédio de aplicativos como o “Facebook” e o “Instagram” (uso excessivo de aspas, desnecessário em contexto formal)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, com argumentação clara e encadeamento lógico das ideias.",
+      "Há boa reflexão sobre os impactos positivos e negativos da IA na diplomacia, com exemplos concretos e referências pertinentes.",
+      "A linguagem é formal e adequada ao contexto, mas há pequenos deslizes gramaticais que afetam a correção textual.",
+      "O texto demonstra capacidade de análise crítica e compreensão do tema, além de propor soluções alinhadas à recomendação da UNESCO.",
+      "A conclusão é coerente e reforça a necessidade de regulamentação internacional para potencializar os efeitos positivos da IA na diplomacia."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contra à humanidade (correto: contra a humanidade)",
+      "por intermédio de aplicativos como o \"Facebook\" e o \"Instagram\" (uso inadequado de aspas em nomes de aplicativos, embora não seja erro gramatical estrito, pode ser considerado impropriedade de linguagem)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento do tema, com argumentação clara, coerente e bem encadeada, abordando tanto impactos positivos quanto negativos da IA para a diplomacia.",
+      "Há boa capacidade de reflexão e uso pertinente de exemplos concretos, como a Primavera Árabe, Brexit, conflitos na Ucrânia e monitoramento ambiental.",
+      "A linguagem é formal e adequada ao contexto, mas há pequenos deslizes gramaticais e de propriedade lexical que devem ser corrigidos para atingir nota máxima.",
+      "O texto cumpre plenamente o que foi solicitado no enunciado, com conclusão reflexiva e integrada ao desenvolvimento.",
+      "Apenas dois erros gramaticais foram identificados, o que não compromete a compreensão nem a qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contra à humanidade"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com introdução clara, desenvolvimento coerente e conclusão pertinente ao tema. Os argumentos são bem encadeados e há reflexão sobre os impactos positivos e negativos da IA na diplomacia, com exemplos concretos e referências relevantes.",
+      "Há domínio consistente da norma padrão, mas ocorre um pequeno erro de regência em 'contra à humanidade' (o correto seria 'contra a humanidade').",
+      "A linguagem é adequada ao contexto e há boa articulação entre os parágrafos, embora alguns trechos possam ser aprimorados em termos de precisão vocabular e fluidez.",
+      "O texto evidencia reflexão e coesão, mas não atinge o nível de sofisticação argumentativa e originalidade necessários para ser considerado 'Excelente' ou 'Excepcional'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contra à humanidade"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com introdução clara, desenvolvimento coerente e conclusão pertinente ao tema. Os argumentos são bem encadeados e há reflexão sobre os impactos positivos e negativos da IA na diplomacia, com exemplos concretos e referências a contextos internacionais.",
+      "A linguagem é adequada ao gênero dissertativo e há domínio razoável da norma culta, embora ocorra um pequeno erro de regência (“contra à humanidade” deveria ser “contra a humanidade”).",
+      "A argumentação é consistente, mas poderia ser mais sofisticada em alguns trechos, especialmente ao discutir nuances da regulamentação internacional e dos desafios específicos para a diplomacia.",
+      "O texto demonstra compreensão do enunciado e utiliza referências pertinentes, como a Primavera Árabe, Cambridge Analytica, conflitos na Ucrânia e desmatamento na Amazônia, o que enriquece a discussão.",
+      "Apesar de alguns trechos serem um pouco repetitivos, a redação é clara, coesa e cumpre os requisitos do tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "contra à humanidade"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, com introdução clara, desenvolvimento bem encadeado e conclusão pertinente ao tema. Os argumentos são relevantes e demonstram reflexão sobre o impacto da IA na diplomacia, citando exemplos concretos e atuais.",
+      "A linguagem é formal, adequada ao contexto acadêmico e diplomático, com domínio consistente da norma padrão, embora haja um pequeno erro de regência (“contra à humanidade” deveria ser “contra a humanidade”).",
+      "A argumentação é equilibrada, abordando tanto impactos positivos quanto negativos da IA, e relacionando-os à necessidade de regulamentação internacional, o que demonstra compreensão do papel da diplomacia contemporânea.",
+      "O texto evidencia coesão e clareza, com referências teóricas e fatos históricos que enriquecem a discussão, mas a argumentação não chega a ser excepcionalmente original ou inovadora.",
+      "Há apenas um deslize gramatical de regência e outro possível erro de digitação (“criar padrões internacionais, de maneira que a diplomacia pode ser importante nesse processo” poderia ser mais fluido), mas ambos não comprometem a qualidade geral do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pesquisa dor"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência, legibilidade e estilo, com linguagem formal e adequada ao tema. Apenas um erro de digitação (“pesquisa dor”) foi identificado, o que não compromete a compreensão geral.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato explora tanto impactos positivos quanto negativos da IA na diplomacia, utilizando exemplos concretos e referências ao texto motivador.",
+      "A análise é aprofundada, com reflexão sobre desigualdades no acesso à tecnologia e suas consequências para negociações diplomáticas. O texto demonstra capacidade de reflexão crítica, mas poderia explorar ainda mais nuances sobre possíveis soluções ou alternativas para mitigar os efeitos negativos.",
+      "O erro gramatical identificado é de digitação (“pesquisa dor” em vez de “pesquisador”), não afetando a correção estrutural do texto. A linguagem é, de modo geral, correta e apropriada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pesquisa dor"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, legibilidade e estilo, com linguagem formal e adequada ao tema. Apenas pequenos deslizes de digitação, como 'pesquisa dor', afetam a apresentação.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato aborda tanto impactos positivos quanto negativos da IA na diplomacia, citando exemplos concretos e referências ao texto de apoio.",
+      "A análise demonstra reflexão crítica ao discutir a dualidade dos efeitos da IA, considerando desigualdades e desafios éticos. A conclusão pondera nuances e mostra maturidade analítica.",
+      "Houve apenas um erro gramatical evidente ('pesquisa dor'), que deve ser descontado na avaliação de correção linguística.",
+      "A redação atende plenamente ao enunciado e aos critérios de avaliação, sendo clara, bem estruturada e fundamentada."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pesquisa dor"
+    ],
+    "feedbacks": [
+      "1A - O texto apresenta boa coerência, legibilidade e estilo, com linguagem formal e adequada ao tema. Apenas pequenos ajustes poderiam melhorar a fluidez, mas a impressão geral é positiva.",
+      "1B - A argumentação é objetiva, bem sistematizada e pertinente ao tema. O candidato utiliza exemplos concretos e relaciona adequadamente o conteúdo do enunciado com o debate sobre diplomacia e IA.",
+      "1C - O texto demonstra boa capacidade de análise e reflexão, abordando tanto impactos positivos quanto negativos da IA na diplomacia, com reflexão crítica sobre desigualdades e desafios éticos. Poderia aprofundar um pouco mais as consequências práticas dessas desigualdades.",
+      "Correção gramatical - Há um erro de digitação ('pesquisa dor'), que deve ser corrigido para 'pesquisador'. Não há outros erros evidentes de concordância, pontuação ou regência.",
+      "Propriedade da linguagem - O vocabulário é adequado e técnico, sem excessos ou impropriedades."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "preferência do pesquisa dor (correto: pesquisador)",
+      "mundo inicial (expressão inadequada, deveria ser “num primeiro momento” ou similar)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, abordando de forma equilibrada os impactos positivos e negativos da IA na diplomacia.",
+      "A argumentação é sólida e reflete compreensão do tema e dos elementos do enunciado, com exemplos pertinentes e reflexão crítica sobre as consequências da desigualdade de acesso à tecnologia.",
+      "Há poucos erros gramaticais, sendo o principal deles um desvio ortográfico (“pesquisa dor”) e uma expressão pouco adequada (“mundo inicial”), que não comprometem a compreensão, mas afetam a correção formal.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e frases bem construídas.",
+      "A conclusão sintetiza adequadamente os argumentos e reforça a complexidade do tema, demonstrando maturidade analítica."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pesquisa dor"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, com argumentação clara, encadeamento lógico e reflexão aprofundada sobre o tema proposto.",
+      "A linguagem é formal, adequada ao contexto diplomático e demonstra domínio do vocabulário técnico.",
+      "Há apenas um erro gramatical evidente: a separação indevida de 'pesquisador' em 'pesquisa dor'.",
+      "A redação aborda de forma equilibrada os impactos positivos e negativos da IA na diplomacia, utilizando exemplos pertinentes e referências ao texto motivador.",
+      "A conclusão é bem elaborada, sintetizando os principais pontos e reforçando a complexidade do tema."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pesquisa dor (correto: pesquisador)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e encadeamento lógico das ideias, abordando de forma equilibrada os impactos positivos e negativos da IA na diplomacia, com referência ao enunciado e à recomendação da UNESCO.",
+      "A linguagem é formal, adequada ao contexto e demonstra capacidade de argumentação e reflexão sobre o tema.",
+      "Há apenas um erro gramatical evidente (\"pesquisa dor\"), que não compromete a compreensão do texto, mas deve ser considerado na pontuação.",
+      "A redação explora exemplos concretos e mantém a coerência temática do início ao fim, demonstrando domínio do assunto e das exigências do concurso."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pesquisa dor (correto: pesquisador)"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com introdução clara, desenvolvimento equilibrado dos impactos positivos e negativos da IA na diplomacia e conclusão reflexiva.",
+      "A argumentação é consistente, demonstrando compreensão do tema e capacidade de articulação entre diferentes ideias, com exemplos pertinentes.",
+      "A linguagem é formal e adequada ao contexto, com poucos deslizes gramaticais, sendo o principal deles um erro de digitação ('pesquisa dor').",
+      "O texto evidencia coesão e clareza, mas a argumentação, embora bem fundamentada, não chega a ser inovadora ou especialmente sofisticada, o que impede a classificação como 'Excelente' ou 'Excepcional'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pesquisa dor"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, com introdução clara, desenvolvimento bem encadeado e conclusão ponderada. A argumentação é sólida, equilibrada e demonstra compreensão aprofundada do tema, explorando tanto impactos positivos quanto negativos da IA na diplomacia.",
+      "A linguagem é formal, precisa e adequada ao contexto acadêmico e diplomático. O vocabulário é variado e o texto flui de maneira coesa, com poucos deslizes gramaticais.",
+      "O erro de digitação 'pesquisa dor' é pontual e não compromete a compreensão geral do texto.",
+      "A redação evidencia reflexão crítica ao abordar a questão das desigualdades no acesso à tecnologia, relacionando-a diretamente ao contexto diplomático e à recomendação da UNESCO.",
+      "A articulação entre exemplos concretos (como negociações ambientais) e argumentos gerais confere maior força à análise.",
+      "A conclusão sintetiza adequadamente os pontos discutidos, ressaltando a complexidade dos efeitos da IA na diplomacia."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "pesquisa dor"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, com introdução clara, desenvolvimento bem encadeado e conclusão ponderada. A argumentação é consistente e demonstra compreensão do tema, explorando tanto impactos positivos quanto negativos da IA na diplomacia.",
+      "A linguagem é formal, adequada ao contexto do concurso, e há domínio da norma culta, com apenas um deslize pontual (\"pesquisa dor\").",
+      "O texto articula exemplos concretos e faz referência à recomendação da UNESCO, evidenciando reflexão e coesão.",
+      "A análise é equilibrada, reconhecendo nuances e complexidades do tema, o que demonstra maturidade analítica.",
+      "Apesar do erro de digitação, o texto mantém clareza e fluidez, sendo compatível com a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "potencial positivos",
+      "impactos negativos aumentam",
+      "cabe à diplomacia aproximação"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, legibilidade e estilo, com estrutura clara e linguagem adequada ao tema. Apenas pequenos ajustes de estilo poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema proposto. O candidato utiliza exemplos concretos e faz conexões relevantes com a diplomacia contemporânea.",
+      "A análise é aprofundada, com reflexão crítica sobre os impactos positivos e negativos da IA na diplomacia, incluindo menção a desafios éticos, desigualdades e possíveis soluções multilaterais.",
+      "Foram identificados três erros gramaticais: concordância (“potencial positivos”), regência (“impactos negativos aumentam”) e construção (“cabe à diplomacia aproximação”).",
+      "O texto demonstra domínio do tema e capacidade de articulação, mas pode ser aprimorado em precisão gramatical e em pequenos ajustes de concordância e regência."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "potencial positivos",
+      "impactos negativos aumentam",
+      "Cabe à diplomacia aproximação"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, clareza e estilo adequado ao tema, mas há pequenas imprecisões na apresentação e no encadeamento de ideias.",
+      "A argumentação é objetiva, pertinente e bem sistematizada, com exemplos concretos e referências relevantes, mas poderia aprofundar mais a análise crítica sobre os riscos da IA na diplomacia.",
+      "A análise demonstra reflexão e capacidade de relacionar o tema com questões globais e multilaterais, mas há espaço para maior aprofundamento teórico e discussão de contrapontos.",
+      "Foram identificados três erros gramaticais: concordância (“potencial positivos”), regência (“impactos negativos aumentam”) e regência (“Cabe à diplomacia aproximação”).",
+      "O texto é coeso e bem fundamentado, mas a linguagem pode ser aprimorada em relação à precisão gramatical e à elaboração de frases mais complexas."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "aumentam as desigualdades globais",
+      "potencial positivos",
+      "Cabe à diplomacia aproximação entre as nações"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa coerência, estilo adequado e legibilidade, com poucas imprecisões na apresentação. (1A: 9/10)",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos concretos e referências a fatos internacionais. (1B: 9/10)",
+      "A análise é profunda, reflete sobre impactos positivos e negativos da IA na diplomacia e relaciona com desafios globais e éticos, mas poderia aprofundar mais a discussão sobre mecanismos diplomáticos concretos. (1C: 17/20)",
+      "Foram identificados três erros gramaticais: concordância verbal em 'aumentam as desigualdades', concordância nominal em 'potencial positivos' e regência em 'Cabe à diplomacia aproximação'.",
+      "A linguagem é, em geral, correta e apropriada, mas esses deslizes pontuais afetam a nota de correção gramatical."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "aumentam as desigualdades globais",
+      "cabe à diplomacia aproximação entre as nações"
+    ],
+    "feedbacks": [
+      "O verbo 'aumentam' deveria estar no singular ('aumente') para concordar com 'impacto negativo'.",
+      "A expressão 'cabe à diplomacia aproximação' deveria ser 'cabe à diplomacia promover a aproximação' para maior clareza e correção gramatical.",
+      "O texto apresenta excelente organização, argumentação consistente e reflexão aprofundada sobre o tema, com exemplos pertinentes e referência a fontes internacionais. A linguagem é formal, clara e adequada ao contexto diplomático. Os erros gramaticais são pontuais e não comprometem a compreensão global do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "aumentam as desigualdades globais",
+      "cabe à diplomacia aproximação entre as nações"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, com argumentação clara, encadeamento lógico e reflexão aprofundada sobre o tema proposto. O candidato demonstra domínio do assunto, relacionando a IA aos desafios e oportunidades da diplomacia contemporânea, com exemplos pertinentes e referência a organismos internacionais e eventos reais. A linguagem é formal, adequada ao contexto e demonstra repertório. Contudo, há dois pequenos desvios gramaticais: o verbo “aumentam” deveria estar no singular (“aumenta”) para concordar com “impacto negativo” (ainda que implícito), e a expressão “cabe à diplomacia aproximação” carece de preposição (“cabe à diplomacia a aproximação”). Tais erros são pontuais e não comprometem a compreensão global do texto, mas devem ser considerados na pontuação final."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "aumentam as desigualdades globais (correto: aumente)",
+      "cabe à diplomacia aproximação (correto: cabe à diplomacia promover a aproximação)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente desenvolvimento do tema, com argumentação clara, coerente e bem estruturada, abordando tanto impactos positivos quanto negativos da IA para a diplomacia, em linha com o enunciado.",
+      "Há boa articulação entre os parágrafos e uso pertinente de exemplos concretos, como a agenda climática e a atuação do Brasil em cooperação internacional.",
+      "A linguagem é formal e adequada ao contexto, mas há pequenos deslizes gramaticais que afetam a precisão do texto.",
+      "A conclusão retoma a recomendação da UNESCO e sugere caminhos para a diplomacia, demonstrando reflexão crítica e alinhamento com os valores internacionais propostos.",
+      "Os erros gramaticais identificados são pontuais e não comprometem a compreensão geral do texto, mas justificam pequena dedução na nota final."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "potencial positivos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com clareza na exposição das ideias e bom encadeamento argumentativo. O candidato aborda tanto impactos positivos quanto negativos da IA para a diplomacia, demonstrando reflexão e domínio do tema.",
+      "A linguagem é adequada e formal, com poucos deslizes gramaticais. O erro de concordância em 'potencial positivos' deve ser corrigido para 'potenciais positivos'.",
+      "A argumentação é sólida, com exemplos concretos (como a agenda climática e a cooperação triangular Brasil-China-África) e referência a recomendações internacionais (UNESCO, ONU), o que enriquece a análise.",
+      "O texto evidencia coesão e capacidade de articulação entre diferentes dimensões da diplomacia e da IA, mostrando compreensão aprofundada do enunciado e dos desafios contemporâneos.",
+      "Apenas pequenos ajustes de concordância e revisão de eventuais repetições poderiam elevar ainda mais o texto à faixa 'Excelente'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "potencial positivos"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com introdução clara, desenvolvimento lógico e conclusão articulada. Os argumentos são pertinentes ao tema, demonstrando reflexão sobre os impactos positivos e negativos da IA na diplomacia, com exemplos concretos e referência a fontes internacionais.",
+      "A linguagem é formal, adequada ao contexto acadêmico e diplomático, com vocabulário preciso e poucos deslizes gramaticais. O erro de concordância em 'potencial positivos' é pontual e não compromete a clareza.",
+      "A argumentação é equilibrada, abordando tanto os benefícios quanto os riscos da IA, e relaciona o tema à realidade dos países em desenvolvimento e à necessidade de regulação ética, conforme recomendações da UNESCO.",
+      "O texto evidencia coesão, fluidez e capacidade de síntese, além de demonstrar domínio do tema e da norma padrão da língua portuguesa. Apenas pequenas imprecisões linguísticas impedem a classificação na faixa 'Excelente'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "aumentam as desigualdades globais"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, com argumentação clara, encadeamento lógico e reflexão pertinente sobre o tema. Os impactos positivos e negativos da IA para a diplomacia são abordados de forma equilibrada e fundamentada, com exemplos concretos e referência a recomendações internacionais.",
+      "Há domínio consistente da norma culta, embora ocorra um pequeno deslize de concordância verbal em 'aumentam as desigualdades globais' (o correto seria 'aumente').",
+      "O uso de citações e exemplos reais (UNESCO, G77, Kofi Annan, CBERS) enriquece a argumentação e demonstra repertório. O texto é coeso, com boa articulação entre parágrafos e ideias bem desenvolvidas.",
+      "A linguagem é adequada ao contexto acadêmico e diplomático, com vocabulário preciso e estilo formal. O texto evidencia reflexão e capacidade de análise, mas não chega ao nível de originalidade ou sofisticação argumentativa que justifique a faixa 'Excelente' ou 'Excepcional'."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em 'Apesar de uso das técnicas de IA...', falta a preposição 'do': 'Apesar do uso das técnicas de IA...'.",
+      "Em 'conforme recomendado pela UNESCO, em 2011.', o ano correto é 2021, conforme o enunciado e a fonte citada."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e estilo, com boa coerência e legibilidade. Apenas pequenos ajustes poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, abordando tanto impactos positivos quanto negativos da IA na diplomacia.",
+      "A análise é profunda e reflexiva, demonstrando capacidade de relacionar o tema com questões de desigualdade, ética e governança, além de citar corretamente a recomendação da UNESCO.",
+      "Há dois erros gramaticais: um de regência ('do uso') e um erro factual de data (2011 em vez de 2021).",
+      "A linguagem é formal e adequada ao gênero dissertativo-argumentativo, com vocabulário preciso e propriedade."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em 'Apesar de uso das técnicas de IA', falta preposição: o correto seria 'Apesar do uso das técnicas de IA'.",
+      "Em 'conforme recomendado pela UNESCO, em 2011', há erro de data: o documento citado é de 2021, não de 2011."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, clareza e estilo adequado ao tema, com coerência e legibilidade. Apenas pequenos ajustes de estilo poderiam aprimorar a fluidez.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, com exemplos concretos e referência a fontes. Faltou apenas maior aprofundamento em alguns pontos.",
+      "A análise é reflexiva e abrange tanto impactos positivos quanto negativos, mas poderia explorar mais as implicações práticas e dilemas éticos específicos da diplomacia.",
+      "Há dois erros gramaticais: um de regência/preposição e um erro factual de data.",
+      "A conclusão é adequada, mas a menção à data incorreta da recomendação da UNESCO prejudica a precisão e a credibilidade do argumento final."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Em \"Apesar de uso das técnicas de IA...\", falta a preposição \"do\": \"Apesar do uso das técnicas de IA...\".",
+      "Em \"conforme recomendado pela UNESCO, em 2011.\", o ano correto é 2021, conforme o enunciado e a fonte citada."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e estilo, com linguagem formal e coerente, o que justifica uma nota alta em 1A.",
+      "A argumentação é objetiva, bem sistematizada e pertinente ao tema, abordando tanto impactos positivos quanto negativos da IA na diplomacia, o que justifica a nota elevada em 1B.",
+      "A análise é aprofundada, com reflexão crítica sobre dilemas éticos, desigualdades e necessidade de governança, mas há pequena imprecisão factual (ano da recomendação da UNESCO), o que justifica nota ligeiramente abaixo do máximo em 1C.",
+      "Há dois erros gramaticais: um de regência e um de informação factual (ano).",
+      "A linguagem é adequada e formal, mas a correção de pequenos deslizes elevaria ainda mais a qualidade do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Apesar de uso das técnicas de IA buscar o aperfeiçoamento da prática diplomática",
+      "conforme recomendado pela UNESCO, em 2011"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização, clareza e encadeamento lógico das ideias, com argumentação consistente sobre os impactos positivos e negativos da IA na diplomacia.",
+      "Há alguns erros gramaticais pontuais, como a ausência de artigo antes de 'uso das técnicas de IA' e erro de data ao citar a recomendação da UNESCO (2011, quando o correto seria 2021).",
+      "A linguagem é adequada ao contexto e demonstra domínio do tema, mas a precisão factual (como datas) e a correção gramatical devem ser aprimoradas para alcançar nota máxima."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "em 2011",
+      "rasura"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, clareza e capacidade de argumentação, abordando de forma equilibrada os impactos positivos e negativos da IA na diplomacia. A linguagem é formal e adequada ao tema. Houve apenas dois pequenos erros gramaticais: a data da recomendação da UNESCO é 2021, não 2011, e há uma indicação de rasura que não deveria constar no texto final. Tais deslizes não comprometem a qualidade geral da redação, mas justificam pequena dedução na nota."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "em 2011 (o correto seria 2021, conforme referência do enunciado)",
+      "[rasura] (marca de texto não corrigida)"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização temática, com argumentação clara e encadeamento lógico das ideias, abordando tanto impactos positivos quanto negativos da IA na diplomacia.",
+      "Há boa capacidade de reflexão e uso adequado de exemplos concretos, como negociação de acordos, tradução instantânea e análise de sentimentos.",
+      "A linguagem é formal e apropriada ao contexto, mas há dois desvios gramaticais: uma data incorreta e uma marca de rasura não corrigida.",
+      "A conclusão dialoga bem com a recomendação da UNESCO, reforçando a necessidade de governança ética, o que demonstra compreensão do enunciado.",
+      "Apesar dos pequenos erros, o texto é coeso, bem estruturado e atende plenamente ao tema proposto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "rasura no texto: '[rasura]' indica que houve um erro não corrigido no manuscrito original, o que compromete a correção formal",
+      "erro de data: a recomendação da UNESCO é de 2021, mas o texto cita 'em 2011', o que configura imprecisão factual e pode ser considerado deslize de precisão"
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura lógica clara, com introdução, desenvolvimento e conclusão bem definidos, abordando tanto impactos positivos quanto negativos da IA na diplomacia.",
+      "A argumentação é pertinente e demonstra compreensão do tema, com exemplos concretos e referência à recomendação da UNESCO.",
+      "A linguagem é formal, adequada ao contexto acadêmico e ao gênero dissertativo-argumentativo, com vocabulário variado e construções sintáticas elaboradas.",
+      "Há pequenos deslizes de precisão e um erro de data, além de uma rasura, mas tais falhas não comprometem a compreensão global nem a qualidade argumentativa do texto.",
+      "O texto evidencia reflexão crítica e coesão, além de boa articulação entre os parágrafos, o que justifica a faixa Ótimo."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "rasura no texto: '[rasura]' indica um erro de digitação ou revisão que não foi corrigido.",
+      "inconsistência temporal: 'conforme recomendado pela UNESCO, em 2011' (o documento citado é de 2021, não de 2011)."
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com ideias claras e encadeamento lógico, abordando tanto impactos positivos quanto negativos da IA na diplomacia.",
+      "A argumentação é consistente e demonstra domínio do tema, com referência pertinente à recomendação da UNESCO.",
+      "A linguagem é formal e adequada ao contexto, com poucos deslizes gramaticais.",
+      "A análise é equilibrada, contemplando aspectos técnicos, políticos e éticos, o que evidencia reflexão e coesão.",
+      "A menção ao ano incorreto da recomendação da UNESCO é um erro factual que não compromete a qualidade geral, mas merece atenção.",
+      "A presença de uma rasura indica falha de revisão, mas não prejudica a compreensão do texto."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Apesar de uso das técnicas de IA buscar o aperfeiçoamento..."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com ideias claras, encadeamento lógico e argumentação consistente sobre os impactos positivos e negativos da IA na diplomacia.",
+      "Há domínio do tema e boa articulação entre os parágrafos, com referência pertinente à recomendação da UNESCO.",
+      "O vocabulário é adequado e formal, e a linguagem é precisa, com poucos deslizes gramaticais.",
+      "Um pequeno erro de concordância ocorre em \"Apesar de uso das técnicas de IA buscar...\" (deveria ser \"do uso\" ou \"de o uso\").",
+      "Há uma pequena imprecisão factual ao citar a recomendação da UNESCO como sendo de 2011, quando o documento é de 2021; isso não compromete a qualidade geral do texto.",
+      "A reflexão é madura e demonstra capacidade de análise crítica, abordando tanto oportunidades quanto riscos da IA para a diplomacia."
+    ],
+    "modelo": "sabia-4",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  }
+]

@@ -1,12 +1,11 @@
 [
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "...questionamento de ideia como o progresso... (falta de plural em 'ideias' ou artigo em 'da ideia')",
-      "...associado ao crescente poder... (erro de concordância: 'euforia... associada')"
+      "...questionamento de ideia como o progresso..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -17,13 +16,12 @@
     "ano": "2016"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "...questionamento de ideia como o progresso... (falta de plural: 'ideias' ou artigo 'da ideia')",
-      "...associado ao crescente poder... (erro de concordância: 'associada' concordando com 'euforia')"
+      "...questionamento de ideia como o progresso..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -34,50 +32,57 @@
     "ano": "2016"
   },
   {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "...questionamento de ideia como o progresso... (falta de plural em 'ideias' ou artigo em 'uma ideia')",
-      "...associado ao crescente poder... (erro de concordância: 'euforia... associada')"
+      "...questionamento de ideia como o progresso..."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...questionamento de ideia como...",
+      "associado ao crescente poder... (concordância com 'euforia')",
+      "políticos social democratas (falta de hífen)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...questionamento de ideia como o progresso..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
     "essay": 1,
     "ano": "2016"
   },
   {
     "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 1,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 1,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...questionamento de ideia como o progresso..."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 8,
@@ -89,1058 +94,1166 @@
   {
     "faixa": "Excelente",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 1,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 1,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 1,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excepcional",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 2,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excepcional",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 2,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excepcional",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 2,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
     "erros_gramaticais": [
-      "anexionistas (forma preferencial: anexionistas ou anexionistas, porém, no contexto formal do CACD, a grafia 'anexionistas' é aceitável, mas há uma falha de regência/estilo em 'permitiram lhe reunir forças' - o correto seria 'permitiram-lhe' ou 'permitiram que ele reunisse')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "'permitiram lhe reunir forças' (Erro de regência/colocação: o verbo permitir, neste contexto, exige objeto direto para a pessoa ou a preposição 'a'. O correto seria 'permitiram-lhe reunir' ou 'permitiram que ele reunisse'.)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "anexionistas (forma preferencial: anexionistas ou anexionistas, porém, no contexto formal do CACD, a grafia 'anexionistas' é aceita, mas há uma imprecisão sintática em 'permitiram lhe reunir forças' - o correto seria 'permitiram-lhe' ou 'permitiram que ele reunisse')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 3,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 3,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 3,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Regência verbal: 'guiar as ações' (o correto seria 'guiar por' ou 'orientar as ações', mas no contexto de 'guiar as ações por grandes objetivos', há uma imprecisão sintática/regencial)",
-      "Concordância verbal: 'O radicalismo... atestam' (o núcleo do sujeito é 'radicalismo', portanto o verbo deveria estar no singular: 'atesta')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Regência verbal: 'guiar as ações' (o correto seria 'guiar por' ou 'orientar as ações', mas no contexto de 'guiar as ações por grandes objetivos', há uma imprecisão sintática/regencial)",
-      "Concordância verbal: 'O radicalismo... atestam' (o núcleo do sujeito é 'radicalismo', portanto o verbo deveria estar no singular: 'atesta')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "Regência verbal: 'guiar as ações' (o correto seria 'guiar por' ou 'orientar as ações', mas no contexto de 'guiar as ações por grandes objetivos', há uma imprecisão sintática/regencial)",
-      "Concordância verbal: 'O radicalismo... atestam' (o núcleo do sujeito é 'radicalismo', portanto o verbo deveria estar no singular: 'atesta')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "regência verbal: 'guiar as ações' (o correto seria 'guiar por' ou 'orientar as ações')",
-      "concordância verbal: 'O radicalismo... atestam' (o sujeito 'O radicalismo' exige o verbo no singular 'atesta')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "regência verbal: 'guiar as ações' (o correto seria 'guiar por' ou 'orientar as ações')",
-      "concordância verbal: 'O radicalismo... atestam' (o sujeito 'O radicalismo' é singular)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 54.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "regência verbal: 'guiar as ações' (o correto seria 'guiar por' ou 'orientar as ações')",
-      "concordância verbal: 'O radicalismo... atestam' (o sujeito 'O radicalismo' é singular)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "guiar as ações (falta de crase: guiar as ações ou guiar-se às ações, dependendo da regência pretendida, mas no contexto de 'guiar as ações' como objeto direto, a crase não ocorre; porém, se o autor quis dizer 'guiar-se por', a construção está incompleta. O erro reside na regência/estilo: 'guiar as ações por' é aceitável, mas a marcação de asterisco sugere que o autor hesitou na regência).",
-      "atestam as dificuldades (concordância: 'O radicalismo... atesta', o sujeito é 'O radicalismo', e não os manifestos)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "guiar as ações (falta de crase: guiar as ações ou guiar-se às ações, dependendo da regência pretendida, mas no contexto de 'guiar as ações' como objeto direto, a crase não ocorre; porém, se o autor quis dizer 'guiar-se por', a construção está incompleta. O erro reside na regência/estilo: 'guiar as ações por' é aceitável, mas a marcação de asterisco sugere que o autor hesitou na regência).",
-      "atestam as dificuldades (concordância: 'O radicalismo... atesta', o sujeito é 'O radicalismo', e não os manifestos)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "guiar as ações (falta de crase: guiar as ações ou guiar-se às ações, dependendo da regência pretendida, mas no contexto de 'guiar as ações' como objeto direto, a crase não ocorre; contudo, se o autor quis dizer 'guiar-se por', a construção está incompleta. Se considerarmos 'guiar' como transitivo direto, está correto, mas a frase 'guiar as ações por grandes objetivos' é semanticamente redundante ou imprecisa)",
-      "atestam (erro de concordância: 'O radicalismo... atestam'. O núcleo do sujeito é 'radicalismo', portanto o verbo deveria estar no singular: 'atesta')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 4,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...conviviam de modo próspero e conflito. (Erro de semântica/escolha lexical: provavelmente o autor quis dizer 'confluente' ou 'conflituoso', mas a frase como está é agramatical/incoerente)",
-      "...destacou-se de mediocridade (Omissão de artigo: 'destacou-se da mediocridade')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...conviviam de modo próspero e conflito. (Erro de semântica/escolha lexical: provavelmente o autor quis dizer 'confluente' ou 'conflituoso', mas a frase como escrita carece de sentido lógico)",
-      "...destacou-se de mediocridade (Erro de regência: o correto seria 'destacou-se da mediocridade')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...conviviam de modo próspero e conflito. (Erro de semântica/escolha lexical: provavelmente o autor quis dizer 'confluente' ou 'conflituoso', mas a frase como está é agramatical/incoerente)",
-      "...destacou-se de mediocridade (Omissão de artigo: 'da mediocridade')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 5,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...garantia dos meios necessários a sua contestação... (Falta de crase: 'à sua contestação', embora facultativa diante de possessivo, a norma culta do CACD tende a valorizar a precisão; contudo, o erro mais evidente é a ausência de paralelismo ou regência em trechos específicos).",
-      "...faça que críticos considerem... (Uso do verbo 'fazer' como causativo com a conjunção 'que' é aceitável, mas a construção 'faça com que' é a preferida na norma culta brasileira)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...garantia dos meios necessários a sua contestação... (Falta de crase: 'à sua contestação', embora facultativa diante de possessivo, a norma culta do CACD tende a valorizar a precisão; contudo, o erro mais evidente é a ausência de paralelismo ou regência em trechos longos).",
-      "...faça que críticos considerem... (Uso do verbo 'fazer' como causativo com a conjunção 'que' é aceitável, mas a construção 'faça com que' é a preferida na norma culta brasileira)."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "...garantia dos meios necessários a sua contestação... (Falta de crase: 'à sua contestação' ou 'a sua contestação' - embora o uso diante de possessivo seja facultativo, a regência de 'necessários' pede a preposição 'a'. No entanto, o erro mais evidente é a falta de paralelismo ou precisão em 'fazer que críticos considerem', que soa coloquial).",
-      "...fazer que muitas pessoas 'caíssem das nuvens'... (Uso do verbo 'fazer' como causativo com a estrutura 'fazer que' é menos prestigioso que 'fazer com que' ou 'levar a que')."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 6,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'emediatamente' (ortografia: o correto é imediatamente)",
-      "Falta de espaço após a vírgula em '”caindo das nuvens”,foram'",
-      "Uso de 'Coréia' (ortografia: após o Acordo Ortográfico de 1990, não há mais acento em paroxítonas com ditongo aberto 'ei')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'emediatamente' (ortografia: o correto é imediatamente)",
-      "Falta de espaço após a vírgula em '”caindo das nuvens”,foram'",
-      "Uso de 'Coréia' (ortografia: após o Acordo Ortográfico de 1990, não se usa mais o acento agudo em ditongos abertos 'ei' e 'oi' em palavras paroxítonas)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'emediatamente' (ortografia)",
-      "'estado1' (erro de digitação/estrangeirismo ou resquício de nota de rodapé)",
-      "'Coréia' (ortografia - acordo ortográfico de 2009)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "emediatamente (ortografia)",
-      "estado1 (erro de digitação/formatação)",
-      "Coréia (ortografia - acordo ortográfico vigente)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "emediatamente (ortografia)",
-      "estado1 (erro de digitação/formatação)",
-      "Coréia (ortografia - acordo ortográfico vigente)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 48.5,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "emediatamente (ortografia)",
-      "estado1 (erro de digitação/formatação)",
-      "Coréia (ortografia - acordo ortográfico vigente)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'emediatamente' (erro de ortografia/digitação)",
-      "Falta de espaço após a vírgula em '”caindo das nuvens”,foram'",
-      "Uso de 'Coréia' (grafia pré-Acordo Ortográfico de 1990)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'emediatamente' (erro de ortografia/digitação)",
-      "Falta de espaço após a vírgula em '”caindo das nuvens”,foram'",
-      "Uso de 'Coréia' (grafia pré-Acordo Ortográfico de 1990)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'emediatamente' (erro de ortografia/digitação)",
-      "falta de espaço após a vírgula em '”caindo das nuvens”,foram'",
-      "falta de maiúscula em 'bolsa família' (nome de programa governamental)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 7,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "ideais propostos (concordância nominal: o correto seria 'ideais' como substantivo masculino plural, mas o texto utiliza 'consolidação das ideais', onde 'ideais' parece ter sido tratado como feminino ou houve erro de digitação para 'ideias')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 10.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "ideais propostos (concordância nominal: o correto seria 'ideais propostos' se fosse plural, mas o texto diz 'consolidação das ideais propostos' - erro de gênero/número em 'das ideais' ou 'propostos')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 9.0,
-    "nota_1B": 9.0,
-    "nota_1C": 18.0,
-    "numero_de_erros_gramaticais": 1,
-    "erros_gramaticais": [
-      "antropófoga (erro de digitação/ortografia)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 56.0,
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Excelente",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 8,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'debate político brasileiro' (Erro de conteúdo/digitação: o texto trata da Europa Oriental, a palavra 'brasileiro' é incongruente e indica falta de revisão).",
-      "'estado vigentes' (Erro de concordância nominal: o correto seria 'estado vigente' ou 'estados vigentes').",
-      "'do que aceite a mediocridade' (Erro de regência/flexão verbal: o correto seria 'do que aceitar a mediocridade')."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 9,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'debate político brasileiro' (Erro de conteúdo/digitação: o texto trata da Europa Oriental, a palavra 'brasileiro' é incongruente e indica falta de revisão).",
-      "'estado vigentes' (Erro de concordância nominal: o correto seria 'estado vigente' ou 'estados vigentes').",
-      "'do que aceite a mediocridade' (Erro de regência/flexão verbal: o correto seria 'do que aceitar a mediocridade')."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 9,
-    "ano": "2016"
-  },
-  {
-    "nota_1A": 10.0,
-    "nota_1B": 10.0,
-    "nota_1C": 20.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "'debate político brasileiro' (Erro de conteúdo/digitação: o texto trata da Europa Oriental, a palavra 'brasileiro' é incongruente e indica falta de revisão).",
-      "'estado vigentes' (Erro de concordância nominal: o correto seria 'estado vigente' ou 'estados vigentes').",
-      "'do que aceite a mediocridade' (Erro de regência/flexão verbal: o correto seria 'do que aceitar a mediocridade')."
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 7,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 9,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 42.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "debate político brasileiro (erro de coesão/contexto: o texto trata da Europa Oriental)",
-      "não temeram ir às nuvens (falta de concordância ou regência inadequada no contexto da citação)",
-      "do que aceite a mediocridade (erro de concordância/regência verbal)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 9,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 42.0,
-    "numero_de_erros_gramaticais": 2,
-    "erros_gramaticais": [
-      "debate político brasileiro (erro de coesão/contexto: o texto trata da Europa Oriental, não do Brasil)",
-      "aceite a mediocridade (erro de regência/concordância: o correto seria 'aceitar a mediocridade')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 2,
-    "essay": 9,
-    "ano": "2016"
-  },
-  {
-    "nota_final": 42.0,
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "debate político brasileiro (erro de coesão/contexto: o texto trata da Europa Oriental)",
-      "não temeram ir às nuvens (falta de concordância ou regência inadequada no contexto da citação)",
-      "do que aceite a mediocridade (erro de concordância/regência verbal)"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 8,
-    "temp": 0.0,
-    "versao": 3,
-    "essay": 9,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "...por um debate político brasileiro... (Erro de coerência/digitação: o texto trata da Europa Oriental, o termo 'brasileiro' é incongruente no contexto)",
-      "...pessoas que não temeram ir às nuvens... (Uso impreciso da metáfora em relação à citação original, embora compreensível)",
-      "...do que aceite a mediocridade lesiva. (Erro de regência/concordância verbal: o correto seria 'do que aceitar')"
-    ],
-    "feedbacks": [],
-    "modelo": "gemma-4-31B-it",
-    "prompt": 9,
-    "temp": 0.0,
-    "versao": 1,
-    "essay": 9,
-    "ano": "2016"
-  },
-  {
-    "faixa": "Ótimo",
-    "numero_de_erros_gramaticais": 3,
-    "erros_gramaticais": [
-      "...por um debate político brasileiro... (Erro de coesão/digitação: o texto trata da Europa Oriental, o termo 'brasileiro' é incongruente com o contexto)",
-      "...pessoas que não temeram ir às nuvens... (Uso impreciso da metáfora: o texto alterna entre 'ir às nuvens' e 'cair das nuvens', embora a lógica seja compreensível)",
-      "...do que aceite a mediocridade lesiva. (Erro de regência/concordância verbal: o correto seria 'do que aceitar')"
+      "Indeterminado - O texto apresenta alta correção gramatical, com raríssimos lapsos que não comprometem a fluidez ou a norma culta."
     ],
     "feedbacks": [
-      "Organização e Desenvolvimento: O texto é muito bem estruturado, com introdução, desenvolvimento e conclusão claros. O candidato conseguiu integrar a citação de Machado de Assis de forma orgânica, transformando a metáfora da 'queda' em um fio condutor para a análise da transição democrática na Europa Oriental. A argumentação é coerente e a expansão do tema para a Primavera Árabe demonstra capacidade de reflexão e síntese histórica.",
-      "Correção Gramatical e Linguagem: O domínio da norma culta é consistente e o vocabulário é adequado ao nível exigido pelo CACD. No entanto, há deslizes pontuais que impedem a classificação como 'Excelente' ou 'Excepcional', destacando-se um erro grave de coesão textual (menção a 'debate político brasileiro' em um parágrafo sobre a Europa Oriental) e um erro de flexão verbal no terço final do texto."
+      "O candidato demonstrou excelente capacidade de abstração ao transpor a metáfora machadiana — que trata da preferência pela desilusão idealista frente à tragédia concreta — para a análise geopolítica e sociocultural da Alemanha no entreguerras.",
+      "A organização textual é rigorosa, com introdução clara, desenvolvimento fundamentado em fatos históricos precisos (República de Weimar, Bauhaus, Expressionismo) e uma conclusão que promove uma reflexão crítica sobre a própria premissa da citação.",
+      "Há maturidade estilística e vocabulário preciso, características essenciais para o CACD. O texto foge do óbvio ao relacionar a 'queda das nuvens' não apenas ao evento histórico, mas ao estado psicológico/cultural de uma nação."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta alta correção gramatical, com domínio da norma culta e ausência de erros gritantes de sintaxe ou ortografia."
+    ],
+    "feedbacks": [
+      "O candidato demonstrou excelente capacidade de abstração ao transpor a metáfora machadiana ('nuvens' como idealismo/ilusão vs 'terceiro andar' como realidade concreta/tragédia) para a análise histórica da Alemanha no século XX.",
+      "A organização textual é exemplar, com introdução clara, desenvolvimento fluido e uma conclusão que não apenas resume, mas problematiza a tese inicial, elevando o nível da discussão.",
+      "Houve precisão técnica nos fatos históricos citados (República de Weimar, Bauhaus, Treaty of Versailles), integrando corretamente a dimensão cultural e a dimensão política conforme solicitado pelo comando.",
+      "A linguagem é formal, precisa e adequada ao rigor exigido pelo CACD, demonstrando maturidade intelectual e repertório vocabular."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta alta correção gramatical, com domínio da norma culta e ausência de erros gritantes de sintaxe ou ortografia."
+    ],
+    "feedbacks": [
+      "O candidato demonstrou excelente capacidade de abstração ao transpor a metáfora machadiana ('nuvens' como idealismo/ilusão vs 'terceiro andar' como realidade concreta/tragédia) para a análise histórica da Alemanha no século XX.",
+      "A organização textual é exemplar, com introdução clara, desenvolvimento fluido e uma conclusão que não apenas resume, mas problematiza a tese inicial, elevando o nível da discussão.",
+      "Houve precisão técnica nos fatos históricos citados (República de Weimar, Bauhaus, Treaty of Versailles), integrando corretamente a dimensão cultural e a dimensão política conforme solicitado pelo comando.",
+      "A linguagem é formal, precisa e adequada ao rigor exigido pelo CACD, demonstrando maturidade intelectual e repertório vocabular."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 56.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível elevadíssimo de sofisticação linguística e rigor analítico, plenamente compatíveis com as exigências do CACD.",
+      "A interpretação da citação de Machado de Assis foi feita de forma inteligente, transpondo a metáfora literária para a dicotomia entre 'idealismo' e 'realismo/niilismo' nas Relações Internacionais, conferindo profundidade filosófica ao argumento.",
+      "A escolha do fato histórico (fundação da ONU) foi desenvolvidamente relacionada à tese central através de referências teóricas precisas e pertinentes (Morgenthau, Clausewitz e Kant), demonstrando vasto repertório cultural e acadêmico.",
+      "A estrutura textual é impecável, com progressão lógica clara, conectivos bem empregados e um vocabulário rico e preciso.",
+      "Domínio pleno da norma culta da língua portuguesa."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível elevadíssimo de sofisticação linguística e rigor analítico, plenamente compatíveis com as exigências do CACD.",
+      "A interpretação da citação machadiana foi feita de forma inteligente, transpondo a metáfora literária para a dicotomia entre 'idealismo' e 'realismo/niilismo' nas Relações Internacionais, conferindo profundidade filosófica ao argumento.",
+      "A escolha do fato histórico (fundação da ONU) foi desenvolvidamente relacionada à tese central através de referências teóricas precisas e pertinentes (Morgenthau, Clausewitz e Kant), demonstrando vasto repertório cultural e acadêmico.",
+      "A estrutura textual é impecável, com conectivos fluidos, progressão temática clara e um vocabulário rico e preciso.",
+      "A conclusão amarra com maestria a discussão teórica ao comando do enunciado, retornando à frase de Machado de Assis para validar a tese proposta."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um nível elevadíssimo de sofisticação linguística e rigor analítico, plenamente compatíveis com as exigências do CACD.",
+      "A interpretação da citação de Machado de Assis foi feita de forma inteligente, transpondo a metáfora literária para a dicotomia entre 'idealismo' e 'realismo/niilismo' nas Relações Internacionais, conferindo profundidade filosófica ao argumento.",
+      "A escolha do fato histórico (fundação da ONU) foi desenvolvidamente relacionada à tese central através de referências teóricas precisas e pertinentes (Morgenthau, Clausewitz e Kant), demonstrando vasto repertório cultural e acadêmico.",
+      "A estrutura textual é impecável, com progressão lógica clara, conectivos bem empregados e um vocabulário rico e preciso.",
+      "A conclusão amarra com maestria a discussão teórica à provocação inicial do enunciado, fechando o ciclo argumentativo com elegância."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'permitiram lhe reunir forças' -> O correto seria 'permitiram-lhe' (ênclise obrigatória após vírgula/pausa sintática) ou 'permitiram que ele reunisse'.",
+      "'afastar-se de análise realista' -> Falta o artigo definido ('da análise') para manter a paralelismo e a correção gramatical."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'permitiram lhe reunir forças' -> O correto seria 'permitiram-lhe' (ênclise obrigatória após vírgula/pausa sintática) ou 'permitiram que ele reunisse'.",
+      "'afastar-se de análise realista' -> Falta o artigo definido ('da análise') para manter a paralelismo e a correção gramatical."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'permitiram lhe reunir forças' -> O correto seria 'permitiram-lhe' (ênclise obrigatória após vírgula/pausa sintática) ou 'permitiram que ele reunisse'.",
+      "'afastar-se de análise realista' -> Falta o artigo definido ('da análise') para manter a paralelismo e a correção gramatical."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "anexionistas (forma menos usual que 'anexacionistas', embora aceitável)",
+      "afastar-se de análise realista (falta artigo definido 'da' analysis)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "anexionistas (forma preferencial: anexionistas/anexacionistas - aceitável, porém menos comum)",
+      "afastar-se de análise realista (falta de artigo definido 'da' análise)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "anexionistas (forma preferencial: anexionistas/anexacionistas - aceitável, porém menos comum)",
+      "afastar-se de análise realista (falta de artigo definido 'da' análise)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Regência verbal: 'guiar as ações' (no contexto de conduzir/orientar, o verbo guiare exige preposição 'por', porém o autor utilizou 'guiar as ações'. Se quis dizer orientar as ações, está correto, mas a construção 'benefícios de se guiar as ações' soa incompleta ou imprecisa sintaticamente neste encadeamento. Contudo, o erro claro reside em 'atestam' concordando com 'radicalismo').",
+      "Concordância Verbal: 'O radicalismo [...] atestam'. O núcleo do sujeito é 'radicalismo' (singular), logo o verbo deveria estar no singular ('atesta')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Regência verbal: 'guiar as ações' (no contexto de conduzir/orientar, o verbo guiare exige preposição 'por', porém o autor utilizou 'guiar as ações'. Se quis dizer orientar as ações, está correto, mas a construção 'benefícios de se guiar as ações' soa incompleta ou imprecisa sintaticamente neste encadeamento. Contudo, o erro claro reside em 'atestam' concordando com 'radicalismo').",
+      "Concordância Verbal: 'O radicalismo [...] atestam'. O núcleo do sujeito é 'radicalismo' (singular), logo o verbo deveria estar no singular ('atesta')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 10.0,
+    "nota_1B": 10.0,
+    "nota_1C": 10.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Regência verbal: 'guiar as ações' (no contexto de conduzir/orientar, o verbo guiar é transitivo direto, porém o autor utilizou asterisco indicando dúvida ou erro de regência implícita; tecnicamente, 'guiar as ações' está correto, mas a marcação sugere insegurança. Contudo, analisando rigidamente: 'guiarem-se as ações' seria a forma passiva adequada ou 'guiar as ações'. Considerarei erro pela instabilidade sintática indicada pelo próprio autor via asterisco).",
+      "Concordância Verbal: 'O radicalismo... e [do] Manifesto... atestam'. O núcleo do sujeito é 'radicalismo' (singular). O termo 'das concepções nacionalistas...' funciona como adjunto adnominal. Portanto, o verbo deveria estar no singular ('atesta')."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "regência verbal ('guiar as ações' deveria ser 'guiar pelas ações' ou 'orientar as ações')",
+      "concordância verbal ('atestam' referindo-se ao sujeito singular 'radicalismo')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "regência verbal ('guiar as ações' deveria ser 'guiar pelas ações' ou 'orientar as ações')",
+      "concordância verbal ('atestam' referindo-se ao sujeito singular 'radicalismo')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "regência verbal ('guiar as ações' deveria ser 'guiar pelas ações' ou 'orientar as ações')",
+      "concordância verbal ('atestam' referindo-se aos manifestos, porém a construção sintática sugere imprecisão quanto ao núcleo do sujeito)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "regência verbal ('guiar as ações' deveria ser 'guiar pelas ações' ou 'orientar as ações')",
+      "concordância verbal ('O radicalismo... atestam' deveria ser 'atesta')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "regência verbal ('guiar as ações' deveria ser 'guiar pelas ações' ou 'orientar as ações')",
+      "concordância verbal ('O radicalismo... e do Manifesto... atestam' - o núcleo do sujeito é 'radicalismo', exigindo verbo no singular)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "regência verbal ('guiar as ações' deveria ser 'guiar pelas ações' ou 'orientar as ações')",
+      "concordância verbal ('O radicalismo... atestam' deveria ser 'atesta')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "...conviviam de modo próspero e conflito. (Erro de semântica/digitação: provavelmente pretendia escrever 'confluente' ou similar, resultando em frase incoerente)",
+      "...foi adotado modelo autoritário (Omissão de artigo definido: 'foi adotado UM modelo' ou 'FOI ADOTADO O modelo')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "...conviviam de modo próspero e conflito. (Erro de semântica/digitação: provavelmente pretendia escrever 'confluente' ou similar, resultando em frase incoerente)",
+      "...foi adotado modelo autoritário (Omissão de artigo definido: 'foi adotado UM modelo' ou 'FOI ADOTADO O modelo')"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "...conviviam de modo próspero e conflito. (Erro de semântica/digitação: provavelmente pretendia escrever 'confluente' ou similar, resultando em frase incoerente)",
+      "O império colonial britânico desintegrou-se algumas décadas após a Primeira Guerra. (Falta de paralelismo ou precisão temporal, embora aceitável, há imprecisão sintática no fechamento do raciocínio sobre a Rússia logo após)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...conviviam de modo próspero e conflito."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...conviviam de modo próspero e conflito."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...conviviam de modo próspero e conflito."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...garantia dos meios necessários **a** sua contestação..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...garantia dos meios necessários **a** sua contestação..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...garantia dos meios necessários **a** sua contestação..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "...garantia dos meios necessários a sua contestação..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "...garantia dos meios necessários a sua contestação..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "...garantia dos meios necessários a sua contestação..."
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros gritantes de sintaxe ou ortografia."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O candidato interpretou corretamente a metáfora machadiana, relacionando a 'queda das nuvens' (idealismo/abstração) versus a 'queda do terceiro andar' (realismo bruto/derrotismo). A escolha do tema — a expansão da democracia no século XX — é pertinente e bem fundamentada. Há um encadeamento lógico claro, utilizando referências teóricas sólidas (Giddens, Lassalle, Churchill, Borges), o que demonstra erudição e capacidade de síntese. A argumentação é coerente, embora a transição final para a menção à Constituição dos EUA tenha sido ligeiramente abrupta em relação ao fluxo anterior sobre a Alemanha.",
+      "Linguagem: O vocabulário é preciso e formal, adequado ao padrão CACD. A pontuação e a regência estão corretas, conferindo fluidez à leitura."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros gritantes de sintaxe ou ortografia."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O candidato interpretou corretamente a metáfora machadiana, relacionando a 'queda das nuvens' (idealismo/abstração) versus a 'queda do terceiro andar' (realismo bruto/derrotismo). A escolha do tema — a expansão da democracia no século XX — foi pertinente e bem desenvolvida. Há um encadeamento lógico claro, utilizando referências teóricas sólidas (Giddens, Lassalle, Churchill, Borges) que elevam a discussão para além do senso comum. Contudo, a relação final com a frase de Machado poderia ter sido mais orgânica, evitando a dispersão temática ao citar a Constituição dos EUA nos parágrafos finais, o que levemente diluiu a precisão do fechamento argumentativo.",
+      "Linguagem: O vocabulário é preciso, formal e adequado ao cargo pretendido. A pontuação e a regência estão corretas, conferindo fluidez à leitura."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Indeterminado - O texto apresenta excelente domínio da norma culta, sem erros gritantes de sintaxe ou ortografia."
+    ],
+    "feedbacks": [
+      "Organização e Desenvolvimento: O candidato demonstra ótima capacidade de abstração ao interpretar a frase de Machado de Assis não apenas literalmente, mas como uma metáfora para a primazia do idealismo/intelectualismo sobre o determinismo/pragmatismo bruto ('terceiro andar'). A escolha do tema (expansão da democracia no séc. XX) é pertinente e bem fundamentada, utilizando referências sólidas (Giddens, Lassalle, Churchill, Borges), o que confere densidade acadêmica ao texto. Há um encadeamento lógico claro, embora a transição final para a menção à Constituição dos EUA tenha sido ligeiramente abrupta em relação ao fluxo anterior.",
+      "Linguagem: O vocabulário é preciso e adequado ao nível exigido pelo CACD. A construção frasal é elegante e a coesão textual é mantida através de conectivos bem empregados."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "emediatamente"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "emediatamente"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "emediatamente"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "emediatamente (ortografia)",
+      "estado1 (digitação/formatação)",
+      "Coréia (acentuação - Acordo Ortográfico vigente)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "emediatamente (ortografia)",
+      "estado1 (digitação/formatação)",
+      "Coréia (acentuação - Acordo Ortográfico vigente)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "emediatamente (ortografia)",
+      "estado1 (digitação/formatação)",
+      "Coréia (acentuação - Acordo Ortográfico vigente)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa":"Ótimo",
+    "numero_de_erros_gramaticais":3,
+    "erros_gramaticais":[
+      "emediatamente (ortografia)",
+      "estado1 (erro de digitação/formatação)",
+      "Coréia (grafia obsoleta pós-Acordo Ortográfico)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "emediatamente (ortografia)",
+      "estado1 (erro de digitação/formatação)",
+      "Coréia (acentuação obsoleta conforme Acordo Ortográfico)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa":"Ótimo",
+    "numero_de_erros_gramaticais":3,
+    "erros_gramaticais":[
+      "emediatamente (ortografia)",
+      "estado1 (erro de digitação/formatação)",
+      "Coréia (grafia obsoleta pós-Acordo Ortográfico)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "antropófoga (ortografia/digitação - correto: antropófaga)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "antropófoga (ortografia/digitação - correto: antropófaga)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "antropófoga (ortografia/digitação - correto: antropófaga)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [],
+    "feedbacks": [
+      ""
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um excelente domínio da norma culta, com vocabulário preciso e variado, típico da exigência do CACD.",
+      "A organização textual é rigorosa, com introdução clara, desenvolvimento fluido e conclusão que sintetiza a tese proposta.",
+      "Houve uma interpretação inteligente e sofisticada da citação de Machado de Assis, transpondo a ideia de 'ousadia vs. queda' para o campo do risco intelectual e cultural do Modernismo.",
+      "A fundamentação teórica é robusta, citando corretamente conceitos como a Anthropofagia de Oswald de Andrade e o 'entre-lugar' de Silviano Santiago, demonstrando erudição e capacidade de relacionar fatos históricos a categorias analíticas."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um excelente domínio da norma culta, com vocabulário preciso e variado, típico da exigência do CACD.",
+      "A organização textual é rigorosa, com introdução clara, desenvolvimento fluido e conclusão que sintetiza a tese proposta.",
+      "Houve uma interpretação inteligente e sofisticada da citação de Machado de Assis, transpondo a ideia de 'ousadia vs. queda' para o campo do risco intelectual e cultural.",
+      "A escolha do Modernismo Brasileiro como objeto de análise foi pertinente e bem fundamentada, citando corretamente figuras centrais (Oswald e Mário de Andrade) e conceitos teóricos relevantes (como o 'entre-lugar' de Silviano Santiago), demonstrando erudição e capacidade de síntese."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 0,
+    "erros_gramaticais": [
+      "Nenhum erro significativo detectado."
+    ],
+    "feedbacks": [
+      "O texto apresenta um excelente domínio da norma culta, com vocabulário preciso e variado, típico da exigência do CACD.",
+      "A organização textual é rigorosa, com introdução clara, desenvolvimento fluido e conclusão que sintetiza a tese proposta.",
+      "Houve uma interpretação inteligente e sofisticada da citação de Machado de Assis, transpondo a ideia de 'ousadia vs. queda' para o campo do risco intelectual e cultural.",
+      "A escolha do Modernismo Brasileiro como objeto de análise foi pertinente e bem fundamentada, citando referências precisas (Antropofagia, Mário de Andrade) e conceitos teóricos relevantes (Silviano Santiago), demonstrando maturidade acadêmica e repertório sociocultural."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.0,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...por um debate político **brasileiro**... (Erro de coesão/pertinência vocabular grave: o contexto é a Europa Oriental)",
+      "...pessoas que não temeram ir às nuvens, desafiar o estado **vigentes** das coisas... (Erro de concordância nominal)",
+      "...do que **aceite** a mediocridade lesiva. (Erro de regência/flexão verbal - deveria ser 'aceitar')",
+      "Guerra **fria** (Erro de ortografia/capitalização: substantivo próprio composto)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.0,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...por um debate político **brasileiro**... (Erro de coesão/pertinência vocabular grave: o contexto é a Europa Oriental)",
+      "...pessoas que não temeram ir às nuvens, desafiar o estado **vigentes** das coisas... (Erro de concordância nominal)",
+      "...do que **aceite** a mediocridade lesiva. (Erro de regência/flexão verbal - deveria ser 'aceitar')",
+      "Guerra **fria** (Erro de ortografia/capitalização: substantivo próprio composto)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.0,
+    "nota_1B": 7.0,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "...por um debate político **brasileiro**... (Erro de coesão/pertinência vocabular grave: o contexto é a Europa Oriental)",
+      "...pessoas que não temeram ir às nuvens, desafiar o estado **vigentes** das coisas... (Erro de concordância nominal)",
+      "...do que **aceite** a mediocridade lesiva. (Erro de regência/flexão verbal - deveria ser 'aceitar')",
+      "Guerra **fria** (Erro de ortografia/capitalização: substantivo próprio composto)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 42.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "debate político brasileiro"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 42.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "debate político brasileiro (incoerência contextual/lapso)",
+      "não temeram ir às nuvens... desafiar o estado vigentes (falta de concordância nominal)",
+      "do que aceite a mediocridade (erro de regência/flexão verbal)"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 42.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "debate político brasileiro"
+    ],
+    "feedbacks": [],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...por um debate político brasileiro..."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, com introdução, desenvolvimento e conclusão bem definidos. A relação estabelecida entre a citação de Machado de Assis e o colapso do bloco soviético foi feita de maneira inteligente e orgânica, transformando a metáfora literária em um fio condutor para a análise histórica.",
+      "Há um domínio sólido da língua portuguesa e do repertório histórico, demonstrando capacidade de síntese e articulação de ideias complexas.",
+      "Observou-se um erro grave de distração/coesão textual no trecho '...por um debate político brasileiro...', onde o adjetivo 'brasileiro' surge deslocadamente em um parágrafo dedicado exclusivamente à Europa Oriental, comprometendo momentaneamente a precisão do argumento. Além disso, há pequenos lapsos de digitação ('da1 década', '| as ordens')."
+    ],
+    "modelo": "gemma-4-31B-it",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...por um debate político brasileiro..."
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente estrutura, clareza e capacidade de relacionar a citação machadiana ao evento histórico escolhido (queda do bloco soviético) de maneira orgânica e reflexiva.",
+      "Há um erro evidente de distração/digitação ('debate político brasileiro' inserido erroneamente no contexto da Europa Oriental), o que prejudica levemente a precisão textual, embora não comprometa a compreensão global.",
+      "A argumentação é consistente e demonstra bom repertório histórico, expandindo a análise inclusive para a Primavera Árabe, conferindo maturidade ao texto."
     ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -1153,13 +1266,12 @@
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 3,
     "erros_gramaticais": [
-      "...por um debate político brasileiro... (Erro de coesão/digitação: o texto trata da Europa Oriental, o termo 'brasileiro' é incongruente com o contexto)",
-      "...pessoas que não temeram ir às nuvens... (Uso impreciso da metáfora: o texto alterna entre 'ir às nuvens' e 'cair das nuvens', embora a lógica seja compreensível)",
-      "...do que aceite a mediocridade lesiva. (Erro de regência/concordância verbal: o correto seria 'do que aceitar')"
+      "...por um debate político brasileiro..."
     ],
     "feedbacks": [
-      "Organização e Desenvolvimento: O texto é muito bem estruturado, com introdução, desenvolvimento e conclusão claros. O candidato conseguiu integrar a citação de Machado de Assis de forma orgânica, transformando a metáfora da 'queda' em um fio condutor para a análise da transição democrática na Europa Oriental. A argumentação é coerente e a expansão do tema para a Primavera Árabe demonstra capacidade de reflexão e síntese histórica.",
-      "Correção Gramatical e Linguagem: O domínio da norma culta é consistente, com vocabulário preciso e boa articulação de frases. No entanto, há deslizes pontuais que impedem a classificação como 'Excelente' ou 'Excepcional', destacando-se um erro grave de coesão textual (menção a 'debate político brasileiro' em um parágrafo sobre a Europa Oriental) e um erro de flexão verbal no terço final do texto."
+      "O texto apresenta excelente estrutura, clareza e capacidade de relacionar a citação machadiana ao evento histórico escolhido (queda do bloco soviético) de maneira orgânica e reflexiva.",
+      "Há um erro evidente de distração/digitação ('debate político brasileiro' inserido erroneamente no contexto da Europa Oriental), que prejudica a precisão textual, embora não comprometa a compreensão global.",
+      "A argumentação é sólida e expande-se corretamente para exemplos contemporâneos (Primavera Árabe), demonstrando maturidade intelectual e repertório."
     ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
@@ -1169,13 +1281,13 @@
     "ano": "2016"
   },
   {
-    "nota_1A": 9.0,
-    "nota_1B": 10.0,
-    "nota_1C": 18.0,
+    "nota_1A": 9.5,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "falta de preposição 'de' em 'capacidade interferir' (linha 26)",
-      "uso inadequado do subjuntivo em 'possa ter servido' (linha 10) - deveria ser 'possa ter servido' no sentido de possibilidade, mas o contexto de citação de historiadores sugere 'possa ter servido' como hipótese ou 'pode ter servido'. Contudo, o erro mais flagrante é a omissão da preposição em 'capacidade interferir'."
+      "falta de preposição 'de' em 'capacidade interferir'",
+      "uso inadequado do subjuntivo em 'escolha... possa ter servido' (contexto pede indicativo/futuro do pretérito)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1186,13 +1298,13 @@
     "ano": "2016"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "falta de preposição 'de' em 'capacidade interferir' (linha 26)",
-      "uso inadequado do subjuntivo em 'possa ter servido' em vez de 'possa ter servido' ou 'pode ter servido' no contexto de afirmação historiográfica, embora seja aceitável como nuance de dúvida, a construção 'têm argumentado que... possa' gera uma leve instabilidade sintática"
+      "falta de preposição 'de' em 'capacidade interferir'",
+      "uso inadequado do subjuntivo em 'escolha... possa ter servido' (contexto pede indicativo/futuro do pretérito)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1203,13 +1315,13 @@
     "ano": "2016"
   },
   {
-    "nota_1A": 9.0,
+    "nota_1A": 9.5,
     "nota_1B": 9.0,
-    "nota_1C": 18.0,
+    "nota_1C": 9.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
-      "falta de preposição 'de' em 'capacidade interferir' (linha 26)",
-      "uso inadequado do subjuntivo em 'possa ter servido' em vez de 'possa ter servido' ou 'pode ter servido' no contexto de afirmação historiográfica (embora aceitável em certos contextos, soa impreciso aqui) - *Revisão: Considerarei apenas a omissão da preposição 'de' e a pontuação/concordância geral. Na verdade, o erro gritante é 'capacidade interferir'. O segundo erro é a concordância/regência em 'a ela inerente' referindo-se a 'relevância' ou 'posição', mas a construção é aceitável. Identifico como erro a omissão de preposição e a imprecisão sintática em 'possa ter servido' (estilo)."
+      "Falta de preposição 'de' em 'capacidade interferir' (linha 26/parágrafo 4)",
+      "Uso inadequado do subjuntivo em 'escolha... possa ter servido' (estilo/regência temporal - linha 8/parágrafo 1)"
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1220,11 +1332,11 @@
     "ano": "2016"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "falta de preposição 'de' em 'capacidade interferir'",
-      "uso inadequado de 'possa' em 'escolha de uma demanda internacional grandiosa possa ter servido' (deveria ser 'possa' no sentido de possibilidade, mas a construção sintática sugere a necessidade do indicativo 'pode' ou a reestruturação da oração)"
+      "uso inadequado de 'possa' em vez de 'possa ter sido/tenha servido' (concordância temporal) ou erro sutil de regência/estilo em trechos específicos."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1235,11 +1347,11 @@
     "ano": "2016"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "falta de preposição 'de' em 'capacidade interferir'",
-      "uso inadequado de 'possa' (subjuntivo) em 'escolha de uma demanda internacional grandiosa possa ter servido' (deveria ser 'possa' se houvesse dúvida, mas o contexto de afirmação historiográfica pede 'possa' ou 'pode' dependendo da nuance, porém a construção 'têm argumentado que... possa' gera instabilidade sintática) - Nota: O erro principal é a omissão da preposição 'de' em 'capacidade interferir' e a imprecisão na regência/modo em trechos pontuais."
+      "uso inadequado de 'possa' em vez de 'possa ter sido/tenha servido' (concordância temporal) ou erro sutil de regência/estilo em trechos específicos."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1250,11 +1362,11 @@
     "ano": "2016"
   },
   {
-    "nota_final": 56.0,
+    "nota_final": 54.0,
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
       "falta de preposição 'de' em 'capacidade interferir'",
-      "uso inadequado de 'possa' em 'escolha de uma demanda internacional grandiosa possa ter servido' (deveria ser 'possa' no sentido de possibilidade, mas a construção sintática sugere a necessidade do indicativo 'pode' ou a reestruturação da oração)"
+      "uso inadequado de 'possa' em vez de 'possa ter sido/tenha servido' (concordância temporal) ou erro sutil de regência/estilo em trechos específicos."
     ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
@@ -1267,8 +1379,15 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio pleno da norma culta."
+    ],
+    "feedbacks": [
+      "O texto demonstra um nível analyticamente superior, integrando com precisão a provocação literária de Machado de Assis a um episódio específico e complexo da História Diplomática Brasileira.",
+      "A transposição da metáfora ('nuvens' vs 'terceiro andar') para a dicotomia entre o idealismo/ousadia e a aceitação passiva da irrelevância foi executada com sofisticação, evitando a obviedade e promovendo uma reflexão profunda sobre a condução da Política Externa Brasileira nos anos 1920.",
+      "A fundamentação teórica e factual é robusta, citando referências historiográficas pertinentes (Eugênio Vargas Garcia) e estabelecendo paralelos temporais coerentes com a atualidade (reforma do CSNU), o que denota maturidade intelectual e erudição.",
+      "Do ponto de vista formal, a redação é impecável: vocabulário rico, sintaxe fluida e encadeamento lógico rigoroso, atendendo plenamente aos padrões de exigência do CACD."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1279,8 +1398,15 @@
   {
     "faixa": "Excepcional",
     "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
-    "feedbacks": [],
+    "erros_gramaticais": [
+      "Indeterminado - Não foram detectados erros gramaticais significativos; o texto apresenta domínio pleno da norma culta."
+    ],
+    "feedbacks": [
+      "O texto demonstra um nível analyticamente superior, integrando com precisão a provocação literária de Machado de Assis a um episódio específico e complexo da História Diplomática Brasileira.",
+      "A transposição da metáfora ('nuvens' vs 'terceiro andar') para a dicotomia entre o idealismo/ousadia e a aceitação passiva da irrelevância foi executada com sofisticação, evitando a obviedade e promovendo uma reflexão profunda sobre a condução da Política Externa Brasileira nos anos 1920.",
+      "A fundamentação teórica e factual é robusta, citando referências historiográficas pertinentes (Eugênio Vargas Garcia) e estabelecendo paralelos temporais coerentes com a atualidade (reforma do CSNU), o que denota maturidade intelectual e repertório vasto.",
+      "Do ponto de vista formal, a redação é impecável: a progressão textual é fluida, o vocabulário é rico e preciso, e a sintaxe é elegante, atendendo plenamente aos rigorosos padrões exigidos para o CACD."
+    ],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
     "temp": 0.0,
@@ -1290,8 +1416,10 @@
   },
   {
     "faixa": "Excepcional",
-    "numero_de_erros_gramaticais": 0,
-    "erros_gramaticais": [],
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "...escolha de uma demanda internacional grandiosa **possa** ter servido..."
+    ],
     "feedbacks": [],
     "modelo": "gemma-4-31B-it",
     "prompt": 9,
