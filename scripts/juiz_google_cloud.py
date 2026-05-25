@@ -7,6 +7,8 @@ import json
 import yaml
 import requests
 import argparse
+from anthropic import AnthropicVertex
+
 
 class respostaPorCriterio(BaseModel):
   nota_1A: float
@@ -28,22 +30,6 @@ class respostaEmFaixa(BaseModel):
   erros_gramaticais: list[str]
   feedbacks: list[str]
 
-def extrair_json(texto):
-    inicio = texto.find('{')
-    if inicio == -1:
-        raise ValueError(f"Nenhum JSON encontrado: {texto}")
-    
-    profundidade = 0
-    for i, char in enumerate(texto[inicio:], start=inicio):
-        if char == '{':
-            profundidade += 1
-        elif char == '}':
-            profundidade -= 1
-            if profundidade == 0:
-                return json.loads(texto[inicio:i+1])
-    
-    raise ValueError(f"JSON incompleto: {texto}")
-
 def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   url = "https://raw.githubusercontent.com/MeLLL-UFF/diplomatrixbr-gen/main/Diplomatrix.json"
   requisicao = requests.get(url)
@@ -61,6 +47,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   temp = list(map(float, temps))
   num_runs = n_iteracoes
   ano = anos
+  print(f"Redações do ano {ano}")
 
   jsonGerado = []
   root_path = os.getcwd()
@@ -72,9 +59,10 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
       prompts = prompts_yaml['prompts']
 
   dados_candidatos = diplomatrix["Candidates_Essays"][ano]["Candidates"]
+  criterios = diplomatrix["Candidates_Essays"][ano]["Criteria"]
+  enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
   try:
     padrao_de_resposta = diplomatrix["Candidates_Essays"][ano]["Answer_Pattern"]
-    enunciado = diplomatrix["Candidates_Essays"][ano]["Question_Statement"]
   except KeyError:
     padrao_de_resposta = ""
   numero_redacao = 0
@@ -87,6 +75,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
 
     for prompt in prompts:
 
+      # DEFINIR AQUI QUAIS PROMPTS SERÃO TESTADOS
       if prompt['id'] in lista_prompts:
         prompt_formatado = prompt['prompt'].replace("{enunciado}", str(enunciado))
         prompt_formatado = prompt_formatado.replace("{padrao_resposta}", str(padrao_de_resposta)) + redacao
@@ -97,32 +86,53 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
         formato_resposta = None
 
         match prompt['id']:
+          # ADICIONAR NOVOS CASOS NO SWITCH CASE CONFORME FOR INTERESSANTE
           case 7 | 10 | 13:
             formato_resposta = respostaPorCriterio
+            prompt_formatado = prompt_formatado.replace("{1A}", str(criterios["1A"]))
+            prompt_formatado = prompt_formatado.replace("{1B}", str(criterios["1B"]))
+            prompt_formatado = prompt_formatado.replace("{1C}", str(criterios["1C"]))
+            prompt_formatado = prompt_formatado.replace("{2}", str(criterios["2"]))
+            max_pontos = criterios["1A"] + criterios["1B"] + criterios["1C"]
+            prompt_formatado = prompt_formatado.replace("{max_pontos}", str(max_pontos))
           case 8 | 11 | 14:
             formato_resposta = respostaFinal
+            pontuacao_maxima = diplomatrix["Candidates_Essays"][ano]["Maximum_Score"]
+            prompt_formatado = prompt_formatado.replace("{pontuacao_maxima}", str(pontuacao_maxima))
           case 9 | 12 | 15:
             formato_resposta = respostaEmFaixa
 
         if formato_resposta is None:
           raise ValueError("Atribua um valor a \"formato_resposta\"")
 
-        for i in temp:
+        for i in (temp):
           for j in range(num_runs):
             try:
-              response = client.models.generate_content(
-                model="gemma-4-31b-it",
-                contents=prompt_formatado,
-                config=types.GenerateContentConfig(
-                  temperature=i,
-                  max_output_tokens=4096,
-                  # response_mime_type="application/json",
-                  response_schema=formato_resposta,
-                ),
+              model_name = "claude-opus-4-7"
+              #response = client.models.generate_content(
+              #  model=model_name,
+              #  #contents=prompt_formatado,
+              #  contents= "Qual a capital da alemanha",
+              #  config=types.GenerateContentConfig(
+              #    temperature=i,
+              #    max_output_tokens=2048,
+              #    # response_mime_type="application/json",
+              #    #response_schema=formato_resposta,
+              #  )
+              #)
+              client = AnthropicVertex(region="global", project_id="diplomatrix")
+              message = client.messages.create(
+              max_tokens=2048,
+              messages=[{"role": "user", "content": "Hello! Can you help me?"}],
+              model="claude-opus-4-7"
               )
+              print(message.content[0].text)
 
-              response = extrair_json(response.text)
-              response['modelo'] = 'gemma-4-31b-it'
+            except Exception as e:
+              print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
+"""
+              response = json.loads(response.choices[0].message.content)
+              response['modelo'] = model_name
               response['prompt'] = prompt['id']
               response['temp'] = float(i)
               response['versao'] = j + 1
@@ -131,23 +141,25 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
               jsonGerado.append(response)
               print(f"Temperatura testada: {i}")
 
-            except Exception as e:
-              print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
     
+    # Salvar resultados parciais por redação pra evitar perda de dados
+    # Pode ser removido se não for necessário
     output_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", f'redacao_{ano}_{numero_redacao}_output_{response["modelo"]}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
     with open(output_path, 'w', encoding="utf-8") as file:
       json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
-
+      file.close()
+  
   listtemps = ""
   for i in temp:
     listtemps += str(i) + "_"
 
-  output_path = os.path.join(os.getcwd(), "prompt_testing", f'{listtemps}output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+  output_path = os.path.join(os.getcwd(), "prompt_testing", "outputs", model_name, f'output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
-
+    file.close()
+"""
 if __name__ == "__main__":
-  parser = argparse.ArgumentParser(description="Avalia redações de um determinado ano do CACD com Gemma 4.")
+  parser = argparse.ArgumentParser(description="Avalia redações de um determinado ano do CACD com Sabia.")
   parser.add_argument("--n_iteracoes", type=int, required=True, help="Quantas iterações por redação.")
   parser.add_argument("--temps", type=str, nargs="+", required=True, help="Temperaturas usadas.")
   parser.add_argument("--anos", type=str, required=True, help="Anos avaliados.")
