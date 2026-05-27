@@ -104,11 +104,12 @@ def plot_val_error(df, output_path, year, *, temp=None, prompt=None):
 
 def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
     if temp == None and prompt == None:
-        fig, axes = plt.subplots(1, 2, figsize=(14, 5))
+        fig, axes = plt.subplots(figsize=(6, 4))
     else:
         fig, axes = plt.subplots(figsize=(7, 5))
     
     df = df.copy()
+    df = df[["redacao", "nota_humana", "prompt", "nota_final", "temp"]]
     df = df.sort_values(by=["prompt", "nota_humana"], ascending=[True, False])
     df["redacao"] = df["redacao"].astype(str)
     df["prompt"] = df["prompt"].astype(str)
@@ -119,7 +120,20 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
         mask_humano = df["judge"] == "humano"
         df.loc[mask_humano, "temp"] = "Humano"
 
+    df_human = df[["redacao", "nota_humana"]]
+    df_human = df_human.groupby("redacao", as_index=False).mean()
+    df_human["prompt"] = "Humano"
+    df_human["nota_final"] = df_human["nota_humana"]
+    df_human["temp"] = "0.0"
+    df_human = df_human.sort_values(by="nota_final", ascending=False)
+
+    df = pd.concat([df, df_human], sort=False)
+
+    df = df.groupby(["redacao", "prompt"], as_index=False, sort=False).mean(numeric_only=True)
+
     title = f"Comparação de Nota Gerada e Nota Humana por Redação \n {year}"
+
+    qtd_prompts = len(df["prompt"].unique().tolist())
 
     if temp == None and prompt == None:
         sns.lineplot(
@@ -127,41 +141,24 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
             x="redacao",
             y="nota_final",
             hue="prompt",
-            style="temp",
-            marker="o",
-            palette=["#11F9DE", "#FFD918", "#A3FF22", "#1995BF", "#FF8400FF", "#02B202", "#3131BD", "#D41111", "#2E772E"],
-            ax=axes[0],
+            style="prompt",
+            dashes=False if qtd_prompts == 10 else True,
+            #err_style="band",
+            linestyle='',
+            markers=["v", "v", "v", "^", "^", "^", ">", ">", ">", "X"] if qtd_prompts == 10 else ["v", "^", ">", "X"],
+            palette=["#11F9DE", "#FFD918", "#A3FF22", "#1995BF", "#FF8400FF", "#02B202", "#3131BD", "#D41111", "#2E772E", "#000000"] if qtd_prompts == 10 else ["#11F9DE", "#FFD918", "#A3FF22", "#000000"],
+            #ax=axes[0],
             sort=False
         )
-        axes[0].set_title("Análise de Nota Gerada por Redação")
-        axes[0].set_xlabel("Redação")
-        axes[0].set_ylabel("Nota Final")
+        axes.set_title("Análise de Nota Gerada por Redação")
+        axes.set_xlabel("Redação")
+        axes.set_ylabel("Nota Final")
         if year == "2024":
-            axes[0].set_ylim(35, 70)
+            axes.set_ylim(35, 70)
         else:
-            axes[0].set_ylim(35, 60)
-        axes[0].legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
-        axes[0].spines[['top', 'right']].set_visible(False)
-
-        sns.lineplot(
-            data=df,
-            x="redacao",
-            y="nota_humana",
-            marker="o",
-            ax=axes[1],
-            sort=False
-        )
-        axes[1].set_title("Análise de Nota Humana por Redação")
-        axes[1].set_xlabel("Redação")
-        axes[1].set_ylabel("Nota Final")
-        if year == "2024":
-            axes[1].set_ylim(35, 70)
-        else:
-            axes[1].set_ylim(35, 60)
-
-        axes[1].spines[['top', 'right']].set_visible(False)
-
-        plt.suptitle(title, fontsize=16)
+            axes.set_ylim(35, 60)
+        axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left", fontsize="x-small")
+        axes.spines[['top', 'right']].set_visible(False)
 
     elif temp != None:
         sns.lineplot(
