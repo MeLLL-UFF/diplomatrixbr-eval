@@ -315,9 +315,9 @@ def plot_error_heatmap(df, outputpath, year):
 def plot_corr_heatmap(df, outputpath, year):
     fig, axes = plt.subplots(1, 2, figsize=(6.5,10))
     df_corr_pearson = df.corr(method="pearson")
-    df_corr_pearson = pd.DataFrame(df_corr_pearson["human"])
+    df_corr_pearson = pd.DataFrame(df_corr_pearson.iloc[1:]["human"])
     df_corr_spearman = df.corr(method="spearman")
-    df_corr_spearman = pd.DataFrame(df_corr_spearman["human"])
+    df_corr_spearman = pd.DataFrame(df_corr_spearman.iloc[1:]["human"])
     axes[0] = sns.heatmap(df_corr_pearson, annot=True, vmax=1, vmin=-1, cmap="RdYlGn", fmt=".4f", ax=axes[0], cbar=False)
     axes[0].set_title("Correlação de Pearson")
     axes[1] = sns.heatmap(df_corr_spearman, annot=True, vmax=1, vmin=-1, cmap="RdYlGn", fmt=".4f", ax=axes[1])
