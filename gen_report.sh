@@ -1,12 +1,11 @@
 set -euo pipefail
 
 models=(
-	"sabia-4"
+	"Modelos"
 )
 
 years=(
-	"2018"
-	"2022"
+	"Anos"
 )
 
 run_report() {
