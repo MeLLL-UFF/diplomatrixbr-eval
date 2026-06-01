@@ -150,7 +150,7 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
             #ax=axes[0],
             sort=False
         )
-        axes.set_title("Análise de Nota Gerada por Redação")
+        axes.set_title(title)
         axes.set_xlabel("Redação")
         axes.set_ylabel("Nota Final")
         if year == "2024":
