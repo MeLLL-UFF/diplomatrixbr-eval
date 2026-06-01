@@ -130,28 +130,30 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
     df = pd.concat([df, df_human], sort=False)
 
     df = df.groupby(["redacao", "prompt"], as_index=False, sort=False).mean(numeric_only=True)
+    df = df.rename(columns={"redacao":"candidatos"})
 
-    title = f"Comparação de Nota Gerada e Nota Humana por Redação \n {year}"
+    title = f"Comparação de Nota Gerada e Nota Humana por Candidatos \n {year}"
+
+    df[["candidatos"]] = "C" + df[["candidatos"]]
+    print(df[["candidatos"]])
 
     qtd_prompts = len(df["prompt"].unique().tolist())
 
     if temp == None and prompt == None:
         sns.lineplot(
             data=df,
-            x="redacao",
+            x="candidatos",
             y="nota_final",
             hue="prompt",
             style="prompt",
             dashes=False if qtd_prompts == 10 else True,
-            #err_style="band",
             linestyle='',
             markers=["v", "v", "v", "^", "^", "^", ">", ">", ">", "X"] if qtd_prompts == 10 else ["v", "^", ">", "X"],
             palette=["#11F9DE", "#FFD918", "#A3FF22", "#1995BF", "#FF8400FF", "#02B202", "#3131BD", "#D41111", "#2E772E", "#000000"] if qtd_prompts == 10 else ["#11F9DE", "#FFD918", "#A3FF22", "#000000"],
-            #ax=axes[0],
             sort=False
         )
         axes.set_title(title)
-        axes.set_xlabel("Redação")
+        axes.set_xlabel("Candidatos")
         axes.set_ylabel("Nota Final")
         if year == "2024":
             axes.set_ylim(35, 70)
@@ -163,7 +165,7 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
     elif temp != None:
         sns.lineplot(
             data=df,
-            x="redacao",
+            x="candidatos",
             y="nota_final",
             hue="prompt",
             marker="o",
@@ -171,7 +173,7 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
             ax=axes,
             sort=False
         )
-        axes.set_xlabel("Redação")
+        axes.set_xlabel("Candidatos")
         axes.set_ylabel("Nota Final")
         axes.set_ylim(35, 60)
         axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
@@ -180,7 +182,7 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
     elif prompt != None:
         sns.lineplot(
             data=df,
-            x="redacao",
+            x="candidatos",
             y="nota_final",
             hue="temp",
             marker="o",
@@ -188,7 +190,7 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
             ax=axes,
             sort=False
         )
-        axes.set_xlabel("Redação")
+        axes.set_xlabel("Candidatos")
         axes.set_ylabel("Nota Final")
         axes.set_ylim(35, 60)
         axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
