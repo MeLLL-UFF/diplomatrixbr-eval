@@ -344,7 +344,7 @@ def plot_co_var_temp(df, year, model):
 
     #plt.show()
 
-def plot_co_var_prompt(df, year, model):
+def plot_co_var_prompt(df, output_path, year, model):
     #Coeficiente de Variação dos diferentes inputs dos prompts
     fig, axes = plt.subplots(1, figsize=(8, 8))
     df_treated = df[["prompt", "temp", "nota_final"]]
@@ -359,8 +359,21 @@ def plot_co_var_prompt(df, year, model):
 
     df_result = (df_std/df_mean)*100
     df_result = df_result.rename(columns={"nota_final":"coeficiente de variacao médio"})
+    df_result.reset_index(inplace=True)
 
-    #TODO: USAR ESTES VALORES PARA COMPOR A TABELA MOSTRANDO QUE A ENTRADA DO PROMPT NÃO FAZ DIFERENÇA
+    tipo_prompt = {
+        1: "Critério",
+        2: "Total",
+        3: "Faixa"
+    }
+
+    df_result["tipo_prompt"] = df_result["tipo_prompt"].map(tipo_prompt)
+
+    df_result = df_result.pivot(index="tipo_prompt", columns="temp", values="coeficiente de variacao médio")
+
+    df_result.rename(columns=lambda x: str(x), inplace=True)
+
+    pd.DataFrame.to_csv(df_result, f"{output_path}/Coeficiente_de_Variacao.csv", float_format="%.4f")
 
 def plot_co_var_redacao(df, year, model):
     fig, axes = plt.subplots(1, figsize=(8, 8))
