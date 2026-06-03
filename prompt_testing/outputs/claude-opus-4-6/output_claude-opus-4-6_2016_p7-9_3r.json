@@ -1716,6 +1716,32 @@
     "ano": "2016"
   },
   {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'debate político brasileiro' — aparente erro de digitação ou distração; o contexto exige algo como 'debate político aberto' ou 'debate político plural', já que o texto trata da Europa oriental, não do Brasil.",
+      "'da1 década' — erro de digitação; deveria ser 'da década'.",
+      "'Guerra fria' — 'Fria' deveria estar com inicial maiúscula, pois se trata de nome próprio de período histórico: 'Guerra Fria'.",
+      "'o estado vigentes das coisas' — erro de concordância; deveria ser 'o estado vigente das coisas'.",
+      "'a conduta social combatida dos europeus orientais' — provável erro; o sentido pretendido parece ser 'a conduta social combativa dos europeus orientais'.",
+      "'aceite a mediocridade lesiva' — erro de conjugação; deveria ser 'aceitar a mediocridade lesiva'."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa capacidade de articulação entre a citação machadiana e o fato histórico escolhido (a queda dos regimes comunistas na Europa oriental). A metáfora de 'cair das nuvens' versus 'cair do terceiro andar' é explorada de forma coerente ao longo do texto, o que confere unidade temática.",
+      "A estrutura é bem organizada, com introdução que apresenta a tese, desenvolvimento que percorre cronologicamente os eventos (décadas de 1950-60, 1980) e conclusão que amplia a reflexão para o século XXI e a Primavera Árabe. Essa progressão é um ponto forte.",
+      "A menção a 'debate político brasileiro' no terceiro parágrafo é um erro evidente que compromete a coerência local, pois o texto trata exclusivamente da Europa oriental naquele trecho. Esse tipo de deslize, em um concurso como o CACD, pode ser penalizado significativamente.",
+      "A argumentação, embora competente, tende a ser um pouco linear e previsível. Poderia haver maior problematização — por exemplo, discutir os custos da transição, as frustrações pós-redemocratização ou nuances sobre o que significa 'cair das nuvens' em contextos distintos.",
+      "A extensão do texto para a Primavera Árabe é pertinente e demonstra repertório, mas a análise permanece superficial nesse ponto. A afirmação de que 'seu aparente fracasso não reduz o valor das ações empreendidas' mereceria maior desenvolvimento.",
+      "A linguagem é, em geral, adequada ao registro formal exigido, com vocabulário pertinente e períodos bem construídos, embora os erros identificados (concordância, digitação, conjugação) prejudiquem a impressão de domínio pleno da norma culta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
     "nota_1C": 9.0,
@@ -1878,6 +1904,29 @@
     "prompt": 9,
     "temp": 0.0,
     "versao": 1,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de preposição em 'sem capacidade interferir' — o correto seria 'sem capacidade de interferir'.",
+      "Uso de '1' como marca de nota de rodapé em 'participação1' e 'interferir1', inadequado no corpo de uma redação dissertativa de concurso.",
+      "Uso do subjuntivo 'possa ter servido' após 'têm argumentado que' é questionável; o indicativo 'pode ter servido' seria mais adequado nesse contexto assertivo."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema histórico escolhido — o pleito brasileiro por assento permanente no Conselho da Liga das Nações —, articulando-o de forma coerente e sofisticada com a citação machadiana.",
+      "A interpretação da citação é original e bem fundamentada: a distinção entre 'cair das nuvens' (idealismo ambicioso) e 'cair de um terceiro andar' (mediocridade passiva) é explorada com consistência ao longo de todo o texto.",
+      "O texto apresenta boa estrutura argumentativa, com progressão lógica: contextualização do pleito, motivações internas e externas, desenvolvimento da ação diplomática, desfecho e reflexão sobre as consequências.",
+      "A mobilização de referências historiográficas (Eugênio Vargas Garcia) e de paralelos históricos (Concerto Europeu, reforma do CSNU) enriquece a argumentação e demonstra conhecimento aprofundado.",
+      "O parágrafo final realiza um fechamento eficaz, conectando passado e presente e reforçando a tese central sobre o valor da ousadia mesmo diante do fracasso.",
+      "Pontos de melhoria: evitar marcas de nota de rodapé no corpo do texto; a construção contrafactual do penúltimo parágrafo, embora interessante, poderia ser mais concisa; e há um erro de regência ('sem capacidade interferir') que compromete levemente a fluência."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
     "essay": 10,
     "ano": "2016"
   },

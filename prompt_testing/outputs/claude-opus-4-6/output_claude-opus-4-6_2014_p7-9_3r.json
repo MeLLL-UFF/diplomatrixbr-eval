@@ -316,6 +316,54 @@
     "modelo": "claude-opus-4-6",
     "prompt": 8,
     "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'300 milhões de pessoa' — falta de concordância nominal; o correto seria '300 milhões de pessoas'.",
+      "Uso de vírgula antes de 'sobretudo' seguida de vírgula após — a construção 'é necessário que se invista na qualificação da mão de obra, sobretudo, nas áreas' apresenta vírgula desnecessária após 'sobretudo' quando este funciona como advérbio focalizador.",
+      "Nota de rodapé '¹' inserida no corpo do texto, o que é inadequado no formato de redação dissertativa."
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio do tema, articulando circunstâncias internas (bônus demográfico, estrutura produtiva, balanço de pagamentos) com cenários internacionais (ascensão da China, cadeias globais de valor, mercados emergentes africanos). A estrutura é clara e bem organizada, com introdução, desenvolvimento temático em parágrafos coesos e conclusão sintética.",
+      "O candidato dialoga adequadamente com os textos motivadores, incorporando a ideia de formulação de hipóteses plausíveis (Texto I), a ambição de escopo de atuação (Texto II) e a política externa como instrumento de desenvolvimento (Texto III).",
+      "Ponto positivo: a argumentação é concreta e fundamentada em dados, como a projeção sobre a produção científica chinesa, a carência de professores e a classe média africana, o que confere credibilidade ao texto.",
+      "Ponto a melhorar: a redação poderia ter explorado mais dimensões da política externa (segurança, meio ambiente, direitos humanos, reforma de instituições multilaterais) para demonstrar maior amplitude analítica. A discussão ficou concentrada em aspectos econômicos e educacionais.",
+      "A menção ao programa Ciências sem Fronteiras, já descontinuado, pode indicar desatualização, embora o argumento subjacente sobre cooperação científica permaneça válido.",
+      "A inserção de nota de rodapé (¹) é inadequada no formato de redação dissertativa e deve ser evitada.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário preciso e construções sintáticas bem elaboradas. O erro de concordância em '300 milhões de pessoa' é pontual, mas relevante."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'300 milhões de pessoa' — falta de concordância nominal; o correto seria '300 milhões de pessoas'.",
+      "Uso de vírgula antes de 'sobretudo' seguida de vírgula após — a construção 'é necessário que se invista na qualificação da mão de obra, sobretudo, nas áreas' apresenta vírgula desnecessária após 'sobretudo' quando este funciona como advérbio focalizador.",
+      "Nota de rodapé '¹' inserida no corpo do texto, o que é inadequado no formato de redação dissertativa."
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio do tema, articulando circunstâncias internas (bônus demográfico, estrutura produtiva, balanço de pagamentos) com cenários internacionais (ascensão da China, cadeias globais de valor, mercados emergentes africanos). A estrutura é clara e bem organizada, com introdução, desenvolvimento temático em parágrafos coesos e conclusão sintética.",
+      "O candidato dialoga adequadamente com os textos motivadores, incorporando a ideia de formulação de hipóteses plausíveis (Texto I), a ambição de escopo de atuação (Texto II) e a política externa como instrumento de desenvolvimento (Texto III).",
+      "Ponto positivo: a argumentação é concreta e fundamentada em dados, como a projeção sobre a produção científica chinesa, a carência de professores e a classe média africana, o que confere credibilidade ao texto.",
+      "Ponto a melhorar: a redação poderia ter explorado mais dimensões da política externa (segurança, meio ambiente, direitos humanos, reforma de instituições multilaterais) para demonstrar maior amplitude analítica. A discussão ficou concentrada em aspectos econômicos e educacionais.",
+      "A menção ao programa Ciências sem Fronteiras, já descontinuado, pode indicar desatualização, embora o argumento subjacente sobre cooperação científica permaneça válido.",
+      "A inserção de nota de rodapé (¹) é inadequada no formato de redação dissertativa e deve ser evitada.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário preciso e construções sintáticas bem elaboradas. O erro de concordância em '300 milhões de pessoa' é pontual, mas relevante."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
     "versao": 3,
     "essay": 2,
     "ano": "2014"
@@ -836,6 +884,32 @@
     "prompt": 7,
     "temp": 0.0,
     "versao": 3,
+    "essay": 5,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"necessidade¹\" - uso de marcação numérica inadequada no corpo do texto (nota de rodapé inexistente)",
+      "\"consciente, politicamente;²\" - ponto e vírgula inadequado e marcação numérica estranha; a pontuação quebra a fluidez da frase",
+      "\"empecílios\" - grafia incorreta; o correto é \"empecilhos\"",
+      "\"baseia\" - grafia incorreta; o correto é \"baseia\" está correto como forma verbal, porém o contexto sugere \"se baseia\" com possível erro de conjugação/uso; na verdade, a forma correta no presente é \"baseia\", mas o texto usa pretérito, devendo ser \"baseou\" ou \"baseia\" no presente - inconsistência temporal",
+      "\"voltase\" - falta de hífen; o correto é \"volta-se\"",
+      "\"o que de todo modo\" - falta de vírgula após \"que\": \"o que, de todo modo,\""
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara, desenvolvimento articulado e conclusão coerente, demonstrando domínio do tema proposto.",
+      "O candidato dialoga adequadamente com os três textos motivadores, abordando a necessidade de planejamento estratégico de longo prazo, a ambição legítima do Brasil no cenário internacional e a relação entre política externa e desenvolvimento nacional.",
+      "A argumentação é consistente e bem encadeada, articulando fatores internos (redemocratização, estabilidade econômica, inclusão social) com fatores externos (multipolaridade, multilateralismo, reforma da governança global).",
+      "O conceito de 'paciência estratégica' é bem empregado e demonstra sofisticação analítica, embora o texto pudesse explorar mais cenários alternativos e riscos, conforme sugerido pelo Texto I.",
+      "Há alguns erros de pontuação (uso excessivo de vírgulas e vírgulas em posições inadequadas) e erros ortográficos pontuais que comprometem levemente a correção gramatical.",
+      "O texto poderia ter explorado com mais profundidade os cenários alternativos e as hipóteses sobre a evolução da conjuntura mundial, conforme proposto pelo Texto I, em vez de adotar um tom predominantemente otimista sobre a multipolaridade."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
     "essay": 5,
     "ano": "2014"
   },
@@ -2906,6 +2980,58 @@
     "ano": "2014"
   },
   {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"politica\" sem acento agudo — deveria ser \"política\" (erro ortográfico no penúltimo parágrafo)",
+      "\"consolidarse\" sem hífen — deveria ser \"consolidar-se\"",
+      "\"muito teóricos\" — deveria ser \"muitos teóricos\" (erro de concordância nominal)",
+      "Atribuição imprecisa: \"Figueiredo Machado\" em vez de \"Antônio de Aguiar Patriota\" ou outro autor correto do Texto III — embora não seja erro gramatical estrito, compromete a precisão factual"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão, demonstrando domínio da forma dissertativa exigida pelo CACD.",
+      "O candidato dialoga adequadamente com os três textos motivadores, incorporando conceitos como multipolaridade, política externa como instrumento de desenvolvimento e a necessidade de planejamento estratégico de longo prazo.",
+      "A menção a Kenneth Waltz e suas 'imagens' demonstra repertório teórico relevante para a área de Relações Internacionais, embora o nome esteja grafado incorretamente ('Keneth' em vez de 'Kenneth').",
+      "O texto apresenta argumentação consistente ao articular cenários internacionais (multipolaridade, BRICS, G-20) com circunstâncias internas (estabilização econômica, democracia, recursos naturais), respondendo bem ao comando da questão.",
+      "A conclusão é bem construída, retomando a tese central e propondo uma reflexão sobre a necessidade de ação concreta, evitando mero otimismo passivo.",
+      "Ponto de atenção: algumas afirmações carecem de maior problematização — por exemplo, a visão excessivamente otimista sobre o modelo brasileiro de desenvolvimento poderia ser matizada com desafios como desigualdade persistente, desindustrialização e vulnerabilidades institucionais.",
+      "A atribuição de citações a 'Figueiredo Machado' e a referência aos 'Diálogos de Política Externa' parecem imprecisas ou confusas, o que pode comprometer a credibilidade argumentativa.",
+      "Há poucos erros gramaticais, mas os existentes (falta de acento, concordância, hífen) são relevantes no contexto de um concurso de alto nível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"politica\" sem acento agudo — deveria ser \"política\" (erro ortográfico no penúltimo parágrafo)",
+      "\"consolidarse\" sem hífen — deveria ser \"consolidar-se\"",
+      "\"muito teóricos\" — deveria ser \"muitos teóricos\" (erro de concordância nominal)",
+      "Atribuição imprecisa: \"Figueiredo Machado\" em vez de \"Antônio de Aguiar Patriota\" ou outro autor correto do Texto III — embora não seja erro gramatical estrito, compromete a precisão factual"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão, demonstrando domínio da forma dissertativa exigida pelo CACD.",
+      "O candidato dialoga adequadamente com os três textos motivadores, incorporando conceitos como multipolaridade, política externa como instrumento de desenvolvimento e a necessidade de planejamento estratégico de longo prazo.",
+      "A menção a Kenneth Waltz e suas 'imagens' demonstra repertório teórico relevante para a área de Relações Internacionais, embora o nome esteja grafado incorretamente ('Keneth' em vez de 'Kenneth').",
+      "O texto apresenta argumentação consistente ao articular cenários internacionais (multipolaridade, BRICS, G-20) com circunstâncias internas (estabilização econômica, democracia, recursos naturais), respondendo bem ao comando da questão.",
+      "A conclusão é bem construída, retomando a tese central e propondo uma reflexão sobre a necessidade de ação concreta, evitando mero otimismo passivo.",
+      "Ponto de atenção: algumas afirmações carecem de maior problematização — por exemplo, a visão excessivamente otimista sobre o modelo brasileiro de desenvolvimento poderia ser matizada com desafios como desigualdade persistente, desindustrialização e vulnerabilidades institucionais.",
+      "A atribuição de citações a 'Figueiredo Machado' e a referência aos 'Diálogos de Política Externa' parecem imprecisas ou confusas, o que pode comprometer a credibilidade argumentativa.",
+      "Há poucos erros gramaticais, mas os existentes (falta de acento, concordância, hífen) são relevantes no contexto de um concurso de alto nível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 16,
+    "ano": "2014"
+  },
+  {
     "faixa": "Bom",
     "numero_de_erros_gramaticais": 4,
     "erros_gramaticais": [
@@ -3186,6 +3312,32 @@
     "prompt": 9,
     "temp": 0.0,
     "versao": 2,
+    "essay": 17,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "1. 'à tempo' deveria ser 'a tempo' — não há crase antes de palavra masculina ('tempo').",
+      "2. 'económicas' — no português brasileiro, a grafia correta é 'econômicas' (acento circunflexo, não agudo).",
+      "3. 'significa, necessariamente, uma grande complexidade' — falta de concordância ou problema de construção: o sujeito composto ('A amplitude... assim como sua população...') pede verbo no plural ('significam'), ou a frase precisa ser reestruturada.",
+      "4. 'interesses permanentes' seguido de enumeração sem dois-pontos ou vírgula adequada — problema de pontuação (marcado com '1' no texto, sugerindo que o candidato pretendia nota de rodapé ou houve falha).",
+      "5. Vírgula antes de 'significa' separando sujeito do verbo — uso inadequado de pontuação.",
+      "6. 'Balcãs' — a grafia mais consagrada é 'Bálcãs'."
+    ],
+    "feedbacks": [
+      "O texto demonstra boa organização geral, com introdução que contextualiza o tema via Kissinger, desenvolvimento que aborda tanto o cenário internacional quanto as circunstâncias internas, e conclusão que retoma a tese central. A estrutura é lógica e coerente.",
+      "A argumentação é pertinente e demonstra conhecimento de política externa, mencionando atores e conceitos relevantes (Azeredo da Silveira, diplomacia pública, multipolaridade, governança global). Contudo, algumas referências parecem imprecisas: a citação atribuída a Azeredo da Silveira sobre 'novas tendências não antecipadas' não é claramente vinculada ao texto de apoio (Texto I), e o 'chanceler Figueiredo Machado' não é uma referência facilmente identificável, o que pode gerar dúvidas sobre a precisão factual.",
+      "O texto poderia ter explorado com mais profundidade as 'perspectivas de longo prazo' solicitadas pelo enunciado. Embora mencione princípios permanentes e a configuração multipolar, falta uma discussão mais concreta sobre cenários futuros específicos e sobre como o Brasil deveria posicionar-se estrategicamente diante deles.",
+      "A articulação com os textos motivadores é parcial: o Texto I é indiretamente abordado (planejamento e incerteza), o Texto III é mencionado ao final (multipolaridade, política externa como instrumento de desenvolvimento), mas o Texto II (destino de grandeza e ambição) recebe pouca atenção explícita.",
+      "A linguagem é adequada ao gênero dissertativo e ao contexto do CACD, com vocabulário apropriado. Há, porém, alguns deslizes gramaticais e de pontuação que comprometem levemente a qualidade formal do texto.",
+      "A reflexão sobre a complexidade brasileira como vantagem é um ponto interessante e original, mas poderia ter sido mais desenvolvida e conectada de forma mais explícita às perspectivas de longo prazo da política externa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
     "essay": 17,
     "ano": "2014"
   },

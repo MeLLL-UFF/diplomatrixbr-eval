@@ -1241,6 +1241,87 @@
     "ano": "2017"
   },
   {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Falta de aspas de abertura em 'estado de natureza' no primeiro parágrafo: deveria ser \"estado de natureza\".",
+      "'Tolerar é a o princípio' — artigo duplicado ('a o'), deveria ser 'Tolerar é o princípio'.",
+      "'Simbólica dessa processo' — erro de concordância de gênero: deveria ser 'Simbólico desse processo' ou 'Simbólica dessa etapa/fase'.",
+      "'Mesmo que nacionalismo intolerantes sejam inevitáveis' — falta de concordância: deveria ser 'nacionalismos intolerantes'.",
+      "'estabelecida a convivência e a tolerância e compreendidos os benefícios' — falta de concordância: 'estabelecida' deveria ser 'estabelecidas' (sujeito composto posposto, mas a concordância com ambos os núcleos é preferível).",
+      "'imprescíndivel' — erro de ortografia: a grafia correta é 'imprescindível'.",
+      "Falta de aspas de abertura em 'Tolerar o outro e suas diferenças ainda é pouco\\\"' no último parágrafo — deveria ser '\\\"Tolerar o outro...'."
+      ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura argumentativa bem construída, com uma tese clara (a tolerância como primeiro estágio de um processo evolutivo de interação social: conviver, cooperar, solidariedade) que dialoga diretamente com a citação de Saramago sem simplesmente concordar ou discordar, mas propondo uma síntese sofisticada.",
+      "O uso de Hobbes como ponto de partida teórico é pertinente e bem articulado, conectando o conceito de tolerância ao contrato social e à necessidade de convivência. A referência a Hedley Bull e à teoria das relações internacionais demonstra repertório adequado ao CACD.",
+      "Os exemplos históricos (Leis de Nuremberg, consolidação da União Europeia) são bem escolhidos e funcionais para a argumentação, ilustrando tanto os riscos da intolerância quanto os benefícios da cooperação como desdobramento da tolerância.",
+      "A progressão argumentativa em três estágios (tolerância/convivência → cooperação → solidariedade) confere ao texto uma lógica interna coerente e original, embora a parte sobre solidariedade fique menos desenvolvida e o próprio autor reconheça seu caráter utópico.",
+      "Há alguns deslizes gramaticais e de digitação que, embora não comprometam a compreensão, prejudicam a fluência e a correção formal esperada no nível do CACD. Recomenda-se maior atenção à revisão final.",
+      "O texto poderia ter explorado mais a dimensão religiosa da tolerância, mencionada no enunciado, para atender de forma mais completa à proposta. A abordagem ficou concentrada nas dimensões individual e interestatal."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Falta de aspas de abertura em 'estado de natureza' no primeiro parágrafo: deveria ser \"estado de natureza\".",
+      "'Tolerar é a o princípio' — artigo duplicado ('a o'), deveria ser 'Tolerar é o princípio'.",
+      "'Simbólica dessa processo' — erro de concordância de gênero: deveria ser 'Simbólico desse processo' ou 'Simbólica dessa etapa/fase'.",
+      "'Mesmo que nacionalismo intolerantes sejam inevitáveis' — falta de concordância: deveria ser 'nacionalismos intolerantes'.",
+      "'estabelecida a convivência e a tolerância e compreendidos os benefícios' — falta de concordância: 'estabelecida' deveria ser 'estabelecidas' (sujeito composto posposto, mas a concordância com ambos os núcleos é preferível).",
+      "'imprescíndivel' — erro de ortografia: a grafia correta é 'imprescindível'.",
+      "Falta de aspas de abertura em 'Tolerar o outro e suas diferenças ainda é pouco\\\"' no último parágrafo — deveria ser '\\\"Tolerar o outro...'."
+      ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura argumentativa bem construída, com uma tese clara (a tolerância como primeiro estágio de um processo evolutivo de interação social: conviver, cooperar, solidariedade) que dialoga diretamente com a citação de Saramago sem simplesmente concordar ou discordar, mas propondo uma síntese sofisticada.",
+      "O uso de Hobbes como ponto de partida teórico é pertinente e bem articulado, conectando o conceito de tolerância ao contrato social e à necessidade de convivência. A referência a Hedley Bull e à teoria das relações internacionais demonstra repertório adequado ao CACD.",
+      "Os exemplos históricos (Leis de Nuremberg, consolidação da União Europeia) são bem escolhidos e funcionais para a argumentação, ilustrando tanto os riscos da intolerância quanto os benefícios da cooperação como desdobramento da tolerância.",
+      "A progressão argumentativa em três estágios (tolerância/convivência → cooperação → solidariedade) confere ao texto uma lógica interna coerente e original, embora a parte sobre solidariedade fique menos desenvolvida e o próprio autor reconheça seu caráter utópico.",
+      "Há alguns deslizes gramaticais e de digitação que, embora não comprometam a compreensão, prejudicam a fluência e a correção formal esperada no nível do CACD. Recomenda-se maior atenção à revisão final.",
+      "O texto poderia ter explorado mais a dimensão religiosa da tolerância, mencionada no enunciado, para atender de forma mais completa à proposta. A abordagem ficou concentrada nas dimensões individual e interestatal."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Falta de aspas de abertura em 'estado de natureza' no primeiro parágrafo: deveria ser \"estado de natureza\".",
+      "'Tolerar é a o princípio' — artigo duplicado ('a o'), deveria ser 'Tolerar é o princípio'.",
+      "'Simbólica dessa processo' — erro de concordância de gênero: deveria ser 'Simbólico desse processo' ou 'Simbólica dessa etapa/fase'.",
+      "'Mesmo que nacionalismo intolerantes sejam inevitáveis' — falta de concordância: deveria ser 'nacionalismos intolerantes'.",
+      "'estabelecida a convivência e a tolerância e compreendidos os benefícios' — falta de concordância: 'estabelecida' deveria ser 'estabelecidas' (sujeito composto posposto, mas a concordância com ambos os núcleos é preferível).",
+      "'imprescíndivel' — erro de ortografia: a grafia correta é 'imprescindível'.",
+      "Falta de aspas de abertura em 'Tolerar o outro e suas diferenças ainda é pouco\\\"' no último parágrafo — deveria ser '\\\"Tolerar o outro...'."
+      ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura argumentativa bem construída, com uma tese clara (a tolerância como primeiro estágio de um processo evolutivo de interação social: conviver, cooperar, solidariedade) que dialoga diretamente com a citação de Saramago sem simplesmente concordar ou discordar, mas propondo uma síntese sofisticada.",
+      "O uso de Hobbes como ponto de partida teórico é pertinente e bem articulado, conectando o conceito de tolerância ao contrato social e à necessidade de convivência. A referência a Hedley Bull e à teoria das relações internacionais demonstra repertório adequado ao CACD.",
+      "Os exemplos históricos (Leis de Nuremberg, consolidação da União Europeia) são bem escolhidos e funcionais para a argumentação, ilustrando tanto os riscos da intolerância quanto os benefícios da cooperação como desdobramento da tolerância.",
+      "A progressão argumentativa em três estágios (tolerância/convivência → cooperação → solidariedade) confere ao texto uma lógica interna coerente e original, embora a parte sobre solidariedade fique menos desenvolvida e o próprio autor reconheça seu caráter utópico.",
+      "Há alguns deslizes gramaticais e de digitação que, embora não comprometam a compreensão, prejudicam a fluência e a correção formal esperada no nível do CACD. Recomenda-se maior atenção à revisão final.",
+      "O texto poderia ter explorado mais a dimensão religiosa da tolerância, mencionada no enunciado, para atender de forma mais completa à proposta. A abordagem ficou concentrada nas dimensões individual e interestatal."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2017"
+  },
+  {
     "nota_1A": 8.5,
     "nota_1B": 9.0,
     "nota_1C": 9.0,
