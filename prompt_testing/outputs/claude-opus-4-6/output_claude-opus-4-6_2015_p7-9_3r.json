@@ -792,6 +792,78 @@
     "ano": "2015"
   },
   {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'institucionalizarem-se' — erro de conjugação: o correto seria 'institucionalizaram-se' (pretérito perfeito do indicativo, terceira pessoa do plural).",
+      "'formação constitutivo' — erro de concordância nominal: o correto seria 'formação constitutiva'.",
+      "'ao tornar um artista exótico sem nacionalidade' — erro de regência/construção: faltou o pronome reflexivo 'se' ('ao tornar-se') ou a preposição adequada.",
+      "'Não fossem a certeza' — embora esteja no texto-base citado, a construção 'não contrair a moléstia de Nabuco' seguida de 'ao tornar um artista exótico' apresenta problema de paralelismo e clareza na articulação sintática do período."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do texto motivador de Lúcio Cardoso e articula de forma pertinente as ideias do autor com a reflexão sobre o que é ser diplomata brasileiro. A conexão entre identidade nacional e prática diplomática é bem construída.",
+      "O texto apresenta estrutura organizada com parágrafos temáticos bem definidos: identidade nacional, evolução histórica da diplomacia, funções do diplomata, diversidade, e equilíbrio entre nacionalismo e cosmopolitismo. Há encadeamento lógico entre as partes.",
+      "A menção à 'moléstia de Nabuco' e a referência a Lúcio Cardoso demonstram repertório cultural relevante e adequado ao tema. A incorporação de elementos concretos como o Livro Branco, a FUNAG e dados demográficos enriquece a argumentação.",
+      "Embora a argumentação seja competente, em alguns momentos ela se torna mais descritiva do que analítica — por exemplo, ao listar funções diplomáticas ou ao apresentar dados percentuais sem aprofundar a reflexão sobre suas implicações para a identidade do diplomata.",
+      "Há alguns deslizes gramaticais que comprometem pontualmente a qualidade linguística, como 'institucionalizarem-se' (por 'institucionalizaram-se') e 'formação constitutivo' (por 'constitutiva'). Recomenda-se revisão cuidadosa.",
+      "A conclusão é sólida e retoma adequadamente a tensão entre idealismo e pragmatismo, conferindo unidade ao texto. Contudo, a redação poderia ganhar em profundidade se explorasse com mais originalidade o vínculo existencial entre o diplomata e sua terra, tema central do texto motivador."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'institucionalizarem-se' — erro de conjugação: o correto seria 'institucionalizaram-se' (pretérito perfeito do indicativo, terceira pessoa do plural).",
+      "'formação constitutivo' — erro de concordância nominal: o correto seria 'formação constitutiva'.",
+      "'ao tornar um artista exótico sem nacionalidade' — erro de regência/construção: faltou o pronome reflexivo 'se' ('ao tornar-se') ou a preposição adequada.",
+      "'Não fossem a certeza' — embora esteja no texto-base citado, a construção 'não contrair a moléstia de Nabuco' seguida de 'ao tornar um artista exótico' apresenta problema de paralelismo e clareza na articulação sintática do período."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do texto motivador de Lúcio Cardoso e articula de forma pertinente as ideias do autor com a reflexão sobre o que é ser diplomata brasileiro. A conexão entre identidade nacional e prática diplomática é bem construída.",
+      "O texto apresenta estrutura organizada com parágrafos temáticos bem definidos: identidade nacional, evolução histórica da diplomacia, funções do diplomata, diversidade, e equilíbrio entre nacionalismo e cosmopolitismo. Há encadeamento lógico entre as partes.",
+      "A menção à 'moléstia de Nabuco' e a referência a Lúcio Cardoso demonstram repertório cultural relevante e adequado ao tema. A incorporação de elementos concretos como o Livro Branco, a FUNAG e dados demográficos enriquece a argumentação.",
+      "Embora a argumentação seja competente, em alguns momentos ela se torna mais descritiva do que analítica — por exemplo, ao listar funções diplomáticas ou ao apresentar dados percentuais sem aprofundar a reflexão sobre suas implicações para a identidade do diplomata.",
+      "Há alguns deslizes gramaticais que comprometem pontualmente a qualidade linguística, como 'institucionalizarem-se' (por 'institucionalizaram-se') e 'formação constitutivo' (por 'constitutiva'). Recomenda-se revisão cuidadosa.",
+      "A conclusão é sólida e retoma adequadamente a tensão entre idealismo e pragmatismo, conferindo unidade ao texto. Contudo, a redação poderia ganhar em profundidade se explorasse com mais originalidade o vínculo existencial entre o diplomata e sua terra, tema central do texto motivador."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'institucionalizarem-se' — erro de conjugação: o correto seria 'institucionalizaram-se' (pretérito perfeito do indicativo, terceira pessoa do plural).",
+      "'formação constitutivo' — erro de concordância nominal: o correto seria 'formação constitutiva'.",
+      "'ao tornar um artista exótico sem nacionalidade' — erro de regência/construção: faltou o pronome reflexivo 'se' ('ao tornar-se') ou a preposição adequada.",
+      "'Não fossem a certeza' — embora esteja no texto-base citado, a construção 'não contrair a moléstia de Nabuco' seguida de 'ao tornar um artista exótico' apresenta problema de paralelismo e clareza na articulação sintática do período."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do texto motivador de Lúcio Cardoso e articula de forma pertinente as ideias do autor com a reflexão sobre o que é ser diplomata brasileiro. A conexão entre identidade nacional e prática diplomática é bem construída.",
+      "O texto apresenta estrutura organizada com parágrafos temáticos bem definidos: identidade nacional, evolução histórica da diplomacia, funções do diplomata, diversidade, e equilíbrio entre nacionalismo e cosmopolitismo. Há encadeamento lógico entre as partes.",
+      "A menção à 'moléstia de Nabuco' e a referência a Lúcio Cardoso demonstram repertório cultural relevante e adequado ao tema. A incorporação de elementos concretos como o Livro Branco, a FUNAG e dados demográficos enriquece a argumentação.",
+      "Embora a argumentação seja competente, em alguns momentos ela se torna mais descritiva do que analítica — por exemplo, ao listar funções diplomáticas ou ao apresentar dados percentuais sem aprofundar a reflexão sobre suas implicações para a identidade do diplomata.",
+      "Há alguns deslizes gramaticais que comprometem pontualmente a qualidade linguística, como 'institucionalizarem-se' (por 'institucionalizaram-se') e 'formação constitutivo' (por 'constitutiva'). Recomenda-se revisão cuidadosa.",
+      "A conclusão é sólida e retoma adequadamente a tensão entre idealismo e pragmatismo, conferindo unidade ao texto. Contudo, a redação poderia ganhar em profundidade se explorasse com mais originalidade o vínculo existencial entre o diplomata e sua terra, tema central do texto motivador."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2015"
+  },
+  {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
     "nota_1C": 9.0,
@@ -1137,6 +1209,75 @@
     "ano": "2015"
   },
   {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "[1] 'delinea-se' – a forma correta é 'delineia-se' (verbo 'delinear' conjugado na 3ª pessoa do singular do presente do indicativo).",
+      "[2] 'baseam-se' – a forma correta é 'baseiam-se' (verbo 'basear' conjugado na 3ª pessoa do plural do presente do indicativo).",
+      "[3] 'a discussão feita' – construção vaga e coloquial; seria preferível 'a discussão empreendida ao longo deste texto' ou 'a argumentação desenvolvida'. Além disso, 'servir a nação' no último parágrafo deveria ser 'servir à nação' (regência do verbo 'servir' com crase)."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara, com introdução, desenvolvimento em três parágrafos temáticos e conclusão, o que demonstra organização textual adequada.",
+      "O candidato dialoga com o texto-base de Lúcio Cardoso, extraindo ideias como a necessidade de identificação com a terra natal e a crítica aos 'pregadores do espírito nacional', e as aplica ao contexto diplomático. Contudo, esse diálogo poderia ser mais aprofundado e orgânico, pois em alguns momentos as citações do texto motivador parecem inseridas de forma mecânica.",
+      "A argumentação é pertinente, mas relativamente previsível: conhecer o Brasil, ter boa formação profissional e compreender a conjuntura internacional são pontos esperados e pouco originais. Faltou maior reflexão filosófica ou existencial sobre o que significa 'ser' diplomata brasileiro, dimensão que o texto de Lúcio Cardoso claramente convida a explorar (identidade, pertencimento, raízes, angústia existencial).",
+      "A menção a dados concretos (percentual de negros no serviço público, COP, Agenda pós-2015, PEI, Pragmatismo Ecumênico) demonstra repertório, mas alguns desses exemplos ficam superficiais e não são suficientemente articulados com a tese central.",
+      "Os erros de conjugação verbal ('delinea-se', 'baseam-se') são falhas relevantes para o nível do CACD, pois envolvem formas verbais básicas. A ausência de crase em 'servir a nação' também é um deslize de regência.",
+      "O texto poderia explorar com mais profundidade a tensão entre universalismo e particularismo, entre o cosmopolitismo inerente à carreira diplomática e o enraizamento nacional que Lúcio Cardoso defende — essa seria uma reflexão mais sofisticada e alinhada ao espírito do enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "[1] 'delinea-se' – a forma correta é 'delineia-se' (verbo 'delinear' conjugado na 3ª pessoa do singular do presente do indicativo).",
+      "[2] 'baseam-se' – a forma correta é 'baseiam-se' (verbo 'basear' conjugado na 3ª pessoa do plural do presente do indicativo).",
+      "[3] 'a discussão feita' – construção vaga e coloquial; seria preferível 'a discussão empreendida ao longo deste texto' ou 'a argumentação desenvolvida'. Além disso, 'servir a nação' no último parágrafo deveria ser 'servir à nação' (regência do verbo 'servir' com crase)."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara, com introdução, desenvolvimento em três parágrafos temáticos e conclusão, o que demonstra organização textual adequada.",
+      "O candidato dialoga com o texto-base de Lúcio Cardoso, extraindo ideias como a necessidade de identificação com a terra natal e a crítica aos 'pregadores do espírito nacional', e as aplica ao contexto diplomático. Contudo, esse diálogo poderia ser mais aprofundado e orgânico, pois em alguns momentos as citações do texto motivador parecem inseridas de forma mecânica.",
+      "A argumentação é pertinente, mas relativamente previsível: conhecer o Brasil, ter boa formação profissional e compreender a conjuntura internacional são pontos esperados e pouco originais. Faltou maior reflexão filosófica ou existencial sobre o que significa 'ser' diplomata brasileiro, dimensão que o texto de Lúcio Cardoso claramente convida a explorar (identidade, pertencimento, raízes, angústia existencial).",
+      "A menção a dados concretos (percentual de negros no serviço público, COP, Agenda pós-2015, PEI, Pragmatismo Ecumênico) demonstra repertório, mas alguns desses exemplos ficam superficiais e não são suficientemente articulados com a tese central.",
+      "Os erros de conjugação verbal ('delinea-se', 'baseam-se') são falhas relevantes para o nível do CACD, pois envolvem formas verbais básicas. A ausência de crase em 'servir a nação' também é um deslize de regência.",
+      "O texto poderia explorar com mais profundidade a tensão entre universalismo e particularismo, entre o cosmopolitismo inerente à carreira diplomática e o enraizamento nacional que Lúcio Cardoso defende — essa seria uma reflexão mais sofisticada e alinhada ao espírito do enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "[1] 'delinea-se' – a forma correta é 'delineia-se' (verbo 'delinear' conjugado na 3ª pessoa do singular do presente do indicativo).",
+      "[2] 'baseam-se' – a forma correta é 'baseiam-se' (verbo 'basear' conjugado na 3ª pessoa do plural do presente do indicativo).",
+      "[3] 'a discussão feita' – construção vaga e coloquial; seria preferível 'a discussão empreendida ao longo deste texto' ou 'a argumentação desenvolvida'. Além disso, 'servir a nação' no último parágrafo deveria ser 'servir à nação' (regência do verbo 'servir' com crase)."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara, com introdução, desenvolvimento em três parágrafos temáticos e conclusão, o que demonstra organização textual adequada.",
+      "O candidato dialoga com o texto-base de Lúcio Cardoso, extraindo ideias como a necessidade de identificação com a terra natal e a crítica aos 'pregadores do espírito nacional', e as aplica ao contexto diplomático. Contudo, esse diálogo poderia ser mais aprofundado e orgânico, pois em alguns momentos as citações do texto motivador parecem inseridas de forma mecânica.",
+      "A argumentação é pertinente, mas relativamente previsível: conhecer o Brasil, ter boa formação profissional e compreender a conjuntura internacional são pontos esperados e pouco originais. Faltou maior reflexão filosófica ou existencial sobre o que significa 'ser' diplomata brasileiro, dimensão que o texto de Lúcio Cardoso claramente convida a explorar (identidade, pertencimento, raízes, angústia existencial).",
+      "A menção a dados concretos (percentual de negros no serviço público, COP, Agenda pós-2015, PEI, Pragmatismo Ecumênico) demonstra repertório, mas alguns desses exemplos ficam superficiais e não são suficientemente articulados com a tese central.",
+      "Os erros de conjugação verbal ('delinea-se', 'baseam-se') são falhas relevantes para o nível do CACD, pois envolvem formas verbais básicas. A ausência de crase em 'servir a nação' também é um deslize de regência.",
+      "O texto poderia explorar com mais profundidade a tensão entre universalismo e particularismo, entre o cosmopolitismo inerente à carreira diplomática e o enraizamento nacional que Lúcio Cardoso defende — essa seria uma reflexão mais sofisticada e alinhada ao espírito do enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2015"
+  },
+  {
     "nota_1A": 8.5,
     "nota_1B": 8.5,
     "nota_1C": 7.5,
@@ -1209,6 +1350,78 @@
     ],
     "modelo": "claude-opus-4-6",
     "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "[1] Uso inadequado da vírgula antes de 'sentindo-se parte da coletividade, representá-la' — a construção com 'para' seguida de gerúndio e infinitivo gera ambiguidade sintática e quebra na fluidez.",
+      "[2] Falta do artigo antes de 'Diplomacia Pública': 'de modo a conduzir a Diplomacia Pública'.",
+      "[3] Vírgula desnecessária antes de 'para que a política externa contribua' — separa indevidamente o verbo de seu complemento oracional.",
+      "[4] Erro de ortografia/concordância: 'representa-las' deveria ser 'representá-los' (com acento no infinitivo e pronome masculino plural para referir-se a 'brasileiros')."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que enuncia a tese, desenvolvimento em parágrafos bem estruturados e conclusão coerente. O candidato demonstra domínio do formato dissertativo-argumentativo.",
+      "O texto dialoga de forma competente com o enunciado, referenciando Lucio Cardoso e conectando a reflexão sobre identidade nacional ao ofício diplomático. A menção a outros autores (Darcy Ribeiro, Mário de Andrade, José de Alencar) enriquece a argumentação.",
+      "O candidato demonstra conhecimento institucional relevante ao mencionar os Diálogos de Política Externa, a Diplomacia Pública e declarações do chanceler Mauro Vieira, o que confere concretude à argumentação.",
+      "A articulação entre identidade nacional, multiculturalidade e dever de servir como eixos do que significa ser diplomata brasileiro é bem construída e coerente com as ideias do texto-base.",
+      "Ponto de melhoria: a redação poderia explorar com maior profundidade a tensão presente no texto de Lucio Cardoso entre a busca por raízes e o sentimento de carência/desenraizamento, aplicando-a de forma mais nuançada à condição do diplomata que vive no exterior.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. Os poucos erros gramaticais identificados não comprometem significativamente a qualidade do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "[1] Uso inadequado da vírgula antes de 'sentindo-se parte da coletividade, representá-la' — a construção com 'para' seguida de gerúndio e infinitivo gera ambiguidade sintática e quebra na fluidez.",
+      "[2] Falta do artigo antes de 'Diplomacia Pública': 'de modo a conduzir a Diplomacia Pública'.",
+      "[3] Vírgula desnecessária antes de 'para que a política externa contribua' — separa indevidamente o verbo de seu complemento oracional.",
+      "[4] Erro de ortografia/concordância: 'representa-las' deveria ser 'representá-los' (com acento no infinitivo e pronome masculino plural para referir-se a 'brasileiros')."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que enuncia a tese, desenvolvimento em parágrafos bem estruturados e conclusão coerente. O candidato demonstra domínio do formato dissertativo-argumentativo.",
+      "O texto dialoga de forma competente com o enunciado, referenciando Lucio Cardoso e conectando a reflexão sobre identidade nacional ao ofício diplomático. A menção a outros autores (Darcy Ribeiro, Mário de Andrade, José de Alencar) enriquece a argumentação.",
+      "O candidato demonstra conhecimento institucional relevante ao mencionar os Diálogos de Política Externa, a Diplomacia Pública e declarações do chanceler Mauro Vieira, o que confere concretude à argumentação.",
+      "A articulação entre identidade nacional, multiculturalidade e dever de servir como eixos do que significa ser diplomata brasileiro é bem construída e coerente com as ideias do texto-base.",
+      "Ponto de melhoria: a redação poderia explorar com maior profundidade a tensão presente no texto de Lucio Cardoso entre a busca por raízes e o sentimento de carência/desenraizamento, aplicando-a de forma mais nuançada à condição do diplomata que vive no exterior.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. Os poucos erros gramaticais identificados não comprometem significativamente a qualidade do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "[1] Uso inadequado da vírgula antes de 'sentindo-se parte da coletividade, representá-la' — a construção com 'para' seguida de gerúndio e infinitivo gera ambiguidade sintática e quebra na fluidez.",
+      "[2] Falta do artigo antes de 'Diplomacia Pública': 'de modo a conduzir a Diplomacia Pública'.",
+      "[3] Vírgula desnecessária antes de 'para que a política externa contribua' — separa indevidamente o verbo de seu complemento oracional.",
+      "[4] Erro de ortografia/concordância: 'representa-las' deveria ser 'representá-los' (com acento no infinitivo e pronome masculino plural para referir-se a 'brasileiros')."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que enuncia a tese, desenvolvimento em parágrafos bem estruturados e conclusão coerente. O candidato demonstra domínio do formato dissertativo-argumentativo.",
+      "O texto dialoga de forma competente com o enunciado, referenciando Lucio Cardoso e conectando a reflexão sobre identidade nacional ao ofício diplomático. A menção a outros autores (Darcy Ribeiro, Mário de Andrade, José de Alencar) enriquece a argumentação.",
+      "O candidato demonstra conhecimento institucional relevante ao mencionar os Diálogos de Política Externa, a Diplomacia Pública e declarações do chanceler Mauro Vieira, o que confere concretude à argumentação.",
+      "A articulação entre identidade nacional, multiculturalidade e dever de servir como eixos do que significa ser diplomata brasileiro é bem construída e coerente com as ideias do texto-base.",
+      "Ponto de melhoria: a redação poderia explorar com maior profundidade a tensão presente no texto de Lucio Cardoso entre a busca por raízes e o sentimento de carência/desenraizamento, aplicando-a de forma mais nuançada à condição do diplomata que vive no exterior.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. Os poucos erros gramaticais identificados não comprometem significativamente a qualidade do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
     "temp": 0.0,
     "versao": 3,
     "essay": 7,
@@ -1368,6 +1581,90 @@
     ],
     "modelo": "claude-opus-4-6",
     "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"Embora a definição apresentada enfatiza\" — após 'embora', o verbo deve estar no subjuntivo: 'enfatize'.",
+      "\"João de Cabral Melo Neto\" — o nome correto é 'João Cabral de Melo Neto'.",
+      "\"Essaú e Jacó\" — a grafia correta é 'Esaú e Jacó'.",
+      "\"respectivamente monarquistas e republicano\" — falta de concordância: deveria ser 'monarquista e republicano' (ambos no singular) ou 'monarquistas e republicanos' (ambos no plural).",
+      "\"todos os seus esforços tem como objetivo\" — falta de concordância verbal: 'têm' (plural).",
+      "\"a melhora da vida dos nacionais\" — embora aceitável, 'melhoria' seria mais adequado no registro formal.",
+      "\"po vo\" e \"a s consequência s\" — espaços indevidos nas palavras 'povo' e 'as consequências' (possível erro de digitação)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura argumentativa, com introdução clara, desenvolvimento em múltiplos parágrafos temáticos e conclusão que retoma o texto motivador de Lúcio Cardoso.",
+      "O candidato demonstra conhecimento relevante sobre política externa brasileira, mencionando referências históricas (Barão do Rio Branco, Campos Sales) e literárias (Conselheiro Aires, Guimarães Rosa, Vinícius de Moraes).",
+      "A articulação entre o texto motivador e a discussão sobre o diplomata brasileiro é bem conduzida, especialmente na conclusão, ao vincular o destino do diplomata à terra natal.",
+      "O desenvolvimento do tema é abrangente, abordando dimensões culturais, econômicas, políticas e sociais da identidade do diplomata brasileiro.",
+      "Há erros gramaticais pontuais que comprometem levemente a qualidade linguística, como o uso do indicativo após 'embora' e a falta de concordância verbal com 'têm'.",
+      "O erro no nome de João Cabral de Melo Neto e na grafia de 'Esaú e Jacó' são falhas factuais que prejudicam a credibilidade das referências culturais.",
+      "A reflexão poderia ter explorado com maior profundidade a tensão entre cosmopolitismo e enraizamento nacional presente no texto de Lúcio Cardoso, que é central ao enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"Embora a definição apresentada enfatiza\" — após 'embora', o verbo deve estar no subjuntivo: 'enfatize'.",
+      "\"João de Cabral Melo Neto\" — o nome correto é 'João Cabral de Melo Neto'.",
+      "\"Essaú e Jacó\" — a grafia correta é 'Esaú e Jacó'.",
+      "\"respectivamente monarquistas e republicano\" — falta de concordância: deveria ser 'monarquista e republicano' (ambos no singular) ou 'monarquistas e republicanos' (ambos no plural).",
+      "\"todos os seus esforços tem como objetivo\" — falta de concordância verbal: 'têm' (plural).",
+      "\"a melhora da vida dos nacionais\" — embora aceitável, 'melhoria' seria mais adequado no registro formal.",
+      "\"po vo\" e \"a s consequência s\" — espaços indevidos nas palavras 'povo' e 'as consequências' (possível erro de digitação)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura argumentativa, com introdução clara, desenvolvimento em múltiplos parágrafos temáticos e conclusão que retoma o texto motivador de Lúcio Cardoso.",
+      "O candidato demonstra conhecimento relevante sobre política externa brasileira, mencionando referências históricas (Barão do Rio Branco, Campos Sales) e literárias (Conselheiro Aires, Guimarães Rosa, Vinícius de Moraes).",
+      "A articulação entre o texto motivador e a discussão sobre o diplomata brasileiro é bem conduzida, especialmente na conclusão, ao vincular o destino do diplomata à terra natal.",
+      "O desenvolvimento do tema é abrangente, abordando dimensões culturais, econômicas, políticas e sociais da identidade do diplomata brasileiro.",
+      "Há erros gramaticais pontuais que comprometem levemente a qualidade linguística, como o uso do indicativo após 'embora' e a falta de concordância verbal com 'têm'.",
+      "O erro no nome de João Cabral de Melo Neto e na grafia de 'Esaú e Jacó' são falhas factuais que prejudicam a credibilidade das referências culturais.",
+      "A reflexão poderia ter explorado com maior profundidade a tensão entre cosmopolitismo e enraizamento nacional presente no texto de Lúcio Cardoso, que é central ao enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"Embora a definição apresentada enfatiza\" — após 'embora', o verbo deve estar no subjuntivo: 'enfatize'.",
+      "\"João de Cabral Melo Neto\" — o nome correto é 'João Cabral de Melo Neto'.",
+      "\"Essaú e Jacó\" — a grafia correta é 'Esaú e Jacó'.",
+      "\"respectivamente monarquistas e republicano\" — falta de concordância: deveria ser 'monarquista e republicano' (ambos no singular) ou 'monarquistas e republicanos' (ambos no plural).",
+      "\"todos os seus esforços tem como objetivo\" — falta de concordância verbal: 'têm' (plural).",
+      "\"a melhora da vida dos nacionais\" — embora aceitável, 'melhoria' seria mais adequado no registro formal.",
+      "\"po vo\" e \"a s consequência s\" — espaços indevidos nas palavras 'povo' e 'as consequências' (possível erro de digitação)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura argumentativa, com introdução clara, desenvolvimento em múltiplos parágrafos temáticos e conclusão que retoma o texto motivador de Lúcio Cardoso.",
+      "O candidato demonstra conhecimento relevante sobre política externa brasileira, mencionando referências históricas (Barão do Rio Branco, Campos Sales) e literárias (Conselheiro Aires, Guimarães Rosa, Vinícius de Moraes).",
+      "A articulação entre o texto motivador e a discussão sobre o diplomata brasileiro é bem conduzida, especialmente na conclusão, ao vincular o destino do diplomata à terra natal.",
+      "O desenvolvimento do tema é abrangente, abordando dimensões culturais, econômicas, políticas e sociais da identidade do diplomata brasileiro.",
+      "Há erros gramaticais pontuais que comprometem levemente a qualidade linguística, como o uso do indicativo após 'embora' e a falta de concordância verbal com 'têm'.",
+      "O erro no nome de João Cabral de Melo Neto e na grafia de 'Esaú e Jacó' são falhas factuais que prejudicam a credibilidade das referências culturais.",
+      "A reflexão poderia ter explorado com maior profundidade a tensão entre cosmopolitismo e enraizamento nacional presente no texto de Lúcio Cardoso, que é central ao enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
     "temp": 0.0,
     "versao": 3,
     "essay": 8,
@@ -2791,6 +3088,144 @@
     ],
     "modelo": "claude-opus-4-6",
     "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de acento em 'a sua produção artística' — deveria ser 'à sua produção artística' (crase facultativa, mas recomendável pelo contexto formal).",
+      "Em 'com a democratização' falta complemento ou especificação temporal (ex.: 'com a democratização do regime político brasileiro'), o que gera imprecisão.",
+      "Em 'divergem em relação a política públicas essenciais' — falta crase: 'em relação a políticas públicas' (plural sem artigo está correto, mas 'política' deveria ser 'políticas' — erro de concordância: 'política públicas').",
+      "Em 'contribui, crescentemente para a consolidação' — falta vírgula após 'crescentemente': 'contribui, crescentemente, para a consolidação'."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando de forma consistente as ideias do texto-base de Lúcio Cardoso com a atividade diplomática brasileira.",
+      "O candidato mobiliza referências pertinentes e variadas (Alberto da Costa e Silva, Barão do Rio Branco, Mário de Andrade, Machado de Assis, Synésio Sampaio, Caillères, Mauro Vieira), o que enriquece significativamente a argumentação.",
+      "A estrutura do texto é bem organizada, com parágrafos temáticos claros: representação nacional, democratização da política externa, promoção do desenvolvimento e conclusão histórica.",
+      "O diálogo com o texto motivador poderia ser mais aprofundado — embora haja menção a Lúcio Cardoso no segundo parágrafo, a reflexão sobre as ideias específicas do excerto (a angústia identitária, o enraizamento, a recusa ao cosmopolitismo vazio) poderia ser mais explorada ao longo de toda a redação.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e vocabulário preciso. Poucos erros gramaticais foram identificados, o que demonstra bom domínio da norma culta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de acento em 'a sua produção artística' — deveria ser 'à sua produção artística' (crase facultativa, mas recomendável pelo contexto formal).",
+      "Em 'com a democratização' falta complemento ou especificação temporal (ex.: 'com a democratização do regime político brasileiro'), o que gera imprecisão.",
+      "Em 'divergem em relação a política públicas essenciais' — falta crase: 'em relação a políticas públicas' (plural sem artigo está correto, mas 'política' deveria ser 'políticas' — erro de concordância: 'política públicas').",
+      "Em 'contribui, crescentemente para a consolidação' — falta vírgula após 'crescentemente': 'contribui, crescentemente, para a consolidação'."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando de forma consistente as ideias do texto-base de Lúcio Cardoso com a atividade diplomática brasileira.",
+      "O candidato mobiliza referências pertinentes e variadas (Alberto da Costa e Silva, Barão do Rio Branco, Mário de Andrade, Machado de Assis, Synésio Sampaio, Caillères, Mauro Vieira), o que enriquece significativamente a argumentação.",
+      "A estrutura do texto é bem organizada, com parágrafos temáticos claros: representação nacional, democratização da política externa, promoção do desenvolvimento e conclusão histórica.",
+      "O diálogo com o texto motivador poderia ser mais aprofundado — embora haja menção a Lúcio Cardoso no segundo parágrafo, a reflexão sobre as ideias específicas do excerto (a angústia identitária, o enraizamento, a recusa ao cosmopolitismo vazio) poderia ser mais explorada ao longo de toda a redação.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e vocabulário preciso. Poucos erros gramaticais foram identificados, o que demonstra bom domínio da norma culta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de acento em 'a sua produção artística' — deveria ser 'à sua produção artística' (crase facultativa, mas recomendável pelo contexto formal).",
+      "Em 'com a democratização' falta complemento ou especificação temporal (ex.: 'com a democratização do regime político brasileiro'), o que gera imprecisão.",
+      "Em 'divergem em relação a política públicas essenciais' — falta crase: 'em relação a políticas públicas' (plural sem artigo está correto, mas 'política' deveria ser 'políticas' — erro de concordância: 'política públicas').",
+      "Em 'contribui, crescentemente para a consolidação' — falta vírgula após 'crescentemente': 'contribui, crescentemente, para a consolidação'."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando de forma consistente as ideias do texto-base de Lúcio Cardoso com a atividade diplomática brasileira.",
+      "O candidato mobiliza referências pertinentes e variadas (Alberto da Costa e Silva, Barão do Rio Branco, Mário de Andrade, Machado de Assis, Synésio Sampaio, Caillères, Mauro Vieira), o que enriquece significativamente a argumentação.",
+      "A estrutura do texto é bem organizada, com parágrafos temáticos claros: representação nacional, democratização da política externa, promoção do desenvolvimento e conclusão histórica.",
+      "O diálogo com o texto motivador poderia ser mais aprofundado — embora haja menção a Lúcio Cardoso no segundo parágrafo, a reflexão sobre as ideias específicas do excerto (a angústia identitária, o enraizamento, a recusa ao cosmopolitismo vazio) poderia ser mais explorada ao longo de toda a redação.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e vocabulário preciso. Poucos erros gramaticais foram identificados, o que demonstra bom domínio da norma culta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de acento em 'a sua produção artística' — deveria ser 'à sua produção artística' (crase antes de possessivo feminino, embora facultativa, há inconsistência de estilo).",
+      "Em 'divergem em relação a política públicas essenciais', falta crase: 'em relação a políticas públicas' ou 'em relação à política pública' — além de 'política públicas' apresentar erro de concordância (deveria ser 'políticas públicas').",
+      "Em 'crescentemente para a consolidação', falta vírgula após 'crescentemente' — o advérbio intercalado exige par de vírgulas: 'crescentemente, para a consolidação'.",
+      "Em 'com a democratização o diplomata brasileiro ganhou', falta vírgula após 'democratização' para isolar o adjunto adverbial deslocado."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa articulação argumentativa e estrutura lógica clara, com introdução, desenvolvimento em múltiplos eixos temáticos e conclusão. O candidato dialoga com o texto-base de Lúcio Cardoso de forma pertinente, transpondo a reflexão sobre identidade nacional do escritor para o universo diplomático.",
+      "O uso de referências diversificadas (Alberto da Costa e Silva, Barão do Rio Branco, Machado de Assis, Synésio Sampaio, Mauro Vieira, Caillères) enriquece a argumentação e demonstra repertório cultural compatível com o concurso. No entanto, algumas referências são inseridas de forma um pouco mecânica, sem aprofundamento analítico suficiente.",
+      "O texto poderia explorar com maior profundidade a tensão presente no texto-base entre identidade nacional e universalismo, que é central à reflexão de Lúcio Cardoso. A discussão sobre democracia e formulação de política externa, embora pertinente, afasta-se parcialmente do cerne do enunciado, que pede uma reflexão mais existencial e identitária sobre o que é ser diplomata brasileiro.",
+      "A linguagem é adequada ao contexto, com vocabulário preciso e registro formal. Há poucos deslizes gramaticais, mas o erro de concordância ('política públicas') é significativo. A coesão textual é bem trabalhada, com uso adequado de conectivos.",
+      "A conclusão, embora funcional, é breve e poderia retomar de forma mais orgânica as ideias do texto-base, fechando o arco argumentativo com maior força reflexiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de acento em 'a sua produção artística' — deveria ser 'à sua produção artística' (crase antes de possessivo feminino, embora facultativa, há inconsistência de estilo).",
+      "Em 'divergem em relação a política públicas essenciais', falta crase: 'em relação a políticas públicas' ou 'em relação à política pública' — além de 'política públicas' apresentar erro de concordância (deveria ser 'políticas públicas').",
+      "Em 'crescentemente para a consolidação', falta vírgula após 'crescentemente' — o advérbio intercalado exige par de vírgulas: 'crescentemente, para a consolidação'.",
+      "Em 'com a democratização o diplomata brasileiro ganhou', falta vírgula após 'democratização' para isolar o adjunto adverbial deslocado."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa articulação argumentativa e estrutura lógica clara, com introdução, desenvolvimento em múltiplos eixos temáticos e conclusão. O candidato dialoga com o texto-base de Lúcio Cardoso de forma pertinente, transpondo a reflexão sobre identidade nacional do escritor para o universo diplomático.",
+      "O uso de referências diversificadas (Alberto da Costa e Silva, Barão do Rio Branco, Machado de Assis, Synésio Sampaio, Mauro Vieira, Caillères) enriquece a argumentação e demonstra repertório cultural compatível com o concurso. No entanto, algumas referências são inseridas de forma um pouco mecânica, sem aprofundamento analítico suficiente.",
+      "O texto poderia explorar com maior profundidade a tensão presente no texto-base entre identidade nacional e universalismo, que é central à reflexão de Lúcio Cardoso. A discussão sobre democracia e formulação de política externa, embora pertinente, afasta-se parcialmente do cerne do enunciado, que pede uma reflexão mais existencial e identitária sobre o que é ser diplomata brasileiro.",
+      "A linguagem é adequada ao contexto, com vocabulário preciso e registro formal. Há poucos deslizes gramaticais, mas o erro de concordância ('política públicas') é significativo. A coesão textual é bem trabalhada, com uso adequado de conectivos.",
+      "A conclusão, embora funcional, é breve e poderia retomar de forma mais orgânica as ideias do texto-base, fechando o arco argumentativo com maior força reflexiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 15,
+    "ano": "2015"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de acento em 'a sua produção artística' — deveria ser 'à sua produção artística' (crase antes de possessivo feminino, embora facultativa, há inconsistência de estilo).",
+      "Em 'divergem em relação a política públicas essenciais', falta crase: 'em relação a políticas públicas' ou 'em relação à política pública' — além de 'política públicas' apresentar erro de concordância (deveria ser 'políticas públicas').",
+      "Em 'crescentemente para a consolidação', falta vírgula após 'crescentemente' — o advérbio intercalado exige par de vírgulas: 'crescentemente, para a consolidação'.",
+      "Em 'com a democratização o diplomata brasileiro ganhou', falta vírgula após 'democratização' para isolar o adjunto adverbial deslocado."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa articulação argumentativa e estrutura lógica clara, com introdução, desenvolvimento em múltiplos eixos temáticos e conclusão. O candidato dialoga com o texto-base de Lúcio Cardoso de forma pertinente, transpondo a reflexão sobre identidade nacional do escritor para o universo diplomático.",
+      "O uso de referências diversificadas (Alberto da Costa e Silva, Barão do Rio Branco, Machado de Assis, Synésio Sampaio, Mauro Vieira, Caillères) enriquece a argumentação e demonstra repertório cultural compatível com o concurso. No entanto, algumas referências são inseridas de forma um pouco mecânica, sem aprofundamento analítico suficiente.",
+      "O texto poderia explorar com maior profundidade a tensão presente no texto-base entre identidade nacional e universalismo, que é central à reflexão de Lúcio Cardoso. A discussão sobre democracia e formulação de política externa, embora pertinente, afasta-se parcialmente do cerne do enunciado, que pede uma reflexão mais existencial e identitária sobre o que é ser diplomata brasileiro.",
+      "A linguagem é adequada ao contexto, com vocabulário preciso e registro formal. Há poucos deslizes gramaticais, mas o erro de concordância ('política públicas') é significativo. A coesão textual é bem trabalhada, com uso adequado de conectivos.",
+      "A conclusão, embora funcional, é breve e poderia retomar de forma mais orgânica as ideias do texto-base, fechando o arco argumentativo com maior força reflexiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
     "temp": 0.0,
     "versao": 3,
     "essay": 15,
