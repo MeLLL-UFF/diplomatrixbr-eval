@@ -520,6 +520,81 @@
     "ano": "2014"
   },
   {
+    "nota_final": 50.00,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'não se esgotam a questões' — regência incorreta; o correto seria 'não se esgotam em questões'",
+      "'diretorgeral' — falta de hífen; o correto é 'diretor-geral'",
+      "'tanto no âmbito político quanto econômico' — falta de paralelismo; preferível 'tanto no âmbito político quanto no econômico'",
+      "'a sociedade civil faz' — possível erro de concordância verbal com sujeito composto 'diplomatas' e 'sociedade civil'; o verbo deveria estar no plural 'fazem'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em dois eixos (interno e externo) e conclusão coerente.",
+      "O uso de exemplos concretos (manifestações de junho de 2013, eleição de Roberto Azevêdo para a OMC, reforma do CSNU) enriquece a argumentação e demonstra conhecimento da política externa brasileira.",
+      "A integração dos textos motivadores é feita de forma natural e competente, sem mera paráfrase.",
+      "O vocabulário é sofisticado e adequado ao contexto diplomático, com uso pertinente de termos como 'aggiornamento' e 'pleitos'.",
+      "Ponto de melhoria: a argumentação poderia ser mais equilibrada, apresentando também desafios, riscos e cenários alternativos menos otimistas, conforme sugerido pelo próprio Texto I sobre a formulação de 'hipóteses alternativas'.",
+      "A identificação do chanceler como 'Figueiredo Machado' pode conter imprecisão; embora Luiz Alberto Figueiredo Machado tenha sido chanceler, a referência poderia ser mais precisa.",
+      "A conclusão retoma adequadamente os argumentos e oferece uma síntese coerente, embora pudesse ser mais analítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 50.00,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'não se esgotam a questões' — regência incorreta; o correto seria 'não se esgotam em questões'",
+      "'diretorgeral' — falta de hífen; o correto é 'diretor-geral'",
+      "'tanto no âmbito político quanto econômico' — falta de paralelismo; preferível 'tanto no âmbito político quanto no econômico'",
+      "'a sociedade civil faz' — possível erro de concordância verbal com sujeito composto 'diplomatas' e 'sociedade civil'; o verbo deveria estar no plural 'fazem'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em dois eixos (interno e externo) e conclusão coerente.",
+      "O uso de exemplos concretos (manifestações de junho de 2013, eleição de Roberto Azevêdo para a OMC, reforma do CSNU) enriquece a argumentação e demonstra conhecimento da política externa brasileira.",
+      "A integração dos textos motivadores é feita de forma natural e competente, sem mera paráfrase.",
+      "O vocabulário é sofisticado e adequado ao contexto diplomático, com uso pertinente de termos como 'aggiornamento' e 'pleitos'.",
+      "Ponto de melhoria: a argumentação poderia ser mais equilibrada, apresentando também desafios, riscos e cenários alternativos menos otimistas, conforme sugerido pelo próprio Texto I sobre a formulação de 'hipóteses alternativas'.",
+      "A identificação do chanceler como 'Figueiredo Machado' pode conter imprecisão; embora Luiz Alberto Figueiredo Machado tenha sido chanceler, a referência poderia ser mais precisa.",
+      "A conclusão retoma adequadamente os argumentos e oferece uma síntese coerente, embora pudesse ser mais analítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 50.00,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'não se esgotam a questões' — regência incorreta; o correto seria 'não se esgotam em questões'",
+      "'diretorgeral' — falta de hífen; o correto é 'diretor-geral'",
+      "'tanto no âmbito político quanto econômico' — falta de paralelismo; preferível 'tanto no âmbito político quanto no econômico'",
+      "'a sociedade civil faz' — possível erro de concordância verbal com sujeito composto 'diplomatas' e 'sociedade civil'; o verbo deveria estar no plural 'fazem'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em dois eixos (interno e externo) e conclusão coerente.",
+      "O uso de exemplos concretos (manifestações de junho de 2013, eleição de Roberto Azevêdo para a OMC, reforma do CSNU) enriquece a argumentação e demonstra conhecimento da política externa brasileira.",
+      "A integração dos textos motivadores é feita de forma natural e competente, sem mera paráfrase.",
+      "O vocabulário é sofisticado e adequado ao contexto diplomático, com uso pertinente de termos como 'aggiornamento' e 'pleitos'.",
+      "Ponto de melhoria: a argumentação poderia ser mais equilibrada, apresentando também desafios, riscos e cenários alternativos menos otimistas, conforme sugerido pelo próprio Texto I sobre a formulação de 'hipóteses alternativas'.",
+      "A identificação do chanceler como 'Figueiredo Machado' pode conter imprecisão; embora Luiz Alberto Figueiredo Machado tenha sido chanceler, a referência poderia ser mais precisa.",
+      "A conclusão retoma adequadamente os argumentos e oferece uma síntese coerente, embora pudesse ser mais analítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2014"
+  },
+  {
     "faixa": "Ótimo",
     "numero_de_erros_gramaticais": 2,
     "erros_gramaticais": [
@@ -1198,6 +1273,81 @@
     "ano": "2014"
   },
   {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de acento circunflexo ou erro de digitação em 'solucionálos' — o correto é 'solucioná-los' (com hífen).",
+      "Erro de concordância verbal: 'o êxito das políticas brasileiras (...) estão transformando' — o sujeito é 'o êxito', portanto o verbo deveria ser 'está transformando'.",
+      "Falta de acento agudo em 'politica' (marcado pelo próprio autor com ²) — o correto é 'política'.",
+      "Erro de concordância nominal: 'presentes nos Diálogo sobre Política Externa' — o correto seria 'presentes nos Diálogos sobre Política Externa' ou 'no Diálogo sobre Política Externa'.",
+      "Erro de concordância: 'a ação histórica do país era caracterizada sobretudo por atitude demandantes' — o correto seria 'por atitudes demandantes' ou 'por atitude demandante'."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução que antecipa as três perspectivas (coerência, diálogo ampliado e multilateralismo), desenvolvimento que as explora e conclusão que retoma o argumento central. Essa arquitetura demonstra planejamento textual.",
+      "O candidato dialoga adequadamente com os três textos motivadores, incorporando referências a Azeredo da Silveira (Texto II), à multipolaridade (Texto III) e ao planejamento prospectivo (Texto I), o que demonstra boa compreensão do enunciado.",
+      "As referências históricas (Honório Hermeto Carneiro Leão, Barão do Rio Branco, universalização nos anos 1960) e literárias (Saramago, João Cabral de Melo Neto) enriquecem a argumentação e demonstram repertório cultural relevante para o CACD.",
+      "Há, contudo, certa tendência a um tom excessivamente otimista e laudatório em relação à política externa brasileira, sem explorar com profundidade as tensões, contradições e riscos que os próprios textos motivadores sugerem (o Texto I, por exemplo, enfatiza a necessidade de hipóteses alternativas e a incerteza). Uma análise mais equilibrada, que considerasse cenários adversos ou limitações estruturais, conferiria maior sofisticação argumentativa.",
+      "A menção ao Livro Branco da Política Externa e aos Diálogos sobre Política Externa é pertinente, mas a argumentação poderia ter sido aprofundada com análise mais crítica sobre a efetividade desses instrumentos, em vez de apenas mencioná-los como evidências positivas.",
+      "Os erros gramaticais identificados, embora poucos, incluem falhas de concordância verbal e nominal que comprometem levemente a qualidade linguística esperada no nível do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de acento circunflexo ou erro de digitação em 'solucionálos' — o correto é 'solucioná-los' (com hífen).",
+      "Erro de concordância verbal: 'o êxito das políticas brasileiras (...) estão transformando' — o sujeito é 'o êxito', portanto o verbo deveria ser 'está transformando'.",
+      "Falta de acento agudo em 'politica' (marcado pelo próprio autor com ²) — o correto é 'política'.",
+      "Erro de concordância nominal: 'presentes nos Diálogo sobre Política Externa' — o correto seria 'presentes nos Diálogos sobre Política Externa' ou 'no Diálogo sobre Política Externa'.",
+      "Erro de concordância: 'a ação histórica do país era caracterizada sobretudo por atitude demandantes' — o correto seria 'por atitudes demandantes' ou 'por atitude demandante'."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução que antecipa as três perspectivas (coerência, diálogo ampliado e multilateralismo), desenvolvimento que as explora e conclusão que retoma o argumento central. Essa arquitetura demonstra planejamento textual.",
+      "O candidato dialoga adequadamente com os três textos motivadores, incorporando referências a Azeredo da Silveira (Texto II), à multipolaridade (Texto III) e ao planejamento prospectivo (Texto I), o que demonstra boa compreensão do enunciado.",
+      "As referências históricas (Honório Hermeto Carneiro Leão, Barão do Rio Branco, universalização nos anos 1960) e literárias (Saramago, João Cabral de Melo Neto) enriquecem a argumentação e demonstram repertório cultural relevante para o CACD.",
+      "Há, contudo, certa tendência a um tom excessivamente otimista e laudatório em relação à política externa brasileira, sem explorar com profundidade as tensões, contradições e riscos que os próprios textos motivadores sugerem (o Texto I, por exemplo, enfatiza a necessidade de hipóteses alternativas e a incerteza). Uma análise mais equilibrada, que considerasse cenários adversos ou limitações estruturais, conferiria maior sofisticação argumentativa.",
+      "A menção ao Livro Branco da Política Externa e aos Diálogos sobre Política Externa é pertinente, mas a argumentação poderia ter sido aprofundada com análise mais crítica sobre a efetividade desses instrumentos, em vez de apenas mencioná-los como evidências positivas.",
+      "Os erros gramaticais identificados, embora poucos, incluem falhas de concordância verbal e nominal que comprometem levemente a qualidade linguística esperada no nível do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de acento circunflexo ou erro de digitação em 'solucionálos' — o correto é 'solucioná-los' (com hífen).",
+      "Erro de concordância verbal: 'o êxito das políticas brasileiras (...) estão transformando' — o sujeito é 'o êxito', portanto o verbo deveria ser 'está transformando'.",
+      "Falta de acento agudo em 'politica' (marcado pelo próprio autor com ²) — o correto é 'política'.",
+      "Erro de concordância nominal: 'presentes nos Diálogo sobre Política Externa' — o correto seria 'presentes nos Diálogos sobre Política Externa' ou 'no Diálogo sobre Política Externa'.",
+      "Erro de concordância: 'a ação histórica do país era caracterizada sobretudo por atitude demandantes' — o correto seria 'por atitudes demandantes' ou 'por atitude demandante'."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução que antecipa as três perspectivas (coerência, diálogo ampliado e multilateralismo), desenvolvimento que as explora e conclusão que retoma o argumento central. Essa arquitetura demonstra planejamento textual.",
+      "O candidato dialoga adequadamente com os três textos motivadores, incorporando referências a Azeredo da Silveira (Texto II), à multipolaridade (Texto III) e ao planejamento prospectivo (Texto I), o que demonstra boa compreensão do enunciado.",
+      "As referências históricas (Honório Hermeto Carneiro Leão, Barão do Rio Branco, universalização nos anos 1960) e literárias (Saramago, João Cabral de Melo Neto) enriquecem a argumentação e demonstram repertório cultural relevante para o CACD.",
+      "Há, contudo, certa tendência a um tom excessivamente otimista e laudatório em relação à política externa brasileira, sem explorar com profundidade as tensões, contradições e riscos que os próprios textos motivadores sugerem (o Texto I, por exemplo, enfatiza a necessidade de hipóteses alternativas e a incerteza). Uma análise mais equilibrada, que considerasse cenários adversos ou limitações estruturais, conferiria maior sofisticação argumentativa.",
+      "A menção ao Livro Branco da Política Externa e aos Diálogos sobre Política Externa é pertinente, mas a argumentação poderia ter sido aprofundada com análise mais crítica sobre a efetividade desses instrumentos, em vez de apenas mencioná-los como evidências positivas.",
+      "Os erros gramaticais identificados, embora poucos, incluem falhas de concordância verbal e nominal que comprometem levemente a qualidade linguística esperada no nível do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2014"
+  },
+  {
     "nota_1A": 8.5,
     "nota_1B": 7.5,
     "nota_1C": 6.5,
@@ -1481,6 +1631,168 @@
     ],
     "modelo": "claude-opus-4-6",
     "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 42.50,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'aliaça' em vez de 'aliança' — erro ortográfico (falta do 'n')",
+      "'conforme afirmas o embaixador' — deveria ser 'conforme afirma o embaixador' (erro de conjugação verbal)",
+      "'nãoproliferação' — deveria ser 'não proliferação' ou 'não-proliferação' (falta de espaço ou hífen)",
+      "'África e Ásia vem se tornando' — deveria ser 'vêm' (concordância verbal no plural)",
+      "Falta de vírgula após 'problemas ambientais' antes de 'a diplomacia brasileira' (oração subordinada intercalada)",
+      "Uso de marcadores de nota de rodapé (¹, ², ³) inadequados no corpo de uma redação dissertativa formal"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em três eixos temáticos e conclusão articulada.",
+      "O conhecimento de história diplomática brasileira é sólido, com referências pertinentes a Azeredo da Silveira, Barão do Rio Branco, Bradford Burns e Gelson Fonseca Júnior.",
+      "O eixo argumentativo sobre combate ao racismo como perspectiva de longo prazo da política externa é interessante, mas poderia ser mais bem fundamentado como diretriz efetivamente diplomática, e não apenas interna.",
+      "A dimensão prospectiva e estratégica enfatizada nos Textos I e III poderia ter sido mais explorada — a redação poderia ter discutido cenários alternativos e hipóteses sobre a evolução da conjuntura internacional.",
+      "Os erros gramaticais, embora não numerosos, incluem falhas de concordância verbal e ortografia que comprometem a qualidade formal esperada no CACD.",
+      "Os marcadores de rodapé no corpo do texto são inadequados para o formato de redação dissertativa e prejudicam a apresentação formal."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 42.50,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'aliaça' em vez de 'aliança' — erro ortográfico (falta do 'n')",
+      "'conforme afirmas o embaixador' — deveria ser 'conforme afirma o embaixador' (erro de conjugação verbal)",
+      "'nãoproliferação' — deveria ser 'não proliferação' ou 'não-proliferação' (falta de espaço ou hífen)",
+      "'África e Ásia vem se tornando' — deveria ser 'vêm' (concordância verbal no plural)",
+      "Falta de vírgula após 'problemas ambientais' antes de 'a diplomacia brasileira' (oração subordinada intercalada)",
+      "Uso de marcadores de nota de rodapé (¹, ², ³) inadequados no corpo de uma redação dissertativa formal"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em três eixos temáticos e conclusão articulada.",
+      "O conhecimento de história diplomática brasileira é sólido, com referências pertinentes a Azeredo da Silveira, Barão do Rio Branco, Bradford Burns e Gelson Fonseca Júnior.",
+      "O eixo argumentativo sobre combate ao racismo como perspectiva de longo prazo da política externa é interessante, mas poderia ser mais bem fundamentado como diretriz efetivamente diplomática, e não apenas interna.",
+      "A dimensão prospectiva e estratégica enfatizada nos Textos I e III poderia ter sido mais explorada — a redação poderia ter discutido cenários alternativos e hipóteses sobre a evolução da conjuntura internacional.",
+      "Os erros gramaticais, embora não numerosos, incluem falhas de concordância verbal e ortografia que comprometem a qualidade formal esperada no CACD.",
+      "Os marcadores de rodapé no corpo do texto são inadequados para o formato de redação dissertativa e prejudicam a apresentação formal."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "nota_final": 42.50,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'aliaça' em vez de 'aliança' — erro ortográfico (falta do 'n')",
+      "'conforme afirmas o embaixador' — deveria ser 'conforme afirma o embaixador' (erro de conjugação verbal)",
+      "'nãoproliferação' — deveria ser 'não proliferação' ou 'não-proliferação' (falta de espaço ou hífen)",
+      "'África e Ásia vem se tornando' — deveria ser 'vêm' (concordância verbal no plural)",
+      "Falta de vírgula após 'problemas ambientais' antes de 'a diplomacia brasileira' (oração subordinada intercalada)",
+      "Uso de marcadores de nota de rodapé (¹, ², ³) inadequados no corpo de uma redação dissertativa formal"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em três eixos temáticos e conclusão articulada.",
+      "O conhecimento de história diplomática brasileira é sólido, com referências pertinentes a Azeredo da Silveira, Barão do Rio Branco, Bradford Burns e Gelson Fonseca Júnior.",
+      "O eixo argumentativo sobre combate ao racismo como perspectiva de longo prazo da política externa é interessante, mas poderia ser mais bem fundamentado como diretriz efetivamente diplomática, e não apenas interna.",
+      "A dimensão prospectiva e estratégica enfatizada nos Textos I e III poderia ter sido mais explorada — a redação poderia ter discutido cenários alternativos e hipóteses sobre a evolução da conjuntura internacional.",
+      "Os erros gramaticais, embora não numerosos, incluem falhas de concordância verbal e ortografia que comprometem a qualidade formal esperada no CACD.",
+      "Os marcadores de rodapé no corpo do texto são inadequados para o formato de redação dissertativa e prejudicam a apresentação formal."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'aliaça' – grafia incorreta; o correto é 'aliança'.",
+      "'não-escrita' – conforme o Acordo Ortográfico vigente, o correto é 'não escrita' (sem hífen).",
+      "'nãoproliferação' – grafia incorreta; o correto é 'não proliferação' ou 'não-proliferação' (com hífen, por ser termo consagrado).",
+      "'conforme afirmas o embaixador' – erro de concordância/digitação; o correto é 'conforme afirma o embaixador'.",
+      "Falta de vírgula após 'problemas ambientais' na oração 'quanto aos problemas ambientais a diplomacia brasileira consegue' – necessária vírgula para isolar a oração subordinada.",
+      "'África e Ásia vem se tornando' – erro de concordância verbal; o correto é 'vêm' (terceira pessoa do plural).",
+      "'favoreceria o surgimento' – o uso do condicional parece inadequado no contexto; seria mais preciso 'favorece' ou 'favorecerá', embora possa ser considerado estilístico."
+    ],
+    "feedbacks": [
+      "A redação demonstra conhecimento relevante da história diplomática brasileira, com referências pertinentes a Azeredo da Silveira, Barão do Rio Branco, Bradford Burns e Gelson Fonseca Júnior, o que enriquece a argumentação.",
+      "A estrutura do texto é clara, com introdução, desenvolvimento em três eixos temáticos (desenvolvimento sustentável, meio ambiente e combate ao racismo) e conclusão articulada. Essa organização facilita a leitura e demonstra planejamento textual.",
+      "A articulação com os textos motivadores é razoável, mas poderia ser mais explícita e aprofundada. O Texto I, por exemplo, convida à formulação de hipóteses alternativas sobre cenários futuros, e a redação não explora suficientemente essa dimensão prospectiva e analítica.",
+      "A argumentação sobre o combate ao racismo como perspectiva de longo prazo da política externa é interessante e original, mas a conexão entre política interna (desigualdades raciais, democracia racial de Freyre) e projeção externa poderia ser mais bem fundamentada e desenvolvida.",
+      "A conclusão, embora retome os três eixos, é algo apressada e genérica. A menção à diversidade do quadro funcional do Itamaraty como solução para melhorar a análise de conjunturas futuras é uma ideia válida, mas insuficientemente desenvolvida para sustentar o peso argumentativo que lhe é atribuído.",
+      "A redação carece de maior profundidade analítica sobre os cenários internacionais futuros — multipolaridade, desafios geopolíticos, transição energética, competição entre grandes potências — que são centrais ao enunciado. A abordagem permanece em nível relativamente superficial quanto à dimensão prospectiva exigida.",
+      "Há alguns erros gramaticais e de digitação que, embora não comprometam gravemente a compreensão, prejudicam a impressão de domínio pleno da norma culta esperada no CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'aliaça' – grafia incorreta; o correto é 'aliança'.",
+      "'não-escrita' – conforme o Acordo Ortográfico vigente, o correto é 'não escrita' (sem hífen).",
+      "'nãoproliferação' – grafia incorreta; o correto é 'não proliferação' ou 'não-proliferação' (com hífen, por ser termo consagrado).",
+      "'conforme afirmas o embaixador' – erro de concordância/digitação; o correto é 'conforme afirma o embaixador'.",
+      "Falta de vírgula após 'problemas ambientais' na oração 'quanto aos problemas ambientais a diplomacia brasileira consegue' – necessária vírgula para isolar a oração subordinada.",
+      "'África e Ásia vem se tornando' – erro de concordância verbal; o correto é 'vêm' (terceira pessoa do plural).",
+      "'favoreceria o surgimento' – o uso do condicional parece inadequado no contexto; seria mais preciso 'favorece' ou 'favorecerá', embora possa ser considerado estilístico."
+    ],
+    "feedbacks": [
+      "A redação demonstra conhecimento relevante da história diplomática brasileira, com referências pertinentes a Azeredo da Silveira, Barão do Rio Branco, Bradford Burns e Gelson Fonseca Júnior, o que enriquece a argumentação.",
+      "A estrutura do texto é clara, com introdução, desenvolvimento em três eixos temáticos (desenvolvimento sustentável, meio ambiente e combate ao racismo) e conclusão articulada. Essa organização facilita a leitura e demonstra planejamento textual.",
+      "A articulação com os textos motivadores é razoável, mas poderia ser mais explícita e aprofundada. O Texto I, por exemplo, convida à formulação de hipóteses alternativas sobre cenários futuros, e a redação não explora suficientemente essa dimensão prospectiva e analítica.",
+      "A argumentação sobre o combate ao racismo como perspectiva de longo prazo da política externa é interessante e original, mas a conexão entre política interna (desigualdades raciais, democracia racial de Freyre) e projeção externa poderia ser mais bem fundamentada e desenvolvida.",
+      "A conclusão, embora retome os três eixos, é algo apressada e genérica. A menção à diversidade do quadro funcional do Itamaraty como solução para melhorar a análise de conjunturas futuras é uma ideia válida, mas insuficientemente desenvolvida para sustentar o peso argumentativo que lhe é atribuído.",
+      "A redação carece de maior profundidade analítica sobre os cenários internacionais futuros — multipolaridade, desafios geopolíticos, transição energética, competição entre grandes potências — que são centrais ao enunciado. A abordagem permanece em nível relativamente superficial quanto à dimensão prospectiva exigida.",
+      "Há alguns erros gramaticais e de digitação que, embora não comprometam gravemente a compreensão, prejudicam a impressão de domínio pleno da norma culta esperada no CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'aliaça' – grafia incorreta; o correto é 'aliança'.",
+      "'não-escrita' – conforme o Acordo Ortográfico vigente, o correto é 'não escrita' (sem hífen).",
+      "'nãoproliferação' – grafia incorreta; o correto é 'não proliferação' ou 'não-proliferação' (com hífen, por ser termo consagrado).",
+      "'conforme afirmas o embaixador' – erro de concordância/digitação; o correto é 'conforme afirma o embaixador'.",
+      "Falta de vírgula após 'problemas ambientais' na oração 'quanto aos problemas ambientais a diplomacia brasileira consegue' – necessária vírgula para isolar a oração subordinada.",
+      "'África e Ásia vem se tornando' – erro de concordância verbal; o correto é 'vêm' (terceira pessoa do plural).",
+      "'favoreceria o surgimento' – o uso do condicional parece inadequado no contexto; seria mais preciso 'favorece' ou 'favorecerá', embora possa ser considerado estilístico."
+    ],
+    "feedbacks": [
+      "A redação demonstra conhecimento relevante da história diplomática brasileira, com referências pertinentes a Azeredo da Silveira, Barão do Rio Branco, Bradford Burns e Gelson Fonseca Júnior, o que enriquece a argumentação.",
+      "A estrutura do texto é clara, com introdução, desenvolvimento em três eixos temáticos (desenvolvimento sustentável, meio ambiente e combate ao racismo) e conclusão articulada. Essa organização facilita a leitura e demonstra planejamento textual.",
+      "A articulação com os textos motivadores é razoável, mas poderia ser mais explícita e aprofundada. O Texto I, por exemplo, convida à formulação de hipóteses alternativas sobre cenários futuros, e a redação não explora suficientemente essa dimensão prospectiva e analítica.",
+      "A argumentação sobre o combate ao racismo como perspectiva de longo prazo da política externa é interessante e original, mas a conexão entre política interna (desigualdades raciais, democracia racial de Freyre) e projeção externa poderia ser mais bem fundamentada e desenvolvida.",
+      "A conclusão, embora retome os três eixos, é algo apressada e genérica. A menção à diversidade do quadro funcional do Itamaraty como solução para melhorar a análise de conjunturas futuras é uma ideia válida, mas insuficientemente desenvolvida para sustentar o peso argumentativo que lhe é atribuído.",
+      "A redação carece de maior profundidade analítica sobre os cenários internacionais futuros — multipolaridade, desafios geopolíticos, transição energética, competição entre grandes potências — que são centrais ao enunciado. A abordagem permanece em nível relativamente superficial quanto à dimensão prospectiva exigida.",
+      "Há alguns erros gramaticais e de digitação que, embora não comprometam gravemente a compreensão, prejudicam a impressão de domínio pleno da norma culta esperada no CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
     "temp": 0.0,
     "versao": 3,
     "essay": 8,
@@ -1830,6 +2142,75 @@
     ],
     "modelo": "claude-opus-4-6",
     "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância: 'O significativo desenvolvimento socioeconômico obtido pelo Brasil, nas últimas décadas, credenciam-no' — o sujeito 'desenvolvimento' é singular, devendo ser 'credencia-no' (credencia-o).",
+      "Troca de preposição/conjunção: 'atuação coerente a principista' — o correto seria 'coerente e principista' (uso de 'a' no lugar de 'e').",
+      "Uso inadequado de vírgula antes de 'como país emergente' em 'favorece a posição externa do Brasil, como país emergente, permitindo-lhe' — embora aceitável como aposto, a construção gera ambiguidade e quebra desnecessária do fluxo."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara e bem organizada, com introdução, desenvolvimento em parágrafos temáticos (dimensão interna, institucional, externa e cooperação) e conclusão. O encadeamento lógico é competente.",
+      "O texto dialoga adequadamente com os três fragmentos do enunciado, incorporando conceitos como 'destino de grandeza', a importância do planejamento estratégico e a multipolaridade. Contudo, a articulação com os textos motivadores poderia ser mais aprofundada e crítica.",
+      "A argumentação é pertinente, mas predominantemente descritiva e previsível. Falta maior problematização: o texto não discute riscos, contradições ou cenários alternativos para a política externa brasileira, como sugere o Texto I ao mencionar 'hipóteses alternativas'. A perspectiva é quase exclusivamente otimista, sem considerar desafios como instabilidade política interna, limitações orçamentárias, tensões comerciais ou dificuldades de reforma do Conselho de Segurança.",
+      "A atribuição do 'destino de grandeza' a Azeredo da Silveira é imprecisa — a expressão é mais comumente associada a outros contextos da tradição diplomática brasileira, embora Silveira tenha sido um importante chanceler. O Texto II não atribui autoria explícita.",
+      "A linguagem é adequada ao gênero e ao contexto do CACD, com vocabulário apropriado. Os erros gramaticais identificados são pontuais, mas o erro de concordância é significativo.",
+      "A conclusão é funcional, porém repete em grande medida o que já foi dito na introdução e no desenvolvimento, sem acrescentar uma reflexão final mais elaborada ou original."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância: 'O significativo desenvolvimento socioeconômico obtido pelo Brasil, nas últimas décadas, credenciam-no' — o sujeito 'desenvolvimento' é singular, devendo ser 'credencia-no' (credencia-o).",
+      "Troca de preposição/conjunção: 'atuação coerente a principista' — o correto seria 'coerente e principista' (uso de 'a' no lugar de 'e').",
+      "Uso inadequado de vírgula antes de 'como país emergente' em 'favorece a posição externa do Brasil, como país emergente, permitindo-lhe' — embora aceitável como aposto, a construção gera ambiguidade e quebra desnecessária do fluxo."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara e bem organizada, com introdução, desenvolvimento em parágrafos temáticos (dimensão interna, institucional, externa e cooperação) e conclusão. O encadeamento lógico é competente.",
+      "O texto dialoga adequadamente com os três fragmentos do enunciado, incorporando conceitos como 'destino de grandeza', a importância do planejamento estratégico e a multipolaridade. Contudo, a articulação com os textos motivadores poderia ser mais aprofundada e crítica.",
+      "A argumentação é pertinente, mas predominantemente descritiva e previsível. Falta maior problematização: o texto não discute riscos, contradições ou cenários alternativos para a política externa brasileira, como sugere o Texto I ao mencionar 'hipóteses alternativas'. A perspectiva é quase exclusivamente otimista, sem considerar desafios como instabilidade política interna, limitações orçamentárias, tensões comerciais ou dificuldades de reforma do Conselho de Segurança.",
+      "A atribuição do 'destino de grandeza' a Azeredo da Silveira é imprecisa — a expressão é mais comumente associada a outros contextos da tradição diplomática brasileira, embora Silveira tenha sido um importante chanceler. O Texto II não atribui autoria explícita.",
+      "A linguagem é adequada ao gênero e ao contexto do CACD, com vocabulário apropriado. Os erros gramaticais identificados são pontuais, mas o erro de concordância é significativo.",
+      "A conclusão é funcional, porém repete em grande medida o que já foi dito na introdução e no desenvolvimento, sem acrescentar uma reflexão final mais elaborada ou original."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2014"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância: 'O significativo desenvolvimento socioeconômico obtido pelo Brasil, nas últimas décadas, credenciam-no' — o sujeito 'desenvolvimento' é singular, devendo ser 'credencia-no' (credencia-o).",
+      "Troca de preposição/conjunção: 'atuação coerente a principista' — o correto seria 'coerente e principista' (uso de 'a' no lugar de 'e').",
+      "Uso inadequado de vírgula antes de 'como país emergente' em 'favorece a posição externa do Brasil, como país emergente, permitindo-lhe' — embora aceitável como aposto, a construção gera ambiguidade e quebra desnecessária do fluxo."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara e bem organizada, com introdução, desenvolvimento em parágrafos temáticos (dimensão interna, institucional, externa e cooperação) e conclusão. O encadeamento lógico é competente.",
+      "O texto dialoga adequadamente com os três fragmentos do enunciado, incorporando conceitos como 'destino de grandeza', a importância do planejamento estratégico e a multipolaridade. Contudo, a articulação com os textos motivadores poderia ser mais aprofundada e crítica.",
+      "A argumentação é pertinente, mas predominantemente descritiva e previsível. Falta maior problematização: o texto não discute riscos, contradições ou cenários alternativos para a política externa brasileira, como sugere o Texto I ao mencionar 'hipóteses alternativas'. A perspectiva é quase exclusivamente otimista, sem considerar desafios como instabilidade política interna, limitações orçamentárias, tensões comerciais ou dificuldades de reforma do Conselho de Segurança.",
+      "A atribuição do 'destino de grandeza' a Azeredo da Silveira é imprecisa — a expressão é mais comumente associada a outros contextos da tradição diplomática brasileira, embora Silveira tenha sido um importante chanceler. O Texto II não atribui autoria explícita.",
+      "A linguagem é adequada ao gênero e ao contexto do CACD, com vocabulário apropriado. Os erros gramaticais identificados são pontuais, mas o erro de concordância é significativo.",
+      "A conclusão é funcional, porém repete em grande medida o que já foi dito na introdução e no desenvolvimento, sem acrescentar uma reflexão final mais elaborada ou original."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
     "temp": 0.0,
     "versao": 3,
     "essay": 10,

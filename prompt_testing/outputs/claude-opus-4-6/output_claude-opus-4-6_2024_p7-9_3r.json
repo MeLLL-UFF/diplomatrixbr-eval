@@ -149,6 +149,78 @@
     "ano": "2024"
   },
   {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva no sentido de 'Além de' — embora compreensível, é um hispanismo inadequado na norma culta do português ('Além de liderar por meio do exemplo...').",
+      "'desmatamento ambiental' — redundância/imprecisão, pois desmatamento já é um fenômeno ambiental; o adjetivo é desnecessário e semanticamente impreciso.",
+      "Espaço duplo antes de 'o país possui parcerias' — embora seja erro tipográfico e não gramatical propriamente, compromete a apresentação formal."
+    ],
+    "feedbacks": [
+      "O texto é bem organizado, com introdução, desenvolvimento e conclusão claramente delimitados, e mantém coerência ao longo de toda a argumentação. A estrutura em parágrafos temáticos facilita a leitura.",
+      "O candidato demonstra compreensão adequada do enunciado, articulando os três eixos exigidos: atualidade das ideias de José Bonifácio, mudanças climáticas/desmatamento e a responsabilidade diplomática brasileira no contexto da COP 30.",
+      "Ponto fraco principal: a argumentação é repetitiva. A ideia de que 'as palavras de Bonifácio são atuais' e de que 'o Brasil está comprometido com a sustentabilidade' é reiterada diversas vezes sem aprofundamento substancial. Há pouca variação de argumento entre os parágrafos, o que dá ao texto um caráter circular.",
+      "Falta profundidade analítica: o texto não explora com densidade conceitos como responsabilidades comuns porém diferenciadas, financiamento climático, NDCs, papel dos países desenvolvidos, tensões entre soberania e governança ambiental global, nem dados concretos sobre desmatamento ou emissões. A menção ao Acordo de Paris e às parcerias com países africanos é superficial.",
+      "A conexão entre o texto de José Bonifácio e a argumentação contemporânea poderia ser mais sofisticada — o candidato cita o trecho sobre umidade e prados, mas não desenvolve com rigor a relação com os 'rios voadores' amazônicos ou com a ciência climática atual, perdendo oportunidade de demonstrar conhecimento mais aprofundado.",
+      "O domínio da norma culta é bom, com poucos deslizes. A linguagem é adequada ao contexto, embora por vezes genérica e pouco precisa em termos diplomáticos ou técnicos.",
+      "Para alcançar faixas superiores, o candidato deveria evitar repetições, aprofundar a análise com dados e conceitos específicos, e demonstrar maior sofisticação argumentativa e originalidade na abordagem do tema."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva no sentido de 'Além de' — embora compreensível, é um hispanismo inadequado na norma culta do português ('Além de liderar por meio do exemplo...').",
+      "'desmatamento ambiental' — redundância/imprecisão, pois desmatamento já é um fenômeno ambiental; o adjetivo é desnecessário e semanticamente impreciso.",
+      "Espaço duplo antes de 'o país possui parcerias' — embora seja erro tipográfico e não gramatical propriamente, compromete a apresentação formal."
+    ],
+    "feedbacks": [
+      "O texto é bem organizado, com introdução, desenvolvimento e conclusão claramente delimitados, e mantém coerência ao longo de toda a argumentação. A estrutura em parágrafos temáticos facilita a leitura.",
+      "O candidato demonstra compreensão adequada do enunciado, articulando os três eixos exigidos: atualidade das ideias de José Bonifácio, mudanças climáticas/desmatamento e a responsabilidade diplomática brasileira no contexto da COP 30.",
+      "Ponto fraco principal: a argumentação é repetitiva. A ideia de que 'as palavras de Bonifácio são atuais' e de que 'o Brasil está comprometido com a sustentabilidade' é reiterada diversas vezes sem aprofundamento substancial. Há pouca variação de argumento entre os parágrafos, o que dá ao texto um caráter circular.",
+      "Falta profundidade analítica: o texto não explora com densidade conceitos como responsabilidades comuns porém diferenciadas, financiamento climático, NDCs, papel dos países desenvolvidos, tensões entre soberania e governança ambiental global, nem dados concretos sobre desmatamento ou emissões. A menção ao Acordo de Paris e às parcerias com países africanos é superficial.",
+      "A conexão entre o texto de José Bonifácio e a argumentação contemporânea poderia ser mais sofisticada — o candidato cita o trecho sobre umidade e prados, mas não desenvolve com rigor a relação com os 'rios voadores' amazônicos ou com a ciência climática atual, perdendo oportunidade de demonstrar conhecimento mais aprofundado.",
+      "O domínio da norma culta é bom, com poucos deslizes. A linguagem é adequada ao contexto, embora por vezes genérica e pouco precisa em termos diplomáticos ou técnicos.",
+      "Para alcançar faixas superiores, o candidato deveria evitar repetições, aprofundar a análise com dados e conceitos específicos, e demonstrar maior sofisticação argumentativa e originalidade na abordagem do tema."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva no sentido de 'Além de' — embora compreensível, é um hispanismo inadequado na norma culta do português ('Além de liderar por meio do exemplo...').",
+      "'desmatamento ambiental' — redundância/imprecisão, pois desmatamento já é um fenômeno ambiental; o adjetivo é desnecessário e semanticamente impreciso.",
+      "Espaço duplo antes de 'o país possui parcerias' — embora seja erro tipográfico e não gramatical propriamente, compromete a apresentação formal."
+    ],
+    "feedbacks": [
+      "O texto é bem organizado, com introdução, desenvolvimento e conclusão claramente delimitados, e mantém coerência ao longo de toda a argumentação. A estrutura em parágrafos temáticos facilita a leitura.",
+      "O candidato demonstra compreensão adequada do enunciado, articulando os três eixos exigidos: atualidade das ideias de José Bonifácio, mudanças climáticas/desmatamento e a responsabilidade diplomática brasileira no contexto da COP 30.",
+      "Ponto fraco principal: a argumentação é repetitiva. A ideia de que 'as palavras de Bonifácio são atuais' e de que 'o Brasil está comprometido com a sustentabilidade' é reiterada diversas vezes sem aprofundamento substancial. Há pouca variação de argumento entre os parágrafos, o que dá ao texto um caráter circular.",
+      "Falta profundidade analítica: o texto não explora com densidade conceitos como responsabilidades comuns porém diferenciadas, financiamento climático, NDCs, papel dos países desenvolvidos, tensões entre soberania e governança ambiental global, nem dados concretos sobre desmatamento ou emissões. A menção ao Acordo de Paris e às parcerias com países africanos é superficial.",
+      "A conexão entre o texto de José Bonifácio e a argumentação contemporânea poderia ser mais sofisticada — o candidato cita o trecho sobre umidade e prados, mas não desenvolve com rigor a relação com os 'rios voadores' amazônicos ou com a ciência climática atual, perdendo oportunidade de demonstrar conhecimento mais aprofundado.",
+      "O domínio da norma culta é bom, com poucos deslizes. A linguagem é adequada ao contexto, embora por vezes genérica e pouco precisa em termos diplomáticos ou técnicos.",
+      "Para alcançar faixas superiores, o candidato deveria evitar repetições, aprofundar a análise com dados e conceitos específicos, e demonstrar maior sofisticação argumentativa e originalidade na abordagem do tema."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
     "nota_1A": 9.0,
     "nota_1B": 9.0,
     "nota_1C": 21.0,

@@ -792,6 +792,81 @@
     "ano": "2016"
   },
   {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"para os alcançar\" — embora não seja erro categórico (colocação pronominal com infinitivo é aceita em português europeu), no padrão brasileiro culto a forma preferível seria \"para alcançá-los\".",
+      "\"denominada de geração regionalista\" — o verbo 'denominar' não rege preposição 'de' nesse contexto; o correto seria \"denominada geração regionalista\".",
+      "\"O radicalismo das concepções nacionalistas do 'Manifesto Pau-brasil' e do 'Manifesto do Verde-amarelismo' atestam\" — erro de concordância verbal: o sujeito é \"O radicalismo\", portanto o verbo deveria estar no singular: \"atesta\".",
+      "\"catalizadas\" — grafia incorreta; o correto é \"catalisadas\" (com 's')."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão da citação machadiana, interpretando-a como uma defesa do idealismo e da busca por objetivos grandiosos mesmo diante da incerteza do êxito. A escolha do Modernismo brasileiro como fato cultural do século XX é pertinente e bem explorada.",
+      "A estrutura do texto é clara e bem organizada, com introdução que contextualiza a citação, desenvolvimento em parágrafos temáticos (primeira geração, segunda geração/regionalismo, identidade nacional) e conclusão que retoma a tese central. O encadeamento lógico é consistente.",
+      "A argumentação é sólida e demonstra conhecimento cultural e histórico relevante, com referências a obras (Vidas Secas, Dom Quixote), autores (Mário de Andrade, Oswald de Andrade, Graciliano Ramos) e pensadores (Gilberto Freyre). A menção aos manifestos modernistas enriquece o texto.",
+      "A relação entre a citação e o fato escolhido poderia ser mais orgânica e recorrente ao longo do texto. A metáfora das 'nuvens' e do 'terceiro andar' aparece pontualmente, mas poderia ser explorada com maior profundidade e frequência para fortalecer a coesão temática.",
+      "Há algumas imprecisões conceituais: o Simbolismo e o Parnasianismo são caracterizados de forma um tanto simplificada, e a expressão 'conteudística' soa pouco elegante. A referência a Gilberto Freyre como 'sociólogo demiurgo' é interessante, mas poderia ser melhor contextualizada.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo concurso. A linguagem é, em geral, precisa e fluida, com boa variedade sintática, embora em alguns momentos a construção se torne um pouco prolixa.",
+      "A conclusão é funcional, mas poderia ser mais incisiva e original, em vez de apenas recapitular os pontos já desenvolvidos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"para os alcançar\" — embora não seja erro categórico (colocação pronominal com infinitivo é aceita em português europeu), no padrão brasileiro culto a forma preferível seria \"para alcançá-los\".",
+      "\"denominada de geração regionalista\" — o verbo 'denominar' não rege preposição 'de' nesse contexto; o correto seria \"denominada geração regionalista\".",
+      "\"O radicalismo das concepções nacionalistas do 'Manifesto Pau-brasil' e do 'Manifesto do Verde-amarelismo' atestam\" — erro de concordância verbal: o sujeito é \"O radicalismo\", portanto o verbo deveria estar no singular: \"atesta\".",
+      "\"catalizadas\" — grafia incorreta; o correto é \"catalisadas\" (com 's')."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão da citação machadiana, interpretando-a como uma defesa do idealismo e da busca por objetivos grandiosos mesmo diante da incerteza do êxito. A escolha do Modernismo brasileiro como fato cultural do século XX é pertinente e bem explorada.",
+      "A estrutura do texto é clara e bem organizada, com introdução que contextualiza a citação, desenvolvimento em parágrafos temáticos (primeira geração, segunda geração/regionalismo, identidade nacional) e conclusão que retoma a tese central. O encadeamento lógico é consistente.",
+      "A argumentação é sólida e demonstra conhecimento cultural e histórico relevante, com referências a obras (Vidas Secas, Dom Quixote), autores (Mário de Andrade, Oswald de Andrade, Graciliano Ramos) e pensadores (Gilberto Freyre). A menção aos manifestos modernistas enriquece o texto.",
+      "A relação entre a citação e o fato escolhido poderia ser mais orgânica e recorrente ao longo do texto. A metáfora das 'nuvens' e do 'terceiro andar' aparece pontualmente, mas poderia ser explorada com maior profundidade e frequência para fortalecer a coesão temática.",
+      "Há algumas imprecisões conceituais: o Simbolismo e o Parnasianismo são caracterizados de forma um tanto simplificada, e a expressão 'conteudística' soa pouco elegante. A referência a Gilberto Freyre como 'sociólogo demiurgo' é interessante, mas poderia ser melhor contextualizada.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo concurso. A linguagem é, em geral, precisa e fluida, com boa variedade sintática, embora em alguns momentos a construção se torne um pouco prolixa.",
+      "A conclusão é funcional, mas poderia ser mais incisiva e original, em vez de apenas recapitular os pontos já desenvolvidos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"para os alcançar\" — embora não seja erro categórico (colocação pronominal com infinitivo é aceita em português europeu), no padrão brasileiro culto a forma preferível seria \"para alcançá-los\".",
+      "\"denominada de geração regionalista\" — o verbo 'denominar' não rege preposição 'de' nesse contexto; o correto seria \"denominada geração regionalista\".",
+      "\"O radicalismo das concepções nacionalistas do 'Manifesto Pau-brasil' e do 'Manifesto do Verde-amarelismo' atestam\" — erro de concordância verbal: o sujeito é \"O radicalismo\", portanto o verbo deveria estar no singular: \"atesta\".",
+      "\"catalizadas\" — grafia incorreta; o correto é \"catalisadas\" (com 's')."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão da citação machadiana, interpretando-a como uma defesa do idealismo e da busca por objetivos grandiosos mesmo diante da incerteza do êxito. A escolha do Modernismo brasileiro como fato cultural do século XX é pertinente e bem explorada.",
+      "A estrutura do texto é clara e bem organizada, com introdução que contextualiza a citação, desenvolvimento em parágrafos temáticos (primeira geração, segunda geração/regionalismo, identidade nacional) e conclusão que retoma a tese central. O encadeamento lógico é consistente.",
+      "A argumentação é sólida e demonstra conhecimento cultural e histórico relevante, com referências a obras (Vidas Secas, Dom Quixote), autores (Mário de Andrade, Oswald de Andrade, Graciliano Ramos) e pensadores (Gilberto Freyre). A menção aos manifestos modernistas enriquece o texto.",
+      "A relação entre a citação e o fato escolhido poderia ser mais orgânica e recorrente ao longo do texto. A metáfora das 'nuvens' e do 'terceiro andar' aparece pontualmente, mas poderia ser explorada com maior profundidade e frequência para fortalecer a coesão temática.",
+      "Há algumas imprecisões conceituais: o Simbolismo e o Parnasianismo são caracterizados de forma um tanto simplificada, e a expressão 'conteudística' soa pouco elegante. A referência a Gilberto Freyre como 'sociólogo demiurgo' é interessante, mas poderia ser melhor contextualizada.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo concurso. A linguagem é, em geral, precisa e fluida, com boa variedade sintática, embora em alguns momentos a construção se torne um pouco prolixa.",
+      "A conclusão é funcional, mas poderia ser mais incisiva e original, em vez de apenas recapitular os pontos já desenvolvidos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
     "nota_1A": 7.5,
     "nota_1B": 6.5,
     "nota_1C": 6.0,
@@ -950,6 +1025,81 @@
     ],
     "modelo": "claude-opus-4-6",
     "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"A queda da era dos impérios teve consequência o surgimento\" — falta a preposição 'como': 'teve como consequência o surgimento'.",
+      "\"conviviam de modo próspero e conflito\" — falta de paralelismo e inadequação lexical; deveria ser 'próspero e conflituoso' ou 'de modo próspero, mas também conflituoso'.",
+      "\"Machado de Assis, do mesmo modo, destacou-se de mediocridade\" — regência inadequada; o correto seria 'destacou-se da mediocridade'.",
+      "\"Ícaro concebeu asas\" — imprecisão: no mito, quem concebeu as asas foi Dédalo, pai de Ícaro, não o próprio Ícaro. Embora não seja erro gramatical estrito, constitui erro factual relevante que compromete a argumentação.",
+      "\"Nenhum analista pôde prever que a morte de Francisco Ferdinando se desdobraria em conflito mundial\" — uso de 'analista' é anacrônico e impreciso para o contexto histórico; menor deslize de propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A interpretação da citação de Machado de Assis é interessante e criativa ao associá-la ao mito de Ícaro, embora a atribuição das asas a Ícaro (e não a Dédalo) seja um erro factual que enfraquece a abertura do texto.",
+      "A escolha da Primeira Guerra Mundial como fato histórico é pertinente e permite desenvolvimento rico. O texto demonstra conhecimento histórico razoável, mencionando o Império Austríaco, o Reino Unido e a Rússia, além de referências literárias como Stefan Zweig e Thomas Mann.",
+      "A articulação entre a citação e o fato histórico é funcional, mas poderia ser mais sofisticada. A ideia de que a grandeza dos impérios permitiu que seu legado cultural sobrevivesse à queda é válida, porém a conexão com 'antes cair das nuvens que de um terceiro andar' é por vezes forçada — a citação fala de preferência pelo risco elevado, não necessariamente de legado cultural.",
+      "A estrutura do texto é clara e organizada, com introdução, desenvolvimento e conclusão bem delimitados. No entanto, há certa repetitividade na argumentação: a ideia de que o legado cultural permanece é reiterada várias vezes sem aprofundamento significativo.",
+      "A conclusão tenta vincular Machado de Assis ao argumento, mas a frase final ('Machado de Assis destacou-se de mediocridade e legou seu patrimônio cultural') soa abrupta e pouco desenvolvida, funcionando mais como adendo do que como fechamento orgânico.",
+      "Há alguns erros gramaticais e de regência que, embora não comprometam a compreensão, revelam falta de revisão cuidadosa. O domínio da norma culta é razoável, mas não impecável."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"A queda da era dos impérios teve consequência o surgimento\" — falta a preposição 'como': 'teve como consequência o surgimento'.",
+      "\"conviviam de modo próspero e conflito\" — falta de paralelismo e inadequação lexical; deveria ser 'próspero e conflituoso' ou 'de modo próspero, mas também conflituoso'.",
+      "\"Machado de Assis, do mesmo modo, destacou-se de mediocridade\" — regência inadequada; o correto seria 'destacou-se da mediocridade'.",
+      "\"Ícaro concebeu asas\" — imprecisão: no mito, quem concebeu as asas foi Dédalo, pai de Ícaro, não o próprio Ícaro. Embora não seja erro gramatical estrito, constitui erro factual relevante que compromete a argumentação.",
+      "\"Nenhum analista pôde prever que a morte de Francisco Ferdinando se desdobraria em conflito mundial\" — uso de 'analista' é anacrônico e impreciso para o contexto histórico; menor deslize de propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A interpretação da citação de Machado de Assis é interessante e criativa ao associá-la ao mito de Ícaro, embora a atribuição das asas a Ícaro (e não a Dédalo) seja um erro factual que enfraquece a abertura do texto.",
+      "A escolha da Primeira Guerra Mundial como fato histórico é pertinente e permite desenvolvimento rico. O texto demonstra conhecimento histórico razoável, mencionando o Império Austríaco, o Reino Unido e a Rússia, além de referências literárias como Stefan Zweig e Thomas Mann.",
+      "A articulação entre a citação e o fato histórico é funcional, mas poderia ser mais sofisticada. A ideia de que a grandeza dos impérios permitiu que seu legado cultural sobrevivesse à queda é válida, porém a conexão com 'antes cair das nuvens que de um terceiro andar' é por vezes forçada — a citação fala de preferência pelo risco elevado, não necessariamente de legado cultural.",
+      "A estrutura do texto é clara e organizada, com introdução, desenvolvimento e conclusão bem delimitados. No entanto, há certa repetitividade na argumentação: a ideia de que o legado cultural permanece é reiterada várias vezes sem aprofundamento significativo.",
+      "A conclusão tenta vincular Machado de Assis ao argumento, mas a frase final ('Machado de Assis destacou-se de mediocridade e legou seu patrimônio cultural') soa abrupta e pouco desenvolvida, funcionando mais como adendo do que como fechamento orgânico.",
+      "Há alguns erros gramaticais e de regência que, embora não comprometam a compreensão, revelam falta de revisão cuidadosa. O domínio da norma culta é razoável, mas não impecável."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"A queda da era dos impérios teve consequência o surgimento\" — falta a preposição 'como': 'teve como consequência o surgimento'.",
+      "\"conviviam de modo próspero e conflito\" — falta de paralelismo e inadequação lexical; deveria ser 'próspero e conflituoso' ou 'de modo próspero, mas também conflituoso'.",
+      "\"Machado de Assis, do mesmo modo, destacou-se de mediocridade\" — regência inadequada; o correto seria 'destacou-se da mediocridade'.",
+      "\"Ícaro concebeu asas\" — imprecisão: no mito, quem concebeu as asas foi Dédalo, pai de Ícaro, não o próprio Ícaro. Embora não seja erro gramatical estrito, constitui erro factual relevante que compromete a argumentação.",
+      "\"Nenhum analista pôde prever que a morte de Francisco Ferdinando se desdobraria em conflito mundial\" — uso de 'analista' é anacrônico e impreciso para o contexto histórico; menor deslize de propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A interpretação da citação de Machado de Assis é interessante e criativa ao associá-la ao mito de Ícaro, embora a atribuição das asas a Ícaro (e não a Dédalo) seja um erro factual que enfraquece a abertura do texto.",
+      "A escolha da Primeira Guerra Mundial como fato histórico é pertinente e permite desenvolvimento rico. O texto demonstra conhecimento histórico razoável, mencionando o Império Austríaco, o Reino Unido e a Rússia, além de referências literárias como Stefan Zweig e Thomas Mann.",
+      "A articulação entre a citação e o fato histórico é funcional, mas poderia ser mais sofisticada. A ideia de que a grandeza dos impérios permitiu que seu legado cultural sobrevivesse à queda é válida, porém a conexão com 'antes cair das nuvens que de um terceiro andar' é por vezes forçada — a citação fala de preferência pelo risco elevado, não necessariamente de legado cultural.",
+      "A estrutura do texto é clara e organizada, com introdução, desenvolvimento e conclusão bem delimitados. No entanto, há certa repetitividade na argumentação: a ideia de que o legado cultural permanece é reiterada várias vezes sem aprofundamento significativo.",
+      "A conclusão tenta vincular Machado de Assis ao argumento, mas a frase final ('Machado de Assis destacou-se de mediocridade e legou seu patrimônio cultural') soa abrupta e pouco desenvolvida, funcionando mais como adendo do que como fechamento orgânico.",
+      "Há alguns erros gramaticais e de regência que, embora não comprometam a compreensão, revelam falta de revisão cuidadosa. O domínio da norma culta é razoável, mas não impecável."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
     "temp": 0.0,
     "versao": 3,
     "essay": 5,
@@ -1494,6 +1644,144 @@
     ],
     "modelo": "claude-opus-4-6",
     "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.50,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'Ao se analisar as inovações' — o correto seria 'Ao se analisarem as inovações', pois o verbo deve concordar com o sujeito 'inovações'.",
+      "Erro de grafia/vocabulário: 'metodologia antropófoga' — o correto seria 'metodologia antropofágica'.",
+      "Erro de concordância nominal: 'consolidação das ideais propostos' — o correto seria 'consolidação dos ideais propostos' (artigo masculino) ou 'das ideias propostas' (se a intenção fosse o feminino)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento e conclusão bem articulados, além de parágrafos com progressão argumentativa clara e coerente.",
+      "O candidato demonstra sólido conhecimento sobre o Modernismo brasileiro, mobilizando referências pertinentes como Oswald de Andrade, Mário de Andrade, o Manifesto Antropófago, a Semana de 1922 e o conceito de 'entre-lugar' de Silviano Santiago.",
+      "A relação entre a citação de Machado de Assis e o fato cultural escolhido (o Modernismo) é bem construída e sustentada ao longo de todo o texto, com uso criativo da metáfora do 'salto' e da 'queda'.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário sofisticado, embora haja alguns poucos deslizes gramaticais que comprometem levemente a correção.",
+      "A argumentação é consistente e bem fundamentada, demonstrando capacidade de reflexão crítica sobre o tema proposto, embora em alguns momentos a redação se torne ligeiramente repetitiva na reiteração da mesma ideia central."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.50,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'Ao se analisar as inovações' — o correto seria 'Ao se analisarem as inovações', pois o verbo deve concordar com o sujeito 'inovações'.",
+      "Erro de grafia/vocabulário: 'metodologia antropófoga' — o correto seria 'metodologia antropofágica'.",
+      "Erro de concordância nominal: 'consolidação das ideais propostos' — o correto seria 'consolidação dos ideais propostos' (artigo masculino) ou 'das ideias propostas' (se a intenção fosse o feminino)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento e conclusão bem articulados, além de parágrafos com progressão argumentativa clara e coerente.",
+      "O candidato demonstra sólido conhecimento sobre o Modernismo brasileiro, mobilizando referências pertinentes como Oswald de Andrade, Mário de Andrade, o Manifesto Antropófago, a Semana de 1922 e o conceito de 'entre-lugar' de Silviano Santiago.",
+      "A relação entre a citação de Machado de Assis e o fato cultural escolhido (o Modernismo) é bem construída e sustentada ao longo de todo o texto, com uso criativo da metáfora do 'salto' e da 'queda'.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário sofisticado, embora haja alguns poucos deslizes gramaticais que comprometem levemente a correção.",
+      "A argumentação é consistente e bem fundamentada, demonstrando capacidade de reflexão crítica sobre o tema proposto, embora em alguns momentos a redação se torne ligeiramente repetitiva na reiteração da mesma ideia central."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.50,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'Ao se analisar as inovações' — o correto seria 'Ao se analisarem as inovações', pois o verbo deve concordar com o sujeito 'inovações'.",
+      "Erro de grafia/vocabulário: 'metodologia antropófoga' — o correto seria 'metodologia antropofágica'.",
+      "Erro de concordância nominal: 'consolidação das ideais propostos' — o correto seria 'consolidação dos ideais propostos' (artigo masculino) ou 'das ideias propostas' (se a intenção fosse o feminino)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento e conclusão bem articulados, além de parágrafos com progressão argumentativa clara e coerente.",
+      "O candidato demonstra sólido conhecimento sobre o Modernismo brasileiro, mobilizando referências pertinentes como Oswald de Andrade, Mário de Andrade, o Manifesto Antropófago, a Semana de 1922 e o conceito de 'entre-lugar' de Silviano Santiago.",
+      "A relação entre a citação de Machado de Assis e o fato cultural escolhido (o Modernismo) é bem construída e sustentada ao longo de todo o texto, com uso criativo da metáfora do 'salto' e da 'queda'.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário sofisticado, embora haja alguns poucos deslizes gramaticais que comprometem levemente a correção.",
+      "A argumentação é consistente e bem fundamentada, demonstrando capacidade de reflexão crítica sobre o tema proposto, embora em alguns momentos a redação se torne ligeiramente repetitiva na reiteração da mesma ideia central."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'Ao se analisar as inovações' — o correto seria 'Ao se analisarem as inovações', pois o verbo deve concordar com o sujeito 'inovações'.",
+      "Erro de grafia/vocabulário: 'metodologia antropófoga' — o correto seria 'metodologia antropofágica'.",
+      "Erro de concordância nominal: 'consolidação das ideais propostos' — o correto seria 'consolidação dos ideais propostos' (ou 'das ideias propostas').",
+      "Uso impreciso da citação: 'saltar das nuvens' — na citação original, a expressão é 'cair das nuvens', não 'saltar das nuvens'. Embora seja uma releitura deliberada, a alteração do verbo pode gerar imprecisão interpretativa."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa, com introdução, desenvolvimento e conclusão bem delimitados, e mantém coerência ao longo de toda a argumentação.",
+      "A articulação entre a citação machadiana e o Modernismo brasileiro é pertinente e bem conduzida, com referências relevantes a Oswald de Andrade, Mário de Andrade, o Manifesto Antropófago e o conceito de 'entre-lugar' de Silviano Santiago.",
+      "A argumentação, embora consistente, tende a ser um pouco circular: a ideia de que os modernistas 'saltaram das nuvens' e não 'caíram' é reiterada diversas vezes sem aprofundamento substancial a cada retomada. Maior variação argumentativa enriqueceria o texto.",
+      "A interpretação da citação machadiana é válida, mas poderia ser mais nuançada. A frase original sugere que é preferível a desilusão (cair das nuvens/ilusão) à queda concreta e perigosa (terceiro andar), o que envolve uma reflexão sobre ilusão versus realidade que poderia ter sido mais explorada.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD, com bom uso de conectivos e expressões de articulação textual.",
+      "Atenção aos erros de concordância verbal e nominal apontados, que, embora pontuais, comprometem a correção gramatical esperada em um texto de alto nível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'Ao se analisar as inovações' — o correto seria 'Ao se analisarem as inovações', pois o verbo deve concordar com o sujeito 'inovações'.",
+      "Erro de grafia/vocabulário: 'metodologia antropófoga' — o correto seria 'metodologia antropofágica'.",
+      "Erro de concordância nominal: 'consolidação das ideais propostos' — o correto seria 'consolidação dos ideais propostos' (ou 'das ideias propostas').",
+      "Uso impreciso da citação: 'saltar das nuvens' — na citação original, a expressão é 'cair das nuvens', não 'saltar das nuvens'. Embora seja uma releitura deliberada, a alteração do verbo pode gerar imprecisão interpretativa."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa, com introdução, desenvolvimento e conclusão bem delimitados, e mantém coerência ao longo de toda a argumentação.",
+      "A articulação entre a citação machadiana e o Modernismo brasileiro é pertinente e bem conduzida, com referências relevantes a Oswald de Andrade, Mário de Andrade, o Manifesto Antropófago e o conceito de 'entre-lugar' de Silviano Santiago.",
+      "A argumentação, embora consistente, tende a ser um pouco circular: a ideia de que os modernistas 'saltaram das nuvens' e não 'caíram' é reiterada diversas vezes sem aprofundamento substancial a cada retomada. Maior variação argumentativa enriqueceria o texto.",
+      "A interpretação da citação machadiana é válida, mas poderia ser mais nuançada. A frase original sugere que é preferível a desilusão (cair das nuvens/ilusão) à queda concreta e perigosa (terceiro andar), o que envolve uma reflexão sobre ilusão versus realidade que poderia ter sido mais explorada.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD, com bom uso de conectivos e expressões de articulação textual.",
+      "Atenção aos erros de concordância verbal e nominal apontados, que, embora pontuais, comprometem a correção gramatical esperada em um texto de alto nível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'Ao se analisar as inovações' — o correto seria 'Ao se analisarem as inovações', pois o verbo deve concordar com o sujeito 'inovações'.",
+      "Erro de grafia/vocabulário: 'metodologia antropófoga' — o correto seria 'metodologia antropofágica'.",
+      "Erro de concordância nominal: 'consolidação das ideais propostos' — o correto seria 'consolidação dos ideais propostos' (ou 'das ideias propostas').",
+      "Uso impreciso da citação: 'saltar das nuvens' — na citação original, a expressão é 'cair das nuvens', não 'saltar das nuvens'. Embora seja uma releitura deliberada, a alteração do verbo pode gerar imprecisão interpretativa."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa, com introdução, desenvolvimento e conclusão bem delimitados, e mantém coerência ao longo de toda a argumentação.",
+      "A articulação entre a citação machadiana e o Modernismo brasileiro é pertinente e bem conduzida, com referências relevantes a Oswald de Andrade, Mário de Andrade, o Manifesto Antropófago e o conceito de 'entre-lugar' de Silviano Santiago.",
+      "A argumentação, embora consistente, tende a ser um pouco circular: a ideia de que os modernistas 'saltaram das nuvens' e não 'caíram' é reiterada diversas vezes sem aprofundamento substancial a cada retomada. Maior variação argumentativa enriqueceria o texto.",
+      "A interpretação da citação machadiana é válida, mas poderia ser mais nuançada. A frase original sugere que é preferível a desilusão (cair das nuvens/ilusão) à queda concreta e perigosa (terceiro andar), o que envolve uma reflexão sobre ilusão versus realidade que poderia ter sido mais explorada.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD, com bom uso de conectivos e expressões de articulação textual.",
+      "Atenção aos erros de concordância verbal e nominal apontados, que, embora pontuais, comprometem a correção gramatical esperada em um texto de alto nível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
     "temp": 0.0,
     "versao": 3,
     "essay": 8,
