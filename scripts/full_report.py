@@ -212,7 +212,7 @@ def full_report(num_runs, num_redacoes, model_name):
     plot_corr(df, model_name, output_path)
 
     df_plot = df.copy()
-    df_plot = df_plot.sort_values(by="nota_final_human", ascending=False)
+    df_plot = df_plot.sort_values(by=["nota_final_human", "redacao", "ano", "prompt"], ascending=[False, True, False, True])
     df_plot["redacao"] = np.repeat(np.arange(1, num_redacoes + 1), num_runs)
     df_plot["prompt"] = df_plot["prompt"].astype(str)
     df_plot["prompt"] = df_plot["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão"})

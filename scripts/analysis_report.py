@@ -71,7 +71,7 @@ def main(num_runs, eval_path, human_path, model, year):
 
     plot_co_var_temp(df_merged, year, model, output_path)
     plot_co_var_prompt(df_merged, output_path, year, model)
-    """
+
     plot_distribuicao_notas(df_eval, df_human, prompts, output_path)
 
     # 2. Comparação entre Notas Geradas e Humanas
@@ -124,7 +124,7 @@ def main(num_runs, eval_path, human_path, model, year):
     plot_corr_heatmap(df_notas_normalizado, output_path, year)
 
     # Gerando resumo em markdown
-    md_content = f# Relatório de Avaliação: {model} - {num_runs} execuções
+    md_content = f"""# Relatório de Avaliação: {model} - {num_runs} execuções
 **Gerado em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}**
 
 ## 1. Distribuição de Notas
@@ -169,6 +169,7 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
 
 ### Humano
 {df_human.describe().to_markdown()}
+"""
 
 
     # Salva apenas o arquivo .md
@@ -177,7 +178,6 @@ Comparação da sensibilidade do modelo na detecção/geração de erros em rela
         f.write(md_content)
 
     print(f"Relatório gerado com sucesso em: {output_path}")
-"""
   
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
