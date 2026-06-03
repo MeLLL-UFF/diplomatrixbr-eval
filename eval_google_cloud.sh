@@ -1,11 +1,10 @@
 NITERACOES="3"
 TEMPS="0.0"
-PROMPTS="8"
-ESSAY=""
+PROMPTS="7 8 9"
 
-years="2015"
+years="2024"
 
-essays="7"
+essays="1"
 
 for year in $years
 do

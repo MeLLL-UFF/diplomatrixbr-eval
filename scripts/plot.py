@@ -328,21 +328,22 @@ def plot_corr_heatmap(df, outputpath, year):
     plt.subplots_adjust(wspace=0.55, hspace=0.5)
     plt.savefig(f"{outputpath}/correlacoes.png")
 
-def plot_co_var_temp(df, year, model):
+def plot_co_var_temp(df, year, model, outputpath):
     fig, axes = plt.subplots(1, figsize=(8, 8))
-    df_treated = df[["redacao", "prompt", "nota_final"]]
-    df_std = df_treated.groupby(by=["prompt", "redacao"]).std()
-    df_mean = df_treated.groupby(by=["prompt", "redacao"]).mean()
+    df_treated = df[["prompt", "nota_final"]]
+
+    df_std = df_treated.groupby(by=["prompt"]).std()
+    df_mean = df_treated.groupby(by=["prompt"]).mean()
 
     df_result = (df_std/df_mean)*100
-    df_result = df_result.rename(columns={"nota_final":"coeficiente de variacao"})
+    df_result = df_result.rename(columns={"nota_final":"coeficiente de variacao medio"})
 
     sns.histplot(df_result, stat="count", ax=axes)
-    axes.set_title(f"Coeficiente de variação das temperaturas \n {year} \n {model}")
+    axes.set_title(f"Coeficiente de variação médio das temperaturas \n {year} \n {model}")
     axes.set_xlabel("Coeficiente em %")
     axes.yaxis.set_major_locator(MaxNLocator(integer=True))
 
-    #plt.show()
+    pd.DataFrame.to_csv(df_result, f"{outputpath}/Coeficiente_de_Variacao_Temps.csv", float_format="%.4f")
 
 def plot_co_var_prompt(df, output_path, year, model):
     #Coeficiente de Variação dos diferentes inputs dos prompts
@@ -373,7 +374,7 @@ def plot_co_var_prompt(df, output_path, year, model):
 
     df_result.rename(columns=lambda x: str(x), inplace=True)
 
-    pd.DataFrame.to_csv(df_result, f"{output_path}/Coeficiente_de_Variacao.csv", float_format="%.4f")
+    pd.DataFrame.to_csv(df_result, f"{output_path}/Coeficiente_de_Variacao_Prompts.csv", float_format="%.4f")
 
 def plot_co_var_redacao(df, year, model):
     fig, axes = plt.subplots(1, figsize=(8, 8))
