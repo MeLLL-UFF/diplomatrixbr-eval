@@ -1,7 +1,7 @@
 set -euo pipefail
 
 models=(
-	"sabia-4"
+	"sabia-3.1"
 )
 
 years=(
@@ -12,7 +12,7 @@ years=(
 run_report() {
 	local model="$1"
 	local year="$2"
-	local eval_path="prompt_testing/sheets/${model}/${model}_${year}_p7-9_3r.csv"
+	local eval_path="prompt_testing/sheets/${model}/${model}_${year}_p7-15_3r.csv"
 	local human_path="prompt_testing/sheets/notas_humanas/notas_humanas_${year}.csv"
 
 	python -m scripts.analysis_report \

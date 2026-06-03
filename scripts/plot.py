@@ -130,28 +130,30 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
     df = pd.concat([df, df_human], sort=False)
 
     df = df.groupby(["redacao", "prompt"], as_index=False, sort=False).mean(numeric_only=True)
+    df = df.rename(columns={"redacao":"candidatos"})
 
-    title = f"Comparação de Nota Gerada e Nota Humana por Redação \n {year}"
+    title = f"Comparação de Nota Gerada e Nota Humana por Candidatos \n {year}"
+
+    df[["candidatos"]] = "C" + df[["candidatos"]]
+    print(df[["candidatos"]])
 
     qtd_prompts = len(df["prompt"].unique().tolist())
 
     if temp == None and prompt == None:
         sns.lineplot(
             data=df,
-            x="redacao",
+            x="candidatos",
             y="nota_final",
             hue="prompt",
             style="prompt",
             dashes=False if qtd_prompts == 10 else True,
-            #err_style="band",
             linestyle='',
             markers=["v", "v", "v", "^", "^", "^", ">", ">", ">", "X"] if qtd_prompts == 10 else ["v", "^", ">", "X"],
             palette=["#11F9DE", "#FFD918", "#A3FF22", "#1995BF", "#FF8400FF", "#02B202", "#3131BD", "#D41111", "#2E772E", "#000000"] if qtd_prompts == 10 else ["#11F9DE", "#FFD918", "#A3FF22", "#000000"],
-            #ax=axes[0],
             sort=False
         )
-        axes.set_title("Análise de Nota Gerada por Redação")
-        axes.set_xlabel("Redação")
+        axes.set_title(title)
+        axes.set_xlabel("Candidatos")
         axes.set_ylabel("Nota Final")
         if year == "2024":
             axes.set_ylim(35, 70)
@@ -163,7 +165,7 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
     elif temp != None:
         sns.lineplot(
             data=df,
-            x="redacao",
+            x="candidatos",
             y="nota_final",
             hue="prompt",
             marker="o",
@@ -171,7 +173,7 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
             ax=axes,
             sort=False
         )
-        axes.set_xlabel("Redação")
+        axes.set_xlabel("Candidatos")
         axes.set_ylabel("Nota Final")
         axes.set_ylim(35, 60)
         axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
@@ -180,7 +182,7 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
     elif prompt != None:
         sns.lineplot(
             data=df,
-            x="redacao",
+            x="candidatos",
             y="nota_final",
             hue="temp",
             marker="o",
@@ -188,7 +190,7 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
             ax=axes,
             sort=False
         )
-        axes.set_xlabel("Redação")
+        axes.set_xlabel("Candidatos")
         axes.set_ylabel("Nota Final")
         axes.set_ylim(35, 60)
         axes.legend(bbox_to_anchor=(0.97, 1.1), loc="upper left")
@@ -313,16 +315,17 @@ def plot_error_heatmap(df, outputpath, year):
     plt.savefig(f"{outputpath}/RMSE_notas_heatmap.png")
 
 def plot_corr_heatmap(df, outputpath, year):
-    fig, axes = plt.subplots(1, 2, figsize=(12,10))
+    fig, axes = plt.subplots(1, 2, figsize=(6.5,10))
     df_corr_pearson = df.corr(method="pearson")
-    df_corr_pearson = pd.DataFrame(df_corr_pearson["human"])
+    df_corr_pearson = pd.DataFrame(df_corr_pearson.iloc[1:]["human"])
     df_corr_spearman = df.corr(method="spearman")
-    df_corr_spearman = pd.DataFrame(df_corr_spearman["human"])
+    df_corr_spearman = pd.DataFrame(df_corr_spearman.iloc[1:]["human"])
     axes[0] = sns.heatmap(df_corr_pearson, annot=True, vmax=1, vmin=-1, cmap="RdYlGn", fmt=".4f", ax=axes[0], cbar=False)
     axes[0].set_title("Correlação de Pearson")
     axes[1] = sns.heatmap(df_corr_spearman, annot=True, vmax=1, vmin=-1, cmap="RdYlGn", fmt=".4f", ax=axes[1])
     axes[1].set_title("Correlação de Spearman")
     plt.suptitle(f"Correlações {year}")
+    plt.subplots_adjust(wspace=0.55, hspace=0.5)
     plt.savefig(f"{outputpath}/correlacoes.png")
 
 def plot_co_var_temp(df, year, model):
@@ -340,6 +343,37 @@ def plot_co_var_temp(df, year, model):
     axes.yaxis.set_major_locator(MaxNLocator(integer=True))
 
     #plt.show()
+
+def plot_co_var_prompt(df, output_path, year, model):
+    #Coeficiente de Variação dos diferentes inputs dos prompts
+    fig, axes = plt.subplots(1, figsize=(8, 8))
+    df_treated = df[["prompt", "temp", "nota_final"]]
+    df_treated["prompt"] = df_treated["prompt"].astype(int)
+
+    mapping = {7:1, 10:1, 13:1, 8:2, 11:2, 14:2, 9:3, 12:3, 15:3}
+    df_treated["tipo_prompt"] = df_treated["prompt"].map(mapping).fillna(0).astype(int)
+    df_treated.drop(["prompt"], axis=1, inplace=True)
+
+    df_std = df_treated.groupby(by=["tipo_prompt", "temp"]).std()
+    df_mean = df_treated.groupby(by=["tipo_prompt", "temp"]).mean()
+
+    df_result = (df_std/df_mean)*100
+    df_result = df_result.rename(columns={"nota_final":"coeficiente de variacao médio"})
+    df_result.reset_index(inplace=True)
+
+    tipo_prompt = {
+        1: "Critério",
+        2: "Total",
+        3: "Faixa"
+    }
+
+    df_result["tipo_prompt"] = df_result["tipo_prompt"].map(tipo_prompt)
+
+    df_result = df_result.pivot(index="tipo_prompt", columns="temp", values="coeficiente de variacao médio")
+
+    df_result.rename(columns=lambda x: str(x), inplace=True)
+
+    pd.DataFrame.to_csv(df_result, f"{output_path}/Coeficiente_de_Variacao.csv", float_format="%.4f")
 
 def plot_co_var_redacao(df, year, model):
     fig, axes = plt.subplots(1, figsize=(8, 8))
