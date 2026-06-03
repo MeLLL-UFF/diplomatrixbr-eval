@@ -1,0 +1,1615 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'Um implicou' e 'O outro' com referentes ambíguos — 'a colonização europeia e a escravidão' são femininos, mas os pronomes utilizados são masculinos ('Um' e 'O outro'), gerando problema de concordância/coesão referencial.",
+      "Falta de espaço ou erro tipográfico em 'aumentou -,' — o travessão de fechamento deveria estar junto à palavra ('aumentou –,') e a vírgula após o travessão é discutível, embora aceitável em alguns manuais."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem organizado, com introdução clara que articula as duas metáforas propostas pelo enunciado, desenvolvimento em parágrafos temáticos coerentes (histórico, cultural, político-diplomático) e conclusão que retoma a tese central. O estilo é fluido, acadêmico e adequado ao gênero dissertativo do CACD. A progressão temática é lógica e bem encadeada. Pequena ressalva para a transição entre o parágrafo sobre a Pangeia e o seguinte, que poderia ser mais suave.",
+      "1B – Capacidade de argumentação: O candidato demonstra excelente domínio de conteúdo, mobilizando referências pertinentes e variadas: Alberto da Costa e Silva, Maria Sylvia de Carvalho Franco, Barry Buzan, Tratados de Tlatelolco e Pelindaba, ZOPACAS, PEC-G/PEC-PG, Agenda 2063, além de exemplos concretos como a fábrica de medicamentos em Maputo e a cooperação naval com a Namíbia. A argumentação é objetiva e sistemática, com boa articulação entre dados históricos, culturais e diplomáticos. A definição da 'terceira margem' como espaço de paz e desenvolvimento é clara e bem sustentada.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra boa capacidade analítica ao interpretar criativamente as metáforas propostas, articulando-as de forma original. A noção de 'paz positiva' como síntese da terceira margem revela reflexão sofisticada. A análise da evolução histórica das relações Brasil-África — do lusotropicalismo ao reconhecimento da dívida histórica — mostra maturidade interpretativa. Contudo, a reflexão poderia ser ainda mais aprofundada em alguns pontos: a ideia de 'terceira margem' como algo que transcende as duas margens originais (dimensão metafísica/existencial do conto de Guimarães Rosa) poderia ter sido mais explorada. O conto de Rosa trata do indeterminado, do inclassificável, e essa dimensão filosófica foi parcialmente subaproveitada.",
+      "CGPL – Correção gramatical: O texto apresenta excelente domínio da norma culta, com vocabulário preciso e variado. Foram identificados apenas dois problemas menores: a ambiguidade referencial com pronomes masculinos para antecedentes femininos e uma questão de pontuação com travessão. No geral, a redação é gramaticalmente sólida."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'Um implicou' e 'O outro' com referentes ambíguos — embora não seja erro gramatical estrito, a construção gera imprecisão referencial entre 'colonização europeia' (feminino) e 'escravidão' (feminino), referidos por pronomes demonstrativos masculinos ('Um'/'O outro'), o que configura erro de concordância de gênero ou, no mínimo, falha de coesão.",
+      "'aumentou -' — o espaço antes do travessão de fechamento está incorreto; o padrão é sem espaço antes do travessão ou com espaço em ambos os lados de forma simétrica (o travessão de abertura tem espaço antes do conteúdo, mas o de fechamento apresenta espaço antes do travessão e hífen em vez de travessão)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura dissertativa, com introdução clara que articula as duas metáforas propostas pelo enunciado, desenvolvimento bem organizado em parágrafos temáticos (histórico, cultural, político-diplomático) e conclusão coerente que retoma a tese central.",
+      "O candidato demonstra amplo repertório de conhecimentos, mobilizando referências pertinentes como Maria Sylvia de Carvalho Franco, Barry Buzan, os tratados de Tlatelolco e Pelindaba, a ZOPACAS, os programas PEC-G e PEC-PG, e a Agenda 2063 africana. Isso confere densidade argumentativa e credibilidade ao texto.",
+      "A articulação entre as duas metáforas (o Atlântico como rio e a terceira margem como construção conjunta de paz e desenvolvimento) é bem-sucedida e criativa, demonstrando boa capacidade de análise e reflexão. A definição da 'terceira margem' como uma 'paz positiva' é particularmente feliz.",
+      "Um ponto de melhoria seria aprofundar a reflexão sobre o conceito de 'terceira margem' em Guimarães Rosa — no conto, a terceira margem tem conotações de ruptura, indefinição e transcendência que poderiam ter sido exploradas de forma mais sofisticada na análise.",
+      "A passagem 'Um implicou... O outro transformou...' gera ambiguidade referencial, pois os antecedentes ('colonização europeia' e 'escravidão') são femininos, mas são retomados por pronomes/artigos masculinos. Recomenda-se reformulação para maior clareza.",
+      "O texto é fluido, bem escrito e demonstra domínio da norma culta, com pouquíssimos deslizes gramaticais. O estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de travessão de fechamento ausente ou inconsistente em '– a cooperação naval entre Brasil e Namíbia, por exemplo, aumentou -': o segundo travessão deveria ser '–' (travessão) e não '-' (hífen), além de haver inconsistência tipográfica entre os dois sinais.",
+      "'Um implicou o desenvolvimento de características religiosas e linguísticas semelhantes. O outro transformou o Brasil no país com a segunda maior população negra do mundo.' – Embora não seja erro gramatical estrito, o uso dos pronomes 'Um' e 'O outro' para retomar 'colonização europeia' e 'escravidão' gera ambiguidade referencial e problema de concordância de gênero, pois os antecedentes são femininos ('a colonização' e 'a escravidão') e os pronomes estão no masculino."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que articula as duas metáforas propostas pelo enunciado, desenvolvimento bem estruturado em parágrafos temáticos (histórico, cultural, político-diplomático) e conclusão coerente que retoma a tese central.",
+      "O candidato demonstra amplo repertório de conhecimentos, mobilizando referências pertinentes e diversificadas: Maria Sylvia de Carvalho Franco, Barry Buzan, os tratados de Tlatelolco e Pelindaba, a ZOPACAS, os programas PEC-G e PEC-PG, a Agenda 2063, além de exemplos culturais como Nelson Cavaquinho e Clementina de Jesus. Isso confere densidade argumentativa ao texto.",
+      "A articulação entre as duas metáforas (o Atlântico como rio e a terceira margem) é bem-sucedida: o candidato define a 'terceira margem' como a construção conjunta de valores de paz e desenvolvimento, o que demonstra capacidade analítica e criatividade interpretativa.",
+      "A capacidade de análise e reflexão é sólida, embora pudesse ser ainda mais aprofundada. A noção de 'paz positiva' é mencionada no final, mas poderia ter sido mais explorada. A reflexão sobre a 'terceira margem' como espaço simbólico de convergência é interessante, mas poderia incluir tensões ou desafios contemporâneos para enriquecer a análise crítica.",
+      "O texto é fluido, com boa coesão e uso adequado de conectivos. O estilo é formal e compatível com o gênero dissertativo exigido pelo CACD.",
+      "Há poucos erros gramaticais, sendo o mais notável a inconsistência tipográfica entre travessão e hífen e a ambiguidade referencial dos pronomes 'Um' e 'O outro' em relação a antecedentes femininos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'Um implicou' e 'O outro' com referentes ambíguos — a construção gera dificuldade de identificação clara dos antecedentes ('colonização europeia' e 'escravidão'), comprometendo levemente a coesão referencial.",
+      "Trecho 'aumentou -,' apresenta espaçamento irregular antes do travessão de fechamento e uso inconsistente de pontuação (vírgula após travessão)."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, combinando as duas metáforas propostas no enunciado de forma criativa e coerente. A definição da 'terceira margem' como uma perspectiva comum de paz e desenvolvimento é bem fundamentada e sustentada ao longo do texto.",
+      "O texto apresenta estrutura bem organizada, com introdução clara, desenvolvimento em múltiplos parágrafos temáticos (histórico, cultural, político-diplomático) e conclusão que retoma a tese central.",
+      "O repertório mobilizado é rico e pertinente: referências a Maria Sylvia de Carvalho Franco, Barry Buzan, ZOPACAS, Tratados de Tlatelolco e Pelindaba, Agenda 2063, PEC-G e PEC-PG demonstram conhecimento sólido e interdisciplinar.",
+      "A argumentação é consistente e bem encadeada, transitando de forma fluida entre os aspectos históricos, culturais e geopolíticos da relação Brasil-África.",
+      "Ponto de atenção: o trecho sobre a 'proposta africana de unificação política' após a independência do Brasil carece de maior precisão histórica e contextualização.",
+      "A linguagem é adequada ao registro formal exigido pelo concurso, com vocabulário preciso e variado. A correção gramatical é elevada, com pouquíssimos deslizes."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'Um implicou' e 'O outro' com referentes ambíguos — a construção 'Um implicou o desenvolvimento...' e 'O outro transformou...' gera dificuldade de identificação clara dos antecedentes (colonização europeia e escravidão), comprometendo a coesão referencial.",
+      "Trecho 'aumentou -,' apresenta espaçamento irregular antes do travessão de fechamento e uso inconsistente de pontuação (vírgula após travessão)."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, combinando as duas metáforas propostas no enunciado de forma criativa e coerente. A definição da 'terceira margem' como uma perspectiva comum de paz e desenvolvimento é bem fundamentada e sustentada ao longo do texto.",
+      "A organização textual é muito boa: há introdução clara que apresenta a tese, desenvolvimento com argumentos históricos, culturais e diplomáticos, e conclusão que retoma a ideia central. O encadeamento das ideias é lógico e fluido.",
+      "O candidato demonstra repertório cultural e intelectual notável, mobilizando referências pertinentes como Maria Sylvia de Carvalho Franco, Barry Buzan, os tratados de Tlatelolco e Pelindaba, a ZOPACAS, a Agenda 2063, e exemplos concretos de cooperação bilateral.",
+      "A argumentação é sólida e diversificada, abordando aspectos geofísicos, históricos, culturais, linguísticos, artísticos e diplomáticos, o que confere riqueza e profundidade ao texto.",
+      "Ponto de atenção: o trecho que utiliza 'Um implicou... O outro transformou...' para se referir à colonização e à escravidão poderia ser mais claro na retomada dos referentes, evitando ambiguidade.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal, vocabulário preciso e construções sintáticas bem elaboradas. A correção gramatical é elevada, com pouquíssimos deslizes."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'Um implicou' e 'O outro' com referentes ambíguos — a construção gera dificuldade de identificação clara dos antecedentes ('colonização europeia' e 'escravidão'), prejudicando a coesão referencial.",
+      "Trecho 'aumentou -,' apresenta espaçamento irregular antes do travessão de fechamento e uso inconsistente de pontuação (vírgula após travessão)."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, combinando as duas metáforas propostas no enunciado de forma criativa e coerente. A definição da 'terceira margem' como uma perspectiva comum de paz e desenvolvimento é bem fundamentada e sustentada ao longo do texto.",
+      "O candidato mobiliza repertório amplo e pertinente: referências a Maria Sylvia de Carvalho Franco, Barry Buzan, tratados internacionais (Tlatelolco, Pelindaba), ZOPACAS, programas PEC-G e PEC-PG, Agenda 2063, além de exemplos culturais concretos (Nelson Cavaquinho, Clementina de Jesus, estudos linguísticos da UFBA).",
+      "A organização textual é muito boa, com progressão temática clara: da origem geofísica comum, passando pela colonização e escravidão, pelas influências culturais, pela retomada das relações diplomáticas, até a construção da 'terceira margem' como zona de paz e cooperação.",
+      "O encadeamento entre parágrafos é fluido e lógico, com uso adequado de conectivos e elementos coesivos. A conclusão retoma a tese central de forma sintética e eficaz.",
+      "Ponto de atenção: o trecho que usa 'Um implicou... O outro transformou...' gera ambiguidade referencial, pois os antecedentes (colonização e escravidão) são femininos, e os pronomes demonstrativos são masculinos. Embora se possa inferir a referência, a construção prejudica a clareza.",
+      "A linguagem é formal, adequada ao contexto do CACD, e o texto apresenta pouquíssimos desvios gramaticais, demonstrando alto domínio da norma culta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'Um implicou' e 'O outro' com referentes ambíguos — 'um' e 'outro' referem-se a 'colonização europeia' e 'escravidão', ambos substantivos femininos, mas foram retomados no masculino ('Um'/'O outro'), gerando problema de concordância/coesão referencial.",
+      "Trecho 'aumentou -,' apresenta espaçamento irregular antes do travessão de fechamento e uso inconsistente de pontuação (vírgula após travessão)."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do enunciado e combina as duas metáforas de forma pertinente, definindo a 'terceira margem' como uma perspectiva comum de paz e desenvolvimento construída entre Brasil e África.",
+      "O texto é bem estruturado, com introdução clara, desenvolvimento em múltiplos eixos (histórico, cultural, linguístico, diplomático) e conclusão coerente. A progressão temática é lógica e bem encadeada.",
+      "O repertório mobilizado é rico e variado: referências a Maria Sylvia de Carvalho Franco, Barry Buzan, ZOPACAS, Tratados de Tlatelolco e Pelindaba, Agenda 2063, PEC-G/PEC-PG, além de exemplos culturais concretos (Nelson Cavaquinho, Clementina de Jesus, estudo da UFBA).",
+      "Um ponto de melhoria é a exploração mais profunda da metáfora literária de Guimarães Rosa. O conto 'A terceira margem do rio' trata de uma dimensão existencial, de ruptura e transcendência, e essa camada simbólica poderia ter sido mais explorada para enriquecer a argumentação e demonstrar maior sofisticação interpretativa.",
+      "O trecho que usa 'Um implicou... O outro transformou' para retomar 'colonização europeia' e 'escravidão' gera ambiguidade e quebra de concordância de gênero, prejudicando a coesão referencial.",
+      "A argumentação, embora competente e bem informada, tende a ser mais descritiva/enumerativa do que analítica em alguns trechos, o que impede a classificação em faixas superiores. Maior aprofundamento crítico e originalidade interpretativa elevariam o nível do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'Um implicou' e 'O outro' com referentes ambíguos — 'um' e 'outro' referem-se a 'colonização europeia' e 'escravidão', ambos substantivos femininos, mas foram retomados no masculino, gerando problema de concordância/coesão referencial.",
+      "Trecho 'aumentou -,' apresenta espaçamento irregular antes do travessão de fechamento e uso inconsistente de pontuação (vírgula após travessão)."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do enunciado e articula de forma competente as duas metáforas propostas (o Atlântico como rio e a terceira margem como espaço simbólico compartilhado). A definição da 'terceira margem' como uma perspectiva comum de paz e desenvolvimento é coerente e bem sustentada ao longo do texto.",
+      "O texto apresenta estrutura lógica clara, com introdução que define a tese, parágrafos de desenvolvimento que abordam aspectos históricos, culturais e diplomáticos, e conclusão que retoma a ideia central. A progressão temática é bem conduzida.",
+      "O repertório mobilizado é rico e pertinente: referências a Maria Sylvia de Carvalho Franco, Barry Buzan, ZOPACAS, Tratados de Tlatelolco e Pelindaba, Agenda 2063, PEC-G e PEC-PG demonstram conhecimento sólido e adequado ao perfil do CACD.",
+      "Um ponto de melhoria seria aprofundar a dimensão literária da metáfora de Guimarães Rosa. No conto, a terceira margem carrega uma dimensão existencial, de ruptura e de indefinição, que poderia ter sido explorada de forma mais sofisticada — por exemplo, discutindo as tensões e contradições dessa 'terceira margem' (assimetrias, legado colonial não resolvido, etc.), e não apenas seus aspectos positivos.",
+      "O parágrafo que trata da influência cultural africana no Brasil, embora informativo, poderia estar mais integrado à argumentação central sobre a 'terceira margem'. Por vezes, o texto se aproxima de uma enumeração de dados sem aprofundar analiticamente como esses elementos constroem efetivamente essa terceira margem.",
+      "A linguagem é adequada ao contexto, com vocabulário preciso e registro formal. A coesão é geralmente boa, embora o trecho com 'Um implicou / O outro' apresente ambiguidade referencial que prejudica a clareza."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'Um implicou' e 'O outro' com referentes ambíguos — 'um' e 'outro' referem-se a 'colonização europeia' e 'escravidão', ambos substantivos femininos, mas foram retomados no masculino, gerando problema de concordância/coesão referencial.",
+      "Trecho 'aumentou -,' apresenta espaçamento irregular antes do travessão de fechamento e uso inconsistente de pontuação (vírgula após travessão)."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do enunciado e combina as duas metáforas de forma pertinente, definindo a 'terceira margem' como uma perspectiva comum de paz e desenvolvimento construída entre Brasil e África.",
+      "O texto é bem estruturado, com introdução clara, desenvolvimento em múltiplos eixos (histórico, cultural, diplomático) e conclusão coerente. A progressão temática é lógica e bem encadeada.",
+      "O repertório mobilizado é rico e adequado ao perfil do CACD: referências a Maria Sylvia de Carvalho Franco, Barry Buzan, ZOPACAS, Tratados de Tlatelolco e Pelindaba, Agenda 2063, PEC-G e PEC-PG demonstram conhecimento sólido.",
+      "Um ponto de melhoria é a profundidade analítica da metáfora literária de Guimarães Rosa. O conto 'A terceira margem do rio' carrega significados existenciais e filosóficos (o espaço do indeterminado, do entre-lugar) que poderiam ter sido explorados com mais sofisticação para enriquecer a argumentação, em vez de a metáfora ser usada de forma mais instrumental.",
+      "O trecho sobre a proposta africana de 'unificação política' após a independência do Brasil é pouco claro e carece de contextualização — poderia confundir o leitor.",
+      "A argumentação, embora competente e bem informada, segue um padrão relativamente previsível de enumeração de exemplos. Uma articulação mais sofisticada entre os argumentos e uma tese mais ousada elevariam o texto a um patamar superior."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'terceira-margem' — uso indevido de hífen; o correto seria 'terceira margem' (sem hífen).",
+      "'o oceano que os separam' — erro de concordância verbal; o correto seria 'o oceano que os separava' ou 'os separa' (o verbo deve concordar com 'oceano' no singular e o tempo verbal deveria ser pretérito).",
+      "'ao reconhecimento de independências nacionais' — quebra de paralelismo; a construção anterior usa 'em relação ao colonialismo português', e a sequência deveria manter a mesma regência ('à mudança de postura em relação ao colonialismo português, ao reconhecimento...' está parcialmente correta, mas a preposição 'a' antes de 'um nível' e a estrutura 'perpassaram do... a...' gera confusão com 'ao reconhecimento'). Mais precisamente, há ruptura de paralelismo na enumeração iniciada por 'a mudança de postura em relação ao colonialismo português, ao reconhecimento...' — mistura de substantivo com complemento preposicionado.",
+      "'intereses' — erro de ortografia; o correto é 'interesses'.",
+      "'podese' — erro de ortografia/grafia; o correto é 'pode-se' (com hífen).",
+      "'outros juntos às Nações Unidas' — provável erro; o mais adequado seria 'outros junto às Nações Unidas' ou 'outros esforços junto às Nações Unidas'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura organizacional, com introdução clara que combina as duas metáforas, desenvolvimento bem articulado em parágrafos temáticos e conclusão que retoma a tese central. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A argumentação é sólida e bem fundamentada, com referências históricas pertinentes (reconhecimento de independências africanas, ZOPACAS, UNCTAD, G77, CPLP, ABC, Embrapa, Fiocruz). O candidato demonstra conhecimento substantivo das relações Brasil-África e articula bem os exemplos com a tese proposta.",
+      "A capacidade de análise e reflexão é boa, com a interpretação criativa da 'terceira margem' como destino entrelaçado e cooperação para o desenvolvimento. Contudo, a reflexão poderia ter sido aprofundada com maior originalidade — a ideia de 'terceira margem' como algo que transcende as duas margens (algo novo, híbrido, uma identidade compartilhada ou um espaço de encontro que não é nem Brasil nem África) poderia ter sido explorada com mais profundidade filosófica ou conceitual. A análise tende a ser mais descritiva do que propriamente reflexiva em alguns trechos.",
+      "O texto apresenta alguns erros gramaticais pontuais, como 'intereses' (ortografia), 'podese' (ausência de hífen), erro de concordância verbal ('os separam'), uso indevido de hífen em 'terceira-margem' e quebra de paralelismo sintático. Apesar disso, a linguagem é predominantemente correta e adequada.",
+      "A menção ao número '7' isolado no meio do texto (antes de 'intensamente') parece ser um resquício de numeração ou anotação, o que prejudica levemente a apresentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'terceira-margem' — uso indevido de hífen; o correto seria 'terceira margem' (sem hífen).",
+      "'o oceano que os separam' — erro de concordância verbal; o correto seria 'o oceano que os separava' ou 'os separa' (o verbo deve concordar com 'oceano' no singular e o tempo verbal deveria ser pretérito).",
+      "'intereses' — erro de ortografia; o correto é 'interesses'.",
+      "'podese' — erro de ortografia/grafia; o correto é 'pode-se' (com hífen).",
+      "'perpassaram do infame tráfico negreiro a um nível de afastamento' — regência inadequada; 'perpassar' não rege a preposição 'de...a' nesse sentido; seria mais adequado 'passaram do... ao...' ou 'foram do... ao...'.",
+      "'ao reconhecimento de independências nacionais' — quebra de paralelismo; a estrutura anterior usa 'em relação ao colonialismo português', e a sequência deveria manter a mesma regência ('à mudança... em relação ao colonialismo, ao reconhecimento...' gera ambiguidade e falta de paralelismo com 'a mudança de postura')."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura organizacional, com introdução clara que articula as duas metáforas, desenvolvimento bem segmentado em parágrafos temáticos e conclusão que retoma a tese central. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A capacidade argumentativa é sólida: o candidato mobiliza conhecimentos históricos pertinentes (reconhecimento de independências africanas, ZOPACAS, UNCTAD, G77, CPLP, ABC, Embrapa, Fiocruz) e os articula de forma coerente com a tese proposta. A argumentação é objetiva e bem sistematizada.",
+      "A capacidade de análise e reflexão é boa, embora pudesse ser aprofundada. O candidato interpreta criativamente as duas metáforas e as combina de forma original ao propor que a 'terceira margem' representa um destino entrelaçado de cooperação. No entanto, a reflexão poderia explorar mais tensões e contradições — por exemplo, os limites da cooperação Sul-Sul, as assimetrias entre Brasil e países africanos, ou a dimensão identitária e civilizacional da 'terceira margem'. A análise tende a ser mais descritiva do que crítica em alguns trechos.",
+      "O número '7' isolado no meio do texto (antes de 'intensamente presentes') parece ser um resquício de numeração ou anotação, o que prejudica levemente a apresentação, embora não tenha sido contabilizado como erro gramatical propriamente dito.",
+      "No geral, trata-se de uma redação de alto nível, com boa articulação entre as metáforas literárias e o conteúdo substantivo das relações Brasil-África, demonstrando domínio temático e capacidade de escrita compatíveis com o concurso."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'terceira-margem' — uso indevido de hífen; o correto seria 'terceira margem' (sem hífen).",
+      "'o oceano que os separam' — erro de concordância verbal; o correto seria 'o oceano que os separava' ou 'os separa' (o sujeito relativo 'que' refere-se a 'oceano', singular, e o tempo verbal deveria ser pretérito).",
+      "'intereses' — erro de ortografia; o correto é 'interesses'.",
+      "'podese' — erro de ortografia/grafia; o correto é 'pode-se' (com hífen).",
+      "'a mudança de postura em relação ao colonialismo português, ao reconhecimento de independências nacionais' — quebra de paralelismo na regência; deveria ser 'a mudança de postura em relação ao colonialismo português, o reconhecimento de independências nacionais' ou ajustar a preposição de forma paralela.",
+      "'outros juntos às Nações Unidas' — provável erro; o mais adequado seria 'outros junto às Nações Unidas' ou 'outros esforços junto às Nações Unidas'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura organizacional, com introdução clara que combina as duas metáforas, desenvolvimento bem articulado em parágrafos temáticos e conclusão que retoma a tese central. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A argumentação é sólida e bem fundamentada, com referências históricas pertinentes (reconhecimento de independências africanas, ZOPACAS, UNCTAD, G77, CPLP, ABC, Embrapa, Fiocruz). O candidato demonstra conhecimento substantivo das relações Brasil-África e articula bem os exemplos com a tese proposta.",
+      "A capacidade de análise e reflexão é boa, com a interpretação criativa da 'terceira margem' como destino entrelaçado e cooperação para o desenvolvimento. Contudo, a reflexão poderia ter sido aprofundada com maior problematização — por exemplo, discutindo tensões, limites ou contradições nessa cooperação, ou explorando dimensões mais originais da metáfora rosiana (o pai que nunca chega, a suspensão entre margens como metáfora de identidade). A leitura da metáfora de Guimarães Rosa ficou um pouco simplificada.",
+      "O número '7' isolado no meio do texto (antes de 'intensamente presentes') parece ser um resquício de numeração ou anotação, o que prejudica levemente a apresentação.",
+      "No geral, trata-se de uma redação de alto nível, com domínio do tema, boa articulação argumentativa e poucos erros gramaticais, embora com espaço para maior profundidade analítica e originalidade na exploração das metáforas literárias."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"o oceano que os separam\" - erro de concordância verbal; o correto seria \"o oceano que os separava\" ou \"os separa\"",
+      "\"intereses\" - erro de ortografia; o correto é \"interesses\"",
+      "\"podese\" - erro de ortografia/hifenização; o correto é \"pode-se\"",
+      "\"terceira-margem\" - uso indevido de hífen; o correto seria \"terceira margem\" (sem hífen)",
+      "\"perpassaram do infame tráfico negreiro a\" - regência inadequada; \"perpassar\" não rege a construção \"de... a\"; mais adequado seria \"passaram do... ao\" ou \"perpassaram o infame tráfico negreiro e...\""
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente compreensão do tema proposto, combinando de forma criativa e intelectualmente sofisticada as duas metáforas literárias. A tese de que a 'terceira margem' representa um destino entrelaçado entre Brasil e África, pautado pela cooperação para o desenvolvimento, é bem construída e sustentada ao longo do texto.",
+      "A organização textual é muito boa, com introdução clara que apresenta a tese, desenvolvimento em parágrafos bem estruturados que abordam a dimensão histórica, os desafios comuns e as iniciativas de cooperação, e conclusão que retoma adequadamente as metáforas.",
+      "O candidato demonstra conhecimento substantivo das relações Brasil-África, mencionando marcos relevantes como o reconhecimento das independências africanas, a ZOPACAS, a UNCTAD, o G77, a CPLP, a ABC, a Embrapa e a Fiocruz, o que enriquece significativamente a argumentação.",
+      "A capacidade argumentativa é sólida, com encadeamento lógico das ideias e boa articulação entre os elementos históricos e contemporâneos. A reflexão pessoal está presente de forma equilibrada, sem ser superficial.",
+      "Há alguns erros gramaticais pontuais (concordância verbal, ortografia, hifenização e regência) que, embora não comprometam a compreensão do texto, representam descuidos que penalizam a nota em um concurso de alto nível como o CACD.",
+      "A linguagem é adequada ao contexto, com registro formal e vocabulário pertinente à temática diplomática e de relações internacionais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'o oceano que os separam' — erro de concordância verbal; o correto seria 'o oceano que os separava' ou 'os separa'.",
+      "'intereses' — erro de ortografia; o correto é 'interesses'.",
+      "'podese' — erro de ortografia/hifenização; o correto é 'pode-se'.",
+      "'terceira-margem' — uso indevido de hífen; não se trata de palavra composta que exija hifenização nesse contexto.",
+      "'perpassaram do infame tráfico negreiro a um nível de afastamento' — regência inadequada; 'perpassar' não rege a preposição 'de' nesse sentido; seria mais adequado 'foram do infame tráfico negreiro a um nível de afastamento' ou construção equivalente."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente compreensão do tema proposto, combinando de forma criativa e coerente as duas metáforas literárias para construir uma argumentação sólida sobre as relações Brasil-África.",
+      "A estrutura do texto é bem organizada, com introdução clara que apresenta a tese, desenvolvimento em parágrafos temáticos (histórico, desafios comuns, cooperação) e conclusão que retoma as metáforas de forma articulada.",
+      "O candidato demonstra bom repertório de conhecimentos sobre política externa brasileira para a África, citando exemplos pertinentes como ZOPACAS, UNCTAD, G77, CPLP, ABC, Embrapa e Fiocruz.",
+      "A argumentação é consistente e bem encadeada, com transições lógicas entre os parágrafos e progressão temática clara.",
+      "Há alguns erros gramaticais pontuais (concordância verbal, ortografia, hifenização) que, embora não comprometam a compreensão, reduzem ligeiramente a nota no critério de correção gramatical.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado, demonstrando maturidade argumentativa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'o oceano que os separam' — erro de concordância verbal; o correto seria 'o oceano que os separava' ou 'os separa'.",
+      "'intereses' — erro de ortografia; o correto é 'interesses'.",
+      "'podese' — erro de ortografia/hifenização; o correto é 'pode-se'.",
+      "'terceira-margem' — uso indevido de hífen; a expressão não requer hifenização ('terceira margem').",
+      "'perpassaram do infame tráfico negreiro a um nível de afastamento' — regência inadequada; 'perpassar' não rege a preposição 'de' nesse sentido; seria mais adequado 'transitaram do... ao...' ou construção equivalente."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente organização textual, com introdução clara que apresenta a tese, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma as ideias centrais.",
+      "O candidato combinou as duas metáforas de forma criativa e coerente, propondo que a 'terceira margem' representa um destino entrelaçado entre Brasil e África, pautado pela cooperação para o desenvolvimento.",
+      "O conhecimento histórico e factual é sólido: referências ao reconhecimento das independências africanas, à ZOPACAS, à UNCTAD, ao G77, à CPLP, à ABC, à Embrapa e à Fiocruz demonstram domínio do tema.",
+      "A argumentação é consistente e bem encadeada, com boa progressão temática do passado colonial ao presente cooperativo.",
+      "Há poucos erros gramaticais, mas alguns são relevantes, como o erro de concordância verbal ('separam') e a grafia incorreta de 'interesses' e 'pode-se'. A linguagem é, em geral, adequada ao registro formal exigido pelo concurso.",
+      "A reflexão poderia ter sido aprofundada com maior originalidade ou com uma dimensão mais pessoal/filosófica da metáfora da 'terceira margem', explorando, por exemplo, a ideia de que a terceira margem é um espaço de indeterminação ou de construção identitária, e não apenas cooperação pragmática."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'o oceano que os separam' — erro de concordância verbal; o correto seria 'o oceano que os separava' ou 'os separa'.",
+      "'terceira-margem' — uso indevido de hífen; a expressão não requer hifenização ('terceira margem').",
+      "'intereses' — erro de ortografia; o correto é 'interesses'.",
+      "'podese' — erro de ortografia/grafia; o correto é 'pode-se'.",
+      "'outros juntos às Nações Unidas' — provável erro por 'outros junto às Nações Unidas' ou 'junto das Nações Unidas'."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do tema e articula de forma competente as duas metáforas propostas no enunciado, construindo uma tese clara sobre a 'terceira margem' como destino entrelaçado de cooperação entre Brasil e África.",
+      "A estrutura do texto é bem organizada, com introdução que apresenta a tese, desenvolvimento histórico e temático, e conclusão que retoma as metáforas de forma coerente. O encadeamento lógico dos parágrafos é satisfatório.",
+      "O repertório de exemplos concretos é relevante e diversificado (ZOPACAS, UNCTAD, G77, CPLP, ABC, Embrapa, Fiocruz), demonstrando conhecimento substantivo das relações Brasil-África.",
+      "A argumentação, embora coerente e bem fundamentada, poderia ser mais sofisticada na exploração da metáfora literária de Guimarães Rosa. O conto 'A terceira margem do rio' trata de uma dimensão existencial e filosófica (o entre-lugar, a suspensão, o indeterminado) que poderia ter sido explorada com maior profundidade para enriquecer a análise.",
+      "Há alguns erros gramaticais e de digitação que comprometem levemente a qualidade formal do texto, como 'separam' por 'separava', 'intereses' e 'podese'. Atenção à revisão final é recomendada.",
+      "O número '7' isolado no meio do texto (antes de 'intensamente presentes') parece ser um resquício de formatação ou numeração de linha, o que prejudica a apresentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'o oceano que os separam' — erro de concordância verbal; o correto seria 'o oceano que os separava' ou 'os separa'.",
+      "'terceira-margem' — uso indevido de hífen; a expressão não é um substantivo composto hifenizado.",
+      "'intereses' — erro de ortografia; o correto é 'interesses'.",
+      "'podese' — erro de ortografia/grafia; o correto é 'pode-se'.",
+      "'outros juntos às Nações Unidas' — provável erro por 'outros junto às Nações Unidas' ou 'junto das Nações Unidas'; além disso, 'outros' sem substantivo claro gera imprecisão."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do tema e articula de forma competente as duas metáforas propostas pelo enunciado, construindo uma tese clara sobre a 'terceira margem' como destino entrelaçado de cooperação para o desenvolvimento.",
+      "A estrutura do texto é bem organizada, com introdução que apresenta a tese, desenvolvimento histórico cronológico e conclusão que retoma as metáforas. O encadeamento lógico é consistente.",
+      "O repertório temático é pertinente e demonstra conhecimento das relações Brasil-África: reconhecimento de independências, ZOPACAS, UNCTAD, G77, CPLP, ABC, Embrapa, Fiocruz. Isso confere solidez argumentativa.",
+      "A argumentação, embora coerente, poderia ser mais sofisticada e original. A ideia de 'destino entrelaçado' e 'cooperação para o desenvolvimento' é previsível e poderia ter sido explorada com maior profundidade analítica — por exemplo, problematizando tensões, assimetrias ou limites dessa cooperação.",
+      "A exploração da metáfora de Guimarães Rosa poderia ser mais aprofundada. No conto, a 'terceira margem' envolve uma dimensão de indeterminação, de suspensão entre dois estados, que poderia ter sido melhor aproveitada para enriquecer a reflexão.",
+      "Há alguns erros gramaticais e de digitação que, embora não comprometam a compreensão, prejudicam a impressão de domínio pleno da norma culta, especialmente em um concurso de alto nível como o CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'o oceano que os separam' — erro de concordância verbal; o correto seria 'o oceano que os separa' (o sujeito relativo 'que' refere-se a 'oceano', singular).",
+      "'terceira-margem' — uso indevido de hífen; a expressão não é um composto hifenizado na norma padrão ('terceira margem').",
+      "'intereses' — erro de ortografia; o correto é 'interesses'.",
+      "'podese' — erro de grafia; o correto é 'pode-se' (com hífen).",
+      "'perpassaram do infame tráfico negreiro a um nível de afastamento' — regência inadequada do verbo 'perpassar'; o verbo não rege a construção 'perpassar de... a...'. Seria mais adequado 'passaram do... ao...' ou 'transitaram do... ao...'."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do enunciado e articula de forma competente as duas metáforas propostas (o Atlântico como rio e a terceira margem), construindo uma tese clara: a terceira margem como destino entrelaçado de cooperação Brasil-África.",
+      "A estrutura do texto é bem organizada, com introdução que apresenta a tese, desenvolvimento histórico cronológico e conclusão que retoma as metáforas. O encadeamento lógico é consistente.",
+      "O conhecimento temático é sólido, com referências pertinentes à ZOPACAS, UNCTAD, G77, CPLP, ABC, Embrapa e Fiocruz, o que demonstra domínio do conteúdo de política externa brasileira para a África.",
+      "A argumentação, embora coerente e bem fundamentada, é relativamente previsível para o contexto do CACD, seguindo uma linha cronológica convencional sem oferecer insights particularmente originais ou uma reflexão mais profunda sobre o significado filosófico/literário da 'terceira margem' rosiana (o indeterminado, o entre-lugar, a suspensão).",
+      "O texto poderia explorar com mais profundidade a dimensão literária e filosófica do conto de Guimarães Rosa — a ideia de permanência no meio do rio, de recusa a chegar a qualquer margem — para enriquecer a metáfora e conferir maior originalidade à reflexão.",
+      "Há um número '7' solto no meio do texto (possivelmente resquício de formatação), o que prejudica a apresentação.",
+      "Os erros gramaticais identificados, embora poucos, incluem falhas de concordância e ortografia que poderiam ser evitadas com revisão mais cuidadosa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso de próclise em início de oração com verbo precedido de advérbio 'também interpõem-se' — o correto seria 'também se interpõem' (próclise obrigatória após advérbio).",
+      "Uso impreciso de 'conjugada de desafios presentes' — o termo adequado seria 'conjugada com' ou 'combinada com desafios presentes'.",
+      "Vírgula inadequada em 'a imposição de sanções a esse Estado, pelo Brasil' — a vírgula antes de 'pelo Brasil' separa indevidamente o agente da passiva, embora possa ser considerada estilística, gera ambiguidade.",
+      "Em 'contribuindo no sentido de promover eventos', a regência mais adequada seria 'contribuindo para promover' ou 'atuando no sentido de promover'."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente organização textual, com introdução clara que articula as duas metáforas propostas pelo enunciado, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente. O estilo é sofisticado e adequado ao registro formal exigido pelo CACD.",
+      "A capacidade de argumentação é notável: o candidato mobiliza conhecimentos históricos (Conferência de Berlim, PEI, Primeiro Choque do Petróleo, apartheid), institucionais (IBAS, CPLP, ZOPACAS) e conceituais (lusotropicalismo, africanismo, universalismo) de forma pertinente e bem articulada. A tese central — de que a 'terceira margem' representa os obstáculos imateriais (históricos, culturais, políticos) à integração no Atlântico Sul — é desenvolvida com consistência.",
+      "A capacidade de análise e reflexão é boa, com interpretação criativa das metáforas literárias e sua aplicação ao campo das relações internacionais. Contudo, a reflexão poderia ser mais profunda em alguns pontos: a interpretação do conto de Guimarães Rosa é simplificada (a 'terceira margem' no conto remete ao inefável, ao transcendente, não apenas a 'limites adicionais'), e a análise das complementariedades contemporâneas poderia ser mais detalhada. A referência a Conrad é interessante, mas poderia ser mais desenvolvida.",
+      "O texto apresenta poucos erros gramaticais, demonstrando domínio sólido da norma culta. O vocabulário é rico e preciso, com uso adequado de conectivos e construções sintáticas complexas. A linguagem é própria do registro diplomático esperado.",
+      "Ponto forte: a articulação entre história diplomática brasileira e as metáforas literárias é feita com naturalidade e elegância, conferindo ao texto tanto substância analítica quanto qualidade estilística.",
+      "Ponto a melhorar: a interpretação da metáfora rosiana poderia ser mais fiel à complexidade do conto original, explorando dimensões como o inominável, o que transcende categorias convencionais, aplicando isso de forma mais ousada à análise das relações no Atlântico Sul."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso de próclise em início de oração com verbo precedido de advérbio 'também interpõem-se' — o correto seria 'também se interpõem' (próclise obrigatória após advérbio).",
+      "Uso inadequado de vírgula antes de complemento essencial em 'como a imposição de sanções a esse Estado, pelo Brasil' — a vírgula antes de 'pelo Brasil' isola indevidamente o agente da passiva, gerando ambiguidade estrutural.",
+      "Em 'conjugada de desafios presentes', o uso de 'conjugada de' é questionável; o mais adequado seria 'conjugada com' ou 'combinada com'.",
+      "Em 'contribuindo no sentido de promover eventos', a regência 'contribuindo no sentido de' é construção prolixa e imprecisa; embora não seja erro gramatical estrito, a expressão 'no sentido de' é considerada vício de linguagem em provas do CACD."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem estruturado, com introdução clara que articula as duas metáforas propostas pelo enunciado, desenvolvimento em parágrafos temáticos coerentes (histórico, desafios presentes, ações concretas) e conclusão que retoma a tese. O estilo é elegante e adequado ao registro formal exigido pelo CACD. A coerência interna é sólida, com conectivos bem empregados e progressão argumentativa fluida. Nota: 9.0.",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do conteúdo, mobilizando referências históricas pertinentes (PEI, Discurso dos 3Ds, Conferência de Berlim, Primeiro Choque do Petróleo, apartheid, IBAS, ZOPACAS, CPLP). A argumentação é objetiva e sistemática, com dados concretos (intercâmbio comercial de 25 bilhões de dólares). Contudo, a definição da 'terceira margem' poderia ser mais precisa e aprofundada — o candidato a identifica como 'limitações imateriais ao contato entre os povos', mas poderia explorar mais dimensões (preconceito, desconhecimento mútuo, assimetrias de poder). A referência a Guimarães Rosa é funcional, mas poderia ser mais explorada em sua riqueza simbólica. Nota: 8.5.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra boa capacidade analítica ao articular fatores históricos, políticos e culturais para explicar os obstáculos à cooperação no Atlântico Sul. A menção ao lusotropicalismo versus africanismo é perspicaz. A referência a Conrad (Coração das Trevas) como contraponto etnocêntrico é interessante. Porém, a reflexão poderia ser mais profunda e original: a 'terceira margem' como metáfora é rica e permitiria explorações mais ousadas — por exemplo, a ideia de que a terceira margem é o próprio espaço intermediário de identidade compartilhada, ou a diáspora africana como elemento constitutivo dessa margem. A análise tende a ser mais descritiva do que propriamente reflexiva em alguns trechos. Nota: 8.0.",
+      "Correção gramatical: O texto apresenta excelente domínio da norma culta, com vocabulário sofisticado e construções sintáticas complexas bem executadas. Foram identificados poucos desvios, sendo o mais claro o erro de colocação pronominal ('também interpõem-se'). No geral, a propriedade da linguagem é notável."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso de próclise em início de oração com verbo precedido de advérbio 'também interpõem-se' — o correto seria 'também se interpõem' (próclise obrigatória após advérbio).",
+      "Uso inadequado de vírgula antes de complemento essencial em 'como a imposição de sanções a esse Estado, pelo Brasil' — a vírgula antes de 'pelo Brasil' separa indevidamente o agente da passiva.",
+      "Expressão 'conjugada de desafios presentes' apresenta regência inadequada; o mais adequado seria 'conjugada com desafios presentes' ou 'combinada com desafios presentes'.",
+      "Em 'contribuindo no sentido de promover eventos', a construção 'contribuindo no sentido de' é redundante e imprecisa; seria preferível 'contribuindo para promover'."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem estruturado, com introdução clara que articula as duas metáforas propostas pelo enunciado, desenvolvimento em parágrafos temáticos coerentes (histórico, desafios presentes, ações concretas) e conclusão que retoma a tese central. O estilo é elegante e adequado ao registro formal exigido pelo CACD. A coerência interna é sólida, com conectivos bem empregados e transições fluidas entre os parágrafos. Nota: 9.0",
+      "1B – Capacidade de argumentação: O candidato demonstra domínio substantivo do tema, mobilizando referências históricas pertinentes (Conferência de Berlim, PEI, Discurso dos 3Ds, Primeiro Choque do Petróleo, apartheid), dados concretos (intercâmbio comercial de 25 bilhões de dólares) e instâncias institucionais relevantes (IBAS, CPLP, ZOPACAS). A argumentação é sistemática e objetiva, com boa articulação entre tese e evidências. Pequena ressalva: a afirmação de que a obra de Costa e Silva se insere no contexto da PEI poderia ser mais precisa cronologicamente, já que a obra é posterior ao período clássico da PEI. Nota: 8.5",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra boa capacidade analítica ao interpretar criativamente a 'terceira margem' como os obstáculos imateriais (históricos, culturais, políticos) à integração no Atlântico Sul. A reflexão sobre o lusotropicalismo versus africanismo é perspicaz. A referência a Conrad (Coração das Trevas) como contraponto etnocêntrico enriquece a análise. Contudo, a reflexão poderia ser ainda mais profunda na exploração da metáfora rosiana — o conto de Guimarães Rosa trata do indizível, do liminar, do que está entre as margens, e essa dimensão filosófica poderia ter sido mais explorada. A análise tende a ser mais descritiva do que propriamente reflexiva em alguns trechos. Nota: 8.0",
+      "Correção gramatical: O texto apresenta excelente domínio da norma culta, com vocabulário sofisticado e construções sintáticas complexas bem executadas. Foram identificados 4 erros/inadequações, todos de natureza menor. O desempenho gramatical é muito bom para o padrão do concurso."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso inadequado de próclise em 'também interpõem-se' — o advérbio 'também' atrai o pronome, exigindo 'também se interpõem'.",
+      "Uso impreciso de 'conjugada de desafios presentes' — a regência mais adequada seria 'conjugada com/a desafios presentes'.",
+      "Vírgula desnecessária em 'a imposição de sanções a esse Estado, pelo Brasil' — a vírgula separa indevidamente o agente da passiva do restante da oração."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando com sofisticação as duas metáforas propostas pelo enunciado e construindo uma interpretação original e coerente da 'terceira margem' do Atlântico Sul como os obstáculos históricos, culturais e políticos à integração Brasil-África.",
+      "A estrutura argumentativa é muito bem organizada, com introdução que apresenta a tese, desenvolvimento em parágrafos temáticos (impedimentos históricos, diferenças persistentes, ações de aproximação) e conclusão que retoma e arremata o argumento central.",
+      "O candidato demonstra conhecimento substantivo de história diplomática brasileira, citando com propriedade a PEI, o Discurso dos 3Ds, o lusotropicalismo, o IBAS, a CPLP e a ZOPACAS, o que enriquece significativamente a argumentação.",
+      "A referência a Joseph Conrad ('Coração das Trevas') na conclusão é pertinente e demonstra repertório cultural amplo, embora pudesse ter sido mais desenvolvida.",
+      "A linguagem é formal e adequada ao contexto do CACD, com vocabulário preciso e variado. Há poucos deslizes gramaticais, o que evidencia bom domínio da norma culta.",
+      "Um ponto de atenção é a afirmação de que a obra de Costa e Silva se insere no contexto da PEI — embora o autor tenha atuado nesse período, a obra 'Um rio chamado Atlântico' é posterior, o que pode configurar uma imprecisão cronológica sutil.",
+      "A redação poderia explorar com mais profundidade a dimensão cultural e identitária da 'terceira margem', aprofundando a metáfora rosiana do espaço intermediário, do entre-lugar, que vai além de simples obstáculo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de próclise em início de oração com verbo no indicativo: 'também interpõem-se entre a nascente e a foz' — o correto seria 'também se interpõem'",
+      "Uso impreciso de 'conjugada de desafios presentes' — a regência mais adequada seria 'conjugada com desafios presentes' ou 'combinada com desafios presentes'",
+      "Pequena imprecisão temporal: a obra de Costa e Silva 'Um rio chamado Atlântico' não é propriamente do período da PEI (anos 1960), tendo sido publicada posteriormente, o que configura um deslize factual mais do que gramatical, mas afeta a precisão argumentativa"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando com sofisticação as duas metáforas propostas pelo enunciado — o Atlântico como rio (Costa e Silva) e a terceira margem (Guimarães Rosa) — para construir uma tese original sobre os obstáculos imateriais à cooperação Brasil-África.",
+      "A estrutura argumentativa é muito bem organizada, com introdução que apresenta a tese, desenvolvimento em parágrafos temáticos (impedimentos históricos, diferenças persistentes, ações de aproximação) e conclusão que retoma e arremata o argumento central.",
+      "O candidato demonstra conhecimento sólido de história da política externa brasileira, mencionando com pertinência a PEI, o Discurso dos 3Ds, o lusotropicalismo, o Primeiro Choque do Petróleo, o apartheid, o IBAS, a CPLP e a ZOPACAS.",
+      "A linguagem é formal, adequada ao contexto do CACD, com vocabulário rico e variado (elidir, conducentes, prefigura, ensejou). O texto flui bem e mantém coerência ao longo de toda a extensão.",
+      "Há um pequeno deslize cronológico ao associar a obra de Costa e Silva diretamente ao período da PEI, quando ela é posterior. Além disso, a exploração da metáfora da 'terceira margem' poderia ter sido mais aprofundada em termos literários e filosóficos, explorando a dimensão existencial do conto de Guimarães Rosa.",
+      "A referência a 'Coração das Trevas' de Conrad na conclusão é pertinente e enriquece o texto, demonstrando repertório cultural amplo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de próclise em início de oração com verbo precedido de advérbio: 'também interpõem-se' — o correto seria 'também se interpõem'",
+      "Imprecisão cronológica: a obra 'Um rio chamado Atlântico' de Alberto da Costa e Silva não se insere no contexto da PEI (anos 1960), tendo sido publicada posteriormente, o que configura um erro factual que compromete a argumentação",
+      "Uso ligeiramente impreciso de 'conjugada de desafios presentes' — a regência mais adequada seria 'conjugada com desafios presentes' ou 'conjugada a desafios presentes'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura dissertativa, com introdução clara que articula as duas metáforas propostas pelo enunciado, desenvolvimento bem organizado em parágrafos temáticos e conclusão coerente.",
+      "O candidato demonstra amplo repertório de conhecimentos sobre política externa brasileira e relações Brasil-África, mobilizando referências históricas (Conferência de Berlim, PEI, Discurso dos 3Ds, apartheid), institucionais (ZOPACAS, CPLP, IBAS) e literárias (Conrad) de forma pertinente.",
+      "A articulação das duas metáforas — o Atlântico como rio e a terceira margem como barreiras imateriais — é criativa e bem desenvolvida, conferindo originalidade à abordagem.",
+      "A linguagem é formal, adequada ao contexto do CACD, com vocabulário sofisticado e variado. O encadeamento argumentativo é lógico e fluido.",
+      "Há um erro factual relevante ao associar a obra de Costa e Silva ao período da PEI, o que enfraquece parte da argumentação histórica.",
+      "A redação poderia explorar com mais profundidade o aspecto cultural e identitário da 'terceira margem', aprofundando a dimensão metafórica do conto de Guimarães Rosa (o pai que permanece no meio do rio como símbolo de um espaço intermediário, híbrido), o que enriqueceria a reflexão.",
+      "De modo geral, trata-se de uma redação de alto nível, com argumentação sólida, boa articulação temática e poucos desvios gramaticais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de próclise em início de oração com verbo no indicativo após ponto e vírgula: 'também interpõem-se entre a nascente e a foz' — o correto seria 'também se interpõem'.",
+      "Imprecisão histórica tratada como fato: a obra de Alberto da Costa e Silva não se insere propriamente no contexto da PEI, sendo publicações posteriores; a associação direta pode configurar anacronismo argumentativo.",
+      "Uso de 'conjugada de' em 'é uma decorrência histórica, conjugada de desafios presentes' — a regência mais adequada seria 'conjugada com' ou 'conjugada a'."
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estrutura dissertativa, com introdução que articula as duas metáforas propostas pelo enunciado, desenvolvimento em parágrafos temáticos e conclusão que retoma a tese central. A organização é clara e o encadeamento lógico é consistente.",
+      "A argumentação é pertinente e bem fundamentada, com referências históricas relevantes (PEI, Conferência de Berlim, apartheid, Discurso dos 3Ds, IBAS, ZOPACAS, CPLP). O candidato demonstra conhecimento sólido de política externa brasileira e história das relações Brasil-África.",
+      "A interpretação da 'terceira margem' como os obstáculos imateriais — históricos, culturais e políticos — à integração no Atlântico Sul é criativa e coerente com as metáforas propostas. Contudo, a leitura do conto de Guimarães Rosa é simplificada; a metáfora rosiana é mais existencial e filosófica, e o texto poderia ter explorado essa dimensão com maior profundidade.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD ('conducentes', 'elidir', 'prefigura', 'esmerar-se'). Há, porém, certa repetitividade no uso de expressões como 'lograr' e 'não obstante'.",
+      "A referência a 'Coração das Trevas' de Conrad na conclusão é interessante, mas aparece de forma abrupta e pouco desenvolvida, funcionando mais como ornamento do que como argumento substancial.",
+      "O texto, embora competente e bem informado, tende a uma argumentação previsível e algo protocolar, sem alcançar o nível de originalidade e sofisticação analítica que caracterizaria uma redação excelente ou excepcional. A combinação das duas metáforas, embora funcional, poderia ter sido explorada com maior inventividade literária e filosófica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de próclise em início de oração com verbo no indicativo após ponto e vírgula: 'também interpõem-se entre a nascente e a foz' — o correto seria 'também se interpõem'.",
+      "Imprecisão histórica tratada como fato: a obra de Alberto da Costa e Silva não se insere propriamente no contexto da PEI, sendo publicações posteriores; a associação direta pode configurar anacronismo argumentativo.",
+      "Uso de 'conjugada de' em 'é uma decorrência histórica, conjugada de desafios presentes' — a regência mais adequada seria 'conjugada com' ou 'conjugada a'."
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estrutura dissertativa, com introdução que articula as duas metáforas propostas pelo enunciado, desenvolvimento em parágrafos temáticos e conclusão que retoma a tese central. A organização é clara e o encadeamento lógico é consistente.",
+      "A argumentação é pertinente e bem fundamentada, com referências históricas relevantes (PEI, Conferência de Berlim, apartheid, Discurso dos 3Ds, IBAS, ZOPACAS, CPLP). O candidato demonstra conhecimento sólido de política externa brasileira e história das relações Brasil-África.",
+      "A interpretação da 'terceira margem' como os obstáculos imateriais — históricos, culturais e políticos — à integração no Atlântico Sul é criativa e coerente com as metáforas propostas. Contudo, a leitura do conto de Guimarães Rosa é simplificada; a metáfora rosiana é mais existencial e filosófica, e o texto poderia ter explorado essa dimensão com maior profundidade.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD ('conducentes', 'elidir', 'prefigura', 'esmerar-se'). Há, porém, certa repetitividade no uso de expressões como 'lograr' e 'não obstante'.",
+      "A referência a 'Coração das Trevas' de Conrad na conclusão é interessante, mas aparece de forma abrupta e pouco desenvolvida, funcionando mais como ornamento do que como argumento substancial.",
+      "O texto, embora competente e bem informado, tende a uma argumentação previsível e algo protocolar, sem alcançar o nível de originalidade e sofisticação analítica que caracterizaria uma redação excelente ou excepcional. A combinação das duas metáforas, embora funcional, poderia ter sido explorada com maior inventividade literária e filosófica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de próclise em início de oração com verbo no indicativo após ponto e vírgula: 'também interpõem-se entre a nascente e a foz' — o correto seria 'também se interpõem'.",
+      "Imprecisão histórica tratada como fato: a obra de Alberto da Costa e Silva não se insere propriamente no contexto da PEI, sendo publicações posteriores; a associação direta pode configurar anacronismo argumentativo.",
+      "Uso de 'conjugada de' em 'é uma decorrência histórica, conjugada de desafios presentes' — a regência mais adequada seria 'conjugada com' ou 'conjugada a'."
+    ],
+    "feedbacks": [
+      "O texto demonstra boa estrutura dissertativa, com introdução que articula as duas metáforas propostas pelo enunciado, desenvolvimento em parágrafos temáticos e conclusão que retoma a tese central. A organização é clara e o encadeamento lógico é consistente.",
+      "A argumentação é pertinente e bem fundamentada, com referências históricas relevantes (PEI, Conferência de Berlim, apartheid, Discurso dos 3Ds, IBAS, ZOPACAS, CPLP). O candidato demonstra conhecimento sólido de política externa brasileira e história das relações Brasil-África.",
+      "A interpretação da 'terceira margem' como os obstáculos imateriais — históricos, culturais e políticos — à integração no Atlântico Sul é criativa e coerente com as metáforas propostas. Contudo, a leitura do conto de Guimarães Rosa é simplificada; a metáfora rosiana é mais existencial e filosófica, e o texto poderia ter explorado essa dimensão com maior profundidade.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD ('conducentes', 'elidir', 'prefigura', 'esmerar-se'). Há, porém, certa repetitividade no uso de expressões como 'lograr' e 'não obstante'.",
+      "A referência a 'Coração das Trevas' de Conrad na conclusão é interessante, mas aparece de forma abrupta e pouco desenvolvida, funcionando mais como ornamento do que como argumento substancial.",
+      "O texto, embora competente e bem informado, tende a uma argumentação previsível e algo protocolar, sem alcançar o nível de originalidade e sofisticação analítica que caracterizaria uma redação excelente ou excepcional. A combinação das duas metáforas, embora funcional, poderia ter sido explorada com maior inventividade literária e filosófica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 7.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 10,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'ao passo que': '...pela natureza ao passo que a terceira...' deveria ser '...pela natureza, ao passo que a terceira...'",
+      "'Candomble' sem acento — o correto é 'Candomblé'",
+      "'Capoeira' grafada com maiúscula sem justificativa de nome próprio institucional; aceitável, porém discutível",
+      "Uso inadequado de vírgula isolando 'também' em diversas ocorrências: 'A influência dos africanos, também, é percebida' — o advérbio 'também' nessa posição não exige dupla vírgula; o mesmo ocorre em 'Há, também, um pouco', 'A literatura brasileira, também, é apreciada', 'Os vínculos entre os dois lados do Atlântico Sul, também, são parte' e 'O Brasil, por exemplo, já fez exercícios militares' (este último é aceitável). Contabilizam-se ao menos 4 ocorrências problemáticas com 'também'.",
+      "'sulamericana' sem hífen — o correto é 'sul-americana'",
+      "'América do SulÁfrica (ASA)' — falta espaço ou hífen entre 'Sul' e 'África', indicando erro de digitação/formatação",
+      "Uso de 'levando coisas de um lado ao outro' — regência inadequada; o correto seria 'de um lado a outro' ou 'de um lado para o outro'",
+      "Uso excessivo e por vezes inadequado de vírgulas intercalando 'também' como aposto, quando funciona como advérbio integrado ao verbo",
+      "Em 'forma parte dos oficiais do país' — a expressão mais adequada seria 'forma parte dos quadros de oficiais' ou 'forma oficiais do país'; há imprecisão que gera ambiguidade",
+      "Falta de acento ou erro tipográfico em 'Shael' — a grafia mais usual em português é 'Sahel'"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização estrutural, com introdução que explica as duas metáforas, desenvolvimento em três eixos (influência africana na América do Sul, influência sul-americana na África e vínculos bilaterais) e conclusão que retoma a tese. A estrutura é clara e facilita a leitura.",
+      "A argumentação é bem sustentada com exemplos concretos e pertinentes: técnicas agrícolas e de mineração trazidas por africanos, influência de Brasília sobre Abuja, cooperação militar com a Namíbia, programas como Pró-Savana e Cotton-4. Isso demonstra conhecimento substantivo do tema.",
+      "A capacidade de análise e reflexão, embora presente, poderia ser mais aprofundada. A interpretação da metáfora da 'terceira margem' como aquilo que há de um continente no outro é interessante, mas a reflexão permanece em nível predominantemente descritivo. O candidato poderia ter explorado mais as dimensões simbólicas, identitárias e geopolíticas da metáfora, bem como tensões e contradições (como o legado da escravidão, assimetrias nas relações, etc.).",
+      "O conceito de desterritorialização e reterritorialização de Milton Santos é bem empregado e agrega valor analítico ao texto, embora pudesse ter sido mais desenvolvido.",
+      "Há alguns erros gramaticais e de grafia que comprometem parcialmente a correção linguística, como a ausência de acento em 'Candomblé', a grafia 'sulamericana' sem hífen, e o uso recorrente e desnecessário de vírgulas isolando o advérbio 'também'.",
+      "A conclusão é funcional, mas repete quase literalmente o que já foi dito, sem acrescentar uma reflexão final mais elaborada ou provocativa.",
+      "De modo geral, trata-se de uma redação competente, bem informada e organizada, mas que poderia ganhar em profundidade analítica e refinamento estilístico."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 8.0,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "Vírgula desnecessária antes de 'também' em múltiplas ocorrências: 'A influência dos africanos, também, é percebida' — o advérbio 'também' intercalado por vírgulas nesse contexto é uso inadequado, pois não se trata de elemento explicativo ou aposto.",
+      "'Candomble' — falta de acento: o correto é 'Candomblé'.",
+      "'Capoeira' grafada com inicial maiúscula sem justificativa de nome próprio; deveria ser 'capoeira'.",
+      "'sulamericana' — grafia incorreta; o correto é 'sul-americana', com hífen.",
+      "'América do SulÁfrica (ASA)' — falta de hífen ou espaço entre 'Sul' e 'África'; o correto seria 'América do Sul-África'.",
+      "'ao passo que a terceira é criação humana' — falta de vírgula antes de 'ao passo que' (conjunção adversativa/contrastiva que pede vírgula).",
+      "'levando coisas de um lado ao outro' — regência inadequada; o mais adequado seria 'de um lado a outro' ou 'de um lado para o outro'.",
+      "Uso repetido e inadequado de vírgulas isolando 'também' como intercalação em 'Os vínculos entre os dois lados do Atlântico Sul, também, são parte' e 'O segundo programa de cooperação, também, inclui' — padrão de erro recorrente."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização estrutural, com introdução que articula as duas metáforas, desenvolvimento em três eixos temáticos (influência africana na América do Sul, influência sul-americana na África e vínculos bilaterais) e conclusão que retoma a tese. A estrutura é clara e facilita a leitura.",
+      "A argumentação é rica em exemplos concretos e pertinentes: técnicas agrícolas e de mineração trazidas por africanos, Candomblé, capoeira, influência de Guimarães Rosa em Mia Couto, Brasília como modelo para Abuja, cooperação militar com Namíbia, programas Pró-Savana e Cotton-4. Isso demonstra bom repertório de conhecimentos.",
+      "A interpretação das metáforas é competente: o candidato compreende bem a ideia do Atlântico como rio (proximidade) e da terceira margem como construção humana/simbólica. Contudo, a reflexão poderia ser mais profunda e original. A análise permanece em nível predominantemente descritivo, listando exemplos sem aprofundar as implicações geopolíticas, identitárias ou filosóficas da metáfora. A menção a Milton Santos (desterritorialização/reterritorialização) é um bom momento analítico, mas não é suficientemente desenvolvida.",
+      "O texto é excessivamente enumerativo em alguns trechos, o que prejudica a fluidez e a profundidade da reflexão. A terceira margem poderia ter sido explorada de forma mais criativa — por exemplo, discutindo a dimensão identitária, a questão da diáspora, o papel do Atlântico Sul na ordem internacional contemporânea, ou a dimensão ambiental e estratégica.",
+      "Há erros gramaticais recorrentes, especialmente o uso inadequado de vírgulas para isolar o advérbio 'também', além de erros de acentuação e grafia. Esses erros, embora não comprometam gravemente a compreensão, revelam falta de atenção à norma culta.",
+      "A conclusão é funcional, mas poderia ser mais elaborada, oferecendo uma reflexão final mais sofisticada em vez de apenas resumir o que foi dito."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 7.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 9,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'ao passo que' na frase 'As duas primeiras margens do rio foram criadas pela natureza ao passo que a terceira é criação humana.' — recomenda-se vírgula antes da conjunção adversativa/contrastiva.",
+      "'Candomble' — falta de acento: o correto é 'Candomblé'.",
+      "'Capoeira' grafada com inicial maiúscula sem justificativa de nome próprio institucional; embora aceitável em alguns contextos, o uso inconsistente com 'Candomble' (sem acento) sugere descuido.",
+      "'sulamericana' — grafia incorreta; o correto é 'sul-americana', com hífen.",
+      "'América do SulÁfrica (ASA)' — falta de hífen ou espaço entre 'Sul' e 'África'; o correto seria 'América do Sul-África'.",
+      "Uso excessivo e por vezes inadequado de vírgulas isolando 'também' em posições onde não se justifica pausa enfática obrigatória, como em 'A influência dos africanos, também, é percebida' e 'Os vínculos entre os dois lados do Atlântico Sul, também, são parte'. O advérbio 'também' intercalado entre vírgulas repetidamente constitui uso questionável de pontuação.",
+      "'levando coisas de um lado ao outro' — regência inadequada; o mais correto seria 'de um lado a outro' ou 'de um lado para o outro'.",
+      "'forma parte dos oficiais do país' — expressão inadequada; o correto seria 'forma parte dos oficiais' no sentido de 'treina/forma oficiais', mas a construção 'forma parte dos oficiais' é ambígua e imprecisa. Melhor: 'forma oficiais do país'.",
+      "Falta de vírgula após 'Cerrado brasileiro' em 'desenvolvida para a produção agrícola no Cerrado brasileiro, para a produção agrícola em Moçambique' — a vírgula antes de 'para a produção agrícola em Moçambique' gera quebra indevida do complemento verbal; a frase está mal estruturada sintaticamente."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização estrutural, com introdução que articula as duas metáforas, desenvolvimento em três eixos temáticos (influência africana na América do Sul, influência sul-americana na África e vínculos bilaterais) e conclusão que retoma a tese. A estrutura é clara e facilita a leitura.",
+      "O candidato demonstra conhecimento factual relevante, citando exemplos concretos como Brasília/Abuja, Pró-Savana, Cotton-4, cooperação militar Brasil-Namíbia e influência de Guimarães Rosa sobre Mia Couto. Isso enriquece a argumentação e demonstra repertório.",
+      "A interpretação das metáforas é adequada: o rio como proximidade (Costa e Silva) e a terceira margem como construção humana imaterial que conecta as duas margens físicas (Guimarães Rosa). A combinação é bem articulada na introdução.",
+      "Ponto de melhoria: a capacidade de análise e reflexão poderia ser mais aprofundada. O texto tende a ser mais descritivo e enumerativo do que analítico. A 'terceira margem' poderia ter sido explorada com maior profundidade conceitual — por exemplo, discutindo identidade, pertencimento, diáspora, ou a dimensão geopolítica do Atlântico Sul como espaço estratégico.",
+      "A referência aos conceitos de Milton Santos (desterritorialização e reterritorialização) é positiva, mas poderia ter sido mais desenvolvida e aplicada com maior rigor analítico.",
+      "O texto apresenta alguns erros gramaticais e de pontuação que, embora não comprometam gravemente a compreensão, revelam descuidos formais (como 'Candomble' sem acento e 'sulamericana' sem hífen).",
+      "A linguagem é clara e objetiva, mas poderia ser mais sofisticada e menos repetitiva em alguns trechos. A repetição de estruturas como 'também' entre vírgulas torna o texto um pouco monótono.",
+      "A conclusão é funcional, mas poderia oferecer uma reflexão final mais elaborada sobre o significado da terceira margem para o futuro das relações entre os dois continentes."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "Uso inadequado de vírgulas isolando 'também' em diversas ocorrências ('A influência dos africanos, também, é percebida'; 'Há, também, um pouco'; 'Os vínculos entre os dois lados do Atlântico Sul, também, são parte') — o advérbio 'também' em posição intercalada não exige vírgulas obrigatórias, e o uso excessivo prejudica a fluidez.",
+      "'Candomble' — grafia incorreta; o correto é 'Candomblé', com acento agudo.",
+      "'sulamericana' — grafia incorreta; o correto é 'sul-americana', com hífen.",
+      "'América do SulÁfrica (ASA)' — aparente erro de formatação/digitação; deveria ser 'América do Sul-África' ou 'América do Sul – África'.",
+      "'ao passo que a terceira é criação humana' — falta vírgula antes de 'ao passo que' para separar a oração subordinada adverbial.",
+      "'levando coisas de um lado ao outro' — regência inadequada; o mais adequado seria 'de um lado a outro' ou 'de um lado para o outro'.",
+      "'Capoeira' e 'Candomble' grafados com inicial maiúscula de forma inconsistente — 'capoeira' como manifestação cultural não exige maiúscula obrigatória.",
+      "'forma parte dos oficiais do país' — expressão inadequada; o mais preciso seria 'forma parte dos oficiais' ou 'contribui para a formação de oficiais do país'."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, combinando as duas metáforas de forma criativa e coerente. A interpretação da 'terceira margem do Atlântico Sul' como os intercâmbios culturais, políticos e de cooperação entre África e América do Sul é bem fundamentada.",
+      "O texto apresenta boa organização estrutural, com introdução que explica as metáforas, desenvolvimento dividido em três eixos temáticos (influência africana na América do Sul, influência sul-americana na África e vínculos bilaterais) e conclusão que retoma a tese central.",
+      "O candidato demonstra repertório sócio-cultural amplo e pertinente, citando exemplos concretos como Mia Couto, Milton Santos, Brasília/Abuja, Pró-Savana, Cotton-4, cooperação militar com Namíbia, entre outros. Isso enriquece significativamente a argumentação.",
+      "Ponto de melhoria: o texto tende a ser excessivamente enumerativo em alguns trechos, listando exemplos sem aprofundar a análise crítica de cada um. Uma reflexão mais profunda sobre o significado dessas conexões e seus desafios contemporâneos elevaria a qualidade argumentativa.",
+      "A linguagem é adequada ao contexto do concurso, embora haja repetições estruturais (uso excessivo de 'também' entre vírgulas) que prejudicam a fluidez e a elegância do texto.",
+      "A interpretação da metáfora de Guimarães Rosa poderia ser mais sofisticada — no conto, a terceira margem tem dimensão existencial e filosófica mais profunda do que simplesmente uma 'ponte' entre as duas margens. Uma leitura mais refinada da obra literária enriqueceria a introdução."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "Uso inadequado de vírgulas isolando 'também' em diversas ocorrências ('A influência dos africanos, também, é percebida'; 'Há, também, um pouco'; 'Os vínculos entre os dois lados do Atlântico Sul, também, são parte'). O advérbio 'também' intercalado não exige obrigatoriamente vírgulas duplas nessas posições, gerando truncamento desnecessário.",
+      "'Candomble' deveria ser 'Candomblé' (falta de acento).",
+      "'sulamericana' deveria ser 'sul-americana' (falta de hífen em composto com prefixo 'sul').",
+      "'América do SulÁfrica (ASA)' — aparente erro de formatação/digitação, faltando espaço ou hífen entre 'Sul' e 'África'.",
+      "'levando coisas de um lado ao outro' — regência inadequada; o mais adequado seria 'de um lado a outro' ou 'de um lado para o outro'.",
+      "'Capoeira' e 'Candomble' grafados com maiúscula inicial podem ser discutíveis, mas 'Capoeira' como manifestação cultural genérica não exige maiúscula obrigatória.",
+      "'forma parte dos oficiais do país' — expressão imprecisa; o mais adequado seria 'forma parte dos oficiais' ou 'contribui para a formação de oficiais do país'.",
+      "'países do Shael' — grafia incorreta; o correto é 'Sahel'."
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio do tema, combinando as duas metáforas de forma coerente e desenvolvendo a ideia de 'terceira margem do Atlântico Sul' com exemplos concretos e pertinentes, tanto da influência africana na América do Sul quanto da influência sul-americana na África.",
+      "A organização textual é clara e bem estruturada, com introdução que apresenta as metáforas, desenvolvimento em três eixos temáticos (influência africana na América do Sul, influência sul-americana na África e vínculos bilaterais) e conclusão que retoma a tese central.",
+      "O candidato demonstra conhecimento substantivo ao citar exemplos como o Pró-Savana, Cotton-4, a influência de Brasília na criação de Abuja, a Constituição de Guiné-Bissau e a cooperação militar com a Namíbia, o que enriquece a argumentação.",
+      "A referência a Milton Santos e aos conceitos de desterritorialização e reterritorialização agrega profundidade teórica ao texto.",
+      "Pontos a melhorar: o texto tende a ser excessivamente enumerativo em alguns trechos, com acúmulo de exemplos sem aprofundamento analítico suficiente. A reflexão pessoal e a capacidade de abstração poderiam ser mais desenvolvidas, especialmente na exploração da metáfora da 'terceira margem'.",
+      "Há erros pontuais de grafia ('Candomble', 'Shael', 'sulamericana') e uso excessivo e inadequado de vírgulas ao redor de 'também', que prejudicam a fluidez do texto.",
+      "A conclusão, embora funcional, é algo repetitiva em relação ao que já foi dito, sem acrescentar uma reflexão final mais elaborada ou projetiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"Candomble\" — falta de acento: o correto é \"Candomblé\".",
+      "\"Capoeira\" — não se justifica a inicial maiúscula nesse contexto, pois é substantivo comum.",
+      "\"sulamericana\" — grafia incorreta; o correto é \"sul-americana\" (com hífen).",
+      "\"América do SulÁfrica (ASA)\" — aparente erro de formatação/digitação; falta espaço ou hífen entre \"Sul\" e \"África\".",
+      "Uso excessivo e por vezes inadequado de vírgulas isolando \"também\" em posições onde o advérbio não exige isolamento obrigatório (ex.: \"A influência dos africanos, também, é percebida\"; \"Os vínculos entre os dois lados do Atlântico Sul, também, são parte\").",
+      "\"ao passo que\" sem vírgula antes — deveria haver vírgula antes da conjunção adversativa/contrastiva: \"ao passo que a terceira é criação humana\" (falta vírgula após \"natureza\").",
+      "\"Shael\" — grafia incomum; a forma mais usual em português é \"Sahel\".",
+      "\"levando coisas de um lado ao outro\" — regência inadequada; o mais adequado seria \"de um lado a outro\" ou \"de um lado para o outro\"."
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio do tema, articulando de forma competente as duas metáforas propostas no enunciado e construindo uma interpretação original e coerente sobre a 'terceira margem do Atlântico Sul'.",
+      "A estrutura do texto é clara e bem organizada, com introdução que apresenta as metáforas, desenvolvimento em três eixos (influência africana na América do Sul, influência sul-americana na África e vínculos bilaterais) e conclusão que retoma a tese central.",
+      "O candidato demonstra repertório cultural e histórico relevante, citando exemplos concretos como Brasília/Abuja, Mia Couto/Guimarães Rosa, Pró-Savana, Cotton-4, cooperação militar com Namíbia, entre outros, o que enriquece a argumentação.",
+      "A referência a Milton Santos (desterritorialização e reterritorialização) agrega profundidade teórica à análise, embora pudesse ter sido mais desenvolvida.",
+      "Ponto de melhoria: o texto tende a ser excessivamente enumerativo em alguns trechos, listando exemplos sem aprofundar a análise crítica de cada um. Uma reflexão mais densa sobre menos exemplos poderia fortalecer a argumentação.",
+      "A conclusão, embora funcional, é algo repetitiva em relação à introdução, limitando-se a reafirmar o que já foi dito sem acrescentar uma reflexão final mais elaborada ou projetiva.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado, embora haja alguns deslizes gramaticais e de grafia que comprometem levemente a nota."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"Candomble\" — falta de acento: o correto é \"Candomblé\".",
+      "\"Capoeira\" — não se justifica a inicial maiúscula, pois não é nome próprio de instituição.",
+      "\"A influência dos africanos, também, é percebida\" — uso excessivo e inadequado de vírgulas isolando \"também\" quando funciona como advérbio integrado ao verbo.",
+      "\"sulamericana\" — grafia incorreta; o correto é \"sul-americana\" (com hífen).",
+      "\"América do SulÁfrica (ASA)\" — aparente erro de formatação/digitação, faltando espaço ou hífen entre \"Sul\" e \"África\".",
+      "\"Os vínculos entre os dois lados do Atlântico Sul, também, são parte da terceira margem.\" — novamente, uso inadequado de vírgulas isolando \"também\".",
+      "\"O Brasil, também, já fez exercícios militares\" — mesmo problema recorrente com vírgulas em torno de \"também\".",
+      "\"levando coisas de um lado ao outro\" — regência inadequada; o mais preciso seria \"de um lado a outro\" ou \"de um lado para o outro\"."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do enunciado e combina as duas metáforas de forma clara, definindo a 'terceira margem do Atlântico Sul' como os intercâmbios e vínculos entre África e América do Sul. A interpretação é pertinente e bem articulada na introdução.",
+      "O texto é bem organizado, com uma estrutura tripartite clara (influência africana na América do Sul, influência sul-americana na África, vínculos entre os dois lados). Essa divisão facilita a leitura e confere coerência ao desenvolvimento.",
+      "O candidato mobiliza exemplos concretos e variados (Candomblé, Capoeira, Brasília/Abuja, Mia Couto/Guimarães Rosa, Pró-Savana, Cotton-4, cooperação militar com Namíbia), o que demonstra repertório e conhecimento factual relevante para o CACD.",
+      "A referência a Milton Santos e aos conceitos de desterritorialização e reterritorialização agrega profundidade teórica, embora pudesse ser mais desenvolvida.",
+      "Ponto de melhoria: a argumentação, embora competente, é predominantemente descritiva e enumerativa. Falta maior reflexão analítica e aprofundamento crítico — por exemplo, discutir tensões, assimetrias ou desafios nessa relação transatlântica, ou explorar mais a dimensão literária/filosófica da metáfora de Guimarães Rosa (a terceira margem como espaço de indefinição, de busca identitária).",
+      "A conclusão é funcional, mas repete quase literalmente o que já foi dito, sem acrescentar uma síntese mais elaborada ou um insight final que eleve o texto.",
+      "Há um problema recorrente de pontuação: o isolamento de \"também\" entre vírgulas em contextos em que ele funciona como advérbio integrado à oração, o que prejudica a fluidez do texto.",
+      "A linguagem é adequada ao contexto, mas poderia ser mais sofisticada e variada em termos de vocabulário e construções sintáticas, especialmente para o nível esperado no CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"Candomble\" — grafia incorreta; o correto é \"Candomblé\", com acento agudo.",
+      "\"Capoeira\" — não se justifica a inicial maiúscula, pois não é nome próprio de instituição.",
+      "\"sulamericana\" — grafia incorreta; o correto é \"sul-americana\", com hífen.",
+      "\"América do SulÁfrica (ASA)\" — falta espaço ou hífen entre 'Sul' e 'África'; provável erro de digitação/formatação.",
+      "Uso excessivo e por vezes inadequado de vírgulas isolando o advérbio \"também\" em posições onde a intercalação é desnecessária ou prejudica a fluidez (ex.: \"A influência dos africanos, também, é percebida\"; \"Os vínculos entre os dois lados do Atlântico Sul, também, são parte\").",
+      "\"levando coisas de um lado ao outro\" — regência inadequada; o mais correto seria \"de um lado a outro\" ou \"de um lado para o outro\".",
+      "\"ao passo que a terceira é criação humana\" — falta vírgula antes de \"ao passo que\" para separar a oração subordinada adverbial.",
+      "\"forma parte dos oficiais do país\" — expressão imprecisa; o mais adequado seria \"forma parte dos oficiais\" ou \"contribui para a formação de oficiais\"."
+    ],
+    "feedbacks": [
+      "O texto demonstra boa compreensão do enunciado e combina as duas metáforas de forma clara, definindo a 'terceira margem do Atlântico Sul' como os vínculos, influências e intercâmbios entre África e América do Sul. A estrutura tripartite (influência africana na América do Sul, influência sul-americana na África e vínculos entre os dois lados) é bem organizada.",
+      "A argumentação é pertinente e apoiada em exemplos concretos e variados (Capoeira, Candomblé, Brasília/Abuja, Mia Couto/Guimarães Rosa, Pró-Savana, Cotton-4, cooperação militar com Namíbia), o que demonstra repertório temático relevante para o CACD.",
+      "Entretanto, a interpretação da metáfora de Guimarães Rosa é simplificada e não capta a profundidade do conto original — a terceira margem no conto não é exatamente uma 'ponte' entre as duas margens, mas algo mais enigmático e existencial. A redução a 'ponte' é funcional para o argumento, mas perde em sofisticação analítica.",
+      "O texto tem caráter predominantemente descritivo e enumerativo, listando exemplos sem aprofundar a reflexão crítica sobre eles. Falta maior densidade argumentativa e análise mais sofisticada dos vínculos mencionados — por exemplo, discutir tensões, assimetrias ou o significado político-estratégico mais amplo dessas relações.",
+      "A linguagem é adequada e clara, mas pouco elegante. Há repetições estruturais (uso recorrente de 'também', construções paralelas simples) que tornam o texto algo monótono. Para uma faixa superior, seria desejável maior variação sintática e riqueza vocabular.",
+      "A conclusão retoma a tese de forma coerente, mas é previsível e não acrescenta reflexão nova. Um fechamento mais elaborado elevaria a qualidade do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"Candomble\" — falta de acento: o correto é \"Candomblé\".",
+      "\"Capoeira\" — não se justifica a inicial maiúscula, pois não é nome próprio de instituição.",
+      "\"A influência dos africanos, também, é percebida\" — uso inadequado de vírgulas isolando \"também\" quando funciona como advérbio integrado ao verbo, sem valor de intercalação enfática. Esse padrão se repete várias vezes no texto.",
+      "\"levando coisas de um lado ao outro\" — regência inadequada; o correto seria \"de um lado a outro\" ou \"de um lado para o outro\".",
+      "\"sulamericana\" — grafia incorreta; o correto é \"sul-americana\" (com hífen).",
+      "\"América do SulÁfrica (ASA)\" — aparente erro de formatação/digitação, faltando espaço ou hífen entre \"Sul\" e \"África\".",
+      "\"Shael\" — grafia incorreta; o correto é \"Sahel\".",
+      "\"forma parte dos oficiais do país\" — expressão inadequada; o mais apropriado seria \"forma parte dos oficiais\" ou \"contribui para a formação de oficiais do país\"."
+    ],
+    "feedbacks": [
+      "O texto demonstra boa compreensão do enunciado e combina as duas metáforas de forma clara, definindo a 'terceira margem do Atlântico Sul' como os vínculos, influências e intercâmbios entre África e América do Sul. A estrutura é lógica e organizada em três eixos (influência africana na América do Sul, influência sul-americana na África e vínculos bilaterais).",
+      "A argumentação é pertinente e apoiada em exemplos concretos e variados (Capoeira, Candomblé, Brasília/Abuja, Mia Couto/Guimarães Rosa, Pró-Savana, Cotton-4, cooperação militar com Namíbia), o que demonstra repertório temático relevante para o CACD.",
+      "Entretanto, a redação tem caráter predominantemente descritivo e enumerativo. Falta maior profundidade analítica e reflexão crítica. Os exemplos são listados sem aprofundamento: por exemplo, o conceito de desterritorialização/reterritorialização de Milton Santos é mencionado mas não desenvolvido com densidade.",
+      "A interpretação do conto de Guimarães Rosa é simplificada e não capta a complexidade da metáfora original (que envolve o absurdo, o inefável, a ruptura com o convencional). A leitura oferecida — a terceira margem como 'ponte' — é funcional para o argumento, mas perde em sofisticação literária.",
+      "A linguagem é clara e adequada ao contexto, mas sem brilho estilístico. Há repetições estruturais (uso excessivo de 'também' entre vírgulas, construções paralelas previsíveis). A conclusão é funcional, porém repete o que já foi dito sem acrescentar nova camada de reflexão.",
+      "Para alcançar faixas superiores, seria recomendável: (1) aprofundar a análise das metáforas literárias com maior sofisticação; (2) desenvolver os exemplos com mais densidade argumentativa em vez de apenas enumerá-los; (3) incluir uma reflexão mais original ou provocativa sobre o significado da 'terceira margem'; (4) revisar erros de grafia e pontuação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 8.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"étnicoraciais\" – falta de hífen: o correto é \"étnico-raciais\".",
+      "\"préconsciente\" – falta de hífen: o correto é \"pré-consciente\".",
+      "\"tornandose\" – falta de hífen: o correto é \"tornando-se\".",
+      "\"no entanto indaga-se\" – falta de vírgula após \"no entanto\": o correto é \"no entanto, indaga-se\".",
+      "\"questionarse a percepção\" – uso inadequado de pronome reflexivo com \"questionar\" nesse contexto; a construção \"questionar-se a percepção\" é sintaticamente problemática.",
+      "\"índios\" – termo inadequado em contexto formal contemporâneo, embora não constitua erro gramatical estrito, revela impropriedade de linguagem; porém, considerando que o próprio texto usa \"ameríndios\" e \"indígenas\" em outros trechos, trata-se de inconsistência terminológica.",
+      "\"abaixo do quadro, se colocou\" – a colocação pronominal após vírgula deveria ser proclítica em português formal: \"se colocou\" está correto nesse contexto, mas a construção gera ambiguidade; na verdade, o problema é a extensão excessiva do período, que compromete a clareza sintática."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente capacidade de articulação das duas metáforas propostas pelo enunciado, combinando de forma criativa e coerente o 'rio chamado Atlântico' de Alberto da Costa e Silva com 'A terceira margem do rio' de Guimarães Rosa para construir a tese de que o Brasil constitui essa terceira margem.",
+      "O texto apresenta boa estrutura argumentativa, com introdução clara da tese, desenvolvimento em dois eixos (contribuição africana e contribuição indígena) e conclusão que retoma a metáfora central. A organização é lógica e bem encadeada.",
+      "O repertório mobilizado é rico e diversificado: Joaquim Nabuco, Conceição Evaristo, Raul Bopp, Darcy Ribeiro, Heidegger, além da referência ao quadro de José Correia de Lima. Isso demonstra erudição e capacidade de articular conhecimentos de diferentes áreas.",
+      "A capacidade de análise e reflexão é notável, especialmente na discussão sobre a 'escrevivência' de Conceição Evaristo e na aplicação do conceito heideggeriano de 'Dasein' à questão indígena, embora esta última conexão pudesse ser mais desenvolvida.",
+      "Ponto de melhoria: alguns períodos são excessivamente longos, o que compromete a clareza e a fluidez da leitura. O parágrafo sobre o retrato de Simão, por exemplo, contém um período muito extenso que dificulta a compreensão imediata.",
+      "A conclusão poderia ser mais robusta: a passagem da reflexão identitária para a política externa ('ordem internacional mais inclusiva e justa') é feita de forma abrupta e pouco desenvolvida.",
+      "Há erros de grafia composicional (falta de hífens em palavras compostas e prefixadas) que, embora pontuais, revelam descuido na revisão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"étnicoraciais\" – forma correta: \"étnico-raciais\" (falta de hífen em adjetivo composto)",
+      "\"préconsciente\" – forma correta: \"pré-consciente\" (falta de hífen após prefixo 'pré')",
+      "\"tornandose\" – forma correta: \"tornando-se\" (falta de hífen na ênclise com gerúndio)",
+      "\"questionarse\" – forma correta: \"questionar\" (uso inadequado do pronome reflexivo 'se' com verbo que não é pronominal nesse contexto, ou falta de hífen caso se aceite a construção)",
+      "Uso de \"ambos os lados\" para referir-se a três matrizes (ameríndia, africana e europeia) gera imprecisão semântica, embora não seja erro gramatical estrito – desconsiderado como erro gramatical",
+      "\"índios\" – embora não seja erro gramatical, o termo é considerado inadequado em contextos formais contemporâneos; porém o próprio texto usa \"indígenas\" em outros trechos, revelando inconsistência terminológica – não contabilizado como erro gramatical",
+      "Vírgula desnecessária após \"também\" em \"também, revela-se\" – a vírgula isola indevidamente o advérbio do verbo",
+      "\"se colocou um informativo\" – em registro formal culto esperado no CACD, a colocação pronominal deveria ser \"colocou-se\" (início de oração após vírgula, sem palavra atrativa imediata, embora haja controvérsia; porém o advérbio 'abaixo' antecede, o que pode justificar próclise – erro discutível)",
+      "\"por que\" em \"mecanismo por que\" – embora gramaticalmente defensável como \"pelo qual\", a forma pode gerar ambiguidade; não contabilizado como erro"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente repertório cultural e literário, articulando com propriedade as obras de Guimarães Rosa e Alberto da Costa e Silva, além de mobilizar referências a Joaquim Nabuco, Conceição Evaristo, Raul Bopp, Darcy Ribeiro e Heidegger. Isso enriquece substancialmente a argumentação.",
+      "A tese central – o Brasil como 'terceira margem' do Atlântico Sul, constituindo uma identidade inédita formada por matrizes ameríndias, africanas e europeias – é bem construída e coerente com o enunciado proposto.",
+      "A estrutura do texto é bem organizada, com introdução clara, desenvolvimento em blocos temáticos (contribuição africana e contribuição indígena) e conclusão que retoma a metáfora central. No entanto, a transição entre os parágrafos poderia ser mais fluida em alguns momentos.",
+      "A argumentação sobre a contribuição africana é mais desenvolvida e fundamentada do que a sobre a contribuição indígena, gerando certo desequilíbrio no tratamento do tema.",
+      "O texto tende a um tom prescritivo em alguns trechos ('deve-se resguardar', 'mostra-se vital promover'), o que, embora pertinente, poderia ser mais equilibrado com análise reflexiva sobre o que efetivamente constitui essa 'terceira margem'.",
+      "A dimensão europeia da formação brasileira é mencionada na introdução, mas praticamente não é desenvolvida ao longo do texto, o que representa uma lacuna na abordagem do tema.",
+      "Há alguns erros de grafia relacionados à hifenização (étnicoraciais, préconsciente, tornandose) que, embora pontuais, comprometem a correção formal esperada no nível do CACD.",
+      "A citação final de Guimarães Rosa é bem empregada e confere fechamento elegante ao texto, reforçando a ideia de identidade como processo inacabado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 8.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'étnicoraciais' – falta de hífen: o correto é 'étnico-raciais'.",
+      "'préconsciente' – falta de hífen: o correto é 'pré-consciente'.",
+      "'porém João Guimarães Rosa, o autor, termina o conto, sem desvelar' – uso inadequado de vírgula antes de 'sem', separando verbo de seu complemento circunstancial de modo indevido.",
+      "'no entanto indaga-se' – falta de vírgula após 'no entanto' (conjunção adversativa deslocada exige vírgula).",
+      "'abaixo do quadro, se colocou' – próclise inadequada após pausa/vírgula em início de oração; o recomendável seria 'colocou-se'.",
+      "'índios' – termo inadequado no contexto formal contemporâneo, embora não seja erro gramatical estrito, aparece em contraste com 'ameríndios' usado em outros trechos, gerando inconsistência terminológica. Desconsiderado como erro gramatical puro.",
+      "'tornandose' – falta de hífen: o correto é 'tornando-se'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente articulação entre as duas metáforas propostas pelo enunciado, combinando de forma criativa a ideia do 'rio chamado Atlântico' de Alberto da Costa e Silva com 'A terceira margem do rio' de Guimarães Rosa para construir a tese de que o Brasil constitui essa terceira margem – uma identidade que não é puramente europeia, africana ou indígena, mas um construto inédito e inacabado.",
+      "O texto demonstra repertório cultural e intelectual notável, mobilizando referências pertinentes como Joaquim Nabuco, Conceição Evaristo, Raul Bopp, Darcy Ribeiro, Heidegger e o episódio histórico do retrato de Simão. Essas referências são bem integradas à argumentação e não parecem meramente decorativas.",
+      "A estrutura argumentativa é sólida: o candidato apresenta a tese, desenvolve-a em dois eixos (contribuição africana e contribuição indígena) e conclui retomando a metáfora roseana do inacabamento. A coerência interna é bem mantida ao longo do texto.",
+      "A capacidade de análise e reflexão é elevada, especialmente na articulação entre a metáfora literária e questões concretas de política pública (queimadas, garimpo, mortalidade de afrodescendentes), conectando o plano simbólico ao plano prático.",
+      "Pontos de melhoria: o texto é bastante longo e, em alguns trechos, a sintaxe se torna excessivamente complexa, com períodos muito extensos que prejudicam a clareza. A expressão 'escrevivência' de Conceição Evaristo foi utilizada com sentido diferente do original (que se refere à escrita literária a partir da vivência, e não à redução da experiência negra). Há também alguns erros de grafia composicional (falta de hífens) que poderiam ser evitados.",
+      "A conclusão, embora retome a metáfora central, poderia ter sido mais desenvolvida na dimensão diplomática/internacional, considerando que se trata de um concurso para a carreira diplomática. A menção à 'ordem internacional mais inclusiva e justa' é breve demais para o potencial do tema."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'étnicoraciais' deveria ser 'étnico-raciais' (falta de hífen em adjetivo composto)",
+      "'préconsciente' deveria ser 'pré-consciente' (falta de hífen após prefixo 'pré')",
+      "Uso de 'ambos os lados' para referir-se a três matrizes (ameríndia, africana e europeia) gera imprecisão semântica",
+      "'índios' em contexto formal contemporâneo pode ser considerado inadequado; 'indígenas' seria mais apropriado e consistente com o restante do texto",
+      "Vírgula desnecessária em 'também, revela-se' — intercalação que quebra a fluidez sem necessidade sintática"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, combinando com sofisticação as duas metáforas propostas no enunciado — o Atlântico como rio (Costa e Silva) e a terceira margem (Guimarães Rosa) — para construir uma tese original sobre a identidade brasileira como construto intermediário e inacabado.",
+      "O repertório cultural e intelectual mobilizado é notável e diversificado: Joaquim Nabuco, Conceição Evaristo, Raul Bopp, Darcy Ribeiro, Heidegger, José Correia de Lima, além do próprio Guimarães Rosa. As referências são pertinentes e bem articuladas ao argumento central.",
+      "A estrutura argumentativa é sólida, com introdução que apresenta a tese, desenvolvimento que aborda as contribuições africanas e indígenas, e conclusão que retoma a metáfora roseana. O encadeamento lógico é bem conduzido com conectivos adequados.",
+      "Um ponto de melhoria seria aprofundar a dimensão geopolítica e diplomática do Atlântico Sul como espaço de cooperação entre Brasil e África, o que enriqueceria a análise no contexto do CACD. A conclusão, embora coerente, poderia ser mais desenvolvida na articulação entre identidade nacional e política externa.",
+      "A linguagem é formal e adequada ao contexto do concurso, com vocabulário rico e variado. Há poucos deslizes gramaticais, e o texto demonstra maturidade argumentativa e capacidade reflexiva elevada."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'étnicoraciais' deveria ser 'étnico-raciais' (falta de hífen em adjetivo composto)",
+      "'préconsciente' deveria ser 'pré-consciente' (falta de hífen após prefixo 'pré')",
+      "Uso de 'ambos os lados' para referir-se a três matrizes (ameríndia, africana, europeia) gera imprecisão semântica",
+      "'índios' em contexto formal contemporâneo pode ser considerado inadequado; 'indígenas' seria mais apropriado e consistente com o restante do texto",
+      "Vírgula desnecessária após 'também' em 'também, revela-se resultado inacabado'"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente repertório cultural e literário, articulando com propriedade referências a Guimarães Rosa, Alberto da Costa e Silva, Joaquim Nabuco, Conceição Evaristo, Raul Bopp, Darcy Ribeiro e Heidegger, o que enriquece substancialmente a argumentação.",
+      "A combinação das duas metáforas propostas pelo enunciado é bem realizada: o Brasil como 'terceira margem do Atlântico Sul' — nem puramente africano, nem europeu, nem ameríndio, mas uma síntese inacabada — é uma tese criativa e bem sustentada.",
+      "A estrutura do texto é clara e bem organizada, com introdução que apresenta a tese, desenvolvimento em dois eixos (contribuição africana e contribuição indígena) e conclusão que retoma a metáfora roseana. O encadeamento lógico é consistente.",
+      "O texto poderia explorar mais a dimensão geopolítica e estratégica do Atlântico Sul, considerando que o concurso é para a carreira diplomática. A abordagem ficou mais centrada na dimensão identitária e cultural, com pouca atenção às relações internacionais contemporâneas do Brasil com a África e a América do Sul.",
+      "A linguagem é sofisticada e adequada ao registro formal exigido, com vocabulário preciso e construções sintáticas complexas bem executadas. Há, porém, momentos em que a densidade pode comprometer levemente a fluidez da leitura.",
+      "A referência ao quadro de José Correia de Lima é um exemplo concreto e bem utilizado que fortalece o argumento sobre a invisibilização histórica do negro na sociedade brasileira."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'étnicoraciais' deveria ser 'étnico-raciais' (falta de hífen em adjetivo composto)",
+      "'préconsciente' deveria ser 'pré-consciente' (falta de hífen após prefixo 'pré')",
+      "Uso de 'ambos os lados' para referir-se a três matrizes (ameríndia, africana e europeia) gera imprecisão semântica",
+      "'índios' em contexto formal contemporâneo pode ser considerado inadequado; 'indígenas' seria mais apropriado e consistente com o restante do texto",
+      "Vírgula desnecessária em 'também, revela-se' — intercalação que quebra a fluidez sem necessidade sintática"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, combinando com sofisticação as duas metáforas propostas no enunciado — o Atlântico como rio (Costa e Silva) e a terceira margem (Guimarães Rosa) — para construir uma tese original e bem fundamentada sobre a identidade brasileira como construto intermediário e inacabado.",
+      "O repertório cultural e literário mobilizado é notável: Conceição Evaristo ('escrevivência'), Joaquim Nabuco, Raul Bopp ('Urucungo'), Darcy Ribeiro ('Maíra'), José Correia de Lima, Heidegger ('Dasein'), além do próprio Guimarães Rosa. Isso confere densidade argumentativa e erudição ao texto, qualidades valorizadas no CACD.",
+      "A estrutura do texto é bem organizada, com introdução que apresenta a tese, desenvolvimento que aborda as contribuições africanas e indígenas com exemplos concretos, e conclusão que retoma a metáfora roseana e projeta implicações para a política externa brasileira.",
+      "O encadeamento argumentativo é coerente e fluido, com uso adequado de conectivos e transições. A progressão temática — da identidade como síntese, passando pela contribuição africana, pela questão indígena, até a projeção internacional — é lógica e bem conduzida.",
+      "Ponto de atenção: embora a redação seja rica em referências, em alguns momentos a densidade de citações pode comprometer levemente a fluidez da leitura. Além disso, a dimensão europeia da 'terceira margem' poderia ter sido mais explorada, já que o enunciado fala em Atlântico Sul e a Europa constitui uma das margens mencionadas por Costa e Silva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'étnicoraciais' deveria ser 'étnico-raciais' (falta de hífen em adjetivo composto)",
+      "'préconsciente' deveria ser 'pré-consciente' (falta de hífen após prefixo 'pré')",
+      "'tornandose' deveria ser 'tornando-se' (falta de hífen na ênclise com gerúndio)",
+      "Uso de 'índios' em contexto que mistura registro formal e contemporâneo, onde 'indígenas' seria mais adequado e consistente com o restante do texto",
+      "'questionarse a percepção' — uso reflexivo de 'questionar-se' com sujeito inanimado é construção forçada e pouco natural"
+    ],
+    "feedbacks": [
+      "O texto demonstra erudição notável, mobilizando referências literárias (Guimarães Rosa, Conceição Evaristo, Raul Bopp, Darcy Ribeiro), históricas (o retrato de Simão, Joaquim Nabuco) e filosóficas (Heidegger) de forma pertinente ao tema proposto.",
+      "A combinação das duas metáforas — o rio Atlântico de Costa e Silva e a terceira margem de Guimarães Rosa — é bem realizada, com o Brasil sendo apresentado como essa terceira margem, um construto identitário que não se reduz a nenhuma das margens tradicionais.",
+      "A estrutura argumentativa é clara e bem encadeada, com introdução que apresenta a tese, desenvolvimento que aborda as contribuições africanas e indígenas, e conclusão que retoma a metáfora central.",
+      "Um ponto de melhoria seria evitar o excesso de subordinações e intercalações em alguns períodos, que tornam a leitura densa e, por vezes, dificultam a fluidez. Alguns trechos soam excessivamente rebuscados, o que pode comprometer a clareza.",
+      "A argumentação, embora rica em referências, tende a ser mais descritiva do que analítica em certos momentos — por exemplo, o trecho sobre o retrato de Simão é interessante, mas poderia ser mais integrado à argumentação central sobre a 'terceira margem'.",
+      "O texto poderia explorar com mais profundidade o que efetivamente significa ser a 'terceira margem' — o aspecto de incompletude, de suspensão entre dois mundos, de identidade em permanente construção — em vez de se concentrar predominantemente nas questões sociais de negros e indígenas, que, embora relevantes, deslocam parcialmente o foco da reflexão metafórica proposta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'étnicoraciais' deveria ser 'étnico-raciais' (falta de hífen em adjetivo composto)",
+      "'préconsciente' deveria ser 'pré-consciente' (falta de hífen após prefixo 'pré')",
+      "'tornandose' deveria ser 'tornando-se' (falta de hífen na ênclise com gerúndio)",
+      "Uso de 'ambos os lados' para referir-se a três matrizes (ameríndia, africana e europeia) gera imprecisão semântica, já que 'ambos' pressupõe apenas dois elementos",
+      "Vírgula desnecessária após 'também' em 'também, revela-se resultado inacabado'"
+    ],
+    "feedbacks": [
+      "O texto demonstra excelente repertório cultural e literário, mobilizando com pertinência obras de Guimarães Rosa, Alberto da Costa e Silva, Conceição Evaristo, Darcy Ribeiro, Raul Bopp, Joaquim Nabuco e até Heidegger. Essa riqueza referencial é um ponto forte significativo.",
+      "A combinação das duas metáforas propostas pelo enunciado é bem realizada: o candidato articula a ideia do Atlântico como rio e a terceira margem como espaço identitário brasileiro, nem africano nem europeu, mas algo novo e inacabado.",
+      "A estrutura argumentativa é clara e bem encadeada, com introdução que apresenta a tese, desenvolvimento que aborda as contribuições africanas e indígenas, e conclusão que retoma a metáfora roseana. Contudo, a argumentação por vezes se torna mais descritiva do que analítica, listando referências sem aprofundar suficientemente a reflexão sobre cada uma.",
+      "O parágrafo sobre a questão indígena é menos desenvolvido que o sobre a contribuição africana, gerando certo desequilíbrio na estrutura do texto. A menção a Heidegger, embora interessante, parece um tanto forçada e poderia ter sido melhor integrada à argumentação.",
+      "A linguagem é formal e adequada ao contexto do CACD, com vocabulário sofisticado. Porém, em alguns momentos, a construção frasal se torna excessivamente longa e rebuscada, o que compromete levemente a fluidez da leitura.",
+      "A conclusão poderia ser mais robusta: a passagem da reflexão identitária para a proposta de 'ordem internacional mais inclusiva e justa' é abrupta e pouco fundamentada no corpo do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'étnicoraciais' deveria ser 'étnico-raciais' (falta de hífen em adjetivo composto)",
+      "'préconsciente' deveria ser 'pré-consciente' (falta de hífen após prefixo 'pré')",
+      "'tornandose' deveria ser 'tornando-se' (falta de hífen na ênclise com gerúndio)",
+      "Uso de 'índios' em contexto que mistura registro formal e contemporâneo, onde 'indígenas' seria mais adequado e consistente com o restante do texto",
+      "Vírgula desnecessária após 'também' em 'também, revela-se resultado inacabado'"
+    ],
+    "feedbacks": [
+      "O texto demonstra erudição notável, mobilizando referências literárias (Guimarães Rosa, Conceição Evaristo, Raul Bopp, Darcy Ribeiro), históricas (o retrato de Simão, Joaquim Nabuco) e filosóficas (Heidegger) de forma pertinente ao tema proposto.",
+      "A combinação das duas metáforas — o Atlântico como rio e o Brasil como terceira margem — é bem construída e sustentada ao longo do texto, conferindo unidade temática à redação.",
+      "A argumentação, embora rica em referências, por vezes se torna excessivamente descritiva e acumulativa, perdendo força analítica. Há momentos em que as citações e exemplos se sobrepõem à reflexão própria do candidato, tornando o texto mais expositivo do que argumentativo.",
+      "A estrutura do texto é clara, com introdução, desenvolvimento em dois eixos (contribuição africana e contribuição indígena) e conclusão. No entanto, a transição entre os parágrafos poderia ser mais fluida; o salto do tema africano para o indígena é um pouco abrupto.",
+      "O parágrafo final tenta articular uma conclusão propositiva ligando a questão identitária à política externa, o que é pertinente ao CACD, mas a conexão com 'ordem internacional mais inclusiva e justa' aparece de forma apressada e pouco desenvolvida.",
+      "A linguagem é formal e adequada ao contexto do concurso, com vocabulário sofisticado. Contudo, em alguns trechos, a construção sintática é demasiadamente longa e intrincada, o que pode comprometer a clareza (por exemplo, o período sobre o retrato de Simão)."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Falta de fechamento das aspas em '– associada à primeira margem do \"rio chamado Atlântico –' (deveria haver aspas de fechamento após 'Atlântico').",
+      "Erro de concordância verbal: 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos da nova fase.' O sujeito é 'O reconhecimento', portanto o verbo deveria ser 'é' (singular).",
+      "Falta de hífen em 'Formavamse' — o correto é 'Formavam-se'.",
+      "Erro de data: a CPLP foi criada em 1996, não em 1986. Embora seja um erro factual e não estritamente gramatical, compromete a propriedade da linguagem e a precisão informacional.",
+      "Falta de ponto final ao término do último parágrafo: '...ao reencontro de ambos com o mundo' deveria terminar com ponto final.",
+      "Uso de 'gerariam' (futuro do pretérito) onde o contexto pede 'geraram' (pretérito perfeito) ou 'geravam' (pretérito imperfeito): 'as hesitações recíprocas que elas gerariam impediram' apresenta inconsistência de tempo verbal."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura organizacional, com introdução clara que define as metáforas, desenvolvimento cronológico bem articulado e conclusão que retoma as ideias centrais. A proposta de interpretar as três margens como (1) África no Brasil, (2) Brasil na África e (3) Brasil e África no mundo é criativa e bem fundamentada.",
+      "A argumentação é sólida e bem encadeada, com referências históricas pertinentes (escravidão, colonialismo, reconhecimento das independências africanas, ZOPACAS, CPLP, BRICS). O candidato demonstra bom domínio do tema e capacidade de articular fatos históricos com a metáfora proposta pelo enunciado.",
+      "A capacidade de análise e reflexão é notável: o candidato consegue combinar as duas metáforas literárias de forma original e sustentá-las ao longo de todo o texto, construindo uma narrativa coerente sobre a evolução das relações Brasil-África. A conclusão com a citação do chanceler Ernesto Araújo arremata bem o argumento.",
+      "Há um erro factual relevante: a CPLP foi criada em 1996, não em 1986. Esse tipo de imprecisão compromete a credibilidade argumentativa em um concurso que exige rigor informacional.",
+      "A redação poderia ter explorado com mais profundidade o conteúdo literário do conto de Guimarães Rosa ('A terceira margem do rio'), cujo sentido metafísico e existencial poderia enriquecer a análise. A referência ao conto ficou mais superficial, limitando-se ao título.",
+      "No aspecto gramatical, os erros são poucos, mas incluem falha de concordância verbal significativa e ausência de hífen na ênclise, além de inconsistência no uso de tempos verbais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Falta de fechamento das aspas em '– associada à primeira margem do \"rio chamado Atlântico –' (deveria haver aspas de fechamento após 'Atlântico').",
+      "Erro de concordância verbal em 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos da nova fase.' O sujeito é 'O reconhecimento' (singular), portanto o verbo deveria ser 'é' e não 'são'.",
+      "Erro factual tratado como imprecisão: a CPLP foi criada em 1996, não em 1986 como afirmado no texto.",
+      "Falta de hífen em 'Formavamse' — o correto é 'Formavam-se'.",
+      "Falta de ponto final ao término do último parágrafo: '...reencontro de ambos com o mundo' deveria terminar com ponto final.",
+      "Uso de 'gerariam' (futuro do pretérito) onde o contexto pede 'geraram' (pretérito perfeito) ou 'geravam' (pretérito imperfeito), gerando inadequação no tempo verbal em 'as hesitações recíprocas que elas gerariam'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura organizacional, com introdução clara que define as três 'margens' do Atlântico Sul, desenvolvimento cronológico bem articulado e conclusão que retoma a metáfora central. O estilo é fluido e adequado ao gênero dissertativo-argumentativo do CACD.",
+      "A capacidade de argumentação é forte: o candidato constrói uma narrativa histórica coerente que sustenta sua tese central — a 'terceira margem' como inserção conjunta de Brasil e África no cenário mundial. A mobilização de exemplos concretos (ZOPACAS, CPLP, BRICS, reforma do CSNU) demonstra conhecimento substantivo. Contudo, alguns exemplos poderiam ser mais aprofundados, e há imprecisão factual relevante (data da CPLP).",
+      "A capacidade analítica é notável na forma como o candidato combina as duas metáforas literárias propostas pelo enunciado, atribuindo significado próprio a cada 'margem' e construindo uma interpretação original e bem fundamentada. A progressão da análise — da assimetria colonial à simetria contemporânea e à projeção global conjunta — demonstra sofisticação reflexiva. A menção ao discurso de Ernesto Araújo no fechamento é pertinente, embora o texto pudesse explorar mais criticamente os desafios e limitações dessa 'terceira margem'.",
+      "Do ponto de vista gramatical, o texto é predominantemente correto e bem redigido, com poucos erros. Os deslizes identificados incluem problemas de concordância verbal, falta de hífen na ênclise, ausência de pontuação final e imprecisão factual. A linguagem é formal, precisa e adequada ao contexto do concurso.",
+      "Sugestão de melhoria: o texto se beneficiaria de uma abordagem mais crítica sobre os obstáculos à concretização dessa 'terceira margem', como assimetrias econômicas persistentes, limitações institucionais ou divergências políticas, o que enriqueceria a dimensão analítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Falta de fechamento das aspas em '– associada à primeira margem do \"rio chamado Atlântico –' (deveria haver aspas de fechamento após 'Atlântico').",
+      "Erro de concordância verbal: 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos da nova fase.' O sujeito é 'O reconhecimento', portanto o verbo deveria ser 'é' (singular).",
+      "Falta de hífen em 'Formavamse' — o correto é 'Formavam-se'.",
+      "Erro factual tratado como imprecisão textual: a CPLP foi criada em 1996, não em 1986 como afirmado no texto.",
+      "Falta de ponto final ao término do último parágrafo: '...reencontro de ambos com o mundo' deveria terminar com ponto final.",
+      "Uso de 'gerariam' (futuro do pretérito) onde o contexto pede 'geraram' (pretérito perfeito) ou 'geravam' (pretérito imperfeito), gerando inadequação de tempo verbal: 'as hesitações recíprocas que elas gerariam impediram'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura organizacional, com introdução clara que define as metáforas, desenvolvimento cronológico bem articulado e conclusão que retoma as ideias centrais. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A argumentação é bem construída e sistemática, com a divisão em três 'margens' (África no Brasil, Brasil na África, Brasil e África no mundo) funcionando como eixo organizador eficaz. O candidato demonstra conhecimento histórico relevante sobre as relações Brasil-África, citando marcos como a ZOPACAS, a CPLP e os BRICS. Contudo, há um erro factual significativo: a CPLP foi criada em 1996, não em 1986.",
+      "A capacidade analítica é notável na forma como o candidato combina as duas metáforas literárias propostas pelo enunciado, criando uma interpretação original e coerente para a 'terceira margem' do Atlântico Sul. A progressão da assimetria para a simetria e, finalmente, para a projeção conjunta no cenário mundial demonstra sofisticação reflexiva. A citação final do chanceler Ernesto Araújo arremata bem o argumento, embora pudesse haver maior aprofundamento crítico sobre os desafios e limitações dessa parceria.",
+      "Do ponto de vista gramatical, a redação é predominantemente correta, com poucos erros identificados. Os deslizes incluem falta de fechamento de aspas, erro de concordância verbal ('são marcos' quando o sujeito é 'o reconhecimento'), ausência de hífen em 'Formavam-se', inadequação de tempo verbal e ausência de ponto final no encerramento do texto. O erro factual sobre a data da CPLP, embora não seja estritamente gramatical, compromete a credibilidade informativa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de fechamento das aspas em '– associada à primeira margem do \"rio chamado Atlântico –' (deveria haver aspas de fechamento após 'Atlântico')",
+      "Erro de concordância em 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos da nova fase' – o sujeito 'reconhecimento' é singular, deveria ser 'é marco'",
+      "Falta de hífen em 'Formavamse' – correto: 'Formavam-se'",
+      "Erro factual/informativo: a CPLP foi criada em 1996, não em 1986",
+      "Falta de ponto final ao término do último parágrafo, após 'com o mundo'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura argumentativa, com introdução clara que define as três 'margens' do Atlântico Sul de forma criativa e coerente com as metáforas propostas no enunciado.",
+      "O desenvolvimento histórico é bem articulado, percorrendo cronologicamente as fases das relações Brasil-África e conectando-as às metáforas das margens de forma orgânica.",
+      "A tese central – de que a 'terceira margem' representa a inserção conjunta de Brasil e África no cenário mundial – é original, bem fundamentada e sustentada ao longo de todo o texto.",
+      "O candidato demonstra bom conhecimento de política externa brasileira, mencionando ZOPACAS, CPLP, BRICS e reforma do CSNU, embora haja erro factual na data de criação da CPLP (1996, não 1986).",
+      "A conclusão é bem construída, retomando as metáforas e encerrando com citação pertinente, embora falte o ponto final.",
+      "A linguagem é adequada ao gênero dissertativo e ao contexto do CACD, com vocabulário preciso e registro formal consistente.",
+      "Há poucos erros gramaticais, mas o erro de concordância verbal ('são marcos' com sujeito singular 'reconhecimento') e a falta de hífen em 'Formavamse' são falhas relevantes."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de fechamento das aspas em '– associada à primeira margem do \"rio chamado Atlântico –' (deveria haver aspas de fechamento após 'Atlântico')",
+      "Erro de concordância em 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos da nova fase' – o sujeito 'reconhecimento' é singular, devendo ser 'é marco' ou 'é um marco'",
+      "Erro de informação factual: a CPLP foi criada em 1996, não em 1986",
+      "Falta de hífen em 'Formavamse' – o correto é 'Formavam-se'",
+      "Falta de ponto final ao término do último parágrafo, após 'com o mundo'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura argumentativa, com introdução clara que define as três 'margens' do Atlântico Sul de forma criativa e coerente com as metáforas propostas no enunciado.",
+      "O desenvolvimento é bem encadeado, percorrendo cronologicamente as relações Brasil-África e associando cada fase a uma das 'margens', o que demonstra sofisticação analítica.",
+      "O candidato demonstra bom conhecimento histórico e de política externa brasileira, citando marcos como ZOPACAS, CPLP, BRICS e reforma do CSNU.",
+      "O erro factual sobre a data de criação da CPLP (indicada como 1986, quando foi 1996) compromete a credibilidade do argumento nesse ponto.",
+      "O erro de concordância verbal ('O reconhecimento... são marcos') é relevante por tratar-se de concordância básica sujeito-verbo.",
+      "A conclusão é bem construída, retomando as metáforas e encerrando com citação pertinente, embora falte o ponto final.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal bem mantido ao longo de todo o texto.",
+      "A capacidade de reflexão e originalidade na interpretação das metáforas é um ponto forte da redação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de fechamento das aspas em '– associada à primeira margem do \"rio chamado Atlântico –' (deveria haver aspas de fechamento após 'Atlântico')",
+      "Erro de concordância em 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos da nova fase' (o sujeito 'reconhecimento' é singular, deveria ser 'é marco')",
+      "Falta de hífen em 'Formavamse' (correto: 'Formavam-se')",
+      "Erro factual/informativo: a CPLP foi criada em 1996, não em 1986",
+      "Falta de ponto final ao término do último parágrafo, após 'com o mundo'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura argumentativa, com introdução clara que define as três 'margens' do Atlântico Sul de forma criativa e coerente com as metáforas propostas no enunciado.",
+      "O desenvolvimento histórico é bem articulado, percorrendo cronologicamente as fases das relações Brasil-África e conectando-as às metáforas das margens de forma orgânica.",
+      "A tese central — de que a 'terceira margem' representa a inserção conjunta de Brasil e África no cenário mundial — é original, bem fundamentada e sustentada ao longo de todo o texto.",
+      "O candidato demonstra bom domínio de conteúdo substantivo sobre política externa brasileira para a África, mencionando ZOPACAS, CPLP, BRICS e reforma do CSNU.",
+      "O erro factual sobre a data de criação da CPLP (1986 em vez de 1996) compromete a credibilidade do argumento nesse ponto específico.",
+      "O erro de concordância verbal ('são marcos' com sujeito singular 'reconhecimento') e a falta de hífen em 'Formavamse' são falhas gramaticais que, embora pontuais, prejudicam a avaliação de correção linguística.",
+      "A conclusão é bem construída, retomando as metáforas e encerrando com citação pertinente, embora falte o ponto final.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário preciso."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de fechamento das aspas em '– associada à primeira margem do \"rio chamado Atlântico –' (deveria haver aspas de fechamento após 'Atlântico').",
+      "Erro de concordância verbal: 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos da nova fase.' O sujeito é 'O reconhecimento', portanto o verbo deveria ser 'é' (singular).",
+      "Data incorreta da CPLP: mencionada como 'de 1986', quando na verdade foi criada em 1996.",
+      "Falta de hífen em 'Formavamse' — o correto é 'Formavam-se'.",
+      "Falta de ponto final ao término do último parágrafo: '...ao reencontro de ambos com o mundo' deveria terminar com ponto final."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente capacidade de articulação das duas metáforas propostas no enunciado, construindo uma interpretação original e coerente para a 'terceira margem' do Atlântico Sul como a inserção conjunta de Brasil e África no cenário mundial.",
+      "A estrutura do texto é muito bem organizada, com progressão lógica clara: da primeira margem (África no Brasil/escravidão) à segunda (Brasil na África/aproximação) e à terceira (projeção conjunta no mundo). Essa construção demonstra sofisticação argumentativa.",
+      "O domínio temático é notável, com referências pertinentes à ZOPACAS, CPLP, BRICS, reforma do CSNU e política externa brasileira em diferentes períodos históricos, evidenciando conhecimento sólido das relações Brasil-África.",
+      "A linguagem é adequada, fluida e madura, com vocabulário rico e registro compatível com o esperado no CACD. A coesão textual é bem trabalhada, com uso eficaz de conectivos e retomadas das metáforas ao longo do texto.",
+      "Atenção a erros pontuais: a concordância verbal com 'O reconhecimento... são marcos' precisa ser corrigida; a data da CPLP está equivocada (1996, não 1986); e há falhas de pontuação e tipografia (aspas não fechadas, falta de hífen em 'Formavam-se', ausência de ponto final).",
+      "A conclusão é bem construída, retomando as metáforas e encerrando com uma citação que, embora pertinente, poderia ser complementada com reflexão mais crítica sobre os desafios remanescentes da parceria Brasil-África."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de fechamento das aspas em '– associada à primeira margem do \"rio chamado Atlântico –' (deveria haver aspas de fechamento após 'Atlântico').",
+      "Erro de concordância verbal: 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos da nova fase.' O sujeito é 'O reconhecimento', portanto o verbo deveria ser 'é' (singular).",
+      "Data incorreta da CPLP: mencionada como 'de 1986', quando na verdade foi criada em 1996.",
+      "Falta de hífen em 'Formavamse' — o correto é 'Formavam-se'.",
+      "Falta de ponto final ao término do último parágrafo: '...ao reencontro de ambos com o mundo' deveria terminar com ponto final."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente capacidade de articulação das duas metáforas propostas no enunciado, construindo uma interpretação original e coerente para a 'terceira margem' do Atlântico Sul como a inserção conjunta de Brasil e África no cenário mundial.",
+      "A estrutura do texto é muito bem organizada, com progressão lógica clara: da primeira margem (África no Brasil/escravidão) à segunda (Brasil na África/aproximação) e à terceira (projeção conjunta no mundo). Essa construção demonstra sofisticação argumentativa.",
+      "O domínio temático é notável, com referências pertinentes à ZOPACAS, CPLP, BRICS, reforma do CSNU e política externa brasileira em diferentes períodos históricos, evidenciando conhecimento sólido das relações Brasil-África.",
+      "A linguagem é adequada, fluida e madura, com vocabulário rico e registro compatível com o esperado no CACD. A coesão textual é bem trabalhada, com uso eficaz de conectivos e retomadas das metáforas ao longo do texto.",
+      "Atenção a erros pontuais: a concordância verbal com 'O reconhecimento... são marcos' precisa ser corrigida; a data da CPLP está equivocada (1996, não 1986); e há falhas de pontuação e tipografia (aspas não fechadas, falta de hífen em 'Formavam-se', ausência de ponto final).",
+      "A conclusão é bem construída, retomando as metáforas e encerrando com uma citação que, embora pertinente, poderia ser complementada com reflexão mais crítica sobre os desafios remanescentes da parceria Brasil-África."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de fechamento das aspas em '– associada à primeira margem do \"rio chamado Atlântico –' (deveria haver aspas de fechamento após 'Atlântico').",
+      "Erro de concordância verbal: 'O reconhecimento das independências de Angola e Guiné-Bissau, sob Geisel, são marcos da nova fase.' O sujeito é 'O reconhecimento', portanto o verbo deveria ser 'é' (singular).",
+      "Data incorreta da CPLP: mencionada como 'de 1986', quando na verdade foi criada em 1996.",
+      "Falta de hífen em 'Formavamse' — o correto é 'Formavam-se'.",
+      "Falta de ponto final ao término do último parágrafo: '...ao reencontro de ambos com o mundo' deveria terminar com ponto final."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente capacidade de articulação das duas metáforas propostas no enunciado, construindo uma interpretação original e coerente para a 'terceira margem' do Atlântico Sul como a inserção conjunta de Brasil e África no cenário mundial.",
+      "A estrutura do texto é muito bem organizada, com progressão lógica clara: da primeira margem (África no Brasil/escravidão) à segunda (Brasil na África/aproximação) e à terceira (projeção conjunta no mundo). Essa construção demonstra sofisticação argumentativa.",
+      "O domínio temático é notável, com referências pertinentes à ZOPACAS, CPLP, BRICS, reforma do CSNU e política externa brasileira em diferentes períodos históricos, evidenciando conhecimento sólido das relações Brasil-África.",
+      "A linguagem é adequada, fluida e madura, com vocabulário rico e registro compatível com o esperado no CACD. A coesão textual é bem trabalhada, com uso eficaz de conectivos e retomadas das metáforas ao longo do texto.",
+      "Atenção a erros pontuais: a concordância verbal com 'O reconhecimento... são marcos' precisa ser corrigida; a data da CPLP está equivocada (1996, não 1986); e há falhas de pontuação e tipografia (aspas não fechadas, falta de hífen em 'Formavam-se', ausência de ponto final).",
+      "A conclusão é bem construída, retomando as metáforas e encerrando com uma citação que, embora pertinente, poderia ser complementada com reflexão mais crítica sobre os desafios remanescentes da parceria Brasil-África."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de ponto final ao término do último parágrafo: '...Alberto da Costa e Silva' — o texto termina sem pontuação final.",
+      "'a construção simbólica de um \"terceira margem\"' — erro de concordância de gênero: deveria ser 'de uma \"terceira margem\"'.",
+      "'permite que os brasileiros possam atestar' — redundância/impropriedade: 'permite' já contém a ideia de possibilidade, tornando 'possam' pleonástico. Embora não seja erro gramatical estrito, configura impropriedade de linguagem.",
+      "Uso excessivo e por vezes inadequado de vírgulas em algumas construções, como em 'A constituição de uma \"terceira margem\", no Atlântico Sul, também se dá de modo espontâneo' — as vírgulas isolando 'no Atlântico Sul' criam uma intercalação que fragmenta desnecessariamente o complemento nominal."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização estrutural, com introdução que articula as duas metáforas propostas pelo enunciado, desenvolvimento em múltiplos parágrafos temáticos e conclusão que retoma as ideias centrais. A impressão geral é de um texto bem escrito, coerente e com estilo adequado ao gênero dissertativo-argumentativo do CACD.",
+      "A capacidade de argumentação é satisfatória: o candidato mobiliza exemplos concretos e pertinentes (Cais do Valongo/UNESCO, produção acadêmica desde Gilberto Freyre, o samba como herança africana, Instituto Guimarães Rosa em Luanda). Contudo, há certa repetitividade na argumentação — os parágrafos reafirmam a mesma tese central (valorização do legado africano como 'terceira margem') sem aprofundar significativamente as nuances entre os diferentes exemplos. A argumentação poderia ser mais diversificada e menos circular.",
+      "A capacidade de análise e reflexão é razoável, mas poderia ser mais profunda. A interpretação da metáfora de Guimarães Rosa é interessante (a dimensão entre vida e morte como espaço de ressignificação), porém a aplicação ao Atlântico Sul permanece relativamente superficial. O candidato poderia ter explorado mais a ideia de 'terceira margem' como algo que transcende as duas margens geográficas (Brasil e África), criando um espaço cultural híbrido e autônomo. A reflexão tende a ser mais descritiva do que analítica, listando exemplos de valorização cultural sem problematizar tensões, contradições ou a complexidade do tema.",
+      "O texto demonstra bom domínio da norma culta, com vocabulário adequado e construções sintáticas bem elaboradas. Os erros identificados são poucos e de menor gravidade, com exceção da falta de ponto final, que é uma falha notável.",
+      "Sugestão de melhoria: diversificar a argumentação para evitar a circularidade, explorar possíveis tensões na construção dessa 'terceira margem' (como o racismo estrutural que persiste apesar dos esforços de valorização) e aprofundar a análise conceitual das metáforas combinadas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de ponto final ao término do último parágrafo: '...Alberto da Costa e Silva' — o texto termina sem pontuação final.",
+      "'a construção simbólica de um \"terceira margem\"' — erro de concordância de gênero: deveria ser 'de uma \"terceira margem\"'.",
+      "'permite que os brasileiros possam atestar' — redundância com valor de impropriedade: 'permite' já implica possibilidade, tornando 'possam' desnecessário e configurando pleonasmo vicioso.",
+      "'porquanto revaloriza o legado cultural africano, o rio que aproxima Brasil e África, como propõe Alberto da Costa e Silva' — a construção apositiva gera ambiguidade sintática, pois 'o rio' parece referir-se a 'legado cultural africano', quando deveria referir-se ao Atlântico. Problema de clareza/regência da construção."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização estrutural, com introdução que articula as duas metáforas propostas pelo enunciado, desenvolvimento em parágrafos temáticos e conclusão que retoma a tese central. A impressão geral é de um texto bem escrito, coeso e com estilo adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A capacidade de argumentação é satisfatória: o candidato mobiliza exemplos concretos (Cais do Valongo, Instituto Guimarães Rosa em Luanda, obra de Lira Neto, Fernando Henrique Cardoso) para sustentar sua tese. Contudo, há certa repetitividade na argumentação — os parágrafos de desenvolvimento reafirmam essencialmente a mesma ideia (valorização do legado africano) sem aprofundar dimensões distintas de forma suficientemente diferenciada. A argumentação poderia ser mais diversificada, explorando, por exemplo, dimensões econômicas, geopolíticas ou linguísticas da 'terceira margem'.",
+      "A capacidade de análise e reflexão é razoável, mas poderia ser mais profunda. A interpretação da metáfora de Guimarães Rosa é pertinente, porém simplificada — o conto possui camadas de significado mais complexas (a suspensão existencial, o liminar, o indecidível) que poderiam ter sido melhor exploradas. A combinação das duas metáforas, embora funcional, resulta um tanto mecânica: a 'terceira margem' do Atlântico Sul é definida como valorização cultural, o que é válido, mas a reflexão não alcança grande originalidade ou profundidade filosófica. O candidato poderia ter explorado a ideia de que a 'terceira margem' é um espaço de identidade híbrida, nem africana nem europeia, mas algo novo e irredutível.",
+      "O texto é predominantemente correto do ponto de vista gramatical, com poucos erros identificados. A linguagem é formal e adequada ao contexto do concurso. A ausência de ponto final no último período é um descuido que compromete a apresentação.",
+      "Sugestão geral: para alcançar notas mais altas, o candidato deveria buscar maior profundidade analítica na interpretação das metáforas literárias e maior diversidade temática nos argumentos, evitando a reiteração da mesma ideia central ao longo de todos os parágrafos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de ponto final ao término do último parágrafo: '...Alberto da Costa e Silva' — o texto termina sem pontuação final.",
+      "'a construção simbólica de um \"terceira margem\"' — erro de concordância de gênero: deveria ser 'de uma \"terceira margem\"'.",
+      "'permite que os brasileiros possam atestar' — redundância/impropriedade: 'permite' já contém a ideia de possibilidade, tornando 'possam' pleonástico. Embora não seja erro gramatical estrito, configura impropriedade de linguagem.",
+      "Uso excessivo e por vezes inadequado de vírgulas em construções como 'A constituição de uma \"terceira margem\", no Atlântico Sul, também se dá de modo espontâneo' — a intercalação de 'no Atlântico Sul' entre vírgulas fragmenta desnecessariamente o complemento nominal, gerando ambiguidade sintática."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização geral, com introdução que articula as duas metáforas propostas pelo enunciado, desenvolvimento em parágrafos temáticos e conclusão que retoma a tese. A estrutura é clara e o estilo é formal e adequado ao gênero dissertativo do CACD.",
+      "A interpretação da metáfora de Guimarães Rosa é razoável, embora simplificada. O candidato associa a 'terceira margem' a um espaço simbólico de manutenção do contato com o passado e ressignificação no presente, o que é uma leitura válida, ainda que não explore toda a riqueza do conto (o absurdo, a incomunicabilidade, a suspensão existencial).",
+      "A articulação com a obra de Alberto da Costa e Silva é pertinente: o Atlântico como rio que une Brasil e África. A combinação das duas metáforas resulta na ideia de que a 'terceira margem' do Atlântico Sul seria o espaço cultural afro-brasileiro em constante construção.",
+      "Os exemplos utilizados (Cais do Valongo/UNESCO, produção acadêmica desde Gilberto Freyre, samba e carnaval, Instituto Guimarães Rosa em Luanda) são pertinentes e demonstram repertório, embora alguns sejam desenvolvidos de forma superficial.",
+      "O texto é repetitivo em sua argumentação: praticamente todos os parágrafos reafirmam a mesma ideia central (valorização do legado africano) sem aprofundamento analítico significativo. A capacidade de reflexão é limitada pela circularidade do argumento. Falta explorar tensões, contradições ou nuances — por exemplo, o racismo estrutural como obstáculo à construção dessa 'terceira margem', ou a dimensão econômica e geopolítica do Atlântico Sul.",
+      "A redação poderia ter explorado mais a riqueza da metáfora da 'terceira margem' — o aspecto de suspensão, de algo que não pertence nem a uma margem nem a outra, o que abriria espaço para reflexões mais profundas sobre identidade, hibridismo cultural e a singularidade da experiência afro-brasileira.",
+      "Erro de concordância de gênero ('um terceira margem' em vez de 'uma terceira margem') e ausência de ponto final comprometem levemente a correção gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de ponto final ao término do último parágrafo: '...Alberto da Costa e Silva' deveria terminar com ponto final.",
+      "Erro de concordância de gênero: 'a construção simbólica de um \"terceira margem\"' — deveria ser 'de uma \"terceira margem\"'.",
+      "Uso questionável de vírgulas em excesso em alguns trechos, fragmentando desnecessariamente a leitura, embora não constitua erro grave isoladamente."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente compreensão das duas obras mencionadas no enunciado e realiza uma combinação criativa e coerente das metáforas, definindo a 'terceira margem' do Atlântico Sul como o espaço de valorização contínua do legado cultural africano no Brasil.",
+      "A estrutura argumentativa é bem organizada, com parágrafos temáticos claros (reconhecimento histórico, produção acadêmica, manifestações culturais espontâneas e políticas públicas), o que confere boa progressão ao texto.",
+      "O candidato mobiliza repertório cultural diversificado e pertinente: Cais do Valongo/UNESCO, Fernando Henrique Cardoso, Gilberto Freyre, Lira Neto, Instituto Guimarães Rosa em Luanda — todos bem articulados à tese central.",
+      "A linguagem é formal, adequada ao contexto do CACD, com vocabulário preciso e construções sintáticas sofisticadas.",
+      "Ponto de melhoria: a redação tende a ser um pouco repetitiva na reafirmação da tese central em cada parágrafo, o que, embora reforce a coerência, reduz levemente a profundidade analítica e a capacidade de explorar nuances mais complexas da metáfora.",
+      "A ausência de ponto final no último parágrafo é um descuido formal que deve ser evitado.",
+      "O erro de concordância ('um terceira margem') é pontual, mas perceptível em uma prova de alto nível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de ponto final ao término do último parágrafo: '...Alberto da Costa e Silva' deveria terminar com ponto final.",
+      "Erro de concordância de gênero: 'a construção simbólica de um \"terceira margem\"' — deveria ser 'de uma \"terceira margem\"'.",
+      "Uso questionável de vírgulas em excesso em alguns trechos, fragmentando desnecessariamente a leitura, embora não constitua erro grave isoladamente."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente compreensão das duas obras mencionadas no enunciado e realiza uma combinação criativa e coerente das metáforas, definindo a 'terceira margem' do Atlântico Sul como o espaço de valorização contínua do legado cultural africano no Brasil.",
+      "A estrutura argumentativa é bem organizada, com parágrafos temáticos claros (reconhecimento histórico, produção acadêmica, manifestações culturais espontâneas e políticas públicas), o que confere boa progressão ao texto.",
+      "O candidato mobiliza repertório cultural diversificado e pertinente: Cais do Valongo/UNESCO, Fernando Henrique Cardoso, Gilberto Freyre, Lira Neto, Instituto Guimarães Rosa em Luanda — todos bem articulados à tese central.",
+      "A linguagem é formal, adequada ao contexto do CACD, com vocabulário preciso e construções sintáticas sofisticadas.",
+      "Ponto de melhoria: a redação tende a ser um pouco repetitiva na reafirmação da tese central em cada parágrafo, o que, embora reforce a coerência, reduz levemente a profundidade analítica e a capacidade de explorar nuances mais complexas da metáfora.",
+      "A ausência de ponto final no último parágrafo é um descuido formal que deve ser evitado.",
+      "O erro de concordância ('um terceira margem') é pontual, mas perceptível em uma prova de alto nível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "nota_final": 54.00,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de ponto final ao término do último parágrafo: '...Alberto da Costa e Silva' deveria terminar com ponto final.",
+      "Erro de concordância de gênero: 'a construção simbólica de um \"terceira margem\"' — deveria ser 'de uma \"terceira margem\"'.",
+      "Uso questionável de vírgulas em excesso em alguns trechos, fragmentando desnecessariamente a leitura, embora não constitua erro grave isoladamente."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente compreensão das duas obras mencionadas no enunciado e realiza uma combinação criativa e coerente das metáforas, definindo a 'terceira margem' do Atlântico Sul como o espaço de valorização contínua do legado cultural africano no Brasil.",
+      "A estrutura argumentativa é bem organizada, com parágrafos temáticos claros (reconhecimento histórico, produção acadêmica, manifestações culturais espontâneas e políticas públicas), o que confere boa progressão ao texto.",
+      "O candidato mobiliza repertório cultural diversificado e pertinente: Cais do Valongo/UNESCO, Fernando Henrique Cardoso, Gilberto Freyre, Lira Neto, Instituto Guimarães Rosa em Luanda — todos bem articulados à tese central.",
+      "A linguagem é formal, adequada ao contexto do CACD, com vocabulário preciso e construções sintáticas sofisticadas.",
+      "Ponto de melhoria: a redação tende a ser um pouco repetitiva na reafirmação da tese central em cada parágrafo, o que, embora reforce a coerência, reduz levemente a profundidade analítica e a capacidade de explorar nuances mais complexas da metáfora.",
+      "A ausência de ponto final no último parágrafo é um descuido formal que deve ser evitado.",
+      "O erro de concordância ('um terceira margem') é pontual, mas perceptível em uma prova de alto nível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de ponto final ao término do último parágrafo: '...Alberto da Costa e Silva' deveria terminar com ponto final.",
+      "Erro de concordância de gênero: 'a construção simbólica de um \"terceira margem\"' — deveria ser 'de uma \"terceira margem\"'.",
+      "Uso questionável de 'porquanto' com sentido causal em contexto que pediria 'pois' ou 'uma vez que', embora não seja propriamente erro, gera estranhamento estilístico."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão das duas obras mencionadas no enunciado e realiza a combinação das metáforas de forma coerente, interpretando a 'terceira margem' do Atlântico Sul como o espaço simbólico de valorização e ressignificação do legado cultural africano no Brasil.",
+      "A estrutura do texto é clara e bem organizada, com parágrafos temáticos que abordam diferentes dimensões do argumento: patrimônio histórico (Cais do Valongo), produção acadêmica, manifestações culturais espontâneas (samba) e política externa (Instituto Guimarães Rosa). Isso confere amplitude ao desenvolvimento.",
+      "A argumentação, embora bem articulada, tende a ser um tanto repetitiva: a ideia central de 'valorização do legado africano' é reiterada em cada parágrafo sem aprofundamento significativo ou contrapontos. Falta uma camada mais sofisticada de análise — por exemplo, tensões, contradições ou desafios na construção dessa 'terceira margem'.",
+      "A interpretação da metáfora de Guimarães Rosa é funcional, mas poderia ser mais refinada. A 'terceira margem do rio' no conto envolve dimensões de estranhamento, solidão, incompreensão e liminaridade que não foram exploradas, o que enriqueceria a reflexão.",
+      "O uso de referências bibliográficas e culturais (Fernando Henrique Cardoso, Gilberto Freyre, Lira Neto, Cais do Valongo, Instituto Guimarães Rosa) é um ponto positivo e demonstra repertório, embora algumas referências sejam mobilizadas de forma superficial.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário pertinente. Há bom domínio da norma culta, com poucos deslizes. A ausência do ponto final no último parágrafo é um descuido que deve ser evitado.",
+      "Para alcançar um nível superior, recomenda-se maior ousadia interpretativa, exploração de nuances e contradições do tema, e aprofundamento da leitura das metáforas literárias propostas no enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de ponto final ao término do último parágrafo: '...Alberto da Costa e Silva' deveria terminar com ponto final.",
+      "Erro de concordância de gênero: 'a construção simbólica de um \"terceira margem\"' — deveria ser 'de uma \"terceira margem\"'.",
+      "Uso questionável de 'porquanto' com sentido causal em contexto que pediria 'pois' ou 'uma vez que', embora não seja propriamente erro, gera estranhamento estilístico."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão das duas obras mencionadas no enunciado e realiza a combinação das metáforas de forma coerente, interpretando a 'terceira margem' do Atlântico Sul como o espaço simbólico de valorização e ressignificação do legado cultural africano no Brasil.",
+      "A estrutura do texto é clara e bem organizada, com parágrafos temáticos que abordam diferentes dimensões do argumento: patrimônio histórico (Cais do Valongo), produção acadêmica, manifestações culturais espontâneas (samba) e política externa (Instituto Guimarães Rosa). Isso confere amplitude ao desenvolvimento.",
+      "A argumentação, embora bem articulada, tende a ser um tanto repetitiva: a ideia central de 'valorização do legado africano' é reiterada em cada parágrafo sem aprofundamento significativo ou contrapontos. Falta uma camada mais sofisticada de análise — por exemplo, tensões, contradições ou desafios na construção dessa 'terceira margem'.",
+      "A interpretação da metáfora de Guimarães Rosa é funcional, mas poderia ser mais refinada. A 'terceira margem do rio' no conto envolve dimensões de estranhamento, solidão, incompreensão e liminaridade que não foram exploradas, o que enriqueceria a reflexão.",
+      "O uso de referências bibliográficas e culturais (Fernando Henrique Cardoso, Gilberto Freyre, Lira Neto, Cais do Valongo, Instituto Guimarães Rosa) é um ponto positivo e demonstra repertório, embora algumas referências sejam mobilizadas de forma superficial.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário pertinente. Há bom domínio da norma culta, com poucos deslizes. A ausência do ponto final no último parágrafo é um descuido que deve ser evitado.",
+      "Para alcançar um nível superior, recomenda-se maior ousadia interpretativa, exploração de nuances e contradições do tema, e aprofundamento da leitura das metáforas literárias propostas no enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2019"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de ponto final ao término do último parágrafo: '...Alberto da Costa e Silva' deveria terminar com ponto final.",
+      "Erro de concordância de gênero: 'a construção simbólica de um \"terceira margem\"' — deveria ser 'de uma \"terceira margem\"'.",
+      "Uso questionável de 'porquanto' com sentido causal em contexto que pediria 'pois' ou 'uma vez que', embora não seja propriamente erro, gera estranhamento estilístico."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão das duas obras mencionadas no enunciado e realiza a combinação das metáforas de forma coerente, interpretando a 'terceira margem' do Atlântico Sul como o espaço simbólico de valorização e ressignificação do legado cultural africano no Brasil.",
+      "A estrutura do texto é clara e bem organizada, com parágrafos temáticos que abordam diferentes dimensões do argumento: patrimônio histórico (Cais do Valongo), produção acadêmica, manifestações culturais espontâneas (samba) e política externa (Instituto Guimarães Rosa). Isso confere amplitude ao desenvolvimento.",
+      "A argumentação, embora bem articulada, tende a ser um tanto repetitiva: a ideia central de 'valorização do legado africano' é reiterada em cada parágrafo sem aprofundamento significativo ou contrapontos. Falta uma camada mais sofisticada de análise — por exemplo, tensões, contradições ou desafios na construção dessa 'terceira margem'.",
+      "A interpretação da metáfora de Guimarães Rosa é funcional, mas poderia ser mais refinada. A 'terceira margem do rio' no conto envolve dimensões de estranhamento, solidão, incompreensão e liminaridade que não foram exploradas, o que enriqueceria a reflexão.",
+      "O uso de referências bibliográficas e culturais (Fernando Henrique Cardoso, Gilberto Freyre, Lira Neto, Cais do Valongo, Instituto Guimarães Rosa) é um ponto positivo e demonstra repertório, embora algumas referências sejam mobilizadas de forma superficial.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário pertinente. Há bom domínio da norma culta, com poucos deslizes. A ausência do ponto final no último parágrafo é um descuido que deve ser evitado.",
+      "Para alcançar um nível superior, recomenda-se maior ousadia interpretativa, exploração de nuances e contradições do tema, e aprofundamento da leitura das metáforas literárias propostas no enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2019"
+  }
+]

@@ -1,0 +1,1168 @@
+[
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 7.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva no sentido de 'Além de' — construção não padrão em português formal ('Ademais de liderar por meio do exemplo').",
+      "Duplo espaço antes de 'o país possui parcerias' — erro de digitação/formatação.",
+      "Duplo espaço antes de 'No contexto do Brasil como sede da COP 30' — erro de digitação/formatação.",
+      "'desmatamento ambiental' — redundância/impropriedade lexical, pois desmatamento já é um fenômeno ambiental."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento e conclusão claramente delimitados. No entanto, há repetitividade significativa: a mesma ideia central — de que as ideias de José Bonifácio permanecem atuais — é reafirmada diversas vezes sem aprofundamento substancial, o que compromete a progressão argumentativa.",
+      "O texto demonstra conhecimento pertinente ao mencionar o Acordo de Paris, as metas brasileiras de desmatamento ilegal zero, a relação entre desmatamento amazônico e regime de chuvas (rios voadores), e a cooperação com países africanos. Contudo, falta maior especificidade e profundidade: não são mencionados dados concretos sobre desmatamento, não se discutem as NDCs brasileiras em detalhe, nem se abordam tensões diplomáticas relevantes (como pressões internacionais sobre o Brasil, o papel do Fundo Amazônia, a questão da soberania vs. responsabilidade compartilhada).",
+      "A capacidade de análise e reflexão é moderada. O candidato conecta adequadamente o texto de José Bonifácio ao cenário contemporâneo e à COP30, mas a análise permanece em nível superficial. Faltam reflexões mais sofisticadas sobre, por exemplo: as contradições entre o agronegócio e a preservação ambiental; o princípio das responsabilidades comuns porém diferenciadas; o financiamento climático; a posição do Brasil como país em desenvolvimento com grande patrimônio florestal; ou a dimensão social do desmatamento (povos indígenas, comunidades tradicionais).",
+      "O estilo é claro e adequado ao gênero dissertativo-argumentativo, mas a linguagem é por vezes genérica e vaga ('compromissos financeiros, tecnológicos e científicos', 'futuro climático mais promissor'), sem a precisão esperada em um concurso de alto nível como o CACD.",
+      "A conclusão é breve e meramente reiterativa, sem oferecer uma síntese analítica que agregue valor ao texto.",
+      "A correção gramatical é boa no geral, com poucos erros identificados. A linguagem é formal e adequada, embora com algumas impropriedades lexicais menores."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 7.0,
+    "nota_1B": 6.5,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva, forma não padrão em português culto; o correto seria 'Além de'.",
+      "Espaço duplo antes de 'o país possui parcerias' (falha de digitação/formatação).",
+      "Espaço duplo antes de 'No contexto do Brasil como sede' (falha de digitação/formatação).",
+      "'desmatamento ambiental' — redundância/impropriedade lexical, pois desmatamento já é um fenômeno ambiental."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é coerente, legível e apresenta estilo adequado ao gênero dissertativo-argumentativo. A estrutura é clara, com introdução, desenvolvimento e conclusão bem delimitados. No entanto, há repetitividade significativa: diversas ideias e até frases são reiteradas ao longo do texto (por exemplo, a menção ao compromisso do Brasil com a mitigação das mudanças climáticas e com o fim do desmatamento aparece praticamente idêntica em mais de um parágrafo). Essa circularidade prejudica a fluidez e a impressão geral, dando a sensação de que o texto não avança substancialmente. Nota: 7.0",
+      "1B – Capacidade de argumentação: O candidato demonstra conhecimento pertinente ao tema, mencionando o Acordo de Paris, as NDCs brasileiras, a relação entre desmatamento amazônico e regime de chuvas (rios voadores), e a COP 30. Contudo, a argumentação carece de maior profundidade e especificidade: não são citados dados concretos sobre desmatamento, não se mencionam mecanismos específicos (como REDD+, Fundo Amazônia, mercado de carbono), nem se aprofundam as responsabilidades diferenciadas entre países desenvolvidos e em desenvolvimento. A objetividade é razoável, mas a sistematização é prejudicada pela repetição de argumentos. Nota: 6.5",
+      "1C – Capacidade de análise e reflexão: O candidato conecta adequadamente as ideias de José Bonifácio ao cenário contemporâneo e demonstra compreensão da relevância da COP 30 e do papel da diplomacia brasileira. Porém, a análise permanece em nível superficial: não há discussão mais aprofundada sobre tensões entre desenvolvimento e preservação, sobre o papel do Brasil como potência ambiental e agrícola simultaneamente, sobre as dificuldades de implementação dos compromissos climáticos, sobre o princípio das responsabilidades comuns porém diferenciadas, sobre financiamento climático, ou sobre a dimensão geopolítica da questão ambiental. A reflexão crítica é limitada, com o texto tendendo mais à descrição e à reafirmação de posições genéricas do que à análise aprofundada. Nota: 15.0",
+      "CGPL – Correção gramatical e propriedade da linguagem: O texto apresenta boa correção gramatical no geral, com domínio adequado da norma culta. Foram identificados poucos erros, sendo a maioria de natureza menor (formatação e uma impropriedade lexical). A linguagem é apropriada ao gênero, embora por vezes genérica. Desconto de 1.0 ponto por erro identificado (4 erros). Nota: 21.0 (25.0 - 4.0)"
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 7.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva no sentido de 'Além de' — construção não padrão em português formal ('Ademais' é advérbio, não preposição; o correto seria 'Além de').",
+      "Duplo espaço antes de 'o país possui parcerias' — erro de digitação/formatação.",
+      "Duplo espaço antes de 'No contexto do Brasil como sede' — erro de digitação/formatação.",
+      "'desmatamento ambiental' — redundância/impropriedade lexical, pois desmatamento já é um fenômeno ambiental; o mais adequado seria simplesmente 'desmatamento' ou 'degradação ambiental'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização geral, com introdução, desenvolvimento e conclusão claramente delimitados. No entanto, há repetitividade significativa: a ideia de que 'as ideias de José Bonifácio são atuais' é reafirmada diversas vezes sem aprofundamento substancial a cada retomada, o que compromete a progressão argumentativa.",
+      "O texto demonstra conhecimento pertinente ao tema, mencionando o Acordo de Paris, as metas brasileiras de desmatamento, a relação entre Amazônia e regime de chuvas para a agropecuária, e a COP 30. Contudo, falta maior especificidade e profundidade: não há menção a dados concretos sobre desmatamento, não se discutem as NDCs brasileiras com detalhamento, não se abordam tensões diplomáticas (como pressões internacionais sobre o Brasil), nem se exploram conceitos como responsabilidades comuns porém diferenciadas, financiamento climático, ou o papel do Brasil no G77.",
+      "A capacidade de análise e reflexão é moderada. O candidato estabelece conexões válidas entre o texto de José Bonifácio e a realidade contemporânea, especialmente ao tratar da relação entre desmatamento amazônico e produção agrícola. Porém, a análise permanece em nível superficial: não há problematização das contradições da posição brasileira (agronegócio vs. preservação), não se discute a dimensão geopolítica da COP 30 em Belém, nem se aprofunda o significado simbólico e político de sediar o evento na Amazônia. A reflexão sobre a responsabilidade diplomática é genérica, limitando-se a afirmações como 'deve promover cooperação' sem explorar como ou quais os desafios específicos.",
+      "A linguagem é correta e formal, adequada ao gênero dissertativo do CACD. Os erros gramaticais são poucos e de menor gravidade. O estilo, embora claro, é por vezes prolixo e circular, com parágrafos que reafirmam ideias já apresentadas sem acrescentar nova camada de análise.",
+      "Para melhorar, o candidato deveria: (1) evitar a repetição de ideias centrais, aprofundando cada argumento com dados, exemplos e análise crítica; (2) explorar tensões e contradições da posição brasileira; (3) abordar aspectos específicos da diplomacia climática brasileira (princípio das responsabilidades comuns porém diferenciadas, mecanismos de financiamento, papel do Brasil como ponte entre países desenvolvidos e em desenvolvimento); (4) discutir o significado estratégico de sediar a COP 30 em Belém."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva, forma não padrão em português culto; o adequado seria 'Além de'.",
+      "Duplo espaço antes de 'o país possui parcerias' (erro de digitação/formatação).",
+      "Duplo espaço antes de 'No contexto do Brasil como sede' (erro de digitação/formatação).",
+      "'desmatamento ambiental' — redundância/impropriedade lexical, pois desmatamento já é um fenômeno ambiental."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento e conclusão claramente delimitados, e o encadeamento de ideias é coerente e fluido.",
+      "O candidato aborda todos os elementos solicitados pelo enunciado: atualidade das ideias de José Bonifácio, mudanças climáticas, desmatamento, responsabilidade da diplomacia brasileira e a COP 30 em Belém.",
+      "A argumentação, embora correta e pertinente, é relativamente superficial e repetitiva. Há reiteração de ideias centrais (como a atualidade do pensamento de Bonifácio e o compromisso brasileiro) em vários parágrafos sem aprofundamento significativo a cada retomada.",
+      "Faltou maior profundidade analítica: o texto poderia explorar mais detalhadamente os mecanismos diplomáticos, os desafios específicos da COP 30, as tensões entre desenvolvimento e preservação, o papel dos países desenvolvidos versus em desenvolvimento, ou instrumentos como o Fundo Amazônia, REDD+, NDCs etc.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. A correção gramatical é boa, com poucos desvios.",
+      "A menção à relação entre chuvas amazônicas e agropecuária no Centro-Oeste foi um ponto positivo de argumentação concreta e demonstrou conhecimento interdisciplinar.",
+      "A conclusão é breve e não acrescenta elementos novos, funcionando mais como resumo do que como síntese reflexiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva, forma não padrão em português culto; o adequado seria 'Além de'.",
+      "Repetição excessiva de estruturas e ideias ao longo do texto, comprometendo a progressão argumentativa (ex: a ideia de que 'as ideias de José Bonifácio são atuais' é reiterada quase literalmente em vários parágrafos).",
+      "Uso de 'nenhuma' na citação direta está correto por ser transcrição, mas o candidato não sinaliza a grafia arcaica, o que pode gerar ambiguidade.",
+      "Duplo espaço antes de 'o país possui parcerias' — erro de digitação/formatação menor."
+    ],
+    "feedbacks": [
+      "A redação demonstra compreensão adequada do tema e aborda os elementos solicitados pelo enunciado: atualidade das ideias de José Bonifácio, mudanças climáticas, desmatamento e o papel da diplomacia brasileira na COP 30.",
+      "O texto é bem organizado em parágrafos com introdução, desenvolvimento e conclusão, e mantém coerência ao longo de toda a argumentação.",
+      "O principal ponto fraco é a repetitividade: diversas ideias são reiteradas quase nos mesmos termos em parágrafos diferentes (compromisso do Brasil, atualidade de Bonifácio, mitigação das mudanças climáticas), o que prejudica a progressão argumentativa e a profundidade analítica.",
+      "Falta maior aprofundamento em aspectos específicos da diplomacia brasileira na COP 30 — por exemplo, temas como financiamento climático, NDCs, mecanismos de mercado de carbono, papel dos países em desenvolvimento, justiça climática, transição energética — que enriqueceriam a argumentação.",
+      "A relação entre desmatamento amazônico e regime de chuvas (rios voadores) foi um bom ponto de desenvolvimento, mas poderia ter sido mais explorada com dados ou referências mais concretas.",
+      "A linguagem é adequada ao contexto, com poucos erros gramaticais, mas a construção textual é por vezes genérica e superficial, sem demonstrar o nível de conhecimento especializado esperado no CACD.",
+      "A conclusão é breve e não acrescenta elementos novos, funcionando mais como resumo do que como síntese propositiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva, forma não padrão em português culto; o adequado seria 'Além de'.",
+      "Repetição excessiva de estruturas e ideias ao longo do texto, comprometendo a progressão argumentativa (ex.: a ideia de que 'as ideias de José Bonifácio são atuais' é reiterada quase literalmente em vários parágrafos).",
+      "Uso de 'nenhuma' na citação direta está correto por ser transcrição, mas o candidato não sinaliza a grafia arcaica, o que pode gerar ambiguidade.",
+      "Espaço duplo antes de 'o país possui parcerias' — erro de digitação/formatação."
+    ],
+    "feedbacks": [
+      "A redação demonstra compreensão adequada do tema e aborda os três eixos exigidos pelo enunciado: atualidade das ideias de José Bonifácio, mudanças climáticas/desmatamento e a responsabilidade diplomática brasileira no contexto da COP 30.",
+      "O texto é bem organizado em parágrafos com introdução, desenvolvimento e conclusão, e mantém coerência geral. No entanto, há significativa repetitividade: as mesmas ideias e até formulações semelhantes reaparecem em diferentes parágrafos, o que prejudica a progressão argumentativa e a profundidade da análise.",
+      "A argumentação é predominantemente genérica e superficial. Faltam dados concretos, exemplos específicos e aprofundamento analítico. Por exemplo, poderia ter mencionado os rios voadores, o Fundo Amazônia, as NDCs brasileiras com mais detalhes, o papel do BRICS ou do G20 na agenda climática, a relação entre desmatamento e emissões de GEE, entre outros.",
+      "A linguagem é adequada ao contexto, formal e clara, com poucos erros gramaticais. A correção linguística é um ponto positivo da redação.",
+      "A reflexão sobre a COP 30 e a diplomacia brasileira ficou aquém do esperado: o candidato menciona a responsabilidade diplomática, mas não aprofunda quais seriam os desafios concretos, as expectativas da comunidade internacional ou as tensões envolvidas (como a questão do financiamento climático, a diferença entre países desenvolvidos e em desenvolvimento, etc.).",
+      "A conclusão é breve e repete o que já foi dito, sem oferecer uma síntese mais elaborada ou uma reflexão final mais impactante."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva no sentido de 'Além de' — embora compreensível, é um hispanismo inadequado na norma culta do português ('Além de liderar por meio do exemplo...').",
+      "'desmatamento ambiental' — redundância/imprecisão, pois desmatamento já é um fenômeno ambiental; o adjetivo é desnecessário e semanticamente impreciso.",
+      "Espaço duplo antes de 'o país possui parcerias' — embora seja erro tipográfico e não gramatical propriamente, compromete a apresentação formal."
+    ],
+    "feedbacks": [
+      "O texto é bem organizado, com introdução, desenvolvimento e conclusão claramente delimitados, e mantém coerência ao longo de toda a argumentação. A estrutura em parágrafos temáticos facilita a leitura.",
+      "O candidato demonstra compreensão adequada do enunciado, articulando os três eixos exigidos: atualidade das ideias de José Bonifácio, mudanças climáticas/desmatamento e a responsabilidade diplomática brasileira no contexto da COP 30.",
+      "Ponto fraco principal: a argumentação é repetitiva. A ideia de que 'as palavras de Bonifácio são atuais' e de que 'o Brasil está comprometido com a sustentabilidade' é reiterada diversas vezes sem aprofundamento substancial. Há pouca variação de argumento entre os parágrafos, o que dá ao texto um caráter circular.",
+      "Falta profundidade analítica: o texto não explora com densidade conceitos como responsabilidades comuns porém diferenciadas, financiamento climático, NDCs, papel dos países desenvolvidos, tensões entre soberania e governança ambiental global, nem dados concretos sobre desmatamento ou emissões. A menção ao Acordo de Paris e às parcerias com países africanos é superficial.",
+      "A conexão entre o texto de José Bonifácio e a argumentação contemporânea poderia ser mais sofisticada — o candidato cita o trecho sobre umidade e prados, mas não desenvolve com rigor a relação com os 'rios voadores' amazônicos ou com a ciência climática atual, perdendo oportunidade de demonstrar conhecimento mais aprofundado.",
+      "O domínio da norma culta é bom, com poucos deslizes. A linguagem é adequada ao contexto, embora por vezes genérica e pouco precisa em termos diplomáticos ou técnicos.",
+      "Para alcançar faixas superiores, o candidato deveria evitar repetições, aprofundar a análise com dados e conceitos específicos, e demonstrar maior sofisticação argumentativa e originalidade na abordagem do tema."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva no sentido de 'Além de' — embora compreensível, é um hispanismo inadequado na norma culta do português ('Além de liderar por meio do exemplo...').",
+      "'desmatamento ambiental' — redundância/imprecisão, pois desmatamento já é um fenômeno ambiental; o adjetivo é desnecessário e semanticamente impreciso.",
+      "Espaço duplo antes de 'o país possui parcerias' — embora seja erro tipográfico e não gramatical propriamente, compromete a apresentação formal."
+    ],
+    "feedbacks": [
+      "O texto é bem organizado, com introdução, desenvolvimento e conclusão claramente delimitados, e mantém coerência ao longo de toda a argumentação. A estrutura em parágrafos temáticos facilita a leitura.",
+      "O candidato demonstra compreensão adequada do enunciado, articulando os três eixos exigidos: atualidade das ideias de José Bonifácio, mudanças climáticas/desmatamento e a responsabilidade diplomática brasileira no contexto da COP 30.",
+      "Ponto fraco principal: a argumentação é repetitiva. A ideia de que 'as palavras de Bonifácio são atuais' e de que 'o Brasil está comprometido com a sustentabilidade' é reiterada diversas vezes sem aprofundamento substancial. Há pouca variação de argumento entre os parágrafos, o que dá ao texto um caráter circular.",
+      "Falta profundidade analítica: o texto não explora com densidade conceitos como responsabilidades comuns porém diferenciadas, financiamento climático, NDCs, papel dos países desenvolvidos, tensões entre soberania e governança ambiental global, nem dados concretos sobre desmatamento ou emissões. A menção ao Acordo de Paris e às parcerias com países africanos é superficial.",
+      "A conexão entre o texto de José Bonifácio e a argumentação contemporânea poderia ser mais sofisticada — o candidato cita o trecho sobre umidade e prados, mas não desenvolve com rigor a relação com os 'rios voadores' amazônicos ou com a ciência climática atual, perdendo oportunidade de demonstrar conhecimento mais aprofundado.",
+      "O domínio da norma culta é bom, com poucos deslizes. A linguagem é adequada ao contexto, embora por vezes genérica e pouco precisa em termos diplomáticos ou técnicos.",
+      "Para alcançar faixas superiores, o candidato deveria evitar repetições, aprofundar a análise com dados e conceitos específicos, e demonstrar maior sofisticação argumentativa e originalidade na abordagem do tema."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'Ademais de' como locução prepositiva no sentido de 'Além de' — embora compreensível, é um hispanismo inadequado na norma culta do português ('Além de liderar por meio do exemplo...').",
+      "'desmatamento ambiental' — redundância/imprecisão, pois desmatamento já é um fenômeno ambiental; o adjetivo é desnecessário e semanticamente impreciso.",
+      "Espaço duplo antes de 'o país possui parcerias' — embora seja erro tipográfico e não gramatical propriamente, compromete a apresentação formal."
+    ],
+    "feedbacks": [
+      "O texto é bem organizado, com introdução, desenvolvimento e conclusão claramente delimitados, e mantém coerência ao longo de toda a argumentação. A estrutura em parágrafos temáticos facilita a leitura.",
+      "O candidato demonstra compreensão adequada do enunciado, articulando os três eixos exigidos: atualidade das ideias de José Bonifácio, mudanças climáticas/desmatamento e a responsabilidade diplomática brasileira no contexto da COP 30.",
+      "Ponto fraco principal: a argumentação é repetitiva. A ideia de que 'as palavras de Bonifácio são atuais' e de que 'o Brasil está comprometido com a sustentabilidade' é reiterada diversas vezes sem aprofundamento substancial. Há pouca variação de argumento entre os parágrafos, o que dá ao texto um caráter circular.",
+      "Falta profundidade analítica: o texto não explora com densidade conceitos como responsabilidades comuns porém diferenciadas, financiamento climático, NDCs, papel dos países desenvolvidos, tensões entre soberania e governança ambiental global, nem dados concretos sobre desmatamento ou emissões. A menção ao Acordo de Paris e às parcerias com países africanos é superficial.",
+      "A conexão entre o texto de José Bonifácio e a argumentação contemporânea poderia ser mais sofisticada — o candidato cita o trecho sobre umidade e prados, mas não desenvolve com rigor a relação com os 'rios voadores' amazônicos ou com a ciência climática atual, perdendo oportunidade de demonstrar conhecimento mais aprofundado.",
+      "O domínio da norma culta é bom, com poucos deslizes. A linguagem é adequada ao contexto, embora por vezes genérica e pouco precisa em termos diplomáticos ou técnicos.",
+      "Para alcançar faixas superiores, o candidato deveria evitar repetições, aprofundar a análise com dados e conceitos específicos, e demonstrar maior sofisticação argumentativa e originalidade na abordagem do tema."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 21.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"políticos-jurídicos\" deveria ser \"político-jurídicos\" — em adjetivos compostos, apenas o segundo elemento flexiona no plural.",
+      "\"aqueles\" deveria ser \"aqueles\" — embora a forma esteja correta gramaticalmente, o uso de \"aqueles\" como pronome demonstrativo referindo-se a \"refugiados do clima\" gera ambiguidade; contudo, o erro mais claro é a grafia/concordância contextual. Revisando: na verdade, \"aqueles\" está grafado corretamente. Retificação: não constitui erro. Substituindo por: \"nenhuma\" aparece no texto do enunciado, não na redação. Erro identificado: uso de \"endereçada\" como anglicismo semântico (do inglês \"to address\"), que pode ser considerado impropriedade vocabular."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (desertificação, migração climática, papel da diplomacia brasileira na COP30) e conclusão que retoma as ideias centrais e dialoga com o texto motivador.",
+      "A capacidade argumentativa é sólida: o candidato mobiliza referências pertinentes (Acordo de Paris, COP30, matriz energética brasileira, micronações insulares, desmatamento amazônico e seus efeitos no regime de chuvas) e constrói uma linha de raciocínio coerente e bem fundamentada.",
+      "A análise e reflexão são de bom nível, com destaque para a conexão entre desmatamento, desertificação e migração climática, bem como para a discussão sobre responsabilidade diferenciada entre países desenvolvidos e em desenvolvimento. Poderia haver maior aprofundamento sobre tensões e contradições da posição brasileira (por exemplo, o avanço do agronegócio versus preservação, ou as dificuldades concretas de redução do desmatamento), o que enriqueceria a dimensão crítica do texto.",
+      "O texto é fluido, com vocabulário adequado ao registro formal exigido pelo CACD. O estilo é claro e objetivo, sem prolixidades desnecessárias.",
+      "O erro de flexão em 'políticos-jurídicos' (deveria ser 'político-jurídicos') é o erro gramatical mais evidente. O uso de 'endereçada' como sinônimo de 'tratada/abordada' constitui anglicismo semântico, configurando impropriedade vocabular.",
+      "A redação poderia explorar com mais profundidade as contradições internas do Brasil em matéria ambiental e os desafios concretos da COP30, como a questão do financiamento climático, a implementação das NDCs e as pressões internacionais sobre o desmatamento amazônico."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"políticos-jurídicos\" — o correto seria \"político-jurídicos\", pois em adjetivos compostos apenas o segundo elemento flexiona no plural.",
+      "\"aqueles\" — o correto seria \"aqueles\" está grafado de forma incorreta ou inadequada; o demonstrativo correto no contexto seria \"aqueles\" (forma aceitável em registro culto, mas o mais usual e recomendado seria \"aqueles migrantes\" — na verdade, a forma correta é \"aqueles\", que está grafada corretamente. Retificando: não há erro aqui. Substituindo: \"de mais\" não aparece no texto do candidato, portanto este erro é desconsiderado."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (desertificação e migração climática) e conclusão que retoma as ideias centrais e o enunciado. O estilo é fluido, coeso e adequado ao registro formal exigido pelo CACD.",
+      "A capacidade de argumentação é muito boa. O candidato mobiliza informações pertinentes sobre desertificação no Brasil e no mundo, migração climática, a COP30, o Acordo de Paris e a matriz energética brasileira. A referência a Maurecir Guimarães de Moraes demonstra repertório, embora a atribuição não seja verificável. A argumentação é objetiva e bem sistematizada.",
+      "A capacidade de análise e reflexão é sólida. O candidato estabelece conexões relevantes entre as ideias de José Bonifácio e os desafios contemporâneos, articulando desertificação, migração climática e responsabilidade diplomática. A análise sobre a responsabilidade diferenciada entre países desenvolvidos e em desenvolvimento é pertinente. Contudo, poderia haver maior aprofundamento sobre aspectos específicos da COP30 (como a agenda de adaptação, financiamento climático, mercado de carbono) e sobre o papel concreto da diplomacia brasileira na negociação multilateral. A discussão sobre o desmatamento amazônico, tema central do enunciado, poderia ter sido mais desenvolvida.",
+      "A correção gramatical é muito boa, com linguagem precisa e vocabulário adequado. Identificou-se apenas um erro claro de flexão em adjetivo composto (\"políticos-jurídicos\" em vez de \"político-jurídicos\"). O texto demonstra domínio seguro da norma culta.",
+      "No geral, trata-se de uma redação de alto nível, com boa articulação entre o texto motivador e a discussão contemporânea, embora pudesse explorar com mais profundidade alguns aspectos específicos da COP30 e do desmatamento amazônico."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"políticos-jurídicos\" — o correto seria \"político-jurídicos\", pois em adjetivos compostos apenas o segundo elemento flexiona em número.",
+      "\"aqueles\" — o correto seria \"aqueles\" está grafado de forma incorreta ou inadequada; o demonstrativo correto seria \"aqueles\" (na verdade, a forma correta é \"aqueles\" — porém, considerando o contexto, o pronome adequado seria \"como aqueles\", que está correto sintaticamente, mas a grafia \"aqueles\" está correta em português). Reavaliando: não há erro aqui. Substituindo por outro erro identificado: \"a que se referiu o 'Patriarca da Independência'\" — construção correta, sem erro. Após reanálise, o segundo erro é: uso de \"endereçada\" como anglicismo semântico (do inglês \"to address\"), o que configura impropriedade vocabular, pois em português \"endereçar\" não tem o sentido de \"tratar de\" ou \"abordar\"."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (desertificação e migração climática) e conclusão que retoma as ideias centrais e o texto motivador de forma coesa.",
+      "A argumentação é sólida e bem fundamentada, com referências pertinentes a processos de desertificação em diferentes regiões (Sudeste Asiático, África subsaariana, sertão nordestino, pampas gaúchos), à questão dos refugiados climáticos e às credenciais brasileiras na agenda ambiental (Acordo de Paris, matriz energética, redução do desmatamento).",
+      "A capacidade de análise e reflexão é muito boa, com articulação entre as ideias de José Bonifácio e os desafios contemporâneos. O candidato demonstra compreensão das responsabilidades diferenciadas entre países desenvolvidos e em desenvolvimento, e conecta adequadamente a COP30 ao papel da diplomacia brasileira. Contudo, poderia ter aprofundado mais aspectos específicos da COP30 (como a agenda de financiamento climático, o mecanismo de perdas e danos, ou o papel da Amazônia como bioma estratégico para a regulação climática global), bem como explorado com maior profundidade a dimensão multilateral e as tensões geopolíticas envolvidas.",
+      "A linguagem é formal e adequada ao gênero dissertativo-argumentativo, com vocabulário rico e variado. Há poucos desvios gramaticais, o que demonstra domínio da norma culta.",
+      "Ponto de melhoria: o uso de \"endereçada\" no sentido de \"abordada/tratada\" constitui anglicismo semântico que deve ser evitado em textos formais. Além disso, \"políticos-jurídicos\" deveria ser \"político-jurídicos\"."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"políticos-jurídicos\" deveria ser \"político-jurídicos\" (em adjetivos compostos, apenas o segundo elemento flexiona em número)",
+      "\"nenhuma\" no trecho citado não é erro do candidato, mas \"aqueles\" deveria ser \"aqueles\" — na verdade, \"aqueles\" está correto como pronome demonstrativo, porém a construção 'como aqueles migrantes' poderia ser mais clara; este ponto é menor"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (desertificação e migração climática) e conclusão que retoma as ideias centrais e o texto motivador.",
+      "O candidato demonstra bom domínio do conteúdo, articulando as ideias de José Bonifácio com questões contemporâneas como desertificação, migração climática e a COP30, além de mencionar o Acordo de Paris e metas de neutralidade de carbono.",
+      "A argumentação é coerente e bem encadeada, com uso adequado de conectivos e transições entre parágrafos. A referência a Maurecir Guimarães de Moraes demonstra conhecimento bibliográfico, embora não seja essencial.",
+      "O texto aborda adequadamente a responsabilidade da diplomacia brasileira no contexto da COP30, mencionando captação de recursos, liderança pelo exemplo e credenciais ambientais do Brasil.",
+      "Ponto de melhoria: o texto poderia ter explorado com mais profundidade aspectos específicos da COP30 em Belém, como o simbolismo de realizar a conferência na Amazônia, e poderia ter discutido mais detalhadamente o desmatamento no Brasil e as políticas concretas de combate. A menção ao 'êxito na redução do desmatamento' poderia ter sido mais nuançada, considerando os desafios recentes.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e vocabulário preciso. A correção gramatical é muito boa, com apenas um erro identificado (políticos-jurídicos)."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"políticos-jurídicos\" deveria ser \"político-jurídicos\" (em adjetivos compostos, apenas o segundo elemento flexiona em número)",
+      "\"nenhuma\" no trecho citado não é erro do candidato, mas \"aqueles\" deveria ser \"aqueles\" — na verdade, \"aqueles\" está correto como pronome demonstrativo referindo-se a 'migrantes', porém a construção 'como aqueles migrantes' poderia ser mais clara"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (desertificação e migração climática) e conclusão que retoma as ideias centrais e o texto motivador.",
+      "O candidato demonstra bom domínio do conteúdo, articulando as ideias de José Bonifácio com questões contemporâneas como desertificação, migração climática e a COP30, mostrando conhecimento de política externa brasileira.",
+      "A argumentação é consistente e bem encadeada, com uso adequado de conectivos e transições entre parágrafos, demonstrando capacidade de reflexão crítica sobre o tema.",
+      "A linguagem é formal e adequada ao contexto do concurso, com vocabulário preciso e variado.",
+      "Ponto de melhoria: a redação poderia ter explorado com mais profundidade aspectos específicos da COP30 e da diplomacia brasileira na Amazônia, bem como desafios concretos que o Brasil enfrenta internamente (como a tensão entre agronegócio e preservação), o que enriqueceria a análise crítica.",
+      "A menção a Maurecir Guimarães de Moraes no início, embora demonstre erudição, não é desenvolvida e pode parecer uma referência solta se não contextualizada adequadamente.",
+      "O texto poderia ter abordado mais diretamente o simbolismo de sediar a COP30 em Belém, na Amazônia, e as implicações diplomáticas dessa escolha."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "\"políticos-jurídicos\" deveria ser \"político-jurídicos\" (em adjetivos compostos, apenas o segundo elemento flexiona em número)",
+      "\"nenhuma\" no trecho citado não é erro do candidato, mas \"aqueles\" deveria ser \"aqueles\" — na verdade, \"aqueles\" está correto como pronome demonstrativo referindo-se a \"migrantes\", porém a construção \"como aqueles migrantes\" poderia ser mais clara"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (desertificação, migração climática, papel da diplomacia brasileira na COP30) e conclusão que retoma as ideias centrais e dialoga com o texto motivador.",
+      "O candidato demonstra sólida capacidade argumentativa, articulando as ideias de José Bonifácio com fenômenos contemporâneos de forma coerente e bem fundamentada, incluindo exemplos concretos (Sudeste Asiático, África subsaariana, sertão nordestino, pampas gaúchos, micronações insulares).",
+      "O texto aborda adequadamente a responsabilidade da diplomacia brasileira no contexto da COP30, mencionando captação de recursos, liderança pelo exemplo, credenciais ambientais do Brasil e metas do Acordo de Paris.",
+      "A linguagem é formal, adequada ao contexto do CACD, com vocabulário rico e variado. A referência a Maurecir Guimarães de Moraes demonstra conhecimento bibliográfico, embora a atribuição não seja verificável.",
+      "Ponto de melhoria: o texto poderia ter explorado com mais profundidade aspectos específicos da COP30 e da agenda climática de Belém, bem como a dimensão amazônica do debate. A menção ao desmatamento da Amazônia é breve considerando a centralidade do tema no enunciado.",
+      "A correção gramatical é muito boa, com pouquíssimos deslizes. O encadeamento lógico e a coesão textual são exemplares."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'políticos-jurídicos' — o correto seria 'político-jurídicos', pois em adjetivos compostos com dois adjetivos, apenas o segundo elemento flexiona em número.",
+      "'aqueles' — o correto seria 'aqueles' está empregado de forma imprecisa; o pronome demonstrativo deveria ser 'aqueles' referindo-se a 'refugiados', mas a construção frasal gera ambiguidade com 'convenções'. Embora não seja erro gramatical estrito, a construção é problemática."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em parágrafos temáticos (desertificação, migração climática, papel da diplomacia brasileira e COP30) e conclusão que retoma o texto de José Bonifácio de forma coesa.",
+      "O candidato demonstra conhecimento relevante sobre o tema, mencionando o Acordo de Paris, a neutralidade de carbono, a questão dos refugiados climáticos e das micronações insulares, e a relação entre desmatamento amazônico e regime de chuvas no Centro-Oeste e Sudeste.",
+      "A articulação com o texto de José Bonifácio é bem feita, conectando as ideias do Patriarca (terras áridas, ausência de gente, vingança da natureza) com fenômenos contemporâneos de forma pertinente.",
+      "A menção à COP30 e ao papel da diplomacia brasileira atende ao comando da questão, embora a discussão pudesse ser mais aprofundada — por exemplo, abordando tensões específicas da negociação climática (financiamento climático, responsabilidades comuns porém diferenciadas, mercado de carbono) com maior detalhamento.",
+      "A referência a 'Maurecir Guimarães de Moraes' no início parece ser uma tentativa de demonstrar erudição, mas não fica claro se a atribuição é precisa ou relevante, o que pode gerar dúvida no avaliador.",
+      "A argumentação, embora coerente e bem encadeada, é relativamente previsível e segue um roteiro esperado, sem apresentar análises particularmente originais ou sofisticadas que elevariam o texto à faixa 'Excelente'.",
+      "O domínio da norma culta é consistente, com vocabulário adequado e variado, e a linguagem é apropriada ao contexto do concurso diplomático."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'políticos-jurídicos' — o correto seria 'político-jurídicos', pois em adjetivos compostos com dois adjetivos, apenas o segundo elemento flexiona em número.",
+      "'aqueles' — o correto seria 'aqueles' está empregado de forma imprecisa; o pronome demonstrativo deveria ser 'aqueles' referindo-se a 'refugiados', mas a construção frasal gera ambiguidade com 'convenções'. Embora não seja erro gramatical estrito, a construção é problemática."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em parágrafos temáticos (desertificação, migração climática, papel da diplomacia brasileira e COP30) e conclusão que retoma o texto de José Bonifácio de forma coesa.",
+      "O candidato demonstra conhecimento relevante sobre o tema, mencionando o Acordo de Paris, a neutralidade de carbono, a questão dos refugiados climáticos e das micronações insulares, e a relação entre desmatamento amazônico e regime de chuvas no Centro-Oeste e Sudeste.",
+      "A articulação com o texto de José Bonifácio é bem feita, conectando as ideias do Patriarca (terras áridas, ausência de gente, vingança da natureza) com fenômenos contemporâneos de forma pertinente.",
+      "A menção à COP30 e ao papel da diplomacia brasileira atende ao comando da questão, embora a discussão pudesse ser mais aprofundada — por exemplo, abordando tensões específicas da negociação climática (financiamento climático, responsabilidades comuns porém diferenciadas, mercado de carbono) com maior detalhamento.",
+      "A referência a 'Maurecir Guimarães de Moraes' no início parece ser uma tentativa de demonstrar erudição, mas não fica claro se a atribuição é precisa ou relevante, o que pode gerar dúvida no avaliador.",
+      "A argumentação, embora coerente e bem encadeada, é relativamente previsível e segue um roteiro esperado, sem apresentar análises particularmente originais ou sofisticadas que elevariam o texto à faixa 'Excelente'.",
+      "O domínio da norma culta é consistente, com vocabulário adequado e variado, e a linguagem é apropriada ao contexto do concurso diplomático."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "'políticos-jurídicos' — o correto seria 'político-jurídicos', pois em adjetivos compostos com dois adjetivos, apenas o segundo elemento flexiona em número.",
+      "'aqueles' — o correto seria 'aqueles' está grafado corretamente, mas o uso de 'como aqueles migrantes' parece referir-se a 'refugiados do clima', sendo mais adequado 'como aqueles' ou 'como os migrantes'. Na verdade, o erro é de concordância/referência: 'aqueles' deveria ser 'aqueles' (forma correta) — não há erro ortográfico, mas a construção é sintaticamente truncada, pois a oração comparativa introduzida por 'como' fica sem verbo e com referência ambígua."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução, desenvolvimento em dois eixos temáticos (desertificação e migração climática) e conclusão que retoma o texto de José Bonifácio. A articulação entre os parágrafos é fluida e coerente.",
+      "O candidato demonstra bom domínio do tema, conectando as ideias de José Bonifácio a fenômenos contemporâneos como desertificação, migração climática e a COP30. A menção a regiões específicas (Sudeste Asiático, África subsaariana, sertão nordestino, pampas) enriquece a argumentação com exemplos concretos.",
+      "A abordagem da COP30 e da diplomacia brasileira é pertinente, mencionando captação de recursos, Acordo de Paris, neutralidade de carbono e matriz energética. Contudo, a análise poderia ser mais aprofundada quanto aos desafios concretos da diplomacia brasileira — por exemplo, tensões entre desenvolvimento econômico e preservação, ou a questão do financiamento climático e das responsabilidades comuns porém diferenciadas.",
+      "A referência a Maurecir Guimarães de Moraes na introdução, embora demonstre repertório, não é desenvolvida ao longo do texto, ficando como menção isolada. Seria mais eficaz integrar referências bibliográficas de forma mais orgânica.",
+      "A linguagem é adequada ao contexto do CACD, com vocabulário preciso e registro formal. O domínio da norma culta é consistente, com pouquíssimos deslizes.",
+      "Para alcançar a faixa 'Excelente', a redação se beneficiaria de maior profundidade analítica — por exemplo, discutindo as tensões entre soberania e cooperação internacional na Amazônia, o papel do Brasil no G77, ou as contradições entre o discurso ambiental e a expansão da fronteira agrícola."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Falta de vírgula após 'OTCA)' antes do colchete e verbo: '[1] foi a resposta' — a oração intercalada exige fechamento com vírgula: '(OTCA), foi'.",
+      "'desmatamento de sua florestas nativas' — falta de concordância: deveria ser 'suas florestas nativas'.",
+      "'repositório e natureza exótica' — provável erro de preposição, deveria ser 'repositório de natureza exótica'.",
+      "'nenhuma agricultura' aparece no enunciado, não na redação — desconsiderado. Em vez disso: 'combustíveis  fósseis' — espaço duplo antes de 'fósseis' (erro de digitação/formatação).",
+      "'ponto de inflexão , tanto' — espaço indevido antes da vírgula.",
+      "'sobre a situação da floresta urbanizada' — mudança de regência: iniciou com 'a respeito da Amazônia real, dos desafios... sobre a situação' — quebra de paralelismo e regência inconsistente (mistura 'a respeito de' com 'sobre').",
+      "'como para a proteção soberana' — correlação 'tanto... como' é aceitável, mas a construção mais adequada seria 'tanto... quanto' ou 'tanto... como também'; trata-se de questão menor de estilo, mas a falta de paralelismo com 'como' sem 'também' pode ser considerada imprecisão."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando com fluidez as ideias de José Bonifácio com o contexto contemporâneo das mudanças climáticas e da COP 30. A estrutura argumentativa é sólida e bem encadeada.",
+      "O candidato mobiliza repertório amplo e pertinente: referências a Bertha Becker, Jean de Léry, Ailton Krenak, Kipling, Pero Vaz de Caminha, TCA/OTCA, aliança com Congo e Indonésia, e o princípio das responsabilidades comuns, porém diferenciadas. Isso demonstra conhecimento interdisciplinar e capacidade de articulação.",
+      "A análise sobre a tentativa de internacionalização da Amazônia e sua conexão com o imperialismo e o eurocentrismo é bem construída e demonstra capacidade crítica elevada.",
+      "A conexão entre o pensamento de Bonifácio e a diplomacia brasileira contemporânea é feita de forma orgânica e convincente, atendendo plenamente ao comando da questão.",
+      "Ponto de melhoria: a redação poderia ter explorado com mais profundidade dados concretos sobre desmatamento recente no Brasil (taxas, metas da NDC brasileira, resultados do PPCDAm) e aspectos específicos da agenda da COP 30 (como o financiamento climático pós-2025, o Novo Objetivo Coletivo Quantificado — NCQG).",
+      "Há alguns deslizes gramaticais pontuais (concordância 'sua/suas', preposição 'e/de', espaçamento), mas nada que comprometa significativamente a qualidade do texto.",
+      "A conclusão, embora adequada, é um pouco genérica ('mundo justo e sustentável para todos'). Uma conclusão mais específica, vinculada a resultados concretos esperados da COP 30, fortaleceria o encerramento."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"repositório e natureza exótica\" — provável erro: deveria ser \"repositório de natureza exótica\".",
+      "\"sobre a situação da 'floresta urbanizada'\" — quebra de paralelismo com \"a respeito da Amazônia real, dos desafios enfrentados\"; deveria ser \"da situação\" ou \"acerca da situação\".",
+      "\"desmatamento de sua florestas nativas\" — falta de concordância: deveria ser \"de suas florestas nativas\".",
+      "\"(OTCA) [1] foi a resposta\" — falta de vírgula após o colchete para isolar a oração apositiva: \"(OTCA), foi a resposta\" ou ajuste da estrutura.",
+      "\"ponto de inflexão , tanto\" — espaço indevido antes da vírgula.",
+      "\"nenhuma agricultura\" aparece no enunciado, não na redação — desconsiderado. Em vez disso: \"como para a proteção soberana\" — correlação inadequada com \"tanto... como\"; o mais adequado seria \"quanto para\".",
+      "\"visam a conciliar\" — embora aceitável, a regência com \"visar a + infinitivo\" é controversa; não constitui erro grave, mas registra-se a oscilação."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução que contextualiza historicamente o pensamento de José Bonifácio, desenvolvimento que articula múltiplos eixos temáticos (soberania, responsabilidades diferenciadas, COP 30, povos originários) e conclusão que retoma o fio condutor do texto.",
+      "A capacidade de argumentação é muito boa: o candidato mobiliza referências bibliográficas pertinentes (Bertha Becker, Ailton Krenak, Jean de Léry), instrumentos jurídicos (TCA/OTCA) e conceitos do regime ambiental multilateral (responsabilidades comuns, porém diferenciadas). A menção à aliança Brasil-Congo-Indonésia e às manchas de clima árido no Nordeste demonstra atualização temática.",
+      "A capacidade de análise e reflexão é elevada: o candidato estabelece conexões sofisticadas entre o pensamento de Bonifácio e o regime climático contemporâneo, problematiza a narrativa de internacionalização da Amazônia com referência ao imperialismo e ao eurocentrismo, e articula a COP 30 como oportunidade de protagonismo diplomático brasileiro. A reflexão sobre a Amazônia como 'sujeito' e não 'objeto' é particularmente bem construída.",
+      "Pontos de melhoria: o texto é bastante longo e, em alguns trechos, poderia ser mais conciso. A digressão sobre Kipling e o 'fardo do homem branco', embora interessante, poderia ser mais sintética. Há alguns erros gramaticais pontuais (concordância, preposição) que comprometem levemente a correção linguística. A nota de rodapé indicada por [1] é incomum em redações dissertativas e sugere formato inadequado ao gênero.",
+      "No aspecto gramatical, foram identificados erros de concordância ('sua florestas'), troca de preposição ('repositório e natureza' por 'de natureza'), quebra de paralelismo e espaçamento inadequado antes de vírgula. São erros pontuais que não comprometem a compreensão, mas reduzem a nota de correção gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 22.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Falta de vírgula após 'OTCA)' antes do colchete: '[1] foi a resposta' — a oração intercalada exige fechamento com vírgula: '(OTCA), foi a resposta' ou melhor pontuação do aposto.",
+      "'desmatamento de sua florestas nativas' — erro de concordância: deveria ser 'suas florestas nativas'.",
+      "'repositório e natureza exótica' — provável erro: deveria ser 'repositório de natureza exótica'.",
+      "'nenhuma agricultura' aparece no enunciado, não na redação — desconsiderado. Porém, na redação: 'combustíveis  fósseis' — espaço duplo antes de 'fósseis' (erro tipográfico).",
+      "'ponto de inflexão , tanto' — espaço indevido antes da vírgula.",
+      "'Guimaraes' — falta de acento: deveria ser 'Guimarães'.",
+      "'como para a proteção soberana' — correlação inadequada: 'tanto... como' é aceitável, mas a construção 'tanto para... como para' seria mais precisa com 'quanto para'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução que contextualiza historicamente o pensamento de José Bonifácio, desenvolvimento que articula múltiplos argumentos e conclusão que retoma o tema central. O texto é coeso e fluido.",
+      "A capacidade de argumentação é notável: o candidato mobiliza referências pertinentes (Bertha Becker, Jean de Léry, Kipling, Ailton Krenak, Pero Vaz de Caminha), demonstrando repertório cultural amplo e bem articulado com o tema proposto.",
+      "A análise é sofisticada ao conectar o pensamento de José Bonifácio com o regime ambiental multilateral contemporâneo, o princípio das responsabilidades comuns porém diferenciadas, a COP 30 e a questão da internacionalização da Amazônia. O candidato demonstra capacidade crítica ao desconstruir narrativas eurocêntricas sobre a Amazônia.",
+      "O texto aborda todos os elementos solicitados pelo enunciado: atualidade das ideias de Bonifácio, mudanças climáticas, desmatamento, responsabilidade da diplomacia brasileira e a COP 30 em Belém.",
+      "Pontos de melhoria: alguns trechos são excessivamente longos e poderiam ser mais concisos; há pequenos erros gramaticais (concordância 'sua florestas', preposição 'repositório e natureza'); a nota de rodapé '[1]' é incomum em redações dissertativas e não aparece desenvolvida no texto.",
+      "A redação poderia ter aprofundado mais a discussão sobre metas concretas da COP 30, como o balanço global (Global Stocktake) e as NDCs, para demonstrar conhecimento técnico mais específico sobre o regime climático.",
+      "No geral, trata-se de uma redação de alto nível, com argumentação consistente, repertório diversificado e análise crítica bem fundamentada, compatível com o padrão esperado para o CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Falta de acento em 'Guimaraes' — deveria ser 'Guimarães'.",
+      "'repositório e natureza exótica' — provável erro: deveria ser 'repositório de natureza exótica'.",
+      "'nenhuma agricultura' aparece no enunciado, não na redação, mas na redação há: 'desmatamento de sua florestas nativas' — falta de concordância: deveria ser 'suas florestas nativas'.",
+      "Espaço indevido antes da vírgula em 'ponto de inflexão ,' — erro de pontuação/digitação.",
+      "'como para a proteção soberana' — após 'tanto... como' a construção está correta, mas o uso de 'como' em vez de 'quanto' é menos adequado no registro formal ('tanto... quanto').",
+      "Falta de vírgula após 'OTCA)' antes de '[1] foi a resposta' — a oração intercalada deveria ser melhor pontuada.",
+      "Uso de nota de rodapé '[1]' sem correspondente explicação no corpo do texto, o que é inadequado no formato de redação dissertativa."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando com profundidade as ideias de José Bonifácio com o contexto contemporâneo das mudanças climáticas e da COP 30.",
+      "O texto apresenta argumentação sofisticada, com referências pertinentes (Jean de Léry, Bertha Becker, Ailton Krenak, Kipling), demonstrando amplo repertório cultural e conhecimento da política externa brasileira.",
+      "A estrutura argumentativa é bem construída, com encadeamento lógico das ideias: parte do pensamento de Bonifácio, contextualiza historicamente, aborda a questão da internacionalização da Amazônia, discute responsabilidades diferenciadas e conclui com o papel da diplomacia brasileira na COP 30.",
+      "O princípio das responsabilidades comuns, porém diferenciadas, é bem explorado e conectado ao tema central.",
+      "Pontos de melhoria: há alguns erros pontuais de digitação/ortografia ('Guimaraes', 'sua florestas'), e o uso de nota de rodapé '[1]' é inadequado para o formato de redação. A conclusão poderia ser mais desenvolvida.",
+      "A linguagem é adequada ao registro formal exigido pelo concurso, com vocabulário preciso e variado.",
+      "O texto poderia ter explorado mais dados concretos sobre desmatamento recente no Brasil e metas específicas da COP 30 para fortalecer a argumentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Falta de acento em 'Guimaraes' — deveria ser 'Guimarães'.",
+      "'repositório e natureza exótica' — provável erro: deveria ser 'repositório de natureza exótica'.",
+      "'nenhuma agricultura' aparece no enunciado, não na redação, mas na redação há: 'desmatamento de sua florestas nativas' — falta de concordância, deveria ser 'de suas florestas nativas'.",
+      "Espaço indevido antes da vírgula em 'ponto de inflexão ,'.",
+      "Uso de 'sobre a situação' após 'a respeito de' gera quebra de paralelismo ('a respeito da Amazônia real, dos desafios... sobre a situação').",
+      "'[1]' — marca de nota de rodapé inadequada em redação dissertativa de concurso, sem correspondente nota ao final.",
+      "'como para a proteção soberana' — a correlação 'tanto... como' é aceitável, mas a forma preferível seria 'tanto... quanto' ou 'tanto... como também'; trata-se de questão menor de estilo."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando com profundidade as ideias de José Bonifácio com o contexto contemporâneo das mudanças climáticas, do desmatamento e da COP 30.",
+      "O texto apresenta argumentação sofisticada, com referências pertinentes (Jean de Léry, Bertha Becker, Ailton Krenak, Kipling), que enriquecem a discussão e demonstram repertório cultural amplo.",
+      "A abordagem do princípio das responsabilidades comuns, porém diferenciadas, e a crítica à tentativa de internacionalização da Amazônia são pontos fortes que demonstram conhecimento da agenda diplomática brasileira.",
+      "A organização textual é coerente e bem encadeada, com introdução que contextualiza Bonifácio, desenvolvimento que aborda múltiplas dimensões do tema e conclusão que retoma a tese central.",
+      "Há alguns deslizes gramaticais pontuais (concordância em 'sua florestas', espaço antes de vírgula, provável troca de preposição 'e' por 'de') que, embora não comprometam a compreensão, devem ser evitados em prova de concurso.",
+      "A inclusão de marca de nota de rodapé '[1]' sem a correspondente nota é inadequada no formato de redação dissertativa.",
+      "O texto é bastante longo e, em alguns trechos, poderia ser mais conciso, evitando digressões que, embora interessantes, alongam o desenvolvimento sem acrescentar proporcionalmente à argumentação central."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Falta de acento em 'Guimaraes' — deveria ser 'Guimarães'.",
+      "'repositório e natureza exótica' — provável erro: deveria ser 'repositório de natureza exótica'.",
+      "'nenhuma agricultura' aparece na citação, não é erro do candidato, mas o candidato escreveu 'desmatamento de sua florestas nativas' — falta de concordância: deveria ser 'de suas florestas nativas'.",
+      "Espaço indevido antes da vírgula em 'ponto de inflexão ,' — erro de pontuação/digitação.",
+      "Uso de 'sobre a situação' após 'a respeito de' gera quebra de paralelismo: 'a respeito da Amazônia real, dos desafios... sobre a situação' — deveria manter a mesma regência ('da situação').",
+      "Uso de 'como para' em 'tanto para... como para' é aceitável, mas a construção 'tanto... quanto' seria preferível; não constitui erro grave.",
+      "Nota de rodapé '[1]' sem correspondente no texto — inadequado para redação dissertativa de concurso."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando com profundidade as ideias de José Bonifácio com o contexto contemporâneo das mudanças climáticas, do desmatamento e da COP 30.",
+      "O candidato mobiliza repertório amplo e pertinente: referências a Bertha Becker, Jean de Léry, Kipling, Ailton Krenak, Pero Vaz de Caminha, TCA/OTCA, além de conceitos-chave como responsabilidades comuns porém diferenciadas e direitos das gerações futuras.",
+      "A estrutura argumentativa é sólida, com encadeamento lógico das ideias, passando da contextualização histórica à análise contemporânea e às responsabilidades diplomáticas do Brasil.",
+      "A discussão sobre a tentativa de internacionalização da Amazônia e a crítica ao eurocentrismo são bem articuladas e demonstram capacidade analítica sofisticada.",
+      "Pontos de melhoria: há alguns deslizes gramaticais (concordância em 'sua florestas', provável troca de preposição em 'repositório e natureza'), e a inclusão de nota de rodapé '[1]' é inadequada ao formato de redação dissertativa. A conclusão poderia ser mais desenvolvida e menos genérica.",
+      "O texto é longo e bem desenvolvido, mas em alguns trechos a argumentação se estende em digressões (como a referência a Kipling) que, embora pertinentes, poderiam ser mais concisas para manter o foco no tema central.",
+      "No geral, trata-se de uma redação de alto nível, com domínio temático, argumentação consistente e linguagem adequada ao contexto do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de vírgula após '[1]' antes de 'foi a resposta brasileira' — a oração intercalada exige fechamento com vírgula: '(OTCA), foi a resposta'.",
+      "'desmatamento de sua florestas nativas' — falta de concordância: deveria ser 'suas florestas nativas'.",
+      "'nenhuma agricultura' aparece no enunciado, não na redação, mas o candidato escreve 'repositório e natureza exótica' quando o sentido exige 'repositório de natureza exótica' (preposição 'de' em vez de 'e').",
+      "Espaço extra antes da vírgula em 'ponto de inflexão , tanto' — erro tipográfico.",
+      "Espaço duplo em 'combustíveis  fósseis' — erro tipográfico."
+    ],
+    "feedbacks": [
+      "A redação demonstra domínio temático notável, articulando com fluidez a herança intelectual de José Bonifácio, o regime ambiental multilateral, a COP 30 e a diplomacia brasileira. A contextualização histórica — de Pero Vaz de Caminha a Jean de Léry, passando por Kipling e Bertha Becker — enriquece substancialmente a argumentação.",
+      "O texto apresenta estrutura lógica sólida: parte da visão precursora de Bonifácio, avança para a atualidade das mudanças climáticas, discute a questão da internacionalização da Amazônia, aborda o princípio das responsabilidades comuns porém diferenciadas e conclui com o papel da COP 30 e da diplomacia brasileira. O encadeamento é coerente e bem articulado.",
+      "A menção a Ailton Krenak e à distinção entre 'incidente' e 'acidente' é um recurso argumentativo sofisticado que demonstra repertório cultural amplo e capacidade de reflexão crítica, embora pudesse ser mais desenvolvida para não parecer tangencial.",
+      "O texto poderia aprofundar mais os aspectos concretos da agenda da COP 30 — como metas de financiamento climático (NCQG), adaptação, mercado de carbono — para demonstrar conhecimento técnico mais específico sobre a conferência. A menção aos cem bilhões de dólares é pertinente, mas poderia ser complementada com referências ao novo objetivo de financiamento.",
+      "A linguagem é adequada ao contexto do CACD, com vocabulário preciso e registro formal consistente. Os poucos deslizes gramaticais e tipográficos identificados não comprometem a qualidade geral do texto, que se destaca pela maturidade argumentativa e pela capacidade de articular múltiplas dimensões do tema proposto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de vírgula após '[1]' antes de 'foi a resposta brasileira' — a oração intercalada exige fechamento com vírgula.",
+      "'desmatamento de sua florestas nativas' — falta de concordância: deveria ser 'suas florestas nativas'.",
+      "'preservada na floresta viva' — concordância ambígua; o referente mais próximo é 'biodiversidade', mas a construção pode gerar dúvida.",
+      "'repositório e natureza exótica' — provável erro de digitação; deveria ser 'repositório de natureza exótica'.",
+      "Espaço indevido antes da vírgula em 'ponto de inflexão , tanto' — erro tipográfico."
+    ],
+    "feedbacks": [
+      "A redação demonstra domínio temático notável, articulando com fluidez a herança intelectual de José Bonifácio, o regime ambiental multilateral, a COP 30 e a diplomacia brasileira. A contextualização histórica — de Pero Vaz de Caminha a Jean de Léry, passando por Bertha Becker, Kipling e Ailton Krenak — enriquece substancialmente a argumentação e evidencia repertório cultural amplo e pertinente.",
+      "A estrutura argumentativa é sólida: o texto parte da atualidade das ideias de Bonifácio, avança para a dimensão geopolítica da Amazônia, problematiza a tentativa de internacionalização, defende o princípio das responsabilidades comuns porém diferenciadas e conclui com a projeção do papel da diplomacia brasileira na COP 30. O encadeamento é lógico e coeso.",
+      "O texto aborda com profundidade a questão das responsabilidades diferenciadas e do financiamento climático, elementos centrais para o debate diplomático contemporâneo, demonstrando compreensão sofisticada do tema.",
+      "A menção ao TCA/OTCA e à aliança Brasil-Congo-Indonésia demonstra conhecimento específico de política externa brasileira, adequado ao perfil do CACD.",
+      "Pontos de melhoria: há alguns deslizes gramaticais e tipográficos que, embora não comprometam a compreensão, poderiam ser evitados em um texto de concurso. Além disso, a redação poderia ter explorado com maior especificidade as metas concretas esperadas para a COP 30 (como a revisão das NDCs, o novo marco de financiamento climático pós-2025 e a questão da adaptação), o que elevaria ainda mais o nível analítico. A conclusão, embora adequada, é ligeiramente genérica em comparação com a riqueza do desenvolvimento."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Falta de vírgula após 'OTCA)' antes do colchete e do verbo: '[1] foi a resposta' — a oração intercalada exige fechamento com vírgula: '(OTCA), foi a resposta' ou melhor pontuação.",
+      "'desmatamento de sua florestas nativas' — falta de concordância: deveria ser 'de suas florestas nativas'.",
+      "'repositório e natureza exótica' — provável erro de preposição, deveria ser 'repositório de natureza exótica'.",
+      "'nenhuma agricultura' aparece no trecho citado, não é erro do candidato, mas na redação há espaço duplo antes de 'fósseis' ('combustíveis  fósseis'), o que configura erro de digitação/formatação.",
+      "Espaço indevido antes da vírgula em 'ponto de inflexão , tanto' — erro de formatação/pontuação."
+    ],
+    "feedbacks": [
+      "A redação demonstra domínio temático notável, articulando com fluidez a herança intelectual de José Bonifácio, o regime ambiental multilateral, a COP 30 e a diplomacia brasileira. A contextualização histórica — de Pero Vaz de Caminha a Jean de Léry, passando por Bertha Becker, Kipling e Ailton Krenak — enriquece substancialmente a argumentação.",
+      "A estrutura argumentativa é sólida e bem encadeada: parte da visão de Bonifácio, passa pela atualidade das mudanças climáticas, aborda a questão da internacionalização da Amazônia, discute o princípio das responsabilidades comuns porém diferenciadas e conclui com o papel da COP 30 e da diplomacia brasileira. Há coerência e progressão lógica.",
+      "O texto demonstra maturidade analítica ao desconstruir a narrativa de internacionalização da Amazônia, vinculando-a ao imperialismo e ao eurocentrismo, e ao trazer a perspectiva dos povos originários como sujeitos ativos na proteção ambiental.",
+      "Há poucos erros gramaticais, mas a concordância em 'sua florestas' e a preposição em 'repositório e natureza' merecem atenção. A pontuação poderia ser mais precisa em alguns trechos, especialmente no uso de parênteses e colchetes.",
+      "Para alcançar o nível excepcional, a redação poderia aprofundar aspectos mais técnicos do regime climático (como metas de NDCs, o Acordo de Paris, o novo marco de financiamento climático pós-2025) e apresentar dados mais concretos sobre desmatamento e emissões. Além disso, a conclusão, embora adequada, é um pouco genérica e poderia ser mais incisiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "\"Século XX\" com maiúscula indevida em 'século'.",
+      "\"dinamizaram\" deveria ser 'dinamizassem' ou 'tenham dinamizado', pois a oração é concessiva com 'conquanto' e exige subjuntivo.",
+      "\"desta seara\" — uso de 'desta' quando o referente não está próximo; preferível 'dessa'.",
+      "\"através da análise\" — 'através de' com sentido de 'por meio de' é considerado inadequado por muitas gramáticas normativas; preferível 'por meio da análise'.",
+      "\"contribuir internamente como os planos\" — erro de regência/troca de preposição: deveria ser 'com os planos'.",
+      "\"quando se verifica os processos\" — falta de concordância verbal: deveria ser 'quando se verificam os processos'.",
+      "\"não por isso\" — falta de vírgula ou construção truncada; a expressão correta seria 'nem por isso' ou 'não é por isso que'.",
+      "\"a natureza se vingue\" — no texto de Bonifácio consta 'se ache vingada'; além disso, a construção da citação indireta altera o sentido original.",
+      "\"Essas mudanças já vem provocando\" — falta de acento: 'vêm' (terceira pessoa do plural).",
+      "\"pré- -industriais\" — espaço indevido no hífen: deveria ser 'pré-industriais'.",
+      "\"ele receava que seus netos 'os acusassem de fatos tão culposos'\" — o pronome 'os' está deslocado e gera ambiguidade; além disso, a citação original diz 'nos acusarem', não 'os acusassem'.",
+      "\"na Rio +20 através do conceito\" — novamente 'através de' com sentido de 'por meio de'; e falta de preposição ou artigo adequado antes de 'Rio+20'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização estrutural, com introdução que anuncia os três eixos de análise, desenvolvimento em três parágrafos temáticos e conclusão retomando os pontos principais. A divisão tripartite (desmatamento, mudanças climáticas, avanços e perspectivas) é clara e facilita a leitura.",
+      "O candidato demonstra conhecimento relevante ao mencionar o Fundo Amazônia, o Acordo de Paris, o IPCC, o Relatório Brundtland, o Acordo BBNJ, a COP-28 e a COP-30 em Belém. Isso mostra domínio do tema e capacidade de mobilizar informações pertinentes.",
+      "A articulação entre as ideias de José Bonifácio e os problemas contemporâneos é bem conduzida, embora em alguns momentos a análise permaneça superficial. Por exemplo, a menção aos 'rios voadores' e à arenização poderia ser mais aprofundada. A discussão sobre financiamento climático e NDCs poderia explorar tensões entre países desenvolvidos e em desenvolvimento com mais profundidade.",
+      "A capacidade de reflexão é razoável, mas o texto tende a ser mais descritivo do que analítico em certos trechos. A conclusão, embora coerente, é algo genérica. Faltou maior problematização sobre o papel específico da diplomacia brasileira na COP-30, como a questão do financiamento climático (meta de US$ 100 bilhões), a transição energética justa, e as tensões entre soberania nacional e compromissos internacionais.",
+      "Há erros gramaticais que comprometem parcialmente a qualidade linguística, como falhas de concordância verbal ('se verifica os processos'), troca de preposição ('como os planos' por 'com os planos'), e uso inadequado do modo verbal com 'conquanto'. O estilo é formal e adequado ao gênero, mas algumas construções são repetitivas ('hodiernamente' aparece duas vezes, 'seara' aparece duas vezes).",
+      "O texto atende ao comando da questão ao abordar a atualidade das ideias de Bonifácio, as mudanças climáticas, o desmatamento e a COP-30, mas poderia ter explorado com mais profundidade a dimensão da responsabilidade diplomática brasileira como sede do evento e as expectativas concretas da comunidade internacional."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 8.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "\"Século XX\" – uso indevido de maiúscula em 'Século' no meio da frase.",
+      "\"Conquanto dinamizaram\" – 'conquanto' exige subjuntivo: 'conquanto tenham dinamizado'.",
+      "\"desta seara\" – uso de 'desta' sem referência próxima adequada; preferível 'dessa'.",
+      "\"através da análise\" – uso inadequado de 'através de' com sentido de 'por meio de'.",
+      "\"Na condição do mais patente receio\" – construção confusa e inadequada; 'na condição de' exige complemento coerente.",
+      "\"quando se verifica os processos\" – falta de concordância: 'quando se verificam os processos'.",
+      "\"contribuir internamente como os planos\" – troca de 'com' por 'como', erro de digitação/regência.",
+      "\"não por isso\" – falta de vírgula ou construção truncada; deveria ser 'nem por isso' ou 'não é por isso que'.",
+      "\"a natureza se vingue\" – a citação original usa 'vingada'; além disso, a construção frasal está imprecisa em relação ao texto-base.",
+      "\"já vem provocando\" – falta de concordância: 'já vêm provocando' (sujeito plural 'mudanças').",
+      "\"pré- -industriais\" – grafia incorreta com espaço indevido; correto: 'pré-industriais'.",
+      "\"seus netos 'os acusassem'\" – a citação original diz 'nossos netos nos acusarem'; a paráfrase altera o sentido e a concordância de forma inadequada."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização geral, com introdução, desenvolvimento em três eixos temáticos e conclusão. A estrutura é clara e facilita a leitura, embora a divisão tripartite (desmatamento, mudanças climáticas, avanços e perspectivas) seja um tanto esquemática e previsível para o nível do CACD.",
+      "A argumentação é pertinente e mobiliza informações relevantes, como o Fundo Amazônia, o Acordo de Paris, o IPCC, o Relatório Brundtland, o Acordo BBNJ e a COP-30. Contudo, algumas informações poderiam ser mais aprofundadas — por exemplo, a menção aos 'rios voadores' e à arenização carece de maior precisão técnica e contextualização.",
+      "A capacidade de análise e reflexão é razoável, mas poderia ser mais sofisticada. O candidato conecta as ideias de Bonifácio ao cenário contemporâneo, porém de forma por vezes superficial. A reflexão sobre a responsabilidade diplomática brasileira na COP-30 é genérica — faltam considerações mais densas sobre os desafios específicos (financiamento climático, tensões Norte-Sul, papel do Brasil como país em desenvolvimento com grande cobertura florestal, contradições entre agronegócio e preservação). A menção à 'crise do multilateralismo' é pertinente, mas insuficientemente desenvolvida.",
+      "Há repetições desnecessárias de expressões como 'hodiernamente', 'seara', 'diplomacia pátria', que empobrecem o estilo. O uso de conectivos é adequado, mas por vezes mecânico.",
+      "Os erros gramaticais identificados, embora não gravíssimos individualmente, são numerosos para o padrão exigido no CACD, incluindo problemas de concordância verbal, regência e uso inadequado de conjunções.",
+      "A conclusão retoma os pontos principais, mas é algo apressada e não acrescenta reflexão nova significativa. A frase final ('Conquanto desafiador, é papel da diplomacia') é lacônica e poderia ser mais elaborada para um encerramento à altura do tema proposto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 8.0,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 12,
+    "erros_gramaticais": [
+      "\"Século XX\" – uso indevido de maiúscula em 'Século' no meio da frase.",
+      "\"Conquanto dinamizaram\" – 'conquanto' exige subjuntivo: 'conquanto tenham dinamizado'.",
+      "\"desta seara\" – uso de 'desta' quando o referente não está próximo; preferível 'dessa'.",
+      "\"através da análise\" – 'através de' com sentido de 'por meio de' é considerado inadequado por muitos gramáticos; menor gravidade, mas registrado.",
+      "\"quando se verifica os processos\" – falta de concordância: 'quando se verificam os processos'.",
+      "\"contribuir internamente como os planos\" – troca de 'com' por 'como', erro de digitação/ortografia que altera o sentido.",
+      "\"não por isso\" – falta de vírgula ou construção truncada; a expressão correta seria 'nem por isso' ou 'não é por isso que'.",
+      "\"que a natureza se vingue\" – a citação original diz 'se ache vingada'; além disso, a construção frasal ficou truncada.",
+      "\"já vem provocando\" – falta de concordância: 'já vêm provocando' (sujeito plural 'mudanças').",
+      "\"pré- -industriais\" – espaço indevido no hífen: 'pré-industriais'.",
+      "\"seus netos 'os acusassem'\" – a citação original é 'nossos netos nos acusarem'; além disso, a regência ficou confusa com a mudança de pessoa.",
+      "\"justo essa ideia\" – uso coloquial de 'justo' como advérbio de ênfase; em registro formal, preferível 'justamente'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução que anuncia três eixos de análise (desmatamento, mudanças climáticas, avanços e perspectivas), desenvolvimento coerente e conclusão que retoma os pontos principais. A impressão geral é de um texto bem articulado, embora com certa repetitividade em algumas passagens.",
+      "A capacidade de argumentação é satisfatória: o candidato mobiliza informações pertinentes como o Fundo Amazônia, o Acordo de Paris, o IPCC, o Acordo BBNJ, a COP-28 e a COP-30 em Belém. Contudo, algumas informações poderiam ser mais aprofundadas – por exemplo, a menção aos 'rios voadores' e à arenização carece de maior precisão técnica. A afirmação de que a Mata Atlântica conta com 'apenas 7% de sua cobertura original' é um dado frequentemente citado, mas poderia ser contextualizado melhor.",
+      "A análise e reflexão são razoáveis, mas poderiam ser mais profundas. O candidato estabelece conexões entre as ideias de Bonifácio e os desafios contemporâneos, o que é positivo. No entanto, a reflexão sobre o papel específico da diplomacia brasileira na COP-30 poderia ser mais detalhada – quais são os desafios concretos de negociação? Como o Brasil pode conciliar seu papel de potência agrícola com a liderança ambiental? A menção à 'crise do multilateralismo' é pertinente, mas superficial. A análise da responsabilidade intergeracional, embora mencionada, não é suficientemente desenvolvida.",
+      "Há erros gramaticais que comprometem parcialmente a qualidade linguística do texto, incluindo problemas de concordância verbal, uso inadequado de conjunções e erros de digitação. O registro é predominantemente formal e adequado ao gênero, mas alguns deslizes enfraquecem a expressão.",
+      "Ponto positivo: o candidato demonstra conhecimento do tema e consegue articular as ideias de José Bonifácio com questões contemporâneas de forma orgânica. Ponto a melhorar: aprofundar a análise crítica, especialmente no que tange aos dilemas concretos da diplomacia brasileira e às tensões entre desenvolvimento econômico e preservação ambiental."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"quando se verifica os processos\" — falta de concordância verbal; deveria ser \"quando se verificam os processos\"",
+      "\"contribuir internamente como os planos\" — troca de preposição; deveria ser \"contribuir internamente com os planos\"",
+      "\"não por isso\" — falta de vírgula ou construção inadequada; deveria ser \"nem por isso\"",
+      "\"Essas mudanças já vem provocando\" — falta de acento circunflexo no plural; deveria ser \"já vêm provocando\"",
+      "\"pré- -industriais\" — espaçamento indevido no hífen; deveria ser \"pré-industriais\"",
+      "\"nenhuma agricultura\" — embora seja citação do enunciado, a grafia correta seria \"nenhuma\" (arcaísmo aceitável no contexto da citação, mas o candidato não sinaliza)",
+      "\"Na condição do mais patente receio\" — uso inadequado da expressão; seria mais adequado \"Na condição de mais patente receio\" ou reformulação",
+      "\"que permitirão o estabelecimento\" — uso do futuro do indicativo onde o subjuntivo seria mais adequado: \"que permitam o estabelecimento\""
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em três eixos temáticos e conclusão, demonstrando planejamento textual adequado.",
+      "O candidato articula bem o texto de José Bonifácio com questões contemporâneas, como os rios voadores, o Fundo Amazônia, o Acordo de Paris e a COP-30, demonstrando conhecimento do tema.",
+      "A menção a exemplos concretos (enchentes no RS, tornados na Flórida, IPCC, Acordo BBNJ, Relatório Brundtland) enriquece a argumentação e demonstra repertório.",
+      "Há certa repetitividade em algumas construções e ideias, como o uso reiterado de 'hodiernamente' e a reafirmação de que as ideias de Bonifácio são atuais, o que poderia ser mais conciso.",
+      "A análise sobre a responsabilidade diplomática brasileira na COP-30 poderia ser mais aprofundada, especialmente no que tange a propostas concretas e ao papel de liderança do Brasil como anfitrião.",
+      "Alguns erros gramaticais, embora pontuais, comprometem levemente a qualidade formal do texto, especialmente a concordância verbal e o uso de preposições.",
+      "A argumentação, embora competente, tende a ser mais descritiva do que analítica em alguns trechos, o que limita a profundidade reflexiva esperada no CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"Século XX\" com maiúscula indevida em 'século'",
+      "\"quando se verifica os processos\" — falta de concordância verbal; deveria ser 'quando se verificam os processos'",
+      "\"contribuir internamente como os planos\" — troca de preposição; deveria ser 'com os planos'",
+      "\"não por isso\" — falta de vírgula ou construção inadequada; deveria ser 'nem por isso'",
+      "\"um dia que a natureza se vingue\" — citação imprecisa do texto de referência, que diz 'se ache vingada'",
+      "\"Essas mudanças já vem provocando\" — falta de acento circunflexo; deveria ser 'vêm' (terceira pessoa do plural)",
+      "\"pré- -industriais\" — espaçamento indevido no uso do hífen; deveria ser 'pré-industriais'",
+      "\"nenhuma\" no trecho citado não é erro do candidato, mas a construção 'gases como CO2, o metano' apresenta falta de paralelismo (mistura de fórmula química com nome por extenso, embora seja menor)"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em três eixos temáticos e conclusão, demonstrando planejamento textual adequado.",
+      "O candidato articula bem a conexão entre as ideias de José Bonifácio e os desafios contemporâneos, tanto no desmatamento quanto nas mudanças climáticas, atendendo ao comando da questão.",
+      "A menção à COP-30, ao Acordo de Paris, ao Fundo Amazônia, ao IPCC e ao Acordo BBNJ demonstra repertório temático relevante e conhecimento da agenda diplomática brasileira.",
+      "Há algumas imprecisões factuais: a Revolução Industrial não ocorreu em 'meados do século XIX', mas sim no final do século XVIII; os tornados na Flórida e inundações na Turquia como exemplos de 2024 carecem de precisão.",
+      "A argumentação, embora bem encadeada, por vezes se torna repetitiva, especialmente nas transições entre parágrafos e nas conclusões parciais ('Com isso, as ideias de Bonifácio são aplicáveis...').",
+      "A redação poderia ter explorado com maior profundidade o papel específico da diplomacia brasileira como sede da COP-30 em Belém, incluindo aspectos como a dimensão simbólica de realizar o evento na Amazônia e as expectativas concretas de resultados.",
+      "Erros gramaticais pontuais, como falhas de concordância e troca de preposição, comprometem parcialmente a qualidade linguística do texto.",
+      "A linguagem é, em geral, adequada ao registro formal exigido pelo concurso, com uso apropriado de conectivos e vocabulário pertinente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"Século XX\" com maiúscula indevida em 'século'",
+      "\"quando se verifica os processos\" — falta de concordância verbal; deveria ser 'quando se verificam os processos'",
+      "\"contribuir internamente como os planos\" — troca de preposição; deveria ser 'com os planos'",
+      "\"não por isso\" — falta de vírgula ou construção inadequada; deveria ser 'nem por isso'",
+      "\"um dia que a natureza se vingue\" — citação imprecisa do texto de referência, que diz 'se ache vingada'",
+      "\"Essas mudanças já vem provocando\" — falta de acento circunflexo; deveria ser 'vêm' (terceira pessoa do plural)",
+      "\"pré- -industriais\" — espaçamento indevido no uso do hífen",
+      "\"nenhuma agricultura\" — embora seja citação do texto original, a grafia correta seria 'nenhuma' (arcaísmo aceitável em citação)"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em três eixos temáticos e conclusão, demonstrando planejamento textual adequado.",
+      "O candidato articula bem a conexão entre as ideias de José Bonifácio e os desafios ambientais contemporâneos, cumprindo a proposta do enunciado.",
+      "A menção à COP-30 em Belém, ao Fundo Amazônia, ao Acordo de Paris, ao IPCC e ao Acordo BBNJ demonstra repertório temático relevante e conhecimento da agenda diplomática brasileira.",
+      "Há certa repetitividade nas frases de transição e conclusões parciais ('Com isso, as ideias de Bonifácio são aplicáveis...'), o que enfraquece a fluidez argumentativa.",
+      "A argumentação sobre mudanças climáticas poderia ser mais aprofundada, especialmente no que diz respeito ao papel específico do Brasil como sede da COP-30 e às expectativas concretas para a conferência.",
+      "Alguns erros gramaticais, como falhas de concordância e troca de preposição, comprometem parcialmente a correção linguística esperada no nível do CACD.",
+      "A redação poderia explorar mais a dimensão da responsabilidade diferenciada entre países desenvolvidos e em desenvolvimento, tema central na diplomacia climática brasileira.",
+      "O texto demonstra capacidade argumentativa satisfatória, mas poderia apresentar maior profundidade analítica e originalidade reflexiva para alcançar pontuações mais elevadas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "'Século XX' com maiúscula indevida em 'ao longo do Século XX'",
+      "'como os planos' deveria ser 'com os planos' (erro de digitação/preposição)",
+      "'quando se verifica os processos' — falta de concordância: deveria ser 'quando se verificam os processos'",
+      "'não por isso' — falta de vírgula ou construção truncada; o espaço duplo antes de 'isso' sugere erro de digitação",
+      "'já vem provocando' — deveria ser 'já vêm provocando' (concordância com sujeito plural 'mudanças')",
+      "'pré- -industriais' — espaço indevido no hífen composto",
+      "'nenhuma agricultura' aparece no enunciado, mas na redação há uso de 'justo essa ideia' que, embora coloquial, é aceitável; porém 'através do conceito' é considerado inadequado por alguns gramáticos (preferível 'por meio do conceito')",
+      "'que permitirão' — a oração relativa parece referir-se a 'consensos', mas a concordância e a regência ficam ambíguas no contexto"
+    ],
+    "feedbacks": [
+      "A redação demonstra boa organização estrutural, com introdução, desenvolvimento em três eixos temáticos (desmatamento, mudanças climáticas, avanços e perspectivas) e conclusão. Essa divisão é clara e facilita a leitura.",
+      "O candidato articula razoavelmente bem as ideias de José Bonifácio com a realidade contemporânea, fazendo referências diretas ao texto do enunciado e conectando-as a fenômenos atuais como os 'rios voadores', o Fundo Amazônia e o Acordo de Paris.",
+      "Há bom uso de exemplos concretos (enchentes no RS, IPCC, COP-28, Acordo BBNJ), o que demonstra conhecimento do tema. Contudo, a argumentação poderia ser mais sofisticada e analítica, indo além da descrição para aprofundar as tensões e contradições da posição brasileira (por exemplo, a tensão entre agronegócio e preservação, ou os desafios de financiamento climático para países em desenvolvimento).",
+      "A menção à COP-30 e ao papel da diplomacia brasileira é pertinente, mas poderia ser mais desenvolvida, especialmente no que diz respeito às expectativas concretas para Belém, ao simbolismo de sediar a conferência na Amazônia e aos desafios específicos que o Brasil enfrentará como anfitrião.",
+      "A linguagem é adequada ao contexto, com vocabulário pertinente, embora haja alguns erros gramaticais e de digitação que comprometem levemente a qualidade formal do texto. O uso de conectivos é variado, mas por vezes repetitivo ('nesse contexto', 'com isso', 'hodiernamente').",
+      "A conclusão retoma os pontos principais, mas é algo genérica. Poderia trazer uma reflexão mais original ou uma síntese mais incisiva sobre o legado de Bonifácio e o papel do Brasil na governança climática global.",
+      "De modo geral, o texto é competente e demonstra conhecimento temático, mas carece de maior profundidade analítica e originalidade argumentativa para alcançar faixas superiores."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "'Século XX' com maiúscula indevida em 'ao longo do Século XX'",
+      "'como os planos' deveria ser 'com os planos' (erro de digitação/preposição)",
+      "'quando se verifica os processos' — falta de concordância: deveria ser 'quando se verificam os processos'",
+      "'não por isso' — falta de vírgula ou construção truncada; o espaço duplo antes de 'isso' sugere erro de digitação",
+      "'já vem provocando' — deveria ser 'já vêm provocando' (concordância com sujeito plural 'mudanças')",
+      "'pré- -industriais' — espaço indevido no hífen composto",
+      "'um dia que a natureza se vingue' — a citação original diz 'se ache vingada', não 'se vingue'; embora não seja erro gramatical estrito, configura imprecisão na paráfrase apresentada como citação",
+      "'Nenhuma' no trecho citado de Bonifácio não é erro do candidato, mas o candidato usa 'justo essa ideia' onde 'justamente essa ideia' seria mais adequado ao registro formal"
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara com introdução, três eixos de desenvolvimento (desmatamento, mudanças climáticas, avanços e perspectivas) e conclusão, o que demonstra organização textual adequada.",
+      "O candidato dialoga razoavelmente com o texto de José Bonifácio, retomando trechos e conectando-os à realidade contemporânea, o que atende à proposta do enunciado.",
+      "A argumentação, embora pertinente, tende ao descritivo e ao previsível. Falta maior profundidade analítica — por exemplo, sobre as tensões entre desenvolvimento econômico e preservação ambiental, sobre o papel específico da Amazônia no regime climático global, ou sobre os desafios concretos da COP-30 (financiamento climático, artigo 6 do Acordo de Paris, transição energética justa).",
+      "A menção à crise do multilateralismo é relevante, mas permanece superficial: não se explora, por exemplo, a posição dos EUA pós-eleições de 2024, a resistência de países produtores de combustíveis fósseis, ou as divergências Norte-Sul sobre financiamento.",
+      "Há algumas imprecisões factuais ou conceituais: a Revolução Industrial não ocorreu em 'meados do século XIX', mas sim no final do século XVIII e início do XIX; a Mata Atlântica com '7% de cobertura original' é dado frequentemente citado, mas discutível conforme a metodologia; o processo nos Pampas é de arenização, não necessariamente desertificação, e o candidato acerta ao usar 'arenização', mas a inclusão dos Pampas junto à Amazônia e ao Pantanal como 'grandes preocupações' atuais de desmatamento é questionável.",
+      "A linguagem é adequada ao contexto do CACD, com vocabulário pertinente, embora por vezes recorra a expressões formulaicas ('hodiernamente', 'a um só tempo', 'nessa seara') que, usadas em excesso, empobrecem o estilo.",
+      "A conclusão retoma os argumentos de forma coerente, mas poderia ser mais incisiva e propositiva, especialmente considerando o peso da COP-30 no enunciado.",
+      "Para alcançar faixas superiores, o candidato deveria aprofundar a análise das responsabilidades comuns porém diferenciadas, explorar com mais sofisticação o legado intelectual de José Bonifácio no pensamento ambiental brasileiro e apresentar argumentação mais original sobre o papel diplomático do Brasil."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "'Século XX' com maiúscula indevida em 'século' (inconsistência, pois 'século XIX' aparece em minúscula antes).",
+      "'como os planos' deveria ser 'com os planos' (erro de digitação/preposição).",
+      "'quando se verifica os processos' — falta de concordância: deveria ser 'quando se verificam os processos'.",
+      "'não por isso' — falta de vírgula ou construção truncada; a expressão correta seria 'nem por isso' ou 'não é por isso que'.",
+      "'Essas mudanças já vem provocando' — deveria ser 'já vêm provocando' (concordância verbal com sujeito plural e acento diferencial).",
+      "'pré- -industriais' — espaço indevido no hífen (erro tipográfico).",
+      "'nenhuma agricultura' é citação de Bonifácio, mas no corpo do texto o candidato escreve 'um dia que a natureza se vingue' alterando a citação original ('se ache vingada'), o que configura imprecisão na paráfrase apresentada como citação.",
+      "'Como Bonifácio disse, ele receava que seus netos os acusassem' — construção com ambiguidade pronominal e uso inadequado de 'como disse' seguido de discurso indireto com alteração de sentido."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara com introdução, três eixos de desenvolvimento (desmatamento, mudanças climáticas, avanços e perspectivas) e conclusão, o que demonstra organização textual adequada.",
+      "O candidato articula razoavelmente bem o texto de José Bonifácio com questões contemporâneas, como os 'rios voadores', o Fundo Amazônia, o Acordo de Paris e a COP-30, demonstrando conhecimento temático pertinente.",
+      "Há, contudo, certa superficialidade na argumentação: os exemplos são mencionados sem aprofundamento analítico. A menção a enchentes no RS, tornados na Flórida e inundações na Turquia é meramente ilustrativa, sem conexão analítica mais profunda com o argumento central.",
+      "A articulação entre diplomacia brasileira e a COP-30 poderia ser mais desenvolvida, especialmente considerando que o enunciado pede atenção particular a esse ponto. O candidato menciona a COP-30 apenas brevemente, sem explorar as expectativas concretas, os desafios específicos de sediar o evento na Amazônia ou as implicações simbólicas e políticas dessa escolha.",
+      "A linguagem é adequada ao contexto do CACD, com uso de conectivos e vocabulário formal, embora haja repetições de expressões como 'hodiernamente' e 'seara', e algumas construções que poderiam ser mais elegantes.",
+      "A conclusão retoma os argumentos de forma coerente, mas é algo genérica. A frase final ('Conquanto desafiador, é papel da diplomacia') é lacônica e poderia ter sido mais elaborada para um fechamento mais impactante.",
+      "O texto demonstra conhecimento de conceitos relevantes (Relatório Brundtland, NDCs, IPCC, Acordo BBNJ), o que é positivo, mas a integração desses elementos ao fio argumentativo poderia ser mais orgânica e menos enumerativa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.5,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'é fundamental' no trecho 'conduzidos pelo Ministério do Meio Ambiente em coordenação com o Itamaraty é fundamental' — a oração intercalada (aposto/oração adjetiva explicativa) exige vírgula de fechamento antes de 'é'.",
+      "Uso de 'cumprir com' em 'cumprir com seu compromisso' — a regência correta do verbo 'cumprir' é transitiva direta, sem preposição: 'cumprir seu compromisso'.",
+      "Referência a José Bonifácio como 'ex-chanceler' é imprecisa — ele não exerceu formalmente o cargo de chanceler no sentido institucional moderno, embora tenha sido ministro dos Negócios Estrangeiros. Embora não seja erro gramatical estrito, configura impropriedade vocabular/factual que pode ser contabilizada como erro de propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que retoma o enunciado, desenvolvimento articulado em parágrafos temáticos e conclusão que retoma José Bonifácio. A estrutura é clara e coerente, com transições adequadas entre os parágrafos.",
+      "A argumentação é sólida e bem fundamentada, com referências pertinentes a instrumentos concretos da política ambiental brasileira (PPCDAm, PPCerrado, Fundo Amazônia, NDCs, Acordo de Paris) e a iniciativas de cooperação bilateral (Torre ATTO, Centro Franco-Brasileiro de Biodiversidade). Isso demonstra conhecimento substantivo do tema.",
+      "A capacidade de análise é boa, conectando desmatamento a consequências climáticas (evapotranspiração, formação de aquíferos), econômicas (produtividade agrícola) e sociais (IDH na Amazônia Legal). A menção à COP30 e ao papel da diplomacia brasileira atende diretamente ao enunciado. Contudo, a reflexão poderia ser mais aprofundada em alguns pontos: a tensão entre soberania e cooperação internacional, o papel dos povos indígenas, a questão do financiamento climático (Nova Meta Coletiva Quantificada — NCQG), e uma análise mais crítica dos desafios políticos internos ao combate ao desmatamento.",
+      "O texto poderia explorar com mais profundidade a dimensão propriamente diplomática — por exemplo, as negociações sobre o Artigo 6 do Acordo de Paris (mercados de carbono), a relação entre a agenda climática e a candidatura do Brasil à OCDE, ou as tensões com a União Europeia em torno do regulamento antidesmatamento.",
+      "A linguagem é formal e adequada ao gênero dissertativo-argumentativo exigido pelo CACD. Há poucos erros gramaticais, o que demonstra domínio da norma culta.",
+      "A referência a José Bonifácio como 'ex-chanceler' é imprecisa e pode ser penalizada como erro de conteúdo/propriedade. Embora ele tenha sido Ministro do Reino e dos Negócios Estrangeiros, o uso do termo 'chanceler' nesse contexto é anacrônico e simplificador."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.5,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'é fundamental' no trecho 'conduzidos pelo Ministério do Meio Ambiente em coordenação com o Itamaraty é fundamental' — deveria haver vírgula após 'Itamaraty' para fechar o aposto/oração intercalada.",
+      "Uso de 'cumprir com' em 'cumprir com seu compromisso' — a regência correta de 'cumprir' é transitiva direta, sem preposição: 'cumprir seu compromisso'.",
+      "Referência a José Bonifácio como 'ex-chanceler' é imprecisa — ele não exerceu formalmente o cargo de chanceler no sentido moderno, embora tenha sido Ministro dos Negócios Estrangeiros. Trata-se mais de imprecisão factual/terminológica do que erro gramatical estrito, mas pode ser considerada impropriedade de linguagem.",
+      "Inconsistência na grafia 'COP 30' (com espaço) no último parágrafo versus 'COP30' (sem espaço) no enunciado — embora ambas as formas circulem, a inconsistência dentro do mesmo texto pode ser considerada falha de padronização."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que retoma o texto de José Bonifácio, desenvolvimento articulado em parágrafos temáticos e conclusão que retorna ao mote inicial. A estrutura é clara e coerente.",
+      "A argumentação é sólida e bem fundamentada, com referências pertinentes a instrumentos concretos da política ambiental brasileira (PPCDAm, PPCerrado, Fundo Amazônia, NDCs, Acordo de Paris) e a iniciativas de cooperação bilateral (Torre ATTO, Centro Franco-Brasileiro de Biodiversidade). Isso demonstra conhecimento substantivo do tema.",
+      "A capacidade de análise e reflexão é boa, mas poderia ser aprofundada em alguns pontos. Por exemplo, a tensão entre soberania nacional e pressões internacionais sobre a Amazônia poderia ter sido explorada. A dimensão do papel do Brasil como líder do Sul Global nas negociações climáticas mereceria maior desenvolvimento. A questão da nova meta de financiamento climático (NCQG) discutida na COP29 e suas implicações para a COP30 também poderia ter sido abordada.",
+      "O texto demonstra domínio do tema e capacidade de articular diferentes dimensões (ambiental, econômica, diplomática, social), mas a análise tende a ser mais descritiva do que crítica em alguns momentos. A reflexão sobre os desafios concretos da COP30 — como a necessidade de resultados ambiciosos em adaptação, perdas e danos, e a questão dos combustíveis fósseis — poderia ter sido mais aprofundada.",
+      "A linguagem é adequada ao gênero dissertativo-argumentativo, com vocabulário preciso e registro formal. Há poucos erros gramaticais, o que demonstra bom domínio da norma culta.",
+      "A referência a José Bonifácio como 'ex-chanceler' no último parágrafo é imprecisa e pode ser considerada erro factual. Embora ele tenha sido Ministro do Reino e dos Negócios Estrangeiros, a denominação 'ex-chanceler' no contexto moderno pode gerar confusão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.5,
+    "nota_1C": 20.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'é fundamental' no trecho 'conduzidos pelo Ministério do Meio Ambiente em coordenação com o Itamaraty é fundamental' — deveria haver vírgula após 'Itamaraty' para fechar o aposto/oração intercalada.",
+      "Uso de 'cumprir com' em 'cumprir com seu compromisso' — a regência correta de 'cumprir' é transitiva direta, sem preposição: 'cumprir seu compromisso'.",
+      "Uso de 'enquanto' no sentido de 'na condição de' em 'enquanto grande produtor agrícola e enquanto detentor' — embora comum, é considerado inadequado em registro formal culto; o mais apropriado seria 'como' ou 'na condição de'.",
+      "Inconsistência na grafia 'COP 30' (com espaço) no último parágrafo, quando antes aparece 'COP30' (sem espaço) no enunciado e no corpo do texto — embora menor, configura falta de padronização."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que conecta o trecho de José Bonifácio à atualidade, desenvolvimento temático em parágrafos bem estruturados e conclusão que retoma o autor e projeta o futuro. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A argumentação é objetiva e bem fundamentada, com menções pertinentes a instrumentos concretos (NDC, PPCDAm, PPCerrado, Fundo Amazônia, Acordo de Paris), cooperação bilateral (França, Alemanha, Japão) e dados sobre a dinâmica ambiental (evapotranspiração, aquíferos do Cerrado). Isso demonstra domínio do tema e capacidade de mobilizar conhecimentos interdisciplinares.",
+      "A capacidade de análise e reflexão é satisfatória, mas poderia ser aprofundada em alguns pontos. O candidato aborda bem a relação entre desmatamento e mudanças climáticas, a importância da COP30 em Belém e o papel da diplomacia brasileira. No entanto, faltou maior problematização de tensões e contradições — por exemplo, o conflito entre agronegócio e conservação, as dificuldades de implementação das NDCs, a questão do financiamento climático (que é mencionada mas não aprofundada), e o papel do Brasil como mediador entre países desenvolvidos e em desenvolvimento. A análise sobre a COP30 poderia ter sido mais detalhada quanto às expectativas concretas e aos desafios diplomáticos específicos.",
+      "O texto faz bom uso das citações de José Bonifácio, integrando-as organicamente à argumentação, o que demonstra atenção ao enunciado. A referência a José Bonifácio como 'ex-chanceler' no último parágrafo é um toque interessante que reforça a conexão com a diplomacia.",
+      "Do ponto de vista gramatical, o texto é bastante correto, com poucos deslizes. A linguagem é própria e adequada ao gênero dissertativo-argumentativo exigido pelo concurso."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 58.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'é fundamental' no trecho 'conduzidos pelo Ministério do Meio Ambiente em coordenação com o Itamaraty é fundamental' — necessária vírgula após 'Itamaraty' para fechar o aposto/oração adjetiva.",
+      "Uso de 'cumprir com seu compromisso' — a regência correta de 'cumprir' no sentido de realizar/executar é transitiva direta: 'cumprir seu compromisso', sem a preposição 'com'.",
+      "Uso de 'nenhuma' não aparece na redação do candidato, mas há inconsistência no uso de 'enquanto' com sentido de 'na condição de', que, embora amplamente aceito, é considerado inadequado por alguns gramáticos puristas (uso menor, não penalizado severamente)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que conecta o trecho de José Bonifácio à atualidade, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato demonstra bom domínio do conteúdo temático, abordando desmatamento, mudanças climáticas, o Acordo de Paris, NDCs, COP30, Fundo Amazônia e cooperação bilateral, o que evidencia conhecimento substantivo.",
+      "A articulação entre os argumentos ambientais, econômicos e diplomáticos é bem conduzida, com referências pertinentes a programas como PPCDAm, PPCerrado e iniciativas de cooperação internacional.",
+      "A menção à COP30 em Belém e aos desafios socioeconômicos da Amazônia Legal demonstra atenção ao enunciado e capacidade de contextualização.",
+      "Ponto de melhoria: a redação poderia ter explorado com maior profundidade a dimensão da responsabilidade histórica diferenciada entre países desenvolvidos e em desenvolvimento, bem como o papel do Brasil como líder do Sul Global nas negociações climáticas.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. Os poucos deslizes gramaticais não comprometem significativamente a qualidade do texto.",
+      "A referência a José Bonifácio como 'ex-chanceler' no último parágrafo é uma simplificação — ele ocupou diversos cargos — mas não constitui erro grave."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'é fundamental' no trecho 'conduzidos pelo Ministério do Meio Ambiente em coordenação com o Itamaraty é fundamental' — deveria haver vírgula após 'Itamaraty' para fechar o aposto/oração adjetiva.",
+      "Uso de 'cumprir com seu compromisso' — a regência correta de 'cumprir' no sentido de realizar/executar é transitiva direta: 'cumprir seu compromisso', sem a preposição 'com'.",
+      "Uso de 'nenhuma' não aparece na redação do candidato, mas há inconsistência no uso de 'enquanto' com sentido de 'na condição de', que, embora aceito em registros formais contemporâneos, é considerado inadequado por alguns gramáticos puristas."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que conecta o trecho de José Bonifácio à atualidade, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato demonstra bom domínio do conteúdo temático, mencionando instrumentos concretos como o Acordo de Paris, NDCs, PPCDAm, PPCerrado, Fundo Amazônia, e projetos de cooperação bilateral, o que enriquece a argumentação.",
+      "A articulação entre desmatamento, mudanças climáticas, segurança alimentar e diplomacia brasileira é bem conduzida, mostrando capacidade de reflexão interdisciplinar.",
+      "O texto aborda adequadamente a COP30 em Belém, contextualizando os desafios socioeconômicos da Amazônia e a necessidade de financiamento internacional.",
+      "Ponto de melhoria: a redação poderia ter explorado com mais profundidade a dimensão histórica das ideias de José Bonifácio e sua relação com o pensamento ambiental contemporâneo, bem como aprofundar aspectos específicos da negociação diplomática na COP30.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado, embora com poucos erros pontuais de regência e pontuação.",
+      "A referência ao compromisso de 100 bilhões de dólares anuais poderia ter sido contextualizada de forma mais precisa, mencionando que essa meta já foi superada e que a discussão atual gira em torno de um novo objetivo de financiamento climático (NCQG)."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "nota_final": 56.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'é fundamental' no trecho 'conduzidos pelo Ministério do Meio Ambiente em coordenação com o Itamaraty é fundamental' — deveria haver vírgula após 'Itamaraty' para fechar o aposto/oração intercalada.",
+      "Uso de 'cumprir com seu compromisso' — a regência correta de 'cumprir' no sentido de realizar/executar é transitiva direta: 'cumprir seu compromisso', sem a preposição 'com'.",
+      "Uso de 'nenhuma' no trecho citado de José Bonifácio não é erro do candidato, mas no corpo do texto, 'enquanto membro' e 'enquanto detentor' são usos aceitáveis, porém discutíveis em registro formal — não contabilizado como erro."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que conecta o trecho de José Bonifácio à atualidade, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato demonstra bom domínio do conteúdo temático, mencionando instrumentos concretos como o PPCDAm, PPCerrado, Fundo Amazônia, NDCs, Acordo de Paris e projetos de cooperação bilateral, o que enriquece a argumentação.",
+      "A articulação entre desmatamento, mudanças climáticas, segurança alimentar e diplomacia brasileira é bem conduzida, mostrando capacidade de reflexão interdisciplinar.",
+      "A menção à COP30 em Belém é adequada e contextualizada, abordando tanto a dimensão ambiental quanto a socioeconômica da Amazônia, incluindo os desafios de desenvolvimento humano na região.",
+      "Poderia haver maior aprofundamento sobre as tensões e contradições da política ambiental brasileira, bem como sobre o papel específico do Brasil como mediador entre países desenvolvidos e em desenvolvimento nas negociações climáticas.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e vocabulário apropriado. Os poucos erros gramaticais identificados não comprometem significativamente a qualidade do texto.",
+      "A retomada de José Bonifácio na conclusão, chamando-o de 'ex-chanceler', é um recurso interessante de coesão, embora a caracterização como alguém que 'não teve êxito' possa ser considerada uma simplificação histórica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'é fundamental' no trecho: '...em coordenação com o Itamaraty é fundamental para o equilíbrio climático no Brasil.' — deveria haver vírgula após 'Itamaraty' para fechar a oração intercalada iniciada por 'conduzidos pelo Ministério...'",
+      "Uso de 'cumprir com' em 'cumprir com seu compromisso' — a regência padrão de 'cumprir' é transitiva direta, sem preposição: 'cumprir seu compromisso'.",
+      "Uso inconsistente de 'COP30' e 'COP 30' (com e sem espaço) ao longo do texto."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com introdução que conecta o trecho de José Bonifácio à atualidade, desenvolvimento que aborda desmatamento, biomas, diplomacia e cooperação internacional, e conclusão que retoma o Patriarca da Independência. A organização em parágrafos temáticos é clara e coerente.",
+      "O candidato demonstra conhecimento sólido sobre o tema, mencionando instrumentos concretos (PPCDAm, PPCerrado, Fundo Amazônia, NDCs, Acordo de Paris), projetos de cooperação bilateral (Torre ATTO, Centro Franco-Brasileiro de Biodiversidade) e dados contextuais relevantes (IDH da Amazônia Legal, meta de financiamento de 100 bilhões).",
+      "A articulação com o enunciado é bem feita: o texto retoma citações de José Bonifácio, aborda a COP30 em Belém e discute a responsabilidade da diplomacia brasileira. Contudo, a reflexão poderia ser mais aprofundada em alguns pontos — por exemplo, tensões entre agronegócio e conservação, ou os desafios políticos internos para o cumprimento das metas.",
+      "A argumentação, embora competente, tende a ser linear e previsível, sem grande originalidade analítica ou contrapontos que enriqueceriam a discussão. A menção ao financiamento climático internacional poderia explorar mais as dificuldades de implementação e as divergências Norte-Sul.",
+      "O domínio da norma culta é bom, com vocabulário adequado ao registro formal exigido pelo CACD. Os poucos deslizes identificados não comprometem a compreensão do texto.",
+      "Para alcançar a faixa 'Excelente', o texto se beneficiaria de maior profundidade analítica, abordagem de tensões e contradições no tema, e uma reflexão mais sofisticada sobre o papel do Brasil no regime climático internacional — incluindo, por exemplo, a questão das responsabilidades comuns porém diferenciadas, o histórico de avanços e retrocessos na política ambiental brasileira, e os desafios geopolíticos da COP30."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'é fundamental' no trecho: '...em coordenação com o Itamaraty é fundamental para o equilíbrio climático no Brasil.' — deveria haver vírgula após 'Itamaraty' para fechar a oração intercalada iniciada por 'conduzidos pelo Ministério...'",
+      "Uso de 'cumprir com' em 'cumprir com seu compromisso' — a regência padrão de 'cumprir' é transitiva direta, sem preposição: 'cumprir seu compromisso'.",
+      "Inconsistência na grafia de 'COP30' e 'COP 30' ao longo do texto (com e sem espaço)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura argumentativa, com introdução que retoma o texto de José Bonifácio, desenvolvimento que aborda desmatamento, biomas, cooperação internacional e diplomacia, e conclusão que retoma o enunciado e projeta o futuro. O encadeamento lógico é claro e coerente.",
+      "O candidato demonstra conhecimento relevante sobre o tema, mencionando instrumentos concretos (PPCDAm, PPCerrado, Fundo Amazônia, NDCs, Acordo de Paris), iniciativas de cooperação bilateral (Torre ATTO, Centro Franco-Brasileiro de Biodiversidade) e dados contextuais sobre a Amazônia Legal, o que enriquece a argumentação.",
+      "A articulação entre as ideias de José Bonifácio e a atualidade é bem conduzida, com retomadas do texto motivador em momentos estratégicos, como a citação direta sobre 'terras áridas' e a referência ao 'tribunal da Razão' implícita na responsabilidade intergeracional.",
+      "Um ponto a aprimorar é a profundidade analítica: embora o texto seja competente e bem informado, a argumentação tende a ser mais descritiva do que reflexiva. Faltam análises mais sofisticadas sobre tensões e contradições — por exemplo, o dilema entre soberania e cooperação internacional, ou as dificuldades políticas internas para cumprir as metas de desmatamento zero.",
+      "A menção à COP30 poderia ser mais desenvolvida, explorando expectativas concretas de resultados, o significado simbólico e político de sediar o evento na Amazônia, e os desafios diplomáticos específicos que o Brasil enfrentará como anfitrião.",
+      "O domínio da norma culta é consistente, com poucos deslizes. A linguagem é adequada ao contexto do CACD, com vocabulário preciso e registro formal. A fluência textual é boa, embora alguns parágrafos sejam um pouco expositivos demais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2024"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'é fundamental' no trecho: '...em coordenação com o Itamaraty é fundamental para o equilíbrio climático no Brasil.' — deveria haver vírgula após 'Itamaraty' para fechar a oração intercalada iniciada por 'conduzidos pelo Ministério...'",
+      "Uso de 'cumprir com' em 'cumprir com seu compromisso' — a regência padrão de 'cumprir' é transitiva direta, sem preposição: 'cumprir seu compromisso'.",
+      "Inconsistência na grafia de 'COP30' e 'COP 30' ao longo do texto (com e sem espaço)."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura argumentativa, com introdução que retoma o trecho de José Bonifácio, desenvolvimento que aborda desmatamento, biomas, cooperação internacional e diplomacia, e conclusão que retorna ao Patriarca da Independência, conferindo circularidade ao texto.",
+      "O candidato demonstra conhecimento sólido sobre o tema, mencionando instrumentos concretos (PPCDAm, PPCerrado, Fundo Amazônia, NDCs, Acordo de Paris), iniciativas de cooperação bilateral (Torre ATTO, Centro Franco-Brasileiro de Biodiversidade) e dados sobre a COP30 em Belém.",
+      "A articulação entre desmatamento, mudanças climáticas e segurança alimentar é bem conduzida, embora pudesse ser aprofundada com mais dados ou referências a estudos científicos (como os relatórios do IPCC ou do INPE).",
+      "A reflexão sobre a atualidade das ideias de José Bonifácio é pertinente, mas poderia ser mais sofisticada — o texto tende a tratar o tema de forma mais descritiva do que analítica em alguns trechos, especialmente no desenvolvimento sobre os biomas.",
+      "A menção à meta de financiamento de 100 bilhões de dólares anuais é relevante, mas o texto poderia ter explorado as tensões e dificuldades diplomáticas envolvidas (como a resistência de países desenvolvidos e a discussão sobre o novo objetivo coletivo quantificado — NCQG).",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e vocabulário apropriado. A coesão textual é boa, com uso adequado de conectivos e referências internas.",
+      "Para alcançar a faixa 'Excelente', o texto se beneficiaria de maior profundidade analítica, abordagem de tensões e contradições na política ambiental brasileira, e maior originalidade na argumentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2024"
+  }
+]

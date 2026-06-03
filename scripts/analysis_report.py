@@ -50,12 +50,11 @@ def main(num_runs, eval_path, human_path, model, year):
     df_notas['human'] = df_human["nota_final"].values
 
     areas = {}
+
     for (prompt, temp), group in df_merged.groupby(["prompt", "temp"]):
         area = np.trapezoid(group["val_error"], group["redacao"])
         mae = group['val_error'].mean()
         rmse = np.sqrt((group['val_error'] ** 2).mean())
-        # qwk = cohen_kappa_score(np.round(group["nota_humana"]).astype(int), np.round(group["nota_final"]).astype(int))
-        # auc_roc = roc_auc_score(np.round(group["nota_humana"]).astype(int), np.round(group["nota_final"]).astype(int))
         areas[(prompt, temp)] = prompt, temp, area.round(4), mae.round(4), rmse.round(4) #, qwk.round(4), auc_roc.round(4)
         df_notas[f"p{prompt}, t{temp}"] = group["nota_final"].values
     

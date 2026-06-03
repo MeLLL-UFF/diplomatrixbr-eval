@@ -1,0 +1,1340 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"não-agressão\" — pelo Acordo Ortográfico de 1990, o prefixo 'não' não se liga por hífen a substantivos: 'não agressão'.",
+      "\"nos âmbitos e regional e multilateral\" — presença indevida da conjunção 'e' antes de 'regional', provável erro de digitação; deveria ser 'nos âmbitos regional e multilateral'.",
+      "\"o Brasil de no seio do G4 a ampliação\" — falta o verbo 'defende'; a frase ficou truncada e incompreensível: 'o Brasil defende no seio do G4 a ampliação'.",
+      "\"cinco grandes potências atualmente desfrutam\" — falta o pronome relativo 'que': 'cinco grandes potências que atualmente desfrutam'.",
+      "\"aumentar seu poder relativo do sistema internacional\" — regência inadequada; o correto seria 'no sistema internacional'."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução que apresenta a tese, três parágrafos de desenvolvimento (cada um abordando um dos elementos propostos pelo enunciado) e conclusão sintética. O estilo é formal e adequado ao gênero dissertativo-argumentativo do CACD. A coerência é mantida ao longo do texto, com transições razoáveis entre os parágrafos. Pequenas falhas de digitação/revisão (como a frase truncada no terceiro parágrafo) prejudicam levemente a impressão geral.",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade de sistematização, abordando três dos quatro elementos sugeridos pelo enunciado de forma organizada. As informações são pertinentes: menciona o art. 4º da CF/88, MERCOSUL, PROSUL, missões de paz da ONU, BRICS, IBAS, G20 Comercial, G4, relações com China e EUA, participação no CSNU como membro não permanente. Contudo, as ilustrações poderiam ser mais específicas e aprofundadas — por exemplo, mencionar a MINUSTAH, casos concretos de atuação brasileira em crises, ou episódios recentes que testem a máxima de que 'o perturbador da paz está sempre errado' (como a guerra na Ucrânia ou o conflito em Gaza). A argumentação é correta, mas permanece em nível relativamente genérico.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao conectar os discursos de 1946 com a política externa contemporânea e ao identificar continuidades na tradição diplomática brasileira. A reflexão sobre a tensão entre a crítica ao veto e a aceitação pragmática da estrutura de poder é pertinente. No entanto, falta maior profundidade crítica: o texto poderia questionar se a máxima de Souza Dantas é realmente aplicável em todos os contextos (quem define o 'perturbador da paz'?), ou discutir os limites da confiança nas grandes potências à luz de eventos recentes (paralisia do CSNU, unilateralismo). A análise tende a ser mais descritiva do que propriamente reflexiva, e a conclusão é algo genérica, sem acrescentar nova camada de reflexão.",
+      "CGPL – Correção gramatical: Foram identificados 5 erros, incluindo uma frase truncada que compromete a compreensão (falta do verbo 'defende'), falta de pronome relativo, erro de regência e uso inadequado de hífen. A linguagem é, no geral, formal e adequada, com bom domínio vocabular."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"não-agressão\" — pelo Acordo Ortográfico de 2009, o prefixo 'não' não se liga por hífen a substantivos: 'não agressão'.",
+      "\"nos âmbitos e regional e multilateral\" — presença indevida da conjunção 'e' antes de 'regional', deveria ser 'nos âmbitos regional e multilateral'.",
+      "\"o Brasil de no seio do G4 a ampliação\" — falta o verbo 'defende'; a frase ficou truncada e incompreensível: 'o Brasil defende no seio do G4 a ampliação'.",
+      "\"cinco grandes potências atualmente desfrutam\" — falta o pronome relativo 'que': 'potências que atualmente desfrutam'.",
+      "\"aumentar seu poder relativo do sistema internacional\" — regência inadequada: deveria ser 'no sistema internacional'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que anuncia os eixos de desenvolvimento, parágrafos temáticos bem delimitados e conclusão coerente. O estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A capacidade de argumentação é sólida: o candidato mobiliza exemplos pertinentes (MERCOSUL, PROSUL, missões de paz da ONU, BRICS, IBAS, G20 Comercial, G4, relações com China e EUA, participação no CSNU como membro não permanente) e os conecta aos trechos dos discursos citados no enunciado. Contudo, poderia haver maior aprofundamento em casos concretos recentes (por exemplo, a posição brasileira diante da guerra na Ucrânia, a atuação na MINUSTAH, ou episódios específicos de uso/bloqueio do veto) para enriquecer a argumentação.",
+      "A análise e reflexão são competentes, mas poderiam ser mais profundas. O candidato aborda os quatro elementos sugeridos pelo enunciado, porém a discussão sobre 'confiar nas grandes potências' é relativamente superficial — limita-se a mencionar parceiros comerciais e a participação no CSNU sem problematizar tensões ou contradições dessa confiança. A reflexão sobre o veto também poderia explorar mais criticamente os limites do 'espírito construtivo' brasileiro diante de situações em que o veto paralisou o Conselho (Síria, Palestina, Ucrânia).",
+      "Há erros gramaticais que comprometem parcialmente a correção do texto, sendo o mais grave a omissão do verbo 'defende' no terceiro parágrafo, que torna a frase ininteligível. Os demais erros são de menor gravidade, mas acumulam-se.",
+      "No geral, trata-se de uma redação bem estruturada, com domínio razoável do tema e linguagem adequada, mas que poderia ganhar em profundidade analítica e precisão gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"não-agressão\" — pelo Acordo Ortográfico de 2009, o prefixo 'não' não se liga por hífen a substantivos: 'não agressão'.",
+      "\"nos âmbitos e regional e multilateral\" — presença indevida da conjunção 'e' antes de 'regional', provável erro de digitação. Deveria ser 'nos âmbitos regional e multilateral'.",
+      "\"o Brasil de no seio do G4 a ampliação\" — frase truncada/incompreensível; falta o verbo (provavelmente 'defende'): 'o Brasil defende no seio do G4 a ampliação'.",
+      "\"cinco grandes potências atualmente desfrutam\" — falta o pronome relativo 'que': 'cinco grandes potências que atualmente desfrutam'.",
+      "\"aumentar seu poder relativo do sistema internacional\" — regência inadequada; deveria ser 'no sistema internacional'."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução que apresenta a tese, três parágrafos de desenvolvimento (cada um abordando um dos elementos propostos pelo enunciado) e conclusão sintética. O estilo é formal e adequado ao gênero dissertativo-argumentativo do CACD. A coerência é mantida ao longo do texto, com transições razoáveis entre os parágrafos. Pequenas falhas de digitação/omissão de palavras prejudicam levemente a legibilidade em dois trechos.",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do tema, mobilizando informações pertinentes como o art. 4º da CF/88, MERCOSUL, PROSUL, missões de paz da ONU, BRICS, IBAS, G20 Comercial, G4, e a relação comercial com China e EUA. As ilustrações são adequadas e variadas. Contudo, algumas poderiam ser mais aprofundadas — por exemplo, a menção à MINUSTAH ou a casos concretos de perturbação da paz teria enriquecido a análise. A discussão sobre 'confiar nas grandes potências' poderia ter sido mais problematizada, considerando episódios recentes em que tal confiança foi frustrada.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao articular os trechos dos discursos com a política externa brasileira contemporânea. A reflexão sobre o pragmatismo brasileiro diante do veto e sobre a participação em coalizões de geometria variável é pertinente. No entanto, a análise poderia ser mais crítica e nuançada: faltou problematizar mais profundamente a tensão entre o idealismo da máxima de Souza Dantas ('o perturbador da paz está sempre errado') e a realidade das relações internacionais contemporâneas, onde a definição de 'perturbador da paz' é frequentemente contestada. A discussão sobre a confiança nas grandes potências também carece de maior profundidade crítica, especialmente à luz de eventos recentes como o uso do veto em contextos como Síria, Ucrânia e Gaza, que desafiam diretamente essa premissa. A conclusão é funcional, mas pouco acrescenta em termos de reflexão original.",
+      "CGPL – Correção gramatical: Foram identificados 5 erros, incluindo uma frase truncada que compromete a compreensão (omissão do verbo 'defende'), omissão de pronome relativo, erro de regência e uso inadequado de hífen. Apesar de não serem numerosos, o erro de omissão do verbo é significativo por comprometer a inteligibilidade do trecho. Nota estimada: 15.0/20.0."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"não-agressão\" – pelo Acordo Ortográfico vigente, o prefixo 'não' não se liga por hífen a substantivos: 'não agressão'.",
+      "\"nos âmbitos e regional e multilateral\" – presença indevida da conjunção 'e' antes de 'regional', provável erro de digitação.",
+      "\"o Brasil de no seio do G4 a ampliação\" – falta o verbo 'defende' (provável erro de digitação: 'o Brasil defende no seio do G4 a ampliação').",
+      "\"aumentar seu poder relativo do sistema internacional\" – regência inadequada; o correto seria 'no sistema internacional'."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução, desenvolvimento em três parágrafos temáticos e conclusão, demonstrando domínio da técnica dissertativa.",
+      "O candidato aborda de forma pertinente e articulada os elementos propostos pelo enunciado ('o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', aceitação pragmática do veto e confiança nas grandes potências), conectando-os ao contexto recente da política externa brasileira.",
+      "As ilustrações são adequadas e variadas: MERCOSUL, PROSUL, missões de paz da ONU, BRICS, IBAS, G20 Comercial, G4, relações com China e EUA, participação no CSNU como membro não permanente.",
+      "A argumentação é coerente e demonstra capacidade de reflexão crítica, equilibrando a defesa de princípios com o reconhecimento do pragmatismo na política externa.",
+      "Há erros pontuais que comprometem levemente a qualidade do texto: a omissão do verbo 'defende' em trecho sobre o G4 prejudica a compreensão, e o uso indevido de 'e' em 'âmbitos e regional e multilateral' configura descuido de revisão.",
+      "A linguagem é adequada ao contexto, com vocabulário preciso e registro formal compatível com o nível do concurso."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"nos âmbitos e regional e multilateral\" — uso indevido da conjunção 'e' antes de 'regional' (deveria ser 'nos âmbitos regional e multilateral')",
+      "\"o Brasil de no seio do G4 a ampliação\" — falta o verbo 'defende' (deveria ser 'o Brasil defende no seio do G4 a ampliação')",
+      "\"cinco grandes potências atualmente desfrutam\" — falta o pronome relativo 'que' (deveria ser 'potências que atualmente desfrutam')",
+      "\"aumentar seu poder relativo do sistema internacional\" — troca de preposição ('do' deveria ser 'no')"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia os três eixos de desenvolvimento, parágrafos bem estruturados e conclusão coerente.",
+      "O candidato demonstra domínio do tema, articulando adequadamente os trechos dos discursos com a política externa brasileira contemporânea, utilizando exemplos pertinentes como MERCOSUL, PROSUL, BRICS, IBAS, G4, G20 Comercial e missões de paz da ONU.",
+      "A argumentação é consistente e bem encadeada, mostrando capacidade de reflexão ao equilibrar a defesa da paz com o realismo político, e a crítica ao veto com o pragmatismo diplomático.",
+      "Há erros pontuais que comprometem levemente a qualidade do texto, especialmente a omissão do verbo 'defende' no terceiro parágrafo e a falta do pronome relativo 'que', que prejudicam a clareza.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal bem empregado.",
+      "Poderia haver maior aprofundamento crítico sobre a atualidade (ou não) dos argumentos, explorando situações em que a confiança nas grandes potências se mostrou problemática ou em que o princípio de que 'o perturbador da paz está sempre errado' foi desafiado por contextos contemporâneos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"nos âmbitos e regional e multilateral\" — uso indevido da conjunção 'e' antes de 'regional' (deveria ser 'nos âmbitos regional e multilateral')",
+      "\"o Brasil de no seio do G4 a ampliação\" — falta do verbo 'defende' (deveria ser 'o Brasil defende no seio do G4 a ampliação')",
+      "\"cinco grandes potências atualmente desfrutam\" — falta do pronome relativo 'que' (deveria ser 'potências que atualmente desfrutam')",
+      "\"aumentar seu poder relativo do sistema internacional\" — regência inadequada, deveria ser 'no sistema internacional'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia os três eixos de desenvolvimento, parágrafos bem estruturados e conclusão coerente.",
+      "O candidato demonstra domínio do tema, articulando adequadamente os trechos dos discursos com a política externa brasileira contemporânea, utilizando exemplos pertinentes como MERCOSUL, PROSUL, BRICS, IBAS, G4, G20 Comercial e missões de paz da ONU.",
+      "A argumentação é consistente e bem encadeada, demonstrando capacidade de reflexão crítica ao equilibrar a defesa da paz com o realismo político.",
+      "Há alguns erros de digitação/redação que comprometem levemente a clareza (omissão de verbo no terceiro parágrafo, omissão de pronome relativo), embora não prejudiquem gravemente a compreensão.",
+      "O texto poderia ter explorado com maior profundidade a tensão entre os argumentos dos discursos e eventuais limitações ou contradições na prática diplomática brasileira recente, conferindo maior senso crítico à análise.",
+      "A linguagem é adequada ao contexto, com vocabulário preciso e registro formal apropriado para o CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"nos âmbitos e regional e multilateral\" — uso indevido da conjunção 'e' antes de 'regional'; deveria ser 'nos âmbitos regional e multilateral'.",
+      "\"o Brasil de no seio do G4 a ampliação\" — falta o verbo 'defende' ou similar; provável erro de digitação ('de' em vez de 'defende').",
+      "\"as cinco grandes potências atualmente desfrutam\" — falta o pronome relativo 'que': 'as cinco grandes potências que atualmente desfrutam'.",
+      "\"aumentar seu poder relativo do sistema internacional\" — regência inadequada; deveria ser 'no sistema internacional'."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa, com introdução que anuncia os eixos de desenvolvimento, parágrafos temáticos bem delimitados e conclusão coerente. A organização facilita a leitura e demonstra planejamento textual.",
+      "A argumentação é pertinente e demonstra conhecimento sólido de política externa brasileira, com referências adequadas (art. 4º da CF/88, MERCOSUL, PROSUL, BRICS, IBAS, G4, G20 Comercial, missões de paz da ONU). As ilustrações atendem ao que o enunciado solicita.",
+      "O candidato aborda três dos quatro elementos sugeridos pelo enunciado de forma articulada, conectando-os à tradição diplomática brasileira. A discussão sobre a atualidade dos argumentos é convincente, embora pudesse ser mais aprofundada — por exemplo, com menção a casos concretos recentes (como a guerra na Ucrânia ou a crise em Gaza) que testariam a validade da máxima de que 'o perturbador da paz está sempre errado'.",
+      "A reflexão crítica poderia ser mais sofisticada: o texto tende a apresentar a posição brasileira de forma laudatória, sem problematizar tensões ou contradições (por exemplo, os limites da confiança nas grandes potências diante de seus próprios descumprimentos do direito internacional, ou a dificuldade prática de identificar 'o perturbador da paz').",
+      "Os erros gramaticais identificados, embora poucos, incluem uma omissão de verbo que compromete a compreensão de uma frase inteira, o que é relevante em um concurso de alto nível. A linguagem é, no geral, adequada e formal, com vocabulário apropriado ao contexto diplomático."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"nos âmbitos e regional e multilateral\" — uso indevido da conjunção 'e' antes de 'regional'; deveria ser 'nos âmbitos regional e multilateral'.",
+      "\"o Brasil de no seio do G4 a ampliação\" — falta o verbo 'defende' ou similar; provável erro de digitação ('de' em vez de 'defende').",
+      "\"as cinco grandes potências atualmente desfrutam\" — falta o pronome relativo 'que': 'as cinco grandes potências que atualmente desfrutam'.",
+      "\"aumentar seu poder relativo do sistema internacional\" — regência inadequada; deveria ser 'no sistema internacional'."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa, com introdução que anuncia os eixos de desenvolvimento, parágrafos temáticos bem delimitados e conclusão coerente. A organização facilita a leitura e demonstra planejamento textual.",
+      "O candidato aborda de forma pertinente os elementos propostos pelo enunciado — a defesa da paz, o preço do veto para países médios, a aceitação pragmática do veto e a confiança nas grandes potências —, articulando-os com exemplos concretos (MERCOSUL, PROSUL, BRICS, IBAS, G4, G20 Comercial, missões de paz da ONU, parceiros comerciais).",
+      "A argumentação é coerente e demonstra conhecimento do tema, porém poderia ser mais aprofundada em alguns pontos. Por exemplo, a discussão sobre 'o perturbador da paz está sempre errado' poderia problematizar situações em que a definição de 'perturbador' é disputada (como nos conflitos recentes), o que enriqueceria a análise e mostraria maior sofisticação crítica.",
+      "Há erros pontuais que comprometem levemente a fluência do texto, como a omissão do verbo 'defende' e do pronome relativo 'que', além do uso equivocado de preposição. Embora não sejam numerosos, são erros que um candidato de nível avançado deveria evitar.",
+      "O vocabulário é adequado e variado, com uso de termos próprios das relações internacionais ('geometria variável', 'poder relativo', 'condomínios de poder'). A linguagem é formal e apropriada ao contexto do CACD.",
+      "Para alcançar a faixa 'Excelente', o texto se beneficiaria de maior problematização dos argumentos dos embaixadores à luz de eventos recentes específicos (como a paralisia do CSNU diante de conflitos como o da Ucrânia ou de Gaza), além de uma reflexão mais crítica sobre os limites da confiança nas grandes potências no cenário contemporâneo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"nos âmbitos e regional e multilateral\" — uso indevido da conjunção 'e' antes de 'regional'; deveria ser 'nos âmbitos regional e multilateral'.",
+      "\"o Brasil de no seio do G4 a ampliação\" — falta o verbo 'defende'; deveria ser 'o Brasil defende no seio do G4 a ampliação'.",
+      "\"as cinco grandes potências atualmente desfrutam\" — falta o pronome relativo 'que'; deveria ser 'as cinco grandes potências que atualmente desfrutam'.",
+      "\"aumentar seu poder relativo do sistema internacional\" — regência inadequada; deveria ser 'no sistema internacional'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura, com introdução que anuncia os eixos de desenvolvimento, parágrafos temáticos bem delimitados e conclusão coerente. O encadeamento lógico é claro e facilita a leitura.",
+      "O candidato aborda de forma pertinente os elementos propostos pelo enunciado — a defesa da paz, o preço pago por países médios, a aceitação pragmática do veto e a confiança nas grandes potências —, articulando-os com exemplos concretos da política externa brasileira (MERCOSUL, PROSUL, BRICS, IBAS, G4, G20 Comercial, missões de paz da ONU, art. 4º da CF/88).",
+      "A argumentação, embora competente e bem organizada, tende a ser previsível e algo descritiva, sem aprofundar tensões ou contradições mais complexas. Por exemplo, poderia ter explorado casos concretos em que o veto frustrou interesses brasileiros ou situações em que 'confiar nas grandes potências' se mostrou problemático (como o bloqueio do CSNU em crises recentes).",
+      "Há alguns erros de digitação/redação que comprometem levemente a fluência (omissão de verbo 'defende', pronome relativo 'que', preposição inadequada), embora o domínio geral da norma culta seja bom.",
+      "Para alcançar a faixa 'Excelente', seria desejável maior profundidade analítica, problematização dos argumentos dos embaixadores à luz de eventos recentes específicos (guerra na Ucrânia, conflito em Gaza, reforma do CSNU) e uma reflexão mais sofisticada sobre os limites e contradições das posições brasileiras."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são um reflexo' — o sujeito 'O discurso' é singular, deveria ser 'é um reflexo' ou 'Os discursos... são um reflexo'.",
+      "Uso de 'forca' em vez de 'força' — possível erro de acentuação/ortografia: 'proíbe o emprego da forca nas relações internacionais'.",
+      "Uso de 'desconfiança contra' — a regência mais adequada seria 'desconfiança em relação a' ou 'desconfiança quanto a'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento em parágrafos temáticos bem delimitados (unilateralismo militar dos EUA, crise financeira de 2008, pandemia de COVID-19) e conclusão que retoma os argumentos dos textos motivadores. A estrutura é coerente e o estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A capacidade de argumentação é sólida, com exemplos pertinentes e bem articulados aos trechos dos discursos apresentados no enunciado. O candidato aborda vários dos elementos sugeridos ('o perturbador da paz está sempre errado', 'é necessário confiar nas grandes potências', 'preço muito alto pago por pequenos e médios países'). Contudo, a discussão sobre a posição brasileira em relação ao veto poderia ter sido mais aprofundada, especialmente considerando a campanha do Brasil por um assento permanente no CSNU e as posições recentes da diplomacia brasileira sobre reforma do Conselho de Segurança.",
+      "A capacidade de análise e reflexão é boa, demonstrando compreensão das dinâmicas de poder no sistema internacional e da tensão entre o idealismo de 1945 e a realidade contemporânea. O candidato articula bem a emergência de novos atores (BRICS) e a redistribuição de poder global. Porém, a análise poderia ser mais matizada: a invasão do Afeganistão em 2001 contou com autorização implícita do CSNU (Resoluções 1368 e 1373), sendo o caso do Iraque em 2003 o exemplo mais emblemático de unilateralismo. Essa imprecisão factual enfraquece parcialmente o argumento. Além disso, a análise sobre a pandemia, embora pertinente, apresenta uma visão algo simplificada da distribuição de vacinas e do papel de China e Rússia.",
+      "A linguagem é formal e adequada, com vocabulário diplomático apropriado. Os poucos erros gramaticais identificados não comprometem significativamente a qualidade do texto. A redação demonstra domínio da norma culta e propriedade na linguagem."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são um reflexo' — o sujeito 'O discurso' é singular, deveria ser 'é um reflexo' ou 'Os discursos... são um reflexo'.",
+      "Uso de 'forca' em vez de 'força' — possível erro de acentuação/ortografia: 'proíbe o emprego da forca nas relações internacionais'.",
+      "Uso de 'desconfiança contra' — a regência mais adequada seria 'desconfiança em relação a' ou 'desconfiança quanto a'. 'Desconfiança contra' é construção de regência questionável."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento em parágrafos temáticos bem delimitados (unilateralismo militar dos EUA, crise financeira de 2008, pandemia de COVID-19) e conclusão que retoma os argumentos dos textos motivadores. A estrutura é coerente e o estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A capacidade de argumentação é sólida, com ilustrações pertinentes e bem articuladas aos elementos propostos pelo enunciado. O candidato aborda de forma satisfatória os temas 'o perturbador da paz está sempre errado', 'é necessário confiar nas grandes potências' e 'preço muito alto pago por pequenos e médios países'. As referências à Guerra do Afeganistão, à crise de 2008 e à pandemia são pertinentes e bem contextualizadas.",
+      "Quanto à capacidade de análise e reflexão, o texto demonstra bom nível crítico ao questionar a atualidade dos argumentos dos embaixadores, mostrando como eventos recentes fragilizaram a confiança nas grandes potências e no sistema de governança de 1945. Contudo, a análise poderia ser mais aprofundada em alguns pontos: a questão específica do veto no CSNU e a posição brasileira sobre a reforma do Conselho de Segurança poderiam ter sido mais desenvolvidas, especialmente considerando a candidatura do Brasil a assento permanente e o G4. A discussão sobre a invasão do Afeganistão contém uma imprecisão: a intervenção no Afeganistão em 2001 teve respaldo em resoluções do CSNU (Res. 1368 e 1373), diferentemente da invasão do Iraque em 2003, que foi o caso emblemático de unilateralismo sem autorização do Conselho. Essa confusão enfraquece parcialmente o argumento.",
+      "A linguagem é formal e adequada, com vocabulário rico e próprio do campo das relações internacionais. Os poucos erros gramaticais identificados não comprometem significativamente a qualidade do texto.",
+      "O texto poderia ter explorado mais diretamente a posição brasileira contemporânea sobre a reforma do CSNU, o pleito por assento permanente e as articulações no âmbito do G4, BRICS e IBAS, que são elementos centrais do contexto recente das relações exteriores do Brasil mencionado no enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são um reflexo' — o sujeito 'O discurso' é singular, deveria ser 'é um reflexo' ou 'Os discursos... são um reflexo'.",
+      "Uso de 'forca' em vez de 'força' — possível erro de acentuação/ortografia: 'proíbe o emprego da forca nas relações internacionais'.",
+      "Uso de 'desconfiança contra' — a regência mais adequada seria 'desconfiança em relação a' ou 'desconfiança quanto a'. 'Desconfiança contra' é construção de regência questionável."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento em parágrafos temáticos bem delimitados (unilateralismo militar dos EUA, crise financeira de 2008, pandemia de COVID-19) e conclusão que retoma os argumentos dos textos motivadores. A estrutura é coerente e o estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A capacidade de argumentação é sólida, com exemplos pertinentes e bem articulados aos trechos dos discursos apresentados no enunciado. O candidato aborda vários dos elementos sugeridos ('o perturbador da paz está sempre errado', 'é necessário confiar nas grandes potências', 'preço muito alto pago por pequenos e médios países'), demonstrando domínio do tema. Contudo, há algumas imprecisões factuais: a invasão do Afeganistão em 2001 contou com respaldo do CSNU (Resoluções 1368 e 1373), sendo a invasão do Iraque em 2003 o caso mais emblemático de ação unilateral sem autorização do Conselho. Essa imprecisão compromete parcialmente a força argumentativa do parágrafo.",
+      "A capacidade de análise e reflexão é boa, com o candidato estabelecendo conexões entre os discursos de 1946 e eventos contemporâneos, identificando fraturas no projeto multilateral e apontando a emergência de novos atores. A discussão sobre a redistribuição de poder global e a necessidade de reforma da ONU é pertinente. Porém, a análise poderia ser mais aprofundada no que tange à posição específica do Brasil nas relações exteriores recentes, conforme solicitado pelo enunciado ('contexto recente das relações exteriores no Brasil'). A menção ao Brasil é relativamente superficial e pontual. Além disso, a análise sobre a pandemia e distribuição de vacinas, embora relevante, apresenta uma visão algo simplificada da atuação de China e Rússia na diplomacia de vacinas.",
+      "O texto demonstra bom domínio da norma culta, com vocabulário adequado e construções sintáticas bem elaboradas. Os poucos erros identificados não comprometem significativamente a qualidade linguística do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são um reflexo' — o sujeito 'O discurso' é singular, deveria ser 'é um reflexo' ou 'Os discursos... são um reflexo'.",
+      "Uso de 'forca' em vez de 'força' (possível erro de digitação/acentuação): 'proíbe o emprego da forca nas relações internacionais'.",
+      "'desconfiança contra as grandes potências' — a regência mais adequada seria 'desconfiança em relação às grandes potências' ou 'desconfiança das grandes potências'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento em parágrafos temáticos bem delimitados e conclusão que retoma os argumentos centrais.",
+      "O candidato demonstra sólido conhecimento dos temas de política internacional e consegue articular os elementos propostos no enunciado (perturbador da paz, confiança nas grandes potências, preço pago por pequenos e médios países) com exemplos concretos e pertinentes.",
+      "A argumentação é coerente e bem encadeada, transitando de forma lógica entre os exemplos da Guerra ao Terror, a crise financeira de 2008 e a pandemia de COVID-19.",
+      "O texto poderia ter explorado mais diretamente a posição brasileira recente sobre a reforma do Conselho de Segurança e a candidatura do Brasil a assento permanente, bem como o papel do G4, para aprofundar a discussão sobre o 'preço pago por pequenos e médios países'.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. Os poucos erros gramaticais identificados não comprometem significativamente a qualidade do texto.",
+      "A discussão sobre a pandemia e distribuição de vacinas é pertinente, embora a afirmação de que China e Rússia são os que 'mais têm distribuído doses' pudesse ser mais nuançada e contextualizada com iniciativas como o COVAX."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são um reflexo' — o sujeito 'O discurso' é singular, deveria ser 'é um reflexo' ou 'Os discursos... são um reflexo'.",
+      "Uso de 'forca' em vez de 'força' (possível erro de acentuação/digitação): 'proíbe o emprego da forca nas relações internacionais'.",
+      "'desconfiança contra as grandes potências' — a regência mais adequada seria 'desconfiança em relação às grandes potências' ou 'desconfiança das grandes potências'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento em parágrafos temáticos bem delimitados e conclusão que retoma os argumentos centrais.",
+      "O candidato demonstra bom domínio do tema, articulando os elementos propostos no enunciado (perturbador da paz, confiança nas grandes potências, preço pago por pequenos e médios países) com exemplos concretos e pertinentes.",
+      "As ilustrações são bem escolhidas: a Guerra ao Terror pós-11 de setembro, a crise financeira de 2008 e a pandemia de COVID-19, todas conectadas aos trechos dos discursos citados no enunciado.",
+      "O texto poderia ter explorado de forma mais direta e aprofundada a posição brasileira recente sobre a reforma do Conselho de Segurança (G4, pleito por assento permanente), que é central para o tema proposto.",
+      "A argumentação sobre a pandemia e distribuição de vacinas, embora pertinente, poderia ter sido mais nuançada, evitando simplificações sobre o papel de China e Rússia na distribuição de vacinas.",
+      "A linguagem é adequada ao gênero dissertativo-argumentativo e ao contexto do CACD, com vocabulário preciso e registro formal consistente.",
+      "A conclusão é bem construída, retomando os argumentos e projetando a necessidade de reforma institucional, embora pudesse ter sido mais propositiva quanto ao papel específico do Brasil nesse processo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são um reflexo' — o sujeito 'O discurso' é singular, deveria ser 'é um reflexo' ou 'Os discursos... são um reflexo'.",
+      "Uso de 'forca' em vez de 'força' — possível erro de acentuação/ortografia: 'proíbe o emprego da forca nas relações internacionais'.",
+      "'desconfiança contra as grandes potências' — regência inadequada; o mais adequado seria 'desconfiança em relação às grandes potências' ou 'desconfiança quanto às grandes potências'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento em parágrafos temáticos bem estruturados e conclusão que retoma os argumentos centrais.",
+      "O candidato demonstra bom domínio do conteúdo, articulando os elementos propostos no enunciado (perturbador da paz, preço pago por pequenos e médios países, confiança nas grandes potências) com exemplos concretos e pertinentes: a Guerra ao Terror pós-11 de setembro, a crise financeira de 2008 e a pandemia de COVID-19.",
+      "A argumentação é coerente e bem encadeada, mostrando como os ideais de 1945 foram progressivamente frustrados e como novos atores emergiram no cenário internacional.",
+      "O texto poderia ter explorado mais diretamente a posição brasileira recente sobre a reforma do Conselho de Segurança (G4, pleito por assento permanente) e a questão específica do veto, que é um dos elementos centrais do enunciado.",
+      "A linguagem é adequada ao gênero dissertativo e ao contexto do concurso, com vocabulário preciso e registro formal.",
+      "A discussão sobre a pandemia e distribuição de vacinas, embora pertinente, poderia ter sido mais matizada — a caracterização de China e Rússia como distribuidores altruístas de vacinas simplifica a complexidade geopolítica envolvida (diplomacia de vacinas).",
+      "Faltou uma abordagem mais aprofundada sobre conflitos recentes (como a guerra na Ucrânia ou a situação em Gaza) que ilustrariam de forma ainda mais contundente a atualidade dos argumentos sobre o veto e o papel do CSNU."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são um reflexo' — o sujeito 'O discurso' (singular) exige 'é um reflexo'. Alternativamente, deveria ser 'Os discursos... são'.",
+      "Uso de 'forca' em vez de 'força': 'proíbe o emprego da forca nas relações internacionais' — provável erro de digitação/acentuação.",
+      "Uso de 'desconfiança contra' é construção pouco usual; o mais adequado seria 'desconfiança em relação a' ou 'desconfiança quanto a'."
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com introdução contextualizadora, desenvolvimento em parágrafos temáticos e conclusão que retoma os argumentos dos discursos citados no enunciado. A organização é clara e lógica.",
+      "O candidato aborda de forma pertinente vários dos elementos sugeridos pelo enunciado ('o perturbador da paz está sempre errado', 'é necessário confiar nas grandes potências', 'preço muito alto pago por pequenos e médios países'), ilustrando-os com exemplos concretos como a Guerra ao Terror, a crise financeira de 2008 e a pandemia de COVID-19.",
+      "A argumentação é coerente e demonstra conhecimento dos temas de política internacional, embora em alguns momentos seja um pouco previsível e careça de maior sofisticação analítica. Por exemplo, a afirmação de que os EUA desconsideraram a Carta da ONU ao atacar o Afeganistão poderia ser matizada, já que houve resoluções do CSNU (como a Resolução 1368) que foram invocadas como base para a ação.",
+      "O texto poderia ter explorado mais diretamente a posição brasileira recente sobre a reforma do Conselho de Segurança e o pleito por um assento permanente, vinculando-o de forma mais explícita ao argumento de Leão Velloso sobre o 'preço muito alto' pago pelos países médios.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário apropriado e boa fluência textual. Os poucos erros gramaticais identificados não comprometem a compreensão do texto.",
+      "A conclusão é eficaz ao retomar os discursos do enunciado e projetar a necessidade de reforma institucional, embora pudesse ser mais incisiva na articulação da posição brasileira contemporânea."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são um reflexo' — o sujeito 'O discurso' (singular) exige 'é um reflexo'. Alternativamente, deveria ser 'Os discursos... são'.",
+      "Uso de 'forca' em vez de 'força': 'proíbe o emprego da forca nas relações internacionais' — provável erro de digitação/acentuação.",
+      "Uso de 'desconfiança contra' é construção incomum; o mais adequado seria 'desconfiança em relação a' ou 'desconfiança quanto a'."
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com introdução contextualizadora, desenvolvimento em parágrafos temáticos e conclusão que retoma os argumentos dos discursos citados no enunciado. A organização é clara e lógica.",
+      "O candidato aborda de forma pertinente vários dos elementos sugeridos pelo enunciado ('o perturbador da paz está sempre errado', 'é necessário confiar nas grandes potências', 'preço muito alto pago por pequenos e médios países'), ilustrando-os com exemplos concretos como a Guerra ao Terror, a crise financeira de 2008 e a pandemia de COVID-19.",
+      "A argumentação é coerente e demonstra conhecimento dos temas de política internacional, embora em alguns momentos seja um pouco previsível e careça de maior sofisticação analítica. Por exemplo, a afirmação de que os EUA desconsideraram a Carta da ONU ao atacar o Afeganistão poderia ser matizada, já que houve resoluções do CSNU (como a Resolução 1368) que foram invocadas como base para a ação.",
+      "O texto poderia ter explorado com mais profundidade a posição brasileira específica em relação ao veto e à reforma do Conselho de Segurança, especialmente a candidatura do Brasil a um assento permanente (G4), que é central no debate sobre a atualidade dos argumentos apresentados.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário apropriado e registro formal. Os poucos erros gramaticais identificados não comprometem a compreensão do texto.",
+      "A conclusão é eficaz ao retomar os discursos dos embaixadores e projetar a necessidade de reforma institucional, embora pudesse ser mais incisiva na avaliação da atualidade dos argumentos originais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O discurso de Luiz Martins de Souza Dantas e de Pedro Leão Velloso são um reflexo' — o sujeito 'O discurso' (singular) exige 'é um reflexo'. Alternativamente, deveria ser 'Os discursos... são'.",
+      "Uso de 'forca' em vez de 'força' — provável erro de digitação/ortografia: 'proíbe o emprego da forca nas relações internacionais'.",
+      "'desconfiança contra as grandes potências' — regência inadequada; o mais apropriado seria 'desconfiança em relação às grandes potências' ou 'desconfiança quanto às grandes potências'."
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com introdução contextualizadora, desenvolvimento em parágrafos temáticos e conclusão que retoma os argumentos dos discursos citados no enunciado. A organização é clara e lógica.",
+      "O candidato demonstra bom conhecimento dos temas de política internacional e consegue articular exemplos pertinentes (Guerra ao Terror, crise de 2008, pandemia de COVID-19) com os elementos propostos pelo enunciado.",
+      "A argumentação é coerente e bem encadeada, embora em alguns momentos seja mais descritiva do que analítica. Por exemplo, a discussão sobre a crise de 2008, embora relevante, poderia ter sido conectada de forma mais direta ao sistema ONU e ao poder de veto.",
+      "O texto poderia ter explorado com maior profundidade a questão específica do veto no Conselho de Segurança e a posição brasileira sobre a reforma do CSNU (como a candidatura a membro permanente e o G4), que são temas centrais do enunciado e da política externa brasileira recente.",
+      "A abordagem da pandemia como ilustração é pertinente e atual, mas a afirmação de que China e Rússia são os que 'mais têm distribuído doses' merece nuance — iniciativas como COVAX e doações de outros países também foram relevantes.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário apropriado e registro formal consistente. Os poucos erros gramaticais identificados não comprometem a compreensão do texto.",
+      "Para alcançar a faixa 'Excelente', o texto precisaria de maior sofisticação analítica, aprofundamento na discussão sobre a reforma do CSNU sob a perspectiva brasileira e maior articulação teórica com conceitos de relações internacionais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 14.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição: 'dos discursos dos discursos dos Embaixadores' — repetição indevida de 'dos discursos'.",
+      "Uso impreciso: 'entendeu-se primordial' — a construção mais adequada seria 'entendeu-se como primordial' ou 'considerou-se primordial'."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução, desenvolvimento em parágrafos temáticos e conclusão. A redação é fluida, coerente e apresenta estilo adequado ao gênero dissertativo-argumentativo exigido pelo CACD. A progressão temática é clara e o texto mantém unidade ao longo de toda a extensão. A repetição no início ('dos discursos dos discursos') prejudica levemente a impressão geral. Nota: 8.5.",
+      "1B – Capacidade de argumentação: O candidato aborda de forma pertinente os elementos propostos pelo enunciado, discutindo 'o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', a aceitação do veto pelo Brasil e a confiança nas grandes potências. As informações são pertinentes (G4, reforma do CSNU, contexto histórico da criação da ONU). Contudo, a argumentação poderia ser mais aprofundada com exemplos concretos e recentes da política externa brasileira — por exemplo, menção a episódios específicos no CSNU, posições brasileiras em crises recentes, ou referências a documentos e discursos contemporâneos. A discussão sobre 'perturbadores da paz' e neonazismo, embora válida, poderia ter sido mais conectada a casos concretos das relações internacionais do Brasil. Nota: 7.5.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao contextualizar historicamente os discursos, estabelecer paralelos com o cenário atual e problematizar a permanência ou não dos argumentos originais. A reflexão sobre a necessidade de reforma do CSNU e a mudança no conceito de 'grandes potências' é pertinente. No entanto, a análise poderia ser mais sofisticada: faltou discutir com maior profundidade as tensões inerentes ao sistema (por exemplo, como o veto tem sido usado para bloquear ações em crises como Síria, Ucrânia, Palestina), a posição brasileira específica em debates recentes sobre reforma, ou uma reflexão mais crítica sobre se 'confiar nas grandes potências' se mostrou ou não acertado ao longo das décadas. A conclusão, embora bem redigida, recorre a um lugar-comum (povo que não conhece sua história) sem agregar análise substantiva. Nota: 14.0.",
+      "Correção gramatical: Foram identificados 2 erros. A redação apresenta domínio sólido da norma culta, com vocabulário adequado e construções sintáticas bem elaboradas. Os erros são pontuais e não comprometem a compreensão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 14.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição: 'dos discursos dos discursos dos Embaixadores' — repetição indevida de 'dos discursos'.",
+      "Uso impreciso: 'entendeu-se primordial' — a construção mais adequada seria 'entendeu-se como primordial' ou 'considerou-se primordial'."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução, desenvolvimento em parágrafos temáticos e conclusão. A estrutura é clara e o estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD. A coerência interna é boa, com transições razoáveis entre os parágrafos. A repetição no início ('dos discursos dos discursos') prejudica levemente a impressão geral. Nota: 8.5/10.",
+      "1B – Capacidade de argumentação: O candidato aborda de forma pertinente os elementos propostos pelo enunciado, especialmente 'o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países' e a aceitação do veto pelo Brasil. Há menção ao G4 como ilustração concreta, o que é positivo. Contudo, a argumentação poderia ser mais aprofundada em alguns pontos: a discussão sobre 'confiar nas grandes potências' é tangencial e pouco desenvolvida; a relação entre discursos de ódio contemporâneos e a máxima de Souza Dantas, embora criativa, carece de maior fundamentação em fatos concretos das relações exteriores recentes do Brasil. A referência a grupos neonazistas e supremacistas brancos é genérica e não se conecta diretamente à política externa brasileira recente. Nota: 7.5/10.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao contextualizar historicamente os discursos e traçar paralelos com o cenário atual. A reflexão sobre a necessidade de reforma do CSNU e a menção ao G4 demonstram conhecimento relevante. Porém, a análise poderia ser mais sofisticada: faltou discutir com maior profundidade as limitações concretas do poder de veto em crises recentes (como Síria, Ucrânia), a posição brasileira no contexto do pleito a assento permanente, ou as tensões entre EUA e China que afetam a governança global. A conclusão, embora bem redigida, recorre a um lugar-comum ('povo que não conhece sua história está fadado a repeti-la') sem agregar reflexão original. A análise sobre a atualidade dos argumentos é feita de modo mais descritivo do que propriamente crítico. Nota: 14.0/20.",
+      "Correção gramatical e propriedade da linguagem: O texto apresenta linguagem formal e adequada, com vocabulário apropriado ao contexto do CACD. Foram identificados 2 erros/inadequações. A redação é, no geral, bem escrita do ponto de vista gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição indevida: 'dos discursos dos discursos dos Embaixadores' — repetição de 'dos discursos'.",
+      "Uso impreciso de 'entendeu-se primordial': a construção mais adequada seria 'entendeu-se como primordial' ou 'considerou-se primordial'."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução, desenvolvimento em parágrafos temáticos e conclusão. A redação é fluida, coerente e apresenta estilo adequado ao gênero dissertativo-argumentativo exigido pelo CACD. A progressão temática é clara e o encadeamento entre os parágrafos é lógico. Pequeno desconto pela repetição no início do texto, que prejudica levemente a impressão geral.",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade de articular os elementos propostos pelo enunciado, abordando 'o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', a aceitação do veto pelo Brasil e a questão da confiança nas grandes potências. Há pertinência nas informações apresentadas, como a menção ao G4, à reforma do CSNU e ao contexto histórico da criação da ONU. Contudo, as ilustrações poderiam ser mais específicas e aprofundadas — por exemplo, a menção a grupos neonazistas e supremacistas brancos é genérica e carece de exemplos concretos recentes da política externa brasileira. A referência ao contexto recente das relações exteriores do Brasil poderia incluir posicionamentos específicos em votações no CSNU, atuação em missões de paz (MINUSTAH), ou posições brasileiras em crises recentes (Ucrânia, Síria, etc.).",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao contextualizar historicamente os discursos e avaliar sua atualidade, estabelecendo paralelos entre o cenário de 1946 e o contemporâneo. A reflexão sobre a necessidade de atualização do sistema internacional e a defesa brasileira da reforma do CSNU é pertinente. No entanto, a análise poderia ser mais profunda em alguns pontos: (i) a tensão entre o idealismo da igualdade jurídica e o realismo da distribuição de poder poderia ser mais explorada; (ii) a discussão sobre se 'é necessário confiar nas grandes potências' mereceria maior problematização, especialmente à luz de episódios recentes em que o veto foi usado de forma controversa; (iii) a reflexão sobre 'o perturbador da paz está sempre errado' poderia questionar a própria definição de quem é o perturbador e quem define isso, o que seria uma análise mais sofisticada. A conclusão, embora bem redigida, recorre a um lugar-comum (povo que não conhece sua história) que enfraquece o fechamento analítico.",
+      "CGPL – Correção gramatical e propriedade da linguagem: O texto apresenta excelente domínio da norma culta, com vocabulário adequado e variado. Foram identificados apenas dois erros: uma repetição ('dos discursos dos discursos') que parece ser lapso de digitação/escrita, e uma construção sintática ligeiramente imprecisa. A propriedade da linguagem é muito boa, com uso adequado de conectivos e construções complexas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida: 'dos discursos dos discursos dos Embaixadores' — duplicação de 'dos discursos'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato aborda com competência os elementos propostos pelo enunciado: 'o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', a aceitação do veto pelo Brasil e a questão da confiança nas grandes potências.",
+      "A argumentação é sólida e bem encadeada, demonstrando conhecimento do contexto histórico da criação da ONU e do Conselho de Segurança, bem como da posição brasileira contemporânea, incluindo a menção ao G4.",
+      "A linguagem é adequada ao registro formal exigido pelo concurso, com vocabulário preciso e construções sintáticas bem elaboradas.",
+      "A reflexão sobre a atualidade dos discursos é bem conduzida, equilibrando a permanência de certos princípios com a necessidade de atualização institucional.",
+      "Ponto de melhoria: a discussão sobre 'o perturbador da paz está sempre errado' poderia ter sido aprofundada com exemplos mais concretos e recentes das relações exteriores do Brasil (como posicionamentos em conflitos específicos — Ucrânia, Síria, etc.).",
+      "A conclusão, embora bem redigida, recorre a um lugar-comum ('um povo que não conhece sua história está fadado a repeti-la'), o que enfraquece ligeiramente o fechamento.",
+      "A redação poderia ter explorado com mais profundidade a tensão entre a confiança nas grandes potências e os casos em que essas mesmas potências utilizaram o veto de forma a bloquear ações coletivas, o que enriqueceria a análise crítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida: 'dos discursos dos discursos dos Embaixadores' — duplicação de 'dos discursos'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato aborda com competência os elementos propostos pelo enunciado: 'o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', a aceitação do veto pelo Brasil e a questão da confiança nas grandes potências.",
+      "A argumentação é sólida e bem encadeada, demonstrando conhecimento do contexto histórico da criação da ONU e do Conselho de Segurança, bem como da posição brasileira contemporânea, incluindo a menção ao G4.",
+      "A linguagem é adequada ao registro formal exigido pelo concurso, com vocabulário preciso e construções sintáticas bem elaboradas.",
+      "A reflexão sobre a atualidade dos discursos é bem conduzida, equilibrando a permanência de certos princípios com a necessidade de atualização institucional.",
+      "Ponto de melhoria: a discussão sobre 'confiar nas grandes potências' poderia ter sido mais aprofundada, problematizando com exemplos concretos recentes (como o uso do veto em situações específicas, por exemplo, na questão síria ou na invasão da Ucrânia) para enriquecer a análise.",
+      "A conclusão, embora bem redigida, recorre a um lugar-comum ('um povo que não conhece a sua história está fadado a repeti-la') que poderia ser substituído por uma reflexão mais original."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição: 'dos discursos dos discursos dos Embaixadores' — repetição indevida de 'dos discursos'.",
+      "Uso impreciso de 'quanto à necessidade' em contexto que pediria 'sobre a necessidade' ou 'acerca da necessidade' (regência questionável com 'argumentando quanto à')."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato aborda de forma competente os elementos propostos pelo enunciado: 'o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', a aceitação do veto pelo Brasil e a questão da confiança nas grandes potências.",
+      "A argumentação é sólida e bem encadeada, com referências pertinentes ao contexto histórico (nazismo, década de 1930, criação do CSNU) e ao contexto atual (grupos neonazistas, G4, reforma do CSNU).",
+      "O texto demonstra bom domínio do tema de política externa brasileira e das discussões sobre reforma do sistema multilateral, com menção adequada ao G4 (Japão, Alemanha, Índia e Brasil).",
+      "A linguagem é adequada ao gênero dissertativo-argumentativo e ao nível do concurso, com vocabulário preciso e registro formal.",
+      "Ponto de melhoria: o texto poderia ter aprofundado mais a discussão sobre a atualidade (ou não) dos argumentos, explorando com maior profundidade casos concretos recentes — como o uso do veto por membros permanentes em crises específicas (Síria, Ucrânia) — para enriquecer a análise.",
+      "A conclusão, embora coerente, recorre a um lugar-comum ('um povo que não conhece sua história está fadado a repeti-la'), o que enfraquece ligeiramente o fechamento do texto.",
+      "A repetição 'dos discursos dos discursos' no início do texto é um erro de revisão que, embora menor, causa impressão negativa logo na abertura."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Repetição indevida: 'dos discursos dos discursos dos Embaixadores' — repetição de 'dos discursos'.",
+      "Uso impreciso de 'entendeu-se primordial': a construção mais adequada seria 'entendeu-se como primordial' ou 'considerou-se primordial'."
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com introdução, desenvolvimento e conclusão claramente delineados, e apresenta encadeamento lógico entre os parágrafos.",
+      "O candidato aborda com pertinência os elementos propostos pelo enunciado — 'o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', a aceitação do veto pelo Brasil e a confiança nas grandes potências —, articulando-os com o contexto recente da política externa brasileira.",
+      "A menção ao G4 (Brasil, Japão, Alemanha e Índia) e à defesa da reforma do CSNU constitui uma ilustração adequada e demonstra conhecimento do tema.",
+      "A argumentação, embora coerente e bem conduzida, poderia ser mais aprofundada em alguns pontos. Por exemplo, a discussão sobre 'perturbadores da paz' poderia incluir exemplos concretos mais recentes de atuação do CSNU (ou de sua paralisia), como os casos da Síria, da Ucrânia ou do conflito Israel-Palestina, para demonstrar a atualidade — ou a insuficiência — do argumento de Souza Dantas.",
+      "A reflexão sobre a confiança nas grandes potências poderia ter sido mais problematizada: o candidato poderia ter explorado como a rivalidade entre membros permanentes do CSNU (EUA, Rússia, China) tem comprometido a eficácia do mecanismo, questionando se essa confiança se justifica no cenário atual.",
+      "A conclusão, embora adequada, recorre a um lugar-comum ('um povo que não conhece a sua história está fadado a repeti-la'), o que reduz a originalidade do fechamento. Uma conclusão mais analítica e menos genérica elevaria a qualidade do texto.",
+      "A linguagem é formal e adequada ao contexto do CACD, com vocabulário apropriado e boa fluência textual. Os poucos deslizes gramaticais não comprometem a compreensão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida: 'dos discursos dos discursos dos Embaixadores' — duplicação de 'dos discursos'."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura, com introdução, desenvolvimento em parágrafos temáticos bem delimitados e conclusão coerente. A organização facilita a leitura e demonstra planejamento textual.",
+      "O candidato aborda com pertinência os elementos propostos pelo enunciado — 'o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', a aceitação do veto pelo Brasil e a confiança nas grandes potências —, articulando-os ao contexto recente da política externa brasileira.",
+      "A menção ao G4 (Brasil, Japão, Alemanha e Índia) e à defesa da reforma do CSNU constitui uma ilustração adequada e demonstra conhecimento do tema, embora o texto pudesse ter explorado mais exemplos concretos e recentes (como episódios específicos de bloqueio pelo veto, crises em que o CSNU se mostrou inoperante, ou posições brasileiras em foros multilaterais).",
+      "A argumentação, embora coerente e bem encadeada, tende ao previsível e poderia ganhar em profundidade analítica. A discussão sobre 'o perturbador da paz está sempre errado' é interessante ao conectar com discursos de ódio e movimentos neonazistas, mas a reflexão permanece em nível genérico, sem aprofundar as tensões conceituais (por exemplo, quem define quem é o 'perturbador da paz'? Há riscos de instrumentalização desse conceito?).",
+      "A conclusão, ao recorrer à máxima sobre povos que não conhecem sua história, é funcional, mas constitui um lugar-comum que enfraquece ligeiramente o fechamento do texto.",
+      "O domínio da norma culta é consistente, com vocabulário adequado e boa fluência. O único erro identificado é a repetição 'dos discursos dos discursos' no início do texto, provavelmente um lapso de revisão.",
+      "Para alcançar a faixa 'Excelente', o texto precisaria de maior sofisticação argumentativa, análises mais aprofundadas das tensões conceituais envolvidas nos trechos citados e exemplos mais específicos e diversificados da atuação diplomática brasileira recente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 1,
+    "erros_gramaticais": [
+      "Repetição indevida: 'dos discursos dos discursos dos Embaixadores' — duplicação de 'dos discursos'."
+    ],
+    "feedbacks": [
+      "O texto é bem estruturado, com introdução, desenvolvimento e conclusão claramente delineados, e apresenta boa coesão entre os parágrafos.",
+      "O candidato aborda com pertinência os elementos propostos pelo enunciado — 'o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', a aceitação do veto pelo Brasil e a confiança nas grandes potências —, articulando-os com o contexto histórico e contemporâneo.",
+      "A discussão sobre a atualidade dos discursos é coerente: o candidato conecta a fala de Souza Dantas ao ressurgimento de movimentos extremistas e a de Leão Velloso à pauta brasileira de reforma do CSNU e à formação do G4, o que demonstra conhecimento temático adequado.",
+      "Embora a argumentação seja sólida e bem encadeada, ela poderia ser mais aprofundada e sofisticada. Por exemplo, a análise do conceito de 'perturbador da paz' poderia explorar casos concretos recentes (como a invasão da Ucrânia pela Rússia ou conflitos no Oriente Médio) e discutir a seletividade na aplicação desse princípio. A menção ao G4 é pertinente, mas poderia ser acompanhada de maior problematização sobre os obstáculos à reforma.",
+      "A conclusão, embora adequada, recorre a um lugar-comum ('um povo que não conhece a sua história está fadado a repeti-la'), o que reduz a originalidade do fechamento.",
+      "A linguagem é formal e adequada ao contexto do CACD, com vocabulário apropriado e poucas falhas gramaticais. O único erro identificado é a repetição de 'dos discursos' no início do texto.",
+      "Para alcançar a faixa 'Excelente', o texto precisaria de maior profundidade analítica, exemplos mais específicos e contemporâneos, e uma reflexão mais crítica sobre as tensões e contradições inerentes aos argumentos apresentados nos discursos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"não-permanente\" e \"não-permanentes\": conforme o Acordo Ortográfico de 1990, o prefixo 'não' não se liga por hífen a substantivos e adjetivos (não permanente, não permanentes).",
+      "\"revelou- se\": espaço indevido antes do hífen na ênclise (correto: 'revelou-se').",
+      "\"a nível global\": expressão inadequada; o correto seria 'em nível global' ou 'no nível global'.",
+      "\"estabelecido\": grafia incorreta; o correto é 'estabelecido' — na verdade, a forma correta é 'estabelecido'. Revisando: a grafia está correta. CORREÇÃO: não é erro."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento em parágrafos bem estruturados que abordam sistematicamente os elementos propostos pelo enunciado, e conclusão que sintetiza a argumentação. O estilo é fluido e adequado ao gênero dissertativo-argumentativo esperado no CACD.",
+      "A capacidade de argumentação é muito boa. O candidato mobiliza informações pertinentes e precisas: a eleição do Brasil para o CSNU no biênio 2022-2023, a Constituição de 1891, a II Conferência da Haia de 1907, a Carta de São Francisco, operações de paz (Congo, Sudão do Sul, Saara Ocidental), o Comitê de Consolidação da Paz, o conceito de 'paz positiva' de Galtung, e o G-4. As informações são bem articuladas com os trechos dos discursos apresentados no enunciado.",
+      "A capacidade de análise e reflexão é sólida. O candidato demonstra compreensão da evolução histórica da posição brasileira, desde o pragmatismo de 1945 até a defesa contemporânea da reforma do CSNU. A análise da inoperância do Conselho de Segurança durante a Guerra Fria e em crises recentes (Síria) é pertinente. Contudo, a reflexão poderia ser mais aprofundada em alguns pontos: a discussão sobre 'o perturbador da paz está sempre errado' poderia problematizar mais a seletividade na aplicação desse princípio; a análise sobre a confiança nas grandes potências poderia explorar nuances sobre a interdependência e os limites do multilateralismo. A conclusão, embora coerente, recorre a argumentos um tanto genéricos sobre democracia e multipolaridade sem aprofundá-los suficientemente.",
+      "A linguagem é formal e adequada, com vocabulário preciso e próprio do campo das relações internacionais. Há poucos erros gramaticais, o que demonstra bom domínio da norma culta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"membro não-permanente\" – após o Acordo Ortográfico de 2009, o prefixo 'não' não se liga por hífen a substantivos/adjetivos: 'membro não permanente'.",
+      "\"revelou- se\" – espaço indevido antes do pronome enclítico; o correto é 'revelou-se'.",
+      "\"a nível global\" – expressão inadequada em registro formal; o correto seria 'em nível global' ou 'no nível global'.",
+      "\"não-permanentes\" (segunda ocorrência) – mesma questão do hífen indevido com 'não': 'não permanentes'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem segmentado em parágrafos temáticos e conclusão coerente. O estilo é fluido, formal e adequado ao gênero dissertativo-argumentativo esperado no CACD.",
+      "A capacidade de argumentação é muito boa: o candidato aborda sistematicamente os quatro elementos sugeridos pelo enunciado ('o perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', 'o Brasil foi contrário ao veto, mas aceitou-o', 'é necessário confiar nas grandes potências'), articulando-os com dados históricos e contemporâneos pertinentes, como a participação brasileira em operações de paz, o G-4, a Comissão de Consolidação da Paz e a tradição pacifista constitucional.",
+      "A capacidade de análise e reflexão é sólida, com boa articulação entre passado e presente, e o candidato demonstra compreensão das tensões entre igualdade jurídica e realismo político. Contudo, a análise poderia ser mais aprofundada em alguns pontos: a discussão sobre a atualidade do argumento de que 'o perturbador da paz está sempre errado' poderia ter sido problematizada com mais nuance (por exemplo, discutindo casos em que a definição de 'perturbador da paz' é disputada politicamente). A reflexão sobre a confiança nas grandes potências também poderia explorar mais as contradições contemporâneas (como o uso do veto pela Rússia no caso da Ucrânia, ou pelos EUA em questões relativas ao Oriente Médio). A conclusão, embora coerente, é algo genérica e poderia ter oferecido uma síntese mais sofisticada.",
+      "A correção gramatical é boa, com poucos erros identificados. O uso de 'a nível global' é um desvio de registro formal bastante recorrente, e os hífens com 'não' refletem desatenção ao Acordo Ortográfico vigente. O espaço indevido em 'revelou- se' parece erro de digitação. No geral, a linguagem é precisa e adequada.",
+      "Ponto positivo: o candidato demonstra conhecimento histórico e contemporâneo relevante, citando a Conferência de Haia de 1907, a Constituição de 1891, o conceito de 'paz positiva' de Galtung, o G-4, e missões de paz específicas. Isso confere credibilidade e densidade ao texto.",
+      "Ponto de melhoria: a redação poderia ter explorado com mais profundidade as tensões e contradições dos argumentos apresentados nos excertos, em vez de adotar uma posição relativamente linear de que os argumentos de 1946 estão superados. Uma análise mais dialética enriqueceria a reflexão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"não-permanente\" e \"não-permanentes\": conforme o Acordo Ortográfico de 1990, o prefixo 'não' não se liga por hífen a substantivos e adjetivos (não permanente, não permanentes).",
+      "\"revelou- se\": espaço indevido antes do pronome enclítico (deveria ser 'revelou-se').",
+      "\"a nível global\": a expressão correta em português formal é 'em nível global' ou 'no nível global'.",
+      "\"estabelecido\": grafia incorreta; a forma correta é 'estabelecido' — na verdade, a forma está correta. Retificação: não há erro aqui. Substituição: \"membro não-permanente\" aparece duas vezes com hífen indevido, contabilizado como ocorrências do mesmo erro."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento em parágrafos bem estruturados que abordam sistematicamente os elementos propostos pelo enunciado, e conclusão que sintetiza a argumentação. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A capacidade de argumentação é muito boa. O candidato mobiliza informações pertinentes e precisas: a eleição do Brasil para o CSNU no biênio 2022-2023, a Constituição de 1891, a II Conferência da Haia de 1907, as operações de paz (Congo, Sudão do Sul, Saara Ocidental), o Comitê de Consolidação da Paz, o conceito de 'paz positiva' de Galtung, e o G-4. As informações são bem articuladas com os trechos dos discursos apresentados no enunciado.",
+      "A capacidade de análise e reflexão é sólida, mas poderia ser aprofundada em alguns pontos. O candidato analisa bem a evolução da posição brasileira desde 1945 até o contexto contemporâneo, e articula adequadamente os conceitos de legitimidade, representatividade e efetividade do CSNU. Contudo, a análise sobre 'o perturbador da paz está sempre errado' poderia ter sido mais problematizada — por exemplo, discutindo casos em que a definição de 'perturbador da paz' é contestada ou instrumentalizada politicamente. A reflexão sobre a confiança nas grandes potências também poderia explorar mais nuances, como a posição brasileira de 'Responsabilidade ao Proteger'. A conclusão, embora coerente, é algo genérica ao invocar democracia e multipolaridade sem aprofundar as tensões inerentes a essas categorias.",
+      "Do ponto de vista gramatical, a redação é bastante correta, com poucos desvios. O uso de 'a nível global' é inadequado no registro formal culto, e há um espaço indevido em 'revelou- se'. O uso de hífen em 'não-permanente' contraria a norma ortográfica vigente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'não-permanente' e 'não-permanentes': após o Novo Acordo Ortográfico, o prefixo 'não' não se liga por hífen a substantivos e adjetivos (não permanente).",
+      "'a nível global': a expressão correta é 'em nível global' ou 'no nível global'.",
+      "'revelou- se': espaço indevido antes do pronome 'se' (revelou-se).",
+      "'estabelecido': grafia incorreta; o correto é 'estabelecido' — na verdade, a forma está correta, mas pode-se questionar a preferência por 'estabelecido' vs. uso corrente. Retificando: não há erro aqui."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato demonstra domínio notável do tema, articulando com precisão referências históricas (Conferência de Haia de 1907, Constituição de 1891, Carta de São Francisco) e contemporâneas (G-4, missões de paz no Congo, Sudão do Sul, Saara Ocidental, Comitê de Consolidação da Paz).",
+      "Todos os elementos sugeridos pelo enunciado foram abordados de forma integrada e analítica, com boa capacidade de reflexão crítica sobre a atualidade dos argumentos dos embaixadores.",
+      "A argumentação é consistente e bem encadeada, transitando com fluidez entre a análise histórica e a avaliação contemporânea, demonstrando capacidade de síntese e pensamento crítico.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário preciso e pertinente ao campo das relações internacionais.",
+      "Pequenos deslizes gramaticais (uso de hífen com 'não', expressão 'a nível') não comprometem significativamente a qualidade do texto.",
+      "A menção ao conceito de 'paz positiva' de John Galtung e a referência à multipolaridade contemporânea enriquecem a argumentação e demonstram repertório sólido."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso de 'não-permanente' e 'não-permanentes' com hífen: após o Novo Acordo Ortográfico, o prefixo 'não' não se liga por hífen a adjetivos/substantivos (correto: 'não permanente').",
+      "'revelou- se' com espaço antes do pronome enclítico: deveria ser 'revelou-se', sem espaço.",
+      "'a nível global' é expressão considerada inadequada na norma culta; o correto seria 'em nível global' ou 'no nível global'.",
+      "'estabelecido' — embora não seja erro do candidato, mas citação indireta do conteúdo, vale notar que a grafia correta é 'estabelecido' (correto, sem erro aqui — desconsiderar). Substituição: 'dentre os quais destacavam-se' — com próclise obrigatória após 'quais': 'dentre os quais se destacavam'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato demonstra domínio notável do tema, articulando com precisão referências históricas (Conferência de Haia de 1907, Constituição de 1891, G-4) e conceitos relevantes (paz positiva de Galtung, Comitê de Consolidação da Paz).",
+      "Todos os elementos sugeridos pelo enunciado foram abordados de forma integrada e analítica, com boa capacidade de reflexão crítica sobre a atualidade dos argumentos dos embaixadores.",
+      "A argumentação é consistente e bem encadeada, transitando com fluidez entre o contexto histórico e a realidade contemporânea, demonstrando capacidade de análise diacrônica.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário preciso e variado. Os poucos erros gramaticais identificados são de natureza menor e não comprometem a qualidade geral do texto.",
+      "Ponto de melhoria: poderia ter explorado com mais profundidade as tensões e contradições envolvidas na posição brasileira, bem como exemplos mais recentes da política externa brasileira no Conselho de Segurança (como a posição sobre a Ucrânia)."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'não-permanente' e 'não-permanentes': após o Novo Acordo Ortográfico, o prefixo 'não' não se liga por hífen a substantivos e adjetivos (não permanente).",
+      "'a nível global': a expressão correta é 'em nível global' ou 'no nível global'.",
+      "'revelou- se': espaço indevido antes do hífen (revelou-se).",
+      "'estabelecido': grafia incorreta; o correto é 'estabelecido' — embora aceitável em alguns registros, a forma padrão não apresenta problema aqui. Revisando: na verdade, 'estabelecido' está correto. Retificação: não há erro aqui."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato demonstra domínio notável do tema, articulando com precisão referências históricas (Conferência de Haia de 1907, Constituição de 1891, Carta de São Francisco) e contemporâneas (G-4, missões de paz no Congo, Sudão do Sul, Saara Ocidental, Comitê de Consolidação da Paz).",
+      "Todos os elementos sugeridos pelo enunciado foram abordados de forma integrada e analítica: o perturbador da paz, o preço pago por pequenos e médios países, a aceitação construtiva do veto e a confiança nas grandes potências.",
+      "A argumentação é sólida e bem encadeada, transitando do contexto histórico para a análise crítica contemporânea, com posicionamento claro sobre a necessidade de reforma do Conselho de Segurança.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário preciso e próprio do campo das relações internacionais.",
+      "Pequenos deslizes formais ('a nível global', uso de hífen em 'não-permanente' segundo o Novo Acordo Ortográfico, espaço antes do hífen em 'revelou- se') não comprometem significativamente a qualidade do texto.",
+      "A menção ao conceito de 'paz positiva' de John Galtung demonstra repertório teórico relevante e enriquece a argumentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'não-permanente' e 'não-permanentes': após o Acordo Ortográfico de 1990, o prefixo 'não' não se liga por hífen a substantivos e adjetivos, devendo ser grafado 'não permanente'.",
+      "'estabelecido': grafia incorreta; o correto é 'estabelecido' — na verdade, a forma correta é 'estabelecido' (erro de digitação possível, mas a forma padrão é 'estabelecido'). Revisando: a grafia correta é 'estabelecido'. De fato, não há erro aqui; a forma está correta. Retificação: não constitui erro.",
+      "'revelou- se': espaço indevido antes do pronome 'se' na ênclise; o correto é 'revelou-se'.",
+      "'a nível global': expressão inadequada na norma culta; o correto seria 'em nível global'."
+    ],
+    "erros_gramaticais_revisado": null,
+    "feedbacks": [
+      "A redação apresenta excelente estrutura argumentativa, com introdução contextualizadora, desenvolvimento em parágrafos temáticos bem delimitados e conclusão articulada que retoma os argumentos centrais.",
+      "O candidato demonstra domínio sólido do tema, mobilizando referências históricas pertinentes (Conferência da Haia de 1907, Constituição de 1891, G-4, Comitê de Consolidação da Paz, conceito de 'paz positiva' de Galtung) que enriquecem a argumentação.",
+      "Há boa articulação entre os trechos dos discursos citados no enunciado e a análise da atualidade, cumprindo adequadamente o comando da questão ao discutir múltiplos elementos propostos.",
+      "A progressão argumentativa é coerente: parte da contextualização histórica, passa pela análise da defesa da paz, discute o pragmatismo brasileiro frente ao veto, avalia a inoperância do Conselho de Segurança e conclui com a defesa da reforma.",
+      "Ponto de melhoria: a argumentação, embora sólida, poderia explorar com mais profundidade as tensões e contradições da posição brasileira, como o fato de o Brasil buscar um assento permanente (e possivelmente o próprio direito de veto), o que geraria uma reflexão mais sofisticada sobre a coerência da posição brasileira.",
+      "Pequenos deslizes formais ('revelou- se' com espaço, 'a nível global') não comprometem a qualidade geral do texto, mas devem ser evitados em um concurso de alto nível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'não-permanente' e 'não-permanentes': após o Acordo Ortográfico de 1990, o prefixo 'não' não se liga por hífen a adjetivos/substantivos, devendo ser grafado 'não permanente'.",
+      "'estabelecido': grafia incorreta; o correto é 'estabelecido' — na verdade, a forma correta é 'estabelecido' (erro de digitação possível, mas a forma padrão é 'estabelecido'). Revisando: a grafia correta é 'estabelecido'. De fato, não há erro aqui; a forma está correta.",
+      "'revelou- se': espaço indevido antes do hífen; o correto é 'revelou-se'.",
+      "'a nível global': expressão considerada inadequada na norma culta; o correto seria 'em nível global' ou 'no nível global'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura argumentativa, com introdução contextualizadora, desenvolvimento em parágrafos temáticos bem delimitados e conclusão articulada que retoma os argumentos centrais.",
+      "O candidato demonstra domínio sólido do tema, mobilizando referências históricas pertinentes (Conferência da Haia de 1907, Constituição de 1891, G-4, Comitê de Consolidação da Paz, conceito de 'paz positiva' de Galtung) que enriquecem a argumentação e evidenciam conhecimento aprofundado de política externa brasileira.",
+      "Todos os elementos sugeridos pelo enunciado foram abordados de forma integrada e coerente, com análise da atualidade — ou não — dos argumentos dos embaixadores, conforme solicitado.",
+      "A articulação entre os trechos citados e a posição contemporânea do Brasil é bem conduzida, mostrando evolução da postura brasileira de aceitação pragmática para defesa ativa da reforma do Conselho de Segurança.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário preciso e variado. Há poucos deslizes gramaticais, sendo os mais notáveis o espaço antes do hífen em 'revelou- se' e o uso de 'a nível global'.",
+      "Uma possível melhoria seria aprofundar a discussão sobre os limites e contradições da própria posição brasileira (por exemplo, a tensão entre defender a reforma e buscar um assento permanente, o que reproduziria assimetrias), o que conferiria maior sofisticação analítica e autocrítica ao texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'não-permanente' e 'não-permanentes': após o Acordo Ortográfico de 1990, o prefixo 'não' não se liga por hífen a adjetivos/substantivos, devendo ser grafado 'não permanente'.",
+      "'estabelecido': grafia incorreta; o correto é 'estabelecido' — na verdade, a forma correta é 'estabelecido' (erro de digitação possível, mas a forma padrão é 'estabelecido'). Revisando: a grafia correta é 'estabelecido'. De fato, não há erro aqui. Desconsiderado.",
+      "'revelou- se': espaço indevido antes do hífen; o correto é 'revelou-se'.",
+      "'a nível global': expressão inadequada na norma culta; o correto seria 'em nível global' ou 'no nível global'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura argumentativa, com introdução contextualizadora, desenvolvimento em parágrafos temáticos bem delimitados e conclusão articulada que retoma os argumentos centrais.",
+      "O candidato demonstra domínio sólido do tema, mobilizando referências históricas pertinentes (Conferência da Haia de 1907, Constituição de 1891, G-4, Comitê de Consolidação da Paz, conceito de 'paz positiva' de Galtung) que enriquecem a argumentação e evidenciam conhecimento aprofundado de política externa brasileira.",
+      "Todos os elementos sugeridos pelo enunciado foram abordados de forma integrada e coerente, com análise da atualidade — ou não — dos argumentos dos embaixadores, conforme solicitado.",
+      "A articulação entre os trechos citados e a posição contemporânea do Brasil é bem conduzida, mostrando evolução da postura brasileira de aceitação pragmática para defesa ativa da reforma do Conselho de Segurança.",
+      "Pequenos deslizes formais ('a nível global', espaço antes do hífen em 'revelou- se') não comprometem a qualidade geral do texto, que demonstra domínio consistente da norma culta e vocabulário adequado ao registro diplomático.",
+      "Uma possível melhoria seria aprofundar a discussão sobre os limites e contradições da própria posição brasileira de reforma, ou mencionar resistências concretas ao pleito do G-4, o que conferiria ainda mais sofisticação analítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "'nações Unidas' com 'n' minúsculo — ocorre duas vezes no primeiro parágrafo, deveria ser 'Nações Unidas'",
+      "'perturbadores da Paz' — 'Paz' com maiúscula indevida, deveria ser 'paz'",
+      "'em particular do CSNU' — falta vírgula após 'CSNU' para fechar o aposto intercalado: 'em particular, do CSNU,'",
+      "'a aquela' — artigo duplicado/inadequado, deveria ser 'aquela' sem o artigo 'a'",
+      "'não era uma medida de adequada' — preposição 'de' indevida, deveria ser 'não era uma medida adequada'",
+      "'o de tensionamento' — erro de grafia/separação indevida, deveria ser 'o destensionamento' ou 'o distensionamento'",
+      "'É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos' — regência verbal: 'constatar' no sentido empregado pede objeto direto, mas a construção com 'se pode constatar' está correta; porém, considerando 'pode-se constatar', a colocação pronominal é discutível. Erro menor de colocação pronominal.",
+      "'a qual estabelecia uma área de exclusão aérea foi oferecida' — falta vírgula após 'aérea' para fechar a oração adjetiva explicativa: 'a qual estabelecia uma área de exclusão aérea, foi oferecida'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia a tese, desenvolvimento em três eixos temáticos bem definidos (reforma da ONU, desarmamento nuclear e prevenção de conflitos) e conclusão que retoma os argumentos centrais. A estrutura é coerente e o estilo é adequado ao gênero dissertativo-argumentativo do CACD.",
+      "A capacidade de argumentação é forte: o candidato dialoga diretamente com os trechos dos discursos citados no enunciado, utilizando-os como fio condutor da análise. As ilustrações são pertinentes — G-4, caso das Ilhas Marshall, TPAN, Resolução 1973 sobre a Líbia, Iniciativa Humanitária — e demonstram conhecimento substantivo de política externa brasileira.",
+      "A análise e reflexão são de bom nível, com o candidato qualificando os argumentos dos embaixadores em vez de simplesmente concordar ou discordar. A tese de que a confiança nas grandes potências não gerou os resultados práticos esperados é bem desenvolvida. Contudo, a análise poderia ser mais aprofundada em alguns pontos: a discussão sobre o conceito de 'Responsabilidade ao Proteger' (RwP) proposto pelo Brasil seria um complemento natural à discussão sobre a Líbia; a menção ao TPAN poderia explorar mais a tensão entre o tratado e a posição do P5; e a conclusão, embora funcional, é algo genérica nos custos 'econômicos, sociais e humanitários' sem maior desenvolvimento.",
+      "Há erros gramaticais pontuais, incluindo problemas de maiúsculas/minúsculas ('nações Unidas', 'Paz'), preposição indevida ('medida de adequada'), artigo duplicado ('a aquela'), erro de grafia ('de tensionamento') e faltas de vírgula em apostos e orações explicativas. São erros que, embora não comprometam a compreensão, afetam a correção formal esperada no nível do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "'nações Unidas' com 'n' minúsculo — ocorre duas vezes no primeiro parágrafo, deveria ser 'Nações Unidas'",
+      "'perturbadores da Paz' — 'Paz' com maiúscula indevida, deveria ser 'paz'",
+      "'em particular do CSNU' — falta vírgula após 'CSNU' para fechar o aposto intercalado: 'em particular, do CSNU,'",
+      "'a aquela' — artigo duplicado/inadequado, deveria ser 'aquela' sem o artigo 'a'",
+      "'não era uma medida de adequada' — preposição 'de' indevida, deveria ser 'não era uma medida adequada'",
+      "'o de tensionamento' — erro de grafia/separação indevida, deveria ser 'o destensionamento' ou 'o distensionamento'",
+      "'É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos' — regência verbal: 'constatar' no sentido empregado pede objeto direto, mas a construção com 'se pode constatar' está correta; porém, há problema de concordância/regência com a estrutura clivada — menor gravidade",
+      "'a qual estabelecia uma área de exclusão aérea foi oferecida' — falta vírgula após 'aérea' para fechar a oração adjetiva explicativa: 'a qual estabelecia uma área de exclusão aérea, foi oferecida'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia a tese, desenvolvimento em três eixos temáticos bem definidos (reforma da ONU, desarmamento nuclear e prevenção de conflitos) e conclusão que retoma os argumentos centrais. A estrutura é coerente e o estilo é adequado ao gênero dissertativo-argumentativo do CACD.",
+      "A capacidade de argumentação é forte: o candidato dialoga diretamente com os trechos dos discursos citados no enunciado, utilizando-os como fio condutor da análise. As ilustrações são pertinentes — G-4, caso das Ilhas Marshall, TPAN, Resolução 1973 sobre a Líbia, conceito de 'Responsabilidade ao Proteger'. A objetividade e a sistematização são pontos positivos.",
+      "A capacidade de análise e reflexão é boa, com nuances importantes, como a distinção entre a atualidade dos argumentos e a perda de confiança nas grandes potências. O candidato demonstra conhecimento do posicionamento brasileiro em foros multilaterais. Contudo, a análise poderia ser mais aprofundada em alguns pontos: a discussão sobre o princípio 'o perturbador da paz está sempre errado' poderia ter sido mais problematizada (quem define quem é o perturbador?), e a reflexão sobre a confiança nas grandes potências poderia explorar mais as contradições e os dilemas estratégicos do Brasil.",
+      "Há erros gramaticais pontuais que comprometem levemente a correção do texto: 'nações Unidas' com minúscula (duas ocorrências), 'a aquela', 'medida de adequada', 'de tensionamento' (separação indevida), 'Paz' com maiúscula indevida, e problemas de pontuação em orações intercaladas. São erros que, embora não comprometam a compreensão, revelam falta de revisão final."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "'nações Unidas' com 'n' minúsculo em duas ocorrências — deve ser 'Nações Unidas'",
+      "'perturbadores da Paz' com 'P' maiúsculo indevido em 'Paz'",
+      "'a aquela' — artigo duplicado/inadequado; deveria ser 'aquela' apenas",
+      "'o de tensionamento' — erro de digitação/separação indevida; deveria ser 'o distensionamento' ou 'o detensionamento'",
+      "'medida de adequada' — preposição 'de' indevida; deveria ser 'medida adequada'",
+      "'em particular do CSNU' — falta vírgula após 'CSNU' para fechar o aposto intercalado: 'em particular, do CSNU,'",
+      "'aqueles' — deveria ser 'aqueles' está correto em português, porém a forma mais usual seria 'aqueles'; na verdade, não há erro aqui. Retificando: sem erro neste ponto.",
+      "'É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos' — regência: 'constatar' é transitivo direto, mas 'se pode constatar os efeitos' deveria ser 'se podem constatar os efeitos' (concordância com sujeito passivo 'os efeitos')"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia a tese e os eixos de desenvolvimento, parágrafos bem estruturados com tópicos frasais definidos e conclusão que retoma os argumentos centrais. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A capacidade de argumentação é forte: o candidato dialoga diretamente com os trechos dos discursos citados no enunciado, utilizando-os como fio condutor da análise. As ilustrações são pertinentes — reforma do CSNU e o G-4, caso das Ilhas Marshall e TPAN, Resolução 1973 sobre a Líbia, conceito de 'Responsabilidade ao Proteger'. O conteúdo demonstra conhecimento sólido de política externa brasileira.",
+      "A capacidade de análise e reflexão é boa, com o candidato qualificando os argumentos dos embaixadores em vez de simplesmente concordar ou discordar. A tese de que a confiança nas grandes potências não gerou resultados práticos é bem desenvolvida em três eixos (reforma da ONU, desarmamento, prevenção de conflitos). Contudo, a análise poderia ser mais aprofundada em alguns pontos: a discussão sobre o TPAN poderia explorar melhor suas limitações (nenhuma potência nuclear aderiu); a análise sobre a Líbia poderia mencionar explicitamente o conceito de 'Responsabilidade ao Proteger' (RwP) proposto pelo Brasil. Além disso, a afirmação de que 'a confiança foi perdida' poderia ser mais nuançada, considerando que o Brasil continua operando dentro do sistema multilateral da ONU.",
+      "Há alguns erros gramaticais pontuais, incluindo inconsistências de maiúsculas/minúsculas em 'Nações Unidas', duplicação de artigo ('a aquela'), erro de digitação ('de tensionamento' por 'distensionamento'), e preposição indevida ('medida de adequada'). Esses erros, embora não comprometam a compreensão, afetam a correção formal esperada no nível do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"nações Unidas\" com 'n' minúsculo em duas ocorrências no primeiro parágrafo — deve ser 'Nações Unidas'",
+      "\"a aquela\" — artigo duplicado/desnecessário: deveria ser 'que aquela'",
+      "\"de tensionamento\" — grafia incorreta, deveria ser 'distensionamento' (uma só palavra)",
+      "\"medida de adequada\" — uso indevido da preposição 'de', deveria ser 'medida adequada'",
+      "\"acirrava-os\" — embora gramaticalmente possível, a concordância com 'medida' (singular) e 'conflitos' gera ambiguidade; menor problema",
+      "Falta de vírgula após 'em particular do CSNU' — deveria ser 'e, em particular, do CSNU'",
+      "\"É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos\" — regência: 'constatar' é transitivo direto, mas o uso de 'se pode constatar os efeitos' poderia ser 'constatarem-se os efeitos' ou 'se podem constatar os efeitos'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia a tese, desenvolvimento em três eixos temáticos bem definidos (reforma da ONU, desarmamento nuclear e prevenção de conflitos) e conclusão que retoma e sintetiza os argumentos.",
+      "O candidato demonstra domínio do tema, utilizando exemplos pertinentes e atuais como o G-4, o caso das Ilhas Marshall, o TPAN, a Resolução 1973 sobre a Líbia e o conceito de 'Responsabilidade ao Proteger', evidenciando conhecimento aprofundado da política externa brasileira.",
+      "A articulação com os textos motivadores é bem feita, retomando as expressões dos embaixadores de forma orgânica ao longo do texto, sem mera repetição.",
+      "A argumentação é consistente e bem encadeada, com uso adequado de conectivos e transições entre parágrafos.",
+      "Há alguns erros pontuais de digitação/gramática ('nações Unidas' com minúscula, 'a aquela', 'de tensionamento', 'medida de adequada') que, embora não comprometam a compreensão, representam descuidos que penalizam a nota.",
+      "A linguagem é adequada ao registro formal exigido pelo concurso, com vocabulário preciso e pertinente à área de relações internacionais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"nações Unidas\" com 'n' minúsculo em duas ocorrências no primeiro parágrafo — deve ser 'Nações Unidas'",
+      "\"perturbadores da Paz\" com 'P' maiúsculo indevido em 'Paz'",
+      "\"a aquela\" — artigo duplicado/desnecessário: deveria ser 'que aquela'",
+      "\"de tensionamento\" — separação indevida; o correto seria 'distensionamento' ou 'detensionamento'",
+      "\"medida de adequada\" — preposição 'de' indevida; deveria ser 'medida adequada'",
+      "Falta de vírgula após 'em particular do CSNU' — deveria haver vírgula para fechar o aposto: 'e, em particular, do CSNU,'",
+      "\"É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos\" — regência: 'constatar' é transitivo direto, mas o uso de 'se pode constatar os efeitos' é aceitável em registro formal; porém, seria mais adequado 'constatarem-se os efeitos'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia a tese, desenvolvimento em três eixos temáticos bem definidos (reforma do CSNU, desarmamento nuclear e prevenção de conflitos) e conclusão que retoma e sintetiza os argumentos.",
+      "O candidato demonstra sólido conhecimento do tema, mobilizando exemplos pertinentes como o G-4, o caso das Ilhas Marshall, o TPAN, a Resolução 1973 sobre a Líbia e o conceito de 'Responsabilidade ao Proteger', dialogando adequadamente com os textos motivadores.",
+      "A argumentação é coerente e bem encadeada, com uso adequado de conectivos e transições entre parágrafos. O candidato consegue articular os elementos propostos no enunciado de forma integrada.",
+      "Há alguns erros gramaticais que comprometem levemente a qualidade do texto, como a grafia de 'nações Unidas' com minúscula, a duplicação de artigo ('a aquela'), e a separação indevida de 'detensionamento'.",
+      "A linguagem é adequada ao contexto do concurso diplomático, com registro formal e vocabulário apropriado. A capacidade de reflexão crítica é demonstrada ao qualificar os argumentos dos embaixadores, reconhecendo sua atualidade mas apontando suas limitações."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'nações Unidas' com 'n' minúsculo em duas ocorrências — deve ser 'Nações Unidas'",
+      "'a aquela' — artigo duplicado/inadequado; deveria ser 'aquela' apenas",
+      "'o de tensionamento' — erro de digitação/separação indevida; deveria ser 'o distensionamento' ou 'o detensionamento'",
+      "'medida de adequada' — uso indevido da preposição 'de'; deveria ser 'medida adequada'",
+      "'É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos' — falta de concordância; deveria ser 'podem constatar' ou 'pode constatar' com objeto no singular; mais precisamente, o verbo 'constatar' rege objeto direto plural, sugerindo 'se podem constatar os efeitos'",
+      "'em particular do CSNU' — falta de vírgula após 'CSNU' para fechar o aposto intercalado: 'em particular, do CSNU,'",
+      "'perturbadores da Paz' — 'Paz' com maiúscula indevida no meio do texto"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia a tese, desenvolvimento em três eixos temáticos bem definidos (reforma da ONU, desarmamento nuclear e prevenção de conflitos) e conclusão que retoma e sintetiza os argumentos.",
+      "O candidato demonstra sólido conhecimento do tema, mobilizando exemplos pertinentes como o G-4, o caso das Ilhas Marshall, o TPAN, a Resolução 1973 sobre a Líbia e o conceito de 'Responsabilidade ao Proteger', evidenciando domínio do contexto das relações exteriores do Brasil.",
+      "A articulação com os textos motivadores é bem feita: o candidato dialoga diretamente com as expressões dos embaixadores Souza Dantas e Velloso, qualificando e atualizando seus argumentos de forma crítica e analítica.",
+      "A capacidade argumentativa é notável, com encadeamento lógico entre os parágrafos e uso adequado de conectivos e marcadores discursivos.",
+      "Há alguns erros pontuais de digitação e grafia (como 'nações Unidas' com minúscula, 'a aquela', 'de tensionamento') que, embora não comprometam gravemente a compreensão, revelam falta de revisão final e devem ser penalizados.",
+      "A linguagem é adequada ao gênero dissertativo-argumentativo e ao nível de formalidade exigido pelo CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'nações Unidas' com 'n' minúsculo em duas ocorrências ('Conselho de Segurança das nações Unidas' e 'reforma das nações Unidas') — deve ser 'Nações Unidas'.",
+      "'a aquela' — artigo duplicado ou erro de digitação; deveria ser 'aquela' sem o artigo 'a' precedente.",
+      "'o de tensionamento' — erro de digitação/separação indevida; deveria ser 'o distensionamento' ou 'o detensionamento'.",
+      "'acirrava-os' — forma verbal com duplo 'r' incorreto no contexto; o correto seria 'acirrava-os' (embora a grafia esteja correta, o problema é de coesão, pois o referente 'conflitos' não está claro no período).",
+      "Falta de vírgula após 'em particular' na construção 'e, em particular do CSNU' — deveria ser 'e, em particular, do CSNU'.",
+      "'constatar os efeitos' — regência: 'constatar' com sujeito oracional exige 'constatarem-se os efeitos' ou ajuste na construção para manter concordância adequada.",
+      "'Paz' com maiúscula em 'perturbadores da Paz' — inconsistência; deveria ser 'paz' com minúscula, como no restante do texto."
+    ],
+    "feedbacks": [
+      "O texto apresenta uma estrutura bem organizada, com introdução clara que anuncia a tese, parágrafos de desenvolvimento temáticos (reforma da ONU, desarmamento nuclear, prevenção de conflitos) e conclusão que retoma os argumentos centrais. Essa organização demonstra domínio da forma dissertativa.",
+      "A argumentação é pertinente e bem articulada, dialogando diretamente com os trechos dos discursos citados no enunciado. O candidato demonstra conhecimento substantivo sobre política externa brasileira, citando exemplos concretos como o G-4, o caso das Ilhas Marshall, o TPAN e a Resolução 1973 sobre a Líbia.",
+      "A tese central — de que os argumentos permanecem atuais, mas a confiança nas grandes potências não se justificou pelos resultados — é bem sustentada ao longo do texto, conferindo coerência ao conjunto.",
+      "Há alguns deslizes gramaticais e de revisão (como 'nações Unidas' com minúscula, 'a aquela', 'o de tensionamento') que, embora não comprometam a compreensão, prejudicam a qualidade formal esperada no nível do CACD.",
+      "O texto poderia aprofundar mais a discussão sobre a máxima 'o perturbador da paz está sempre errado', problematizando, por exemplo, a dificuldade de definir quem é o perturbador em contextos de conflitos assimétricos ou guerras civis, o que traria maior sofisticação analítica.",
+      "A menção ao conceito de 'Responsabilidade ao Proteger' (RwP), proposto pelo Brasil em 2011, teria enriquecido a discussão sobre o caso líbio e a posição brasileira sobre prevenção de conflitos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"nações Unidas\" com 'n' minúsculo em duas ocorrências no primeiro parágrafo — deve ser 'Nações Unidas'.",
+      "\"a aquela\" — artigo duplicado/desnecessário: deveria ser 'que aquela' ou 'que a aquela' está incorreto; o correto seria 'que aquela'.",
+      "\"o de tensionamento\" — erro de digitação/separação indevida; o correto seria 'o destensionamento' ou 'o distensionamento'.",
+      "\"medida de adequada\" — preposição 'de' indevida; o correto seria 'medida adequada'.",
+      "\"É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos\" — regência: 'constatar' é transitivo direto, mas com sujeito oracional o verbo deveria concordar ou usar 'constatarem-se'; alternativamente, falta crase ou ajuste sintático.",
+      "\"em particular do CSNU\" — falta vírgula após 'CSNU' para fechar o aposto intercalado: 'em particular, do CSNU,'.",
+      "\"a qual estabelecia uma área de exclusão aérea foi oferecida\" — falta vírgula após 'aérea' para fechar a oração adjetiva explicativa."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura bem organizada, com introdução clara que anuncia a tese, desenvolvimento em três eixos temáticos (reforma do CSNU, desarmamento nuclear e prevenção de conflitos) e conclusão que retoma os argumentos centrais. Essa organização demonstra planejamento textual e facilita a leitura.",
+      "O candidato demonstra bom domínio do tema, mobilizando exemplos pertinentes como o G-4, o caso das Ilhas Marshall, o TPAN, a Resolução 1973 sobre a Líbia e o conceito de 'Responsabilidade ao Proteger'. As ilustrações são adequadas e dialogam com os elementos propostos pelo enunciado.",
+      "A articulação com os trechos dos discursos é bem feita: o candidato não apenas cita os embaixadores, mas qualifica seus argumentos à luz do contexto contemporâneo, o que demonstra capacidade analítica e reflexiva.",
+      "Há alguns deslizes gramaticais e de digitação que comprometem levemente a fluência do texto, como 'de tensionamento' (por 'distensionamento'), 'medida de adequada', 'a aquela' e 'nações Unidas' com minúscula. Embora não sejam erros graves isoladamente, sua recorrência sugere necessidade de revisão mais cuidadosa.",
+      "A argumentação, embora coerente e bem fundamentada, poderia ser mais sofisticada em alguns pontos. Por exemplo, a discussão sobre o desarmamento nuclear poderia explorar com mais profundidade as tensões entre o TNP e o TPAN, e a análise sobre a Líbia poderia mencionar explicitamente o conceito brasileiro de 'Responsabilidade ao Proteger' (RwP).",
+      "A conclusão é funcional, mas poderia ser mais incisiva e propositiva, indo além da constatação de que a confiança nas grandes potências foi perdida para sugerir caminhos mais concretos para a política externa brasileira."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"nações Unidas\" com 'n' minúsculo em duas ocorrências no primeiro parágrafo — deve ser 'Nações Unidas'.",
+      "\"perturbadores da Paz\" com 'P' maiúsculo indevido em 'Paz' no terceiro parágrafo.",
+      "\"a aquela\" — artigo duplicado/desnecessário: deveria ser 'aquela' ou 'a' (quarto parágrafo).",
+      "\"o de tensionamento\" — erro de digitação/separação indevida; deveria ser 'o destensionamento' ou 'o distensionamento' (quarto parágrafo).",
+      "\"não era uma medida de adequada\" — preposição 'de' indevida; deveria ser 'não era uma medida adequada' (quarto parágrafo).",
+      "\"É no que diz respeito à prevenção de conflitos que se pode constatar os efeitos\" — regência: 'constatar' é transitivo direto, mas o pronome 'se' indetermina o sujeito; a construção ficaria mais adequada como 'podem-se constatar os efeitos' ou 'é possível constatar os efeitos'.",
+      "\"em particular do CSNU\" — falta vírgula após 'CSNU' para fechar o aposto intercalado: 'em particular, do CSNU,'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura argumentativa, com introdução clara que anuncia a tese, desenvolvimento em três eixos temáticos (reforma da ONU, desarmamento nuclear e prevenção de conflitos) e conclusão que retoma os argumentos centrais.",
+      "O candidato demonstra conhecimento sólido do tema, mobilizando exemplos pertinentes como o G-4, o caso das Ilhas Marshall, o TPAN, a Resolução 1973 sobre a Líbia e o conceito de 'Responsabilidade ao Proteger', ainda que este último não seja nomeado explicitamente.",
+      "A articulação com os trechos dos discursos é bem feita, retomando as expressões dos embaixadores ao longo do texto de forma orgânica.",
+      "Há alguns erros de digitação e gramaticais que comprometem levemente a qualidade formal do texto, como 'nações Unidas' com minúscula, 'a aquela', 'de tensionamento' e 'medida de adequada'.",
+      "A argumentação, embora coerente e bem fundamentada, poderia ser mais sofisticada na análise crítica — por exemplo, explorando com maior profundidade as tensões entre o princípio da igualdade soberana e a realidade do poder no sistema internacional, ou discutindo a posição brasileira de forma mais nuançada.",
+      "A conclusão é funcional, mas poderia ser mais incisiva e original, indo além da reiteração dos argumentos já apresentados."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.5,
+    "nota_1C": 16.5,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Espaço indevido antes da vírgula em 'representa , portanto'",
+      "Espaço duplo indevido em 'destarte,  três'",
+      "Repetição de 'uma mudança de paradigma' em frases consecutivas no segundo parágrafo, configurando erro de revisão/redundância estrutural",
+      "Vírgula em vez de ponto em 'foi célere, O CSNU condenou' — deveria ser ponto final ou ponto e vírgula, e 'O' maiúsculo indica intenção de nova frase",
+      "Espaço indevido antes de 'assumissem' em 'Aliados  assumissem'",
+      "Vírgula indevida em 'um CSNU mais justo, é, também, um CNU mais efetivo' — vírgula separando sujeito de predicado",
+      "Erro de digitação: 'CNU' em vez de 'CSNU' na última frase do texto"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização geral, com introdução que contextualiza os discursos de 1946, desenvolvimento que analisa os elementos propostos pelo enunciado e conclusão que sintetiza a argumentação. A estrutura em parágrafos é clara e o texto flui de maneira lógica.",
+      "O candidato demonstra bom domínio do tema, articulando conceitos como jus ad bellum e jus contra bellum, a estrutura do CSNU, o mecanismo do veto e a proposta de reforma do G4. As ilustrações são pertinentes: I Guerra do Golfo, conflito na Síria, Declaração de Teerã (2010), conceito de 'responsabilidade ao proteger' (2011) e a citação de Saraiva Guerreiro.",
+      "A capacidade de análise é boa, especialmente na articulação entre os princípios de pacifismo e igualdade e na argumentação de que a consolidação do jus contra bellum permite hoje avançar na reforma do CSNU sem perda de efetividade. Contudo, a análise poderia ser mais aprofundada em alguns pontos: a discussão sobre 'confiar nas grandes potências' poderia explorar mais criticamente os limites dessa confiança no contexto atual (guerra na Ucrânia, por exemplo); a afirmação de que 'o perturbador da paz está sempre errado' mereceria maior problematização à luz de situações contemporâneas complexas.",
+      "Há uma repetição estrutural significativa no segundo parágrafo ('mudança de paradigma' aparece duas vezes em frases consecutivas), o que sugere falha de revisão. O erro de digitação na última frase ('CNU' em vez de 'CSNU') prejudica a impressão final do texto.",
+      "No geral, trata-se de uma redação de bom nível, com argumentação sólida, boas ilustrações e domínio razoável da língua portuguesa, embora com alguns deslizes que comprometem parcialmente a nota em correção gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Espaço indevido antes da vírgula em 'representa , portanto'",
+      "Espaço duplo indevido em 'destarte,  três'",
+      "Repetição de 'uma mudança de paradigma' em duas frases consecutivas no segundo parágrafo, configurando erro de revisão/redundância estrutural",
+      "Vírgula onde deveria haver ponto em 'foi célere, O CSNU condenou' — a maiúscula indica início de nova frase, mas há vírgula em vez de ponto",
+      "Espaço indevido em 'os Aliados  assumissem'",
+      "Vírgula indevida separando sujeito e predicado em 'Hoje, um CSNU mais justo, é, também, um CNU mais efetivo' — a vírgula após 'justo' separa sujeito de verbo",
+      "Erro de digitação: 'CNU' em vez de 'CSNU' na última frase do texto"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que identifica os princípios estruturantes (pacifismo, igualdade e equilíbrio entre idealismo e pragmatismo), desenvolvimento bem articulado e conclusão coerente. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A capacidade de argumentação é muito boa. O candidato mobiliza com pertinência os elementos do enunciado — 'perturbador da paz está sempre errado', 'preço muito alto pago por pequenos e médios países', aceitação pragmática do veto e confiança nas grandes potências — articulando-os de forma sistemática ao longo do texto. As ilustrações são adequadas: I Guerra do Golfo, genocídio de Ruanda, conflito na Síria, Declaração de Teerã (2010), conceito de 'responsabilidade ao proteger' (2011) e proposta do G4.",
+      "A capacidade de análise e reflexão é sólida. O candidato demonstra compreensão da evolução do paradigma jurídico internacional (jus ad bellum para jus contra bellum) e constrói um argumento original ao sustentar que a consolidação desse novo paradigma permite hoje avançar o ideal de igualdade sem comprometer a paz — superando a tensão original identificada por Leão Velloso. A menção ao soft power e à frase de Saraiva Guerreiro enriquece a análise. Contudo, poderia ter aprofundado mais a discussão sobre os limites da confiança nas grandes potências (por exemplo, a guerra da Ucrânia e o uso do veto pela Rússia em 2022) e explorado com mais nuance a complexidade da reforma do CSNU, incluindo as resistências dos P5.",
+      "Há uma repetição estrutural significativa no segundo parágrafo ('uma mudança de paradigma' aparece duas vezes em frases consecutivas), o que sugere falha de revisão. O erro de digitação na última frase ('CNU' em vez de 'CSNU') prejudica a impressão final do texto. A pontuação apresenta alguns deslizes (vírgula em vez de ponto, espaços indevidos). No geral, porém, a linguagem é precisa e o domínio gramatical é bom."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.5,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Espaço indevido antes da vírgula em 'representa , portanto'",
+      "Espaço duplo indevido em 'destarte,  três'",
+      "Repetição de 'uma mudança de paradigma' em duas frases consecutivas no segundo parágrafo, configurando erro de revisão/redundância estrutural",
+      "Vírgula onde deveria haver ponto final: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' — uso de vírgula seguida de maiúscula indica erro de pontuação (deveria ser ponto final ou ponto e vírgula)",
+      "Espaço indevido antes de 'assumissem' em 'os Aliados  assumissem'",
+      "Vírgula indevida em 'um CSNU mais justo, é, também, um CNU mais efetivo' — vírgula separando sujeito de predicado",
+      "Erro de digitação: 'CNU' em vez de 'CSNU' na última frase do texto"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que identifica os princípios centrais dos discursos citados, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma e sintetiza os argumentos. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A capacidade de argumentação é muito boa. O candidato articula com competência os quatro elementos sugeridos pelo enunciado — o perturbador da paz, o preço pago por pequenos e médios países, a aceitação pragmática do veto e a confiança nas grandes potências — integrando-os em uma narrativa coerente sobre a evolução da posição brasileira. As ilustrações são pertinentes: I Guerra do Golfo, genocídio de Ruanda, conflito na Síria, Declaração de Teerã (2010), responsabilidade ao proteger (2011) e o G4.",
+      "A capacidade de análise e reflexão é sólida. O candidato demonstra compreensão da tensão entre igualdade jurídica e efetividade do sistema de segurança coletiva, e propõe uma leitura evolutiva — de que o contexto de 1945 justificava a concessão do veto, mas que a consolidação do jus contra bellum permite hoje avançar na reforma do CSNU sem perda de efetividade. A menção à frase de Saraiva Guerreiro sobre 'excedentes de poder' e a articulação entre soft power e manutenção da paz enriquecem a análise. Contudo, a reflexão poderia ter sido mais aprofundada em alguns pontos: a discussão sobre a eficácia real do sistema de veto poderia ter sido mais nuançada (por exemplo, a paralisia do CSNU na Guerra Fria), e a afirmação de que 'o perturbador da paz está sempre errado' mereceria maior problematização à luz de casos contemporâneos complexos.",
+      "A repetição da expressão 'mudança de paradigma' em frases consecutivas no segundo parágrafo é um erro de revisão que prejudica a fluidez do texto. O erro de digitação 'CNU' na última frase compromete a impressão final. A vírgula separando sujeito e predicado na frase final também é um deslize relevante.",
+      "No geral, trata-se de uma redação de alto nível, com domínio do tema, boa articulação argumentativa e conhecimento demonstrado da política externa brasileira e do sistema ONU. Os erros identificados são relativamente menores e não comprometem substancialmente a qualidade do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Espaço indevido antes da vírgula em 'representa , portanto'",
+      "Espaço duplo indevido em 'destarte,  três'",
+      "Repetição de 'uma mudança de paradigma' em frases consecutivas no segundo parágrafo (erro de revisão/redundância estrutural)",
+      "Uso de vírgula em vez de ponto final: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' — deveria ser ponto final antes de 'O CSNU'",
+      "Espaço indevido em 'os Aliados  assumissem'",
+      "Erro de digitação no último período: 'um CNU mais efetivo' em vez de 'um CSNU mais efetivo'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que identifica os princípios centrais dos discursos, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma e sintetiza os argumentos.",
+      "O candidato demonstra sólido conhecimento do tema, mobilizando conceitos como jus ad bellum e jus contra bellum, a reforma do CSNU, o G4, a Declaração de Teerã (2010), o conceito de 'responsabilidade ao proteger' e a citação de Saraiva Guerreiro, todos pertinentes e bem articulados.",
+      "A argumentação é coerente e bem encadeada: o candidato parte da justificativa histórica do veto, reconhece suas limitações com exemplos concretos (Síria, Ruanda), e constrói o argumento de que a reforma do CSNU conciliaria pragmatismo e idealismo.",
+      "Todos os elementos sugeridos pelo enunciado foram abordados de forma integrada e analítica, demonstrando capacidade de reflexão crítica sobre a atualidade dos argumentos dos embaixadores.",
+      "A repetição de 'mudança de paradigma' no segundo parágrafo prejudica a fluidez do texto e sugere falha de revisão. O erro de digitação 'CNU' no último período é infeliz por ocorrer justamente na frase de encerramento.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário preciso, embora haja pequenos deslizes de pontuação e espaçamento que poderiam ser evitados com revisão mais cuidadosa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Espaço indevido antes da vírgula em 'representa , portanto'",
+      "Espaço duplo indevido em 'destarte,  três'",
+      "Repetição de 'uma mudança de paradigma' em frases consecutivas no segundo parágrafo (erro de revisão/redundância estrutural)",
+      "Uso de vírgula em vez de ponto final: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' — deveria ser ponto final antes de 'O CSNU'",
+      "Espaço indevido em 'os Aliados  assumissem'",
+      "Erro de digitação no último período: 'um CNU mais efetivo' em vez de 'um CSNU mais efetivo'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que identifica os princípios centrais dos discursos, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma e sintetiza os argumentos.",
+      "O candidato demonstra sólido conhecimento do tema, articulando conceitos como jus ad bellum e jus contra bellum, a reforma do CSNU, o G4, a Declaração de Teerã (2010), o conceito de 'responsabilidade ao proteger' e a citação de Saraiva Guerreiro, todos pertinentes e bem contextualizados.",
+      "A argumentação é coerente e bem encadeada, mostrando a evolução histórica do sistema de segurança coletiva e a posição brasileira, equilibrando pragmatismo e idealismo conforme solicitado pelo enunciado.",
+      "O texto aborda de forma satisfatória os quatro elementos sugeridos pelo enunciado, com ilustrações pertinentes (Guerra do Golfo, Síria, questão nuclear iraniana, Líbia).",
+      "A repetição da expressão 'mudança de paradigma' no segundo parágrafo e o erro de digitação 'CNU' no último período prejudicam levemente a qualidade do texto. A vírgula usada onde deveria haver ponto final (no trecho sobre a Guerra do Golfo) configura erro de pontuação relevante.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal bem mantido ao longo de todo o texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Espaço indevido antes da vírgula em 'representa , portanto'",
+      "Espaço duplo indevido em 'destarte,  três'",
+      "Repetição de 'uma mudança de paradigma' em frases consecutivas no segundo parágrafo (erro de revisão/redundância estrutural)",
+      "Vírgula em vez de ponto final: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' — deveria ser ponto final antes de 'O CSNU'",
+      "Espaço indevido em 'os Aliados  assumissem'",
+      "Vírgula indevida em 'Hoje, um CSNU mais justo, é, também, um CNU mais efetivo' — vírgula entre sujeito e verbo",
+      "'CNU' em vez de 'CSNU' no último período — provável erro de digitação/revisão"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que identifica os princípios centrais dos discursos, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma e sintetiza os argumentos.",
+      "O candidato demonstra sólido conhecimento do tema, mobilizando conceitos como jus ad bellum e jus contra bellum, a reforma do CSNU, o G4, a Declaração de Teerã (2010), o conceito de 'responsabilidade ao proteger' e a citação de Saraiva Guerreiro, todos pertinentes e bem articulados.",
+      "Todos os elementos sugeridos pelo enunciado foram abordados de forma integrada e coerente: o perturbador da paz, o preço pago por pequenos e médios países, a aceitação pragmática do veto e a confiança nas grandes potências.",
+      "A argumentação é bem construída, com boa capacidade de reflexão crítica ao mostrar a evolução histórica que justifica a atualização da posição brasileira — de aceitação pragmática do veto em 1945 para a defesa de reforma do CSNU na atualidade.",
+      "A repetição de 'mudança de paradigma' no segundo parágrafo é um deslize de revisão que prejudica a fluidez do texto. O erro 'CNU' no último período compromete o fechamento da redação.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal. A capacidade argumentativa é notável, embora alguns pequenos erros de pontuação e revisão impeçam a nota máxima."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Espaço indevido antes da vírgula em 'representa , portanto'",
+      "Espaço duplo indevido em 'destarte,  três'",
+      "Repetição de 'uma mudança de paradigma' em frases consecutivas no segundo parágrafo (erro de revisão/redundância estrutural)",
+      "Uso de vírgula em vez de ponto em 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' — deveria ser ponto final ou ponto e vírgula antes de 'O CSNU'",
+      "Espaço indevido antes de 'assumissem' em 'entre os Aliados  assumissem'",
+      "Erro de digitação no último período: 'um CNU mais efetivo' em vez de 'um CSNU mais efetivo'; além disso, vírgula indevida em 'um CSNU mais justo, é, também' — o sujeito não deve ser separado do verbo por vírgula"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura bem organizada, com introdução clara que identifica os princípios centrais (pacifismo e igualdade), desenvolvimento articulado em parágrafos temáticos e conclusão que retoma e sintetiza os argumentos.",
+      "O candidato demonstra bom domínio do tema, mobilizando referências pertinentes como a I Guerra do Golfo, o conflito na Síria, a Declaração de Teerã (2010), o conceito de 'responsabilidade ao proteger', o G4 e a citação de Saraiva Guerreiro, o que evidencia repertório sólido em política externa brasileira.",
+      "A articulação entre os elementos propostos pelo enunciado é bem conduzida: o texto discute todos os quatro elementos sugeridos ('perturbador da paz', 'preço alto pago por pequenos e médios países', aceitação do veto em espírito construtivo e confiança nas grandes potências), integrando-os em uma narrativa coerente.",
+      "A repetição literal de 'uma mudança de paradigma' em duas frases consecutivas no segundo parágrafo é um deslize de revisão que prejudica a fluidez do texto e sugere falta de releitura final.",
+      "O erro de digitação no último período ('CNU' em vez de 'CSNU') e a vírgula separando sujeito de verbo comprometem o fechamento do texto, que é um momento crucial para a impressão final do avaliador.",
+      "A argumentação, embora competente e bem fundamentada, poderia ganhar maior sofisticação ao problematizar mais profundamente a tensão entre os princípios — por exemplo, discutindo casos em que o pacifismo e a igualdade entram em conflito direto, ou explorando as limitações do pleito reformista brasileiro diante da resistência dos P5. A análise tende a ser mais descritiva do que criticamente aprofundada em alguns momentos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Espaço indevido antes da vírgula em 'representa , portanto'",
+      "Duplo espaço antes de 'três elementos' (espaçamento irregular)",
+      "Uso de vírgula antes de 'O CSNU condenou o ataque' onde deveria haver ponto final ou ponto e vírgula: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' — o 'O' maiúsculo indica início de frase, mas a vírgula sugere continuidade",
+      "Espaço indevido antes de 'assumissem' em 'entre os Aliados  assumissem'",
+      "Repetição estrutural no segundo parágrafo: 'impôs, ao elencar como seu principal objetivo a manutenção da paz, uma mudança de paradigma. Consolidou-se o jus contra bellum' — a expressão 'mudança de paradigma' aparece duas vezes em frases consecutivas",
+      "No último parágrafo, 'um CNU mais efetivo' em vez de 'um CSNU mais efetivo' — provável erro de digitação/omissão de letras"
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução que contextualiza os discursos, desenvolvimento que analisa os elementos propostos pelo enunciado e conclusão que articula os argumentos. O encadeamento lógico é claro e coerente.",
+      "O candidato demonstra bom domínio do tema, mobilizando exemplos pertinentes como a I Guerra do Golfo, o conflito na Síria, a Declaração de Teerã (2010), o conceito de 'responsabilidade ao proteger' e a proposta do G4, o que evidencia conhecimento sólido de política externa brasileira e relações internacionais.",
+      "A articulação entre os conceitos de jus ad bellum e jus contra bellum é bem conduzida e confere profundidade analítica ao texto, embora a repetição de 'mudança de paradigma' no segundo parágrafo prejudique a fluidez.",
+      "O texto aborda de forma satisfatória os quatro elementos sugeridos pelo enunciado, embora a discussão sobre 'confiar nas grandes potências' pudesse ser mais aprofundada, especialmente à luz de eventos recentes como a guerra na Ucrânia e o uso do veto pela Rússia nesse contexto.",
+      "A linguagem é adequada ao gênero dissertativo-argumentativo e ao contexto do CACD, com vocabulário apropriado e uso de terminologia diplomática. Há, contudo, pequenos deslizes de revisão (espaçamentos, a vírgula seguida de maiúscula, e o erro de digitação 'CNU' no fechamento do texto, que compromete justamente a frase final).",
+      "Para alcançar uma faixa superior, o candidato poderia aprofundar a análise crítica sobre os limites do argumento de Souza Dantas ('o perturbador da paz está sempre errado') à luz de situações contemporâneas em que a definição de 'perturbador' é disputada, e explorar com mais nuance as tensões entre pragmatismo e idealismo na política externa brasileira atual."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2020-2021"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "Espaço indevido antes da vírgula em 'representa , portanto'",
+      "Espaço duplo indevido em 'destarte,  três'",
+      "Repetição de 'uma mudança de paradigma' em frases consecutivas no segundo parágrafo (erro de revisão/redundância estrutural)",
+      "Uso de vírgula em vez de ponto final: 'A resposta da comunidade internacional foi célere, O CSNU condenou o ataque' — deveria ser ponto final antes de 'O CSNU'",
+      "Espaço indevido em 'os Aliados  assumissem'",
+      "Erro de digitação no último período: 'um CNU mais efetivo' em vez de 'um CSNU mais efetivo'"
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução clara que identifica os princípios centrais dos discursos (pacifismo, igualdade e equilíbrio entre idealismo e pragmatismo), desenvolvimento consistente e conclusão que retoma e sintetiza os argumentos.",
+      "O candidato demonstra bom domínio do tema, articulando conceitos como jus ad bellum e jus contra bellum, a evolução do CSNU, o instituto do veto e o pleito reformista brasileiro com pertinência e precisão.",
+      "As ilustrações são adequadas e variadas: I Guerra do Golfo, genocídio de Ruanda, conflito na Síria, Declaração de Teerã (2010), conceito de 'responsabilidade ao proteger' (2011) e a proposta do G4. Isso demonstra repertório sólido.",
+      "A articulação entre os elementos propostos pelo enunciado é bem conduzida, com o candidato dialogando com as quatro frases sugeridas ao longo do texto de forma orgânica.",
+      "A repetição literal de 'uma mudança de paradigma' em frases consecutivas no segundo parágrafo prejudica a fluidez e revela falha de revisão. O erro de digitação 'CNU' no último período é infeliz por ocorrer justamente na frase de encerramento.",
+      "A argumentação, embora competente, poderia ser mais sofisticada na problematização: a ideia de que 'o perturbador da paz está sempre errado' mereceria maior reflexão crítica (por exemplo, questionando quem define o perturbador ou os limites dessa máxima). A análise tende a ser mais descritiva do que analítica em alguns trechos.",
+      "O domínio da norma culta é bom, com vocabulário adequado ao registro diplomático, embora os erros de pontuação e digitação mencionados comprometam ligeiramente a qualidade formal."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2020-2021"
+  }
+]

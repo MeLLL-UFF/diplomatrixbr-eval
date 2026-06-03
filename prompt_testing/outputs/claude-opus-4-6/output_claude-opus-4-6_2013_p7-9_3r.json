@@ -1,0 +1,899 @@
+[
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso impreciso de 'responsáveis para que' — o correto seria 'responsáveis por que' ou 'responsáveis por fazer com que'.",
+      "Uso de 'porquanto' em contexto que seria mais adequado 'pois' ou 'já que', gerando leve inadequação estilística recorrente, embora não seja erro gramatical estrito. Contabiliza-se apenas uma ocorrência como desvio de propriedade da linguagem.",
+      "Falta de vírgula antes de 'pois' em 'é o debate multilateral, pois somente o consenso' — embora presente, há inconsistência no uso de vírgulas antes de conjunções coordenativas ao longo do texto."
+    ],
+    "feedbacks": [
+      "1A - Apresentação e impressão geral: O texto é bem estruturado, com introdução, desenvolvimento em múltiplos parágrafos e conclusão. A progressão temática é clara e o estilo é adequado ao gênero dissertativo-argumentativo. A coerência é mantida ao longo do texto, com boa articulação entre os parágrafos por meio de conectivos e retomadas temáticas. O recurso de enquadramento com a referência a Huntington na introdução e na conclusão confere unidade ao texto, embora a pertinência dessa referência seja discutível. Nota: 8.5",
+      "1B - Capacidade de argumentação: O candidato demonstra conhecimento sobre o tema, mencionando elementos relevantes como a deterioração dos termos de troca, a OMC, o G-20 comercial, a eleição de Roberto Azevêdo e os subsídios agrícolas. Contudo, a argumentação poderia ser mais aprofundada em relação às 'semelhanças e diferenças de percepção' entre os dois textos, conforme solicitado pelo enunciado. O candidato trata os textos de forma mais implícita do que explícita, sem confrontá-los diretamente de maneira sistemática. A referência a Huntington, embora criativa, é tangencial ao tema proposto e ocupa espaço que poderia ser dedicado a uma análise mais direta dos fragmentos. Nota: 7.5",
+      "1C - Capacidade de análise e reflexão: O candidato apresenta uma narrativa evolutiva do comércio internacional (da década de 1960 ao contexto atual), o que demonstra capacidade de contextualização histórica. No entanto, a análise das diferenças entre os dois textos é superficial. O Texto I apresenta uma visão crítica e pessimista do comércio internacional como fator de empobrecimento relativo, enquanto o Texto II apresenta uma visão mais otimista e propositiva. O candidato não explora suficientemente essa tensão entre as duas perspectivas, tendendo a apresentar uma narrativa linear de progresso sem problematizar adequadamente as contradições persistentes. A reflexão sobre os obstáculos remanescentes (penúltimo parágrafo) é breve e poderia ser mais desenvolvida. Nota: 6.5",
+      "Correção gramatical e propriedade da linguagem: O texto apresenta poucos erros gramaticais, demonstrando bom domínio da norma culta. A linguagem é formal e adequada ao contexto do concurso. Foram identificados 3 desvios, resultando em desconto de 3.0 pontos sobre o máximo de 30.0, totalizando 27.0 pontos neste critério."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso impreciso de 'responsáveis para que' — o mais adequado seria 'responsáveis por que' ou 'responsáveis por fazer com que'.",
+      "Uso de 'porquanto' em contexto que seria mais adequado 'pois' ou 'já que' — embora não seja erro estrito, há uso excessivo e por vezes forçado dessa conjunção ao longo do texto.",
+      "Vírgula desnecessária em 'defende a continuidade da evolução do sistema de comércio internacional, e a eleição de Roberto Azevêdo' — vírgula antes de 'e' ligando orações com sujeitos diferentes é aceitável, mas aqui gera ambiguidade sobre se é coordenação ou novo período; trata-se de uso questionável."
+    ],
+    "feedbacks": [
+      "1A - Apresentação e impressão geral: O texto é bem estruturado, com introdução, desenvolvimento em múltiplos parágrafos e conclusão. A coerência é mantida ao longo de toda a redação, com transições adequadas entre os parágrafos. O estilo é formal e compatível com o esperado no CACD. A legibilidade é boa. A referência a Huntington na introdução e na conclusão confere unidade ao texto, embora a pertinência dessa moldura teórica seja discutível. Nota: 8.5",
+      "1B - Capacidade de argumentação: O candidato demonstra conhecimento sobre a evolução do comércio internacional, mencionando a deterioração dos termos de troca, a criação da OMC, a eleição de Roberto Azevêdo, o G-20 comercial e os subsídios agrícolas. Contudo, a argumentação poderia ser mais aprofundada em alguns pontos: a referência à década de 1960 carece de menção explícita à UNCTAD ou à Conferência de Prebisch, que dialogaria diretamente com o Texto I. A análise das 'semelhanças e diferenças de percepção' entre os dois textos, conforme solicitado pelo enunciado, é feita de forma implícita, mas não é explicitamente articulada — o candidato não confronta diretamente os dois fragmentos. Nota: 7.5",
+      "1C - Capacidade de análise e reflexão: O candidato demonstra capacidade de contextualizar historicamente o tema e de articular diferentes dimensões (econômica, diplomática, institucional). A reflexão sobre a evolução do sistema comercial internacional é pertinente. No entanto, a análise poderia ser mais crítica e menos otimista — o texto tende a apresentar uma narrativa linear de progresso sem problematizar suficientemente as contradições persistentes. A moldura teórica de Huntington, embora criativa, é tangencial ao tema proposto e ocupa espaço que poderia ser dedicado a uma análise mais direta dos textos motivadores. A reflexão sobre as diferenças entre os dois textos — um mais pessimista (Texto I, de Araújo Castro, anos 1960) e outro mais propositivo (Texto II, de Dilma Rousseff, 2013) — poderia ter sido mais explícita e aprofundada. Nota: 7.0",
+      "Correção gramatical: O texto apresenta poucos erros gramaticais. A linguagem é formal e adequada. Foram identificados 3 desvios, sendo alguns de natureza mais estilística que propriamente gramatical. O vocabulário é variado e preciso. A pontuação é, em geral, bem empregada."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.0,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso impreciso de 'responsáveis para que' — o correto seria 'responsáveis por que' ou 'responsáveis por fazer com que'.",
+      "Uso de 'porquanto' em contexto que seria mais adequado 'pois' ou 'já que' — embora não seja erro estrito, há uso excessivo e por vezes forçado de conectivos causais eruditos.",
+      "Vírgula desnecessária em 'defende a continuidade da evolução do sistema de comércio internacional, e a eleição de Roberto Azevêdo' — vírgula antes de 'e' ligando orações com sujeitos diferentes é aceitável, mas aqui gera ambiguidade sobre se é coordenação ou novo período."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão. A estrutura é clara e o estilo é formal e adequado ao gênero dissertativo-argumentativo do CACD. A coerência é mantida ao longo do texto, com transições razoáveis entre os parágrafos. A retomada do argumento de Huntington na conclusão confere circularidade ao texto. Contudo, a referência a Huntington na introdução é algo forçada e tangencial ao tema proposto, funcionando mais como ornamento do que como elemento analítico substantivo. Nota: 8.5",
+      "1B – Capacidade de argumentação: O candidato demonstra conhecimento sobre a evolução do comércio internacional e a atuação diplomática brasileira. Há menções pertinentes à deterioração dos termos de troca, à OMC, ao G-20 comercial e à eleição de Roberto Azevêdo. Entretanto, a argumentação carece de maior profundidade analítica sobre os textos motivadores. O Texto I (de Araújo Castro) é abordado de forma genérica, sem explorar adequadamente os mecanismos de deterioração das relações de troca ou o contexto histórico específico. O Texto II (de Dilma Rousseff) é tratado de modo superficial, sem aprofundar a visão de comércio como ferramenta de desenvolvimento. A comparação entre os dois textos — semelhanças e diferenças de percepção — que era o cerne do enunciado, é feita de maneira implícita e insuficiente, sem confrontação direta e sistemática dos fragmentos. Nota: 7.0",
+      "1C – Capacidade de análise e reflexão: O candidato apresenta uma narrativa evolutiva do comércio internacional (da marginalização dos anos 1960 à maior participação atual), o que demonstra capacidade de contextualização histórica. Porém, a análise é predominantemente descritiva e otimista, sem problematizar adequadamente as contradições persistentes do sistema comercial. A menção aos subsídios agrícolas e à representação desigual é positiva, mas superficial. Falta uma reflexão mais crítica e nuançada sobre até que ponto o comércio internacional efetivamente se tornou mais justo, e sobre as tensões entre as visões expressas nos dois textos. A referência a Huntington, embora criativa, não agrega valor analítico real ao tema proposto. Nota: 6.5",
+      "CGPL – Correção gramatical e propriedade da linguagem: O texto apresenta linguagem formal e adequada, com vocabulário variado e uso correto da norma culta na grande maioria das ocorrências. Foram identificados poucos erros, sendo o mais relevante o uso de 'responsáveis para que' em vez de 'responsáveis por que'. O uso de conectivos é por vezes repetitivo (porquanto aparece duas vezes), mas não constitui erro gramatical propriamente dito. No geral, a expressão escrita é de bom nível. Erros identificados: 3. Desconto estimado: 1.5 pontos. Nota CGPL: 28.5"
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso impreciso de 'responsáveis para que' — o mais adequado seria 'responsáveis por que' ou 'responsáveis por fazer com que'.",
+      "Uso de 'porquanto' em contexto que poderia ser mais preciso com 'pois' ou 'já que', embora não constitua erro grave, revela certa repetição estilística."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento e conclusão bem delimitados, além de encadeamento lógico entre os parágrafos.",
+      "O candidato demonstra conhecimento relevante sobre o tema, mencionando a deterioração dos termos de troca, a OMC, o G-20 comercial e a eleição de Roberto Azevêdo, o que enriquece a argumentação.",
+      "A referência a Huntington na introdução e na conclusão funciona como recurso retórico interessante, conferindo unidade ao texto, embora a conexão entre 'choque de civilizações' e comércio internacional seja um tanto forçada e simplificadora da tese de Huntington.",
+      "O texto atende ao comando da questão ao discutir semelhanças e diferenças entre os dois fragmentos: o Texto I reflete uma visão crítica do comércio internacional como fator de empobrecimento relativo (anos 1960), enquanto o Texto II apresenta uma visão mais otimista e propositiva (anos 2010). Contudo, a análise comparativa poderia ser mais explícita e aprofundada, com referência direta aos textos.",
+      "A linguagem é adequada ao contexto do CACD, com vocabulário preciso e registro formal. Há poucas falhas gramaticais.",
+      "A argumentação, embora coerente, poderia ser mais aprofundada em termos de complexidade analítica. O texto tende a uma narrativa linear de progresso sem problematizar suficientemente as contradições persistentes do sistema comercial internacional.",
+      "A emissão de opinião está presente, mas poderia ser mais incisiva e fundamentada com exemplos concretos adicionais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'para que' com sentido de finalidade onde caberia 'para que' ou construção alternativa em 'foi um dos principais responsáveis para que esse sistema se tornasse mais justo' — o mais adequado seria 'por fazer com que esse sistema se tornasse' ou 'para tornar esse sistema mais justo'.",
+      "Vírgula desnecessária em 'defende a continuidade da evolução do sistema de comércio internacional, e a eleição de Roberto Azevêdo' — a vírgula antes de 'e' ligando orações com sujeitos diferentes é aceitável, mas aqui gera leve ambiguidade na leitura."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento e conclusão bem articulados. O encadeamento das ideias é fluido e coerente, com uso adequado de conectivos e transições entre parágrafos.",
+      "O candidato demonstra bom conhecimento do tema, contextualizando historicamente a evolução do comércio internacional e a atuação da diplomacia brasileira, o que enriquece a argumentação.",
+      "A abordagem comparativa entre os textos I e II é bem conduzida: o candidato identifica as semelhanças (reconhecimento de desigualdades no comércio) e as diferenças (perspectiva pessimista do Texto I versus otimismo cauteloso do Texto II), embora pudesse ter sido mais explícito na análise contrastiva dos fragmentos.",
+      "A referência a Huntington na introdução e na conclusão funciona como recurso retórico interessante, mas é tangencial ao tema proposto, que pede discussão sobre comércio internacional e desenvolvimento, não sobre choque de civilizações. Isso desvia ligeiramente o foco.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário preciso e construções sintáticas bem elaboradas.",
+      "Poderia haver maior aprofundamento analítico sobre os mecanismos específicos de deterioração dos termos de troca mencionados no Texto I, bem como uma discussão mais detida sobre as limitações e possibilidades concretas da OMC sob a liderança de Azevêdo.",
+      "A emissão de opinião pessoal, exigida pelo enunciado, está presente, mas poderia ser mais enfática e fundamentada com argumentos mais robustos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'responsáveis para que' em vez de 'responsáveis por que' ou 'responsáveis por fazer com que' — regência inadequada do adjetivo 'responsável'.",
+      "Uso de 'explicam por que' poderia gerar ambiguidade, embora esteja gramaticalmente aceitável neste contexto."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento em múltiplos parágrafos e conclusão bem articulados. O encadeamento das ideias é fluido e coerente.",
+      "O candidato demonstra bom conhecimento do tema, articulando referências históricas (década de 1960, deterioração dos termos de troca) com eventos contemporâneos (eleição de Azevêdo na OMC, G-20 comercial).",
+      "A comparação entre os dois textos é feita de forma implícita e bem integrada à argumentação: o Texto I é associado ao contexto histórico de marginalização dos países em desenvolvimento, e o Texto II à evolução do sistema multilateral de comércio.",
+      "A referência a Huntington na introdução e conclusão, embora criativa como recurso retórico de enquadramento, é tangencial ao tema proposto e ocupa espaço que poderia ser dedicado a uma análise mais aprofundada das semelhanças e diferenças entre os dois textos, conforme solicitado pelo enunciado.",
+      "A linguagem é formal, adequada ao contexto do CACD, com vocabulário preciso e variado. A correção gramatical é muito boa, com pouquíssimos deslizes.",
+      "Ponto de melhoria: o enunciado pede explicitamente que se discutam 'semelhanças e diferenças de percepção relativas ao comércio internacional'. Embora o candidato aborde ambas as perspectivas, poderia ter sido mais explícito e analítico na comparação direta entre os fragmentos, identificando com mais clareza os pontos de convergência (comércio como potencial ferramenta de desenvolvimento) e divergência (tom pessimista vs. otimista; diagnóstico de fracasso vs. compromisso renovado)."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso impreciso de 'responsáveis para que' — o mais adequado seria 'responsáveis por que' ou 'responsáveis por fazer com que'.",
+      "'porquanto as trocas comerciais podem ser positivas para todos os envolvidos' — uso ligeiramente forçado da conjunção causal 'porquanto' em contexto que pediria construção mais fluida.",
+      "'um dos motivos que explicam por que a previsão' — embora gramaticalmente defensável, a construção é ambígua e poderia ser mais clara."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento em múltiplos parágrafos e conclusão bem delimitados. O encadeamento cronológico (décadas de 1960 até os anos 2010) confere clareza à progressão argumentativa.",
+      "O texto dialoga com os dois fragmentos do enunciado, identificando semelhanças (comércio como ferramenta de desenvolvimento) e diferenças (visão pessimista do Texto I versus visão otimista do Texto II). Contudo, essa análise comparativa poderia ser mais explícita e aprofundada, com menção direta aos textos e seus autores/contextos.",
+      "A referência a Huntington na introdução e na conclusão funciona como moldura retórica, mas é tangencial ao tema proposto. O enunciado pede discussão sobre as percepções relativas ao comércio internacional nos dois textos, e a digressão sobre 'choque de civilizações' desvia o foco sem agregar substância analítica relevante.",
+      "A argumentação é coerente, mas previsível e pouco sofisticada. Faltam dados concretos, referências teóricas mais precisas (como a teoria cepalina de Prebisch-Singer sobre deterioração dos termos de troca, mencionada no Texto I) e análise mais crítica sobre os limites do multilateralismo comercial.",
+      "O domínio da norma culta é satisfatório, com vocabulário adequado ao registro formal exigido pelo CACD. Há poucos deslizes gramaticais, e a linguagem é clara, embora por vezes repetitiva (uso recorrente de 'comércio internacional', 'diplomacia brasileira', 'debate multilateral').",
+      "A emissão de opinião, exigida pelo enunciado, aparece de forma tímida e diluída ao longo do texto. O candidato poderia ter sido mais assertivo ao posicionar-se sobre qual percepção considera mais adequada e por quê.",
+      "A conclusão retoma a moldura de Huntington de forma interessante, mas a conexão entre comércio justo e ausência de choque civilizacional é superficial e carece de fundamentação mais robusta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'responsáveis para que' em vez de 'responsáveis por que' ou 'responsáveis por fazer com que' — regência inadequada do adjetivo 'responsável'.",
+      "Uso de 'porquanto' em contexto que pediria 'pois' ou 'já que' — embora não seja erro gramatical estrito, o uso reiterado de 'porquanto' soa artificial e compromete a naturalidade do texto."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara e bem organizada, com introdução, desenvolvimento em parágrafos temáticos e conclusão. O encadeamento lógico é razoável e o texto é fluido.",
+      "O candidato demonstra conhecimento do tema e contextualiza historicamente a evolução do comércio internacional, mencionando a deterioração dos termos de troca (Texto I) e a eleição de Roberto Azevêdo (Texto II), o que atende ao comando da questão.",
+      "Entretanto, a análise das semelhanças e diferenças entre os dois textos é feita de forma implícita e pouco aprofundada. O enunciado pede expressamente que o candidato discuta semelhanças e diferenças de percepção, e isso deveria ser mais explícito e analítico. Não há confronto direto entre as visões dos dois fragmentos.",
+      "A referência a Samuel Huntington e ao 'choque de civilizações' na introdução e na conclusão, embora criativa, é tangencial ao tema proposto e ocupa espaço que poderia ser dedicado a uma análise mais densa dos textos motivadores e do comércio internacional propriamente dito.",
+      "A argumentação, embora coerente, é previsível e pouco sofisticada. Faltam dados concretos, referências a teorias econômicas relevantes (como Prebisch-Singer, vantagens comparativas de Ricardo, ou debates sobre protecionismo vs. livre-comércio) e uma reflexão mais profunda sobre as tensões estruturais do sistema multilateral de comércio.",
+      "O domínio da norma culta é bom, com vocabulário adequado e poucas falhas. Contudo, o uso repetitivo de conectivos como 'porquanto' e 'conquanto' confere ao texto um tom algo artificial.",
+      "A conclusão retoma a tese inicial de forma coerente, mas a circularidade com o argumento de Huntington enfraquece o fechamento, que poderia ser mais incisivo sobre o papel do Brasil e os desafios futuros do comércio internacional."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'responsáveis para que' em vez de 'responsáveis por que' ou 'responsáveis por fazer com que' — regência inadequada do adjetivo 'responsável'.",
+      "Uso de 'porquanto' em contexto que pediria 'pois' ou 'já que' — embora não seja erro gramatical estrito, o uso reiterado de 'porquanto' soa artificial e compromete a naturalidade do texto."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento e conclusão bem delimitados, além de encadeamento lógico entre os parágrafos. A progressão temática é clara e o texto é fluido.",
+      "O candidato demonstra conhecimento do tema e contextualiza adequadamente as referências aos textos motivadores, identificando semelhanças (comércio como ferramenta de desenvolvimento) e diferenças (visão pessimista dos anos 1960 vs. visão mais otimista dos anos 2010).",
+      "A referência a Huntington na introdução e na conclusão, embora confira certa originalidade ao enquadramento, é forçada e imprecisa: o 'choque de civilizações' não se relaciona diretamente com comércio internacional, e a tentativa de refutá-lo por meio da cooperação comercial é uma simplificação excessiva. Isso enfraquece a moldura argumentativa do texto.",
+      "A argumentação, embora coerente, é previsível e pouco sofisticada. O candidato reproduz lugares-comuns sobre multilateralismo, OMC e G-20 comercial sem aprofundar análises ou apresentar dados concretos. Falta densidade analítica — por exemplo, não se discute com profundidade a deterioração dos termos de troca mencionada no Texto I, nem se problematiza adequadamente a persistência de assimetrias.",
+      "A linguagem é adequada ao contexto, com domínio razoável da norma culta. Há, contudo, certa repetitividade vocabular e uso excessivo de conectivos causais (porquanto, pois, uma vez que), o que torna o estilo um pouco monótono.",
+      "A opinião do candidato é emitida de forma clara, mas poderia ser mais matizada. A visão apresentada é predominantemente otimista quanto à evolução do comércio internacional, sem problematizar suficientemente os limites dessa evolução, o que reduz a profundidade da reflexão exigida pelo enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"latinoamericanos\" – a grafia correta é \"latino-americanos\", com hífen.",
+      "\"direção geral\" – o correto é \"Direção-Geral\" (com hífen e iniciais maiúsculas, por se tratar de cargo/título oficial).",
+      "\"O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos à revelia dos processos de integração\" – erro de concordância verbal: o núcleo do sujeito é \"crescimento\", singular, portanto deveria ser \"não é obtido\".",
+      "\"matizadas certas distorções\" – embora compreensível, a construção é imprecisa; o particípio \"matizadas\" não expressa com clareza a ideia pretendida (provavelmente \"eliminadas\" ou \"corrigidas\"); trata-se mais de impropriedade vocabular do que erro gramatical estrito, mas compromete a precisão.",
+      "\"rodada Doha\" no penúltimo período – inconsistência de maiúsculas, pois ao longo do texto o candidato grafa \"Rodada Doha\" com R maiúsculo.",
+      "\"Organização Mundial de Comércio\" – a denominação oficial em português é \"Organização Mundial do Comércio\"."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução clara que apresenta a tese, desenvolvimento em parágrafos temáticos coerentes e conclusão que retoma os argumentos. O estilo é adequado ao gênero dissertativo-argumentativo e ao nível do CACD, com vocabulário sofisticado e fluência na escrita. A progressão temática é lógica e bem conduzida. Pequenas redundâncias (\"crescente... também é crescente\") e o uso excessivo de orações intercaladas em alguns trechos prejudicam levemente a fluidez. Nota: 8.5",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do tema, mobilizando informações pertinentes como a UNCTAD, o SGP, a Rodada Doha, o mecanismo de solução de controvérsias da OMC e a eleição de Roberto Azevêdo. Há sistematização adequada dos argumentos. Contudo, algumas afirmações carecem de maior fundamentação: a afirmação de que o êxito da Rodada Doha \"eliminará tendências perversas\" é excessivamente otimista e apresentada como certeza, quando a Rodada estava (e continua) paralisada. A atribuição da citação do Texto II ao ex-Chanceler Patriota é uma inferência razoável, mas não explicitada no enunciado. A relação entre os dois textos poderia ter sido explorada de forma mais direta e analítica, com maior confronto entre as visões. Nota: 8.0",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade de contextualizar historicamente a mudança de percepção sobre o comércio internacional (da tese cepalina da deterioração dos termos de troca à visão contemporânea do comércio como ferramenta de desenvolvimento), o que é um mérito significativo. A análise das semelhanças e diferenças entre os textos está presente, embora de forma mais implícita do que explícita. A reflexão sobre o papel do Brasil é pertinente, mas por vezes assume tom laudatório que compromete a profundidade analítica. A menção a Fernandes Fafe e à tradição de equilíbrio de antagonismos é interessante, mas pouco desenvolvida. A conclusão, embora coerente, é excessivamente otimista ao sugerir que a Rodada Doha eliminará a clivagem Norte-Sul. Nota: 7.5",
+      "CGPL – Correção gramatical e propriedade da linguagem: Foram identificados 6 erros/impropriedades. O texto apresenta, de modo geral, bom domínio da norma culta, com uso adequado de conectivos, regência e pontuação. Os erros encontrados são pontuais e não comprometem gravemente a compreensão. O erro de concordância verbal é o mais significativo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"latinoamericanos\" — a grafia correta é \"latino-americanos\", com hífen.",
+      "\"direção geral\" — o correto é \"Direção-Geral\" (com hífen e iniciais maiúsculas, por se tratar de cargo/título oficial).",
+      "\"O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos à revelia dos processos de integração.\" — erro de concordância verbal: o sujeito nuclear é \"O crescimento econômico\", no singular, portanto o verbo deveria ser \"não é obtido\".",
+      "\"matizadas certas distorções\" — embora compreensível, a construção é imprecisa; o particípio \"matizadas\" não expressa com clareza a ideia de \"corrigidas\" ou \"eliminadas\", configurando impropriedade vocabular.",
+      "\"rodada Doha\" na penúltima frase — inconsistência de maiúsculas, pois ao longo do texto o candidato grafa \"Rodada Doha\" com inicial maiúscula.",
+      "\"Organização Mundial de Comércio\" — a denominação oficial em português é \"Organização Mundial do Comércio\" (com artigo \"do\")."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução clara que apresenta a tensão entre as duas visões do comércio internacional, desenvolvimento argumentativo em parágrafos temáticos e conclusão que retoma a tese. O estilo é adequado ao gênero dissertativo-argumentativo do CACD, com vocabulário sofisticado e fluência. A coerência é mantida ao longo do texto, embora haja momentos de tom excessivamente otimista que poderiam ser mais ponderados. Nota: 8.5",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do conteúdo, mobilizando informações pertinentes como a criação da UNCTAD, o SGP, a Rodada Doha, o mecanismo de solução de controvérsias da OMC e a eleição de Roberto Azevêdo. A argumentação é sistemática e objetiva. Contudo, há certa superficialidade em alguns pontos: a afirmação de que a Rodada Doha 'eliminará tendências perversas' é apresentada como certeza, quando na realidade a Rodada estava (e continua) paralisada. A referência ao Brasil como 'sexta maior economia mundial' e a associação entre crescimento econômico e integração comercial carecem de maior fundamentação. A menção a José Fernandes Fafe parece forçada e pouco contribui para o argumento. Nota: 8.0",
+      "1C – Capacidade de análise e reflexão: O candidato identifica adequadamente as semelhanças e diferenças entre os dois textos motivadores: ambos reconhecem o potencial do comércio, mas o Texto I enfatiza os efeitos negativos históricos (deterioração dos termos de troca), enquanto o Texto II apresenta uma visão prospectiva e propositiva. A análise da evolução da percepção sobre comércio internacional — de instrumento de perpetuação de desigualdades para ferramenta de desenvolvimento — é bem conduzida. Porém, falta maior problematização: o candidato poderia ter explorado mais criticamente as limitações da OMC, os impasses da Rodada Doha e as assimetrias estruturais que persistem. A reflexão tende ao otimismo sem suficiente contraponto crítico. Nota: 7.5",
+      "Correção gramatical: Foram identificados 6 erros, incluindo erro de concordância verbal, grafia incorreta de 'latino-americanos', inconsistência de maiúsculas, impropriedade vocabular e erro na denominação oficial da OMC. O texto, de modo geral, apresenta bom domínio da norma culta, com construções sintáticas complexas e bem articuladas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"latinoamericanos\" – a grafia correta é \"latino-americanos\", com hífen.",
+      "\"direção geral\" – o correto é \"Direção-Geral\" (com hífen e iniciais maiúsculas, por se tratar de cargo/título oficial).",
+      "\"O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos à revelia dos processos de integração\" – erro de concordância verbal: o sujeito nuclear é \"O crescimento econômico\", no singular, portanto o verbo deveria ser \"não é obtido\".",
+      "\"matizadas certas distorções\" – embora compreensível, a construção é imprecisa; o particípio \"matizadas\" não é o mais adequado semanticamente para \"corrigidas/eliminadas\"; trata-se mais de impropriedade vocabular do que erro gramatical estrito, mas compromete a precisão.",
+      "\"rodada Doha\" no penúltimo período – inconsistência de maiúsculas, pois ao longo do texto o candidato grafa \"Rodada Doha\" com R maiúsculo.",
+      "\"Organização Mundial de Comércio\" – a denominação oficial em português é \"Organização Mundial do Comércio\"."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão. A redação apresenta boa coerência interna e fluidez argumentativa, com transições adequadas entre os parágrafos. O estilo é formal e compatível com o esperado no CACD. Há leve excesso de otimismo/entusiasmo que por vezes compromete a objetividade analítica, mas no geral a impressão é bastante positiva. Nota: 8.5",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do tema, mobilizando informações pertinentes como a UNCTAD, o SGP, a Rodada Doha, o mecanismo de solução de controvérsias da OMC e a eleição de Roberto Azevêdo. A argumentação é sistemática e bem organizada. Contudo, há algumas fragilidades: a afirmação de que o êxito da Rodada Doha 'eliminará tendências perversas' é excessivamente assertiva, considerando que a Rodada não foi concluída; a relação causal entre crescimento econômico brasileiro e integração comercial é apresentada de forma simplificada; e a referência ao embaixador José Fernandes Fafe parece forçada e pouco desenvolvida. Nota: 8.0",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade de articular os dois textos motivadores, identificando a mudança de percepção sobre o comércio internacional ao longo do tempo – de fator de empobrecimento (Texto I) a ferramenta de desenvolvimento (Texto II). A análise histórica da evolução dessa percepção é um ponto forte. Porém, a reflexão crítica poderia ser mais aprofundada: o candidato tende a adotar uma posição excessivamente otimista sem problematizar suficientemente os obstáculos reais à conclusão da Rodada Doha ou as limitações estruturais do sistema multilateral de comércio. A análise das semelhanças entre os textos (ambos reconhecem o potencial do comércio) poderia ter sido mais explícita. Nota: 7.5",
+      "Correção gramatical: Foram identificados 6 erros/impropriedades. O texto, de modo geral, apresenta bom domínio da norma culta, com vocabulário sofisticado e construções sintáticas complexas bem executadas na maioria dos casos. Os erros encontrados são pontuais e não comprometem gravemente a compreensão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'latinoamericanos' – a grafia correta é 'latino-americanos', com hífen.",
+      "'direção geral' – a grafia correta é 'direção-geral', com hífen, por se tratar de cargo composto.",
+      "'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos à revelia dos processos de integração.' – erro de concordância verbal: o sujeito nuclear é 'O crescimento econômico', singular, portanto o verbo deveria ser 'não é obtido'.",
+      "'eliminação de distorções equivocadas' – imprecisão vocabular/pleonasmo: distorções são, por natureza, equivocadas; a expressão soa redundante ou inadequada.",
+      "'matizadas certas distorções' – uso impreciso do verbo 'matizar'; o sentido pretendido seria 'eliminadas' ou 'corrigidas', não 'matizadas' (que significa suavizar nuances)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia a tese, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente que retoma os argumentos centrais.",
+      "O candidato demonstra domínio do tema, articulando com propriedade referências históricas (UNCTAD, SGP, Rodada Doha) e conceituais (deterioração dos termos de troca, tese Prebisch-Singer) para sustentar sua argumentação.",
+      "Há boa capacidade de identificar as semelhanças e diferenças entre os dois textos: ambos reconhecem o potencial do comércio, mas o Texto I enfatiza os efeitos negativos históricos, enquanto o Texto II aponta para uma visão prospectiva e otimista. O candidato articula essa transição de percepção de forma convincente.",
+      "A linguagem é adequada ao registro formal exigido pelo CACD, com vocabulário sofisticado e variado. Contudo, há alguns deslizes de precisão vocabular ('matizadas', 'distorções equivocadas') que comprometem levemente a clareza.",
+      "O erro de concordância verbal no quinto parágrafo é relevante e prejudica a correção gramatical. A grafia de 'latinoamericanos' e 'direção geral' também configura erros que devem ser considerados.",
+      "A argumentação, embora bem construída, tende a ser excessivamente otimista quanto à Rodada Doha e à liderança brasileira na OMC, sem apresentar contrapontos ou nuances críticas mais robustas, o que limita ligeiramente a profundidade analítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'latinoamericanos' – a grafia correta é 'latino-americanos', com hífen.",
+      "'direção geral' – a grafia correta é 'direção-geral', com hífen, por se tratar de cargo composto.",
+      "'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos à revelia dos processos de integração.' – erro de concordância verbal: o sujeito nuclear é 'O crescimento econômico', singular, portanto o verbo deveria ser 'não é obtido'.",
+      "'eliminação de distorções equivocadas' – imprecisão vocabular/pleonasmo: distorções são, por natureza, equivocadas; a expressão soa redundante ou inadequada.",
+      "'matizadas certas distorções' – uso impreciso do verbo 'matizar'; o sentido pretendido seria 'eliminadas' ou 'corrigidas', não 'matizadas' (que significa suavizar nuances)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia a tese, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente que retoma os argumentos centrais.",
+      "O candidato demonstra domínio do tema, articulando com propriedade referências históricas (UNCTAD, SGP, Rodada Doha) e conceituais (deterioração dos termos de troca, tese Prebisch-Singer) para sustentar sua argumentação.",
+      "Há boa capacidade de identificar as semelhanças e diferenças entre os dois textos: ambos reconhecem o potencial do comércio, mas o Texto I enfatiza os efeitos negativos históricos, enquanto o Texto II aponta para uma visão prospectiva e otimista. O candidato articula essa transição de percepção de forma convincente.",
+      "A linguagem é adequada ao registro formal exigido pelo CACD, com vocabulário sofisticado e variado. Contudo, há alguns deslizes de precisão vocabular ('matizadas', 'distorções equivocadas') que comprometem levemente a clareza.",
+      "O erro de concordância verbal no quinto parágrafo é relevante e prejudica a correção gramatical. A grafia de 'latinoamericanos' e 'direção geral' também configura erros que devem ser considerados.",
+      "A argumentação, embora bem construída, tende a ser excessivamente otimista quanto à Rodada Doha e à liderança brasileira na OMC, sem apresentar contrapontos ou nuances críticas mais robustas, o que limita ligeiramente a profundidade analítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'latinoamericanos' – a grafia correta é 'latino-americanos', com hífen.",
+      "'direção geral' – a grafia correta é 'direção-geral', com hífen, por se tratar de cargo composto.",
+      "'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos à revelia dos processos de integração.' – erro de concordância verbal: o núcleo do sujeito é 'crescimento', singular, portanto deveria ser 'não é obtido'.",
+      "'eliminação de distorções equivocadas' – imprecisão semântica/pleonasmo: distorções são, por definição, equivocadas; a formulação é redundante.",
+      "'rodada Doha' no penúltimo parágrafo – inconsistência de maiúsculas: 'Rodada' aparece com maiúscula no restante do texto, mas aqui está em minúscula."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando com propriedade os dois textos motivadores e identificando tanto as semelhanças (comércio internacional como questão central para o desenvolvimento) quanto as diferenças de percepção (visão pessimista da deterioração dos termos de troca versus visão otimista do comércio como ferramenta de desenvolvimento).",
+      "A estrutura argumentativa é bem construída, com introdução que apresenta a tese, desenvolvimento que percorre historicamente a evolução da percepção sobre comércio internacional (UNCTAD, SGP, Rodada Doha) e conclusão que sintetiza adequadamente o argumento.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD, com uso preciso de termos como 'alvissareiras', 'espoliadoras', 'clivagem norte-sul', demonstrando erudição e domínio da linguagem diplomática.",
+      "O candidato demonstra conhecimento substantivo de política externa brasileira e do sistema multilateral de comércio, mencionando com pertinência a OMC, a eleição de Roberto Azevêdo, o SGP e a UNCTAD.",
+      "Ponto de atenção: o texto apresenta certo otimismo excessivo quanto à conclusão da Rodada Doha e à liderança brasileira na OMC, o que poderia ser matizado com maior senso crítico. Além disso, a afirmação de que o crescimento econômico brasileiro não foi obtido 'à revelia' da integração comercial poderia ser mais bem fundamentada.",
+      "O erro de concordância verbal ('O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos') é relevante por se tratar de um concurso que exige alto padrão gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'latinoamericanos' – a grafia correta é 'latino-americanos', com hífen.",
+      "'direção geral' – o correto é 'direção-geral', com hífen, por se tratar de cargo composto.",
+      "'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos à revelia dos processos de integração.' – erro de concordância verbal: o núcleo do sujeito é 'crescimento', singular, portanto deveria ser 'não é obtido'.",
+      "'Rodada Doha' aparece como 'rodada Doha' no penúltimo parágrafo, com minúscula indevida em 'rodada', já que se trata de nome próprio usado ao longo do texto com maiúscula.",
+      "'Organização Mundial de Comércio' – a denominação oficial em português é 'Organização Mundial do Comércio'."
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio do tema, articulando de forma coerente as duas percepções sobre o comércio internacional presentes nos textos motivadores: a visão cepalina de deterioração dos termos de troca (Texto I) e a visão contemporânea do comércio como ferramenta de desenvolvimento (Texto II).",
+      "A estrutura é bem organizada, com introdução que apresenta a tese, desenvolvimento que percorre a evolução histórica da percepção sobre comércio internacional (UNCTAD, SGP, Rodada Doha) e conclusão que sintetiza a mudança de paradigma.",
+      "Um ponto fraco é o tom excessivamente otimista e laudatório em relação ao Brasil e à Rodada Doha, sem problematizar adequadamente os impasses reais da Rodada (que até hoje não foi concluída). A afirmação de que a Rodada Doha 'eliminará tendências perversas' soa categórica demais e enfraquece a argumentação.",
+      "A atribuição da fala do Texto II ao 'ex-Chanceler Antônio Patriota' é imprecisa — o texto é da Presidenta Dilma Rousseff. Esse tipo de erro factual compromete a credibilidade argumentativa.",
+      "A referência ao 'embaixador português José Fernandes Fafe' e à 'tradição de equilíbrio de antagonismos' parece aludir a Gilberto Freyre, mas a conexão não fica clara e soa forçada.",
+      "O vocabulário é rico e adequado ao registro formal exigido, com uso de termos como 'alvissareiras', 'espoliadoras', 'clivagem', embora em alguns momentos o excesso de adjetivação comprometa a objetividade analítica.",
+      "A redação cumpre bem a tarefa de discutir semelhanças e diferenças entre os textos, mas poderia ter aprofundado mais a análise crítica das limitações do sistema multilateral de comércio e das assimetrias persistentes."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'latinoamericanos' – a grafia correta é 'latino-americanos', com hífen.",
+      "'direção geral' – o correto é 'direção-geral', com hífen, por se tratar de cargo composto.",
+      "'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos à revelia dos processos de integração.' – erro de concordância verbal: o núcleo do sujeito é 'crescimento', singular, portanto deveria ser 'não é obtido'.",
+      "'Rodada Doha' aparece como 'rodada Doha' no penúltimo parágrafo, com minúscula indevida em 'rodada', já que se trata de nome próprio usado ao longo do texto com maiúscula.",
+      "'Organização Mundial de Comércio' – a denominação oficial em português é 'Organização Mundial do Comércio'."
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio do tema, articulando de forma coerente as duas percepções sobre o comércio internacional presentes nos textos motivadores: a visão cepalina de deterioração dos termos de troca (Texto I) e a visão contemporânea do comércio como ferramenta de desenvolvimento (Texto II).",
+      "A estrutura é bem organizada, com introdução que apresenta a tese, desenvolvimento que percorre a evolução histórica da percepção sobre comércio internacional (UNCTAD, SGP, Rodada Doha) e conclusão que sintetiza a mudança de paradigma.",
+      "Um ponto fraco é o tom excessivamente otimista e laudatório em relação ao Brasil e à Rodada Doha, sem problematizar adequadamente os impasses reais da Rodada (que até hoje não foi concluída). A afirmação de que a Rodada Doha 'eliminará tendências perversas' soa categórica demais e enfraquece a argumentação.",
+      "A atribuição da fala do Texto II ao 'ex-Chanceler Antônio Patriota' é imprecisa — o texto é da Presidenta Dilma Rousseff. Esse tipo de erro factual compromete a credibilidade argumentativa.",
+      "A referência ao 'embaixador português José Fernandes Fafe' e à 'tradição de equilíbrio de antagonismos' parece aludir a Gilberto Freyre, mas a conexão não fica clara e soa forçada.",
+      "O vocabulário é rico e adequado ao registro formal exigido, com uso de termos como 'alvissareiras', 'espoliadoras', 'clivagem', embora em alguns momentos o excesso de adjetivação comprometa a objetividade analítica.",
+      "A redação cumpre bem a tarefa de discutir semelhanças e diferenças entre os textos, mas poderia ter aprofundado mais a análise crítica das limitações do sistema multilateral de comércio e das assimetrias persistentes."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'latinoamericanos' – a grafia correta é 'latino-americanos', com hífen.",
+      "'direção geral' – o correto é 'direção-geral', com hífen, por se tratar de cargo composto.",
+      "'O crescimento econômico aliado à melhoria dos indicadores sociais não são obtidos à revelia dos processos de integração.' – erro de concordância verbal: o núcleo do sujeito é 'crescimento', singular, portanto deveria ser 'não é obtido'.",
+      "'Rodada Doha' aparece como 'rodada Doha' no penúltimo parágrafo, com minúscula indevida em 'rodada', já que se trata de nome próprio usado ao longo do texto com maiúscula.",
+      "'Organização Mundial de Comércio' – a denominação oficial em português é 'Organização Mundial do Comércio'."
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio do tema, articulando de forma coerente as duas percepções sobre o comércio internacional presentes nos textos motivadores: a visão cepalina de deterioração dos termos de troca (Texto I) e a visão contemporânea do comércio como ferramenta de desenvolvimento (Texto II).",
+      "A estrutura é bem organizada, com introdução que apresenta a tese, desenvolvimento que percorre a evolução histórica da percepção sobre comércio internacional (UNCTAD, SGP, Rodada Doha) e conclusão que sintetiza a mudança de paradigma.",
+      "Um ponto fraco é o tom excessivamente otimista e laudatório em relação ao Brasil e à Rodada Doha, sem problematizar adequadamente os impasses reais da Rodada (que até hoje não foi concluída). A afirmação de que a Rodada Doha 'eliminará tendências perversas' soa categórica demais e enfraquece a argumentação.",
+      "A atribuição da fala do Texto II ao 'ex-Chanceler Antônio Patriota' é imprecisa — o texto é da Presidenta Dilma Rousseff. Esse tipo de erro factual compromete a credibilidade argumentativa.",
+      "A referência ao 'embaixador português José Fernandes Fafe' e à 'tradição de equilíbrio de antagonismos' parece aludir a Gilberto Freyre, mas a conexão não fica clara e soa forçada.",
+      "O vocabulário é rico e adequado ao registro formal exigido, com uso de termos como 'alvissareiras', 'espoliadoras', 'clivagem', embora em alguns momentos o excesso de adjetivação comprometa a objetividade analítica.",
+      "A redação cumpre bem a tarefa de discutir semelhanças e diferenças entre os textos, mas poderia ter aprofundado mais a análise crítica das limitações do sistema multilateral de comércio e das assimetrias persistentes."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Uso de marcadores numéricos no corpo do texto (¹, ³, 4) como se fossem notas de rodapé, o que é inadequado em redação dissertativa.",
+      "'contribuíu' — acentuação indevida: o correto é 'contribuiu', sem acento, pois a vogal tônica 'iu' em paroxítonas não recebe acento.",
+      "'Se, por um lado, o capitalismo contribuiu para o desenvolvimento de países mais avançados tecnologicamente; por outro, agravou...' — uso inadequado de ponto e vírgula separando orações correlativas (se... por outro), deveria ser vírgula.",
+      "'sub- desenvolvidos' — hifenização com espaço indevido; o correto é 'subdesenvolvidos' (sem hífen e sem espaço).",
+      "'O comércio internacional, se for estruturado sob o multilateralismo, como defende o Brasil, é um dos caminhos...' — a colocação pronominal 'se for' está correta, mas a construção 'portanto, se for' gera ambiguidade de leitura; trata-se de questão estilística menor.",
+      "'Enquanto no texto I, verifica-se um certo pessimismo' — vírgula desnecessária após 'texto I', pois separa o adjunto adverbial do verbo de forma inadequada nesta construção com 'enquanto'.",
+      "'estabelecido' — grafia incorreta; o correto é 'estabelecido' (na verdade, a forma correta é 'estabelecido' — verificação: a forma correta é 'estabelecido'. Erro inexistente, retiro este item)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que contextualiza os dois textos, desenvolvimento que analisa cada fragmento separadamente e conclusão que sintetiza a argumentação. A estrutura é clara e coerente.",
+      "O candidato demonstra conhecimento relevante ao mobilizar a teoria de Raúl Prebisch sobre a deterioração dos termos de troca, o que enriquece a argumentação e demonstra domínio do tema. A referência a Schopenhauer, embora criativa, é um tanto forçada e superficial na analogia entre motivações humanas e dinâmicas do comércio internacional.",
+      "Há uma tendência a simplificar excessivamente a relação entre os dois textos: o candidato trata o Texto I como puramente pessimista e o Texto II como puramente otimista, quando na verdade o Texto I reconhece 'imensas potencialidades' do comércio e o Texto II não ignora os desafios. A análise poderia ser mais nuançada.",
+      "O uso de marcadores numéricos (¹, ³, 4) no corpo do texto é inadequado para uma redação dissertativa e prejudica a apresentação.",
+      "A capacidade de reflexão é razoável, mas o candidato poderia ter explorado mais as diferenças contextuais entre os textos (décadas de 1960 vs. 2013) e suas implicações para a evolução do pensamento sobre comércio e desenvolvimento.",
+      "A menção à imprensa criticando o multilateralismo brasileiro é uma afirmação que carece de fundamentação e parece um tanto opinativa sem respaldo argumentativo sólido.",
+      "O erro de acentuação em 'contribuíu' e a separação indevida de 'sub-desenvolvidos' são falhas que comprometem a correção gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Uso inadequado de vírgula antes de 'verifica-se': 'Enquanto no texto I, verifica-se' — a vírgula separa indevidamente o sujeito/oração do verbo.",
+      "'contribuíu' — acentuação indevida; o correto é 'contribuiu', sem acento, pois é paroxítona terminada em ditongo decrescente.",
+      "Uso de ponto e vírgula inadequado em 'Se, por um lado, o capitalismo contribuiu para o desenvolvimento de países mais avançados tecnologicamente; por outro, agravou...' — o ponto e vírgula separa orações de um mesmo período iniciado por 'Se', quebrando a estrutura correlativa; o adequado seria vírgula.",
+      "'A crítica do texto I¹' e 'O elogio do texto II³' — uso de marcadores numéricos sobrescritos (¹, ³, 4) sem notas de rodapé correspondentes, o que configura inadequação formal.",
+      "'sub- desenvolvidos' — separação indevida com hífen e espaço; o correto pela ortografia vigente é 'subdesenvolvidos', sem hífen.",
+      "'estabelecido' — grafia incorreta; o correto é 'estabelecido' (na verdade, a forma correta é 'estabelecido' — erro de digitação possível, mas a forma parece ser 'estabelecido' que está correta; revisando: a palavra está grafada corretamente). Retificação: não há erro aqui. Substituição: 'O comércio internacional, ao ser realizado com base no pluralismo das ideias e no multilateralismo das ações' — embora gramaticalmente correto, a expressão 'pluralismo das ideias' é imprecisa no contexto comercial.",
+      "'coaduna-se não só com a tradição diplomática pátria' — regência: 'coadunar-se' pede 'com', o que está correto, mas a construção 'não só... mas também' está adequada. Retificação: substituição por erro real: 'apenas em décadas mais recentes4' — numeral sobrescrito sem referência, configurando erro formal."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que contextualiza os dois textos, desenvolvimento que analisa cada fragmento separadamente e conclusão que sintetiza a argumentação. A estrutura é clara e o texto flui de maneira coerente.",
+      "O candidato demonstra conhecimento relevante ao mobilizar a teoria de Raúl Prebisch sobre a deterioração dos termos de troca, o que enriquece a análise do Texto I. A referência a Schopenhauer, embora criativa, é um tanto forçada e superficial na analogia entre motivações humanas e dinâmicas do comércio internacional.",
+      "A análise das semelhanças e diferenças entre os textos é feita, mas poderia ser mais aprofundada. O candidato identifica corretamente o pessimismo do Texto I e o otimismo do Texto II, porém a reflexão tende a ser mais descritiva do que analítica em vários trechos. Faltou explorar com mais profundidade as diferenças de contexto histórico (década de 1960 vs. 2013) e como isso influencia as percepções.",
+      "Há uma tendência a repetir ideias ao longo do texto — a noção de 'ordem internacional mais justa e menos assimétrica' aparece quase literalmente duas vezes, e a defesa do multilateralismo é reiterada sem acrescentar novos argumentos substantivos.",
+      "O uso de marcadores numéricos sobrescritos (¹, ³, 4) sem notas de rodapé correspondentes é inadequado para o formato de redação dissertativa e prejudica a apresentação formal do texto.",
+      "A capacidade argumentativa é boa, mas o candidato poderia ter sido mais crítico em relação ao Texto II, em vez de simplesmente endossá-lo. Uma análise mais equilibrada, que questionasse também os limites do multilateralismo ou as dificuldades concretas de sua implementação, teria demonstrado maior capacidade de reflexão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 7.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Uso inadequado de vírgula antes de 'verifica-se': 'Enquanto no texto I, verifica-se' — a vírgula separa indevidamente o sujeito/oração do verbo.",
+      "'contribuíu' — acentuação incorreta; o correto é 'contribuiu', sem acento, pois a vogal tônica 'iu' em paroxítona não recebe acento.",
+      "Uso de ponto e vírgula inadequado em 'Se, por um lado, o capitalismo contribuiu para o desenvolvimento de países mais avançados tecnologicamente; por outro, agravou...' — o ponto e vírgula separa orações que compõem um período correlativo (se... por outro), devendo ser substituído por vírgula.",
+      "Marcações numéricas no corpo do texto ('texto I¹', 'texto II³', 'décadas mais recentes4') — embora possam ser notas de rodapé, no corpo da redação constituem interferências na fluência textual e podem ser consideradas inadequações formais.",
+      "'O elogio do texto II coaduna-se' — regência/construção: 'coadunar-se' pede complemento com 'com', o que está correto, mas a construção 'o elogio ao multilateralismo coaduna-se com a tradição' apresenta leve imprecisão semântica (o elogio não se coaduna, mas sim a posição expressa no elogio).",
+      "'estabelecido' — grafia incorreta; o correto é 'estabelecido' (na verdade, a forma correta é 'estabelecido' — verificação: o particípio de 'estabelecer' é 'estabelecido', portanto está correto). CORREÇÃO: este item é retirado da contagem.",
+      "'sub- desenvolvidos' — palavra hifenizada com espaço após o hífen, configurando erro de grafia/formatação; o correto é 'subdesenvolvidos' (sem hífen) ou, se hifenizado por quebra de linha, não deveria aparecer com espaço."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que contextualiza o tema e identifica as diferenças entre os dois textos, desenvolvimento argumentativo e conclusão. A estrutura é clara e o texto flui de maneira coerente.",
+      "O candidato demonstra conhecimento relevante ao mobilizar a teoria de Raúl Prebisch sobre a deterioração dos termos de troca, o que enriquece a argumentação e demonstra domínio do conteúdo de economia política internacional.",
+      "A referência a Schopenhauer no penúltimo parágrafo, embora criativa, é um tanto forçada e superficial. A analogia entre as motivações humanas (egoísmo, maldade, compaixão) e as dinâmicas do comércio internacional carece de maior profundidade e rigor analítico.",
+      "A capacidade de análise e reflexão poderia ser aprofundada. O texto tende a reproduzir posições sem problematizá-las suficientemente. Por exemplo, a afirmação de que 'apenas em décadas mais recentes o comércio tem desempenhado um papel mais positivo' mereceria exemplificação concreta (como a ascensão de países asiáticos, acordos da OMC, etc.).",
+      "O candidato poderia ter explorado mais as diferenças contextuais entre os dois textos — o Texto I remete ao pensamento cepalino/estruturalista dos anos 1960, enquanto o Texto II reflete o momento da eleição de Roberto Azevêdo para a direção-geral da OMC em 2013 — e o que mudou no sistema multilateral de comércio entre esses dois momentos.",
+      "A conclusão é adequada, retomando a tese central sobre o multilateralismo como caminho para um comércio mais justo, mas repete argumentos já apresentados sem acrescentar nova camada de reflexão.",
+      "Há alguns erros gramaticais pontuais (acentuação de 'contribuiu', pontuação inadequada) que prejudicam levemente a nota de correção gramatical, mas no geral o domínio da norma culta é satisfatório."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"contribuíu\" – a forma correta é \"contribuiu\", sem acento agudo (paroxítona terminada em ditongo decrescente, não acentuada).",
+      "\"A crítica do texto I¹\" – uso de marcação numérica (nota de rodapé) inadequada no corpo de uma redação dissertativa.",
+      "\"O elogio do texto II³\" – mesma questão do uso de marcação numérica/nota de rodapé no corpo do texto.",
+      "\"apenas em décadas mais recentes4\" – novamente marcação numérica inadequada no corpo do texto.",
+      "\"sub- desenvolvidos\" – separação indevida com hífen e espaço; a forma correta é \"subdesenvolvidos\" (sem hífen, conforme o Novo Acordo Ortográfico)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que contextualiza os dois textos, desenvolvimento que aprofunda as ideias de cada fragmento e conclusão que sintetiza a argumentação. O encadeamento lógico é claro e coerente.",
+      "O candidato demonstra conhecimento relevante ao mobilizar a teoria de Raúl Prebisch sobre a deterioração dos termos de troca, o que enriquece a argumentação e demonstra domínio do tema.",
+      "A referência a Schopenhauer, embora criativa, é um tanto forçada e superficial na analogia entre motivações humanas e dinâmicas do comércio internacional. A comparação entre 'egoísmo' e 'compaixão' aplicada ao comércio carece de maior rigor analítico.",
+      "O texto poderia explorar com mais profundidade as diferenças entre os dois fragmentos, especialmente o contexto histórico distinto (década de 1960 vs. 2013) e as transformações institucionais do sistema multilateral de comércio (GATT para OMC).",
+      "A linguagem é, em geral, adequada ao registro formal exigido, com bom uso de conectivos e vocabulário apropriado. Contudo, há repetição excessiva de certas expressões como 'comércio internacional' e 'países em desenvolvimento'.",
+      "O texto apresenta alguns erros formais (acento em 'contribuiu', separação indevida de 'subdesenvolvidos', uso de marcações numéricas no corpo do texto) que comprometem parcialmente a correção gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"contribuíu\" – acentuação indevida: o correto é \"contribuiu\" (sem acento, pois a vogal tônica é 'i' em ditongo, mas não se acentua 'i' seguido de 'u' formando hiato/ditongo nessa conjugação; na verdade, 'contribuiu' não leva acento).",
+      "Uso de ponto e vírgula inadequado em: 'Se, por um lado, o capitalismo contribuiu para o desenvolvimento de países mais avançados tecnologicamente; por outro, agravou...' – o ponto e vírgula separa indevidamente a oração condicional/correlativa, devendo ser substituído por vírgula.",
+      "\"sub- desenvolvidos\" – separação indevida com hífen e espaço; o correto é \"subdesenvolvidos\" (sem hífen).",
+      "Marcações numéricas no corpo do texto (¹, ², ³, 4) que funcionam como notas de rodapé são inadequadas em redação dissertativa do CACD.",
+      "\"estabelecido\" – embora não seja erro ortográfico propriamente (a forma existe como variante rara), o mais adequado e correto é \"estabelecido\" – na verdade, a grafia correta é \"estabelecido\". Revisando: a grafia está correta. Retiro este item."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento e conclusão bem delineados, além de encadeamento lógico entre os parágrafos.",
+      "O candidato demonstra conhecimento relevante ao mobilizar a teoria de Raúl Prebisch sobre a deterioração dos termos de troca, o que enriquece a argumentação e demonstra domínio do tema.",
+      "A referência a Schopenhauer no penúltimo parágrafo, embora criativa, é um tanto forçada e superficial na analogia entre motivações humanas e dinâmicas do comércio internacional. A conexão poderia ser mais bem desenvolvida.",
+      "O texto cumpre adequadamente a tarefa de comparar os dois fragmentos, identificando semelhanças (ambos reconhecem a importância do comércio para o desenvolvimento) e diferenças (tom pessimista vs. otimista).",
+      "A linguagem é, em geral, adequada ao registro formal exigido, com bom uso de conectivos e vocabulário apropriado.",
+      "O erro de acentuação em 'contribuíu' e a separação indevida de 'sub-desenvolvidos' são falhas que comprometem a correção gramatical.",
+      "O texto poderia ter explorado com maior profundidade as diferenças contextuais entre os dois textos (décadas de 1960 vs. 2013) e as transformações no sistema multilateral de comércio (GATT para OMC).",
+      "A argumentação, embora coerente, tende a ser repetitiva em alguns pontos, especialmente na reiteração da defesa do multilateralismo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"contribuíu\" — acentuação indevida; a forma correta é \"contribuiu\" (sem acento, pois o ditongo 'iu' em oxítonas não recebe acento).",
+      "\"A crítica do texto I¹\" — uso de marcação numérica (nota de rodapé) inadequada no corpo de uma redação dissertativa.",
+      "\"O elogio do texto II³\" — mesma questão de marcação numérica inadequada no corpo do texto.",
+      "\"apenas em décadas mais recentes4\" — marcação numérica colada à palavra, sem espaço e sem justificativa no formato de redação.",
+      "\"sub- desenvolvidos\" — separação indevida com hífen e espaço; a grafia correta conforme o Acordo Ortográfico é \"subdesenvolvidos\" (sem hífen)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que situa os dois textos, desenvolvimento que explora as diferenças e semelhanças, e conclusão que retoma a tese central. O encadeamento lógico é satisfatório.",
+      "O candidato demonstra conhecimento relevante ao mobilizar a teoria de Raúl Prebisch sobre a deterioração dos termos de troca, o que enriquece a argumentação e demonstra repertório adequado ao CACD.",
+      "A referência a Schopenhauer, embora criativa, é um tanto forçada e superficial — a analogia entre motivações humanas (egoísmo, maldade, compaixão) e dinâmicas do comércio internacional carece de maior profundidade e rigor analítico.",
+      "O texto poderia explorar com mais profundidade as diferenças contextuais entre os dois fragmentos (décadas de 1960 vs. 2013, UNCTAD vs. OMC) e as implicações dessas diferenças para a evolução do regime multilateral de comércio.",
+      "Há certa repetitividade na conclusão e nos parágrafos finais, com reiteração de ideias já apresentadas (multilateralismo, ordem mais justa, países em desenvolvimento) sem acrescentar novos argumentos substantivos.",
+      "O uso de marcações numéricas (¹, ³, 4) no corpo do texto é inadequado para o formato de redação dissertativa e prejudica a fluidez da leitura.",
+      "A linguagem é, em geral, adequada ao registro formal exigido, com bom uso de conectivos e vocabulário apropriado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"contribuíu\" – o acento agudo no 'u' é incorreto; a forma correta é \"contribuiu\" (ditongo 'iu' não é acentuado).",
+      "\"estabelecido\" – grafia incorreta; a forma correta é \"estabelecido\" (na verdade, parece erro de digitação, mas a forma correta é \"estabelecido\" — porém o correto seria verificar: a palavra correta é \"estabelecido\"). Correção: na verdade, o erro é que deveria ser \"estabelecido\" mesmo, mas relendo, o texto grafa \"estabelecido\" que está correto. Retificando: não há erro aqui.",
+      "\"sub- desenvolvidos\" – palavra hifenizada com espaço indevido após o hífen; a grafia correta é \"subdesenvolvidos\" (sem hífen, conforme o Novo Acordo Ortográfico).",
+      "Uso de ponto e vírgula inadequado em \"Se, por um lado, o capitalismo contribuiu para o desenvolvimento de países mais avançados tecnologicamente; por outro, agravou...\" – o ponto e vírgula separa orações correlativas que deveriam ser ligadas por vírgula.",
+      "\"A crítica do texto I¹\" e outras marcas numéricas (³, 4) no corpo do texto são inadequadas em redação dissertativa, pois sugerem notas de rodapé inexistentes ou referências externas não pertinentes ao formato."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do tema e estabelece com clareza as semelhanças e diferenças entre os dois textos, cumprindo o que o enunciado solicita.",
+      "A menção a Raul Prebisch e à teoria da deterioração dos termos de troca é pertinente e demonstra conhecimento do candidato sobre o tema, embora a explicação pudesse ser mais aprofundada.",
+      "A referência a Schopenhauer no penúltimo parágrafo, embora criativa, é um tanto forçada e superficial como analogia para o comércio internacional. A conexão entre 'compaixão' e multilateralismo comercial carece de maior sustentação argumentativa.",
+      "A estrutura do texto é clara e bem organizada, com introdução, desenvolvimento e conclusão identificáveis. No entanto, há certa repetitividade nas ideias centrais — a defesa do multilateralismo e a dicotomia entre países desenvolvidos e em desenvolvimento são reiteradas sem grande aprofundamento analítico ao longo dos parágrafos.",
+      "O texto poderia ter explorado mais as diferenças contextuais entre os dois fragmentos (décadas distintas, mudanças no sistema multilateral de comércio, Rodada Doha, criação da OMC etc.) para enriquecer a análise.",
+      "A linguagem é adequada ao contexto, com vocabulário apropriado e uso correto de conectivos, embora haja alguns deslizes gramaticais e de formatação que prejudicam a apresentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"contribuíu\" – o acento agudo no 'u' é incorreto; a forma correta é \"contribuiu\" (ditongo 'iu' não é acentuado).",
+      "\"estabelecido\" – grafia incorreta; a forma correta é \"estabelecido\" (na verdade, parece erro de digitação, mas a forma correta é \"estabelecido\" — porém o correto seria verificar: a palavra correta é \"estabelecido\"). Correção: na verdade, o erro é que deveria ser \"estabelecido\" mesmo, mas relendo, o texto grafa \"estabelecido\" que está correto. Retificando: não há erro aqui.",
+      "\"sub- desenvolvidos\" – palavra hifenizada com espaço indevido após o hífen; a grafia correta é \"subdesenvolvidos\" (sem hífen, conforme o Novo Acordo Ortográfico).",
+      "Uso de ponto e vírgula inadequado em \"Se, por um lado, o capitalismo contribuiu para o desenvolvimento de países mais avançados tecnologicamente; por outro, agravou...\" – o ponto e vírgula separa orações correlativas que deveriam ser ligadas por vírgula.",
+      "\"A crítica do texto I¹\" e outras marcas numéricas (³, 4) no corpo do texto são inadequadas em redação dissertativa, pois sugerem notas de rodapé inexistentes ou referências externas não pertinentes ao formato."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do tema e estabelece com clareza as semelhanças e diferenças entre os dois textos, cumprindo o que o enunciado solicita.",
+      "A menção a Raul Prebisch e à teoria da deterioração dos termos de troca é pertinente e demonstra conhecimento do candidato sobre o tema, embora a explicação pudesse ser mais aprofundada.",
+      "A referência a Schopenhauer no penúltimo parágrafo, embora criativa, é um tanto forçada e superficial como analogia para o comércio internacional. A conexão entre 'compaixão' e multilateralismo comercial carece de maior sustentação argumentativa.",
+      "A estrutura do texto é clara e bem organizada, com introdução, desenvolvimento e conclusão identificáveis. No entanto, há certa repetitividade nas ideias centrais — a defesa do multilateralismo e a dicotomia entre países desenvolvidos e em desenvolvimento são reiteradas sem grande aprofundamento analítico ao longo dos parágrafos.",
+      "O texto poderia ter explorado mais as diferenças contextuais entre os dois fragmentos (décadas distintas, mudanças no sistema multilateral de comércio, Rodada Doha, criação da OMC etc.) para enriquecer a análise.",
+      "A linguagem é adequada ao contexto, com vocabulário apropriado e uso correto de conectivos, embora haja alguns deslizes gramaticais e de formatação que prejudicam a apresentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"contribuíu\" – o acento agudo no 'u' é incorreto; a forma correta é \"contribuiu\" (ditongo 'iu' não é acentuado).",
+      "\"estabelecido\" – grafia incorreta; a forma correta é \"estabelecido\" (na verdade, parece erro de digitação, mas a forma correta é \"estabelecido\" — porém o correto seria verificar: a palavra correta é \"estabelecido\"). Correção: na verdade, o erro é que deveria ser \"estabelecido\" mesmo, mas relendo, o texto grafa \"estabelecido\" que está correto. Retificando: não há erro aqui.",
+      "\"sub- desenvolvidos\" – palavra hifenizada com espaço indevido após o hífen; a grafia correta é \"subdesenvolvidos\" (sem hífen, conforme o Novo Acordo Ortográfico).",
+      "Uso de ponto e vírgula inadequado em \"Se, por um lado, o capitalismo contribuiu para o desenvolvimento de países mais avançados tecnologicamente; por outro, agravou...\" – o ponto e vírgula separa orações correlativas que deveriam ser ligadas por vírgula.",
+      "\"A crítica do texto I¹\" e outras marcas numéricas (³, 4) no corpo do texto são inadequadas em redação dissertativa, pois sugerem notas de rodapé inexistentes ou referências externas não pertinentes ao formato."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do tema e estabelece com clareza as semelhanças e diferenças entre os dois textos, cumprindo o que o enunciado solicita.",
+      "A menção a Raul Prebisch e à teoria da deterioração dos termos de troca é pertinente e demonstra conhecimento do candidato sobre o tema, embora a explicação pudesse ser mais aprofundada.",
+      "A referência a Schopenhauer no penúltimo parágrafo, embora criativa, é um tanto forçada e superficial como analogia para o comércio internacional. A conexão entre 'compaixão' e multilateralismo comercial carece de maior sustentação argumentativa.",
+      "A estrutura do texto é clara e bem organizada, com introdução, desenvolvimento e conclusão identificáveis. No entanto, há certa repetitividade nas ideias centrais — a defesa do multilateralismo e a dicotomia entre países desenvolvidos e em desenvolvimento são reiteradas sem grande aprofundamento analítico ao longo dos parágrafos.",
+      "O texto poderia ter explorado mais as diferenças contextuais entre os dois fragmentos (décadas distintas, mudanças no sistema multilateral de comércio, Rodada Doha, criação da OMC etc.) para enriquecer a análise.",
+      "A linguagem é adequada ao contexto, com vocabulário apropriado e uso correto de conectivos, embora haja alguns deslizes gramaticais e de formatação que prejudicam a apresentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula separando sujeito e predicado: 'a promoção da liberdade no intercâmbio mundial, tornou-se' — a vírgula após 'mundial' é incorreta.",
+      "'conquista' deveria estar no plural: 'importantes conquistas'.",
+      "'diretoria geral' deveria ser grafado com hífen: 'diretoria-geral' (substantivo composto).",
+      "Segunda ocorrência de 'diretoria geral' sem hífen: 'diretoria-geral'.",
+      "'influenciará no modo' — regência inadequada: o verbo 'influenciar' é transitivo direto nesse contexto, devendo ser 'influenciará o modo' ou 'influirá no modo'."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem organizado, com uma estrutura cronológica clara que conduz o leitor desde as origens teóricas do livre comércio até a eleição de Roberto Azevêdo na OMC. A introdução apresenta adequadamente o tema e a tese, e a conclusão retoma os argumentos de forma coerente. O estilo é fluido e adequado ao gênero dissertativo-argumentativo. Nota: 9.0.",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do conteúdo, mobilizando referências pertinentes como Adam Smith, David Ricardo, CEPAL, Prebisch, GATT, UNCTAD, G-77 e OMC. A argumentação é sistemática e objetiva, conectando os textos motivadores à discussão histórica e contemporânea. Contudo, a análise das 'semelhanças e diferenças de percepção' entre os dois textos poderia ter sido mais explícita e direta — o candidato aborda os temas subjacentes aos textos, mas não os confronta de maneira suficientemente clara e estruturada. Nota: 8.5.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao traçar a evolução do pensamento sobre comércio internacional e ao contextualizar a eleição de Azevêdo. No entanto, a reflexão crítica poderia ser mais aprofundada: faltou problematizar mais as limitações do sistema multilateral de comércio, discutir os obstáculos concretos que persistem (como subsídios agrícolas dos países desenvolvidos, barreiras não tarifárias), ou questionar até que ponto a eleição de um diretor-geral do Sul Global efetivamente altera a dinâmica de poder na OMC. A emissão de opinião, embora presente, é relativamente tímida e pouco matizada. Nota: 7.5.",
+      "Correção gramatical: Foram identificados 5 erros, incluindo vírgula indevida entre sujeito e predicado, falta de plural em 'conquistas', ausência de hífen em 'diretoria-geral' (duas ocorrências) e problema de regência verbal com 'influenciar'. O texto, de modo geral, apresenta boa correção linguística e propriedade vocabular."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula separando sujeito e predicado: 'a promoção da liberdade no intercâmbio mundial, tornou-se' — a vírgula após 'mundial' é incorreta.",
+      "'conquista' deveria estar no plural: 'importantes conquistas'.",
+      "'diretoria geral' deveria ser grafado com hífen: 'diretoria-geral' (substantivo composto).",
+      "Segunda ocorrência de 'diretoria geral' sem hífen: 'diretoria-geral'.",
+      "'influenciará no modo' — regência inadequada: o verbo 'influenciar' é transitivo direto nesse contexto, devendo ser 'influenciará o modo' ou 'influirá no modo'."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem organizado, com estrutura clara (introdução, desenvolvimento histórico-cronológico e conclusão). A progressão temática é fluida e coerente, com uso adequado de conectivos e transições entre parágrafos. O estilo é formal e compatível com o esperado no CACD. A legibilidade é excelente. Nota: 9.0.",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do conteúdo, mobilizando referências pertinentes como Adam Smith, David Ricardo, CEPAL, Prebisch, GATT, UNCTAD, G-77 e OMC. A argumentação é objetiva e sistemática, construindo uma narrativa histórica que sustenta a análise dos textos motivadores. Contudo, a abordagem poderia ter explorado mais diretamente as diferenças entre os dois textos (o Texto I é mais pessimista/diagnóstico, enquanto o Texto II é mais propositivo/otimista), e poderia ter aprofundado aspectos contemporâneos do comércio internacional, como cadeias globais de valor, protecionismo seletivo dos países desenvolvidos, subsídios agrícolas, entre outros. Nota: 8.5.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao traçar a evolução do pensamento sobre comércio internacional e ao conectar as perspectivas dos dois textos com o contexto histórico. A reflexão sobre a eleição de Azevêdo como símbolo de uma mudança de paradigma é pertinente. No entanto, a análise poderia ser mais profunda e crítica: faltou problematizar mais as limitações do sistema multilateral de comércio, discutir se a eleição de Azevêdo de fato representaria mudanças estruturais, ou questionar até que ponto o comércio internacional pode ser reformado dentro das estruturas existentes. A reflexão tende a ser mais descritiva-narrativa do que propriamente analítica em alguns trechos. Nota: 7.5.",
+      "CGPL – Correção gramatical e propriedade da linguagem: O texto apresenta linguagem formal e vocabulário adequado ao gênero. Foram identificados 5 erros: vírgula indevida entre sujeito e predicado, falta de plural em 'conquistas', duas ocorrências de 'diretoria geral' sem hífen, e regência inadequada de 'influenciar'. A propriedade da linguagem é, em geral, muito boa, com uso preciso de termos técnicos e construções sintáticas bem elaboradas. Desconto estimado: 5 × 1.0 = 5.0 pontos. Nota CGPL: 25.0."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula separando sujeito e predicado: 'a promoção da liberdade no intercâmbio mundial, tornou-se' — a vírgula após 'mundial' é incorreta.",
+      "'conquista' deveria estar no plural: 'importantes conquistas'.",
+      "'diretoria geral' deveria ser grafado com hífen: 'diretoria-geral' (substantivo composto).",
+      "Segunda ocorrência de 'diretoria geral' sem hífen: 'diretoria-geral'.",
+      "'influenciará no modo' — regência inadequada: o verbo 'influenciar' é transitivo direto nesse contexto, devendo ser 'influenciará o modo' ou 'influirá no modo'."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem organizado, com uma estrutura cronológica clara que conduz o leitor desde as origens teóricas do livre comércio até a eleição de Roberto Azevêdo na OMC. A introdução apresenta adequadamente o tema e a tese, e a conclusão retoma os argumentos de forma coerente. O estilo é fluido, formal e adequado ao gênero dissertativo-argumentativo do CACD. Pequenas questões pontuais (como a vírgula indevida no primeiro parágrafo) não comprometem significativamente a legibilidade. Nota: 9.0",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do conteúdo, mobilizando referências pertinentes como Adam Smith, David Ricardo, CEPAL, Prebisch, GATT, UNCTAD, G-77 e OMC. A argumentação é objetiva e bem sistematizada. Contudo, a análise poderia ter explorado mais diretamente os textos motivadores, estabelecendo comparações explícitas entre as visões dos dois fragmentos (semelhanças e diferenças), conforme solicitado pelo enunciado. O texto tende a narrar a evolução histórica do comércio internacional sem confrontar suficientemente as perspectivas dos dois textos. Nota: 8.5",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao conectar a evolução do pensamento econômico com as transformações institucionais do comércio internacional. A reflexão sobre a eleição de Azevêdo como símbolo de uma mudança de paradigma é pertinente. No entanto, faltou maior profundidade na análise das diferenças entre os dois textos: o Texto I apresenta uma visão mais pessimista e estruturalista (comércio como fator de empobrecimento relativo), enquanto o Texto II adota uma perspectiva mais otimista e propositiva (comércio como ferramenta para o desenvolvimento). Essa contraposição mereceria tratamento mais explícito e aprofundado. Além disso, a emissão de opinião pessoal, embora presente, poderia ser mais robusta e fundamentada. Nota: 7.5",
+      "2 – Correção gramatical e propriedade da linguagem: O texto apresenta linguagem formal e adequada, com vocabulário rico e variado. Foram identificados 5 erros: vírgula indevida entre sujeito e predicado, falta de plural em 'conquista', ausência de hífen em 'diretoria-geral' (duas ocorrências) e regência inadequada de 'influenciar'. A propriedade da linguagem é, em geral, muito boa, com uso adequado de conectivos e construções sintáticas bem elaboradas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula entre sujeito e predicado: 'a promoção da liberdade no intercâmbio mundial, tornou-se' — a vírgula separa sujeito de verbo.",
+      "'importantes conquista' — falta de concordância nominal; o correto seria 'importantes conquistas'.",
+      "'diretoria geral' — o correto seria 'diretoria-geral' (com hífen, por se tratar de substantivo composto).",
+      "'influenciará no modo' — regência inadequada; o verbo 'influenciar' é transitivo direto: 'influenciará o modo'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente que retoma a tese central.",
+      "O candidato demonstra sólido conhecimento histórico e teórico sobre comércio internacional, articulando de forma competente as teorias de Adam Smith e David Ricardo, o papel da CEPAL e de Prebisch, o GATT, a UNCTAD e a OMC.",
+      "O texto dialoga adequadamente com ambos os fragmentos apresentados no enunciado, identificando semelhanças (a preocupação com o desenvolvimento) e diferenças (a visão pessimista do Texto I versus a visão mais otimista e propositiva do Texto II).",
+      "A argumentação é bem encadeada e demonstra capacidade de reflexão crítica, embora pudesse explorar com mais profundidade as diferenças entre os dois textos e apresentar contrapontos mais robustos às teses cepalinas.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário preciso. Os poucos erros gramaticais identificados não comprometem significativamente a qualidade do texto.",
+      "As notas de rodapé indicadas por ¹ e ² sugerem observações adicionais que não constam no texto apresentado, o que pode indicar incompletude ou recurso não convencional para o formato de redação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula separando sujeito e predicado: 'a promoção da liberdade no intercâmbio mundial, tornou-se'",
+      "Falta de concordância de número: 'importantes conquista' deveria ser 'importantes conquistas'",
+      "Uso inadequado de 'diretoria geral' — o correto seria 'Diretoria-Geral' (com hífen e maiúsculas, por se tratar de cargo institucional)",
+      "Regência verbal questionável: 'influenciará no modo' — o verbo 'influenciar' no sentido empregado pede objeto direto ('influenciará o modo') ou a construção 'influirá no modo'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos coesos e conclusão que retoma a tese central.",
+      "O candidato demonstra sólido conhecimento histórico e teórico sobre comércio internacional, articulando de forma competente as teorias de Adam Smith e David Ricardo, o papel da CEPAL e de Prebisch, o GATT, a UNCTAD e a OMC.",
+      "Há boa articulação entre os dois textos do enunciado: o Texto I é conectado às teorias cepalinas de deterioração dos termos de troca, e o Texto II é vinculado à eleição de Roberto Azevêdo e à perspectiva desenvolvimentista do comércio.",
+      "O texto poderia ter explorado com mais profundidade as diferenças entre os dois fragmentos — o Texto I tem tom mais pessimista e o Texto II mais otimista — e discutido mais explicitamente as tensões entre essas visões.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal, embora haja alguns deslizes gramaticais pontuais que comprometem levemente a correção.",
+      "A argumentação é consistente e bem encadeada, com uso adequado de conectivos e transições entre os parágrafos, demonstrando capacidade de reflexão crítica sobre o tema."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula entre sujeito e predicado: 'a promoção da liberdade no intercâmbio mundial, tornou-se' — a vírgula separa sujeito de verbo.",
+      "'importantes conquista' — falta de concordância nominal; o correto seria 'importantes conquistas'.",
+      "'diretoria geral' — o correto seria 'diretoria-geral', com hífen, por se tratar de substantivo composto.",
+      "'influenciará no modo' — regência inadequada; o verbo 'influenciar' é transitivo direto nesse contexto: 'influenciará o modo'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem encadeado e conclusão coerente. O candidato demonstra amplo conhecimento histórico e teórico sobre comércio internacional, articulando de forma competente as ideias de Adam Smith, David Ricardo, Prebisch e a CEPAL com os textos motivadores.",
+      "O texto dialoga adequadamente com ambos os fragmentos: identifica a crítica cepalina presente no Texto I (deterioração dos termos de troca) e a perspectiva desenvolvimentista do Texto II (eleição de Azevêdo e o comércio como ferramenta de desenvolvimento). As semelhanças e diferenças entre os textos são abordadas de forma implícita ao longo da argumentação, embora pudessem ter sido explicitadas de maneira mais direta.",
+      "A capacidade argumentativa é notável, com boa progressão cronológica e temática. O candidato emite opinião de forma clara, posicionando-se favoravelmente à vertente desenvolvimentista do comércio internacional.",
+      "Há poucos erros gramaticais, mas a vírgula indevida entre sujeito e predicado no primeiro parágrafo e o erro de concordância ('conquista' por 'conquistas') são falhas que merecem atenção. A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário preciso.",
+      "Um ponto de melhoria seria uma discussão mais aprofundada e explícita das diferenças entre os dois textos — o Texto I apresenta tom mais pessimista sobre o comércio internacional, enquanto o Texto II adota perspectiva mais otimista e propositiva. Essa contraposição poderia ter sido mais explorada."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula separando sujeito e predicado em: 'a promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos'",
+      "Erro de concordância/número em: 'importantes conquista' — deveria ser 'importantes conquistas'",
+      "Uso inadequado de 'diretoria geral' — o termo mais preciso seria 'Direção-Geral' ou 'Diretoria-Geral' (com hífen e maiúsculas, por se tratar de cargo institucional)",
+      "Regência verbal questionável em 'influenciará no modo' — o verbo 'influenciar' no sentido empregado pede objeto direto ('influenciará o modo') ou a construção 'influirá no modo'"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa, com introdução clara que contextualiza o tema, desenvolvimento bem encadeado e conclusão coerente. A progressão cronológica — das teorias clássicas de Smith e Ricardo, passando pela CEPAL, até a OMC e a eleição de Azevêdo — confere organicidade ao argumento.",
+      "O candidato demonstra conhecimento sólido do tema, mobilizando referências pertinentes como Adam Smith, David Ricardo, Raúl Prebisch, a CEPAL, o GATT, a UNCTAD, o G-77 e a OMC. Isso evidencia domínio do conteúdo exigido pelo concurso.",
+      "A articulação entre os dois textos-base é bem realizada: o Texto I é conectado às teses cepalinas sobre deterioração dos termos de troca, e o Texto II é vinculado à eleição de Azevêdo e à perspectiva desenvolvimentista do comércio. As semelhanças (comércio como ferramenta de desenvolvimento) e diferenças (diagnóstico pessimista vs. perspectiva otimista) são abordadas, embora pudessem ser exploradas com maior profundidade analítica.",
+      "A argumentação, embora coerente e bem fundamentada, tende a ser mais narrativa/descritiva do que propriamente analítica em alguns trechos. Uma discussão mais aprofundada sobre as tensões entre livre comércio e protecionismo, ou sobre os limites concretos da atuação da OMC, elevaria o nível de reflexão crítica.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário apropriado e registro formal. Os poucos deslizes gramaticais identificados não comprometem a compreensão, mas revelam desatenção pontual que pode ser penalizada.",
+      "A opinião do candidato é emitida de forma clara, especialmente na conclusão, atendendo ao comando do enunciado. Contudo, a posição adotada é relativamente previsível e poderia ser enriquecida com nuances ou contrapontos mais elaborados."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula separando sujeito e predicado em: 'a promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos'",
+      "Erro de concordância/número em: 'importantes conquista' — deveria ser 'importantes conquistas'",
+      "Uso inadequado de 'diretoria geral' (com possível necessidade de hífen: 'diretoria-geral', conforme o padrão do cargo na OMC)",
+      "'influenciará no modo' — regência inadequada; o verbo 'influenciar' é transitivo direto: 'influenciará o modo'"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa, com introdução clara que contextualiza o tema, desenvolvimento bem articulado em parágrafos temáticos e conclusão coerente com a argumentação apresentada.",
+      "O candidato demonstra conhecimento sólido do tema, mobilizando referências históricas e teóricas pertinentes (Adam Smith, David Ricardo, CEPAL, Prebisch, GATT, UNCTAD, G-77, OMC), o que enriquece a argumentação.",
+      "A articulação entre os dois textos-base é bem conduzida: o candidato conecta a visão crítica do Texto I (deterioração dos termos de troca) com a perspectiva mais otimista do Texto II (eleição de Azevêdo e o comércio como ferramenta de desenvolvimento), identificando semelhanças e diferenças de percepção.",
+      "Um ponto a melhorar é a profundidade da análise das diferenças entre os textos. Embora o candidato identifique implicitamente que o Texto I é mais pessimista e o Texto II mais otimista, poderia ter explorado de forma mais explícita e analítica essas divergências de percepção, conforme solicitado pelo enunciado.",
+      "A argumentação, embora competente, segue uma linha cronológica relativamente previsível. Uma abordagem mais sofisticada poderia ter incorporado contrapontos, nuances ou análises mais críticas — por exemplo, questionando se a eleição de Azevêdo de fato representaria uma mudança estrutural ou se seria mais simbólica.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário pertinente e registro formal, embora com alguns deslizes gramaticais pontuais que não comprometem a compreensão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2013"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Uso indevido de vírgula separando sujeito e predicado em: 'a promoção da liberdade no intercâmbio mundial, tornou-se um dos principais objetivos'",
+      "Erro de concordância/número em: 'importantes conquista' — deveria ser 'importantes conquistas'",
+      "Uso inadequado de 'diretoria geral' — o termo mais preciso seria 'Direção-Geral' ou 'Diretoria-Geral' (com hífen e maiúsculas, por se tratar de cargo institucional)",
+      "Regência verbal questionável em 'influenciará no modo' — o verbo 'influenciar' no sentido empregado pede objeto direto ('influenciará o modo') ou a construção 'influirá no modo'"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa, com introdução clara que contextualiza o tema, desenvolvimento bem encadeado e conclusão coerente. A progressão cronológica — das teorias clássicas de Smith e Ricardo, passando pela CEPAL, até a OMC e a eleição de Azevêdo — confere organicidade ao argumento.",
+      "O candidato demonstra conhecimento sólido do tema, mobilizando referências pertinentes como Adam Smith, David Ricardo, Raúl Prebisch, a CEPAL, o GATT, a UNCTAD e o G-77. Isso enriquece a argumentação e demonstra domínio do conteúdo exigido pelo CACD.",
+      "A articulação entre os dois textos-base é bem realizada: o Texto I é conectado às teses cepalinas sobre deterioração dos termos de troca, e o Texto II é vinculado à eleição de Azevêdo e à perspectiva desenvolvimentista do comércio. As semelhanças (comércio como ferramenta de desenvolvimento) e diferenças (diagnóstico pessimista vs. perspectiva otimista) são abordadas, embora pudessem ser exploradas com maior profundidade analítica.",
+      "A argumentação, embora competente, tende a ser mais descritiva e narrativa do que propriamente analítica. O texto se beneficiaria de uma discussão mais aprofundada sobre as tensões entre livre comércio e protecionismo, ou sobre os limites concretos da atuação da OMC na promoção do desenvolvimento.",
+      "A emissão de opinião pessoal, exigida pelo enunciado, aparece de forma tímida e concentrada nos parágrafos finais. Uma posição mais assertiva e fundamentada ao longo do texto fortaleceria a redação.",
+      "O domínio da norma culta é bom, com poucos deslizes gramaticais. A linguagem é adequada ao contexto do concurso, com vocabulário pertinente e registro formal consistente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2013"
+  }
+]

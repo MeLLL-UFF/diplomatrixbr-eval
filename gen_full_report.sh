@@ -6,7 +6,7 @@ full_report(){
     local num_runs="$1"
     local model="$2"
 
-    python -m scripts.full_report --num_runs $num_runs --num_redacoes 88 --model $model
+    python -m scripts.full_report --num_runs $num_runs --num_redacoes 93 --model $model
 }
 
 models=(
