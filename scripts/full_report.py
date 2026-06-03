@@ -123,6 +123,8 @@ def plot_corr(df, model, path):
 def plot_comparacao_notas(df_plot, model_name, output_path, num_redacoes):
     fig, ax = plt.subplots(1, 1, figsize=(20, 6))
 
+    df_plot["redacao"] = "C" + df_plot["redacao"].astype(str)
+
     sns.lineplot(
         data=df_plot,
         x="redacao",
@@ -146,14 +148,15 @@ def plot_comparacao_notas(df_plot, model_name, output_path, num_redacoes):
         ax=ax
     )
 
-    ax.set_title(f"Comparação de Nota Gerada e Nota Humana por Redação\n{model_name}", fontsize=16)
-    ax.set_xlabel("Redação")
+    ax.set_title(f"Comparação de Nota Gerada e Nota Humana por Candidato\n{model_name}", fontsize=16)
+    ax.set_xlabel("Candidatos")
     ax.set_ylabel("Nota Final")
     ax.set_ylim(30, 70)
     ax.legend(bbox_to_anchor=(1, 1.1), loc="upper left")
     ax.spines[['top', 'right']].set_visible(False)
     ax.set_xlim(1, num_redacoes)
-    ax.set_xticks(list(range(1, num_redacoes + 1)))
+    ax.set_xticks(list(range(0, num_redacoes)))
+    ax.tick_params(axis='x', labelrotation=45)
 
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
     plt.savefig(f"{output_path}/comparacao_notas.png", dpi=300, bbox_inches='tight')
