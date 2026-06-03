@@ -12,6 +12,15 @@ mapping_faixas = {
     "indeterminado": 0
 }
 
+def print_full(df):
+    pd.set_option('display.max_rows', len(df))
+    pd.set_option('display.max_columns', len(df.columns))
+    pd.set_option('display.expand_frame_repr', False)
+    print(df)
+    pd.reset_option('display.max_columns')
+    pd.reset_option('display.max_rows')
+    pd.reset_option('display.expand_frame_repr')
+
 def create_new_row(data: dict, year: str, max_score_2: float, error_penalty: float) -> dict:
     nota_final = data.get("nota_final", None)
 

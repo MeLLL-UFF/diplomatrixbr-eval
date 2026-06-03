@@ -8,16 +8,7 @@ import argparse
 from sklearn.preprocessing import MinMaxScaler
 import math
 
-from .utils import get_mean
-
-def print_full(df):
-    pd.set_option('display.max_rows', len(df))
-    pd.set_option('display.max_columns', len(df.columns))
-    pd.set_option('display.expand_frame_repr', False)
-    print(df)
-    pd.reset_option('display.max_columns')
-    pd.reset_option('display.max_rows')
-    pd.reset_option('display.expand_frame_repr')
+from .utils import get_mean, print_full
 
 def quadratic_weighted_kappa(df: pd.DataFrame, bin_div: int = 1):
     prompts = df["prompt"].unique()
@@ -173,9 +164,7 @@ def plot_comparacao_notas(df_plot, model_name, output_path, num_redacoes, *, sep
     plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
-def full_report(num_runs, num_redacoes, model_name):
-    path_model_sheets = os.path.join(os.getcwd(), "prompt_testing", "sheets", model_name)
-
+def get_full_model_df(path_model_sheets, num_runs):
     list_path_model_sheets = os.listdir(path_model_sheets)
     list_path_model_sheets.sort()
 
@@ -191,7 +180,12 @@ def full_report(num_runs, num_redacoes, model_name):
         sheet.insert(len(sheet.columns), "ano", year)
         sheet_list.append(sheet)
 
-    model_df = pd.concat(sheet_list, ignore_index=True)
+    return pd.concat(sheet_list, ignore_index=True)
+
+def full_report(num_runs, num_redacoes, model_name):
+    path_model_sheets = os.path.join(os.getcwd(), "prompt_testing", "sheets", model_name)
+
+    model_df = get_full_model_df(path_model_sheets, num_runs)
 
     path_human_sheets = os.path.join(os.getcwd(), "prompt_testing", "sheets", "notas_humanas")
 

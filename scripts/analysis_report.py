@@ -9,16 +9,7 @@ from sklearn.preprocessing import MinMaxScaler
 import yaml
 
 from .plot import *
-from .utils import get_mean
-
-def print_full(df):
-    pd.set_option('display.max_rows', len(df))
-    pd.set_option('display.max_columns', len(df.columns))
-    pd.set_option('display.expand_frame_repr', False)
-    print(df)
-    pd.reset_option('display.max_columns')
-    pd.reset_option('display.max_rows')
-    pd.reset_option('display.expand_frame_repr')
+from .utils import get_mean, print_full
 
 def main(num_runs, eval_path, human_path, model, year):
     print(year)
