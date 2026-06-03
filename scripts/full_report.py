@@ -120,8 +120,19 @@ def plot_corr(df, model, path):
 
     plt.savefig(f"{path}/Correlacoes.png")
 
-def plot_comparacao_notas(df_plot, model_name, output_path, num_redacoes):
+def plot_comparacao_notas(df_plot, model_name, output_path, num_redacoes, *, separador_ano:bool=False):
     fig, ax = plt.subplots(1, 1, figsize=(20, 6))
+
+    if separador_ano == True:
+        separador = df_plot[["ano", "redacao"]]
+        separador["mudanca_ano"] = df_plot[["ano"]] != df_plot[["ano"]].shift()
+        mudanca_ano_indices = separador[separador["mudanca_ano"] == True]
+        mudanca_ano_indices = mudanca_ano_indices["redacao"].to_list()
+
+        for sep in range(0, len(mudanca_ano_indices)-1):
+            if sep%2 == 0:
+                continue
+            plt.axvspan(mudanca_ano_indices[sep]-1, mudanca_ano_indices[sep+1]-2, color="#CBCBCB4C")
 
     df_plot["redacao"] = "C" + df_plot["redacao"].astype(str)
 
@@ -153,13 +164,13 @@ def plot_comparacao_notas(df_plot, model_name, output_path, num_redacoes):
     ax.set_ylabel("Nota Final")
     ax.set_ylim(30, 70)
     ax.legend(bbox_to_anchor=(1, 1.1), loc="upper left")
-    ax.spines[['top', 'right']].set_visible(False)
+    ax.spines[['top', 'right']].set_visible(True)
     ax.set_xlim(1, num_redacoes)
     ax.set_xticks(list(range(0, num_redacoes)))
     ax.tick_params(axis='x', labelrotation=45)
 
     plt.tight_layout(rect=[0, 0, 1.1, 0.95])
-    plt.savefig(f"{output_path}/comparacao_notas.png", dpi=300, bbox_inches='tight')
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
     plt.close()
 
 def full_report(num_runs, num_redacoes, model_name):
@@ -215,12 +226,19 @@ def full_report(num_runs, num_redacoes, model_name):
     plot_corr(df, model_name, output_path)
 
     df_plot = df.copy()
-    df_plot = df_plot.sort_values(by=["nota_final_human", "redacao", "ano", "prompt"], ascending=[False, True, False, True])
-    df_plot["redacao"] = np.repeat(np.arange(1, num_redacoes + 1), num_runs)
-    df_plot["prompt"] = df_plot["prompt"].astype(str)
-    df_plot["prompt"] = df_plot["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão"})
+    df_plot_decrescente = df_plot.sort_values(by=["nota_final_human", "redacao", "ano", "prompt"], ascending=[False, True, False, True])
+    df_plot_ano = df_plot.sort_values(by=["ano", "nota_final_human", "redacao", "prompt"], ascending=[False, False, True, True])
 
-    plot_comparacao_notas(df_plot, model_name, output_path, num_redacoes)
+    df_plot_ano["redacao"] = np.repeat(np.arange(1, num_redacoes + 1), num_runs)
+    df_plot_ano["prompt"] = df_plot_ano["prompt"].astype(str)
+    df_plot_ano["prompt"] = df_plot_ano["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão"})
+
+    df_plot_decrescente["redacao"] = np.repeat(np.arange(1, num_redacoes + 1), num_runs)
+    df_plot_decrescente["prompt"] = df_plot_decrescente["prompt"].astype(str)
+    df_plot_decrescente["prompt"] = df_plot_decrescente["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão"})
+
+    plot_comparacao_notas(df_plot_decrescente, model_name, f"{output_path}/comparacao_notas.png", num_redacoes)
+    plot_comparacao_notas(df_plot_ano, model_name, f"{output_path}/comparacao_notas_ano.png", num_redacoes, separador_ano=True)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
