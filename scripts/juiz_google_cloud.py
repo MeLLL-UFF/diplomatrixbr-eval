@@ -41,8 +41,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
 
   load_dotenv()
 
-  GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-  client = genai.Client(api_key=GOOGLE_API_KEY)
+  client = AnthropicVertex(region="global", project_id="aida-reports")
 
   temp = list(map(float, temps))
   num_runs = n_iteracoes
@@ -52,7 +51,7 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
   jsonGerado = []
   root_path = os.getcwd()
 
-  path_prompts = os.path.join(root_path, "prompt_testing", "prompts.yaml")
+  path_prompts = os.path.join(root_path, "prompt_testing", "prompts_claude.yaml")
 
   with open(path_prompts, 'r', encoding='utf-8') as file:
       prompts_yaml = yaml.safe_load(file)
@@ -108,30 +107,15 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
         for i in (temp):
           for j in range(num_runs):
             try:
-              model_name = "claude-opus-4-7"
-              #response = client.models.generate_content(
-              #  model=model_name,
-              #  #contents=prompt_formatado,
-              #  contents= "Qual a capital da alemanha",
-              #  config=types.GenerateContentConfig(
-              #    temperature=i,
-              #    max_output_tokens=2048,
-              #    # response_mime_type="application/json",
-              #    #response_schema=formato_resposta,
-              #  )
-              #)
-              client = AnthropicVertex(region="global", project_id="diplomatrix")
-              message = client.messages.create(
-              max_tokens=2048,
-              messages=[{"role": "user", "content": "Hello! Can you help me?"}],
-              model="claude-opus-4-7"
+              model_name = "claude-opus-4-6"
+              message = client.messages.parse(
+                max_tokens=2048,
+                messages=[{"role": "user", "content": prompt_formatado}],
+                model=model_name,
+                temperature=0.0,
               )
-              print(message.content[0].text)
 
-            except Exception as e:
-              print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
-"""
-              response = json.loads(response.choices[0].message.content)
+              response = json.loads(message.content[0].text)
               response['modelo'] = model_name
               response['prompt'] = prompt['id']
               response['temp'] = float(i)
@@ -141,6 +125,23 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
               jsonGerado.append(response)
               print(f"Temperatura testada: {i}")
 
+            except Exception as e:
+              print(f"Erro na Redação {numero_redacao} - Prompt {prompt['id']} - Temp {i} - Run {j+1}: {e}")
+
+              print(f"Erro ao transformar saída em JSON\n ERRO {e}")
+              dump_path = os.path.join(os.getcwd(), "prompt_testing", "essay_dump", "redacoes_unicas")
+              os.makedirs(dump_path, exist_ok=True)
+              dump_path = os.path.join(dump_path, f'redacao_{ano}_{numero_redacao}_output_{model_name}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+              dump_file = {}
+              with open(dump_path, "w", encoding="utf-8") as file:
+                dump_file['json'] = message.content[0].text
+                dump_file['modelo'] = model_name
+                dump_file['prompt'] = prompt['id']
+                dump_file['temp'] = float(i)
+                dump_file['versao'] = j + 1
+                dump_file['essay'] = numero_redacao
+                dump_file['ano'] = ano
+                json.dump(dump_file, file, indent=2, ensure_ascii=False)
     
     # Salvar resultados parciais por redação pra evitar perda de dados
     # Pode ser removido se não for necessário
@@ -154,10 +155,11 @@ def main(n_iteracoes, temps, anos, lista_prompts, lista_redacao=None):
     listtemps += str(i) + "_"
 
   output_path = os.path.join(os.getcwd(), "prompt_testing", "outputs", model_name, f'output_{response["modelo"]}_{ano}_p{lista_prompts[0]}-{lista_prompts[-1]}_{num_runs}r.json')
+  os.makedirs(os.path.join(os.getcwd(), "prompt_testing", "outputs", model_name), exist_ok=True)
   with open(output_path, 'w', encoding="utf-8") as file:
     json.dump(jsonGerado, file, indent=2, ensure_ascii=False)
     file.close()
-"""
+
 if __name__ == "__main__":
   parser = argparse.ArgumentParser(description="Avalia redações de um determinado ano do CACD com Sabia.")
   parser.add_argument("--n_iteracoes", type=int, required=True, help="Quantas iterações por redação.")

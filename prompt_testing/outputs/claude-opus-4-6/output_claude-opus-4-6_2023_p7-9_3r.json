@@ -1,0 +1,1153 @@
+[
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"os seus colega\" – falta de concordância nominal; o correto seria \"os seus colegas\".",
+      "\"elidir desconsiderar [sobrescrita]\" – rasura/sobrescrita que compromete a clareza; além disso, \"elidir\" está empregado de forma inadequada no contexto (o candidato parece ter tentado corrigir, mas o resultado ficou confuso).",
+      "\"findar por causar\" – uso inadequado do verbo \"findar\"; o correto seria \"acabar por causar\" ou \"terminar por causar\". \"Findar\" não rege essa construção.",
+      "\"mercado laboral\" – embora não seja propriamente um erro gramatical, é um hispanismo; o termo adequado em português é \"mercado de trabalho\".",
+      "\"Tão importante quanto as possibilidades e desafios decorrentes da IA são as respostas\" – erro de concordância verbal/nominal: \"Tão importantes quanto\" (o adjetivo deveria concordar com o sujeito plural) ou reestruturação da frase.",
+      "\"Neste caso\" no penúltimo parágrafo – inconsistência no uso de pronomes demonstrativos; no contexto discursivo, \"nesse caso\" seria mais adequado, embora o candidato use \"neste\" para referência catafórica de forma discutível."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em três blocos temáticos (benefícios, riscos e respostas diplomáticas) e conclusão. A progressão argumentativa é clara e lógica, o que facilita a leitura e demonstra planejamento textual.",
+      "A abertura com a citação de Alexander Wendt é pertinente e demonstra repertório teórico em Relações Internacionais, embora a analogia construída ('a tecnologia é o que os Estados fazem dela') seja um pouco simplificadora. A referência a Portinari na conclusão também enriquece o texto.",
+      "No critério de argumentação, o candidato apresenta exemplos concretos e variados (simulação de conferências, desmatamento, ODS 4, tradução simultânea, drones em guerras, terrorismo), o que demonstra capacidade de ilustrar os argumentos. Contudo, alguns exemplos carecem de maior profundidade analítica – por exemplo, a ideia de 'erradicar o desmatamento até 2028 com IA' é apresentada de forma superficial, sem explicar como a IA contribuiria concretamente.",
+      "A capacidade de análise e reflexão é satisfatória. O candidato consegue articular impactos positivos e negativos e propor respostas diplomáticas. No entanto, a análise poderia ser mais sofisticada em alguns pontos: a proposta de 'banir a utilização de IA em guerras' é apresentada de forma categórica sem considerar as dificuldades práticas de tal proibição. A discussão sobre desigualdade entre Estados no acesso à IA é um ponto forte e bem desenvolvido.",
+      "Do ponto de vista gramatical, a redação é majoritariamente correta, mas apresenta alguns deslizes, incluindo erro de concordância ('os seus colega'), uso inadequado de vocabulário ('findar por causar', 'mercado laboral') e uma rasura/sobrescrita que prejudica a apresentação.",
+      "A conclusão retoma adequadamente os argumentos, mas poderia ser mais propositiva e menos genérica em suas formulações finais ('paz, justiça e prosperidade').",
+      "O texto atende bem ao comando da questão, que pedia para discorrer sobre impactos positivos e negativos da IA para o futuro da diplomacia, considerando elementos do texto da UNESCO. A referência à UNESCO poderia ter sido mais explorada ao longo do desenvolvimento."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 16.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"os seus colega\" – falta de concordância nominal; o correto seria \"os seus colegas\".",
+      "\"elidir desconsiderar [sobrescrita]\" – trecho confuso com rasura/sobrescrita, comprometendo a clareza e configurando erro de redação.",
+      "\"findar por causar\" – uso inadequado do verbo \"findar\"; o correto seria \"acabar por causar\" ou \"terminar por causar\". \"Findar\" não rege essa construção.",
+      "\"mercado laboral\" – embora não seja propriamente um erro gramatical, é um estrangeirismo desnecessário (do espanhol); o termo adequado em português é \"mercado de trabalho\".",
+      "\"Tão importante quanto as possibilidades e desafios decorrentes da IA são as respostas\" – erro de concordância verbal/nominal; o sujeito da oração principal (\"as respostas\") exige ajuste na concordância com \"tão importantes\".",
+      "\"Neste caso\" – uso de \"neste\" quando o referente é algo mencionado anteriormente no texto, sendo mais adequado \"nesse caso\" para manter a coerência do sistema de referência anafórica."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização estrutural, com introdução, desenvolvimento em três parágrafos temáticos (benefícios, riscos e respostas diplomáticas) e conclusão. A progressão argumentativa é clara e lógica, o que facilita a leitura e demonstra planejamento textual.",
+      "A abertura com a citação de Alexander Wendt é pertinente e demonstra repertório teórico em Relações Internacionais, embora a analogia construída ('a tecnologia é o que os Estados fazem dela') seja um pouco simplificadora. A referência a Portinari na conclusão é um toque cultural interessante, mas poderia ser mais desenvolvida.",
+      "No critério de argumentação, o candidato demonstra boa capacidade de elencar exemplos concretos (simulação de conferências, desmatamento, ODS 4, agricultura de precisão, drones em conflitos). Contudo, alguns argumentos carecem de maior profundidade analítica. Por exemplo, a ideia de que a IA poderia substituir intérpretes na diplomacia é apresentada de forma superficial, sem considerar as nuances culturais e políticas da interpretação diplomática.",
+      "A análise dos impactos negativos é mais robusta que a dos positivos, com menções pertinentes à desigualdade de acesso tecnológico, impactos no mercado de trabalho, uso militar da IA e terrorismo. Porém, a discussão sobre regulamentação no terceiro parágrafo de desenvolvimento tende ao normativo/prescritivo sem aprofundar as dificuldades reais de se alcançar consenso internacional sobre o tema.",
+      "A capacidade de reflexão é satisfatória, mas poderia ser aprimorada com maior problematização. Afirmações como 'É necessário banir a utilização desta em guerras' são categóricas demais sem considerar a complexidade geopolítica envolvida. A redação se beneficiaria de mais nuances e contrapontos.",
+      "Quanto à correção gramatical, o texto é majoritariamente bem escrito, com vocabulário adequado ao registro formal. Os erros identificados são pontuais, mas o trecho com rasura/sobrescrita ('elidir desconsiderar') prejudica a apresentação. O erro de concordância em 'os seus colega' é elementar e chama atenção negativamente.",
+      "No geral, trata-se de uma redação acima da média, com boa estrutura, argumentação razoavelmente diversificada e linguagem predominantemente correta, mas que poderia ganhar em profundidade analítica e em rigor nas proposições normativas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 15.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"os seus colega\" – falta de concordância nominal; deveria ser \"os seus colegas\"",
+      "\"elidir desconsiderar [sobrescrita]\" – trecho confuso com rasura/sobrescrita, comprometendo a clareza e configurando erro de redação",
+      "\"findar por causar\" – uso inadequado do verbo \"findar\"; o correto seria \"acabar por causar\" ou \"terminar por causar\" (\"findar\" não rege essa construção)",
+      "\"mercado laboral\" – embora não seja erro gramatical estrito, é um estrangeirismo desnecessário; o termo adequado em português é \"mercado de trabalho\"",
+      "\"Tão importante quanto as possibilidades e desafios decorrentes da IA são as respostas\" – erro de concordância verbal/nominal; deveria ser \"Tão importantes quanto...são\" ou reestruturar a frase",
+      "\"crescimento econômico  ou miséria\" – espaço duplo antes de \"ou\" (erro menor de formatação/digitação)"
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução, desenvolvimento em três parágrafos temáticos (benefícios, riscos e respostas diplomáticas) e conclusão. O estilo é adequado ao gênero dissertativo-argumentativo e ao nível do CACD. A abertura com a citação de Alexander Wendt é pertinente e confere erudição. A conclusão com referência a Portinari é criativa, embora um pouco forçada. A coerência geral é boa, com transições razoáveis entre parágrafos. Nota: 8.5",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade de organizar argumentos, apresentando exemplos concretos (simulação de conferências, desmatamento, ODS 4, tradução simultânea, drones, terrorismo). Há sistematização clara: benefícios, riscos e propostas. Contudo, alguns argumentos carecem de maior profundidade e precisão factual – por exemplo, a meta de erradicar o desmatamento até 2028 não é exatamente assim formulada pelo Brasil, e a afirmação de que se deve 'banir a utilização da IA em guerras' é simplista diante da complexidade do tema. Alguns exemplos são um pouco genéricos. Nota: 8.0",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao abordar múltiplas dimensões do tema (econômica, securitária, social, ambiental, educacional). A reflexão sobre a desigualdade de acesso à IA entre países centrais e periféricos é pertinente e bem articulada com as relações internacionais. A proposta de regulamentação internacional é adequada. No entanto, a análise poderia ser mais sofisticada em alguns pontos: a discussão sobre ética da IA (tema central do enunciado da UNESCO) é superficial; não há aprofundamento sobre transparência, governança de dados ou igualdade de gênero, elementos mencionados no texto motivador. A reflexão sobre o papel específico da diplomacia brasileira poderia ser mais desenvolvida. A dualidade apresentada na conclusão é interessante, mas a análise geral permanece em nível intermediário de profundidade. Nota: 15.0",
+      "CGPL – Correção gramatical: Foram identificados 6 erros, incluindo falha de concordância nominal ('os seus colega'), trecho com rasura/sobrescrita que compromete a clareza, uso inadequado de 'findar por causar', erro de concordância em 'tão importante quanto...são', uso de estrangeirismo desnecessário ('laboral') e espaço duplo. A linguagem é, em geral, adequada e formal, com vocabulário variado e pertinente ao contexto diplomático."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'os seus colega' — falta de concordância nominal; deveria ser 'os seus colegas'",
+      "'elidir desconsiderar [sobrescrita]' — rasura/sobrescrita que compromete a clareza e indica hesitação na escolha vocabular",
+      "'mercado laboral' — embora não seja erro estrito, 'mercado de trabalho' seria mais adequado em português; 'laboral' é um hispanismo pouco usual",
+      "'findar por causar' — uso inadequado do verbo 'findar'; o correto seria 'acabar por causar' ou 'terminar por causar'",
+      "'Tão importante quanto as possibilidades e desafios decorrentes da IA são as respostas' — problema de concordância verbal/nominal; 'tão importantes quanto... são' ou reestruturação da frase"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em parágrafos temáticos (impactos positivos, negativos e respostas diplomáticas) e conclusão coerente.",
+      "O candidato demonstra bom repertório de conhecimentos de relações internacionais, citando Alexander Wendt, ODS 4, conferências ambientais e obras de Portinari, o que enriquece a argumentação.",
+      "A abordagem dos impactos positivos é criativa e bem fundamentada, incluindo simulações de conferências, tradução automática e parcerias com empresas de tecnologia.",
+      "A análise dos impactos negativos é abrangente, cobrindo desigualdade entre Estados, uso militar da IA, terrorismo e impactos no mercado de trabalho.",
+      "O parágrafo propositivo sobre regulamentação internacional é pertinente e bem articulado, demonstrando capacidade de reflexão sobre soluções diplomáticas.",
+      "A rasura/sobrescrita ('elidir desconsiderar') prejudica a apresentação e deve ser evitada em provas formais.",
+      "Alguns exemplos poderiam ser mais aprofundados analiticamente em vez de apenas enumerados, o que fortaleceria a capacidade argumentativa.",
+      "A linguagem é, em geral, adequada ao registro formal exigido pelo concurso, com vocabulário sofisticado e boa fluência textual."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"os seus colega\" - falta de concordância nominal (deveria ser \"os seus colegas\")",
+      "\"elidir desconsiderar [sobrescrita]\" - rasura/sobrescrita que compromete a clareza e indica hesitação na escolha vocabular",
+      "\"findar por causar\" - uso inadequado do verbo \"findar\" (o correto seria \"acabar por causar\" ou \"terminar por causar\")",
+      "\"mercado laboral\" - embora não seja propriamente um erro, \"mercado de trabalho\" seria mais adequado em português; \"laboral\" é um hispanismo pouco usual",
+      "\"Tão importante quanto as possibilidades e desafios decorrentes da IA são as respostas\" - problema de concordância verbal/nominal (\"Tão importantes quanto... são\")"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em três parágrafos temáticos (benefícios, riscos e respostas diplomáticas) e conclusão, demonstrando planejamento textual adequado.",
+      "O candidato demonstra conhecimento de relações internacionais ao citar Alexander Wendt, os ODS, a UNESCO e referências culturais como Portinari, o que enriquece a argumentação.",
+      "Os impactos positivos são bem explorados (simulação de conferências, tradução automática, apoio a metas ambientais), embora alguns exemplos sejam um pouco especulativos e careçam de maior fundamentação.",
+      "Os impactos negativos são pertinentes (desigualdade de acesso, armas autônomas, uso por grupos terroristas), mas poderiam ser aprofundados com mais rigor analítico e exemplos concretos.",
+      "O terceiro parágrafo de desenvolvimento, sobre respostas diplomáticas, embora demonstre propositura, apresenta algumas ideias um tanto genéricas ('desafios globais demandam soluções globais') e poderia ser mais sofisticado na análise dos mecanismos de governança.",
+      "A conclusão é adequada, retomando a dualidade do tema e fazendo referência cultural pertinente, embora a comparação com as telas de Portinari seja um pouco forçada.",
+      "A linguagem é, em geral, adequada ao registro formal exigido, com vocabulário variado e construções sintáticas bem elaboradas, apesar dos poucos erros identificados.",
+      "A rasura/sobrescrita no terceiro parágrafo prejudica a apresentação do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"os seus colega\" - falta de concordância nominal (deveria ser \"os seus colegas\")",
+      "\"elidir desconsiderar [sobrescrita]\" - rasura/sobrescrita que compromete a clareza e indica hesitação na escolha vocabular",
+      "\"findar por causar\" - uso inadequado do verbo \"findar\" (o correto seria \"acabar por causar\" ou \"findar por\" é de registro questionável nesse contexto)",
+      "\"mercado laboral\" - embora não seja erro gramatical estrito, \"mercado de trabalho\" seria mais adequado em português; \"laboral\" é um hispanismo de uso restrito",
+      "\"Tão importante quanto as possibilidades e desafios decorrentes da IA são as respostas\" - problema de concordância verbal/nominal: \"Tão importantes quanto... são\" ou \"Tão importante quanto... é\""
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura organizacional, com introdução clara, desenvolvimento em dois blocos (impactos positivos e negativos), uma seção propositiva e conclusão bem articulada.",
+      "O candidato demonstra bom repertório cultural e de relações internacionais, com referências pertinentes a Alexander Wendt, ODS 4, UNESCO, Portinari, conferências ambientais, o que enriquece a argumentação.",
+      "A argumentação é consistente e bem encadeada, com uso adequado de conectivos e transições entre parágrafos, demonstrando domínio da estrutura dissertativa.",
+      "Os exemplos concretos são variados e pertinentes (simulação de conferências, desmatamento, tradução automática, drones em guerras, terrorismo), embora alguns sejam um pouco especulativos.",
+      "A linguagem é predominantemente formal e adequada ao contexto do CACD, com vocabulário sofisticado (espraiamento, diapasão, elidir, engendrar).",
+      "A rasura/sobrescrita no terceiro parágrafo prejudica a apresentação e sugere falta de planejamento textual.",
+      "A conclusão com a referência a Portinari é elegante, embora a dualidade mencionada pudesse ser mais aprofundada.",
+      "O texto poderia explorar com mais profundidade aspectos específicos da diplomacia brasileira e sua posição nos fóruns multilaterais sobre regulamentação de IA."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'os seus colega' — falta de concordância nominal; deveria ser 'os seus colegas'",
+      "'elidir desconsiderar [sobrescrita]' — rasura/sobrescrita que compromete a clareza; construção truncada",
+      "'findar por causar' — uso inadequado do verbo 'findar'; o mais adequado seria 'acabar por causar' ou 'terminar por causar'",
+      "'Tão importante quanto as possibilidades e desafios decorrentes da IA são as respostas' — problema de concordância; 'tão importantes quanto' para concordar com 'respostas' no plural, ou reestruturação da frase",
+      "'crescimento econômico  ou miséria' — espaço duplo (erro tipográfico menor)"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução clara, dois parágrafos de desenvolvimento (impactos positivos e negativos), um parágrafo propositivo e uma conclusão. Essa divisão é coerente com o que o enunciado solicita.",
+      "O candidato demonstra conhecimento relevante de relações internacionais, fazendo referências pertinentes a Alexander Wendt, aos ODS, à UNESCO e a Portinari, o que enriquece a argumentação e demonstra repertório cultural.",
+      "Os exemplos utilizados são variados e pertinentes — simulação de conferências, tradução automática, IA em armamentos, terrorismo, agricultura de precisão —, embora alguns careçam de maior aprofundamento analítico e pareçam um tanto especulativos.",
+      "O parágrafo propositivo (terceiro de desenvolvimento) é extenso e, por vezes, apresenta propostas genéricas ('desafios globais demandam soluções globais'), o que enfraquece a sofisticação argumentativa. Algumas propostas, como 'banir a utilização da IA em guerras', poderiam ser problematizadas em vez de simplesmente afirmadas.",
+      "A linguagem é, em geral, adequada ao registro formal exigido pelo CACD, com vocabulário variado e construções sintáticas bem elaboradas. Contudo, há alguns deslizes gramaticais e uma rasura que prejudicam a apresentação.",
+      "A conclusão retoma bem os pontos discutidos e encerra com uma referência cultural interessante (Portinari), embora a comparação com as telas 'Guerra e Paz' pudesse ser mais desenvolvida para não parecer meramente ornamental.",
+      "Para alcançar uma faixa superior, o candidato poderia aprofundar a análise dos impactos da IA especificamente sobre a prática diplomática (e não apenas sobre relações internacionais em geral), além de apresentar argumentação mais nuançada e menos prescritiva no parágrafo propositivo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"os seus colega\" — falta de concordância nominal; deveria ser \"os seus colegas\".",
+      "\"elidir desconsiderar [sobrescrita]\" — rasura/sobrescrita que compromete a clareza; a construção ficou truncada.",
+      "\"findar por causar\" — uso inadequado do verbo 'findar'; o mais adequado seria 'acabar por causar' ou 'terminar por causar'.",
+      "\"Tão importante quanto as possibilidades e desafios decorrentes da IA são as respostas\" — problema de concordância verbal/nominal; 'tão importantes quanto... são' ou reestruturação da frase.",
+      "\"mercado laboral\" — embora não seja erro gramatical estrito, é um hispanismo; em português padrão, o termo mais adequado é 'mercado de trabalho'."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem definida, com introdução, desenvolvimento em dois blocos (aspectos positivos e negativos) e uma seção propositiva, além de conclusão. Isso demonstra boa organização textual.",
+      "O candidato demonstra conhecimento de relações internacionais ao citar Alexander Wendt, os ODS, a UNESCO e referências culturais como Portinari, o que enriquece a argumentação e mostra repertório.",
+      "Os exemplos concretos — como o uso de IA para simulação de conferências, tradução simultânea, combate ao desmatamento, agricultura de precisão — são pertinentes e bem articulados ao tema da diplomacia.",
+      "A análise dos impactos negativos é diversificada (desigualdade entre Estados, armas autônomas, terrorismo, mercado de trabalho), embora alguns pontos pudessem ser aprofundados com mais rigor analítico, especialmente no que tange à governança de dados e vieses algorítmicos, temas centrais do texto motivador da UNESCO.",
+      "A parte propositiva, embora demonstre engajamento com soluções, tende a ser um pouco genérica e voluntarista ('os Estados devem estabelecer tratados', 'é necessário banir'), sem explorar as dificuldades concretas de regulamentação internacional da IA, o que reduziria a sofisticação argumentativa.",
+      "A rasura/sobrescrita ('elidir desconsiderar') prejudica a apresentação e a clareza naquele trecho específico.",
+      "A conclusão com a referência a Portinari é elegante, mas a analogia poderia ser mais desenvolvida para não parecer meramente ornamental.",
+      "De modo geral, o texto é coerente, bem escrito e demonstra domínio razoável do tema e da norma culta, com poucos deslizes. Para alcançar a faixa 'Excelente', seria necessário maior profundidade analítica, diálogo mais estreito com o texto motivador (ética, transparência, governança de dados) e argumentação menos previsível em certos trechos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'os seus colega' — falta de concordância nominal; deveria ser 'os seus colegas'",
+      "'elidir desconsiderar [sobrescrita]' — trecho confuso com rasura/sobrescrita, comprometendo a clareza da frase",
+      "'findar por causar' — uso inadequado do verbo 'findar'; o mais adequado seria 'acabar por causar' ou 'terminar por causar'",
+      "'Tão importante quanto as possibilidades e desafios decorrentes da IA são as respostas' — problema de concordância verbal/nominal; 'tão importantes quanto... são' ou reestruturação da frase",
+      "'crescimento econômico  ou miséria' — espaço duplo (erro tipográfico menor)"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução clara, dois parágrafos de desenvolvimento (impactos positivos e negativos), um parágrafo propositivo e uma conclusão. Essa divisão é coerente com o que o enunciado solicita.",
+      "O candidato demonstra conhecimento relevante de relações internacionais, fazendo referências pertinentes a Alexander Wendt, aos ODS, à UNESCO e a Portinari, o que enriquece a argumentação e demonstra repertório cultural.",
+      "Os exemplos utilizados são variados e pertinentes — simulação de conferências, tradução automática, IA em armamentos, agricultura de precisão —, embora alguns careçam de maior aprofundamento analítico e possam soar um tanto especulativos.",
+      "O parágrafo propositivo (terceiro de desenvolvimento) é ambicioso, mas tende a ser prescritivo e genérico em alguns momentos ('Desafios globais demandam soluções globais'), sem aprofundar os mecanismos concretos de governança ou os obstáculos políticos à regulamentação.",
+      "A linguagem é, em geral, adequada ao registro formal exigido pelo CACD, com vocabulário variado e boa fluência. Contudo, há alguns deslizes gramaticais e de clareza que impedem a classificação em faixa superior.",
+      "A conclusão retoma bem os pontos centrais e encerra com referência cultural (Portinari), mas poderia ser mais sintética e evitar repetições de ideias já apresentadas nos parágrafos anteriores.",
+      "Para alcançar a faixa 'Excelente', seria recomendável maior sofisticação analítica — por exemplo, discutir tensões entre soberania e governança global da IA, ou abordar o papel de organizações internacionais específicas com mais profundidade — e eliminar os erros gramaticais identificados."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 14.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"O surgimento de novas tecnologias contribuíram\" — erro de concordância verbal: o sujeito é \"O surgimento\", núcleo no singular, portanto o verbo deveria ser \"contribuiu\".",
+      "\"crimes contra à humanidade\" — erro de crase indevida: o verbo \"contra\" é preposição que não admite artigo definido obrigatório nesse contexto, e \"contra\" não rege crase. O correto seria \"contra a humanidade\".",
+      "\"a inteligência artificial pode ser uma consequência positiva para a diplomacia\" — inadequação de propriedade vocabular: a IA não é uma \"consequência\", mas sim uma ferramenta ou fator que gera consequências positivas. Uso impreciso do termo.",
+      "\"razão pela qual a diplomacia pode ser importante nesse processo\" — embora não seja erro gramatical estrito, há imprecisão na construção argumentativa que enfraquece a coesão do parágrafo."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução, três parágrafos de desenvolvimento e conclusão claramente delimitados. A linguagem é formal e adequada ao gênero dissertativo-argumentativo. A coerência é mantida ao longo do texto, com transições razoáveis entre os parágrafos. Há, porém, certa repetitividade no uso de estruturas como \"a inteligência artificial pode\" e \"de maneira que\", o que prejudica levemente o estilo. Nota: 8.0",
+      "1B – Capacidade de argumentação: O candidato apresenta argumentos pertinentes e utiliza exemplos concretos (Primavera Árabe, Cambridge Analytica, Rohingyas, guerra na Ucrânia, Amazônia), o que demonstra repertório sociocultural. A referência a Milton Santos é pertinente. Contudo, alguns argumentos carecem de maior profundidade e precisão — por exemplo, a menção ao reconhecimento facial em negociações diplomáticas é questionável e pouco fundamentada. A relação entre redes sociais e IA poderia ser mais bem articulada, pois redes sociais não são necessariamente IA. A argumentação é sistemática, mas por vezes superficial. Nota: 7.5",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade de analisar o tema sob múltiplas perspectivas (riscos, resolução de conflitos, direitos humanos, meio ambiente), o que é positivo. No entanto, a análise permanece em nível intermediário: falta aprofundamento sobre questões éticas específicas da IA na diplomacia (vieses algorítmicos em decisões diplomáticas, soberania digital, assimetrias tecnológicas entre países, impacto na formação do diplomata). A reflexão sobre regulamentação é mencionada, mas não desenvolvida com profundidade — não se discute, por exemplo, quais foros seriam adequados, os desafios de governança global da IA, ou as tensões entre diferentes modelos regulatórios. A conclusão retoma a tese de forma coerente, mas sem acrescentar nova camada analítica. Nota: 14.0",
+      "CGPL – Correção gramatical e propriedade da linguagem: Foram identificados erros pontuais, sendo os mais relevantes o erro de concordância verbal (\"tecnologias contribuíram\" com sujeito \"surgimento\") e a crase indevida em \"contra à humanidade\". Há também imprecisões vocabulares. De modo geral, o texto apresenta boa correção linguística, com poucos desvios. Desconto de 2.0 pontos pelos erros identificados. Nota: 18.0"
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 14.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"O surgimento de novas tecnologias contribuíram\" — erro de concordância verbal: o sujeito é \"O surgimento\", núcleo no singular, portanto o verbo deveria ser \"contribuiu\".",
+      "\"crimes contra à humanidade\" — erro de crase indevida: o verbo \"contra\" é preposição que não admite artigo definido obrigatório nesse contexto, e \"contra\" não rege crase. O correto seria \"contra a humanidade\".",
+      "\"a inteligência artificial pode ser uma consequência positiva para a diplomacia\" — inadequação semântica/propriedade da linguagem: a IA não é uma \"consequência\", mas sim um instrumento ou fator que gera consequências positivas.",
+      "\"ao auxiliar na negociação de acordos de paz e ao promover\" — paralelismo questionável com \"ao promover\": a construção sugere que a IA promove diretamente os direitos humanos, quando o sentido pretendido é \"ao contribuir para a promoção de\". Embora não seja erro gramatical estrito, compromete a propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização estrutural, com introdução, três parágrafos de desenvolvimento e conclusão, seguindo um encadeamento lógico claro. A impressão geral é de um texto bem articulado e legível.",
+      "A argumentação é pertinente ao tema proposto, abordando tanto impactos positivos (resolução de conflitos, monitoramento de acordos, direitos humanos, meio ambiente) quanto negativos (desinformação, violação de direitos) da IA para a diplomacia. Os exemplos utilizados — Primavera Árabe, Cambridge Analytica, Rohingyas, guerra na Ucrânia, Amazônia — são relevantes e demonstram repertório.",
+      "Ponto de melhoria na capacidade de análise: a redação tende a ser mais descritiva do que analítica em vários momentos. Por exemplo, no segundo parágrafo, a discussão sobre redes sociais e Primavera Árabe, embora pertinente, é mais uma analogia do que uma análise aprofundada dos impactos da IA na diplomacia. A conexão entre os exemplos e a tese central poderia ser mais elaborada.",
+      "A reflexão sobre os impactos negativos da IA para a diplomacia ficou concentrada basicamente no segundo parágrafo e de forma indireta (via analogia com redes sociais). Faltou explorar riscos específicos da IA para a diplomacia, como vieses algorítmicos em negociações, questões de soberania digital, corrida armamentista em IA, deepfakes em relações internacionais, ou o impacto da automação sobre o próprio ofício diplomático.",
+      "A referência à Recomendação da UNESCO sobre ética da IA, mencionada no enunciado, poderia ter sido mais explorada no corpo do texto, especialmente os princípios de transparência, responsabilidade e governança de dados.",
+      "A citação de Milton Santos é interessante e confere erudição ao texto, mas poderia ter sido mais integrada à argumentação ao longo da redação, em vez de aparecer apenas na introdução e ser brevemente retomada na conclusão.",
+      "Há erro de concordância verbal no primeiro parágrafo que compromete a correção gramatical, além de crase indevida no quarto parágrafo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 14.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"O surgimento de novas tecnologias contribuíram\" — erro de concordância verbal: o sujeito é \"O surgimento\", núcleo no singular, portanto o verbo deveria ser \"contribuiu\".",
+      "\"crimes contra à humanidade\" — erro de crase indevida: o verbo \"contra\" é preposição que não admite artigo definido obrigatório nesse contexto, e \"contra\" não rege crase. O correto seria \"contra a humanidade\".",
+      "\"a inteligência artificial pode ser uma consequência positiva para a diplomacia\" — impropriedade lexical: IA não é uma \"consequência\", mas sim uma ferramenta ou instrumento. O termo adequado seria \"contribuição\" ou \"instrumento positivo\".",
+      "\"ao auxiliar na negociação de acordos de paz e ao promover\" — possível problema de paralelismo/regência: \"ao promover\" deveria manter a mesma estrutura \"ao auxiliar na promoção de\" ou ajustar para consistência, embora seja aceitável em registro menos formal."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução, três parágrafos de desenvolvimento e conclusão claramente delimitados. A redação apresenta boa coerência e fluidez, com transições adequadas entre os parágrafos. O estilo é formal e compatível com o esperado no CACD. Há, porém, certa repetitividade no uso da expressão 'inteligência artificial' ao longo do texto, o que prejudica levemente a elegância estilística. O uso excessivo de aspas em termos como 'Internet', 'Facebook', 'Instagram' e 'Brexit' é desnecessário em alguns casos. Nota: 8.0",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade de sistematização, organizando os argumentos em torno de três eixos: riscos da ausência de regulamentação, contribuição para resolução de conflitos e promoção de direitos humanos e meio ambiente. Os exemplos são pertinentes (Primavera Árabe, Cambridge Analytica, Rohingyas, guerra na Ucrânia, monitoramento da Amazônia). A referência a Milton Santos é adequada, embora pudesse ser mais aprofundada. Contudo, alguns argumentos carecem de maior profundidade e especificidade em relação à diplomacia propriamente dita — por vezes o texto trata mais de tecnologia em geral do que de impactos específicos na prática diplomática. Nota: 7.5",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica razoável ao abordar tanto impactos positivos quanto negativos da IA para a diplomacia, conforme solicitado pelo enunciado. A menção à Recomendação da UNESCO sobre ética da IA poderia ter sido mais explícita e aprofundada, considerando que o texto motivador trata especificamente desse documento. A análise sobre regulamentação internacional é pertinente, mas permanece superficial — não se discutem, por exemplo, os desafios geopolíticos da governança da IA, as assimetrias tecnológicas entre países desenvolvidos e em desenvolvimento, ou os riscos de uso militar da IA. A reflexão sobre reconhecimento facial em negociações é interessante, mas levanta questões éticas que não foram exploradas. A conclusão retoma adequadamente a tese, mas não acrescenta elementos novos significativos. Nota: 14.0",
+      "CGPL – Correção gramatical e propriedade da linguagem: O texto apresenta poucos erros gramaticais, sendo os mais relevantes o erro de concordância verbal no primeiro parágrafo ('contribuíram' em vez de 'contribuiu') e o uso indevido de crase em 'contra à humanidade'. Há também uma impropriedade lexical ao chamar a IA de 'consequência positiva' quando o termo adequado seria 'instrumento' ou 'contribuição'. De modo geral, a linguagem é adequada ao registro formal exigido. Desconto estimado: 2.0 pontos. Nota em CGPL: 18.0"
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 50.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O surgimento de novas tecnologias contribuíram' — o sujeito é 'O surgimento', núcleo no singular, devendo ser 'contribuiu'.",
+      "Erro de regência/crase: 'crimes contra à humanidade' — o verbo/locução 'contra' não exige preposição 'a' com crase; o correto é 'contra a humanidade' (sem crase).",
+      "Uso desnecessário de aspas em termos como 'Internet', 'Facebook', 'Instagram', 'Brexit', 'Cambridge Analytica' — embora não constitua erro gramatical grave, é inadequado ao registro formal do concurso colocar aspas em nomes próprios amplamente conhecidos."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento em três parágrafos temáticos e conclusão, demonstrando domínio da estrutura dissertativa.",
+      "O candidato aborda tanto impactos positivos quanto negativos da IA para a diplomacia, atendendo ao comando do enunciado. Os exemplos são pertinentes (Primavera Árabe, Cambridge Analytica, guerra na Ucrânia, monitoramento ambiental na Amazônia).",
+      "A argumentação é coerente e bem encadeada, com uso adequado de conectivos e progressão temática. A referência a Milton Santos na introdução demonstra repertório sociocultural.",
+      "Ponto de melhoria: o segundo parágrafo, embora relevante, dedica bastante espaço a redes sociais e não aprofunda suficientemente a relação específica com a diplomacia. A conexão entre redes sociais e atividade diplomática poderia ser mais explícita.",
+      "Ponto de melhoria: alguns argumentos são apresentados de forma superficial, como o uso de reconhecimento facial em negociações e a detecção de testes nucleares por resíduos atmosféricos, que carecem de maior fundamentação e precisão técnica.",
+      "A linguagem é, em geral, adequada ao contexto do concurso, com registro formal e vocabulário apropriado, embora haja leve repetição da expressão 'inteligência artificial' ao longo do texto.",
+      "O erro de concordância no primeiro parágrafo ('contribuíram') e o erro de crase ('contra à humanidade') são falhas que comprometem a correção gramatical esperada no nível do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O surgimento de novas tecnologias contribuíram' — o sujeito é 'O surgimento', núcleo no singular, devendo o verbo concordar no singular: 'contribuiu'.",
+      "Erro de regência/crase: 'crimes contra à humanidade' — o verbo/expressão 'crimes contra' rege objeto sem artigo definido precedido de crase; o correto é 'crimes contra a humanidade' (sem crase, pois 'contra' é preposição que não exige artigo com crase).",
+      "Uso desnecessário de aspas em termos como 'Internet', 'Facebook', 'Instagram', 'Brexit', 'Cambridge Analytica' — embora não constitua erro gramatical grave, o uso excessivo de aspas em nomes próprios amplamente conhecidos é inadequado na norma culta formal."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento em três parágrafos temáticos e conclusão, demonstrando planejamento estrutural adequado.",
+      "O candidato aborda tanto impactos positivos quanto negativos da IA para a diplomacia, atendendo ao comando da questão. Os exemplos são pertinentes (Primavera Árabe, Cambridge Analytica, guerra na Ucrânia, monitoramento ambiental na Amazônia).",
+      "A argumentação, embora coerente, poderia ser mais aprofundada e analítica. Há certa superficialidade em alguns pontos — por exemplo, a menção ao reconhecimento facial em negociações diplomáticas carece de fundamentação mais sólida e pode ser questionável do ponto de vista ético.",
+      "O primeiro parágrafo funciona como contextualização geral, mas demora a chegar ao tema específico (diplomacia e IA), o que reduz a eficiência argumentativa.",
+      "A referência a Milton Santos é interessante, mas poderia ser melhor articulada com o restante da argumentação ao longo do texto, e não apenas mencionada na introdução.",
+      "Há certa repetitividade no uso da expressão 'inteligência artificial' ao longo do texto, o que prejudica a fluidez da leitura. O uso de sinônimos ou pronomes poderia melhorar a coesão.",
+      "A conclusão retoma adequadamente os argumentos desenvolvidos, mas poderia apresentar uma reflexão mais original ou propositiva sobre o papel específico da diplomacia brasileira nesse contexto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 50.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O surgimento de novas tecnologias contribuíram' — o sujeito é 'O surgimento', núcleo no singular, devendo o verbo concordar no singular: 'contribuiu'.",
+      "Erro de regência/crase: 'documentação de graves crimes contra à humanidade' — o verbo/expressão 'crimes contra' rege objeto sem artigo definido feminino precedido de crase; o correto é 'contra a humanidade' (sem crase, pois 'contra' é preposição que não exige artigo com crase).",
+      "Uso desnecessário de aspas em termos como 'Internet', 'Facebook', 'Instagram', 'Brexit', 'Cambridge Analytica' — embora não constitua erro gramatical grave, o uso excessivo de aspas em nomes próprios e termos já incorporados ao uso corrente é inadequado do ponto de vista da propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento em três parágrafos temáticos e conclusão, demonstrando domínio da estrutura dissertativa.",
+      "O candidato aborda tanto impactos positivos quanto negativos da IA para a diplomacia, atendendo ao comando do enunciado. Os exemplos são pertinentes (Primavera Árabe, Cambridge Analytica, Rohingyas, guerra na Ucrânia, monitoramento ambiental na Amazônia).",
+      "A argumentação é consistente, embora em alguns momentos haja certa repetitividade, especialmente na reiteração de que a IA 'pode contribuir' ou 'pode ser importante', sem aprofundar suficientemente a análise crítica de cada ponto.",
+      "O segundo parágrafo mistura exemplos de redes sociais com a discussão sobre IA, o que enfraquece um pouco a precisão argumentativa — redes sociais e IA são tecnologias distintas, embora relacionadas.",
+      "A referência a Milton Santos na introdução é pertinente e bem articulada, conferindo embasamento teórico ao texto.",
+      "A conclusão retoma adequadamente os argumentos desenvolvidos, embora pudesse ser mais propositiva em termos de ações diplomáticas concretas.",
+      "A linguagem é, em geral, adequada ao registro formal exigido pelo concurso, com vocabulário apropriado e boa fluência textual."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O surgimento de novas tecnologias contribuíram' — o sujeito é 'O surgimento', núcleo no singular, devendo ser 'contribuiu'.",
+      "Uso indevido de crase em 'crimes contra à humanidade' — 'contra' é preposição que não admite artigo definido nesse contexto; o correto é 'contra a humanidade'.",
+      "Uso desnecessário de aspas em termos como 'Internet', 'Facebook', 'Instagram', 'Brexit', 'Cambridge Analytica' — não se justifica o uso de aspas para nomes próprios ou termos já incorporados ao uso corrente.",
+      "Repetição excessiva da expressão 'inteligência artificial' ao longo do texto, prejudicando a fluidez e a coesão — poderia ser substituída por pronomes, sinônimos ou elipses."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara com introdução, desenvolvimento em três parágrafos temáticos e conclusão, o que demonstra organização e planejamento textual adequados.",
+      "A referência a Milton Santos na introdução é pertinente e confere embasamento teórico, embora pudesse ser mais explorada ao longo do texto para fortalecer a argumentação.",
+      "Os exemplos utilizados (Primavera Árabe, Cambridge Analytica, guerra na Ucrânia, monitoramento da Amazônia) são relevantes e demonstram repertório sociocultural, porém alguns carecem de maior aprofundamento analítico — por exemplo, a relação entre Cambridge Analytica e IA poderia ser mais bem explicada, já que o caso envolve mais manipulação de dados do que IA propriamente dita.",
+      "A argumentação, embora coerente, tende a ser descritiva e enumerativa, listando aplicações da IA sem aprofundar suficientemente as tensões, dilemas e nuances que o tema exige para uma redação de nível diplomático. Falta maior sofisticação analítica.",
+      "O texto poderia explorar mais os impactos negativos da IA para a diplomacia de forma equilibrada — o segundo parágrafo aborda riscos, mas os demais focam quase exclusivamente nos aspectos positivos, gerando certo desequilíbrio na abordagem.",
+      "A repetição constante de 'inteligência artificial' (mais de 10 vezes) compromete a fluidez do texto. Recomenda-se variar com termos como 'essa tecnologia', 'tais ferramentas', 'esses sistemas' ou simplesmente 'a IA'.",
+      "A conclusão retoma a ideia de Milton Santos de forma coerente, mas é algo genérica e não acrescenta reflexão nova ou síntese mais elaborada dos argumentos desenvolvidos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O surgimento de novas tecnologias contribuíram' — o sujeito é 'O surgimento', núcleo no singular, devendo ser 'contribuiu'.",
+      "Uso indevido de crase em 'crimes contra à humanidade' — 'contra' é preposição que não admite artigo definido nesse contexto; o correto é 'contra a humanidade'.",
+      "Uso desnecessário de aspas em termos como 'Internet', 'Facebook', 'Instagram', 'Brexit', 'Cambridge Analytica' — não se justifica o uso de aspas para nomes próprios ou termos já incorporados ao uso corrente.",
+      "Repetição excessiva da expressão 'inteligência artificial' ao longo do texto, prejudicando a fluidez e a coesão — poderia ser substituída por pronomes, sinônimos ou elipses."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara com introdução, desenvolvimento em três parágrafos temáticos e conclusão, o que demonstra organização e planejamento textual adequados.",
+      "A referência a Milton Santos na introdução é pertinente e confere embasamento teórico, embora pudesse ser mais explorada ao longo do texto para fortalecer a argumentação.",
+      "Os exemplos utilizados (Primavera Árabe, Cambridge Analytica, guerra na Ucrânia, monitoramento da Amazônia) são relevantes e demonstram repertório sociocultural, porém alguns carecem de maior aprofundamento analítico — por exemplo, a relação entre Cambridge Analytica e IA poderia ser mais bem explicada, já que o caso envolve mais manipulação de dados do que IA propriamente dita.",
+      "A argumentação, embora coerente, tende a ser descritiva e enumerativa, listando aplicações da IA sem aprofundar suficientemente as tensões, dilemas e nuances que o tema exige para uma redação de nível diplomático. Falta maior sofisticação analítica.",
+      "O texto poderia explorar mais os impactos negativos da IA para a diplomacia de forma equilibrada — o segundo parágrafo aborda riscos, mas os demais focam quase exclusivamente nos aspectos positivos, gerando certo desequilíbrio na abordagem.",
+      "A repetição constante de 'inteligência artificial' (mais de 10 vezes) compromete a fluidez do texto. Recomenda-se variar com termos como 'essa tecnologia', 'tais ferramentas', 'esses sistemas' ou simplesmente 'a IA'.",
+      "A conclusão retoma a ideia de Milton Santos de forma coerente, mas é algo genérica e não acrescenta reflexão nova ou síntese mais elaborada dos argumentos desenvolvidos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'O surgimento de novas tecnologias contribuíram' — o sujeito é 'O surgimento', núcleo no singular, devendo ser 'contribuiu'.",
+      "Uso indevido de crase em 'crimes contra à humanidade' — 'contra' é preposição que não admite artigo definido nesse contexto; o correto é 'contra a humanidade'.",
+      "Uso desnecessário de aspas em termos como 'Internet', 'Facebook', 'Instagram', 'Brexit', 'Cambridge Analytica' — não se justifica o uso de aspas para nomes próprios ou termos já incorporados ao uso corrente.",
+      "Repetição excessiva da expressão 'inteligência artificial' ao longo do texto, prejudicando a fluidez e a coesão — poderia ser substituída por pronomes, sinônimos ou elipses."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara com introdução, desenvolvimento em três parágrafos temáticos e conclusão, o que demonstra organização e planejamento textual adequados.",
+      "A referência a Milton Santos na introdução é pertinente e confere embasamento teórico, embora pudesse ser mais explorada ao longo do texto para fortalecer a argumentação.",
+      "Os exemplos utilizados (Primavera Árabe, Cambridge Analytica, guerra na Ucrânia, monitoramento da Amazônia) são relevantes e demonstram repertório sociocultural, porém alguns carecem de maior aprofundamento analítico — por exemplo, a relação entre Cambridge Analytica e IA poderia ser mais bem explicada, já que o caso envolve mais manipulação de dados do que IA propriamente dita.",
+      "A argumentação, embora coerente, tende a ser descritiva e enumerativa, listando aplicações da IA sem aprofundar suficientemente as tensões, dilemas e nuances que o tema exige para uma redação de nível diplomático. Falta maior sofisticação analítica.",
+      "O texto poderia explorar mais os impactos negativos da IA para a diplomacia de forma equilibrada — o segundo parágrafo aborda riscos, mas os demais focam quase exclusivamente nos aspectos positivos, gerando certo desequilíbrio na abordagem.",
+      "A repetição constante de 'inteligência artificial' (mais de 10 vezes) compromete a fluidez do texto. Recomenda-se variar com termos como 'essa tecnologia', 'tais ferramentas', 'esses sistemas' ou simplesmente 'a IA'.",
+      "A conclusão retoma a ideia de Milton Santos de forma coerente, mas é algo genérica e não acrescenta reflexão nova ou síntese mais elaborada dos argumentos desenvolvidos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 14.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'pesquisa dor' — palavra separada indevidamente; o correto é 'pesquisador'.",
+      "'Em um mundo inicial de benefícios à diplomacia' — expressão confusa e inadequada; provavelmente o candidato quis dizer 'Em um primeiro plano de benefícios' ou 'Em um âmbito inicial'.",
+      "'negociações prioritárias' — expressão imprecisa no contexto; o candidato provavelmente quis dizer 'negociações paritárias' (entre iguais), o que constitui erro de vocabulário/propriedade da linguagem.",
+      "'circunstância que fragiliza a ideia de negociações prioritárias, pilar da diplomacia' — além do erro vocabular, a construção é imprecisa e prejudica a clareza do argumento final."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização estrutural, com introdução, desenvolvimento em três parágrafos argumentativos e conclusão, seguindo um modelo clássico de dissertação. A progressão temática é clara: benefícios informacionais, redução de burocracia e desigualdades no acesso à IA.",
+      "O estilo é formal e adequado ao gênero, com vocabulário compatível com o nível do concurso. A coerência interna é mantida ao longo do texto, e os conectivos são bem empregados para articular as ideias.",
+      "Quanto à capacidade de argumentação, o candidato demonstra objetividade e sistematização razoáveis. No entanto, os argumentos positivos são relativamente superficiais e previsíveis (acesso a informações e redução de burocracia), sem explorar dimensões mais sofisticadas como tradução automática em negociações, análise preditiva de cenários geopolíticos, impactos sobre a desinformação e guerra informacional, ou questões de soberania digital.",
+      "A capacidade de análise e reflexão é satisfatória, mas poderia ser mais aprofundada. O argumento sobre desigualdade de acesso é o mais bem desenvolvido, mas ainda assim carece de exemplos concretos ou referências a casos reais. A redação tende à repetição de ideias em vez de aprofundá-las — por exemplo, a ideia de 'mais informações para diplomatas' é reiterada sem ganho analítico substancial.",
+      "A conclusão é fraca e genérica ('impacta a diplomacia de diversas maneiras'), não oferecendo uma síntese propositiva ou reflexão final que agregue valor ao texto.",
+      "O erro 'negociações prioritárias' em vez de 'paritárias' compromete o argumento central da conclusão, pois altera significativamente o sentido pretendido.",
+      "A expressão 'Em um mundo inicial de benefícios' é confusa e prejudica a fluidez do segundo parágrafo.",
+      "De modo geral, trata-se de uma redação competente, bem estruturada e com poucos erros gramaticais, mas que peca pela falta de profundidade analítica e pela limitação temática dos argumentos apresentados, especialmente considerando o nível de exigência do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 14.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'pesquisa dor' — palavra separada indevidamente; o correto é 'pesquisador'.",
+      "'Em um mundo inicial de benefícios à diplomacia' — expressão confusa e inadequada; provavelmente o candidato quis dizer 'Em um primeiro plano de benefícios' ou 'Em um âmbito inicial'.",
+      "'negociações prioritárias' — expressão imprecisa no contexto; o candidato provavelmente quis dizer 'negociações paritárias' (entre iguais), o que constitui erro de vocabulário/propriedade da linguagem.",
+      "'circunstância que fragiliza a ideia de negociações prioritárias, pilar da diplomacia' — além do erro vocabular, a construção é imprecisa e prejudica a clareza do argumento final."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização estrutural, com introdução, desenvolvimento em três parágrafos temáticos e conclusão, seguindo um modelo clássico de dissertação argumentativa. A progressão temática é clara: benefícios informacionais, redução de burocracia e desigualdades no acesso.",
+      "O estilo é formal e adequado ao gênero, com vocabulário compatível com o nível do concurso. A coerência interna é mantida ao longo do texto, e os conectivos são bem empregados para articular as ideias.",
+      "Quanto à capacidade de argumentação, o candidato demonstra objetividade e sistematização razoáveis. No entanto, os argumentos são relativamente previsíveis e pouco aprofundados. O impacto positivo da IA na compilação de informações e na redução de tarefas burocráticas é tratado de forma genérica, sem referências concretas a casos, tratados ou exemplos reais da prática diplomática. O exemplo ambiental é ilustrativo, mas superficial.",
+      "A análise dos impactos negativos é o ponto mais forte da redação, ao abordar a desigualdade de acesso à tecnologia e suas consequências para negociações internacionais, inclusive sobre a própria regulamentação da IA. Contudo, faltou explorar outros impactos negativos relevantes, como riscos de desinformação, deepfakes em contextos diplomáticos, vigilância, vieses algorítmicos em análises geopolíticas, ou impactos sobre a soberania digital.",
+      "A capacidade de análise e reflexão é satisfatória, mas não atinge um nível de excelência. O texto permanece em um plano relativamente abstrato e não mobiliza conhecimentos específicos de relações internacionais, direito internacional ou política externa brasileira que enriqueceriam a argumentação. A conclusão é fraca e genérica ('impacta a diplomacia de diversas maneiras'), sem oferecer uma síntese propositiva ou reflexão final mais elaborada.",
+      "Há repetitividade no uso de certas expressões ('inteligência artificial', 'informações', 'diplomacia'), o que prejudica levemente a fluidez do texto. A expressão 'negociações prioritárias' na conclusão parece ser um erro por 'negociações paritárias', o que compromete o sentido do argumento final.",
+      "No geral, trata-se de uma redação competente, bem estruturada e com poucos erros gramaticais, mas que carece de maior profundidade analítica, diversidade de argumentos e conhecimento específico aplicado ao tema diplomático."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 7.5,
+    "nota_1C": 14.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'pesquisa dor' — palavra separada indevidamente; o correto é 'pesquisador'.",
+      "'Em um mundo inicial de benefícios à diplomacia' — expressão semanticamente inadequada e confusa; provavelmente o candidato quis dizer 'Em um primeiro plano de benefícios' ou 'Em um âmbito inicial'.",
+      "'negociações prioritárias' — expressão imprecisa no contexto; o candidato provavelmente quis dizer 'negociações paritárias' (entre iguais), o que constitui erro de vocabulário com impacto semântico significativo.",
+      "'circunstância que fragiliza a ideia de negociações prioritárias, pilar da diplomacia' — além do erro lexical, a construção é imprecisa e prejudica a clareza do argumento conclusivo."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução, desenvolvimento em três parágrafos temáticos e conclusão. A estrutura é clara e o estilo é formal e adequado ao gênero dissertativo-argumentativo do CACD. A coerência é mantida ao longo do texto, com transições bem articuladas entre os parágrafos. Há, porém, algumas expressões confusas ('mundo inicial de benefícios') e a conclusão poderia ser mais incisiva. Nota: 8.5.",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade de sistematização, apresentando dois impactos positivos (acesso a informações e redução de tarefas burocráticas) e um impacto negativo (desigualdade de acesso à tecnologia). Os argumentos são pertinentes e bem encadeados. Contudo, a redação apresenta certa repetitividade — os mesmos pontos são reiterados sem grande aprofundamento adicional. O exemplo sobre negociações ambientais é pertinente, mas poderia ser mais desenvolvido. A argumentação sobre impactos negativos é relativamente unidimensional, limitando-se à questão da desigualdade de acesso, quando outros riscos relevantes (vieses algorítmicos, desinformação, segurança cibernética, impacto na soberania) poderiam ter sido explorados. Nota: 7.5.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica razoável ao conectar a inteligência artificial com dinâmicas concretas da diplomacia. A reflexão sobre como a desigualdade de acesso à IA poderia afetar as próprias negociações sobre regulamentação da IA é um ponto interessante e demonstra pensamento crítico. No entanto, a análise carece de maior profundidade e diversidade de perspectivas. O texto não explora adequadamente questões como: vieses algorítmicos na diplomacia, riscos à privacidade e soberania, impactos da IA em conflitos e segurança internacional, ou o papel da IA na desinformação — temas que o próprio enunciado sugere ao mencionar preconceitos, discriminações e ameaças a direitos fundamentais. A reflexão permanece em um nível intermediário, sem atingir a sofisticação analítica esperada para o CACD. Nota: 14.0.",
+      "CGPL – Correção gramatical e propriedade da linguagem: O texto apresenta bom domínio da norma culta, com vocabulário adequado e construções sintáticas geralmente corretas. Foram identificados 4 erros/inadequações, sendo o mais grave o provável uso de 'prioritárias' em vez de 'paritárias', que compromete o sentido do argumento conclusivo. A separação indevida de 'pesquisador' e a expressão 'mundo inicial' também prejudicam a qualidade linguística."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"pesquisa dor\" — erro de digitação/separação indevida da palavra 'pesquisador'.",
+      "\"Em um mundo inicial de benefícios à diplomacia\" — expressão inadequada e sem clareza semântica; provavelmente o candidato quis dizer 'Em um primeiro plano de benefícios' ou 'Em um primeiro eixo de benefícios'.",
+      "\"negociações prioritárias\" — expressão imprecisa no contexto; o candidato provavelmente quis dizer 'negociações paritárias' (baseadas em paridade/igualdade entre as partes)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara que anuncia a tese e os argumentos, desenvolvimento em parágrafos bem delimitados e conclusão que retoma os pontos principais.",
+      "O candidato demonstra capacidade argumentativa ao articular dois impactos positivos (acesso a informações e redução de tarefas burocráticas) e um impacto negativo (desigualdade de acesso à tecnologia), todos bem desenvolvidos e com exemplificação pertinente.",
+      "O encadeamento lógico entre os parágrafos é bem conduzido, com uso adequado de conectivos e transições (no entanto, além de, nesse sentido, portanto).",
+      "A linguagem é formal e adequada ao contexto do CACD, com vocabulário variado e construções sintáticas sofisticadas.",
+      "O erro 'pesquisa dor' (separação indevida) e a expressão 'mundo inicial' comprometem levemente a clareza. O provável erro 'negociações prioritárias' em vez de 'paritárias' na conclusão é significativo, pois altera o sentido pretendido em um ponto crucial do texto.",
+      "A argumentação, embora bem estruturada, poderia ter explorado mais dimensões dos impactos da IA na diplomacia, como questões de segurança cibernética, desinformação, tradução automática em negociações multilaterais, ou o papel da IA na diplomacia digital e consular.",
+      "A conclusão, embora retome os argumentos, encerra de forma um tanto genérica ('impacta a diplomacia de diversas maneiras'), sem oferecer uma reflexão final mais densa ou propositiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "'pesquisa dor' - palavra separada indevidamente, deveria ser 'pesquisador'",
+      "'Em um mundo inicial de benefícios à diplomacia' - expressão confusa e inadequada, possivelmente deveria ser 'Em um primeiro plano de benefícios' ou 'Em um âmbito inicial'",
+      "'negociações prioritárias' - expressão inadequada no contexto; possivelmente o candidato quis dizer 'negociações paritárias'"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução clara que antecipa os argumentos, desenvolvimento em três parágrafos bem delimitados e conclusão que retoma os pontos principais.",
+      "O texto demonstra capacidade argumentativa sólida, com encadeamento lógico das ideias e uso adequado de conectivos e elementos coesivos ao longo de toda a dissertação.",
+      "O candidato aborda tanto impactos positivos quanto negativos da IA para a diplomacia, conforme solicitado pelo enunciado, e faz referência ao texto motivador da UNESCO de forma pertinente.",
+      "O argumento sobre desigualdade no acesso à IA e seus efeitos sobre negociações diplomáticas é bem desenvolvido e demonstra reflexão crítica relevante.",
+      "A redação poderia ter explorado mais dimensões dos impactos da IA na diplomacia, como questões de segurança cibernética, desinformação, tradução automática em negociações, ou o uso de IA em análise preditiva de conflitos, o que enriqueceria a argumentação.",
+      "A expressão 'Em um mundo inicial de benefícios' no segundo parágrafo compromete a clareza e sugere possível lapso de revisão.",
+      "O erro 'negociações prioritárias' na conclusão, quando o contexto claramente demanda 'paritárias', é significativo por alterar o sentido da argumentação em momento crucial do texto.",
+      "A linguagem é, em geral, adequada ao registro formal exigido pelo concurso, com vocabulário variado e construções sintáticas bem elaboradas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'pesquisa dor' - palavra separada indevidamente, deveria ser 'pesquisador'",
+      "'Em um mundo inicial de benefícios à diplomacia' - expressão confusa e inadequada, possivelmente 'Em um plano inicial de benefícios' ou construção similar",
+      "'negociações prioritárias' - provável erro por 'negociações paritárias', o que compromete o sentido da frase",
+      "'tempo diminuto' - uso inadequado do adjetivo 'diminuto' para qualificar tempo no sentido de rapidez; mais adequado seria 'tempo reduzido' ou 'curto espaço de tempo'"
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura organizacional sólida, com introdução, desenvolvimento em três parágrafos temáticos e conclusão, seguindo um plano argumentativo claro e bem delineado.",
+      "O candidato demonstra boa capacidade de articulação entre os parágrafos, utilizando conectivos e transições adequadas que garantem coesão ao texto.",
+      "A argumentação sobre os impactos positivos (acesso a informações e redução de tarefas burocráticas) é bem desenvolvida, com exemplificação pertinente (discussões ambientais), embora pudesse explorar mais dimensões da diplomacia.",
+      "O argumento sobre impactos negativos (desigualdade de acesso) é relevante e bem conectado ao texto motivador da UNESCO, demonstrando capacidade de reflexão crítica.",
+      "A redação poderia ter explorado outros impactos negativos da IA na diplomacia, como riscos de desinformação, deepfakes em relações internacionais, questões de soberania digital, vigilância e privacidade, o que enriqueceria a análise.",
+      "O erro 'negociações prioritárias' em vez de 'negociações paritárias' na conclusão compromete significativamente o sentido de um argumento central do texto.",
+      "A expressão 'Em um mundo inicial de benefícios à diplomacia' no início do segundo parágrafo é confusa e prejudica a clareza do texto.",
+      "A linguagem é, em geral, adequada ao registro formal exigido pelo concurso, com vocabulário apropriado e construções sintáticas bem elaboradas.",
+      "Há certa repetitividade na argumentação, com ideias reiteradas sem aprofundamento substancial, o que reduz a densidade analítica esperada para o nível do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"pesquisa dor\" — palavra separada indevidamente; o correto é \"pesquisador\".",
+      "\"Em um mundo inicial de benefícios à diplomacia\" — expressão confusa e inadequada; provavelmente o candidato quis dizer \"Em um primeiro plano de benefícios\" ou \"Em um primeiro âmbito\".",
+      "\"negociações prioritárias\" — expressão imprecisa no contexto; o candidato parece querer dizer \"negociações paritárias\" (baseadas na igualdade entre as partes), o que constitui erro de vocabulário com impacto semântico significativo."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e bem organizada, com introdução, desenvolvimento em três parágrafos temáticos e conclusão, seguindo um modelo dissertativo-argumentativo adequado ao CACD.",
+      "A tese é bem delineada na introdução, apresentando tanto os impactos positivos quanto o negativo da IA para a diplomacia, e os parágrafos de desenvolvimento seguem essa divisão de forma coerente.",
+      "O argumento sobre a compilação de informações e a redução de tarefas burocráticas como benefícios da IA para a diplomacia é pertinente e bem desenvolvido, com exemplo ilustrativo (negociações ambientais).",
+      "O argumento sobre desigualdade no acesso à IA e seus efeitos sobre a diplomacia é o mais sofisticado do texto, demonstrando boa capacidade de reflexão crítica, especialmente ao conectar a desigualdade tecnológica com a própria negociação sobre regulamentação da IA.",
+      "Apesar da boa estrutura, a argumentação é algo previsível e poderia ser enriquecida com referências a casos concretos da diplomacia, a debates em organizações internacionais específicas, ou a dimensões adicionais como segurança cibernética, desinformação, tradução automática em negociações multilaterais, entre outros.",
+      "A expressão \"Em um mundo inicial de benefícios\" no segundo parágrafo é confusa e compromete a clareza do início do desenvolvimento.",
+      "O erro \"negociações prioritárias\" em vez de \"paritárias\" na conclusão é grave, pois altera substancialmente o sentido pretendido e enfraquece o fechamento do texto.",
+      "O texto tende à repetição de ideias, especialmente sobre o acesso a informações e a dedicação temporal dos diplomatas, o que reduz a densidade argumentativa e dá impressão de circularidade.",
+      "O domínio da norma culta é, em geral, bom, com vocabulário adequado ao registro formal e uso correto de conectivos e estruturas sintáticas complexas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"pesquisa dor\" — palavra separada indevidamente; o correto é \"pesquisador\".",
+      "\"Em um mundo inicial de benefícios à diplomacia\" — expressão confusa e inadequada; possivelmente o candidato quis dizer \"Em um primeiro plano de benefícios\" ou \"Em um primeiro eixo de benefícios\".",
+      "\"negociações prioritárias\" — expressão imprecisa no contexto; provavelmente o candidato quis dizer \"negociações paritárias\" (baseadas em paridade/igualdade entre as partes)."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e bem organizada, com introdução que anuncia a tese e os argumentos, parágrafos de desenvolvimento bem delimitados (dois para impactos positivos e um para impactos negativos) e conclusão que retoma os pontos centrais.",
+      "A argumentação é coerente e bem encadeada, com uso adequado de conectivos e transições entre parágrafos. O candidato demonstra capacidade de articular ideias de forma lógica e progressiva.",
+      "O exemplo sobre negociações ambientais (desmatamento, emissões de gases de efeito estufa) é pertinente e ilustra bem o argumento sobre o benefício informacional da IA para a diplomacia.",
+      "O argumento sobre desigualdade no acesso à IA e seus efeitos sobre negociações diplomáticas é relevante e bem desenvolvido, inclusive com a observação perspicaz de que as próprias negociações sobre regulamentação da IA ocorreriam em cenário desigual.",
+      "Apesar da boa qualidade geral, a redação apresenta certa previsibilidade argumentativa e repetitividade — a ideia de 'mais informações' e 'mais tempo' é reiterada diversas vezes sem grande aprofundamento analítico. Faltou explorar outros impactos negativos (como deepfakes, desinformação, vigilância, viés algorítmico em decisões diplomáticas) e outros impactos positivos (como tradução automática, análise preditiva de conflitos, diplomacia digital).",
+      "A expressão 'Em um mundo inicial de benefícios à diplomacia' é confusa e compromete a clareza do início do segundo parágrafo. O provável erro 'negociações prioritárias' em vez de 'paritárias' na conclusão prejudica o sentido do argumento final.",
+      "O domínio da norma culta é bom de modo geral, com vocabulário adequado ao registro formal e uso correto de estruturas sintáticas complexas, embora com os deslizes apontados."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"pesquisa dor\" — palavra separada indevidamente; o correto é \"pesquisador\".",
+      "\"Em um mundo inicial de benefícios à diplomacia\" — expressão confusa e inadequada; provavelmente o candidato quis dizer \"Em um primeiro plano de benefícios\" ou \"Em um âmbito inicial\".",
+      "\"negociações prioritárias\" — expressão imprecisa no contexto; o candidato provavelmente quis dizer \"negociações paritárias\" (baseadas em igualdade entre as partes)."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara e bem organizada, com introdução que anuncia a tese e os argumentos, parágrafos de desenvolvimento bem delimitados (dois para impactos positivos e um para impactos negativos) e conclusão que retoma os pontos centrais.",
+      "A argumentação é coerente e bem encadeada, com uso adequado de conectivos e transições entre parágrafos. O candidato demonstra capacidade de articular ideias de forma lógica e progressiva.",
+      "O texto dialoga com o enunciado e com a recomendação da UNESCO, o que demonstra atenção ao comando da questão. A menção à regulamentação ética e à necessidade de universalidade de acesso é pertinente.",
+      "Ponto de melhoria: a argumentação, embora sólida, é relativamente previsível e poderia ser enriquecida com exemplos mais concretos e diversificados — por exemplo, riscos de vieses algorítmicos em traduções diplomáticas, uso de IA em espionagem ou desinformação, impactos sobre a diplomacia digital e consular, ou questões de soberania de dados.",
+      "A expressão 'Em um mundo inicial de benefícios' é obscura e compromete a clareza do início do segundo parágrafo. Além disso, 'negociações prioritárias' no último parágrafo parece ser um erro por 'negociações paritárias', o que altera significativamente o sentido pretendido.",
+      "O texto tende à repetição de ideias — o argumento sobre acesso a informações e redução de tarefas burocráticas é reiterado diversas vezes sem acréscimo substancial de conteúdo. Maior variedade temática e profundidade analítica elevariam a qualidade da redação.",
+      "O domínio da norma culta é bom, com linguagem formal e adequada ao contexto do concurso, salvo os deslizes apontados."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"aumentam\" deveria ser \"aumentem\" (subjuntivo após \"evitar que\")",
+      "\"tem potencial positivos\" — erro de concordância: deveria ser \"tem potenciais positivos\" ou \"tem potencial positivo\"",
+      "\"tanto na elaboração diplomática, quanto na apresentação\" — vírgula indevida antes de \"quanto\" na correlação \"tanto... quanto\"",
+      "\"de modo tanto positivo, quanto negativo\" — vírgula indevida antes de \"quanto\" na correlação \"tanto... quanto\"",
+      "\"ao uso e ferramentas digitais\" — falta de preposição ou erro de paralelismo: deveria ser \"ao uso de ferramentas digitais\" ou \"ao uso e às ferramentas digitais\"",
+      "\"Cabe à diplomacia aproximação entre as nações\" — falta de artigo ou ajuste sintático: \"Cabe à diplomacia a aproximação entre as nações\""
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (impactos positivos e negativos) e conclusão que retoma a tese central. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A capacidade argumentativa é forte: o candidato mobiliza exemplos concretos e pertinentes (cooperação CBERS Brasil-China-África, conferência do G77 em Havana, empresas como Google e Meta, uso militar de IA com drones) e referências relevantes (UNESCO, Carta da ONU, DUDH, ODS, citação de Kofi Annan). A argumentação é sistemática e bem fundamentada.",
+      "A análise demonstra boa capacidade reflexiva ao abordar tanto os impactos positivos (diplomacia pública, inclusão, articulação entre esferas de poder, cooperação internacional) quanto os negativos (concentração tecnológica, falta de regulação multilateral, uso militar, aprofundamento de desigualdades). O candidato conecta adequadamente os elementos do texto motivador com a discussão sobre diplomacia. Contudo, a análise poderia ser ainda mais aprofundada em alguns pontos, como os riscos específicos da IA para a prática diplomática (desinformação, deepfakes, vigilância) e as implicações para a soberania dos Estados.",
+      "A definição de IA como tecnologia capaz de realizar funções humanas 'com absoluta precisão' é imprecisa e questionável, o que enfraquece ligeiramente a credibilidade técnica do texto.",
+      "A correção gramatical é boa no geral, com poucos erros identificados, sendo o mais significativo o uso do indicativo 'aumentam' onde o subjuntivo 'aumentem' era obrigatório, e o erro de concordância 'potencial positivos'."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"aumentam\" deveria ser \"aumentem\" — subjuntivo exigido pela conjunção \"para que\" (\"de modo a evitar que os impactos negativos aumentem as desigualdades globais\")",
+      "\"tem potencial positivos\" — erro de concordância nominal; deveria ser \"tem potenciais positivos\" ou \"tem potencial positivo\"",
+      "\"tanto na elaboração diplomática, quanto na apresentação\" — vírgula indevida antes de \"quanto\" em correlação \"tanto... quanto\"",
+      "\"de modo tanto positivo, quanto negativo\" — vírgula indevida antes de \"quanto\" em correlação \"tanto... quanto\"",
+      "\"ao uso e ferramentas digitais\" — falta de preposição ou erro de paralelismo; deveria ser \"ao uso de ferramentas digitais\" ou \"ao uso e às ferramentas digitais\"",
+      "\"Cabe à diplomacia aproximação entre as nações\" — falta de artigo ou ajuste sintático; construção truncada, deveria ser algo como \"Cabe à diplomacia promover a aproximação entre as nações\""
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (impactos positivos e negativos) e conclusão que retoma a tese central. O estilo é fluido e adequado ao gênero dissertativo-argumentativo esperado no CACD.",
+      "A capacidade de argumentação é muito boa: o candidato mobiliza exemplos concretos e pertinentes (cooperação CBERS Brasil-China-África, conferência do G77 em Havana, recomendação da UNESCO de 2021, empresas como Google e Meta, uso militar de IA com drones) que demonstram repertório sólido em relações internacionais. A argumentação é sistemática e objetiva.",
+      "A análise e reflexão são consistentes, abordando tanto os impactos positivos (diplomacia pública, inclusão, articulação entre esferas de poder, cooperação internacional) quanto os negativos (concentração tecnológica, falta de regulação multilateral, uso militar, aumento de desigualdades). O candidato articula bem a relação entre IA e diplomacia, conectando com valores éticos e multilaterais. Poderia aprofundar mais a análise sobre riscos específicos da IA para a diplomacia (como deepfakes, desinformação, vigilância) e explorar com mais profundidade as tensões entre soberania digital e governança global. A definição de IA na introdução como tecnologia que realiza funções humanas 'com absoluta precisão' é imprecisa e poderia ter sido mais cuidadosa.",
+      "O texto apresenta poucos erros gramaticais, mas alguns são significativos, como o erro de modo verbal ('aumentam' por 'aumentem') e o erro de concordância nominal ('potencial positivos'). A linguagem é, no geral, adequada e própria do registro formal esperado.",
+      "A citação de Kofi Annan na conclusão é um recurso retórico eficaz que confere autoridade ao argumento final e conecta o tema da IA ao debate mais amplo sobre globalização e desigualdade."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"aumentam\" deveria ser \"aumentem\" (subjuntivo após \"evitar que\")",
+      "\"tem potencial positivos\" — erro de concordância: deveria ser \"tem potenciais positivos\" ou \"tem potencial positivo\"",
+      "\"ao uso e ferramentas digitais\" — falta de preposição ou erro de construção: deveria ser \"ao uso de ferramentas digitais\"",
+      "\"Cabe à diplomacia aproximação entre as nações\" — falta de artigo ou reestruturação: \"Cabe à diplomacia a aproximação entre as nações\"",
+      "\"tanto na elaboração diplomática, quanto na apresentação\" — vírgula indevida antes de \"quanto\" em correlação \"tanto...quanto\"",
+      "\"de modo tanto positivo, quanto negativo\" — vírgula indevida antes de \"quanto\" em correlação \"tanto...quanto\""
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (impactos positivos e negativos) e conclusão que retoma a tese central. A progressão argumentativa é fluida e coerente.",
+      "O candidato demonstra boa capacidade de argumentação, mobilizando exemplos concretos e pertinentes, como a cooperação triangular Brasil-China-África com satélites CBERS, a conferência do G77 em Havana, e a Recomendação da UNESCO de 2021. A menção a Kofi Annan na conclusão é bem articulada com a tese.",
+      "A capacidade de análise e reflexão é sólida: o candidato articula bem a relação entre concentração tecnológica e desigualdades globais, discute o papel da diplomacia do Sul Global, e conecta a IA com agendas como mudança climática e ODS. Contudo, a definição de IA na introdução ('realizar funções humanas com absoluta precisão') é imprecisa e simplificadora. A análise dos impactos positivos poderia ser mais aprofundada em termos de reflexão crítica — por exemplo, problematizando mais os riscos de vigilância ou vieses algorítmicos mencionados no enunciado.",
+      "Quanto à correção gramatical, foram identificados 6 erros, incluindo problemas de concordância, uso do modo verbal incorreto (indicativo em vez de subjuntivo), falhas de regência/construção e uso indevido de vírgula em correlações. Apesar desses erros, o texto mantém boa propriedade linguística e registro formal adequado ao gênero.",
+      "No geral, trata-se de uma redação de alto nível, com argumentação bem fundamentada, boa articulação entre os parágrafos e domínio do tema. Os pontos de melhoria residem em maior precisão conceitual sobre IA e aprofundamento da análise crítica sobre riscos específicos (vieses algorítmicos, privacidade, desinformação)."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'aumentam' deveria ser 'aumentem' (subjuntivo após 'evitar que')",
+      "'tem potencial positivos' — erro de concordância: deveria ser 'tem potenciais positivos' ou 'tem potencial positivo'",
+      "'ao uso e ferramentas digitais' — falta de preposição ou erro de construção: deveria ser 'ao uso de ferramentas digitais'",
+      "'Cabe à diplomacia aproximação entre as nações' — construção truncada, falta artigo ou verbo auxiliar: 'Cabe à diplomacia promover a aproximação entre as nações'",
+      "'tanto na elaboração diplomática, quanto na apresentação' — vírgula indevida antes de 'quanto' em correlação 'tanto...quanto'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (impactos positivos e negativos) e conclusão que retoma a tese central.",
+      "O candidato demonstra sólido repertório de conhecimentos sobre relações internacionais, citando exemplos pertinentes como os satélites CBERS, a conferência do G77 em Havana, a recomendação da UNESCO e a citação de Kofi Annan, o que enriquece significativamente a argumentação.",
+      "A abordagem dos impactos positivos (diplomacia pública, articulação entre esferas de poder, cooperação internacional) e negativos (concentração tecnológica, falta de regulação multilateral, uso militar) é equilibrada e bem fundamentada.",
+      "A definição de IA como tecnologia 'capaz de realizar funções humanas com absoluta precisão' é imprecisa e simplificadora, pois a IA não necessariamente opera com 'absoluta precisão'.",
+      "A linguagem é predominantemente adequada ao registro formal exigido pelo concurso, com vocabulário sofisticado e construções sintáticas complexas, embora haja alguns deslizes gramaticais que comprometem levemente a qualidade textual.",
+      "A capacidade argumentativa é notável, com uso eficaz de conectivos, exemplificações concretas e encadeamento lógico das ideias, demonstrando maturidade intelectual e domínio do tema."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"aumentam\" deveria ser \"aumentem\" (subjuntivo após \"evitar que\")",
+      "\"tem potencial positivos\" — erro de concordância: deveria ser \"tem potenciais positivos\" ou \"tem potencial positivo\"",
+      "\"ao uso e ferramentas digitais\" — provável omissão de preposição: \"ao uso de ferramentas digitais\"",
+      "\"Cabe à diplomacia aproximação entre as nações\" — construção truncada, faltando artigo ou reformulação: \"Cabe à diplomacia a aproximação entre as nações\""
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (impactos positivos e negativos) e conclusão que retoma a tese central.",
+      "O candidato demonstra bom repertório de conhecimentos sobre relações internacionais, citando exemplos pertinentes como os satélites CBERS, a conferência do G77 em Havana, a recomendação da UNESCO e a citação de Kofi Annan, o que enriquece a argumentação.",
+      "A capacidade argumentativa é sólida: o texto articula bem a relação entre concentração tecnológica, desigualdades globais e o papel da diplomacia, especialmente dos países em desenvolvimento.",
+      "A linguagem é adequada ao contexto do concurso diplomático, com registro formal e vocabulário apropriado.",
+      "Há poucos erros gramaticais, mas os identificados incluem falha de concordância verbal (subjuntivo) e nominal, que comprometem levemente a correção linguística.",
+      "A definição de IA como tecnologia capaz de realizar funções humanas 'com absoluta precisão' é imprecisa e poderia ser questionada, mas não compromete significativamente a argumentação.",
+      "O texto poderia explorar mais diretamente impactos da IA na prática diplomática em si (negociações, tradução, análise de dados para posicionamento em foros), em vez de focar predominantemente na dimensão geopolítica da distribuição tecnológica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"aumentam\" deveria ser \"aumentem\" (subjuntivo após \"evitar que\")",
+      "\"tem potencial positivos\" - erro de concordância, deveria ser \"tem potenciais positivos\" ou \"tem potencial positivo\"",
+      "\"ao uso e ferramentas digitais\" - provável omissão de preposição, deveria ser \"ao uso de ferramentas digitais\"",
+      "\"Cabe à diplomacia aproximação\" - construção truncada, faltando artigo ou reformulação (\"Cabe à diplomacia a aproximação\" ou \"Cabe à diplomacia promover a aproximação\")"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (impactos positivos e negativos) e conclusão que retoma a tese central.",
+      "O candidato demonstra sólido conhecimento de relações internacionais e diplomacia, mobilizando referências pertinentes como o G77, satélites CBERS, cooperação triangular Brasil-China-África, UNESCO, ODS e a citação de Kofi Annan, o que enriquece significativamente a argumentação.",
+      "A abordagem dos impactos positivos (diplomacia pública, inclusão, articulação entre esferas de poder, agenda climática) e negativos (concentração tecnológica, falta de regulação multilateral, uso militar) é equilibrada e bem fundamentada.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e vocabulário sofisticado, embora haja alguns deslizes gramaticais pontuais que comprometem levemente a correção.",
+      "A definição de IA na introdução como tecnologia capaz de realizar funções humanas 'com absoluta precisão' é imprecisa e pode ser considerada uma simplificação excessiva do conceito.",
+      "A conclusão com a citação de Kofi Annan é eficaz e confere fechamento elegante ao texto, conectando o tema específico da IA ao debate mais amplo sobre globalização e desigualdade."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "'aumentam' deveria ser 'aumentem' — subjuntivo exigido pela construção 'evitar que' (parágrafo 1)",
+      "'tem potencial positivos' — erro de concordância: deveria ser 'tem potenciais positivos' ou 'tem potencial positivo' (parágrafo 2)",
+      "'ao uso e ferramentas digitais' — provável omissão de preposição: 'ao uso de ferramentas digitais' (parágrafo 5)",
+      "'Cabe à diplomacia aproximação entre as nações' — construção truncada, falta elemento de ligação como 'promover a aproximação' ou similar (parágrafo 6)"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução que contextualiza o tema e apresenta tese, parágrafos de desenvolvimento que abordam impactos positivos e negativos, e conclusão que retoma a argumentação central. O encadeamento lógico entre os parágrafos é claro e coerente.",
+      "O candidato demonstra conhecimento relevante sobre relações internacionais e diplomacia, mobilizando exemplos concretos como os satélites CBERS, a conferência do G77 em Havana, a recomendação da UNESCO e a citação de Kofi Annan. Isso confere credibilidade e densidade à argumentação.",
+      "A abordagem dos impactos positivos (diplomacia pública, articulação entre esferas de poder, cooperação internacional) e negativos (concentração tecnológica, falta de regulação multilateral, uso militar) é pertinente e bem articulada com o tema proposto.",
+      "A definição de IA no primeiro parágrafo como 'tecnologia digital capaz de realizar funções humanas com absoluta precisão' é imprecisa e simplificadora — a IA não opera necessariamente com 'absoluta precisão' e essa generalização enfraquece o início do texto.",
+      "Embora a argumentação seja consistente, há certa previsibilidade na abordagem, que se concentra fortemente na dimensão Norte-Sul e na desigualdade tecnológica. Uma reflexão mais aprofundada sobre outros impactos negativos — como vieses algorítmicos na análise diplomática, riscos de desinformação automatizada ou impactos na soberania informacional — enriqueceria o texto.",
+      "A linguagem é, em geral, adequada ao registro formal exigido pelo CACD, com vocabulário pertinente e uso apropriado de conectivos. Os poucos erros gramaticais identificados não comprometem a compreensão, mas revelam lapsos de revisão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'é fundamental que a diplomacia [...] atue para que os benefícios da IA sejam equitativamente repartidos, de modo a evitar que os impactos negativos aumentam as desigualdades globais' — o correto é 'aumentem' (subjuntivo exigido pela construção 'evitar que').",
+      "'a IA tem potencial positivos na consecução desses objetivos' — erro de concordância nominal; o correto é 'potencial positivo' ou 'potenciais positivos'.",
+      "'de modo tanto positivo, quanto negativo' — uso inadequado da vírgula antes de 'quanto' na correlação 'tanto... quanto'; a vírgula é dispensável nesse caso.",
+      "'Cabe à diplomacia aproximação entre as nações' — falta de artigo ou ajuste sintático; construção truncada. Seria mais adequado 'Cabe à diplomacia promover a aproximação entre as nações' ou similar.",
+      "'ao uso e ferramentas digitais' — falta de preposição ou artigo; o correto seria 'ao uso de ferramentas digitais' ou 'ao uso e às ferramentas digitais'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura dissertativa, com introdução que contextualiza o tema e apresenta tese, desenvolvimento em parágrafos temáticos (impactos positivos e negativos) e conclusão propositiva. O encadeamento lógico é claro e bem conduzido.",
+      "O candidato demonstra repertório sólido e pertinente ao tema, mobilizando referências como a conferência do G77 em Havana, os satélites CBERS, a citação de Kofi Annan e os ODS, o que enriquece a argumentação e demonstra conhecimento de relações internacionais.",
+      "A abordagem dos impactos positivos (diplomacia pública, articulação entre esferas de poder, inclusão) e negativos (concentração tecnológica, falta de regulação multilateral, uso militar) é equilibrada e pertinente ao enunciado.",
+      "A definição de IA como 'tecnologia digital capaz de realizar funções humanas com absoluta precisão' é imprecisa e simplificadora — a IA não opera necessariamente com 'absoluta precisão' e essa generalização enfraquece a credibilidade técnica do texto.",
+      "Embora a argumentação seja consistente, há certa previsibilidade na abordagem, que segue um padrão comum de 'benefícios vs. riscos + necessidade de regulação'. Uma reflexão mais sofisticada sobre dilemas específicos da diplomacia (como o impacto da IA em negociações, tradução automática em foros multilaterais, ou vigilância digital e soberania) elevaria o texto a um patamar superior.",
+      "Alguns erros gramaticais pontuais (concordância, regência) comprometem levemente a qualidade linguística, mas não prejudicam a compreensão geral do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "'é fundamental que a diplomacia [...] atue para que os benefícios da IA sejam equitativamente repartidos, de modo a evitar que os impactos negativos aumentam as desigualdades globais' — o correto é 'aumentem' (subjuntivo exigido pela construção 'evitar que').",
+      "'a IA tem potencial positivos na consecução desses objetivos' — erro de concordância nominal; o correto é 'potencial positivo' ou 'potenciais positivos'.",
+      "'de modo tanto positivo, quanto negativo' — uso inadequado da vírgula antes de 'quanto' na correlação 'tanto... quanto'; a vírgula é dispensável nesse caso.",
+      "'Cabe à diplomacia aproximação entre as nações' — falta de artigo ou ajuste sintático; construção truncada. Seria mais adequado 'Cabe à diplomacia promover a aproximação entre as nações' ou similar.",
+      "'ao uso e ferramentas digitais' — falta de preposição ou artigo; o correto seria 'ao uso de ferramentas digitais' ou 'ao uso e às ferramentas digitais'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura dissertativa, com introdução que contextualiza o tema e apresenta tese, desenvolvimento em parágrafos temáticos (impactos positivos e negativos) e conclusão propositiva. O encadeamento lógico é claro e bem conduzido.",
+      "O candidato demonstra repertório sólido e pertinente ao tema, mobilizando referências como a conferência do G77 em Havana, os satélites CBERS, a citação de Kofi Annan e os ODS, o que enriquece a argumentação e demonstra conhecimento de relações internacionais.",
+      "A abordagem dos impactos positivos (diplomacia pública, articulação entre esferas de poder, inclusão) e negativos (concentração tecnológica, falta de regulação multilateral, uso militar) é equilibrada e pertinente ao enunciado.",
+      "A definição de IA como 'tecnologia digital capaz de realizar funções humanas com absoluta precisão' é imprecisa e simplificadora — a IA não opera necessariamente com 'absoluta precisão' e essa generalização enfraquece a credibilidade técnica do texto.",
+      "Embora a argumentação seja consistente, há certa previsibilidade na abordagem, que segue um padrão comum de 'benefícios vs. riscos + necessidade de regulação'. Uma reflexão mais sofisticada sobre dilemas específicos da diplomacia (como o impacto da IA em negociações, tradução automática em foros multilaterais, ou vigilância digital e soberania) elevaria o texto a um patamar superior.",
+      "Alguns erros gramaticais pontuais (concordância, regência) comprometem levemente a qualidade linguística, mas não prejudicam a compreensão geral do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"Apesar de uso\" — falta do artigo: deveria ser \"Apesar do uso\" (contração de \"de\" + \"o\").",
+      "\"abertura institucional das chancelarias para sociedade civil\" — falta da preposição com artigo: deveria ser \"para a sociedade civil\".",
+      "\"em 2011\" — erro factual que se manifesta como erro de escrita: a Recomendação da UNESCO sobre ética da IA foi adotada em 2021, não em 2011. Embora seja primariamente um erro de conteúdo, configura também incorreção no texto.",
+      "Uso de \"[rasura]\" no corpo do texto, indicando problema de legibilidade/apresentação que compromete a clareza da frase.",
+      "\"A análise quantitativa de textos e vídeos\" — o termo mais adequado no contexto seria \"qualitativa\" ou \"análise de sentimento\"; porém, pode ser considerado imprecisão terminológica e não erro gramatical estrito. Mantém-se como observação."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, parágrafos de desenvolvimento bem estruturados abordando impactos positivos e negativos, e conclusão que retoma os pontos principais. O estilo é formal e adequado ao gênero dissertativo-argumentativo do CACD.",
+      "A capacidade de argumentação é forte: o candidato aborda múltiplas dimensões da IA na diplomacia (negociação de acordos, tradução, análise de sentimento, diplomacia pública, desigualdades entre países, regulação ética), demonstrando conhecimento amplo e pertinente. Os argumentos são bem encadeados e sustentados com exemplos concretos.",
+      "A capacidade de análise e reflexão é boa, com destaque para a discussão sobre como a IA pode acentuar desigualdades entre países ricos e em desenvolvimento nas negociações internacionais, e para a reflexão sobre o fortalecimento da diplomacia pública em democracias. Contudo, algumas afirmações carecem de maior aprofundamento crítico — por exemplo, a menção à computação quântica simulando efeitos de normas sobre a realidade fática é uma afirmação bastante ousada e pouco fundamentada. A análise dos impactos negativos poderia ter sido mais aprofundada, especialmente no que tange a questões como desinformação, deepfakes na diplomacia, ou a erosão da confiança entre Estados.",
+      "O erro no ano da Recomendação da UNESCO (2011 em vez de 2021) é significativo, pois demonstra desatenção a um dado fornecido no próprio enunciado da prova, comprometendo a credibilidade da conclusão.",
+      "A presença de uma rasura no texto prejudica a apresentação, embora o conteúdo geral seja de alta qualidade. A linguagem é predominantemente correta e sofisticada, com vocabulário adequado ao registro formal exigido."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"Apesar de uso das técnicas\" — falta do artigo: deveria ser \"Apesar de o uso\" ou \"Apesar do uso\".",
+      "\"abertura institucional das chancelarias para sociedade civil\" — falta de preposição/artigo: deveria ser \"para a sociedade civil\".",
+      "\"conforme recomendado pela UNESCO, em 2011\" — erro factual que se manifesta como imprecisão textual: a recomendação da UNESCO citada no enunciado é de 2021, não de 2011. Embora seja primariamente um erro de conteúdo, a troca de dígitos configura também um descuido na redação.",
+      "\"A análise quantitativa de textos e vídeos\" — o termo mais adequado no contexto seria \"qualitativa\" ou \"análise de sentimento\"; \"quantitativa\" é impreciso, embora não seja estritamente um erro gramatical, configura impropriedade vocabular.",
+      "Presença de rasura no texto: \"informações qualificadas da opinião pública [rasura]\" — embora não seja erro gramatical propriamente, indica problema de apresentação."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão bem articulada. A estrutura é clara e o encadeamento lógico entre os parágrafos é bem conduzido.",
+      "A argumentação é rica e diversificada, abordando impactos positivos (negociação de acordos, tradução instantânea, computação quântica, análise de sentimento, diplomacia pública) e negativos (acentuação de desigualdades, riscos autoritários, violações de privacidade, propriedade intelectual). Os exemplos são pertinentes e demonstram conhecimento do tema.",
+      "A capacidade de análise e reflexão é sólida, com conexões entre IA e diplomacia que vão além do óbvio — como a menção à computação quântica aplicada a negociações comerciais e a análise de sentimento como ferramenta de diplomacia pública. No entanto, algumas afirmações carecem de maior aprofundamento crítico, como a relação entre computação quântica e simulação de efeitos normativos, que é apresentada de forma algo especulativa sem ressalvas adequadas.",
+      "Erro factual relevante na conclusão: a recomendação da UNESCO sobre ética da IA foi adotada em 2021, não em 2011. Esse equívoco compromete a credibilidade da referência ao documento central do enunciado.",
+      "O estilo é formal e adequado ao gênero, com vocabulário sofisticado e períodos bem construídos. A linguagem é própria do registro esperado para o CACD.",
+      "A redação dialoga adequadamente com o enunciado, incorporando elementos como direitos humanos, dignidade humana, transparência, responsabilidade e estado de direito, embora pudesse ter explorado mais diretamente a sustentabilidade ambiental e a igualdade de gênero mencionadas no texto-base."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"Apesar de uso\" — falta do artigo: deveria ser \"Apesar do uso\" (contração de + o).",
+      "\"abertura institucional das chancelarias para sociedade civil\" — falta da preposição contraída: deveria ser \"para a sociedade civil\".",
+      "\"em 2011\" — erro factual que se manifesta como erro de escrita: a Recomendação da UNESCO sobre ética da IA foi adotada em 2021, não em 2011.",
+      "Rasura indicada no texto (\"[rasura]\") — embora não seja erro gramatical stricto sensu, constitui falha de apresentação textual.",
+      "\"as tecnologias de computação quântica\" — embora não seja erro gramatical em si, a associação direta de computação quântica como subcampo da IA é imprecisa e pode ser considerada impropriedade de linguagem."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem organizado, com introdução clara, desenvolvimento em parágrafos temáticos bem delimitados (negociação de acordos, análise de sentimentos, impactos negativos) e conclusão que retoma os pontos centrais. O estilo é formal e adequado ao gênero dissertativo-argumentativo do CACD. A coerência interna é sólida, com conectivos bem empregados e progressão temática fluida. A presença de uma rasura e o erro no ano da recomendação da UNESCO (2011 em vez de 2021) prejudicam levemente a impressão geral. Nota: 9.0.",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade argumentativa, apresentando exemplos concretos e pertinentes (ferramentas de tradução, análise de sentimentos, computação quântica aplicada a negociações comerciais). A argumentação é sistemática, abordando tanto impactos positivos quanto negativos, conforme solicitado pelo enunciado. A menção à diplomacia pública e ao fortalecimento democrático é pertinente. Contudo, a referência à computação quântica como tecnologia de IA é imprecisa, e o erro no ano da recomendação da UNESCO (2011 em vez de 2021) compromete a credibilidade informacional. Nota: 9.0.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica acima da média, articulando múltiplas dimensões do impacto da IA na diplomacia: eficiência processual, democratização da política externa, assimetrias entre países desenvolvidos e em desenvolvimento, riscos autoritários e necessidade de governança ética. A reflexão sobre o aprofundamento de desigualdades internacionais é particularmente relevante e bem desenvolvida. A conexão com os valores da recomendação da UNESCO (transparência, responsabilidade, estado de direito, dignidade humana) é feita na conclusão, embora pudesse ter sido mais aprofundada ao longo do texto. A análise poderia ter explorado mais a tensão entre soberania estatal e governança global da IA, bem como implicações para o multilateralismo. Nota: 17.0.",
+      "Correção gramatical e propriedade da linguagem: O texto apresenta domínio elevado da norma culta, com vocabulário sofisticado e construções sintáticas complexas bem executadas. Foram identificados poucos erros: ausência de artigo em 'Apesar de uso', falta de artigo em 'para sociedade civil', erro no ano da recomendação (2011 por 2021), e a rasura. A propriedade da linguagem é, em geral, muito boa, com ressalva para a imprecisão conceitual sobre computação quântica como IA. Desconto de 2.5 pontos (0.5 por erro). Nota: 17.5/20."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"Apesar de uso\" — falta do artigo: deveria ser \"Apesar do uso\" (contração de \"de\" + \"o\").",
+      "\"abertura institucional das chancelarias para sociedade civil\" — falta da preposição contraída: deveria ser \"para a sociedade civil\".",
+      "\"conforme recomendado pela UNESCO, em 2011\" — erro factual/de digitação: a Recomendação da UNESCO sobre ética da IA foi adotada em 2021, não em 2011.",
+      "Presença de rasura no texto (\"opinião pública [rasura]\"), o que pode ser penalizado conforme critérios do concurso."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, parágrafos de desenvolvimento bem estruturados abordando tanto impactos positivos quanto negativos, e conclusão que retoma os pontos principais.",
+      "O candidato demonstra capacidade argumentativa sólida, explorando aspectos concretos e variados da aplicação da IA à diplomacia: negociação de acordos, tradução instantânea, computação quântica, análise de sentimentos, diplomacia pública, desigualdades entre países e questões éticas.",
+      "O encadeamento das ideias é coerente e fluido, com uso adequado de conectivos e transições entre parágrafos, mantendo a progressão temática ao longo do texto.",
+      "A linguagem é formal, adequada ao contexto do concurso, com vocabulário preciso e variado.",
+      "O erro no ano da Recomendação da UNESCO (2011 em vez de 2021) é significativo, pois demonstra desatenção ao texto motivador fornecido no enunciado, comprometendo a credibilidade da referência feita na conclusão.",
+      "A menção à computação quântica, embora interessante, extrapola um pouco o campo estrito da IA, podendo ser considerada tangencial ao tema proposto.",
+      "A presença de rasura no texto é um elemento que pode ser penalizado em prova manuscrita.",
+      "De modo geral, trata-se de uma redação de alto nível, com argumentação consistente, boa articulação entre os aspectos positivos e negativos, e domínio da norma culta, prejudicada por poucos deslizes pontuais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"Apesar de uso\" — falta do artigo: deveria ser \"Apesar do uso\" (contração de \"de\" + \"o\").",
+      "\"abertura institucional das chancelarias para sociedade civil\" — falta da preposição contraída: deveria ser \"para a sociedade civil\".",
+      "\"conforme recomendado pela UNESCO, em 2011\" — erro factual/de digitação: a Recomendação da UNESCO sobre ética da IA foi adotada em 2021, não em 2011.",
+      "Presença de rasura no texto (\"opinião pública [rasura]\"), o que pode ser penalizado conforme critérios do concurso."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução contextualizadora, desenvolvimento em parágrafos temáticos bem delimitados (negociação de acordos, análise quantitativa de textos, impactos negativos) e conclusão articulada.",
+      "O candidato demonstra capacidade argumentativa sólida, articulando impactos positivos e negativos da IA para a diplomacia com exemplos concretos e pertinentes, como tradução instantânea, computação quântica aplicada a negociações comerciais e análise de sentimento.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário preciso e variado, e o encadeamento lógico entre os parágrafos é bem conduzido por conectivos apropriados.",
+      "O erro no ano da Recomendação da UNESCO (2011 em vez de 2021) na conclusão é uma falha relevante, pois compromete a precisão de uma referência direta ao texto motivador.",
+      "A menção à computação quântica, embora interessante, extrapola um pouco o escopo estrito da inteligência artificial, podendo ser considerada tangencial.",
+      "A presença de rasura no texto é um elemento que pode acarretar penalização conforme os critérios do concurso.",
+      "De modo geral, trata-se de uma redação de alto nível, com argumentação consistente, boa articulação com o enunciado e poucos desvios gramaticais, mas prejudicada pelo erro factual na conclusão e pela rasura."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"Apesar de uso\" — falta do artigo: deveria ser \"Apesar do uso\" (contração de 'de' + 'o').",
+      "\"abertura institucional das chancelarias para sociedade civil\" — falta da preposição contraída: deveria ser \"para a sociedade civil\".",
+      "\"conforme recomendado pela UNESCO, em 2011\" — erro factual/de digitação: a Recomendação da UNESCO sobre ética da IA foi adotada em 2021, não em 2011.",
+      "Presença de rasura no texto (\"opinião pública [rasura]\"), o que pode ser penalizado conforme critérios do concurso."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos (negociação de acordos, análise quantitativa, impactos negativos) e conclusão que retoma os argumentos e dialoga com o enunciado.",
+      "O candidato demonstra capacidade argumentativa sólida, articulando impactos positivos (tradução instantânea, simulação de efeitos normativos via computação quântica, análise de sentimentos, fortalecimento da diplomacia pública) e negativos (acentuação de desigualdades entre países, riscos autoritários, violações de privacidade) de forma equilibrada e coerente.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD, com uso preciso de termos como 'realidade fática', 'instrumentalizados', 'transversal', 'disruptivos'.",
+      "A menção à computação quântica como tecnologia de IA é imprecisa — computação quântica é um campo distinto, embora possa potencializar a IA. Essa imprecisão conceitual é menor, mas merece nota.",
+      "O erro de data no último parágrafo (2011 em vez de 2021) é significativo, pois se refere diretamente ao documento citado no enunciado, comprometendo a credibilidade da referência feita pelo candidato.",
+      "A presença de rasura no texto é penalizável e deve ser evitada em provas de concurso.",
+      "De modo geral, trata-se de uma redação de alto nível, com argumentação sofisticada, boa articulação entre os parágrafos e domínio da norma culta, prejudicada por poucos deslizes pontuais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"Apesar de uso das técnicas\" — falta do artigo: deveria ser \"Apesar de o uso\" ou \"Apesar do uso\".",
+      "\"abertura institucional das chancelarias para sociedade civil\" — falta de preposição/artigo: deveria ser \"para a sociedade civil\".",
+      "\"conforme recomendado pela UNESCO, em 2011\" — o texto motivador indica que a recomendação foi adotada em 2021, não em 2011. Trata-se de erro factual relevante.",
+      "Presença de rasura no texto (\"opinião pública [rasura]\"), o que compromete a apresentação formal."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução contextualizadora, desenvolvimento em parágrafos temáticos (negociação de acordos, análise de sentimentos, impactos negativos) e conclusão articulada. O encadeamento lógico é consistente e a progressão argumentativa é clara.",
+      "O candidato demonstra bom domínio temático, abordando tanto impactos positivos (tradução instantânea, simulação de efeitos normativos, análise de sentimentos, diplomacia pública) quanto negativos (acentuação de desigualdades, riscos autoritários, privacidade, propriedade intelectual), atendendo adequadamente ao comando da questão.",
+      "A menção à computação quântica como tecnologia de IA é imprecisa — computação quântica é um campo distinto, embora possa potencializar aplicações de IA. Essa confusão conceitual enfraquece ligeiramente a argumentação técnica.",
+      "O erro na data da recomendação da UNESCO (2011 em vez de 2021) é um deslize factual significativo, especialmente por se referir diretamente ao texto motivador fornecido no enunciado.",
+      "A linguagem é formal e adequada ao contexto do CACD, com vocabulário rico e construções sintáticas variadas. O domínio da norma culta é consistente, com poucos deslizes gramaticais.",
+      "Para alcançar a faixa 'Excelente', a redação poderia aprofundar a reflexão sobre os dilemas éticos com exemplos mais concretos e atuais da prática diplomática, além de evitar imprecisões conceituais e factuais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"Apesar de uso das técnicas\" — falta do artigo: deveria ser \"Apesar de o uso das técnicas\" ou \"Apesar do uso das técnicas\".",
+      "\"abertura institucional das chancelarias para sociedade civil\" — falta de preposição/artigo: deveria ser \"para a sociedade civil\".",
+      "\"conforme recomendado pela UNESCO, em 2011\" — erro factual/de digitação: a Recomendação da UNESCO sobre ética da IA foi adotada em 2021, não em 2011.",
+      "Presença de rasura no texto (\"opinião pública [rasura]\"), o que constitui irregularidade formal."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução contextualizadora, desenvolvimento em parágrafos temáticos (negociação de acordos, análise de sentimentos, impactos negativos) e conclusão articulada. O encadeamento lógico é claro e coeso.",
+      "A argumentação é pertinente e demonstra conhecimento do tema, abordando tanto impactos positivos (tradução instantânea, simulação de cenários, análise de sentimentos, diplomacia pública) quanto negativos (acentuação de desigualdades, riscos autoritários, privacidade). Os exemplos são concretos e bem articulados.",
+      "A menção à computação quântica como tecnologia de IA é imprecisa — computação quântica é um campo distinto, embora possa potencializar a IA. Essa confusão conceitual enfraquece ligeiramente a argumentação técnica.",
+      "O erro na data da Recomendação da UNESCO (2011 em vez de 2021) é significativo, pois demonstra desatenção ao próprio texto motivador, que indica claramente 2021.",
+      "A linguagem é adequada ao contexto do CACD, com vocabulário sofisticado e registro formal consistente. Há bom domínio da norma culta, com poucos deslizes gramaticais.",
+      "Para alcançar a faixa Excelente, a redação poderia aprofundar mais a reflexão sobre os dilemas éticos específicos da diplomacia (por exemplo, o uso de IA em espionagem diplomática, deepfakes em relações internacionais), trazer referências teóricas ou históricas mais robustas e evitar os erros factuais identificados."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2023"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"Apesar de uso das técnicas\" — falta do artigo: deveria ser \"Apesar de o uso das técnicas\" ou \"Apesar do uso das técnicas\".",
+      "\"abertura institucional das chancelarias para sociedade civil\" — falta de preposição/artigo: deveria ser \"para a sociedade civil\".",
+      "\"conforme recomendado pela UNESCO, em 2011\" — erro factual/de digitação: a Recomendação da UNESCO sobre ética da IA foi adotada em 2021, não em 2011.",
+      "Presença de rasura no texto (\"opinião pública [rasura]\"), o que compromete a apresentação formal."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução contextualizadora, desenvolvimento em parágrafos temáticos (negociação de acordos, análise de sentimentos, impactos negativos) e conclusão articulada. O encadeamento lógico é consistente e a progressão argumentativa é clara.",
+      "O candidato demonstra bom domínio temático ao abordar aplicações concretas da IA na diplomacia — tradução instantânea, computação quântica para simulações, análise de sentimentos — o que confere concretude à argumentação e vai além do senso comum.",
+      "A abordagem dos impactos negativos é pertinente, mencionando a acentuação de desigualdades entre países e riscos autoritários, embora pudesse ser mais aprofundada com exemplos específicos ou referências a casos concretos de uso problemático de IA por Estados.",
+      "O erro na data da Recomendação da UNESCO (2011 em vez de 2021) é significativo, pois demonstra desatenção a um dado presente no próprio enunciado da prova, o que pode ser penalizado em um concurso que valoriza precisão.",
+      "A menção à computação quântica como tecnologia de IA é imprecisa: computação quântica é um campo distinto, embora possa potencializar aplicações de IA. Essa confusão conceitual enfraquece ligeiramente a argumentação técnica.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário variado e construções sintáticas bem elaboradas. Os poucos deslizes gramaticais não comprometem a compreensão geral do texto.",
+      "Para alcançar a faixa Excelente, o texto se beneficiaria de maior profundidade analítica nos impactos negativos, maior precisão conceitual e factual, e de uma reflexão mais sofisticada sobre os dilemas éticos específicos da IA aplicada à diplomacia."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2023"
+  }
+]

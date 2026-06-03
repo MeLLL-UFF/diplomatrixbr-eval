@@ -1,0 +1,1342 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de artigo em 'possibilidade de erradicação guerra' — deveria ser 'erradicação da guerra'.",
+      "Vírgula indevida em 'a guerra acontece, quando a política não fornece' — a oração subordinada adverbial posposta não deve ser separada por vírgula.",
+      "Vírgula indevida em 'Freud estava certo, ao afirmar' — a oração reduzida de infinitivo posposta não requer vírgula nesse contexto.",
+      "Hífen indevido em 'apoiou- se' (espaço antes do 'se'), configurando erro de digitação/grafia.",
+      "Uso de 'não-proliferação' com hífen — pelo Acordo Ortográfico vigente, o correto é 'não proliferação' (sem hífen), embora haja variação de uso; aparece duas vezes no texto."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma as ideias centrais e projeta reflexão para o presente.",
+      "A capacidade argumentativa é notável: o candidato mobiliza referências pertinentes e diversificadas (Clausewitz, Hedley Bull, John Keegan), articula exemplos históricos concretos (Canal de Beagle, regime de não proliferação nuclear, criação da ONU) e os conecta de forma orgânica às ideias de Freud presentes no enunciado.",
+      "A análise e reflexão são de alto nível: o texto não se limita a descrever fatos históricos, mas os interpreta à luz dos conceitos freudianos (desvio das tendências agressivas, medo das consequências, evolução cultural), estabelecendo relações causais e conceituais sofisticadas. A distinção entre sistema internacional e sociedade internacional (Hedley Bull) é bem empregada para aprofundar a discussão.",
+      "O texto responde plenamente ao enunciado, discorrendo sobre o papel da diplomacia com referências explícitas às ideias dos textos motivadores e a múltiplos momentos históricos.",
+      "Os erros gramaticais são poucos e de menor gravidade, não comprometendo a compreensão do texto. A linguagem é formal, precisa e adequada ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "Ponto de melhoria: a redação poderia explorar com mais profundidade o segundo tipo de ligação emocional mencionado por Freud — a identificação — como mecanismo diplomático, o que enriqueceria ainda mais a análise."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de artigo em 'possibilidade de erradicação guerra' — deveria ser 'erradicação da guerra'.",
+      "Vírgula indevida em 'a guerra acontece, quando a política não fornece' — não se separa oração subordinada adverbial posposta por vírgula nesse caso.",
+      "Vírgula indevida em 'Freud estava certo, ao afirmar' — a vírgula separa indevidamente o predicativo do sujeito da oração reduzida.",
+      "Hífen indevido em 'não-proliferação' — conforme o Acordo Ortográfico vigente, o correto é 'não proliferação' (sem hífen).",
+      "Espaço indevido em 'apoiou- se' — deveria ser 'apoiou-se' (sem espaço antes do hífen)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma as ideias centrais e projeta reflexão para o presente.",
+      "A capacidade argumentativa é notável: o candidato mobiliza referências pertinentes (Clausewitz, Hedley Bull, John Keegan) e exemplos históricos concretos (Canal de Beagle, TNP, acordos de desarmamento EUA-URSS, criação da ONU), articulando-os de forma coerente com as ideias de Freud e Einstein presentes no enunciado.",
+      "A análise e reflexão são de alto nível: o candidato não se limita a descrever fatos, mas estabelece relações causais entre diplomacia, evolução cultural e redução da guerra, dialogando com os conceitos freudianos de desvio das tendências agressivas e medo das consequências. A diferenciação entre sistema e sociedade internacional (Hedley Bull) enriquece a argumentação.",
+      "O texto demonstra domínio do tema e maturidade intelectual, conectando adequadamente o papel da diplomacia às ideias dos textos motivadores. A conclusão é bem construída, atualizando o debate para 2022 e incorporando a revolução tecnológica como elemento contemporâneo.",
+      "Quanto à correção gramatical, o texto é predominantemente correto, com poucos deslizes: a omissão do artigo 'da' em 'erradicação guerra', vírgulas indevidas em dois pontos, o espaço antes do hífen em 'apoiou- se' e o uso de hífen em 'não-proliferação' contrário ao Acordo Ortográfico vigente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.5,
+    "nota_1C": 18.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de artigo em 'possibilidade de erradicação guerra' — deveria ser 'erradicação da guerra'.",
+      "Vírgula indevida em 'a guerra acontece, quando a política não fornece' — a oração subordinada adverbial posposta não deve ser separada por vírgula.",
+      "Vírgula indevida em 'Freud estava certo, ao afirmar' — a oração reduzida de infinitivo posposta não requer vírgula nesse contexto.",
+      "Hífen indevido em 'apoiou- se' (espaço antes do 'se'), configurando erro de digitação/grafia.",
+      "Uso de 'não-proliferação' com hífen — pelo Acordo Ortográfico vigente, o correto é 'não proliferação' (sem hífen), embora haja variação de uso; aparece duas vezes no texto."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma as ideias centrais e projeta reflexão para o presente.",
+      "A capacidade argumentativa é notável: o candidato mobiliza referências pertinentes (Clausewitz, Hedley Bull, John Keegan) e exemplos históricos concretos (mediação do Canal de Beagle, TNP, acordos de desarmamento EUA-URSS, criação da ONU), articulando-os de forma coerente com as ideias de Freud e Einstein presentes no enunciado.",
+      "A análise e reflexão são de alto nível: o texto não se limita a descrever fatos, mas estabelece relações causais entre diplomacia, evolução cultural e redução da guerra, dialogando consistentemente com os conceitos freudianos de desvio das tendências agressivas e medo das consequências. A diferenciação entre sistema e sociedade internacional (Hedley Bull) enriquece a argumentação.",
+      "O texto demonstra domínio do tema e maturidade intelectual, conectando teoria (Freud, Bull, Clausewitz) com prática diplomática e momentos históricos relevantes, sempre mantendo o foco no papel da diplomacia conforme solicitado pelo enunciado.",
+      "Os erros gramaticais são poucos e de natureza menor, não comprometendo a compreensão do texto. A linguagem é formal, precisa e adequada ao gênero dissertativo-argumentativo exigido pelo CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de artigo em 'possibilidade de erradicação guerra' — deveria ser 'erradicação da guerra'.",
+      "Uso indevido de vírgula em 'a guerra acontece, quando a política' — vírgula separando oração subordinada posposta sem justificativa estilística.",
+      "Uso indevido de vírgula em 'Freud estava certo, ao afirmar' — vírgula separando complemento do adjetivo.",
+      "Hífen indevido em 'apoiou- se' (espaço antes do 'se'), provável erro de digitação/formatação."
+    ],
+    "feedbacks": [
+      "Excelente organização textual: a redação apresenta introdução clara, desenvolvimento bem estruturado em parágrafos temáticos (meios pacíficos de solução de controvérsias, medo das consequências da guerra, construção de uma sociedade internacional) e conclusão coesa.",
+      "O candidato demonstra amplo repertório histórico e teórico, citando autores como Keegan, Clausewitz e Hedley Bull, além de eventos como a mediação do Canal de Beagle, o TNP, os acordos de desarmamento da Guerra Fria e a criação da ONU — todos pertinentes e bem articulados com o tema.",
+      "A articulação com os textos motivadores é consistente: o candidato retoma as ideias de Freud sobre desvio das tendências agressivas, medo das consequências da guerra e evolução cultural, conectando-as ao papel da diplomacia de forma orgânica.",
+      "A linguagem é adequada ao registro formal exigido pelo CACD, com vocabulário preciso e construções sintáticas bem elaboradas.",
+      "Poucos erros gramaticais, todos de menor gravidade, o que demonstra domínio sólido da norma culta.",
+      "A conclusão é bem construída, retomando o diálogo Einstein-Freud e projetando a relevância contemporânea do tema, inclusive mencionando a revolução tecnológica nos meios de comunicação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de artigo em 'possibilidade de erradicação guerra' — deveria ser 'erradicação da guerra'.",
+      "Uso indevido de vírgula em 'a guerra acontece, quando a política' — vírgula separando oração subordinada posposta sem justificativa.",
+      "Uso indevido de vírgula em 'Freud estava certo, ao afirmar' — vírgula desnecessária separando o verbo de seu complemento.",
+      "Hífen indevido em 'apoiou- se' (espaço antes do 'se'), possivelmente erro de digitação/formatação."
+    ],
+    "feedbacks": [
+      "Excelente organização textual, com introdução clara que dialoga com os textos motivadores, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma as ideias centrais.",
+      "O candidato demonstra amplo repertório histórico e teórico, citando autores como Clausewitz, Hedley Bull e John Keegan, além de exemplos históricos pertinentes (Canal de Beagle, TNP, Guerra Fria, ONU).",
+      "A articulação entre as ideias de Freud e o papel da diplomacia é feita de maneira orgânica e convincente, abordando três dimensões: meios pacíficos de solução de controvérsias, conscientização sobre os riscos da guerra e construção de uma cultura de paz.",
+      "A argumentação é sofisticada e bem encadeada, com uso adequado de conectivos e transições entre parágrafos.",
+      "A linguagem é formal, precisa e adequada ao contexto do concurso, com pouquíssimos deslizes gramaticais.",
+      "A conclusão é bem construída, retomando o diálogo Einstein-Freud e projetando a reflexão para o contexto contemporâneo de forma pertinente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de artigo em 'possibilidade de erradicação guerra' — deveria ser 'erradicação da guerra'.",
+      "Uso indevido de vírgula em 'a guerra acontece, quando a política' — vírgula separando oração subordinada adverbial posposta sem valor explicativo.",
+      "Uso indevido de vírgula em 'Freud estava certo, ao afirmar' — vírgula desnecessária separando o predicativo do sujeito da oração reduzida.",
+      "Grafia de 'não-proliferação' com hífen: após o Acordo Ortográfico de 1990, o prefixo 'não' não exige hífen antes de substantivos (não proliferação)."
+    ],
+    "feedbacks": [
+      "Excelente estrutura textual com introdução, desenvolvimento em três eixos argumentativos bem definidos (meios pacíficos de solução de controvérsias, medo das consequências da guerra, construção de uma cultura de paz) e conclusão articulada.",
+      "O candidato demonstra domínio notável do tema, mobilizando referências históricas pertinentes (Canal de Beagle, Guerra Fria, TNP, ONU) e autores relevantes (Clausewitz, Keegan, Hedley Bull), todos bem integrados à argumentação.",
+      "Há excelente articulação entre as ideias do texto motivador (Freud) e os argumentos desenvolvidos, cumprindo plenamente o comando da questão ao discorrer sobre o papel da diplomacia com referência às ideias dos excertos e a momentos históricos.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário preciso e variado, demonstrando propriedade no uso de termos das relações internacionais.",
+      "Os poucos erros gramaticais identificados são de natureza menor e não comprometem a qualidade geral do texto, que se destaca pela maturidade argumentativa e pela coesão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de artigo em 'possibilidade de erradicação guerra' — deveria ser 'erradicação da guerra'.",
+      "Vírgula indevida em 'a guerra acontece, quando a política não fornece' — a oração subordinada adverbial posposta não deve ser precedida de vírgula.",
+      "Hífen indevido em 'apoiou- se' (espaço antes do 'se'), provável erro de digitação.",
+      "Vírgula indevida em 'Freud estava certo, ao afirmar que' — a oração reduzida de infinitivo complementa o adjetivo e não deve ser separada por vírgula."
+    ],
+    "feedbacks": [
+      "A redação demonstra altíssimo nível de articulação argumentativa, mobilizando com precisão e pertinência referências teóricas diversas (Clausewitz, Hedley Bull, John Keegan) e exemplos históricos concretos (Canal de Beagle, TNP, acordos de desarmamento EUA-URSS, criação da ONU).",
+      "O texto dialoga de forma consistente e orgânica com os excertos de Einstein e Freud, retomando conceitos como o desvio das tendências agressivas, o medo das consequências da guerra e a evolução cultural, e os conectando ao papel da diplomacia.",
+      "A estrutura é exemplar: introdução que contextualiza o tema e apresenta a tese, parágrafos de desenvolvimento com argumentos distintos e bem encadeados (meios pacíficos de solução de controvérsias, conscientização sobre riscos nucleares, construção de uma sociedade internacional com valores comuns), e conclusão que retoma a atualidade do debate e projeta desafios futuros.",
+      "O vocabulário é rico e adequado ao registro exigido pelo CACD, com uso preciso de termos das relações internacionais e do direito internacional. A linguagem é fluida e madura.",
+      "Os poucos deslizes gramaticais identificados são menores e não comprometem a qualidade geral do texto, que se destaca pela profundidade analítica, coesão e sofisticação argumentativa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de artigo em 'possibilidade de erradicação guerra' — deveria ser 'erradicação da guerra'.",
+      "Vírgula indevida em 'a guerra acontece, quando a política não fornece' — a oração subordinada adverbial posposta não deve ser precedida de vírgula.",
+      "Vírgula indevida em 'Freud estava certo, ao afirmar' — a oração reduzida de infinitivo posposta não exige vírgula nesse contexto.",
+      "Hífen em 'apoiou- se' com espaço indevido antes de 'se' (possível erro de digitação/formatação)."
+    ],
+    "feedbacks": [
+      "A redação demonstra altíssimo nível de articulação argumentativa, mobilizando com propriedade e naturalidade referências teóricas diversas (Clausewitz, Hedley Bull, John Keegan) e exemplos históricos pertinentes (Canal de Beagle, TNP, Guerra Fria, ONU), todos conectados de forma orgânica ao enunciado e às ideias de Freud.",
+      "A estrutura do texto é exemplar: introdução que contextualiza o debate e apresenta a tese; parágrafos de desenvolvimento que exploram três dimensões distintas do papel da diplomacia (meios pacíficos de solução de controvérsias, conscientização sobre riscos e construção de uma cultura de paz); e conclusão que retoma o diálogo Einstein-Freud e projeta a reflexão para o presente.",
+      "O candidato demonstra domínio sofisticado do tema, articulando conceitos de Relações Internacionais (sistema vs. sociedade internacional, regime de não-proliferação, multilateralismo) com as ideias psicanalíticas de Freud sobre instinto de destruição e evolução cultural, evidenciando maturidade intelectual compatível com a carreira diplomática.",
+      "A linguagem é precisa, fluida e adequada ao registro formal exigido pelo concurso, com vocabulário rico e variado. Os poucos deslizes gramaticais identificados são menores e não comprometem a qualidade geral do texto.",
+      "A conclusão é particularmente bem construída, ao atualizar o debate para 2022, reconhecer os limites dos avanços alcançados e encerrar com uma reflexão provocativa sobre o papel da tecnologia e da escolha humana, conferindo originalidade ao fechamento."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de artigo em 'possibilidade de erradicação guerra' — deveria ser 'erradicação da guerra'.",
+      "Uso indevido de vírgula em 'a guerra acontece, quando a política não fornece' — a vírgula antes de 'quando' é desnecessária nesse contexto.",
+      "Uso indevido de vírgula em 'Freud estava certo, ao afirmar' — a vírgula antes de 'ao afirmar' é desnecessária.",
+      "Hífen indevido em 'apoiou- se' (espaço antes do 'se'), possivelmente erro de digitação."
+    ],
+    "feedbacks": [
+      "A redação demonstra domínio excepcional do tema, articulando com fluidez e profundidade o papel da diplomacia na construção da paz, em diálogo direto e consistente com os textos de Einstein e Freud.",
+      "O texto mobiliza um repertório histórico e teórico impressionante: Clausewitz, Hedley Bull, John Keegan, a mediação do Canal de Beagle, o regime de não-proliferação nuclear, a criação da ONU e o Direito Internacional Humanitário. Cada referência é integrada organicamente à argumentação, sem parecer forçada.",
+      "A estrutura é exemplar: introdução que contextualiza o debate e apresenta a tese; parágrafos de desenvolvimento com argumentos distintos e complementares (meios pacíficos de solução de controvérsias, conscientização sobre riscos nucleares, construção de uma sociedade internacional com valores comuns); e conclusão que retoma o diálogo Einstein-Freud e projeta a reflexão para o presente.",
+      "A articulação entre as ideias de Freud (desvio das tendências agressivas, medo das consequências, evolução cultural) e os exemplos históricos concretos é sofisticada e demonstra capacidade analítica de alto nível.",
+      "A linguagem é precisa, madura e adequada ao registro exigido pelo CACD. Os poucos deslizes gramaticais identificados são menores e não comprometem a qualidade do texto.",
+      "A conclusão é particularmente bem construída, ao atualizar o debate para 2022, reconhecer os limites dos avanços alcançados e encerrar com uma reflexão provocativa sobre o papel da tecnologia e da escolha humana."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.5,
+    "nota_1C": 18.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de vírgula antes de oração restritiva/complemento final em 'são as ferramentas de que a diplomacia dispõe, para que o direito prevaleça sobre a violência' — a vírgula antes de 'para que' é desnecessária nesse contexto, pois a oração final é parte integrante do sentido.",
+      "Em 'referenciada por Freud na troca de cartas' — o uso de 'referenciada' no sentido de 'mencionada' é questionável em registro formal culto; o mais adequado seria 'mencionada' ou 'referida'. Esse uso se repete três vezes no texto.",
+      "Em 'os povos que desumanizaram' — ambiguidade sintática: não fica claro se os alemães desumanizaram os povos ou se os povos se desumanizaram. O mais adequado seria 'os povos que foram desumanizados' ou 'os povos aos quais desumanizaram'."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura exemplar, com introdução criativa e original (mito de Sísifo), desenvolvimento bem organizado em três eixos temáticos (relações culturais, interesses securitários e normas internacionais) e conclusão que retoma e ressignifica a metáfora inicial com Camus. A circularidade do texto é um ponto forte notável.",
+      "O candidato demonstra excelente capacidade de articulação entre os textos motivadores e referências teóricas diversificadas (Edward Said, Hannah Arendt, Keohane, paradigma realista), além de exemplos históricos pertinentes (Segunda Guerra Mundial, Crise dos Mísseis, invasão do Iraque, guerra na Ucrânia). Cada parágrafo de desenvolvimento conecta-se explicitamente a ideias de Freud presentes no enunciado.",
+      "A capacidade analítica é elevada: o candidato não se limita a descrever eventos, mas os interpreta à luz de conceitos teóricos e os conecta ao papel da diplomacia. A tese central — a diplomacia como Sísifo que busca a paz sem jamais alcançá-la plenamente — é sofisticada e bem sustentada ao longo do texto.",
+      "Ponto de atenção: a expressão 'referenciada por Freud' é repetida três vezes com formulação quase idêntica, o que gera certa monotonia estrutural nos parágrafos de desenvolvimento. Variar a forma de conexão com o texto motivador enriqueceria o estilo.",
+      "A argumentação é objetiva e bem sistematizada, com cada parágrafo cumprindo uma função clara na estrutura argumentativa. O texto demonstra maturidade intelectual e domínio do tema, com raríssimos deslizes gramaticais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.5,
+    "nota_1C": 18.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de vírgula antes de oração restritiva/complemento final em 'são as ferramentas de que a diplomacia dispõe, para que o direito prevaleça sobre a violência' — a vírgula antes de 'para que' é desnecessária nesse contexto, pois a oração final é parte integrante do sentido.",
+      "Em 'referenciada por Freud na troca de cartas' — o uso de 'referenciada' no sentido de 'mencionada' é questionável em registro formal culto; o mais adequado seria 'mencionada' ou 'referida'. Repete-se em mais de uma ocorrência.",
+      "Em 'os povos que desumanizaram' — ambiguidade sintática: não fica claro se os alemães desumanizaram os povos ou se os povos se desumanizaram; o mais adequado seria 'os povos que foram desumanizados' ou 'os povos aos quais desumanizaram'."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura exemplar, com introdução criativa e original (mito de Sísifo), desenvolvimento bem organizado em três eixos temáticos claros (relações culturais, interesses securitários e normas internacionais) e conclusão que retoma e ressignifica a metáfora inicial com Camus. Essa circularidade confere grande coesão ao texto.",
+      "O candidato demonstra excelente capacidade de articulação entre os textos motivadores e referências teóricas diversificadas (Edward Said, Hannah Arendt, Keohane, paradigmas realista e liberal das RI), além de exemplos históricos pertinentes (Segunda Guerra Mundial, Crise dos Mísseis, invasão do Iraque, guerra na Ucrânia).",
+      "A vinculação com as ideias de Freud é feita de forma orgânica e recorrente ao longo do texto, demonstrando leitura atenta dos excertos. O candidato dialoga com três ideias centrais do texto freudiano: a atitude cultural, o medo das consequências da guerra e a evolução da violência para o direito.",
+      "A capacidade de análise e reflexão é notável: o candidato não apenas descreve fatos históricos, mas os interpreta à luz de conceitos teóricos e os conecta ao papel da diplomacia. A tensão entre a impossibilidade de eliminar a guerra e a necessidade de continuar buscando a paz é bem explorada.",
+      "Pequenas ressalvas: o uso repetido da expressão 'referenciada por Freud na troca de cartas' (três vezes com variações mínimas) torna-se um pouco mecânico e poderia ser diversificado. A ambiguidade em 'os povos que desumanizaram' prejudica levemente a clareza. No geral, porém, trata-se de uma redação de altíssimo nível, com linguagem adequada, argumentação sólida e reflexão sofisticada."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.5,
+    "nota_1B": 9.5,
+    "nota_1C": 18.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de vírgula antes de oração restritiva/complemento final em 'são as ferramentas de que a diplomacia dispõe, para que o direito prevaleça sobre a violência' — a vírgula antes de 'para que' é desnecessária nesse contexto, pois a oração final é parte integrante do sentido.",
+      "Em 'referenciada por Freud na troca de cartas' — o uso de 'referenciada' no sentido de 'mencionada' é questionável em registro formal culto; o mais adequado seria 'mencionada' ou 'referida'. Repete-se em mais de uma ocorrência.",
+      "Em 'os povos que desumanizaram' — ambiguidade sintática: não fica claro se os alemães desumanizaram os povos ou se os povos se desumanizaram. O mais adequado seria 'os povos que foram desumanizados' ou 'os povos aos quais desumanizaram'."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura exemplar, com introdução criativa e original (mito de Sísifo), desenvolvimento bem organizado em três eixos temáticos (relações culturais, interesses securitários e normas internacionais) e conclusão que retoma e ressignifica a metáfora inicial com Camus. Essa circularidade confere grande coesão ao texto.",
+      "O candidato demonstra excelente capacidade de articulação entre os textos motivadores e referências teóricas diversas (Edward Said, Hannah Arendt, Keohane, paradigmas realista e liberal das RI), além de exemplos históricos pertinentes (Segunda Guerra Mundial, Crise dos Mísseis, invasão do Iraque, guerra na Ucrânia).",
+      "A argumentação é bem estruturada e cada parágrafo de desenvolvimento conecta-se explicitamente a ideias de Freud presentes nos textos motivadores ('atitude cultural', 'medo das consequências de uma guerra', evolução da violência para o direito), demonstrando leitura atenta do enunciado.",
+      "A capacidade de análise e reflexão é notável: o candidato não apenas descreve fatos históricos, mas os interpreta à luz de conceitos teóricos e os conecta ao papel da diplomacia. A tensão entre o idealismo da paz perpétua e a persistência da guerra é bem explorada ao longo de todo o texto.",
+      "Pequenas ressalvas: o uso repetido da expressão 'referenciada por Freud na troca de cartas' (três vezes com variações mínimas) torna-se um pouco mecânico e poderia ser diversificado. A ambiguidade em 'os povos que desumanizaram' prejudica levemente a clareza. No geral, porém, trata-se de uma redação de altíssimo nível, com domínio da norma culta, riqueza argumentativa e originalidade estilística."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de vírgula antes de oração restritiva em 'são as ferramentas de que a diplomacia dispõe, para que o direito prevaleça sobre a violência' — a vírgula antes de 'para que' é discutível, pois a oração final é essencial ao sentido.",
+      "Pequena imprecisão no uso de 'referenciada' em lugar de 'mencionada' ou 'referida' — 'referenciar' no sentido de 'mencionar' é uso coloquial, embora crescentemente aceito.",
+      "Em 'os povos que desumanizaram', a construção pode gerar ambiguidade: não fica claro se os alemães desumanizaram esses povos ou se esses povos se desumanizaram. O mais adequado seria 'os povos que foram desumanizados' ou 'os povos aos quais desumanizaram'."
+    ],
+    "feedbacks": [
+      "Excelente estrutura textual: a redação apresenta introdução com analogia mitológica criativa (Sísifo), desenvolvimento em três eixos temáticos bem definidos (relações culturais, interesses securitários e normas internacionais) e conclusão que retoma e ressignifica a metáfora inicial com Camus.",
+      "O candidato demonstra domínio impressionante de referências teóricas e históricas: Edward Said (Orientalismo), Hannah Arendt (Banalidade do Mal), Keohane (interdependência complexa), paradigma realista, além de eventos como a Crise dos Mísseis, a Segunda Guerra Mundial, a invasão do Iraque e a guerra na Ucrânia.",
+      "A articulação com os textos motivadores é muito bem feita: cada parágrafo de desenvolvimento conecta-se explicitamente a conceitos de Freud (atitude cultural, medo das consequências, evolução da violência para o direito), demonstrando leitura atenta e capacidade de diálogo com os excertos.",
+      "A capacidade argumentativa é notável, com encadeamento lógico claro e uso de conectivos adequados. A tese central — a diplomacia como Sísifo que busca a paz sem jamais alcançá-la plenamente — é sustentada com consistência ao longo de todo o texto.",
+      "A linguagem é formal, adequada ao contexto do concurso, com vocabulário rico e preciso. Os poucos deslizes gramaticais identificados são menores e não comprometem a qualidade geral do texto.",
+      "A conclusão é particularmente forte, ao retomar Camus e transformar a metáfora de Sísifo em uma reflexão sobre o sentido da atividade diplomática, conferindo ao texto uma dimensão filosófica sofisticada."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.0,
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de vírgula antes de oração subordinada adverbial final posposta em 'são as ferramentas de que a diplomacia dispõe, para que o direito prevaleça sobre a violência' — a vírgula antes de 'para que' é desnecessária nesse contexto.",
+      "Pequena imprecisão no uso de 'referenciada' no sentido de 'mencionada/referida' — embora aceitável em registro formal, 'referida' seria mais preciso."
+    ],
+    "feedbacks": [
+      "Excelente estrutura textual: a redação apresenta introdução com analogia mitológica criativa e pertinente, desenvolvimento em três eixos temáticos bem definidos (relações culturais, interesses securitários e normas internacionais) e conclusão que retoma e ressignifica a metáfora inicial.",
+      "O candidato demonstra domínio impressionante de referências teóricas e históricas: Edward Said, Hannah Arendt, Keohane, Albert Camus, além de eventos como a Crise dos Mísseis, a Segunda Guerra Mundial, a invasão do Iraque e a guerra na Ucrânia.",
+      "A articulação com os textos motivadores é exemplar: cada parágrafo de desenvolvimento conecta-se explicitamente a ideias de Freud (atitude cultural, medo das consequências, evolução da violência para o direito), cumprindo plenamente o comando da questão.",
+      "A capacidade argumentativa é notável, com encadeamento lógico claro e uso adequado de conectivos e operadores argumentativos (conquanto, em contrapartida, apesar de).",
+      "A linguagem é adequada ao contexto do concurso diplomático, com registro formal consistente e vocabulário sofisticado sem ser rebuscado.",
+      "A conclusão com a ressignificação do mito de Sísifo via Camus é particularmente elegante e demonstra maturidade intelectual, conectando início e fim do texto de forma coesa e original."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 57.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de vírgula antes de oração restritiva em 'são as ferramentas de que a diplomacia dispõe, para que o direito prevaleça sobre a violência' — a vírgula antes de 'para que' é discutível, mas pode ser considerada desnecessária nesse contexto.",
+      "Pequena imprecisão no uso de 'referenciada' no sentido de 'mencionada' — embora aceitável, 'referida' seria mais preciso em registro formal.",
+      "Vírgula após 'para recomeçar seu labor' poderia ser considerada desnecessária em 'toda vez que desce a montanha, para recomeçar seu labor'."
+    ],
+    "feedbacks": [
+      "Excelente estrutura textual: a redação apresenta introdução com analogia mitológica criativa (Sísifo), desenvolvimento em três eixos temáticos bem definidos (relações culturais, interesses securitários e normas internacionais) e conclusão que retoma e ressignifica a metáfora inicial com Camus.",
+      "O candidato demonstra domínio impressionante de referências teóricas e históricas: Edward Said (Orientalismo), Hannah Arendt (Banalidade do Mal), Keohane (interdependência complexa), paradigma realista, além de eventos como a Crise dos Mísseis, a Segunda Guerra Mundial, a invasão do Iraque e a guerra na Ucrânia.",
+      "A articulação com os textos motivadores é exemplar: o candidato conecta cada eixo argumentativo a uma ideia específica de Freud ('atitude cultural', 'medo das consequências de uma guerra', evolução da violência para o direito), demonstrando leitura atenta e capacidade de diálogo com os excertos.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal, vocabulário preciso e construções sintáticas sofisticadas sem serem rebuscadas.",
+      "A coerência argumentativa é notável: o texto sustenta uma tese clara (a diplomacia como Sísifo que busca a paz sem jamais alcançá-la plenamente) e a desenvolve com consistência ao longo de todo o texto, inclusive dialogando criticamente com Freud ao final.",
+      "Ponto de atenção menor: a redação poderia ter explorado com mais profundidade o conceito freudiano de pulsão de destruição e sua relação com a diplomacia, em vez de apenas mencioná-lo indiretamente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de vírgula antes de oração subordinada final em 'são as ferramentas de que a diplomacia dispõe, para que o direito prevaleça sobre a violência' — a vírgula antes de 'para que' é desnecessária nesse contexto.",
+      "Possível imprecisão no uso de 'referenciada' no sentido de 'mencionada/referida' — embora aceitável em registro formal, 'referida' seria mais preciso em português culto."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura excepcional, com introdução criativa (mito de Sísifo), desenvolvimento tripartido claro e conclusão que retoma e ressignifica a metáfora inicial com Camus, demonstrando sofisticação argumentativa e coesão textual notável.",
+      "O candidato articula com maestria as ideias de Freud presentes no texto motivador — atitude cultural, medo das consequências da guerra e evolução da violência para o direito — transformando-as em eixos argumentativos bem definidos e conectados a exemplos históricos pertinentes.",
+      "Os exemplos históricos são variados, precisos e bem integrados à argumentação: Orientalismo de Said, Banalidade do Mal de Arendt/Eichmann, Crise dos Mísseis, Carta da ONU, invasão do Iraque e guerra na Ucrânia. Isso demonstra amplo repertório e capacidade de mobilização de conhecimentos.",
+      "O diálogo com teorias de Relações Internacionais (realismo, liberalismo institucional de Keohane, interdependência complexa) enriquece significativamente a análise e demonstra domínio temático avançado, adequado ao nível do CACD.",
+      "A metáfora de Sísifo como fio condutor é um recurso estilístico de alto nível: introduzida no início, mantida como pano de fundo e retomada na conclusão com a releitura de Camus, conferindo unidade, originalidade e profundidade filosófica ao texto.",
+      "O domínio da norma culta é excelente, com vocabulário rico, períodos bem construídos e uso adequado de conectivos e recursos coesivos. Os pouquíssimos deslizes identificados são menores e não comprometem a qualidade do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de vírgula antes de oração adverbial final posposta em 'são as ferramentas de que a diplomacia dispõe, para que o direito prevaleça sobre a violência' — a vírgula antes de 'para que' é desnecessária nesse contexto.",
+      "Possível imprecisão no uso de 'referenciada' no sentido de 'mencionada/referida' — embora aceitável em registro formal, 'referida' seria mais preciso em português culto."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura excepcional, com introdução criativa e original (mito de Sísifo), desenvolvimento tripartido coeso e conclusão que retoma e ressignifica a metáfora inicial com Camus, demonstrando sofisticação literária e filosófica.",
+      "O candidato articula com maestria as ideias de Freud presentes no texto motivador — atitude cultural, medo das consequências da guerra e evolução da violência para o direito — transformando-as em eixos argumentativos claros e bem desenvolvidos.",
+      "As referências históricas são abundantes, pertinentes e bem integradas à argumentação: Segunda Guerra Mundial, Holocausto, Guerra Fria, Crise dos Mísseis, invasão do Iraque, guerra na Ucrânia. Cada exemplo cumpre função argumentativa precisa.",
+      "O repertório teórico é impressionante e diversificado: Edward Said (Orientalismo), Hannah Arendt (Banalidade do Mal), Keohane (interdependência complexa), paradigma realista, paradigma liberal, além de Camus. Todos são mobilizados com propriedade e sem pedantismo.",
+      "A tese central — a diplomacia como Sísifo que busca a paz perpétua sem jamais alcançá-la plenamente — é original, coerente e sustentada ao longo de todo o texto, conferindo unidade temática e profundidade reflexiva.",
+      "O texto demonstra domínio pleno da norma culta, com vocabulário rico, períodos bem construídos, uso adequado de conectivos e transições fluidas entre parágrafos. A linguagem é madura e adequada ao contexto do CACD.",
+      "A capacidade de dialogar criticamente com Freud — concordando parcialmente mas apontando que a guerra segue presente — revela maturidade analítica e evita a armadilha de simplesmente parafrasear o texto motivador."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Excepcional",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de vírgula antes de oração subordinada final no trecho 'são as ferramentas de que a diplomacia dispõe, para que o direito prevaleça sobre a violência' — a vírgula antes de 'para que' é desnecessária nesse contexto.",
+      "No trecho 'referenciada por Freud na troca de cartas', o uso de 'referenciada' como sinônimo de 'mencionada' é questionável em registro formal, embora aceitável em uso corrente."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura excepcional, com introdução, desenvolvimento em três eixos temáticos claramente delimitados e conclusão que retoma a metáfora inicial de forma sofisticada e original.",
+      "O uso do mito de Sísifo como fio condutor é extremamente bem executado: a metáfora é introduzida na abertura, sustentada ao longo do texto e ressignificada na conclusão com a referência a Camus, demonstrando maturidade intelectual e domínio retórico.",
+      "O candidato articula com maestria as ideias de Freud presentes no texto motivador — atitude cultural, medo das consequências da guerra e evolução da violência para o direito — organizando cada parágrafo de desenvolvimento em torno de uma dessas ideias.",
+      "As referências históricas são pertinentes, variadas e bem integradas à argumentação: Segunda Guerra Mundial, Guerra Fria, Crise dos Mísseis, invasão do Iraque, invasão da Ucrânia, criação da ONU.",
+      "O repertório teórico é rico e demonstra conhecimento avançado: Edward Said (Orientalismo), Hannah Arendt (Banalidade do Mal), Keohane (interdependência complexa), paradigma realista, paradigma liberal, além de Camus.",
+      "A linguagem é precisa, fluida e adequada ao registro formal exigido pelo CACD. O vocabulário é variado e sofisticado sem ser rebuscado.",
+      "A coesão textual é exemplar, com uso eficaz de conectivos, retomadas e transições entre parágrafos que garantem fluidez argumentativa.",
+      "O texto demonstra capacidade crítica ao problematizar a crença de Freud na extinção das guerras, confrontando-a com a realidade contemporânea, sem perder o tom propositivo sobre o papel da diplomacia."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"mostrou- se\" — espaço indevido antes do pronome oblíquo (deveria ser 'mostrou-se')",
+      "\"eliminá- la\" — espaço indevido antes do pronome oblíquo (deveria ser 'eliminá-la')",
+      "\"cessar fogo\" — grafia incorreta; o correto é 'cessar-fogo' (com hífen)",
+      "\"aproximou o povo brasileiro ao povo norte-americano\" — regência inadequada do verbo 'aproximar'; o correto seria 'aproximou o povo brasileiro do povo norte-americano'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, três parágrafos de desenvolvimento bem estruturados (cada um abordando um aspecto distinto do papel da diplomacia) e uma conclusão que retoma os argumentos e responde à pergunta de Einstein. A estrutura é coerente e o estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A capacidade de argumentação é muito boa. O candidato demonstra conhecimento sólido de história diplomática e relações internacionais, mobilizando exemplos pertinentes como a Carta da ONU, operações de paz (UNEF-I, MINUSTAH), a Guerra Fria, UNCTAD, G77, MERCOSUL, IBAS e a diplomacia cultural. Os argumentos são objetivos e bem articulados com as ideias do texto-base.",
+      "A análise e reflexão são consistentes. O candidato dialoga adequadamente com as ideias de Freud (violência como estado original, identificação como ligação emocional, evolução cultural contra a guerra) e de Einstein (possibilidade de livrar a humanidade da guerra). A referência ao mito de Sísifo na conclusão demonstra maturidade reflexiva. Contudo, a análise poderia ser mais aprofundada em alguns pontos — por exemplo, a discussão sobre diplomacia cultural com exemplos como Zé Carioca e novelas brasileiras, embora criativos, carecem de maior profundidade analítica. Além disso, poderia haver maior problematização sobre os limites da diplomacia (guerras proxy durante a Guerra Fria, por exemplo) para enriquecer a reflexão.",
+      "A redação apresenta poucos erros gramaticais, demonstrando bom domínio da norma culta. Os erros identificados são relativamente menores (espaços indevidos em palavras hifenizadas e um problema de regência). A linguagem é formal, precisa e adequada ao contexto do concurso."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"mostrou- se\" — espaço indevido antes do pronome oblíquo (deveria ser 'mostrou-se')",
+      "\"eliminá- la\" — espaço indevido antes do pronome oblíquo (deveria ser 'eliminá-la')",
+      "\"cessar fogo\" — grafia incorreta; o correto é 'cessar-fogo' (com hífen)",
+      "\"aproximou o povo brasileiro ao povo norte-americano\" — regência inadequada do verbo 'aproximar'; o correto seria 'aproximou o povo brasileiro do povo norte-americano'"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento em três parágrafos temáticos bem definidos (contenção da violência, identificação entre povos e aproximação cultural) e conclusão que retoma os argumentos e responde à pergunta de Einstein. A estrutura é coerente e o estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A capacidade de argumentação é muito boa. O candidato mobiliza exemplos históricos pertinentes e variados: Carta da ONU, operações de paz (UNEF-I, MINUSTAH), Guerra Fria, UNCTAD/G77, MERCOSUL, IBAS, conflito na Ucrânia, política de boa vizinhança dos EUA e diplomacia cultural brasileira. Os argumentos são bem articulados com as ideias de Freud presentes no texto motivador.",
+      "A capacidade de análise e reflexão é boa, com diálogo consistente entre as ideias de Freud/Einstein e o papel da diplomacia. O candidato organiza sua argumentação em torno de três eixos derivados do texto motivador (contenção da agressividade, identificação/laços emocionais e evolução cultural), o que demonstra leitura atenta dos excertos. Contudo, a análise poderia ser mais aprofundada em alguns pontos: a menção ao Zé Carioca como exemplo de diplomacia cultural é interessante, mas superficial; a referência ao mito de Sísifo na conclusão é pertinente, mas poderia ser mais desenvolvida. A reflexão sobre os limites da diplomacia (reconhecimento de que o fim completo dos conflitos é utópico) demonstra maturidade analítica, embora pudesse explorar mais as tensões entre direito e poder mencionadas por Freud.",
+      "A correção gramatical é muito boa no geral, com poucos erros identificados. A linguagem é formal, precisa e adequada ao contexto do concurso diplomático. O vocabulário é rico e variado, com uso apropriado de conectivos e transições entre parágrafos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "mostrou- se: espaço indevido antes do hífen (deveria ser 'mostrou-se')",
+      "eliminá- la: espaço indevido antes do hífen (deveria ser 'eliminá-la')",
+      "cessar fogo: grafia incorreta, deveria ser 'cessar-fogo' (com hífen)",
+      "aproximou o povo brasileiro ao povo norte-americano: regência inadequada — o verbo 'aproximar' rege a preposição 'de' (aproximou o povo brasileiro do povo norte-americano)",
+      "diminui a possibilidade do recurso à violência: 'diminui' deveria ser 'diminui' (presente do indicativo está correto, mas a construção 'possibilidade do recurso' é questionável; mais adequado seria 'possibilidade de recurso')"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, três parágrafos de desenvolvimento bem estruturados (cada um abordando um aspecto distinto: contenção da agressividade, identificação/laços emocionais e aproximação cultural) e conclusão que retoma os argumentos e responde à pergunta de Einstein. A estrutura é coerente e o estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "O candidato demonstra boa capacidade de argumentação, articulando de forma pertinente os conceitos freudianos (instinto de destruição, identificação, evolução cultural) com exemplos históricos concretos e relevantes (Conferência de São Francisco, UNEF-I, MINUSTAH, Guerra Fria, UNCTAD, G77, MERCOSUL, IBAS). As informações são pertinentes e bem selecionadas, demonstrando conhecimento sólido de história diplomática e relações internacionais.",
+      "A capacidade de análise e reflexão é boa, com diálogo consistente entre os textos motivadores e os argumentos desenvolvidos. O candidato consegue conectar as ideias de Freud sobre violência, identificação e cultura com a prática diplomática. No entanto, a análise poderia ser mais aprofundada em alguns pontos: a discussão sobre os limites da diplomacia poderia ser mais desenvolvida, e a referência ao mito de Sísifo na conclusão, embora interessante, é introduzida de forma abrupta sem maior elaboração. Além disso, a reflexão sobre o papel da diplomacia cultural (Zé Carioca, novelas em Angola, escolas de futebol na Rússia) poderia ser mais analítica e menos descritiva.",
+      "A linguagem é formal e adequada ao contexto do concurso. Os erros gramaticais identificados são poucos e de menor gravidade, predominando problemas de hifenização e uma questão de regência verbal. O texto demonstra domínio da norma culta da língua portuguesa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Espaço indevido em 'mostrou- se' (deveria ser 'mostrou-se')",
+      "Espaço indevido em 'eliminá- la' (deveria ser 'eliminá-la')",
+      "Regência inadequada em 'aproximou o povo brasileiro ao povo norte-americano' (o correto seria 'aproximou o povo brasileiro do povo norte-americano')"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, três parágrafos de desenvolvimento bem estruturados e uma conclusão coesa que retoma os argumentos principais.",
+      "O candidato demonstra sólida capacidade de articulação entre os textos motivadores e exemplos históricos concretos, como a UNEF-I na crise de Suez, a MINUSTAH no Haiti, a Guerra Fria, o G77, o MERCOSUL, o IBAS e a política cultural dos EUA na Segunda Guerra Mundial.",
+      "A estrutura argumentativa é muito bem construída: cada parágrafo de desenvolvimento corresponde a uma ideia extraída do texto de Freud (conter tendências agressivas, produzir laços emocionais por identificação, promover evolução cultural), demonstrando leitura atenta e capacidade analítica.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal consistente.",
+      "A conclusão é eficaz ao retomar a pergunta de Einstein e dialogar com a posição de Freud, oferecendo uma resposta equilibrada e enriquecida pela referência ao mito de Sísifo.",
+      "Pequena ressalva: alguns exemplos no terceiro parágrafo (Zé Carioca, novelas em Angola, escolas de futebol na Rússia) poderiam ter sido desenvolvidos com maior profundidade analítica, embora sejam pertinentes ao argumento.",
+      "Os poucos erros gramaticais identificados são de natureza menor e não comprometem a qualidade geral do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Espaço indevido em 'mostrou- se' (deveria ser 'mostrou-se')",
+      "Espaço indevido em 'eliminá- la' (deveria ser 'eliminá-la')",
+      "Regência inadequada em 'aproximou o povo brasileiro ao povo norte-americano' (o correto seria 'aproximou o povo brasileiro do povo norte-americano')"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, três parágrafos de desenvolvimento bem estruturados e uma conclusão coerente que retoma os argumentos principais.",
+      "O candidato demonstra sólido conhecimento histórico e diplomático, fazendo referências pertinentes a múltiplos momentos e instituições: Carta da ONU, UNEF-I, MINUSTAH, Guerra Fria, UNCTAD, G77, MERCOSUL, IBAS, entre outros.",
+      "Há excelente articulação com os textos motivadores: o candidato dialoga diretamente com as ideias de Freud (instinto de destruição, laços emocionais, identificação, evolução cultural) e com a pergunta de Einstein, construindo uma resposta argumentativa consistente.",
+      "A estrutura argumentativa é clara e bem encadeada: cada parágrafo de desenvolvimento aborda um aspecto distinto (contenção da violência, identificação/laços emocionais, aproximação cultural), todos conectados às ideias dos textos de apoio.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal. Os poucos erros identificados são de natureza menor e não comprometem a compreensão.",
+      "A conclusão com a referência ao mito de Sísifo é elegante e demonstra capacidade reflexiva, equilibrando otimismo com realismo ao reconhecer que o esforço diplomático é contínuo e interminável.",
+      "Ponto de atenção: alguns exemplos, como o de Zé Carioca e das novelas em Angola, embora criativos, poderiam ter sido desenvolvidos com maior profundidade analítica para fortalecer ainda mais a argumentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Espaço indevido em 'mostrou- se' (deveria ser 'mostrou-se')",
+      "Espaço indevido em 'eliminá- la' (deveria ser 'eliminá-la')",
+      "Regência inadequada em 'aproximou o povo brasileiro ao povo norte-americano' (o correto seria 'aproximou o povo brasileiro do povo norte-americano')"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento em três parágrafos bem estruturados e conclusão coerente que retoma os argumentos.",
+      "O candidato demonstra sólida capacidade argumentativa, articulando de forma consistente as ideias de Freud e Einstein com o papel da diplomacia, utilizando referências históricas pertinentes e variadas (UNEF-I, MINUSTAH, Guerra Fria, UNCTAD, G77, MERCOSUL, IBAS, conflito na Ucrânia).",
+      "O texto faz referências adequadas e diversificadas a momentos históricos, demonstrando conhecimento amplo e pertinente ao tema proposto.",
+      "A linguagem é formal, adequada ao contexto do concurso, com vocabulário preciso e variado.",
+      "O encadeamento das ideias é fluido, com uso adequado de conectivos e transições entre parágrafos.",
+      "A estrutura tripartite do desenvolvimento (conter tendências agressivas, produzir laços emocionais/identificação, promover aproximação cultural) é bem concebida e dialoga diretamente com os textos motivadores.",
+      "A conclusão com a referência ao mito de Sísifo é elegante e demonstra maturidade intelectual, equilibrando otimismo e realismo.",
+      "Pequenos deslizes formais (espaços indevidos na hifenização) e uma questão de regência foram identificados, mas não comprometem significativamente a qualidade do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Espaço indevido antes do hífen em 'mostrou- se' (deveria ser 'mostrou-se')",
+      "Espaço indevido antes do hífen em 'eliminá- la' (deveria ser 'eliminá-la')",
+      "Regência inadequada em 'aproximou o povo brasileiro ao povo norte-americano' (o correto seria 'aproximou o povo brasileiro do povo norte-americano')"
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura muito bem organizada, com introdução clara, três parágrafos de desenvolvimento temático e conclusão coesa. Cada parágrafo aborda um aspecto distinto (contenção da agressividade, identificação entre povos, aproximação cultural), o que demonstra planejamento textual.",
+      "O candidato faz bom uso dos textos motivadores, articulando conceitos de Freud (violência como estado original, identificação, evolução cultural) com exemplos históricos concretos, o que evidencia domínio do tema e capacidade de diálogo com as fontes.",
+      "Os exemplos históricos são variados e pertinentes: Carta da ONU, UNEF-I, MINUSTAH, Guerra Fria, UNCTAD/G77, MERCOSUL, IBAS, conflito na Ucrânia, política de boa vizinhança dos EUA. Isso demonstra repertório sólido de conhecimentos em relações internacionais.",
+      "A argumentação, embora bem estruturada e coerente, tende a ser algo previsível e linear, sem aprofundamento crítico mais sofisticado. Por exemplo, poderia ter explorado mais as tensões e limitações da diplomacia (como os fracassos da Liga das Nações, diretamente ligados ao contexto de 1932 das cartas), em vez de apresentar uma visão predominantemente otimista.",
+      "A conclusão com a referência ao mito de Sísifo é um toque interessante que eleva o texto, mas poderia ter sido mais desenvolvida. A menção a Zelensky e à Zé Carioca, embora criativas, poderiam ter sido melhor contextualizadas para ganhar maior força argumentativa.",
+      "O domínio da norma culta é consistente, com vocabulário adequado ao registro formal exigido pelo CACD. Os poucos deslizes identificados não comprometem a qualidade geral do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Espaço indevido antes do hífen em 'mostrou- se' (deve ser 'mostrou-se')",
+      "Espaço indevido antes do hífen em 'eliminá- la' (deve ser 'eliminá-la')",
+      "Regência inadequada em 'aproximou o povo brasileiro ao povo norte-americano' (o correto seria 'aproximou o povo brasileiro do povo norte-americano')"
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura muito bem organizada, com introdução clara, três parágrafos de desenvolvimento temático e conclusão coesa. Cada parágrafo desenvolve um aspecto distinto (contenção da agressividade, identificação/laços emocionais, aproximação cultural), o que demonstra planejamento textual.",
+      "O candidato articula de forma competente as ideias de Freud com exemplos históricos concretos e pertinentes: Conferência de São Francisco, UNEF-I na crise de Suez, MINUSTAH, Guerra Fria, UNCTAD/G77, MERCOSUL, IBAS, entre outros. Isso demonstra bom domínio de conteúdo e capacidade de mobilizar conhecimentos de política internacional.",
+      "A referência ao mito de Sísifo na conclusão é um toque interessante que eleva o nível reflexivo do texto, embora pudesse ser mais desenvolvida.",
+      "Embora a argumentação seja sólida e bem estruturada, ela tende a ser algo previsível e linear. A redação poderia ganhar em sofisticação se problematizasse mais as limitações da diplomacia — por exemplo, discutindo casos em que a diplomacia falhou (como a própria Liga das Nações no contexto da carta de 1932) ou tensionando mais a relação entre direito e poder mencionada por Freud.",
+      "Alguns exemplos, como o de Zé Carioca e das novelas brasileiras em Angola, embora criativos, carecem de maior aprofundamento analítico para sustentar o argumento de forma mais robusta.",
+      "A falta de espaço antes do ponto final no terceiro parágrafo ('armados.A diplomacia') é um descuido de formatação que prejudica levemente a apresentação.",
+      "O domínio da norma culta é consistente, com vocabulário adequado ao registro formal exigido pelo CACD, salvo os poucos deslizes apontados."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Espaço indevido antes do hífen em 'mostrou- se' (deveria ser 'mostrou-se')",
+      "Espaço indevido antes do hífen em 'eliminá- la' (deveria ser 'eliminá-la')",
+      "Regência inadequada em 'aproximou o povo brasileiro ao povo norte-americano' (o correto seria 'aproximou o povo brasileiro do povo norte-americano')"
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura muito bem organizada, com introdução clara, três parágrafos de desenvolvimento temático e conclusão coesa. Cada parágrafo aborda um aspecto distinto (contenção da agressividade, identificação entre povos, aproximação cultural), o que demonstra planejamento textual.",
+      "O candidato faz bom uso dos textos motivadores, articulando conceitos de Freud (instinto de destruição, identificação, evolução cultural) com exemplos históricos concretos, o que evidencia domínio do tema e capacidade de diálogo com as fontes.",
+      "Os exemplos históricos são variados e pertinentes: Carta da ONU, operações de paz (UNEF-I, MINUSTAH), Guerra Fria, UNCTAD/G77, MERCOSUL, IBAS, conflito na Ucrânia, política de boa vizinhança dos EUA. Isso demonstra repertório sólido.",
+      "A argumentação, embora bem construída, tende a ser um pouco linear e previsível, sem aprofundamento crítico mais sofisticado. Por exemplo, poderia ter explorado mais as limitações da diplomacia ou tensionado com mais profundidade a visão freudiana, em vez de apenas contrapô-la de forma otimista.",
+      "A referência ao mito de Sísifo na conclusão é um toque interessante que eleva o texto, mas poderia ter sido mais desenvolvida para agregar maior profundidade reflexiva.",
+      "O domínio da norma culta é consistente, com vocabulário adequado ao registro formal exigido pelo CACD. Os poucos deslizes identificados são menores e não comprometem a qualidade geral do texto.",
+      "Para alcançar a faixa Excelente, o texto se beneficiaria de maior sofisticação analítica — por exemplo, problematizando os limites da diplomacia diante de potências revisionistas ou discutindo a tensão entre soberania e ordem internacional de forma mais nuançada."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 6.5,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"esqueceu- se\" — hífen separado por espaço indevido (erro tipográfico/ortográfico).",
+      "\"Apesar da diplomacia brasileira não mais orientar-se\" — regência: o correto seria 'Apesar de a diplomacia brasileira não mais se orientar' (preposição 'de' não contrai com artigo antes de sujeito de oração infinitiva).",
+      "\"na qual o Brasil salientou o laço fraternal entre os povos árabes e muçulmanos\" — 'na qual' refere-se a 'ocasião', mas a construção é aceitável; porém 'árabes e muçulmanos' são categorias distintas (étnica e religiosa) tratadas como se fossem equivalentes — imprecisão semântica.",
+      "\"vista a diplomacia praticada no Mercosul\" — o correto seria 'visto' (particípio invariável em construção causal/concessiva) ou 'haja vista'; concordância inadequada.",
+      "\"Isso acontece, pois há países\" — vírgula inadequada antes de 'pois' com valor causal nesta posição (a vírgula antes de 'pois' causal é aceitável, mas a construção 'Isso acontece, pois' é questionável; melhor: 'Isso acontece porque').",
+      "\"coibindo a valorização do amor e do pacifismo\" — uso impreciso de 'coibir' (coibir significa reprimir/impedir; o sentido pretendido parece ser 'impedindo', mas a regência e o contexto tornam a frase pouco clara).",
+      "\"os assuntos externos do país poderão ser conduzidos\" — uso de 'poderão' (futuro) quando o contexto sugere possibilidade presente; menor erro de precisão verbal."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização formal, com introdução, desenvolvimento em dois eixos (amor e identidade pacifista) e conclusão. A estrutura é clara e o estilo é fluido, o que favorece a leitura.",
+      "A tese central — de que a diplomacia evita guerras promovendo amor e identidade pacifista — é interessante, mas a argumentação apresenta fragilidades. A afirmação de que 'Freud esqueceu-se de mencionar o papel da diplomacia' é reducionista, pois Freud trata de fatores psicológicos e culturais mais amplos, e a diplomacia pode ser vista como uma manifestação desses fatores, não como algo separado.",
+      "Os exemplos históricos são pertinentes (mediação de Letícia, Conferência de Anápolis, Mercosul, ONU), mas alguns carecem de precisão. O diplomata mencionado como 'Afrânio Franco' parece ser Afrânio de Melo Franco — a imprecisão no nome é relevante. A Conferência de Anápolis (Annapolis) foi uma iniciativa dos EUA, e o papel do Brasil nela é superestimado no texto.",
+      "A capacidade de análise e reflexão é mediana. O candidato estabelece conexões entre os textos motivadores e a diplomacia, mas a análise permanece superficial. A ideia de que 'a guerra ainda ocorre em função da ausência da diplomacia, e não em razão da falha dela' é uma simplificação excessiva que ignora casos em que a diplomacia existiu e falhou (como as negociações pré-Segunda Guerra Mundial, a política de apaziguamento de Chamberlain, etc.).",
+      "O argumento sobre Macron e a dissolução da escola de diplomatas (ENA) é factualmente impreciso e a conclusão de que isso 'expõe a França à violência' é um salto lógico considerável. A ENA não era exclusivamente voltada à formação de diplomatas.",
+      "A redação poderia ter explorado mais profundamente as ideias de Freud sobre a transição da violência para o direito, o papel das instituições internacionais como mecanismos de sublimação da agressividade, e a tensão entre soberania e cooperação internacional.",
+      "Gramaticalmente, o texto é razoavelmente correto, com alguns erros de regência e concordância que comprometem parcialmente a nota de correção gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 6.5,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"esqueceu- se\" — hífen separado por espaço indevido (erro tipográfico/ortográfico).",
+      "\"Apesar da diplomacia brasileira não mais orientar-se\" — regência: o correto seria 'Apesar de a diplomacia brasileira não mais se orientar' (preposição 'de' não contrai com artigo antes de sujeito de oração infinitiva).",
+      "\"na qual o Brasil salientou o laço fraternal entre os povos árabes e muçulmanos\" — imprecisão: árabes e muçulmanos não são categorias equivalentes/paralelas; além disso, a Conferência de Annapolis visava aproximar israelenses e palestinos, não salientar laço entre árabes e muçulmanos.",
+      "\"vista a diplomacia praticada no Mercosul\" — o correto seria 'visto' (particípio invariável em construção absoluta causal) ou 'vista' concordando com 'diplomacia', mas a construção é ambígua e inadequada; melhor seria 'haja vista'.",
+      "\"Isso acontece, pois há países\" — vírgula indevida antes de 'pois' com valor causal quando introduz oração explicativa diretamente ligada à anterior (uso discutível, mas a vírgula antes de 'pois' causal coordenativo é aceitável; porém aqui a pausa quebra a fluidez).",
+      "\"Conferência de Anápolis\" — o correto é 'Conferência de Annapolis' (cidade nos EUA), não 'Anápolis' (cidade em Goiás).",
+      "\"Afrânio Franco\" — o nome correto do diplomata é Afrânio de Melo Franco, não 'Afrânio Franco'."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização formal, com introdução, desenvolvimento em parágrafos temáticos e conclusão. A estrutura é clara e o estilo é fluido, o que facilita a leitura.",
+      "A tese central — de que a diplomacia promove a paz por meio do amor e da identidade pacifista — é interessante e dialoga com os textos de Freud. Contudo, a argumentação simplifica excessivamente conceitos complexos. A afirmação de que 'Freud esqueceu-se de mencionar o papel da diplomacia' é reducionista e imprecisa, pois Freud trata de mecanismos psíquicos e culturais mais amplos que englobam a ação diplomática.",
+      "Há imprecisões factuais relevantes: a Conferência de Annapolis (EUA) é grafada como 'Anápolis'; o diplomata Afrânio de Melo Franco é referido como 'Afrânio Franco'; a descrição do objetivo da Conferência de Annapolis (laço fraternal entre árabes e muçulmanos) é imprecisa — tratava-se de negociações entre israelenses e palestinos. Essas imprecisões comprometem a credibilidade argumentativa.",
+      "A análise sobre a dissolução da ENA por Macron como evidência de desprezo pela diplomacia é um argumento frágil e pouco pertinente: a reforma administrativa francesa não implicou abandono da diplomacia, e o argumento de que a guerra ocorre por 'ausência de diplomacia' é uma simplificação excessiva.",
+      "A capacidade de análise e reflexão é mediana. O candidato consegue articular os conceitos freudianos (amor e identificação) com a prática diplomática, mas o faz de maneira superficial, sem aprofundar as tensões e limitações dessa transposição. A conclusão de que 'a guerra ocorre pela ausência da diplomacia, não pela falha dela' é uma tautologia que enfraquece o argumento.",
+      "As referências históricas, embora variadas (Letícia, Annapolis, ONU, Mercosul), carecem de precisão e profundidade. O candidato poderia ter explorado momentos históricos mais emblemáticos (Congresso de Viena, diplomacia da Guerra Fria, acordos de Camp David) com maior rigor.",
+      "Em termos gramaticais, há erros pontuais de regência, grafia de nomes próprios e construções sintáticas inadequadas, mas o texto é globalmente correto do ponto de vista linguístico."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 6.5,
+    "nota_1C": 12.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"esqueceu- se\" — hífen separado por espaço indevido (erro tipográfico/ortográfico).",
+      "\"Apesar da diplomacia brasileira não mais orientar-se\" — regência: o correto seria 'Apesar de a diplomacia brasileira não mais se orientar' (preposição 'de' não contrai com artigo antes de sujeito de oração infinitiva).",
+      "\"na qual o Brasil salientou o laço fraternal entre os povos árabes e muçulmanos\" — imprecisão: árabes e muçulmanos não são categorias equivalentes/paralelas; além disso, a Conferência de Annapolis visava aproximar israelenses e palestinos, não salientar laço entre árabes e muçulmanos.",
+      "\"vista a diplomacia praticada no Mercosul\" — o correto seria 'visto' (particípio invariável em construção absoluta causal) ou 'vista' concordando com 'diplomacia', mas a construção é ambígua e inadequada; melhor seria 'haja vista'.",
+      "\"Isso acontece, pois há países\" — vírgula indevida antes de 'pois' com valor causal quando introduz oração explicativa ligada diretamente ao verbo (uso discutível, mas a vírgula antes de 'pois' causal coordenativo é aceitável; porém aqui a pausa quebra a fluidez).",
+      "\"Conferência de Anápolis\" — erro factual tratado como impropriedade vocabular: o nome correto é 'Conferência de Annapolis' (cidade nos EUA), não 'Anápolis' (cidade em Goiás).",
+      "\"os quais amenizariam as tendências agressivas do homem\" — uso impreciso de 'amenizar' no lugar de 'atenuar' ou 'mitigar' (impropriedade lexical menor)."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização formal, com introdução, desenvolvimento em dois eixos (amor e identidade pacifista) e conclusão. A estrutura é clara e o estilo é fluido, embora por vezes repetitivo.",
+      "A argumentação é razoavelmente bem construída, mas apresenta fragilidades importantes. A afirmação de que 'Freud esqueceu-se de mencionar o papel da diplomacia' é reducionista — Freud aborda a passagem da violência ao direito, o que inclui implicitamente a diplomacia. Essa leitura superficial do texto-base compromete a qualidade argumentativa.",
+      "Há erros factuais relevantes: a 'Conferência de Anápolis' é na verdade a Conferência de Annapolis (2007), nos EUA, e seu objetivo era promover negociações entre israelenses e palestinos, não 'salientar o laço fraternal entre povos árabes e muçulmanos'. A mediação brasileira no caso de Letícia é mencionada de forma simplificada, e a atribuição a 'Afrânio Franco' parece confundir Afrânio de Melo Franco. A referência a Macron e a dissolução da ENA/escola diplomática francesa é imprecisa e forçada como argumento.",
+      "A capacidade de análise e reflexão é mediana. O candidato tenta articular conceitos freudianos (amor e identificação) com a prática diplomática, o que é pertinente, mas a análise permanece superficial. A tese de que 'a guerra ocorre pela ausência da diplomacia, não pela falha dela' é uma simplificação excessiva que não resiste a contraexemplos históricos evidentes (guerras que eclodiram apesar de intensa atividade diplomática).",
+      "A redação poderia ter explorado com mais profundidade momentos históricos relevantes, como o Congresso de Viena, o Concerto Europeu, a própria Liga das Nações (mencionada apenas de passagem), ou a diplomacia da Guerra Fria, que seriam mais ricos para discutir o papel da diplomacia na prevenção de conflitos.",
+      "A linguagem é geralmente correta, mas há erros de regência, impropriedades e imprecisões factuais que comprometem a credibilidade do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 50.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Espaço indevido em 'esqueceu- se' (deveria ser 'esqueceu-se')",
+      "'Apesar da diplomacia brasileira não mais orientar-se' — regência incorreta: o correto seria 'Apesar de a diplomacia brasileira não mais se orientar' (preposição 'de' não contrai com artigo antes de sujeito de oração infinitiva)",
+      "'na qual' em 'período no qual Getúlio Vargas esteve' — preferível 'em que' ou 'durante o qual', embora aceitável; porém 'ocasião na qual' é repetição do mesmo padrão, gerando redundância estilística",
+      "'vista a diplomacia praticada no Mercosul' — forma inadequada; o correto seria 'visto que' ou 'haja vista a diplomacia'",
+      "'Isso acontece, pois há países' — vírgula inadequada antes de 'pois' causal quando este inicia a oração explicativa logo após o verbo; a construção é aceitável, mas a vírgula gera ambiguidade entre explicação e causa"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara, desenvolvimento em dois eixos argumentativos (amor e identidade pacifista) e conclusão coerente. A estrutura é bem delineada e facilita a leitura.",
+      "O candidato faz referências históricas pertinentes (Letícia, Conferência de Anápolis, Mercosul, Protocolos de Brasília e Olivos), demonstrando conhecimento relevante para o CACD. Contudo, há imprecisões: Afrânio de Melo Franco (e não 'Afrânio Franco') mediou a questão de Letícia; a Conferência de Annapolis (com dois 'n') foi realizada nos EUA, não sendo iniciativa exclusivamente brasileira.",
+      "A tese de que Freud 'esqueceu-se de mencionar o papel da diplomacia' é uma simplificação excessiva do texto-base, já que Freud menciona fatores culturais e institucionais que se aproximam da atividade diplomática. Uma leitura mais sofisticada do excerto enriqueceria a argumentação.",
+      "O argumento sobre Macron e a dissolução da escola de diplomatas francesa é interessante, mas a conclusão de que isso 'expõe a nação à violência' é um salto argumentativo que carece de fundamentação mais sólida.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário apropriado e registro formal. A argumentação é clara, embora por vezes simplificadora. O texto poderia aprofundar mais a reflexão teórica a partir dos conceitos freudianos apresentados no enunciado.",
+      "A afirmação de que 'a guerra ainda ocorre em função da ausência da diplomacia, e não em razão da falha dela' é uma generalização problemática que desconsidera casos em que a diplomacia foi exercida e ainda assim não impediu conflitos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 50.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"esqueceu- se\" — hífen separado por espaço indevido (deveria ser \"esqueceu-se\")",
+      "\"Apesar da diplomacia brasileira não mais orientar-se\" — regência: o correto seria \"Apesar de a diplomacia brasileira não mais se orientar\" (preposição 'de' + artigo não se contraem antes de sujeito de oração infinitiva)",
+      "\"na qual o Brasil salientou o laço fraternal entre os povos árabes e muçulmanos\" — imprecisão: árabes e muçulmanos não são categorias equivalentes/paralelas; além disso, a Conferência de Annapolis visava aproximar israelenses e palestinos, não apenas povos árabes entre si",
+      "\"vista a diplomacia praticada no Mercosul\" — deveria ser \"visto\" ou \"haja vista\" (concordância/expressão inadequada)",
+      "\"Isso acontece, pois há países\" — vírgula inadequada antes de 'pois' com valor causal nessa construção (uso discutível, mas aceitável em alguns contextos; porém a pausa prejudica a fluidez)"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento em dois eixos (amor e identidade pacifista) e conclusão bem articulados. A estrutura é clara e o encadeamento lógico é consistente.",
+      "O candidato faz referências históricas pertinentes (Letícia, Conferência de Annapolis, Mercosul, ONU), demonstrando conhecimento de relações internacionais, embora algumas referências contenham imprecisões factuais — por exemplo, a Conferência de Annapolis (2007) buscava a paz entre Israel e Palestina, e não apenas salientar laços entre povos árabes e muçulmanos. Além disso, o papel de Afrânio de Melo Franco na questão de Letícia poderia ser mais preciso.",
+      "A tese de que Freud 'esqueceu-se de mencionar o papel da diplomacia' é uma simplificação excessiva, já que Freud discute justamente mecanismos institucionais e culturais que se relacionam com a atividade diplomática. Uma leitura mais sofisticada dos textos motivadores enriqueceria a argumentação.",
+      "O parágrafo sobre Macron e a dissolução da escola de diplomatas francesa é interessante, mas a conclusão de que 'a guerra ainda ocorre em função da ausência da diplomacia, e não em razão da falha dela' é uma generalização frágil e pouco sustentada.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário apropriado e registro formal. Há poucos erros gramaticais, mas algumas imprecisões factuais e argumentativas comprometem parcialmente a qualidade do texto.",
+      "O texto poderia explorar com maior profundidade as ideias de Freud sobre violência e direito, bem como o conceito de evolução cultural mencionado no excerto, conectando-os de forma mais orgânica ao papel da diplomacia."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 50.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"esqueceu- se\" — hífen separado por espaço indevido (deveria ser 'esqueceu-se')",
+      "\"Apesar da diplomacia brasileira não mais orientar-se\" — regência: o correto seria 'Apesar de a diplomacia brasileira não mais se orientar' (preposição 'de' + artigo não se contraem antes de sujeito de oração infinitiva)",
+      "\"na qual o Brasil salientou o laço fraternal entre os povos árabes e muçulmanos\" — imprecisão: árabes e muçulmanos não são categorias equivalentes/paralelas; além disso, a Conferência de Annapolis visava aproximar israelenses e palestinos, não apenas povos árabes e muçulmanos entre si",
+      "\"vista a diplomacia praticada no Mercosul\" — deveria ser 'visto' (particípio invariável em construção absoluta) ou 'vista' concordando com 'diplomacia', mas a construção é ambígua e pouco usual; mais adequado seria 'haja vista'",
+      "\"Isso acontece, pois há países\" — vírgula inadequada antes de 'pois' com valor causal nesta posição (a vírgula antes de 'pois' causal é aceitável, mas a construção ficou truncada)"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara, desenvolvimento em dois eixos (amor e identidade pacifista) e conclusão coerente. A estrutura é bem definida e o encadeamento das ideias é lógico.",
+      "O candidato faz referências históricas pertinentes (Letícia, Mercosul, ONU), embora algumas sejam imprecisas. A menção à Conferência de Annapolis contém erros factuais: o objetivo era mediar o conflito israelense-palestino, não simplesmente salientar laços fraternais entre povos árabes e muçulmanos.",
+      "A afirmação de que 'Freud esqueceu-se de mencionar o papel da diplomacia' é uma simplificação excessiva e um tanto presunçosa em relação ao texto-base. Freud menciona fatores culturais e institucionais que se relacionam com a diplomacia.",
+      "A tese de que 'a guerra ainda ocorre em função da ausência da diplomacia, e não em razão da falha dela' é interessante, mas a argumentação no parágrafo sobre Macron é frágil e factualmente questionável — a dissolução da ENA não eliminou a diplomacia francesa.",
+      "O texto demonstra boa capacidade argumentativa e domínio razoável da língua portuguesa, com poucos erros gramaticais. A linguagem é adequada ao contexto do concurso. Contudo, a reflexão poderia ser mais profunda e as referências históricas mais precisas e diversificadas.",
+      "A referência ao positivismo como influência na diplomacia de Vargas é uma simplificação historiográfica. Embora o lema 'Ordem e Progresso' tenha raízes positivistas, a política externa de Vargas era pragmática e não se reduzia ao positivismo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'esqueceu- se' — hífen separado por espaço indevido: deveria ser 'esqueceu-se'.",
+      "'Apesar da diplomacia brasileira não mais orientar-se pelo Positivismo' — regência inadequada: 'apesar de a diplomacia' (não se contrai preposição com artigo antes de sujeito de oração infinitiva).",
+      "'na qual o Brasil salientou o laço fraternal entre os povos árabes e muçulmanos' — uso impreciso: árabes e muçulmanos não são categorias equivalentes/paralelas; além disso, o objetivo da Conferência de Annapolis era aproximar israelenses e palestinos, não 'povos árabes e muçulmanos' entre si.",
+      "'Isso acontece, pois há países' — vírgula indevida antes de 'pois' com valor causal (quando 'pois' é causal e vem após a oração principal, não se usa vírgula antes dele nesse contexto, embora haja variação; aqui a construção gera ambiguidade).",
+      "'vista a diplomacia praticada no Mercosul' — deveria ser 'visto' (particípio invariável em construção concessiva/causal) ou 'vista a diplomacia' pode ser aceito com concordância, mas a construção é inadequada no contexto: o sentido pede 'haja vista' ou 'como se verifica na diplomacia'.",
+      "'Conferência de Anápolis' — erro factual/ortográfico: trata-se da Conferência de Annapolis (cidade nos EUA), não Anápolis (cidade em Goiás)."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara e bem organizada, com introdução, desenvolvimento em dois eixos (amor e identidade pacifista) e conclusão. O encadeamento lógico dos parágrafos é coerente e demonstra planejamento textual.",
+      "A tese central — de que a diplomacia evita guerras ao promover amor e identidade pacifista — dialoga com o texto-base de Freud, o que é positivo. Contudo, a leitura do excerto é parcialmente equivocada: afirmar que 'Freud esqueceu-se de mencionar o papel da diplomacia' é uma simplificação, já que Freud fala de evolução cultural e laços emocionais, conceitos que englobam a atividade diplomática.",
+      "Há imprecisões históricas relevantes: a Conferência de Annapolis (2007) visava a negociação entre Israel e Palestina, não a promoção de 'laço fraternal entre povos árabes e muçulmanos'. A mediação de Letícia envolveu Afrânio de Melo Franco, e o contexto positivista é uma simplificação excessiva da política externa varguista. Essas imprecisões comprometem a credibilidade argumentativa.",
+      "O argumento do último parágrafo de desenvolvimento — de que a dissolução da ENA por Macron expõe a França à violência — é frágil e forçado. A reforma administrativa francesa não tem relação direta com propensão à guerra, e o raciocínio de que 'a guerra ocorre pela ausência de diplomacia, não pela falha dela' é uma tautologia que enfraquece a argumentação.",
+      "A linguagem é adequada ao gênero dissertativo e ao contexto do CACD, com vocabulário pertinente. Porém, a argumentação é por vezes circular e previsível, sem aprofundamento teórico ou análise mais sofisticada das ideias de Freud e Einstein.",
+      "Para elevar a qualidade, recomenda-se: maior precisão nos exemplos históricos, leitura mais cuidadosa do texto-base (explorando conceitos como 'evolução cultural', 'instinto de destruição' e 'medo das consequências'), e argumentação menos esquemática e mais analítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'esqueceu- se' — hífen separado por espaço indevido: deveria ser 'esqueceu-se'.",
+      "'Apesar da diplomacia brasileira não mais orientar-se pelo Positivismo' — regência incorreta: 'apesar de' exige 'apesar de a diplomacia' (não contração 'da' antes de sujeito de infinitivo).",
+      "'na qual o Brasil salientou o laço fraternal entre os povos árabes e muçulmanos' — uso impreciso: 'árabes e muçulmanos' não são categorias equivalentes (árabes é étnico, muçulmanos é religioso); além disso, a Conferência de Annapolis visava aproximar israelenses e palestinos, não 'povos árabes e muçulmanos' entre si.",
+      "'vista a diplomacia praticada no Mercosul' — deveria ser 'visto' (particípio invariável em construção absoluta) ou 'vista' concordando com 'diplomacia', mas a construção é ambígua e pouco natural; mais adequado seria 'haja vista'.",
+      "'Isso acontece, pois há países' — vírgula inadequada antes de 'pois' com valor causal quando a oração anterior é curta e diretamente ligada; menor deslize, mas a pontuação gera quebra desnecessária.",
+      "'Conferência de Anápolis' — o nome correto é 'Conferência de Annapolis' (cidade nos EUA), não 'Anápolis' (cidade em Goiás)."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara e bem organizada, com introdução, desenvolvimento em dois eixos (amor e identidade pacifista) e conclusão. O encadeamento lógico é perceptível e o candidato demonstra esforço em dialogar com o texto-base de Freud.",
+      "Há imprecisões históricas relevantes: a mediação da questão de Letícia foi conduzida principalmente pela Liga das Nações, e o papel de Afrânio de Melo Franco, embora importante, é apresentado de forma simplificada. A 'Conferência de Anápolis' é na verdade 'Annapolis' (EUA, 2007), e seu objetivo era promover negociações entre israelenses e palestinos, não salientar 'laços fraternais entre povos árabes e muçulmanos'. Essas imprecisões comprometem a credibilidade argumentativa.",
+      "A tese de que Freud 'esqueceu-se de mencionar o papel da diplomacia' é uma leitura um tanto reducionista do texto-base. Freud menciona o direito e a evolução cultural como fatores contra a guerra, o que pode ser lido como abrangendo a diplomacia. Uma leitura mais sofisticada reconheceria essa conexão em vez de opor diplomacia a Freud.",
+      "O argumento sobre Macron e a dissolução da ENA (ou da formação diplomática) é interessante, mas a conclusão de que 'a guerra ainda ocorre em função da ausência da diplomacia, e não em razão da falha dela' é uma generalização excessiva e logicamente frágil — há guerras que ocorrem apesar de intensa atividade diplomática.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário pertinente, embora a argumentação seja por vezes circular e previsível. O texto se beneficiaria de maior profundidade analítica e de referências históricas mais precisas e diversificadas.",
+      "A articulação com o texto motivador poderia ser mais rica: os conceitos freudianos de pulsão de morte, identificação e laços emocionais poderiam ter sido explorados com maior sofisticação teórica, em vez de serem reduzidos a 'amor' e 'identidade'."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'esqueceu- se' — hífen separado por espaço indevido: deveria ser 'esqueceu-se'.",
+      "'Apesar da diplomacia brasileira não mais orientar-se pelo Positivismo' — regência inadequada: 'apesar de a diplomacia' (não se contrai preposição com artigo antes de sujeito de oração infinitiva).",
+      "'na qual o Brasil salientou o laço fraternal entre os povos árabes e muçulmanos' — uso impreciso: 'árabes e muçulmanos' não são categorias equivalentes (uma é étnica, outra religiosa), e o contexto de Annapolis envolvia israelenses e palestinos, não fraternidade entre árabes e muçulmanos.",
+      "'vista a diplomacia praticada no Mercosul' — deveria ser 'visto' ou 'haja vista'; concordância/forma inadequada.",
+      "'Isso acontece, pois há países' — vírgula inadequada antes de 'pois' com valor causal nessa posição (uso discutível, mas a construção fragiliza a fluidez).",
+      "'Conferência de Anápolis' — o nome correto é 'Conferência de Annapolis' (cidade nos EUA), não 'Anápolis' (cidade em Goiás)."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara, com introdução, desenvolvimento em dois eixos (amor e identidade pacifista) e conclusão. O encadeamento lógico é razoável e o candidato demonstra esforço em articular os conceitos freudianos com a prática diplomática.",
+      "A afirmação de que 'Freud esqueceu-se de mencionar o papel da diplomacia' é reducionista e um tanto presunçosa diante do texto-base. Freud menciona 'evolução cultural' e 'laços emocionais', que podem ser lidos como abrangendo a diplomacia. Uma leitura mais sofisticada integraria Freud em vez de corrigi-lo.",
+      "Há imprecisões históricas relevantes: a 'Conferência de Anápolis' é na verdade a Conferência de Annapolis (2007), e a descrição do papel do Brasil nela é imprecisa. A mediação de Letícia por Afrânio de Melo Franco é pertinente, mas a atribuição ao Positivismo como motor da diplomacia varguista é simplificadora.",
+      "A tese de que 'a guerra ocorre pela ausência da diplomacia, não pela falha dela' é interessante, mas o exemplo de Macron dissolvendo a ENA (ou a escola diplomática) é factualmente questionável e a argumentação nesse ponto é frágil — a dissolução de uma escola de formação não equivale a abandonar a diplomacia.",
+      "A argumentação, embora organizada, é previsível e por vezes circular. Os conceitos de 'amor' e 'identidade pacifista' são usados de forma genérica, sem aprofundamento teórico. Para uma faixa superior, seria necessário maior sofisticação analítica, precisão factual e diálogo mais profundo com o texto-base.",
+      "A linguagem é adequada ao contexto, com vocabulário pertinente, embora sem grande riqueza estilística. Os erros gramaticais são pontuais, mas a imprecisão factual compromete a credibilidade argumentativa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'papeis' deveria ser 'papéis' (erro de acentuação, ocorre três vezes no texto)",
+      "'Para a psicólogo' deveria ser 'Para o psicólogo' (erro de concordância de gênero no artigo)",
+      "'controvérsia' deveria ser 'controvérsias' (falta de plural)",
+      "'ações diplomáticos' deveria ser 'ações diplomáticas' (erro de concordância de gênero)",
+      "'a medicação entre iguais' deveria ser 'a mediação entre iguais' (erro de vocabulário/ortografia)",
+      "'em que pese' deveria ser 'em que pesem' (concordância com 'mecanismos formais')",
+      "Imprecisão factual: a Questão de Letícia envolveu Colômbia e Peru, não Equador — embora não seja erro gramatical, é relevante para o conteúdo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com introdução clara que anuncia três frentes de atuação da diplomacia, desenvolvimento em três parágrafos temáticos e conclusão que retoma a tese. A estrutura é coerente e bem articulada.",
+      "A argumentação é sólida e bem fundamentada, com referências pertinentes ao texto-base de Freud integradas organicamente ao desenvolvimento. Os exemplos históricos (Guerra Fria, Questão de Letícia, diplomacia cultural asiática) são bem escolhidos e demonstram conhecimento do candidato.",
+      "A capacidade de análise é boa, com conexões interessantes entre as ideias de Freud e a prática diplomática. No entanto, há uma imprecisão factual relevante: a Questão de Letícia envolveu Colômbia e Peru, não o Equador. Além disso, a análise poderia ter sido mais aprofundada na relação entre direito e violência mencionada por Freud, e na transição da violência para o direito internacional.",
+      "A linguagem é adequada ao gênero dissertativo e ao nível do concurso, com vocabulário preciso e registro formal. Há, contudo, erros de concordância e acentuação que comprometem parcialmente a correção gramatical. O erro 'medicação' por 'mediação' é particularmente prejudicial por alterar o sentido da frase.",
+      "O texto demonstra maturidade argumentativa ao não se limitar a uma visão simplista da diplomacia, reconhecendo diferentes papéis e contextos de atuação. A referência à diplomacia cultural como forma de criar laços emocionais é uma leitura criativa e pertinente do texto de Freud."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'papeis' deveria ser 'papéis' (erro de acentuação, ocorre três vezes no texto)",
+      "'Para a psicólogo' deveria ser 'Para o psicólogo' (erro de concordância de gênero no artigo)",
+      "'controvérsia' deveria ser 'controvérsias' (erro de concordância de número)",
+      "'ações diplomáticos' deveria ser 'ações diplomáticas' (erro de concordância de gênero)",
+      "'a medicação entre iguais' deveria ser 'a mediação entre iguais' (erro de vocabulário/troca de palavra)",
+      "'em que pese' deveria ser 'em que pesem' (erro de concordância, pois o sujeito 'mecanismos formais' está no plural)",
+      "Imprecisão factual: a Questão de Letícia envolveu Colômbia e Peru, não Equador — embora não seja erro gramatical, compromete a correção do conteúdo"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com introdução clara que anuncia a tese, três parágrafos de desenvolvimento bem estruturados e uma conclusão que retoma os argumentos. A progressão temática é fluida e coerente.",
+      "A capacidade de argumentação é forte: o candidato articula três frentes de atuação da diplomacia (sobrevivência/prevenção, mediação e aproximação cultural), cada uma sustentada por um exemplo histórico e vinculada ao texto de Freud. A sistematização em três eixos demonstra objetividade e clareza.",
+      "A análise e reflexão são boas, com conexões pertinentes entre as ideias de Freud e a prática diplomática. No entanto, há imprecisão factual relevante na Questão de Letícia (inclusão do Equador, quando o conflito foi entre Colômbia e Peru), o que compromete parcialmente a credibilidade do argumento. A reflexão sobre diplomacia cultural no Leste Asiático é interessante, embora pudesse ser aprofundada. O texto poderia explorar com mais profundidade a tensão entre direito e violência mencionada por Freud, e a relação entre instinto de destruição e civilização.",
+      "Quanto à correção gramatical, foram identificados erros de acentuação ('papeis' por 'papéis', recorrente), concordância de gênero ('a psicólogo', 'ações diplomáticos'), troca de palavra ('medicação' por 'mediação') e concordância verbal ('em que pese'). São erros pontuais que não comprometem gravemente a compreensão, mas reduzem a nota de correção gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'papeis' deveria ser 'papéis' (erro de acentuação, ocorre três vezes no texto)",
+      "'Para a psicólogo' deveria ser 'Para o psicólogo' (erro de concordância de gênero no artigo)",
+      "'controvérsia' deveria ser 'controvérsias' (falta de plural)",
+      "'ações diplomáticos' deveria ser 'ações diplomáticas' (erro de concordância nominal)",
+      "'a medicação entre iguais' deveria ser 'a mediação entre iguais' (erro lexical/ortográfico)",
+      "'em que pese' deveria ser 'a despeito de' ou 'em que pesem' (uso questionável da expressão com substantivo plural 'mecanismos')",
+      "Na Questão de Letícia, a disputa envolveu Colômbia e Peru, não Equador — erro factual, embora não gramatical, merece registro"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente organização, com introdução clara que anuncia três frentes de atuação diplomática, desenvolvimento em três parágrafos temáticos e conclusão que retoma a tese. A estrutura é coerente e bem articulada.",
+      "A argumentação é sólida e bem fundamentada, com referências pertinentes ao texto-base de Freud integradas organicamente aos argumentos. Os exemplos históricos (Guerra Fria, Questão de Letícia, diplomacia cultural asiática) são bem escolhidos e demonstram repertório do candidato.",
+      "Há um erro factual relevante: na Questão de Letícia, o Equador não esteve envolvido — a disputa foi entre Colômbia e Peru. Esse equívoco compromete parcialmente a credibilidade do argumento, embora a lógica do raciocínio permaneça válida.",
+      "A capacidade de análise e reflexão é boa, com o candidato estabelecendo conexões entre as ideias de Freud e situações concretas da diplomacia. A divisão em três papéis da diplomacia (sobrevivência, mediação e aproximação cultural) demonstra capacidade de sistematização e originalidade analítica.",
+      "A linguagem é adequada ao gênero dissertativo e ao nível do concurso, com vocabulário preciso e registro formal. Há poucos erros gramaticais, mas o erro 'papeis' (sem acento) se repete três vezes, e 'medicação' por 'mediação' é um deslize significativo.",
+      "O texto poderia aprofundar mais a reflexão sobre os limites da diplomacia ou sobre a tensão entre direito e poder mencionada por Freud, o que enriqueceria a análise crítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'papeis' deveria ser 'papéis' (erro de acentuação, ocorre três vezes no texto)",
+      "'Para a psicólogo' deveria ser 'Para o psicólogo' (erro de concordância de gênero no artigo)",
+      "'controvérsia' deveria ser 'controvérsias' (falta de plural)",
+      "'ações diplomáticos' deveria ser 'ações diplomáticas' (erro de concordância de gênero)",
+      "'a medicação entre iguais' deveria ser 'a mediação entre iguais' (troca de palavra - medicação por mediação)",
+      "'conduzia' deveria ser 'conduziria' (inadequação do tempo verbal, pois se trata de hipótese)"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura organizacional, com introdução clara que anuncia as três frentes de atuação da diplomacia, desenvolvimento em três parágrafos bem articulados e conclusão que retoma os argumentos de forma coesa.",
+      "O candidato demonstra bom domínio do tema, articulando de forma pertinente as ideias de Freud com exemplos históricos concretos (Guerra Fria, Questão de Letícia, diplomacia cultural no Leste Asiático).",
+      "A argumentação é consistente e bem encadeada, com uso adequado de conectivos e transições entre os parágrafos.",
+      "Há um pequeno equívoco factual: a Questão de Letícia envolveu Colômbia e Peru (não Equador), o que compromete parcialmente a credibilidade do argumento histórico.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado para a discussão de relações internacionais.",
+      "Os erros gramaticais identificados, embora poucos, incluem falhas de acentuação recorrente ('papeis') e um erro significativo de troca lexical ('medicação' por 'mediação') que prejudica a clareza."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'papeis' deveria ser 'papéis' (erro de acentuação, ocorre três vezes no texto)",
+      "'Para a psicólogo' deveria ser 'Para o psicólogo' (erro de concordância de gênero no artigo)",
+      "'controvérsia' deveria ser 'controvérsias' (falta de concordância de número)",
+      "'ações diplomáticos' deveria ser 'ações diplomáticas' (erro de concordância de gênero)",
+      "'a medicação entre iguais' deveria ser 'a mediação entre iguais' (erro de vocabulário/troca de palavra)",
+      "'conduzia' deveria ser 'conduziria' (inadequação do tempo verbal, pois se trata de hipótese)"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que anuncia a tese, três parágrafos de desenvolvimento bem estruturados e uma conclusão que retoma os argumentos principais.",
+      "O candidato demonstra boa capacidade de articulação entre as ideias de Freud e exemplos históricos concretos (Guerra Fria, Questão de Letícia, diplomacia cultural no Leste Asiático), atendendo plenamente ao comando da questão.",
+      "A argumentação é coerente e bem encadeada, com uso adequado de conectivos e transições entre parágrafos.",
+      "Há imprecisão histórica na Questão de Letícia: o conflito envolveu Colômbia e Peru (não Equador), e a descrição como 'último conflito territorial sul-americano decorrente do colonialismo ibérico' é discutível.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado, apesar dos erros pontuais identificados.",
+      "O texto demonstra maturidade argumentativa ao dividir o papel da diplomacia em três frentes (sobrevivência, mediação e aproximação cultural), o que confere profundidade à análise."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'papeis' deveria ser 'papéis' (erro de acentuação, ocorre três vezes no texto)",
+      "'Para a psicólogo' deveria ser 'Para o psicólogo' (erro de concordância de gênero no artigo)",
+      "'controvérsia' deveria ser 'controvérsias' (falta de plural)",
+      "'ações diplomáticos' deveria ser 'ações diplomáticas' (erro de concordância de gênero)",
+      "'a medicação entre iguais' deveria ser 'a mediação entre iguais' (troca de palavra - erro de digitação/ortografia)",
+      "'conduzia' deveria ser 'conduziria' (inadequação do tempo verbal - contexto hipotético exige condicional)"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente estrutura organizacional, com introdução clara que anuncia três frentes de atuação diplomática, desenvolvimento em três parágrafos bem articulados e conclusão que retoma as ideias centrais.",
+      "O candidato demonstra boa capacidade de articulação entre as ideias de Freud e exemplos históricos concretos (Guerra Fria, Questão de Letícia, diplomacia cultural no Leste Asiático), atendendo plenamente ao enunciado.",
+      "A argumentação é consistente e bem encadeada, com uso adequado de conectivos e progressão lógica entre os parágrafos.",
+      "Há imprecisão histórica na Questão de Letícia: o conflito envolveu Colômbia e Peru (não Equador), e a caracterização como 'último conflito territorial sul-americano decorrente do colonialismo ibérico' é discutível.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. Os erros gramaticais identificados, embora poucos, incluem falhas de concordância e acentuação que comprometem levemente a qualidade textual.",
+      "O texto demonstra maturidade argumentativa e capacidade de reflexão crítica sobre o tema, relacionando de forma orgânica teoria (Freud) e prática diplomática."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'papeis' deveria ser 'papéis' (erro de acentuação, ocorre três vezes no texto)",
+      "'Para a psicólogo' deveria ser 'Para o psicólogo' (erro de concordância de gênero no artigo)",
+      "'controvérsia' deveria ser 'controvérsias' (falta de plural)",
+      "'ações diplomáticos' deveria ser 'ações diplomáticas' (erro de concordância de gênero)",
+      "'a medicação entre iguais' deveria ser 'a mediação entre iguais' (troca de palavra — medicação por mediação)",
+      "'Equador, Colômbia e Peru' — na Questão de Letícia, o Equador não esteve envolvido; trata-se de imprecisão factual, não gramatical, mas vale registrar",
+      "'conduzia' deveria ser 'conduziria' ou 'poderia conduzir' (inadequação do tempo verbal para expressar hipótese)"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução clara, três parágrafos de desenvolvimento temático bem delimitados e conclusão coerente. O candidato articula as ideias de Freud com exemplos históricos de forma pertinente.",
+      "O uso de três frentes de atuação diplomática (prevenção por sobrevivência, mediação e diplomacia cultural) como eixo argumentativo é uma estratégia eficaz que confere organicidade ao texto.",
+      "Há imprecisão histórica relevante na menção à Questão de Letícia: o conflito envolveu Colômbia e Peru, não o Equador. Esse tipo de erro factual é penalizado no CACD e compromete a credibilidade do argumento.",
+      "A articulação com o texto-base é adequada: o candidato retoma ideias de Freud (destruição mútua, laços emocionais, evolução cultural) e as conecta aos exemplos históricos, embora pudesse aprofundar mais a reflexão teórica.",
+      "Os erros gramaticais, embora não numerosos, incluem falhas básicas como concordância de gênero ('a psicólogo', 'ações diplomáticos') e acentuação ('papeis'), que poderiam ser evitadas com revisão mais cuidadosa.",
+      "A argumentação, embora bem estruturada, é relativamente previsível e poderia ganhar em sofisticação com maior problematização — por exemplo, discutindo limites da diplomacia ou tensões entre direito e poder mencionadas por Freud."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'papeis' deveria ser 'papéis' (erro de acentuação, ocorre mais de uma vez no texto)",
+      "'Para a psicólogo' deveria ser 'Para o psicólogo' (erro de concordância de gênero no artigo)",
+      "'controvérsia' deveria ser 'controvérsias' (falta de plural)",
+      "'conduzia' deveria ser 'conduziria' (inadequação do tempo verbal; o contexto exige condicional)",
+      "'ações diplomáticos' deveria ser 'ações diplomáticas' (erro de concordância de gênero)",
+      "'a medicação entre iguais' deveria ser 'a mediação entre iguais' (troca de palavra — 'medicação' por 'mediação')",
+      "Na referência à Questão de Letícia, o candidato menciona 'Equador' quando o conflito envolveu Colômbia e Peru (imprecisão factual, embora não seja erro gramatical estrito, compromete a correção do conteúdo)"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura dissertativa, com introdução, três parágrafos de desenvolvimento temático bem delimitados e conclusão coerente. O encadeamento das ideias é lógico e fluido.",
+      "O candidato articula de forma pertinente as ideias de Freud (destruição mútua, laços emocionais, evolução cultural) com exemplos históricos concretos (Guerra Fria, Questão de Letícia, diplomacia cultural asiática), demonstrando capacidade de reflexão e repertório.",
+      "Há imprecisão factual relevante ao incluir o Equador na Questão de Letícia, quando o conflito foi entre Colômbia e Peru. Esse tipo de erro pode ser penalizado em um concurso que valoriza precisão histórica.",
+      "Erros como 'papeis' (sem acento), 'a psicólogo', 'ações diplomáticos' e 'medicação' (por 'mediação') são deslizes que, embora não comprometam a compreensão global, revelam falta de revisão cuidadosa e afetam a avaliação de correção gramatical.",
+      "A argumentação, embora bem construída, poderia ser mais sofisticada na articulação teórica — por exemplo, explorando com maior profundidade a tensão entre direito e violência mencionada por Freud, ou discutindo os limites da diplomacia diante de Estados dispostos à 'destruição implacável', como o próprio texto-base adverte.",
+      "O parágrafo sobre diplomacia cultural é interessante e original, mas a menção a 'Hanfeng' e 'Hallyu' poderia ser mais precisa e contextualizada para evitar generalizações."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'papeis' deveria ser 'papéis' (acento agudo no plural de 'papel') — ocorre três vezes no texto.",
+      "'Para a psicólogo' deveria ser 'Para o psicólogo' (concordância de gênero do artigo).",
+      "'solução pacífica de controvérsia' deveria ser 'solução pacífica de controvérsias' (plural) ou ao menos seria preferível no plural nesse contexto.",
+      "'um conflito entre os EUA e a URSS conduzia' — o uso de 'conduzia' (imperfeito) em vez de 'conduziria' (condicional) é questionável no contexto hipotético, embora aceitável como percepção vigente à época.",
+      "'ações diplomáticos' deveria ser 'ações diplomáticas' (concordância de gênero).",
+      "'a medicação entre iguais' deveria ser 'a mediação entre iguais' (troca de palavra — 'medicação' por 'mediação').",
+      "Na Questão de Letícia, o candidato menciona 'Equador, Colômbia e Peru', mas historicamente o conflito envolveu Colômbia e Peru (não o Equador nesse episódio específico) — embora não seja erro gramatical, é imprecisão factual relevante."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura dissertativa, com introdução, três parágrafos de desenvolvimento temático bem delimitados e conclusão coerente. O encadeamento das ideias é lógico e fluido.",
+      "O candidato articula bem as ideias de Freud com exemplos históricos concretos (Guerra Fria, Questão de Letícia, diplomacia cultural asiática), demonstrando capacidade de relacionar teoria e prática diplomática.",
+      "A divisão do papel da diplomacia em três frentes (sobrevivência/prevenção, mediação e aproximação cultural) é uma estratégia argumentativa eficaz que organiza bem o texto.",
+      "Há uma imprecisão histórica na menção ao Equador na Questão de Letícia — o conflito foi essencialmente entre Colômbia e Peru. Esse tipo de erro factual é penalizado no CACD.",
+      "O erro 'medicação' por 'mediação' na conclusão é particularmente prejudicial por ocorrer em momento-chave do texto e por alterar completamente o sentido pretendido.",
+      "A argumentação, embora bem organizada, poderia ser mais sofisticada na articulação com conceitos de Direito Internacional e teoria das relações internacionais, o que elevaria o nível analítico.",
+      "O uso das citações de Freud é pertinente e bem integrado ao texto, cumprindo adequadamente a exigência do enunciado de fazer referência às ideias dos textos apresentados."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"constitui-se central\" — uso inadequado do pronome reflexivo com predicativo; o mais adequado seria \"constitui-se como central\" ou \"é central\".",
+      "\"norte- americanos\" — hífen separado por espaço, configurando erro de grafia/formatação.",
+      "\"a possibilidade de que a Alemanha nazista o fizesse se prenunciava catastrófica\" — construção ambígua e com regência questionável; \"prenunciar-se catastrófica\" é uso impreciso; mais adequado seria \"afigurava-se catastrófica\" ou \"anunciava-se como catastrófica\"."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma a tese central. O estilo é fluido e acadêmico, adequado ao gênero exigido pelo CACD.",
+      "A capacidade de argumentação é muito boa: o candidato articula com pertinência as ideias de Freud e Einstein com conceitos das Relações Internacionais (liberalismo, realismo, paz democrática, equilíbrio de poder), demonstrando domínio do conteúdo. As referências históricas — Liga das Nações, diplomacia secreta, Tratado de Versalhes ('paz cartaginesa'), armas nucleares, carta de Einstein a Roosevelt — são bem empregadas e conferem substância ao texto.",
+      "A análise e reflexão são de bom nível: o candidato estabelece conexões sofisticadas entre os textos motivadores e a teoria de RI, projetando as reflexões de Freud sobre a natureza humana para o plano estatal. A menção à destruição mútua assegurada como concretização da previsão de Freud é particularmente perspicaz. Contudo, a reflexão poderia ser ainda mais aprofundada em alguns pontos — por exemplo, explorando mais detidamente o papel contemporâneo da diplomacia ou discutindo com maior profundidade a tensão entre as abordagens liberal e realista, em vez de apenas apresentá-las.",
+      "A linguagem é, em geral, correta e própria, com vocabulário adequado e construções sintáticas bem elaboradas. Os poucos erros identificados são de natureza menor e não comprometem a compreensão do texto.",
+      "Ponto forte: a articulação entre teoria (RI), história e os textos motivadores é feita de maneira orgânica e convincente, demonstrando maturidade intelectual. Ponto a melhorar: a conclusão poderia ser mais desenvolvida, trazendo uma reflexão final mais original ou prospectiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"constitui-se central\" — uso inadequado do pronome reflexivo com predicativo; o mais adequado seria \"constitui-se como central\" ou \"é central\".",
+      "\"norte- americanos\" — hífen separado por espaço, configurando erro de grafia/formatação.",
+      "\"a possibilidade de que a Alemanha nazista o fizesse se prenunciava catastrófica\" — construção ambígua e com problema de regência/concordância; \"prenunciar-se catastrófica\" é construção inadequada; mais adequado seria \"afigurava-se catastrófica\" ou \"se anunciava como catastrófica\"."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que situa o tema, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A capacidade de argumentação é notável: o candidato articula com pertinência as ideias de Freud e Einstein com conceitos das Relações Internacionais (liberalismo, realismo, paz democrática, equilíbrio de poder), demonstrando domínio do conteúdo e objetividade na exposição.",
+      "A análise e reflexão são de alto nível. O candidato estabelece conexões sofisticadas entre os textos motivadores e momentos históricos concretos (Primeira Guerra, Liga das Nações, diplomacia secreta, paz cartaginesa, armas nucleares, carta de Einstein a Roosevelt). A menção à evolução do pensamento de Einstein — de pacifista a incentivador do programa nuclear — demonstra profundidade analítica. Contudo, poderia haver maior aprofundamento na discussão sobre o papel contemporâneo da diplomacia e exemplos mais recentes.",
+      "A correção gramatical é muito boa, com poucos desvios identificados. A linguagem é própria, precisa e demonstra domínio vocabular adequado ao nível do concurso.",
+      "Ponto forte: a articulação entre as ideias dos textos motivadores e as correntes teóricas das Relações Internacionais confere originalidade e profundidade à redação. Ponto a melhorar: a conclusão, embora coerente, poderia ser mais desenvolvida e menos genérica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 17.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'constitui-se central' — construção inadequada; o mais correto seria 'constitui-se como central' ou 'é central'.",
+      "'norte- americanos' — hífen com espaço indevido antes da segunda parte da palavra (possível erro de digitação/formatação, mas configura erro ortográfico).",
+      "'constitui- se' na conclusão — mesmo problema de espaçamento indevido no hífen."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem organizado, com introdução clara que situa o tema, desenvolvimento em parágrafos coesos e conclusão que retoma a tese. O estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD, com linguagem formal e fluida. A progressão temática é lógica, passando da diplomacia secreta à Liga das Nações, ao equilíbrio de poder e às armas nucleares. Pequena ressalva: a conclusão poderia ser um pouco mais elaborada, mas cumpre bem sua função.",
+      "1B – Capacidade de argumentação: O candidato demonstra excelente domínio do conteúdo, articulando com pertinência conceitos de Relações Internacionais (liberalismo, realismo, paz democrática, equilíbrio de poder, destruição mútua assegurada) com os textos motivadores. As referências históricas são precisas e bem empregadas: Primeira Guerra Mundial, Liga das Nações, Woodrow Wilson, paz cartaginesa, desenvolvimento de armas nucleares, carta de Einstein a Roosevelt. A argumentação é objetiva e sistemática, com boa conexão entre os excertos de Freud/Einstein e os fatos históricos.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica notável ao estabelecer paralelos entre o pensamento de Freud sobre laços emocionais e a crítica à diplomacia secreta, e ao conectar a lógica freudiana de projeção do individual ao coletivo com as teorias de RI. A reflexão sobre a 'paz cartaginesa' como intensificadora das 'psicoses do ódio' mencionadas por Einstein é particularmente sofisticada. A ironia histórica de Einstein — que refletiu sobre a paz mas contribuiu para o desenvolvimento nuclear — é bem explorada. Contudo, poderia haver maior aprofundamento na análise do papel contemporâneo da diplomacia e uma reflexão mais original sobre os limites da diplomacia como instrumento de paz, o que impede a nota máxima.",
+      "CGPL – Correção gramatical: O texto apresenta excelente domínio da norma culta, com pouquíssimos erros. Foram identificados problemas pontuais de construção sintática e formatação de hífen. A linguagem é precisa e apropriada ao contexto do concurso."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'constitui-se central' — construção inadequada; o mais correto seria 'constitui-se como central' ou 'é central'.",
+      "Fragmentação indevida de 'norte-americanos' com quebra de linha ('norte- americanos'), embora possa ser questão de formatação.",
+      "'se prenunciava catastrófica' — regência/construção questionável; seria mais adequado 'se prenunciava como catastrófica' ou 'prenunciava-se catastrófica'."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando de forma sofisticada as ideias de Einstein e Freud com teorias de Relações Internacionais (liberalismo e realismo) e com momentos históricos relevantes (Primeira Guerra Mundial, Liga das Nações, Segunda Guerra Mundial, armas nucleares).",
+      "A estrutura argumentativa é muito bem construída, com introdução clara, desenvolvimento em dois eixos (diplomacia como cooperação e diplomacia como equilíbrio de poder) e conclusão que sintetiza adequadamente os argumentos.",
+      "O candidato faz referências históricas pertinentes e bem contextualizadas: os 14 Pontos de Wilson, a 'paz cartaginesa', a carta de Einstein a Roosevelt, a destruição mútua assegurada.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal consistente.",
+      "A articulação entre os textos motivadores e os argumentos próprios é feita de maneira orgânica, demonstrando capacidade analítica e reflexiva de alto nível.",
+      "Pequena ressalva: poderia haver maior aprofundamento sobre o papel contemporâneo da diplomacia, embora o texto já seja bastante completo dentro do espaço disponível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'constitui-se central' — construção inadequada; o mais adequado seria 'constitui-se como central' ou 'é central'.",
+      "'norte- americanos' — hífen com espaço indevido antes da segunda parte da palavra.",
+      "'prenunciava catastrófica' — construção de regência/predicação inadequada; seria mais adequado 'prenunciava-se catastrófica' ou 'afigurava-se catastrófica'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato demonstra sólido conhecimento histórico, fazendo referências pertinentes à Primeira Guerra Mundial, à Liga das Nações, aos Quatorze Pontos de Wilson, à paz cartaginesa, ao desenvolvimento de armas nucleares e à carta de Einstein a Roosevelt.",
+      "Há articulação muito competente entre os textos motivadores (Einstein e Freud) e o papel da diplomacia, conectando conceitos como laços emocionais, evolução cultural e equilíbrio de poder às teorias de Relações Internacionais (liberalismo e realismo).",
+      "A argumentação é sofisticada e bem encadeada, transitando com fluidez entre os planos individual e coletivo, conforme sugerido pelos próprios textos de Einstein e Freud.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal consistente.",
+      "Pequena ressalva: a redação poderia ter explorado com mais profundidade exemplos contemporâneos do papel da diplomacia, embora os exemplos históricos utilizados sejam bastante pertinentes e bem articulados."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'constitui-se central' em vez de 'constitui-se como central' ou 'é central' — problema de regência/construção verbal.",
+      "Separação indevida de 'norte-americanos' com quebra de linha ('norte- americanos'), embora possa ser questão de formatação.",
+      "'Assim o faz, igualmente, Einstein' — construção algo truncada e com excesso de vírgulas, embora não seja propriamente erro gramatical, compromete a fluidez."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente.",
+      "O candidato demonstra domínio notável do tema, articulando com propriedade as ideias de Einstein e Freud com teorias de Relações Internacionais (liberalismo, realismo), momentos históricos (Primeira Guerra, Liga das Nações, Segunda Guerra, armas nucleares) e o papel da diplomacia.",
+      "A argumentação é sofisticada e bem encadeada, transitando com fluidez entre os conceitos teóricos dos textos motivadores e os exemplos históricos concretos.",
+      "A menção à diplomacia secreta, à paz cartaginesa, à destruição mútua assegurada e à carta de Einstein a Roosevelt demonstra repertório histórico sólido e pertinente.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e vocabulário preciso.",
+      "A conclusão retoma adequadamente a tese central e sintetiza os argumentos desenvolvidos ao longo do texto.",
+      "Poucos erros gramaticais, demonstrando bom domínio da norma culta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'constitui-se central' — construção inadequada; o mais adequado seria 'constitui-se como central' ou 'é central'.",
+      "Uso de 'se prenunciava catastrófica' — construção com regência questionável; seria mais adequado 'se prenunciava como catastrófica' ou 'prenunciava-se catastrófica'."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando de forma coerente as ideias de Einstein e Freud com conceitos de Relações Internacionais (liberalismo, realismo, paz democrática, equilíbrio de poder) e com momentos históricos relevantes (Primeira Guerra, Liga das Nações, armas nucleares).",
+      "A estrutura argumentativa é bem construída: o texto parte da diplomacia secreta como causa da Primeira Guerra, passa pela Liga das Nações e pelos ideais liberais, avança para a perspectiva realista do equilíbrio de poder e culmina com a questão nuclear — tudo conectado às reflexões de Freud e Einstein.",
+      "A menção à carta de Einstein a Roosevelt é um toque sofisticado que demonstra conhecimento histórico e cria uma conexão interessante com o próprio gênero textual (troca de cartas) do enunciado.",
+      "Um ponto que poderia ser aprimorado é a conclusão, que, embora coerente, é relativamente breve e previsível em relação à riqueza argumentativa do desenvolvimento. Poderia haver uma reflexão mais aprofundada sobre os desafios contemporâneos da diplomacia.",
+      "A referência às teorias de Relações Internacionais é pertinente, mas em alguns momentos a redação se aproxima mais de uma análise teórica de RI do que de uma reflexão sobre o papel da diplomacia em si, o que poderia ser mais equilibrado.",
+      "O domínio da norma culta é consistente, com pouquíssimos deslizes, e o vocabulário é adequado ao nível do concurso."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'constitui-se central' — construção inadequada; o mais adequado seria 'constitui-se como central' ou 'é central'.",
+      "Uso de 'se prenunciava catastrófica' — regência/construção questionável; seria mais adequado 'se prenunciava como catastrófica' ou 'prenunciava-se catastrófica'."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando de forma consistente as ideias de Einstein e Freud com teorias de Relações Internacionais (liberalismo, realismo) e com momentos históricos relevantes (Primeira Guerra, Liga das Nações, armas nucleares, paz cartaginesa).",
+      "A estrutura argumentativa é bem organizada, com introdução clara, desenvolvimento em dois eixos (diplomacia como cooperação e diplomacia como equilíbrio de poder) e conclusão que sintetiza adequadamente as ideias.",
+      "O texto faz referências históricas pertinentes e bem articuladas: a diplomacia secreta como causa da Primeira Guerra, os 14 Pontos de Wilson, a Liga das Nações, a paz cartaginesa, a carta de Einstein a Roosevelt e a destruição mútua assegurada.",
+      "A conexão entre as ideias de Freud (laços emocionais, instinto de destruição, evolução cultural) e os conceitos de Relações Internacionais é bem construída e demonstra capacidade analítica sofisticada.",
+      "Para alcançar a faixa 'Excelente', o texto poderia aprofundar mais a reflexão sobre o papel contemporâneo da diplomacia, trazer exemplos mais recentes e diversificados, e apresentar uma argumentação com maior originalidade e nuance, indo além da dicotomia liberalismo/realismo. A conclusão, embora adequada, é um pouco genérica e poderia ser mais incisiva.",
+      "O domínio da norma culta é muito bom, com pouquíssimos deslizes, e o vocabulário é adequado ao registro esperado no CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2022"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 2,
+    "erros_gramaticais": [
+      "Uso de 'constitui-se central' — construção inadequada; o mais adequado seria 'constitui-se como central' ou 'é central'.",
+      "Uso de 'se prenunciava catastrófica' — construção de regência questionável; seria mais adequado 'se prenunciava como catastrófica' ou 'prenunciava-se catastrófica'."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, articulando de forma coerente as ideias de Einstein e Freud com teorias de Relações Internacionais (liberalismo e realismo) e com momentos históricos relevantes (Primeira Guerra Mundial, Liga das Nações, armas nucleares).",
+      "A estrutura argumentativa é bem construída: o texto parte da diplomacia secreta como causa da Primeira Guerra, passa pela Liga das Nações e pelos ideais liberais, avança para a perspectiva realista do equilíbrio de poder e conclui com a destruição mútua assegurada. Essa progressão lógica confere fluidez e coesão ao texto.",
+      "O candidato demonstra capacidade de reflexão ao conectar as ideias de Freud sobre laços emocionais e instintos agressivos com conceitos de Relações Internacionais, como a paz democrática kantiana e a maximização de poder realista.",
+      "A menção à carta de Einstein a Roosevelt e seu papel no desenvolvimento nuclear é um acréscimo pertinente e sofisticado, que demonstra conhecimento histórico e capacidade de estabelecer conexões relevantes com o enunciado.",
+      "A conclusão, embora funcional, poderia ser mais elaborada e menos genérica. A frase final sobre cooperação bilateral, regional e multilateral soa um pouco formulaica e não acrescenta profundidade analítica ao fechamento do texto.",
+      "O texto poderia ter explorado com mais profundidade a dimensão cultural mencionada por Freud ('evolução cultural') e como a diplomacia cultural contemporânea se relaciona com essa ideia, o que elevaria ainda mais o nível de reflexão.",
+      "De modo geral, trata-se de uma redação bem escrita, com argumentação sólida e bom domínio linguístico, ficando apenas ligeiramente aquém do nível 'Excelente' por apresentar uma conclusão menos elaborada e por não aprofundar certas conexões teóricas que poderiam enriquecer a análise."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2022"
+  }
+]

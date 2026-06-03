@@ -1,0 +1,1907 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de plural em 'ideia' — deveria ser 'ideias' ('questionamento de ideias como o progresso').",
+      "Falta de concordância em 'havia grande euforia entre os alemães, associado ao crescente poder' — 'associado' deveria concordar com 'euforia': 'associada'.",
+      "Uso impreciso de 'utilitarismo de Bauhaus' — o termo mais adequado seria 'funcionalismo' ou 'racionalismo' da Bauhaus; embora não seja erro gramatical estrito, configura impropriedade vocabular."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem organizado, com introdução clara que conecta a citação machadiana ao tema escolhido (o período entreguerras e a República de Weimar), desenvolvimento em parágrafos bem estruturados e conclusão que retoma e problematiza a citação. O estilo é fluido, coeso e adequado ao registro formal exigido. A progressão temática é lógica e bem conduzida. Nota: 9.0.",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do conteúdo histórico, mobilizando informações pertinentes sobre a República de Weimar, o expansionismo alemão, a Guerra Franco-Prussiana, Bismarck, o Tratado de Versalhes, a Bauhaus e o expressionismo de Fritz Lang. A articulação entre a citação de Machado de Assis e os fatos históricos é feita de forma sistemática e coerente, com a metáfora sendo aplicada em diferentes camadas (queda das nuvens = desilusão pós-I Guerra; queda do terceiro andar = nazismo e II Guerra). A referência ao 'utilitarismo de Bauhaus' é imprecisa (o termo correto seria funcionalismo), o que constitui uma pequena falha de conteúdo. Nota: 8.5.",
+      "1C – Capacidade de análise e reflexão: O texto se destaca pela capacidade reflexiva. O candidato não se limita a narrar fatos, mas os interpreta à luz da citação, explorando dimensões psicossociais da desilusão e sua relação com a radicalização política. A conclusão é particularmente sofisticada ao questionar a própria premissa da citação machadiana, argumentando que a desilusão (cair das nuvens) tende a preceder e até provocar a tragédia (queda do terceiro andar), invertendo a lógica de preferência expressa por Machado. Essa problematização demonstra maturidade analítica. Nota: 9.0.",
+      "Correção gramatical e propriedade da linguagem: Foram identificados poucos erros. O texto apresenta domínio sólido da norma culta, com uso adequado de subordinação, pontuação e vocabulário. Os erros encontrados são pontuais: falta de plural em 'ideia', falta de concordância em 'associado' (deveria ser 'associada') e a impropriedade vocabular 'utilitarismo' em vez de 'funcionalismo' para a Bauhaus."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de plural em 'ideia': deveria ser 'ideias' ('questionamento de ideias como o progresso, a modernidade e o capitalismo').",
+      "Falta de concordância em 'associado': deveria ser 'associada' para concordar com 'euforia' ('havia grande euforia entre os alemães, associada ao crescente poder').",
+      "Uso impreciso de 'utilitarismo de Bauhaus': o termo mais adequado seria 'funcionalismo' ou 'racionalismo' da Bauhaus; embora não seja erro gramatical estrito, configura impropriedade vocabular."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que conecta a citação machadiana ao contexto histórico, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma e problematiza a citação original. O estilo é fluido e coeso.",
+      "A argumentação é sólida e bem fundamentada, articulando de forma consistente a metáfora de Machado de Assis com os eventos históricos da República de Weimar, o período entreguerras e a ascensão do nazismo. O candidato demonstra domínio do conteúdo histórico e capacidade de relacioná-lo ao enunciado proposto.",
+      "A capacidade de análise e reflexão é notável, especialmente na conclusão, onde o candidato questiona a própria premissa da citação machadiana, argumentando que a desilusão (cair das nuvens) tende a preceder e até provocar a tragédia (queda do terceiro andar). Essa inversão crítica demonstra maturidade intelectual.",
+      "A referência ao 'utilitarismo de Bauhaus' é imprecisa — o termo consagrado é 'funcionalismo'. Embora Fritz Lang seja de fato associado ao expressionismo alemão, a menção poderia ser mais precisa ao contextualizá-lo no cinema expressionista.",
+      "Há poucos erros gramaticais, mas a falta de concordância nominal em 'associado' (por 'associada') e a falta de plural em 'ideia' (por 'ideias') são lapsos que poderiam ser evitados. No geral, o domínio da norma culta é muito bom.",
+      "A redação cumpre plenamente o que o enunciado solicita: interpreta a citação, comenta um fato relevante da história mundial do século XX e relaciona o fato à citação de forma orgânica e convincente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de plural em 'ideia': deveria ser 'ideias' ('questionamento de ideias como o progresso, a modernidade e o capitalismo').",
+      "Falta de concordância em 'associado ao crescente poder': deveria ser 'associada ao crescente poder', concordando com 'euforia'.",
+      "Uso impreciso de 'utilitarismo de Bauhaus': o termo mais adequado seria 'funcionalismo' ou 'racionalismo' da Bauhaus; embora não seja erro gramatical estrito, configura impropriedade vocabular."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que conecta a citação machadiana ao contexto histórico, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma e problematiza a citação original. O estilo é fluido e coeso.",
+      "A argumentação é sólida e bem articulada: o candidato estabelece uma analogia consistente entre 'cair das nuvens' (desilusão do pós-I Guerra e fundação da República de Weimar) e 'cair do terceiro andar' (ascensão do nazismo e a II Guerra Mundial). As informações históricas são pertinentes e bem mobilizadas, incluindo referências a Bismarck, ao Tratado de Versalhes, à Bauhaus e ao expressionismo de Fritz Lang.",
+      "A capacidade de análise e reflexão é notável. O candidato não se limita a narrar fatos históricos, mas os interpreta à luz da citação machadiana, explorando dimensões psicossociais da desilusão coletiva. A conclusão é particularmente sofisticada ao questionar a própria premissa da citação, argumentando que a primeira queda (desilusão) tende a ser acompanhada da segunda (tragédia), o que demonstra maturidade reflexiva.",
+      "Há poucos erros gramaticais, sendo os mais evidentes a falta de plural em 'ideia' e a concordância inadequada de 'associado' com 'euforia'. O texto demonstra domínio da norma culta, com uso adequado de conectivos, subordinação e vocabulário sofisticado.",
+      "A referência ao 'utilitarismo de Bauhaus' é imprecisa — o termo consagrado é 'funcionalismo'. Embora não comprometa gravemente a argumentação, revela uma pequena imprecisão conceitual no campo cultural.",
+      "O texto poderia ter explorado mais diretamente a dimensão cultural brasileira, já que o enunciado oferecia essa alternativa, mas a escolha pela história mundial é plenamente válida e foi bem executada."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de plural em 'questionamento de ideia' — deveria ser 'questionamento de ideias'",
+      "Falta de concordância em 'havia grande euforia entre os alemães, associado ao crescente poder' — 'associado' deveria concordar com 'euforia' (associada)",
+      "Uso impreciso de 'utilitarismo de Bauhaus' — o termo mais adequado seria 'funcionalismo' ou 'racionalismo' da Bauhaus; 'utilitarismo' remete a corrente filosófica"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma e problematiza a citação de Machado de Assis.",
+      "O candidato demonstra sólido conhecimento histórico ao articular a citação machadiana com a República de Weimar, a I Guerra Mundial e a ascensão do nazismo, construindo uma argumentação coerente e bem encadeada.",
+      "A interpretação da metáfora é sofisticada: o 'cair das nuvens' como desilusão pós-guerra e o 'cair do terceiro andar' como a tragédia concreta do nazismo e da II Guerra Mundial. A conclusão que questiona a própria citação demonstra maturidade reflexiva.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário preciso. A construção sintática é predominantemente correta e fluente.",
+      "Ponto de atenção: a referência ao 'utilitarismo de Bauhaus' é imprecisa — o movimento é associado ao funcionalismo. Além disso, o enunciado pedia um fato relevante da cultura brasileira OU da história mundial; o candidato optou pela história mundial e o fez de forma competente, embora a dimensão cultural (Bauhaus, expressionismo) tenha ficado como elemento secundário na argumentação, quando poderia ter sido mais explorada.",
+      "A atribuição da frase ao romance Memórias Póstumas de Brás Cubas é plausível, embora a citação não seja das mais conhecidas da obra. O candidato integra bem a referência literária ao longo de todo o texto.",
+      "Pequenos deslizes gramaticais (concordância nominal) não comprometem significativamente a qualidade do texto, que se destaca pela coesão e pela profundidade argumentativa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de plural em 'questionamento de ideia' — deveria ser 'questionamento de ideias'",
+      "Falta de concordância em 'havia grande euforia entre os alemães, associado ao crescente poder' — 'associado' deveria concordar com 'euforia' (associada)",
+      "Uso impreciso de 'utilitarismo de Bauhaus' — o termo mais adequado seria 'funcionalismo' ou 'racionalismo' da Bauhaus; 'utilitarismo' remete a corrente filosófica"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em parágrafos coesos e conclusão que retoma e problematiza a citação de Machado de Assis.",
+      "O candidato demonstra notável capacidade argumentativa ao articular a citação machadiana com a história da República de Weimar, estabelecendo paralelos consistentes entre 'cair das nuvens' (desilusão pós-I Guerra) e 'cair do terceiro andar' (ascensão do nazismo e II Guerra).",
+      "A conclusão é particularmente sofisticada ao questionar a própria premissa da citação, argumentando que a desilusão (primeira queda) tende a preceder a tragédia (segunda queda), o que demonstra maturidade reflexiva.",
+      "O encadeamento cronológico e lógico — do otimismo imperial à desilusão de Weimar, passando pela efervescência cultural e chegando à ascensão nazista — é bem conduzido e confere fluidez ao texto.",
+      "A menção à produção cultural de Weimar (Bauhaus, Fritz Lang) enriquece a argumentação, embora o termo 'utilitarismo' aplicado à Bauhaus seja impreciso — o correto seria 'funcionalismo'.",
+      "A linguagem é formal, adequada ao contexto do concurso, e o vocabulário é variado e preciso, com poucos deslizes gramaticais ao longo de um texto extenso e bem desenvolvido."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de plural em 'questionamento de ideia' — deveria ser 'questionamento de ideias'",
+      "Falta de concordância em 'havia grande euforia entre os alemães, associado ao crescente poder' — 'associado' deveria concordar com 'euforia': 'associada'",
+      "Uso impreciso de 'utilitarismo de Bauhaus' — o termo mais adequado seria 'funcionalismo' ou 'racionalismo' da Bauhaus; 'utilitarismo' remete a corrente filosófica"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma e problematiza a citação de Machado de Assis.",
+      "A articulação entre a citação machadiana e o fato histórico escolhido (a República de Weimar e o período entreguerras) é sofisticada e bem sustentada ao longo de todo o texto, demonstrando capacidade argumentativa e reflexiva de alto nível.",
+      "O candidato demonstra conhecimento histórico sólido, mencionando com propriedade a Guerra Franco-Prussiana, Bismarck, o Tratado de Versalhes, a Bauhaus, Fritz Lang e o expressionismo alemão.",
+      "A conclusão é particularmente forte ao questionar a própria premissa da citação, argumentando que a desilusão (cair das nuvens) tende a preceder a tragédia (queda do terceiro andar), o que demonstra maturidade intelectual.",
+      "Há poucos erros gramaticais, e a linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal consistente.",
+      "Uma ressalva menor: a referência ao 'utilitarismo de Bauhaus' é imprecisa — o termo correto seria 'funcionalismo'. Além disso, a atribuição da frase ao romance Memórias Póstumas de Brás Cubas pode ser questionada, embora não constitua erro grave na argumentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"questionamento de ideia como o progresso\" — falta de plural: deveria ser \"de ideias como\".",
+      "\"havia grande euforia entre os alemães, associado ao crescente poder\" — falta de concordância: \"associado\" deveria concordar com \"euforia\" (\"associada\").",
+      "\"políticos social democratas\" — grafia incorreta do composto: deveria ser \"social-democratas\"."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente articulação entre a citação machadiana e o fato histórico escolhido (a República de Weimar e o entreguerras alemão). A metáfora de 'cair das nuvens' versus 'cair do terceiro andar' é explorada com consistência ao longo de todo o texto, conferindo unidade temática e coesão argumentativa.",
+      "A estrutura do texto é bem organizada: introdução que contextualiza a citação e o período histórico, desenvolvimento em parágrafos que aprofundam a analogia (fundação de Weimar como 'queda das nuvens', produção cultural do período, ascensão nazista como 'queda do terceiro andar') e conclusão que questiona a própria premissa machadiana — um movimento argumentativo sofisticado.",
+      "O encadeamento lógico é sólido, com transições bem construídas entre os parágrafos. A progressão argumentativa — da desilusão pós-1918 à efervescência cultural de Weimar e, finalmente, à radicalização nazista — é convincente e bem fundamentada historicamente.",
+      "A conclusão é particularmente forte ao subverter a citação de Machado de Assis, argumentando que a desilusão (queda das nuvens) tende a preceder a tragédia (queda do terceiro andar), em vez de ser uma alternativa a ela. Isso demonstra maturidade reflexiva e originalidade.",
+      "Há poucos deslizes gramaticais, e a linguagem é adequada ao registro formal exigido pelo concurso. A referência ao 'utilitarismo de Bauhaus' poderia ser mais precisa (funcionalismo ou racionalismo seriam termos mais adequados para descrever a escola), mas não compromete a qualidade geral do texto.",
+      "A menção à produção cultural de Weimar, embora pertinente, poderia ter sido mais desenvolvida para atender plenamente à dimensão cultural sugerida pelo enunciado, que pede comentário sobre 'fato relevante da cultura' ou 'da história mundial'."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"questionamento de ideia como o progresso\" — falta de plural: deveria ser \"de ideias como\".",
+      "\"havia grande euforia entre os alemães, associado ao crescente poder\" — falta de concordância: \"associado\" deveria concordar com \"euforia\" (\"associada\").",
+      "\"políticos social democratas\" — grafia incorreta do composto: deveria ser \"social-democratas\"."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente articulação entre a citação machadiana e o fato histórico escolhido (a República de Weimar e o entreguerras alemão). A metáfora de 'cair das nuvens' versus 'cair do terceiro andar' é explorada com consistência ao longo de todo o texto, conferindo unidade temática e coesão argumentativa.",
+      "A estrutura do texto é bem organizada: introdução que contextualiza a citação e apresenta a tese, desenvolvimento em parágrafos que aprofundam diferentes dimensões (política, cultural, psicossocial) e conclusão que retoma e questiona a própria citação, demonstrando maturidade reflexiva.",
+      "A inclusão da dimensão cultural (Bauhaus, expressionismo de Fritz Lang) enriquece a argumentação e demonstra repertório cultural relevante, embora a referência ao 'utilitarismo de Bauhaus' pudesse ser mais precisa (o termo mais usual seria 'funcionalismo').",
+      "O parágrafo final, ao questionar a própria premissa machadiana — argumentando que a desilusão tende a preceder a tragédia —, confere originalidade e profundidade analítica ao texto, elevando-o acima de uma mera ilustração histórica.",
+      "Há poucos deslizes gramaticais, e o domínio da norma culta é consistente. A linguagem é adequada ao contexto do concurso, com vocabulário preciso e períodos bem construídos. A argumentação é sólida e demonstra capacidade de reflexão crítica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Excelente",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"levou ao questionamento de ideia como o progresso\" — falta de plural: deveria ser \"de ideias como\".",
+      "\"havia grande euforia entre os alemães, associado ao crescente poder\" — falta de concordância: \"associado\" deveria concordar com \"euforia\" (\"associada\").",
+      "\"o utilitarismo de Bauhaus\" — imprecisão terminológica/linguística: o termo mais adequado seria \"funcionalismo\" ou \"racionalismo\" da Bauhaus, não \"utilitarismo\"."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente articulação entre a citação machadiana e o fato histórico escolhido (a República de Weimar e a ascensão do nazismo). A metáfora de 'cair das nuvens' versus 'cair do terceiro andar' é explorada com consistência ao longo de todo o texto, conferindo unidade argumentativa.",
+      "A estrutura é bem organizada: o texto parte da contextualização da citação, desenvolve o paralelo histórico em etapas lógicas (pré-guerra, República de Weimar, produção cultural, ascensão nazista) e conclui com uma inversão argumentativa sofisticada ao questionar a própria premissa machadiana.",
+      "O fechamento do texto é particularmente forte: ao sugerir que a desilusão (cair das nuvens) tende a preceder a tragédia (cair do terceiro andar), o candidato demonstra capacidade de reflexão crítica e originalidade, indo além da mera ilustração do tema.",
+      "A dimensão cultural do período de Weimar é mencionada (Bauhaus, Fritz Lang), o que enriquece a argumentação, embora pudesse ser mais desenvolvida. O termo 'utilitarismo' aplicado à Bauhaus é impreciso — o mais correto seria 'funcionalismo'.",
+      "O domínio da norma culta é consistente, com poucos deslizes. A linguagem é adequada ao contexto do concurso, com vocabulário rico e períodos bem construídos. Há apenas pequenos erros de concordância que não comprometem a qualidade geral do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'todavia' na oração 'todavia a adoção de paradigmas realistas amorais': deveria ser '; todavia, a adoção...'",
+      "Duplo espaço antes de 'e da autodeterminação' (falha de digitação/formatação)",
+      "Falta de complemento em 'o reconhecimento de aspirações e da autodeterminação de povos colonizados' — 'aspirações' parece carecer de um complemento nominal (aspirações de quê?), gerando truncamento sintático",
+      "'reafirma mais que a relevância' — construção ambígua; o sentido pretendido parece ser 'reafirma mais do que a relevância', faltando a preposição 'do' na comparação"
+    ],
+    "feedbacks": [
+      "O texto apresenta excelente coerência e fluidez argumentativa, com estilo elevado e vocabulário sofisticado, adequado ao nível do CACD. A impressão geral é de um candidato com domínio da escrita formal e capacidade de articular ideias complexas de forma clara.",
+      "A argumentação é bem estruturada e pertinente: o candidato relaciona a citação machadiana ao idealismo nas relações internacionais, mobilizando referências teóricas relevantes (Morgenthau, Clausewitz, Kant) e fatos históricos concretos (fundação da ONU, guerras mundiais, Liga das Nações). Contudo, há certa repetitividade na tese central — a perenidade do idealismo e a fundação da ONU são reiteradas em vários parágrafos sem aprofundamento substancial adicional a cada retomada.",
+      "A capacidade de análise e reflexão é boa, com articulação entre realismo e idealismo nas relações internacionais. No entanto, a interpretação da citação machadiana poderia ser mais explorada e problematizada: o candidato a reduz essencialmente à defesa do idealismo versus pragmatismo, sem explorar nuances da ironia machadiana (a frase original tem um tom de resignação cômica, não necessariamente de elogio ao idealismo). A menção ao Dadaísmo é interessante mas superficial, funcionando mais como ornamento do que como argumento desenvolvido.",
+      "A redação é predominantemente bem escrita do ponto de vista gramatical, com poucos erros. Os deslizes identificados são pontuais e não comprometem a compreensão global do texto.",
+      "Ponto de melhoria: evitar a circularidade argumentativa — a tese é reafirmada diversas vezes quase nos mesmos termos, o que reduz o impacto persuasivo e a sensação de progressão do raciocínio."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de vírgula antes de 'todavia' em 'essenciais; todavia a adoção' — deveria ser 'essenciais; todavia, a adoção'",
+      "Duplo espaço antes de 'e da autodeterminação' (falha de digitação/formatação)",
+      "'reafirma mais que a relevância' — construção truncada, faltando 'do que' ou reformulação adequada ('reafirma mais do que a relevância' ou 'reafirma não apenas a relevância')"
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução clara que conecta a citação machadiana ao tema escolhido (fundação da ONU), desenvolvimento consistente e conclusão que retoma a citação. O estilo é formal e adequado ao gênero dissertativo do CACD. A coerência é mantida ao longo do texto, com transições bem articuladas entre os parágrafos. Há, contudo, certa repetitividade vocabular ('elucida', 'perenidade', 'idealismo') e algumas construções que, embora corretas, tornam a leitura densa sem necessariamente agregar conteúdo novo. Nota: 8.5",
+      "1B – Capacidade de argumentação: O candidato demonstra bom repertório intelectual, mobilizando autores relevantes (Morgenthau, Clausewitz, Kant) e eventos históricos pertinentes (guerras mundiais, Liga das Nações, ONU, imperialismo, Dadaísmo). A argumentação é sistemática e objetiva, construindo uma linha de raciocínio que vai do realismo político à necessidade do idealismo. Contudo, há certa circularidade: a tese de que o idealismo é necessário e perene é reafirmada diversas vezes sem aprofundamento substancial em cada retomada. A menção ao Dadaísmo, embora interessante, é superficial e poderia ter sido mais desenvolvida. A relação entre a citação machadiana e o fato histórico, embora estabelecida, poderia ser mais orgânica e menos mecânica. Nota: 8.0",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao interpretar a citação de Machado de Assis como uma defesa do idealismo frente ao pragmatismo — leitura válida, embora discutível (a frase original tem camadas irônicas que poderiam ter sido exploradas). A reflexão sobre a tensão entre realismo e idealismo nas relações internacionais é pertinente e bem conduzida. A articulação entre Kant e a dinâmica do século XX mostra maturidade intelectual. Porém, a análise tende a ser mais descritiva do que verdadeiramente crítica em alguns momentos, e a conclusão, embora coerente, não acrescenta uma camada nova de reflexão. A interpretação da citação machadiana poderia ter sido problematizada — Machado é conhecido pela ironia, e a frase pode conter ambiguidades que enriqueceriam a análise. Nota: 8.0",
+      "Correção gramatical: O texto apresenta excelente domínio da norma culta, com vocabulário sofisticado e construções sintáticas complexas bem executadas. Foram identificados poucos erros, sendo os principais a ausência de vírgula após 'todavia' e uma construção truncada ('reafirma mais que'). O nível de correção é alto para os padrões do concurso."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Ausência de vírgula antes de 'todavia' em 'essenciais; todavia a adoção' — deveria ser 'essenciais; todavia, a adoção'.",
+      "Espaço duplo antes de 'e da autodeterminação' (falha de digitação/formatação).",
+      "Em 'reafirma mais que a relevância', falta o 'do' para a construção comparativa correta: 'reafirma mais do que a relevância' — ou a frase está truncada/incompleta em seu sentido.",
+      "Uso impreciso de 'cúpula' no sentido de 'fórum' ou 'organização' — embora não seja erro gramatical estrito, configura impropriedade vocabular."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que interpreta a citação machadiana, desenvolvimento bem estruturado em torno da fundação da ONU e das guerras mundiais, e conclusão que retoma a citação de forma coerente. O estilo é formal e adequado ao gênero dissertativo do CACD.",
+      "A capacidade de argumentação é sólida: o candidato mobiliza referências pertinentes (Morgenthau, Clausewitz, Kant, Dadaísmo, Liga das Nações) para sustentar a tese de que o idealismo, apesar de suas limitações, é preferível ao pragmatismo amoral. Contudo, há certa repetitividade na argumentação — a ideia de que a ONU representa a 'perenidade do idealismo' é reiterada diversas vezes sem aprofundamento substancial em cada retomada, o que enfraquece a progressão argumentativa.",
+      "A análise e reflexão são boas, com articulação entre realismo e idealismo nas relações internacionais. No entanto, a interpretação da citação machadiana poderia ser mais nuançada: a frase original comporta uma leitura sobre a preferência pela desilusão (cair das nuvens/ilusão) em vez da queda concreta e fatal (terceiro andar/realidade), o que o candidato simplifica ao equiparar 'nuvens' a idealismo de forma quase exclusivamente positiva. A menção ao Dadaísmo é interessante, mas superficial — poderia ter sido mais desenvolvida como exemplo cultural.",
+      "O texto é predominantemente correto do ponto de vista gramatical, com vocabulário sofisticado e adequado. Os poucos erros identificados são de natureza pontual e não comprometem a compreensão.",
+      "Ponto de atenção: o enunciado pedia comentário sobre 'um fato relevante da cultura brasileira ocorrido no século XX' OU 'um fato relevante da história mundial ocorrido no mesmo período'. O candidato escolheu a fundação da ONU (história mundial), o que é válido. Porém, a menção ao Dadaísmo como exemplo cultural fica subdesenvolvida e funciona mais como ornamento do que como análise substantiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'todavia' em 'essenciais; todavia a adoção' — deveria ser 'essenciais; todavia, a adoção'",
+      "Espaço duplo antes de 'e da autodeterminação' (erro tipográfico/formatação)",
+      "Uso de 'reafirma mais que a relevância' — construção ambígua; seria mais adequado 'reafirma mais do que a relevância' ou 'reafirma não apenas a relevância'"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio vocabular e sofisticação argumentativa, com uso adequado de referências filosóficas e históricas (Morgenthau, Clausewitz, Kant) para sustentar a tese.",
+      "A interpretação da citação machadiana é pertinente: a preferência pela queda das nuvens (idealismo) em detrimento da queda do terceiro andar (pragmatismo amoral) é bem articulada com a fundação da ONU.",
+      "A organização textual é clara e coerente, com encadeamento lógico entre os parágrafos, embora haja certa repetitividade na reafirmação da tese central — a perenidade do idealismo — que aparece reiterada em múltiplos momentos sem acréscimo substancial de argumentação nova.",
+      "O texto poderia explorar com mais profundidade a citação original de Machado de Assis, contextualizando-a melhor dentro de Memórias Póstumas de Brás Cubas e discutindo a ironia machadiana, em vez de tomá-la de forma relativamente literal.",
+      "A menção ao Dadaísmo como exemplo de vanguarda que elucida a irracionalidade geopolítica é interessante, mas permanece superficial e poderia ter sido mais desenvolvida ou suprimida em favor de argumentos mais robustos.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e propriedade no uso de termos técnicos das relações internacionais e da filosofia política."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'todavia' em 'essenciais; todavia a adoção' — deveria ser 'essenciais; todavia, a adoção'",
+      "Espaço duplo antes de 'e da autodeterminação' (erro tipográfico/formatação)",
+      "Uso impreciso de 'reafirma mais que a relevância' — construção ambígua, possivelmente faltando 'do' ('mais do que') ou reformulação necessária"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio vocabular e sofisticação argumentativa, mobilizando referências pertinentes como Morgenthau, Clausewitz e Kant para sustentar a tese.",
+      "A interpretação da citação machadiana é inteligente e bem articulada: a preferência pela queda das nuvens (idealismo) em detrimento da queda do terceiro andar (pragmatismo amoral) é desenvolvida com coerência ao longo do texto.",
+      "O encadeamento das ideias é lógico e bem estruturado, partindo do realismo político, passando pelas guerras mundiais e chegando à fundação da ONU como triunfo do idealismo.",
+      "Há certa repetitividade na argumentação: a ideia central de que o idealismo é preferível ao realismo amoral é reiterada diversas vezes com formulações semelhantes, o que compromete parcialmente a progressão textual.",
+      "A conclusão retoma adequadamente a citação de Machado de Assis, fechando o ciclo argumentativo, embora pudesse ser mais sintética e impactante.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e uso preciso de termos técnicos das relações internacionais e da filosofia política.",
+      "A relação entre a citação e o fato histórico escolhido (fundação da ONU) é bem estabelecida, embora a interpretação da frase machadiana seja um tanto livre — a citação original tem tom mais irônico e resignado do que propriamente idealista."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'todavia' em 'essenciais; todavia a adoção' — deveria ser 'essenciais; todavia, a adoção'",
+      "Espaço duplo antes de 'e da autodeterminação' (erro tipográfico/formatação)",
+      "Uso de 'reafirma mais que a relevância' — construção ambígua; deveria ser 'reafirma mais do que a relevância' ou 'reafirma não apenas a relevância'"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio vocabular e sofisticação argumentativa, com referências pertinentes a pensadores como Morgenthau, Clausewitz e Kant, além de contextualização histórica adequada.",
+      "A interpretação da citação machadiana é coerente e bem articulada: a preferência pela queda das nuvens (idealismo) em vez do terceiro andar (pragmatismo realista amoral) é desenvolvida com consistência ao longo do texto.",
+      "O encadeamento das ideias é lógico e bem estruturado, partindo da interpretação da citação, passando pelo contexto histórico das guerras mundiais e chegando à fundação da ONU como exemplo de perenidade do idealismo.",
+      "Há certa repetitividade na argumentação: a ideia central (perenidade do idealismo exemplificada pela ONU) é reiterada diversas vezes sem acréscimo substancial de novos elementos, o que enfraquece ligeiramente o desenvolvimento.",
+      "A interpretação da citação, embora engenhosa, poderia ser questionada: a frase de Machado não necessariamente opõe idealismo a realismo político, e a leitura proposta, embora válida, é um tanto forçada ao afirmar que 'subverte o pessimismo' do autor.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e uso preciso de conectivos e expressões, demonstrando maturidade textual.",
+      "A conclusão retoma adequadamente a citação e o argumento central, conferindo unidade ao texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'todavia' na frase 'contribuem para a estabilidade interestatal; todavia a adoção' — deveria ser 'todavia, a adoção'.",
+      "Espaço duplo antes de 'e da autodeterminação' (erro tipográfico/formatação).",
+      "Construção 'reafirma mais que a relevância' é ambígua e possivelmente incompleta — falta o complemento comparativo ('mais do que... também...') ou deveria ser 'reafirma mais do que a relevância'."
+    ],
+    "feedbacks": [
+      "A redação demonstra domínio consistente do tema, articulando com competência conceitos de relações internacionais (Morgenthau, Clausewitz, Kant) e história mundial (guerras mundiais, Liga das Nações, ONU) à citação machadiana.",
+      "A interpretação da citação de Machado de Assis é coerente e bem fundamentada: a preferência pela queda das nuvens (idealismo) em detrimento da queda do terceiro andar (pragmatismo amoral) é desenvolvida com consistência ao longo do texto.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD, com uso preciso de termos como 'persecução', 'adstrita', 'concertação', 'alijada'.",
+      "A estrutura argumentativa é lógica e bem encadeada, transitando do diagnóstico realista para a falência desse paradigma e, finalmente, para a reafirmação do idealismo com a fundação da ONU.",
+      "Como ponto de melhoria, o texto apresenta certa circularidade argumentativa: a tese da perenidade do idealismo e a referência à ONU são reiteradas em vários parágrafos sem acréscimo substancial de informação, o que compromete parcialmente a progressão textual.",
+      "A menção ao Dadaísmo, embora interessante, é superficial e poderia ter sido mais desenvolvida ou suprimida em favor de maior aprofundamento de outro argumento.",
+      "A conclusão retoma adequadamente a citação machadiana, mas a relação entre a metáfora original e o argumento desenvolvido poderia ser explorada com maior sutileza e originalidade, evitando a paráfrase direta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'todavia' na frase 'contribuem para a estabilidade interestatal; todavia a adoção' — deveria ser 'todavia, a adoção'.",
+      "Trecho 'o reconhecimento de aspirações e da autodeterminação de povos colonizados' parece incompleto — falta um complemento após 'aspirações' (aspirações de quê/quem?).",
+      "Uso de 'reafirma mais que a relevância' parece impreciso; provavelmente deveria ser 'reafirma mais do que a relevância' ou 'reafirma mais que apenas a relevância'."
+    ],
+    "feedbacks": [
+      "A redação demonstra domínio temático considerável, articulando conceitos de relações internacionais (Morgenthau, Clausewitz, Kant) com a citação machadiana de forma coerente e bem estruturada.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD, com uso preciso de termos como 'persecução', 'adstrita', 'concertação', 'alijada'.",
+      "A principal fragilidade reside na interpretação da citação de Machado de Assis: a leitura proposta (idealismo vs. pragmatismo) é válida, mas poderia ser mais aprofundada e matizada. A citação original sugere que é preferível a desilusão (cair das nuvens) à queda concreta e fatal (terceiro andar), o que foi captado, mas a conexão com o tema escolhido por vezes se torna mecânica e repetitiva.",
+      "Há certa redundância argumentativa: a tese de que o idealismo é perene e importante é reafirmada diversas vezes sem acréscimo substancial de novos argumentos ou perspectivas, o que enfraquece a progressão do texto.",
+      "A menção ao Dadaísmo, embora interessante, é superficial e não é desenvolvida, funcionando mais como ornamento do que como argumento efetivo.",
+      "A conclusão retoma adequadamente a citação machadiana, mas o fechamento poderia ser mais incisivo e original, em vez de simplesmente reiterar o que já foi dito ao longo do texto.",
+      "A estrutura geral é sólida, com introdução, desenvolvimento e conclusão bem delimitados, embora a transição entre alguns parágrafos pudesse ser mais fluida."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de vírgula antes de 'todavia' na frase 'contribuem para a estabilidade interestatal; todavia a adoção' — o correto seria 'todavia, a adoção'.",
+      "Espaço duplo antes de 'e da autodeterminação' (erro tipográfico/formatação).",
+      "Uso impreciso de 'reafirma mais que a relevância' — a construção parece incompleta ou truncada; possivelmente deveria ser 'reafirma mais do que a relevância' ou 'reafirma não apenas a relevância'."
+    ],
+    "feedbacks": [
+      "A redação demonstra domínio consistente do tema, articulando conceitos de relações internacionais (Morgenthau, Clausewitz, Kant) com a citação machadiana de forma coerente e bem estruturada.",
+      "A interpretação da citação de Machado de Assis — preferir a queda idealista à queda pragmática — é pertinente e bem desenvolvida ao longo do texto, embora pudesse ser explorada com mais nuance literária, já que a frase original carrega ironia machadiana que não foi plenamente captada.",
+      "O texto apresenta boa coesão e encadeamento lógico, transitando do diagnóstico realista das relações internacionais para a fundação da ONU como expressão do idealismo. No entanto, há certa repetitividade: a mesma tese (perenidade do idealismo, fundação da ONU) é reiterada em vários parágrafos sem acréscimo substancial de argumentos novos.",
+      "O vocabulário é rico e adequado ao registro formal exigido pelo CACD, com uso preciso de termos como 'persecução', 'adstrita', 'concertação', 'alijada'. Contudo, o excesso de formalismo em alguns trechos pode comprometer a fluidez.",
+      "A argumentação, embora sólida, poderia ser mais sofisticada ao problematizar as limitações da própria ONU e do idealismo, em vez de apresentar uma narrativa predominantemente linear e otimista. A menção ao Dadaísmo é interessante, mas permanece superficial e poderia ter sido mais desenvolvida.",
+      "A conclusão retoma adequadamente a citação de Machado de Assis, fechando o ciclo argumentativo, mas o paralelo entre a citação e o fato histórico poderia ser mais orgânico e menos declaratório."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"permitiram lhe reunir\" — o pronome oblíquo deveria estar ligado ao verbo por hífen ou em próclise: 'permitiram-lhe reunir' ou 'lhe permitiram reunir'.",
+      "\"Política de apaziguamento\" — inconsistência no uso de maiúsculas: em outras ocorrências, o candidato grafa 'Política de Apaziguamento' com ambas as iniciais maiúsculas, mas aqui usa 'apaziguamento' com minúscula.",
+      "\"o ministro britânico Neville Chamberlain\" — Chamberlain era Primeiro-Ministro, não simplesmente 'ministro'. Embora não seja erro gramatical estrito, a imprecisão terminológica se repete e compromete a propriedade da linguagem.",
+      "\"pelo contrário, ela ajudou\" — após 'pelo contrário', seria mais adequado o uso de ponto e vírgula ou ponto final em vez de vírgula, dado que se trata de orações independentes com conectivo adversativo forte (vírgula antes de 'pelo contrário' gera emenda de vírgula)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que interpreta a citação machadiana, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma tanto a citação quanto o argumento central. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A argumentação é sólida e bem fundamentada historicamente. O candidato demonstra conhecimento consistente sobre a Política de Apaziguamento, o contexto europeu dos anos 1930, o Pacto Molotov-Ribbentrop e a entrada britânica na Segunda Guerra Mundial. A relação entre o fato histórico e a citação de Machado de Assis é bem construída e pertinente.",
+      "A capacidade de análise e reflexão é boa, com destaque para a contraposição entre idealismo e realismo na política externa britânica e a reflexão final sobre a necessidade de equilibrar princípios com análise realista. Contudo, a análise poderia ser mais aprofundada em alguns pontos — por exemplo, explorando mais as nuances da decisão britânica ou as limitações da analogia entre a citação e o fato histórico. A comparação com a França ('cair de um terceiro andar') é interessante, mas poderia ter sido mais desenvolvida.",
+      "A correção gramatical é bastante boa, com poucos deslizes. A linguagem é apropriada, com vocabulário rico e construções sintáticas variadas. Os erros identificados são relativamente menores e não comprometem a compreensão do texto.",
+      "Ponto de atenção: a referência a Chamberlain como 'ministro' em vez de 'Primeiro-Ministro' é uma imprecisão que, embora menor, poderia ser evitada em um concurso de alto nível como o CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"permitiram lhe reunir\" — o pronome oblíquo deveria estar ligado ao verbo por hífen ou em próclise: 'permitiram-lhe reunir' ou 'lhe permitiram reunir'. Há erro de colocação pronominal.",
+      "\"o ministro britânico Neville Chamberlain\" — Chamberlain era Primeiro-Ministro, não simplesmente 'ministro'. Embora não seja erro gramatical estrito, o uso impreciso do termo pode ser considerado impropriedade vocabular.",
+      "\"Política de apaziguamento\" — inconsistência no uso de maiúsculas: em uma ocorrência aparece 'Política de apaziguamento' (com 'a' minúsculo) e em outras 'Política de Apaziguamento' (com 'A' maiúsculo). Falta de padronização.",
+      "\"A declaração de guerra da Inglaterra ao Eixo\" — a declaração de guerra britânica em 1939 foi especificamente à Alemanha, não ao Eixo como um todo (o Eixo como aliança formal se consolidou depois). Trata-se de imprecisão factual que afeta a propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que interpreta a citação machadiana, desenvolvimento bem estruturado em parágrafos coesos e conclusão que retoma tanto o tema quanto a citação. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A argumentação é sólida e bem fundamentada historicamente. O candidato demonstra conhecimento do contexto da Política de Apaziguamento, do Pacto Molotov-Ribbentrop e da dinâmica que levou à Segunda Guerra Mundial. A relação entre o fato histórico e a citação de Machado de Assis é bem construída e pertinente, com a metáfora de 'cair das nuvens' (idealismo do apaziguamento) versus 'cair de um terceiro andar' (a queda da França) sendo particularmente eficaz.",
+      "A capacidade de análise e reflexão é notável. O candidato não se limita a narrar os fatos, mas os interpreta à luz da citação, estabelecendo paralelos entre idealismo/realismo na política internacional. A conclusão eleva a reflexão ao plano mais abstrato, discutindo a tensão entre princípios e pragmatismo na tomada de decisões. Contudo, poderia ter explorado com mais profundidade as nuances do 'idealismo' de Chamberlain — havia também cálculo estratégico e não apenas ingenuidade.",
+      "A linguagem é precisa e adequada, com vocabulário rico e construções sintáticas variadas. Os poucos erros identificados não comprometem a qualidade geral do texto. A redação demonstra maturidade argumentativa e domínio do tema escolhido."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"permitiram lhe reunir forças\" — o pronome oblíquo deveria estar ligado ao verbo por hífen ou sem espaço após 'permitiram-lhe', e a construção correta seria 'permitiram-lhe reunir forças' (uso de hífen na ênclise).",
+      "\"Política de apaziguamento\" — inconsistência no uso de maiúsculas: em outras ocorrências aparece como 'Política de Apaziguamento', mas aqui 'apaziguamento' está em minúscula.",
+      "\"o ministro britânico Neville Chamberlain\" — Chamberlain era Primeiro-Ministro, não simplesmente 'ministro'. Embora não seja erro gramatical estrito, a imprecisão terminológica se repete ('o ministro buscava').",
+      "\"A declaração de guerra da Inglaterra ao Eixo\" — a declaração de guerra britânica foi especificamente à Alemanha, não ao Eixo como um todo (o Eixo como aliança formal se consolidou depois). Trata-se de imprecisão factual, não gramatical, mas vale registro."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que interpreta a citação machadiana, desenvolvimento bem estruturado em parágrafos coerentes e conclusão que retoma tanto o tema quanto a citação. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A argumentação é sólida e bem fundamentada historicamente. O candidato demonstra conhecimento sobre a Política de Apaziguamento, o contexto europeu dos anos 1930, o Pacto Molotov-Ribbentrop e a dinâmica que levou à Segunda Guerra Mundial. A relação entre o fato histórico e a citação de Machado de Assis é bem construída e pertinente.",
+      "A capacidade de análise e reflexão é notável: o candidato não se limita a narrar os fatos, mas os interpreta à luz da citação, estabelecendo a dicotomia idealismo/realismo de forma consistente. A analogia entre 'cair das nuvens' (a desilusão britânica com o apaziguamento) e 'cair de um terceiro andar' (o destino da França) é particularmente engenhosa e demonstra sofisticação analítica.",
+      "A conclusão é bem elaborada, generalizando a reflexão para além do caso específico, ao afirmar que a defesa de princípios não pode se afastar de uma análise realista do contexto — o que demonstra maturidade argumentativa.",
+      "Há pequenas imprecisões factuais (referência a Chamberlain como 'ministro' em vez de 'Primeiro-Ministro'; declaração de guerra 'ao Eixo' quando foi especificamente à Alemanha), que, embora não comprometam gravemente a argumentação, poderiam ser evitadas.",
+      "Do ponto de vista gramatical, o texto é bastante correto, com pouquíssimos deslizes. A colocação pronominal em 'permitiram lhe' é o erro mais evidente. A inconsistência na capitalização de 'Política de Apaziguamento/apaziguamento' também merece atenção."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"permitiram lhe reunir forças\" — o pronome oblíquo deveria estar ligado ao verbo por hífen ou sem espaço: 'permitiram-lhe'",
+      "\"ministro britânico\" — Chamberlain era Primeiro-Ministro, não simplesmente 'ministro'; embora não seja erro gramatical estrito, é uma imprecisão de registro",
+      "\"A declaração de guerra da Inglaterra ao Eixo\" — a declaração de guerra foi à Alemanha, não ao Eixo como um todo naquele momento; trata-se de imprecisão factual, não gramatical"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente organização textual, com introdução clara que interpreta a citação, desenvolvimento bem estruturado em parágrafos coerentes e conclusão que retoma o tema de forma reflexiva.",
+      "O candidato faz boa relação entre a citação machadiana e o fato histórico escolhido (a Política de Apaziguamento britânica), demonstrando capacidade argumentativa e conhecimento histórico sólido.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário preciso. A construção frasal é sofisticada e bem articulada.",
+      "O encadeamento das ideias é lógico e fluido, com uso adequado de conectivos e transições entre parágrafos.",
+      "Há pequenas imprecisões históricas (como referir-se à declaração de guerra 'ao Eixo' quando foi especificamente à Alemanha, e chamar Chamberlain de 'ministro' em vez de 'Primeiro-Ministro'), mas que não comprometem significativamente a argumentação.",
+      "O tema proposto pede um fato da cultura brasileira ou da história mundial do século XX. O candidato escolheu um fato da história mundial e o desenvolveu de forma competente e bem fundamentada.",
+      "A conclusão é particularmente forte, generalizando a lição da citação para além do caso específico analisado, o que demonstra maturidade reflexiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"permitiram lhe reunir forças\" — o correto seria \"permitiram-lhe reunir forças\" (uso inadequado da próclise; deveria haver ênclise após verbo que inicia oração ou, alternativamente, a construção deveria ser reformulada)",
+      "\"pelo contrário, ela ajudou\" — uso de vírgula antes de \"pelo contrário\" em contexto que poderia exigir ponto e vírgula para separar orações coordenadas adversativas mais longas (questão menor de pontuação)",
+      "\"ministro britânico\" — Chamberlain era Primeiro-Ministro, não simplesmente \"ministro\"; embora não seja erro gramatical estrito, é uma imprecisão terminológica que pode ser considerada inadequação de linguagem"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que interpreta a citação, desenvolvimento bem estruturado em parágrafos coerentes e conclusão que retoma o tema de forma reflexiva.",
+      "A escolha do tema — a Política de Apaziguamento britânica e a transição para a Segunda Guerra Mundial — é pertinente e bem articulada com a citação de Machado de Assis. A analogia entre 'cair das nuvens' (despertar do idealismo) e 'cair de um terceiro andar' (sucumbir como a França) é bem construída.",
+      "O candidato demonstra bom conhecimento histórico, mencionando o Tratado de Versalhes, a anexação da Áustria e da Tchecoslováquia, o Pacto Molotov-Ribbentrop e a invasão da Polônia, embora pudesse aprofundar alguns desses pontos.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário preciso e registro formal. A argumentação é sólida e bem encadeada.",
+      "A conclusão é particularmente forte, generalizando a lição da citação para além do caso histórico específico, o que demonstra capacidade de reflexão.",
+      "Ponto de atenção: o texto poderia ter explorado com mais profundidade as nuances da política de apaziguamento e as razões estruturais que levaram à sua adoção, bem como poderia ter sido mais preciso ao chamar Chamberlain de 'Primeiro-Ministro' em vez de 'ministro'."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"permitiram lhe reunir forças\" — o pronome oblíquo deveria estar ligado ao verbo por hífen ou sem espaço: 'permitiram-lhe'",
+      "\"ministro britânico\" — Chamberlain era Primeiro-Ministro, não simplesmente 'ministro'; embora não seja erro gramatical estrito, é uma imprecisão de registro",
+      "\"declaração de guerra da Inglaterra ao Eixo\" — imprecisão histórica: a declaração de guerra foi à Alemanha, não ao Eixo como um todo, que ainda não existia formalmente em setembro de 1939"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que interpreta a citação, desenvolvimento bem estruturado e conclusão que retoma o tema de forma coerente.",
+      "O candidato demonstra boa capacidade argumentativa ao relacionar a citação machadiana à Política de Apaziguamento britânica, estabelecendo paralelos convincentes entre o idealismo/realismo da frase e a mudança de postura da Inglaterra.",
+      "O encadeamento das ideias é fluido e lógico, com uso adequado de conectivos e transições entre parágrafos.",
+      "A linguagem é formal e adequada ao contexto do concurso, com vocabulário preciso e variado.",
+      "Há pequenas imprecisões históricas (referência a Chamberlain como 'ministro', declaração de guerra 'ao Eixo'), que, embora não comprometam gravemente a argumentação, revelam falta de rigor factual.",
+      "O erro de colocação pronominal ('permitiram lhe') é pontual e não compromete a qualidade geral do texto.",
+      "A conclusão é bem elaborada, generalizando a reflexão para além do caso específico e demonstrando maturidade argumentativa.",
+      "O tema escolhido — história mundial do século XX — atende plenamente ao enunciado proposto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"permitiram lhe reunir forças\" — o pronome oblíquo deveria estar ligado ao verbo por hífen ou sem espaço: 'permitiram-lhe reunir forças'.",
+      "\"ministro britânico\" — Neville Chamberlain era Primeiro-Ministro, não simplesmente 'ministro'. Embora não seja erro gramatical estrito, é uma imprecisão de registro/propriedade da linguagem.",
+      "\"os ingleses vão 'cair das nuvens'\" — mudança abrupta de tempo verbal (presente do indicativo) em meio a uma narrativa predominantemente no pretérito, gerando inconsistência temporal."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão da citação machadiana e a relaciona de forma pertinente e bem articulada a um fato histórico relevante do século XX — a Política de Apaziguamento britânica e a eclosão da Segunda Guerra Mundial.",
+      "A estrutura do texto é clara e bem organizada: introdução com interpretação da citação, desenvolvimento histórico com contextualização adequada, e conclusão que retoma a citação e oferece reflexão mais ampla. O encadeamento das ideias é lógico e coeso.",
+      "A argumentação é consistente e demonstra conhecimento histórico razoável, embora algumas afirmações pudessem ser mais matizadas — por exemplo, a ideia de que a Inglaterra 'nada fez' diante do expansionismo alemão é uma simplificação, e a comparação com a França ('cair de um terceiro andar') poderia ser mais desenvolvida.",
+      "O domínio da norma culta é bom, com linguagem adequada ao contexto do concurso. Há poucos deslizes, como a colocação pronominal inadequada em 'permitiram lhe'.",
+      "Para alcançar uma faixa superior, a redação poderia aprofundar a análise da citação machadiana (explorando, por exemplo, o contexto original em Memórias Póstumas), diversificar os argumentos históricos e apresentar uma reflexão mais sofisticada sobre a tensão entre idealismo e realismo nas relações internacionais, possivelmente dialogando com teorias de relações internacionais.",
+      "A conclusão é bem construída e eleva o texto ao generalizar a lição extraída do caso histórico, conectando-a de volta à citação de forma orgânica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"permitiram lhe reunir forças\" — o pronome oblíquo deveria estar ligado ao verbo por hífen ou sem espaço: 'permitiram-lhe reunir forças'.",
+      "\"Política de apaziguamento\" — inconsistência no uso de maiúsculas: em algumas ocorrências aparece 'Política de Apaziguamento' e em outra 'Política de apaziguamento'.",
+      "\"ministro britânico\" — Neville Chamberlain era Primeiro-Ministro, não simplesmente 'ministro'; embora não seja erro gramatical estrito, é uma imprecisão de linguagem que se repete."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura argumentativa, com introdução clara que interpreta a citação, desenvolvimento que a relaciona a um fato histórico relevante e conclusão que retoma a reflexão de forma coerente.",
+      "A escolha do tema — a Política de Apaziguamento britânica e a ascensão do Nazismo — é pertinente e bem articulada com a citação de Machado de Assis. A metáfora de 'cair das nuvens' versus 'cair de um terceiro andar' é explorada de maneira eficaz ao longo do texto.",
+      "O texto demonstra bom domínio da norma culta, com vocabulário adequado e períodos bem construídos. A linguagem é formal e compatível com o nível exigido pelo CACD.",
+      "A argumentação, embora coerente e bem encadeada, poderia ser mais sofisticada em alguns pontos. Por exemplo, a afirmação de que a França 'caiu de um terceiro andar' é uma simplificação que mereceria maior desenvolvimento. Além disso, a análise poderia explorar nuances adicionais, como as motivações internas britânicas ou o papel de Churchill na mudança de postura.",
+      "A conclusão é bem construída e eleva o texto ao generalizar a lição extraída do episódio histórico, conectando-a à tensão entre idealismo e realismo na tomada de decisões — o que demonstra capacidade reflexiva.",
+      "Pequena imprecisão histórica: referir-se a Chamberlain como 'ministro britânico' em vez de 'Primeiro-Ministro' pode ser considerado um deslize de precisão terminológica, relevante no contexto do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"permitiram lhe reunir forças\" — o pronome oblíquo deveria estar ligado ao verbo por hífen ou sem espaço após 'permitiram-lhe', e a construção correta seria 'permitiram-lhe reunir forças' (uso de hífen na ênclise).",
+      "\"o ministro britânico Neville Chamberlain\" — Chamberlain era Primeiro-Ministro, não simplesmente 'ministro'; embora não seja erro gramatical estrito, a imprecisão terminológica compromete a propriedade da linguagem.",
+      "\"Política de apaziguamento\" — inconsistência no uso de maiúsculas: em uma ocorrência aparece 'Política de apaziguamento' e em outras 'Política de Apaziguamento'."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão da citação machadiana e estabelece uma relação pertinente e bem articulada com a política de apaziguamento britânica nos anos 1930. A interpretação da frase — contrapondo idealismo arriscado a realismo pragmático — é coerente e sustentada ao longo do texto.",
+      "A estrutura do texto é clara e bem organizada: apresenta a interpretação da citação, contextualiza o fato histórico, desenvolve a argumentação e retorna à citação na conclusão. O encadeamento lógico é consistente.",
+      "A argumentação é sólida, embora relativamente previsível. A analogia entre 'cair das nuvens' (despertar britânico) e 'cair de um terceiro andar' (destino da França) é um ponto alto do texto, demonstrando criatividade na aplicação da citação.",
+      "O parágrafo conclusivo é bem construído, ampliando a reflexão para além do caso específico e extraindo uma lição mais universal sobre a tensão entre idealismo e realismo na tomada de decisões políticas.",
+      "Para alcançar a faixa 'Excelente', o texto poderia aprofundar a análise com maior sofisticação — por exemplo, explorando nuances da citação machadiana no contexto original da obra, ou discutindo com mais profundidade as implicações teóricas da dicotomia idealismo/realismo nas relações internacionais. Além disso, a menção ao enunciado pedia um fato da 'cultura brasileira' ou da 'história mundial'; o candidato escolheu história mundial, o que é válido, mas poderia ter explorado a dimensão cultural do fato escolhido com mais riqueza.",
+      "Há pequenas imprecisões históricas (como chamar Chamberlain de 'ministro' sem especificar 'Primeiro-Ministro') que, embora não comprometam gravemente o texto, poderiam ser evitadas em um concurso de alto nível."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"para os alcançar\" — colocação pronominal inadequada no registro formal; o mais adequado seria \"para alcançá-los\".",
+      "\"de se guiar as ações\" — falta de concordância ou regência inadequada; o correto seria \"de se guiarem as ações\" (concordância com 'ações') ou reformulação da frase.",
+      "\"denominada de geração regionalista\" — regência inadequada do particípio 'denominada'; o correto é \"denominada geração regionalista\" (sem a preposição 'de').",
+      "\"O radicalismo das concepções nacionalistas do 'Manifesto Pau-brasil' e do 'Manifesto do Verde-amarelismo' atestam\" — erro de concordância verbal; o sujeito é 'O radicalismo', portanto o verbo deveria ser 'atesta'.",
+      "\"catalizadas\" — erro ortográfico; a grafia correta é \"catalisadas\"."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução clara que interpreta a citação machadiana, desenvolvimento em parágrafos temáticos sobre o Modernismo e conclusão que retoma a tese. O estilo é fluido e coerente, com boa legibilidade. A conexão com a citação é feita de forma orgânica ao longo do texto, embora em alguns momentos a analogia com 'cair das nuvens' versus 'cair de um terceiro andar' pudesse ser explorada com mais precisão semântica. A impressão geral é de um texto maduro e bem redigido.",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do conteúdo ao abordar as diferentes gerações modernistas, citando autores (Mário de Andrade, Oswald de Andrade, Graciliano Ramos, Gilberto Freyre) e obras (Vidas Secas, manifestos). A argumentação é sistemática, percorrendo a primeira geração (liberdade formal), a segunda geração (regionalismo) e a formação da identidade nacional. Há pertinência nas informações apresentadas. Contudo, a referência a Dom Quixote na introdução, embora interessante, ocupa espaço sem contribuir diretamente para o desenvolvimento do tema. Além disso, a classificação do Simbolismo e do Parnasianismo como movimentos de 'apego às normas da linguagem culta' é uma simplificação. A menção a Gilberto Freyre como 'sociólogo demiurgo' é imprecisa — o termo mais consagrado é 'intérprete do Brasil' ou 'pensador demiurgo' no sentido usado por alguns críticos, mas a formulação pode gerar estranhamento.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade reflexiva ao contrapor idealismo e utilitarismo, ao analisar o radicalismo da primeira geração modernista e seu posterior amadurecimento, e ao discutir os efeitos duradouros do movimento. A reflexão sobre a segunda geração e a sensibilização social provocada pela literatura regionalista é pertinente. No entanto, a análise poderia ser mais profunda na interpretação da citação machadiana — a frase original sugere que é preferível a desilusão (cair das nuvens/ilusão) à queda concreta e perigosa (terceiro andar/realidade), o que tem nuances que o candidato simplifica ao reduzi-la a uma 'defesa do idealismo'. Essa interpretação, embora válida, perde parte da ironia e da ambiguidade típicas de Machado de Assis. A reflexão final é competente, mas poderia apresentar maior originalidade.",
+      "Nota sobre correção gramatical: Foram identificados 5 erros gramaticais. A redação apresenta, no geral, bom domínio da norma culta, com vocabulário adequado e construções sintáticas bem elaboradas. Os erros encontrados são pontuais e não comprometem significativamente a compreensão do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"para os alcançar\" — embora não seja erro categórico em português europeu, no padrão brasileiro culto a colocação pronominal preferencial seria \"para alcançá-los\" (próclise/ênclise inadequada ao registro).",
+      "\"guiar as ações\" — possível problema de regência/concordância com o sujeito indeterminado \"se\"; a construção \"de se guiarem as ações\" seria mais adequada, com o infinitivo flexionado concordando com \"ações\".",
+      "\"denominada de geração regionalista\" — o verbo \"denominar\" no sentido de \"chamar\" não rege a preposição \"de\"; o correto seria \"denominada geração regionalista\".",
+      "\"atestam as dificuldades\" — o sujeito é \"O radicalismo das concepções nacionalistas\", cujo núcleo é \"radicalismo\" (singular); o verbo deveria estar no singular: \"atesta\".",
+      "\"catalizadas\" — grafia incorreta; o correto é \"catalisadas\", com \"s\"."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que interpreta a citação machadiana, desenvolvimento bem estruturado em torno do Modernismo brasileiro e conclusão que retoma a tese central. O estilo é fluido e adequado ao registro formal exigido pelo CACD.",
+      "A argumentação é consistente e bem fundamentada, com referências pertinentes a autores (Mário de Andrade, Oswald de Andrade, Graciliano Ramos, Gilberto Freyre), obras (Vidas Secas, Dom Quixote, Memórias Póstumas de Brás Cubas) e manifestos (Pau-Brasil, Verde-amarelismo). A conexão entre o Modernismo e a citação machadiana é bem construída, especialmente no trecho sobre o regionalismo e a metáfora do 'terceiro andar'.",
+      "A capacidade de análise e reflexão é boa, com a distinção entre idealismo e pragmatismo utilitarista, e a percepção de que o radicalismo inicial do Modernismo precisou ser temperado pelas gerações subsequentes. No entanto, a reflexão poderia ser mais profunda em alguns pontos: a relação entre Dom Quixote e a citação machadiana é mencionada mas não desenvolvida; a análise do regionalismo como instrumento de transformação social poderia explorar mais as tensões e contradições do processo. A interpretação da citação machadiana como defesa do idealismo é válida, embora algo simplificadora — Machado frequentemente opera com ironia, e a frase pode conter camadas de ambiguidade que não foram exploradas.",
+      "O texto demonstra domínio da norma culta, com poucos erros gramaticais. A linguagem é precisa e o vocabulário é rico e adequado. Os erros identificados são relativamente menores e não comprometem a compreensão do texto.",
+      "Ponto positivo: a integração orgânica entre a citação machadiana e o tema escolhido (Modernismo), com retomadas ao longo do texto que evitam a mera justaposição entre interpretação da frase e exposição do fato histórico-cultural."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"para os alcançar\" — colocação pronominal inadequada no registro formal; o mais adequado seria \"para alcançá-los\".",
+      "\"de se guiar as ações\" — falta de concordância ou regência inadequada; o correto seria \"de se guiarem as ações\" (concordância com 'ações') ou reestruturação da frase.",
+      "\"denominada de geração regionalista\" — regência inadequada do particípio 'denominada'; o correto é \"denominada geração regionalista\" (sem a preposição 'de').",
+      "\"O radicalismo das concepções nacionalistas do 'Manifesto Pau-brasil' e do 'Manifesto do Verde-amarelismo' atestam\" — erro de concordância verbal; o sujeito é 'O radicalismo', portanto o verbo deveria ser 'atesta'.",
+      "\"catalizadas\" — erro ortográfico; a grafia correta é \"catalisadas\"."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com parágrafos organizados logicamente (introdução com interpretação da citação, desenvolvimento com o Modernismo em suas gerações, e conclusão retomando a tese). O estilo é formal e adequado ao gênero dissertativo-argumentativo do CACD. A coerência é mantida ao longo do texto, com transições fluidas entre os parágrafos. A referência a Dom Quixote na introdução, embora interessante, poderia ter sido mais bem integrada ao desenvolvimento ou suprimida, pois não retorna no restante do texto. Nota: 8.5",
+      "1B – Capacidade de argumentação: O candidato demonstra bom domínio do tema escolhido (Modernismo brasileiro), apresentando informações pertinentes sobre as diferentes gerações modernistas, citando autores (Mário de Andrade, Oswald de Andrade, Graciliano Ramos, Gilberto Freyre) e obras (Vidas Secas, manifestos). A relação com a citação machadiana é estabelecida de forma razoável, interpretando 'cair das nuvens' como a busca de ideais grandiosos e improváveis versus a queda de um 'terceiro andar' como a limitação pragmática. Contudo, a interpretação da citação poderia ser mais aprofundada — a frase machadiana admite nuances sobre desilusão e pragmatismo que não foram plenamente exploradas. A atribuição da citação a Memórias Póstumas de Brás Cubas é plausível, mas o candidato poderia ter explorado o contexto irônico em que Machado a emprega, o que enriqueceria a análise. A classificação do Simbolismo e do Parnasianismo como movimentos de 'apego às normas da linguagem culta' é simplificadora. Nota: 8.0",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao articular as diferentes fases do Modernismo com a tese central sobre idealismo versus pragmatismo. A reflexão sobre como o radicalismo inicial precisou ser temperado pelas gerações seguintes é pertinente e bem conduzida. A menção a Gilberto Freyre como 'sociólogo demiurgo' é interessante, embora o termo 'demiurgo' mereça cautela por suas conotações. A análise da segunda geração modernista e sua contribuição para a conscientização social é bem articulada, com a metáfora do 'terceiro andar' aplicada de forma criativa. Porém, a reflexão poderia ter sido mais profunda quanto às tensões e contradições do Modernismo, e a conclusão, embora competente, é algo previsível. A interpretação da citação machadiana como defesa do idealismo é válida, mas unidimensional — Machado frequentemente emprega ironia, e ignorar essa camada limita a análise. Nota: 7.5",
+      "Correção gramatical: Foram identificados 5 erros gramaticais. O texto, de modo geral, apresenta boa correção linguística e vocabulário sofisticado, com poucos deslizes."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"guiar as ações\" - possível questão de regência/concordância com o pronome 'se' (indicado pelo próprio candidato com asterisco)",
+      "\"atestam\" deveria ser \"atesta\" - o sujeito é \"O radicalismo\", núcleo no singular, exigindo concordância no singular (indicado pelo candidato com duplo asterisco)",
+      "\"catalizadas\" - grafia incorreta; o correto é \"catalisadas\"",
+      "\"denominada de geração regionalista\" - regência inadequada; o correto seria \"denominada geração regionalista\" (sem a preposição 'de')"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente organização textual, com introdução clara que interpreta a citação machadiana, desenvolvimento bem estruturado em torno do Modernismo brasileiro e conclusão que retoma a tese central.",
+      "O candidato demonstra conhecimento sólido sobre o Modernismo e suas gerações, fazendo referências pertinentes a autores e obras (Mário de Andrade, Oswald de Andrade, Graciliano Ramos, Gilberto Freyre).",
+      "A relação entre a citação de Machado de Assis e o fato cultural escolhido (Modernismo) é bem construída, especialmente no trecho que associa os ideais modernistas à metáfora de 'cair das nuvens' versus 'cair de um terceiro andar'.",
+      "A argumentação é consistente e bem encadeada, com transições lógicas entre os parágrafos. O candidato demonstra capacidade reflexiva ao contrapor idealismo e pragmatismo.",
+      "Ponto de atenção: a interpretação da citação machadiana como defesa do idealismo é válida, embora a frase original comporte também leituras irônicas típicas de Machado. O candidato poderia ter explorado essa ambiguidade.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário sofisticado e registro formal bem mantido ao longo do texto.",
+      "Pequena imprecisão: atribuir ao Simbolismo e ao Parnasianismo 'apego às normas da linguagem culta' como crítica modernista é simplificação aceitável, mas o Simbolismo já apresentava rupturas formais significativas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"guiar as ações\" - possível questão de regência/concordância com o pronome 'se' (indicado pelo próprio candidato com asterisco)",
+      "\"atestam\" deveria ser \"atesta\" - o sujeito é \"O radicalismo\", núcleo no singular, exigindo concordância no singular (indicado pelo candidato com duplo asterisco)",
+      "\"catalizadas\" - grafia incorreta; o correto é \"catalisadas\"",
+      "\"denominada de geração regionalista\" - regência inadequada; o correto seria \"denominada geração regionalista\" (sem a preposição 'de')"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente organização textual, com introdução clara que apresenta a tese, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma os argumentos principais.",
+      "O candidato demonstra bom repertório cultural e histórico ao abordar o Modernismo brasileiro, suas gerações e seus desdobramentos, relacionando-os adequadamente à citação machadiana.",
+      "A articulação entre a citação de Machado de Assis e o fato cultural escolhido (Modernismo) é bem construída, especialmente na analogia entre os ideais 'nas nuvens' e as ambições modernistas.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário sofisticado e registro formal consistente.",
+      "Ponto de atenção: a interpretação da citação machadiana como defesa do idealismo é válida, embora a frase original tenha uma dimensão irônica que poderia ter sido explorada com mais profundidade. Machado frequentemente usa ironia, e a citação pode ser lida também como um comentário sobre a preferência pela ilusão em detrimento da realidade concreta.",
+      "A referência a Dom Quixote na introdução, embora pertinente, ocupa espaço que poderia ser dedicado ao aprofundamento do tema central.",
+      "Há poucos erros gramaticais, o que demonstra bom domínio da norma culta, mas os existentes são relevantes (concordância verbal e ortografia)."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"guiar as ações\" - possível questão de regência/concordância com o pronome 'se' (indicado pelo próprio candidato com asterisco)",
+      "\"atestam\" deveria ser \"atesta\" - o sujeito é \"O radicalismo\", núcleo no singular, exigindo concordância no singular (indicado pelo candidato com duplo asterisco)",
+      "\"catalizadas\" - grafia incorreta; o correto é \"catalisadas\"",
+      "\"denominada de geração regionalista\" - regência inadequada; o correto seria \"denominada geração regionalista\" (sem a preposição 'de')"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente organização textual, com introdução clara que interpreta a citação machadiana, desenvolvimento bem estruturado em torno do Modernismo brasileiro e conclusão que retoma a tese central.",
+      "O candidato demonstra repertório cultural sólido, mencionando obras e autores relevantes (Machado de Assis, Cervantes, Mário de Andrade, Oswald de Andrade, Graciliano Ramos, Gilberto Freyre) e manifestos modernistas.",
+      "A relação entre a citação de Machado de Assis e o fato cultural escolhido (Modernismo) é bem construída, especialmente no trecho que associa o idealismo da primeira geração modernista à metáfora de 'cair das nuvens'.",
+      "A argumentação é consistente e bem encadeada, mostrando como o idealismo modernista, apesar de seus excessos iniciais, produziu transformações duradouras na cultura brasileira.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário sofisticado, embora em alguns momentos a construção seja ligeiramente prolixa.",
+      "Ponto de atenção: a interpretação da citação machadiana como defesa do idealismo é válida, mas poderia ter sido problematizada com mais profundidade, considerando a ironia característica de Machado de Assis, que pode sugerir uma leitura menos linear da frase.",
+      "A divisão do Modernismo em gerações e a análise de suas contribuições específicas demonstram conhecimento aprofundado do tema, fortalecendo a argumentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.5,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"teve consequência o surgimento\" — falta a preposição 'como': deveria ser 'teve como consequência o surgimento'",
+      "\"conviviam de modo próspero e conflito\" — falta de paralelismo e erro de concordância/sentido; deveria ser 'próspero e conflituoso' ou 'de modo próspero, sem conflito'",
+      "\"destacou-se de mediocridade\" — falta do artigo: 'destacou-se da mediocridade'",
+      "\"Ícaro concebeu asas\" — imprecisão lexical; no mito, quem concebeu as asas foi Dédalo, pai de Ícaro. Embora não seja erro gramatical estrito, constitui impropriedade de linguagem.",
+      "\"A aproximação derreteu a cera de suas asas, e Ícaro despencou.\" — vírgula antes de 'e' ligando orações com mesmo sujeito implícito é discutível, mas aceitável; porém o uso de 'despencou' é coloquial para o registro esperado.",
+      "\"foi adotado modelo autoritário\" — falta de artigo: 'foi adotado um modelo autoritário'",
+      "\"sofreu revolução, em 1917\" — a vírgula antes de 'em 1917' quebra indevidamente o complemento circunstancial; além disso, falta artigo: 'sofreu uma revolução em 1917'"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização geral, com introdução que interpreta a citação, desenvolvimento com exemplos históricos e conclusão que retoma a tese. A estrutura é clara e o estilo é adequado ao gênero dissertativo.",
+      "A interpretação da citação de Machado de Assis é interessante — a ideia de que é preferível aspirar ao grandioso e fracassar do que permanecer na mediocridade —, mas a conexão com o mito de Ícaro contém imprecisão factual relevante: no mito, quem concebeu as asas foi Dédalo, não Ícaro. Além disso, a relação entre a citação e a Primeira Guerra Mundial é construída de forma um tanto forçada em alguns momentos.",
+      "A argumentação mobiliza referências culturais e históricas pertinentes (Stefan Zweig, Thomas Mann, Freud, Império Austro-Húngaro), o que demonstra repertório. Contudo, a análise poderia ser mais aprofundada: a relação entre a grandeza dos impérios e a citação machadiana é repetida diversas vezes sem ganhar profundidade analítica ao longo do texto.",
+      "A capacidade de reflexão é razoável, mas o candidato tende a reiterar a mesma ideia central sem explorá-la com nuances. A conclusão, ao mencionar Machado de Assis como alguém que 'destacou-se da mediocridade', parece apressada e pouco desenvolvida, funcionando quase como um apêndice desconectado.",
+      "Há erros gramaticais pontuais, especialmente de regência e omissão de artigos/preposições, que comprometem parcialmente a correção linguística esperada no nível do CACD.",
+      "O enunciado permitia comentar um fato da cultura brasileira OU da história mundial. O candidato escolheu a história mundial (Primeira Guerra Mundial), o que é válido. Porém, a menção final a Machado de Assis como figura da cultura brasileira parece uma tentativa de cobrir ambas as opções sem desenvolver adequadamente nenhuma delas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.5,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"teve consequência o surgimento\" — falta a preposição 'como': deveria ser 'teve como consequência o surgimento'",
+      "\"conviviam de modo próspero e conflito\" — falta de paralelismo e inadequação lexical; deveria ser 'próspero e conflituoso' ou 'de modo próspero, sem conflito'",
+      "\"destacou-se de mediocridade\" — regência inadequada; deveria ser 'destacou-se da mediocridade'",
+      "\"Ícaro concebeu asas\" — imprecisão lexical/mitológica; quem concebeu as asas foi Dédalo, não Ícaro; além disso, 'concebeu' é impreciso, seria mais adequado 'fabricou' ou 'construiu'",
+      "\"voar pela janela\" — uso impreciso de 'janela' para referir-se à fuga do labirinto; embora não seja erro gramatical estrito, compromete a precisão",
+      "\"foi adotado modelo autoritário\" — falta de artigo: 'foi adotado um modelo autoritário'",
+      "\"o país fragmentou-se\" — embora aceitável, a construção com próclise seria mais natural após artigo definido em registro formal; erro menor de colocação pronominal"
+    ],
+    "feedbacks": [
+      "O texto apresenta boa organização geral, com introdução que interpreta a citação, desenvolvimento com exemplos históricos e conclusão que retoma a tese. A estrutura é clara e o estilo é adequado ao gênero dissertativo.",
+      "A interpretação da citação de Machado de Assis é interessante ao associá-la ao mito de Ícaro e à ideia de que é preferível aspirar ao grandioso e falhar do que permanecer na mediocridade. Contudo, a relação entre a citação e a Primeira Guerra Mundial é por vezes forçada e superficial.",
+      "A argumentação apresenta fragilidades lógicas significativas. A citação de Machado de Assis fala sobre a preferência por cair das nuvens (ilusão/idealismo) em vez de cair de um terceiro andar (queda concreta/real). A interpretação do candidato, embora criativa, não explora adequadamente a dimensão da ilusão versus realidade que a frase sugere. A conexão entre a grandeza dos impérios e a citação é tênue: dizer que os impérios 'caíram das nuvens' porque tinham grandes aspirações culturais é uma simplificação.",
+      "Há imprecisão factual relevante: o mito de Ícaro atribui a fabricação das asas a Dédalo (pai de Ícaro), não ao próprio Ícaro. Além disso, a fuga era de um labirinto, não de uma prisão com janela.",
+      "A menção a Stefan Zweig e Thomas Mann é pertinente e enriquece o texto, demonstrando repertório cultural. A referência a 'A Montanha Mágica' é bem empregada.",
+      "O último parágrafo tenta vincular Machado de Assis ao argumento, mas a conexão é abrupta e pouco desenvolvida. Dizer que Machado 'destacou-se de mediocridade' é vago e não contribui substancialmente para a argumentação.",
+      "A capacidade de análise e reflexão é mediana: o candidato demonstra conhecimento histórico razoável, mas a reflexão crítica sobre a citação e sua aplicação ao fato histórico carece de profundidade. A relação entre queda dos impérios e legado cultural como justificativa para 'cair das nuvens' precisaria de maior elaboração filosófica."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.5,
+    "nota_1B": 6.5,
+    "nota_1C": 6.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"teve consequência o surgimento\" — falta a preposição 'como': deveria ser 'teve como consequência o surgimento'",
+      "\"conviviam de modo próspero e conflito\" — falta de paralelismo e erro de concordância/regência; deveria ser 'de modo próspero e conflituoso' ou 'próspero, sem conflito'",
+      "\"destacou-se de mediocridade\" — falta do artigo: 'destacou-se da mediocridade'",
+      "\"Ícaro concebeu asas\" — imprecisão lexical; no mito, quem concebeu as asas foi Dédalo, pai de Ícaro. Embora não seja erro gramatical estrito, configura impropriedade de linguagem.",
+      "\"o país fragmentou-se\" — uso de próclise seria preferível após sujeito expresso ('o país se fragmentou'), embora a ênclise não seja considerada erro grave em todos os contextos",
+      "\"foi adotado modelo autoritário\" — falta de artigo: 'foi adotado um modelo autoritário'",
+      "\"sofreu revolução, em 1917\" — vírgula desnecessária antes de 'em 1917', quebrando a fluidez do complemento circunstancial"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura geral, com introdução, desenvolvimento e conclusão claramente delimitados. O texto é legível e mantém um estilo formal adequado ao concurso.",
+      "A interpretação da citação de Machado de Assis é razoável, associando-a à ideia de que é preferível aspirar ao grandioso e falhar do que permanecer na mediocridade. Contudo, a associação com o mito de Ícaro contém imprecisão factual relevante: no mito, quem concebeu as asas foi Dédalo, não Ícaro. Além disso, a citação machadiana admite outras leituras (como a preferência pela desilusão à queda concreta), e o candidato poderia ter explorado essa ambiguidade com mais profundidade.",
+      "A escolha da Primeira Guerra Mundial como fato histórico é pertinente e bem desenvolvida, com menções a Stefan Zweig, Thomas Mann, Freud e ao Império Austríaco, demonstrando repertório cultural. No entanto, a relação entre o fato histórico e a citação por vezes se torna forçada: a ideia de que a queda dos impérios foi 'preferível' porque deixou legado cultural é uma conexão que carece de maior sustentação argumentativa. A queda dos impérios não foi uma escolha consciente de 'cair das nuvens' em vez de 'cair de um terceiro andar'.",
+      "A capacidade de análise e reflexão é mediana. O candidato demonstra conhecimento histórico, mas a reflexão filosófica sobre a citação permanece superficial. A conclusão, ao mencionar que Machado de Assis 'destacou-se da mediocridade', parece apressada e desconectada do desenvolvimento anterior, que tratou exclusivamente de história mundial, não de cultura brasileira.",
+      "Há erros gramaticais pontuais, como a ausência de preposição ('teve consequência'), falta de artigos e problemas de paralelismo ('de modo próspero e conflito'). Esses erros, embora não numerosos, comprometem parcialmente a correção do texto.",
+      "Recomenda-se ao candidato aprofundar a reflexão sobre a citação, explorando suas múltiplas camadas de significado, e fortalecer a conexão lógica entre o fato histórico escolhido e a frase de Machado de Assis."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 48.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "\"teve consequência o surgimento\" — falta a preposição 'como': 'teve como consequência o surgimento'",
+      "\"conviviam de modo próspero e conflito\" — falta de paralelismo e inadequação lexical; deveria ser 'próspero e conflituoso' ou 'de modo próspero, sem conflito'",
+      "\"Nenhum especialista previu\" — o pretérito perfeito correto de 'prever' é 'previu' (aceitável, mas a forma culta mais consagrada é 'previu'; porém, a repetição da ideia de 'nenhum analista pôde prever' configura redundância estrutural)",
+      "\"destacou-se de mediocridade\" — falta do artigo: 'destacou-se da mediocridade'",
+      "\"Ícaro concebeu asas\" — imprecisão: no mito, quem concebeu as asas foi Dédalo, pai de Ícaro, não o próprio Ícaro"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento e conclusão bem delineados, e o encadeamento de ideias é geralmente claro e coerente.",
+      "A interpretação da citação de Machado de Assis é interessante e bem articulada, associando-a ao mito de Ícaro e à ideia de que é preferível aspirar ao grandioso e falhar do que permanecer na mediocridade.",
+      "A escolha da Primeira Guerra Mundial como fato histórico é pertinente e bem desenvolvida, com exemplos concretos (Império Austríaco, Reino Unido, Rússia) que enriquecem a argumentação.",
+      "Há um erro factual relevante: no mito grego, foi Dédalo (o pai) quem concebeu as asas, não Ícaro. Esse tipo de imprecisão compromete a credibilidade da argumentação.",
+      "A relação entre a citação e o fato histórico poderia ser mais aprofundada e menos repetitiva. A ideia central é reiterada diversas vezes sem acréscimo substancial de reflexão.",
+      "A conclusão, ao mencionar Machado de Assis como alguém que 'se destacou da mediocridade', parece forçada e desconectada do desenvolvimento anterior, enfraquecendo o fechamento do texto.",
+      "Alguns erros gramaticais e de regência comprometem levemente a qualidade linguística, embora o texto seja, no geral, bem escrito e com linguagem adequada ao contexto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 50.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"teve consequência o surgimento\" — falta a preposição \"como\": \"teve como consequência o surgimento\"",
+      "\"conviviam de modo próspero e conflito\" — falta de paralelismo/concordância; deveria ser \"próspero e conflituoso\" ou \"de modo próspero e de conflito\"",
+      "\"destacou-se de mediocridade\" — regência inadequada; o correto seria \"destacou-se da mediocridade\" (com artigo definido)",
+      "\"Nenhum analista pôde prever\" / \"Nenhum especialista previu\" — repetição de ideia quase idêntica em parágrafos distintos, embora não seja erro gramatical estrito, revela fragilidade na revisão textual"
+    ],
+    "feedbacks": [
+      "A redação demonstra boa capacidade de articulação entre a citação de Machado de Assis e o fato histórico escolhido (Primeira Guerra Mundial), construindo um fio condutor coerente ao longo do texto.",
+      "A interpretação da citação machadiana é razoável, embora a associação com o mito de Ícaro seja parcialmente imprecisa (na versão clássica, quem concebeu as asas foi Dédalo, pai de Ícaro, não o próprio Ícaro). Esse erro factual compromete levemente a credibilidade da argumentação inicial.",
+      "O texto apresenta bom repertório cultural e histórico, mencionando Stefan Zweig, Thomas Mann, Freud, o Império Austríaco, o Reino Unido e a Rússia, o que enriquece a argumentação.",
+      "A relação entre a citação e o fato histórico poderia ser mais aprofundada e menos repetitiva. A ideia central — de que é melhor aspirar à grandeza e cair do que permanecer na mediocridade — é reiterada diversas vezes sem ganhar profundidade analítica significativa a cada retomada.",
+      "O último parágrafo traz uma menção a Machado de Assis que parece forçada e pouco desenvolvida, funcionando mais como um apêndice do que como uma conclusão orgânica.",
+      "Há alguns erros de regência e construção sintática que, embora pontuais, prejudicam a fluência do texto.",
+      "A estrutura geral é bem organizada, com introdução, desenvolvimento e conclusão claramente delimitados, embora a conclusão pudesse ser mais sintética e impactante."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 50.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"teve consequência o surgimento\" — falta a preposição 'como': 'teve como consequência o surgimento'",
+      "\"conviviam de modo próspero e conflito\" — falta de paralelismo/concordância; deveria ser 'próspero e conflituoso' ou 'de modo próspero e de conflito'",
+      "\"destacou-se de mediocridade\" — regência inadequada; o correto seria 'destacou-se da mediocridade'",
+      "\"Ícaro concebeu asas\" — imprecisão lexical; no mito, quem concebeu as asas foi Dédalo, pai de Ícaro, não o próprio Ícaro"
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução, desenvolvimento e conclusão bem delimitados, e o encadeamento de ideias é, em geral, coerente e fluido.",
+      "A interpretação da citação de Machado de Assis é razoável, embora a associação com o mito de Ícaro contenha imprecisão factual (Dédalo, e não Ícaro, concebeu as asas), o que enfraquece a abertura do texto.",
+      "O desenvolvimento sobre a Primeira Guerra Mundial e a queda dos impérios é bem articulado, com referências culturais pertinentes (Stefan Zweig, Thomas Mann, Freud), demonstrando repertório do candidato.",
+      "A relação entre o fato histórico e a citação machadiana poderia ser mais aprofundada e menos repetitiva; o texto reitera a mesma ideia em vários parágrafos sem acrescentar camadas interpretativas significativas.",
+      "O último parágrafo tenta vincular Machado de Assis ao argumento, mas a conexão é superficial e parece forçada, funcionando mais como um adendo do que como uma conclusão orgânica.",
+      "Há alguns erros gramaticais pontuais (regência, paralelismo) que comprometem levemente a correção linguística, embora a linguagem seja, no geral, adequada ao registro formal exigido pelo concurso.",
+      "A argumentação poderia explorar com mais profundidade o sentido da citação — a preferência pelo risco grandioso em detrimento da segurança medíocre — em vez de se limitar a narrar eventos históricos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.0,
+    "nota_1B": 6.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Uso de 'neste' com vírgula isolando desnecessariamente: 'percebe-se que, neste, há diferentes aspectos' — construção truncada e com pontuação que prejudica a fluidez.",
+      "Falta de crase em 'necessários a sua contestação' — deveria ser 'necessários à sua contestação'.",
+      "Uso de asterisco (*) ao final de 'história mundial*' — marca estranha e inadequada em texto dissertativo formal.",
+      "Vírgula inadequada em 'conseguir lutar, por meio do esforço intelectual, contra a tirania, foi um fato relevante' — a intercalação excessiva de vírgulas gera ambiguidade e truncamento sintático.",
+      "Construção 'preferiam buscar corrigir as falhas desta a aceitar o pragmatismo autoritário' — embora gramaticalmente defensável, a sequência de infinitivos ('buscar corrigir') é estilisticamente problemática e gera estranhamento."
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio vocabular e capacidade de articular referências intelectuais diversas (Giddens, Lassale, Churchill, Borges), o que enriquece a argumentação. No entanto, a profusão de referências nem sempre é bem integrada ao argumento central, dando por vezes a impressão de erudição decorativa.",
+      "A interpretação da citação de Machado de Assis é razoável, mas poderia ser mais aprofundada e precisa. A leitura de que 'cair das nuvens' representa idealismo e 'cair de um terceiro andar' representa realismo derrotista é uma interpretação válida, porém a citação original tem nuances sobre desilusão versus consequências concretas que poderiam ter sido melhor exploradas. A relação entre a citação e o tema da democracia é estabelecida, mas de forma por vezes forçada.",
+      "A escolha do tema — expansão da democracia no século XX — é pertinente e relevante, mas o desenvolvimento é excessivamente genérico. O candidato menciona a República Federal da Alemanha como exemplo, mas não aprofunda com dados ou fatos históricos específicos. A argumentação tende a ser circular: a democracia é boa porque permite contestação, e a contestação é boa porque fortalece a democracia.",
+      "A estrutura do texto é razoavelmente organizada, com introdução, desenvolvimento e conclusão identificáveis, mas os parágrafos são longos e por vezes difíceis de acompanhar devido ao excesso de orações intercaladas e subordinadas. A coesão entre os parágrafos poderia ser mais fluida.",
+      "A capacidade de análise e reflexão é mediana: o candidato apresenta contrapontos (a crítica comunista às democracias liberais, o problema das oligarquias), mas não os desenvolve com profundidade suficiente. A reflexão permanece em nível superficial, sem explorar tensões ou contradições de forma mais incisiva.",
+      "A presença de um asterisco no corpo do texto sugere possível nota de rodapé ou marca de revisão não removida, o que prejudica a apresentação formal."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.0,
+    "nota_1B": 6.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Uso de 'neste' com vírgula isolando desnecessariamente: 'percebe-se que, neste, há diferentes aspectos' — construção truncada e com pontuação que prejudica a fluidez.",
+      "Falta de crase em 'necessários a sua contestação' — deveria ser 'necessários à sua contestação'.",
+      "Uso de asterisco (*) após 'história mundial*' — marca estranha e inadequada em texto dissertativo formal.",
+      "Vírgula indevida separando sujeito de predicado em 'a compreensão de que era possível conseguir lutar, por meio do esforço intelectual, contra a tirania, foi um fato relevante' — a última vírgula antes de 'foi' separa sujeito do verbo.",
+      "Construção redundante e truncada: 'era possível conseguir lutar' — o verbo 'conseguir' é desnecessário e torna a frase prolixa."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é coerente e apresenta um estilo formal adequado ao gênero dissertativo do CACD. A estrutura é razoavelmente organizada, com introdução, desenvolvimento e conclusão identificáveis. No entanto, o texto é excessivamente longo e, em vários trechos, prolixo, com períodos muito extensos que prejudicam a clareza. A ausência de parágrafos distintos (o texto parece ser um bloco único) compromete a organização visual e a legibilidade. A presença de um asterisco no corpo do texto é inadequada. Nota: 7.0",
+      "1B – Capacidade de argumentação: O candidato demonstra conhecimento de autores relevantes (Giddens, Lassale, Churchill, Borges) e os mobiliza para sustentar sua argumentação. Contudo, a relação entre a citação de Machado de Assis e o fato escolhido (expansão da democracia) é construída de forma um tanto forçada e genérica. A interpretação da citação como 'valorização do pensamento abstrato em contraposição ao realismo derrotista' é uma leitura possível, mas poderia ter sido mais bem fundamentada. O texto por vezes se dispersa em considerações laterais (comunismo, Lassale, Borges) sem aprofundar suficientemente a conexão com a citação. A escolha do 'fato relevante' é bastante ampla — a expansão da democracia no século XX — o que dificulta a objetividade e a sistematização exigidas. Nota: 6.5",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade reflexiva ao articular diferentes perspectivas sobre a democracia (crítica comunista, visão liberal, problema oligárquico). A menção à Alemanha pós-nazismo como exemplo concreto é pertinente. Porém, a análise permanece em nível relativamente superficial, sem aprofundar com rigor a tensão entre idealismo e pragmatismo que a citação machadiana sugere. A reflexão sobre a citação poderia explorar mais nuances — por exemplo, a ironia machadiana, o caráter de consolo da ilusão versus a brutalidade da realidade concreta. O texto tende a ser mais descritivo do que analítico em vários momentos. Nota: 6.5",
+      "Correção gramatical: Foram identificados 5 erros/problemas gramaticais e de propriedade da linguagem. O texto, de modo geral, apresenta domínio razoável da norma culta, mas contém problemas de pontuação (vírgulas separando sujeito de predicado), falta de crase e construções truncadas que comprometem parcialmente a fluência."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 7.0,
+    "nota_1B": 6.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Uso de 'neste' como referência anafórica quando 'nele' seria mais adequado em contexto formal ('percebe-se que, neste, há diferentes aspectos' — o pronome demonstrativo 'neste' deveria referir-se a algo próximo no discurso, mas refere-se a 'processo', já mencionado antes, cabendo 'nele').",
+      "Falta de crase em 'necessários a sua contestação' — deveria ser 'necessários à sua contestação'.",
+      "Uso de asterisco (*) ao final de frase ('história mundial*'), o que constitui marca inadequada no texto dissertativo.",
+      "Vírgula indevida em 'conseguir lutar, por meio do esforço intelectual, contra a tirania, foi um fato relevante' — a intercalação excessiva de vírgulas prejudica a clareza, embora individualmente cada vírgula possa ser justificada, o conjunto gera ambiguidade sintática.",
+      "Vírgula antes de 'e capacidades individuais sejam respeitadas' — em oração coordenada com sujeitos diferentes ligadas por 'e', a vírgula é aceitável, mas no contexto da frase a estrutura paralela com 'de modo que' torna a segunda oração subordinada, e a vírgula antes de 'e' quebra a fluência da subordinação."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma tese clara — a valorização do idealismo democrático como correspondente à metáfora machadiana de 'cair das nuvens' — e a desenvolve com razoável consistência ao longo do texto. No entanto, a interpretação da citação de Machado de Assis é parcialmente forçada: a frase original tem um tom irônico e pragmático (é melhor desiludir-se do que sofrer uma queda concreta e grave), e o candidato a transforma em uma 'valorização do pensamento abstrato', o que simplifica e distorce o sentido original. A ironia machadiana sugere que a desilusão é preferível à catástrofe real, não necessariamente uma defesa do idealismo.",
+      "A argumentação mobiliza referências relevantes (Giddens, Lassale, Churchill, Borges, Constituição dos EUA, República Federal da Alemanha), o que demonstra repertório cultural. Contudo, algumas referências são inseridas de forma superficial, sem aprofundamento analítico — por exemplo, a menção a Giddens e à globalização como 'produto da modernidade' não é suficientemente conectada ao argumento central sobre democracia e idealismo.",
+      "A capacidade de análise e reflexão é razoável, mas o texto tende à generalização e à repetição de ideias (a democracia é problemática, mas é melhor que o autoritarismo). Falta um aprofundamento mais incisivo sobre as tensões internas do argumento — por exemplo, o candidato menciona que a democracia pode ser uma 'oligarquia disfarçada', mas não explora essa contradição com profundidade.",
+      "A estrutura do texto carece de paragrafação adequada: todo o conteúdo está em um único bloco, o que prejudica a organização visual e lógica da argumentação. A divisão em parágrafos (introdução, desenvolvimento, conclusão) teria favorecido a clareza e a impressão geral.",
+      "O estilo é formal e adequado ao gênero, embora por vezes excessivamente prolixo, com períodos longos e intercalações que dificultam a leitura fluida."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 50.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'neste' com vírgula isolando desnecessariamente o pronome demonstrativo, gerando ambiguidade sintática: 'percebe-se que, neste, há diferentes aspectos'.",
+      "Uso de asterisco (*) ao final de uma frase, o que constitui marca inadequada em texto dissertativo formal.",
+      "Excesso de intercalações e orações subordinadas em alguns períodos, prejudicando a fluidez e a clareza, embora não constitua erro gramatical estrito, compromete a propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio da norma culta e vocabulário sofisticado, com referências culturais e filosóficas pertinentes (Giddens, Lassale, Borges, Churchill).",
+      "A interpretação da citação de Machado de Assis como valorização do pensamento abstrato e do idealismo em contraposição ao pragmatismo derrotista é válida, embora pudesse ser mais aprofundada e explorada com maior originalidade.",
+      "O fato histórico escolhido — a expansão da democracia no pós-Segunda Guerra Mundial — é relevante e adequado ao enunciado, sendo bem contextualizado na história mundial do século XX.",
+      "A argumentação é consistente e bem encadeada, com boa capacidade de reflexão, embora em alguns momentos o texto se torne excessivamente abstrato, perdendo conexão direta com a citação machadiana.",
+      "A relação entre a citação e o fato escolhido poderia ser mais explícita e recorrente ao longo do texto. A citação é retomada poucas vezes, e a conexão entre 'cair das nuvens' (desilusão idealista) e 'cair de um terceiro andar' (consequências do pragmatismo/autoritarismo) poderia ser mais explorada.",
+      "A estrutura do texto é predominantemente dissertativa e bem organizada, com introdução, desenvolvimento e conclusão identificáveis, embora a conclusão pudesse ser mais incisiva.",
+      "Alguns períodos são excessivamente longos e com muitas intercalações, o que dificulta a leitura em certos trechos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 50.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'neste' com vírgula intercalada de forma desnecessária, gerando truncamento sintático: 'percebe-se que, neste, há diferentes aspectos'.",
+      "Uso do asterisco (*) ao final de uma frase, recurso inadequado em redação dissertativa formal.",
+      "Excesso de intercalações e orações subordinadas que, em alguns trechos, comprometem a fluidez e a clareza da leitura, embora não constituam erros gramaticais estritos."
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio da norma culta e vocabulário sofisticado, com referências pertinentes a autores como Giddens, Lassale, Borges e Churchill, o que enriquece a argumentação.",
+      "A interpretação da citação de Machado de Assis é razoável, mas poderia ser mais aprofundada e precisa. A leitura de que 'cair das nuvens' representa idealismo e 'cair de um terceiro andar' representa realismo derrotista é válida, porém a conexão entre a citação e o tema da democracia poderia ser mais orgânica e menos tangencial ao longo do texto.",
+      "O texto apresenta boa capacidade argumentativa, mas a estrutura poderia ser mais enxuta e objetiva. Há trechos em que a argumentação se dispersa em considerações laterais (como a discussão sobre comunismo e oligarquias) que, embora pertinentes, diluem o foco central.",
+      "A relação entre o fato histórico escolhido (expansão da democracia no pós-Segunda Guerra) e a citação machadiana é estabelecida, mas de forma por vezes forçada. A citação é retomada poucas vezes ao longo do texto, o que enfraquece a coesão temática.",
+      "A conclusão é coerente e retoma adequadamente a tese central, fechando o texto de forma satisfatória.",
+      "A presença de um asterisco no corpo do texto é inadequada para o gênero dissertativo exigido no CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 50.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'neste' com vírgula intercalada de forma desnecessária, prejudicando a fluidez: 'percebe-se que, neste, há diferentes aspectos'",
+      "Uso de asterisco (*) ao final de frase sem justificativa aparente no texto, o que constitui inadequação formal",
+      "Excesso de intercalações e orações subordinadas em alguns períodos, gerando construções de difícil leitura, embora não sejam erros gramaticais estritos, comprometem a clareza"
+    ],
+    "feedbacks": [
+      "A redação demonstra bom domínio da norma culta e vocabulário sofisticado, com referências culturais e filosóficas pertinentes (Giddens, Lassale, Borges, Churchill).",
+      "A interpretação da citação de Machado de Assis como valorização do pensamento abstrato e do idealismo em contraposição ao pragmatismo derrotista é válida, embora pudesse ser mais aprofundada e explorada com maior originalidade.",
+      "O fato escolhido — a expansão da democracia no pós-Segunda Guerra — é relevante e adequado ao enunciado, porém o desenvolvimento por vezes se dispersa em considerações genéricas sobre democracia versus autoritarismo, sem aprofundar suficientemente a relação com a citação machadiana.",
+      "A estrutura argumentativa é coerente e bem encadeada, com boa progressão temática, embora alguns parágrafos sejam excessivamente longos e com períodos muito extensos, o que prejudica a clareza.",
+      "A conexão entre a citação e o fato histórico poderia ser mais orgânica ao longo do texto; ela aparece de forma mais explícita apenas em dois momentos, ficando o restante do texto mais voltado à discussão sobre democracia em si.",
+      "O uso de referências literárias e filosóficas enriquece o texto, mas a referência a Borges no final parece um pouco forçada e poderia ter sido melhor integrada à argumentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'neste' com vírgula isolando desnecessariamente o pronome demonstrativo, gerando fragmentação: 'percebe-se que, neste, há diferentes aspectos'.",
+      "Uso do asterisco (*) ao final de uma frase sem justificativa ou nota correspondente, o que constitui inadequação formal.",
+      "Excesso de intercalações e orações subordinadas em alguns períodos, prejudicando a clareza e a fluidez, embora não constitua erro gramatical estrito, compromete a propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A interpretação da citação de Machado de Assis é razoável, mas poderia ser mais aprofundada. A leitura de que 'cair das nuvens' representa o idealismo e 'cair de um terceiro andar' o realismo derrotista é válida, porém a conexão com o tema da democracia poderia ser mais orgânica e menos forçada ao longo do texto.",
+      "O texto demonstra erudição ao mobilizar referências variadas (Giddens, Lassale, Churchill, Borges), mas algumas dessas referências são inseridas de forma superficial, sem aprofundamento analítico suficiente. A menção a Borges no final, por exemplo, parece apressada.",
+      "A argumentação é coerente em linhas gerais, mas tende à circularidade: a ideia de que a democracia é imperfeita mas preferível ao autoritarismo é reiterada sem grande avanço analítico ao longo dos parágrafos.",
+      "A estrutura do texto carece de uma divisão mais clara em parágrafos. O texto se apresenta como um bloco único muito extenso, o que dificulta a leitura e a percepção da progressão argumentativa.",
+      "O domínio da norma culta é satisfatório, com períodos bem construídos em sua maioria, embora alguns sejam excessivamente longos e com intercalações que prejudicam a clareza.",
+      "A relação entre a citação machadiana e o fato histórico escolhido (expansão da democracia) poderia ser retomada com mais frequência e de forma mais explícita ao longo do desenvolvimento, em vez de aparecer apenas no início e no final."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'neste' com vírgula isolando desnecessariamente o pronome demonstrativo, gerando fragmentação: 'percebe-se que, neste, há diferentes aspectos'.",
+      "Uso do asterisco (*) ao final de uma frase sem justificativa ou nota correspondente, o que constitui inadequação formal.",
+      "Excesso de intercalações e orações subordinadas que comprometem a fluidez em diversos períodos, embora não configurem erro gramatical estrito, prejudicam a clareza."
+    ],
+    "feedbacks": [
+      "A interpretação da citação de Machado de Assis é razoável, mas poderia ser mais precisa e aprofundada. A frase 'Antes cair das nuvens, que de um terceiro andar' sugere que é preferível a desilusão (perder ilusões) à queda concreta e fatal — ou seja, valoriza o idealismo mesmo quando frustrado. O candidato capta parcialmente essa ideia, mas a conexão com a democracia, embora válida, é por vezes forçada e genérica.",
+      "O texto demonstra repertório cultural e intelectual apreciável, com referências a Giddens, Lassale, Churchill e Borges. No entanto, algumas dessas referências são inseridas de forma tangencial, sem aprofundamento suficiente para fortalecer a argumentação central.",
+      "A estrutura do texto carece de uma organização mais clara em termos de introdução, desenvolvimento e conclusão. O argumento se desenvolve de forma algo circular, retornando repetidamente à ideia de que a democracia é imperfeita mas preferível ao autoritarismo, sem avançar significativamente a cada retorno.",
+      "A escolha do 'fato relevante da história mundial' — a expansão da democracia no século XX — é bastante ampla e difusa. Um recorte mais preciso (por exemplo, a redemocratização da Alemanha Ocidental, que é mencionada mas não desenvolvida como eixo central) teria permitido uma argumentação mais concreta e convincente.",
+      "A linguagem é formal e adequada ao contexto do CACD, mas os períodos excessivamente longos e com múltiplas intercalações prejudicam a clareza e a fluidez da leitura. Recomenda-se maior concisão e períodos mais diretos.",
+      "A relação entre a citação machadiana e o fato escolhido poderia ser mais orgânica ao longo do texto, em vez de aparecer pontualmente. A metáfora de 'cair das nuvens' versus 'cair de um terceiro andar' merecia exploração mais rica e consistente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de asterisco (*) ao final de uma frase, o que constitui marca inadequada em texto dissertativo formal.",
+      "'faça que críticos' – embora 'fazer que' seja aceito por alguns gramáticos, a construção mais usual e segura na norma culta seria 'faça com que'.",
+      "'necessários a sua contestação' – falta de crase: 'necessários à sua contestação'."
+    ],
+    "feedbacks": [
+      "A interpretação da citação de Machado de Assis é razoável, mas poderia ser mais precisa e aprofundada. A frase original sugere que é preferível desiludir-se (cair das nuvens) a sofrer uma queda concreta e irreversível (cair de um terceiro andar). A leitura do candidato como 'valorização do pensamento abstrato em contraposição ao realismo derrotista' é uma interpretação válida, porém simplificadora, que não explora plenamente a ironia e o pragmatismo machadianos.",
+      "O texto apresenta boa estrutura e encadeamento lógico, com parágrafos que se conectam de forma coerente. A progressão temática é clara, partindo da tese geral sobre democracia, passando pelo contexto histórico do pós-guerra e chegando a exemplos concretos como a Alemanha Ocidental.",
+      "O repertório intelectual é diversificado (Giddens, Lassale, Churchill, Borges), o que demonstra erudição. No entanto, algumas referências parecem inseridas de forma um tanto forçada, sem aprofundamento suficiente – por exemplo, a menção a Giddens e à globalização como 'produto da modernidade' não é desenvolvida de modo a contribuir substancialmente para o argumento central.",
+      "A relação entre a citação machadiana e o tema da democracia, embora estabelecida, permanece um tanto superficial e repetitiva. O candidato retorna à citação em diferentes momentos, mas sem aprofundar significativamente a conexão a cada retomada.",
+      "A argumentação, embora coerente, tende ao previsível e ao genérico. Afirmações como 'a democracia é problemática, mas sua característica mais importante é a garantia dos meios necessários à sua contestação' são corretas, porém carecem de originalidade analítica para um concurso de alto nível como o CACD.",
+      "O texto é longo e, em alguns trechos, prolixo, com orações intercaladas que dificultam a fluidez da leitura. Uma escrita mais concisa e direta fortaleceria a argumentação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "'emediatamente' — grafia incorreta; o correto é 'imediatamente'.",
+      "'estado soviético' — 'Estado' deveria estar com inicial maiúscula, pois se refere à entidade política.",
+      "'A obra 1984 de George Orwell' — falta vírgula após '1984' para isolar o aposto: 'A obra 1984, de George Orwell,'.",
+      "'bem sucedidas' — o correto, conforme o Acordo Ortográfico, é 'bem-sucedidas' (com hífen).",
+      "'bem sucedidas' (segunda ocorrência no penúltimo parágrafo) — mesmo erro: 'bem-sucedidas'.",
+      "'as diferentes formas que as esquerdas lidaram' — regência inadequada; o correto é 'as diferentes formas com que (ou pelas quais) as esquerdas lidaram'.",
+      "'o fim do comunismo representou não só o caos político mas também' — falta vírgula antes de 'mas também': 'não só o caos político, mas também'.",
+      "'Coréia do Norte' — conforme o Acordo Ortográfico vigente, a grafia correta é 'Coreia do Norte' (sem acento)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara que conecta a citação de Machado de Assis ao tema escolhido (ascensão e queda do comunismo soviético), desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma a citação de forma coerente. O estilo é fluido e a leitura é agradável.",
+      "A argumentação é sólida e bem fundamentada, com referências históricas pertinentes (desestalinização, Orwell, Grande Salto Adiante, Pol Pot, Gorbatchev, Pacto de Varsóvia, Bolsa Família). O candidato demonstra conhecimento abrangente e consegue articular os fatos de forma objetiva e sistemática. Há boa capacidade de exemplificação e sustentação das teses.",
+      "A capacidade de análise e reflexão é um ponto forte da redação. O candidato faz uma interpretação criativa e pertinente da citação machadiana, distinguindo entre as esquerdas que se adaptaram ('caíram das nuvens') e as que não se adaptaram a tempo ('caíram do terceiro andar'). Essa dicotomia é explorada com profundidade ao longo do texto. Contudo, a análise poderia ser ainda mais sofisticada se explorasse nuances — por exemplo, questionando se a adaptação pragmática das esquerdas não representou também perdas significativas, ou se a metáfora machadiana comporta outras leituras. A reflexão, embora competente, tende a ser um pouco linear e unidirecional.",
+      "Quanto à correção gramatical, foram identificados 8 erros, incluindo problemas de ortografia ('emediatamente', 'Coréia'), ausência de hífen ('bem sucedidas'), falhas de pontuação e regência. São erros relativamente leves, mas que, em conjunto, comprometem parcialmente a nota de correção gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "'emediatamente' — grafia incorreta; o correto é 'imediatamente'.",
+      "'estado soviético' — 'Estado' deveria estar com inicial maiúscula, pois se refere à entidade política.",
+      "'A obra 1984 de George Orwell' — falta vírgula após '1984' para isolar o aposto: 'A obra 1984, de George Orwell,'.",
+      "'bem sucedidas' — o correto, conforme o Acordo Ortográfico, é 'bem-sucedidas' (com hífen).",
+      "'diferentes formas que as esquerdas lidaram' — regência inadequada; o correto é 'diferentes formas com que as esquerdas lidaram'.",
+      "'o fim das URSS' — concordância inadequada do artigo; o correto é 'o fim da URSS'.",
+      "'não só o caos político mas também' — falta vírgula antes de 'mas': 'não só o caos político, mas também'.",
+      "'bem sucedidas' (segunda ocorrência) — novamente, o correto é 'bem-sucedidas'."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura bem organizada, com introdução clara que conecta a citação de Machado de Assis ao tema escolhido (ascensão e queda do comunismo soviético e suas consequências para as esquerdas mundiais), desenvolvimento consistente e conclusão que retoma a tese e a citação de forma coerente.",
+      "O candidato demonstra boa capacidade argumentativa ao construir uma narrativa histórica que percorre desde o otimismo pós-guerra com o comunismo até a fragmentação da URSS, utilizando exemplos concretos (desestalinização, Grande Salto Adiante, Pol Pot, Gorbatchev, Bolsa Família, Polônia, Hungria, Coreia do Norte) para sustentar sua tese.",
+      "A interpretação da citação machadiana é criativa e bem articulada: a distinção entre 'cair das nuvens' (abandonar ilusões a tempo, de forma menos traumática) e 'cair de um terceiro andar' (sofrer consequências concretas e graves por não se adaptar) é aplicada de maneira inteligente à trajetória das esquerdas no século XX.",
+      "A capacidade de análise e reflexão é boa, embora pudesse ser aprofundada em alguns pontos. Por exemplo, a afirmação de que os EUA 'cooperavam com o regime do apartheid' é uma simplificação; a relação EUA-África do Sul era mais complexa. Além disso, a obra '1984' de Orwell foi publicada em 1949, antes do processo de desestalinização (1956), o que enfraquece ligeiramente a contextualização temporal.",
+      "Há alguns erros gramaticais e de grafia que comprometem parcialmente a correção linguística, como 'emediatamente', falta de hífen em 'bem-sucedidas', problemas de regência e concordância.",
+      "No geral, trata-se de uma redação de bom nível, com argumentação sólida, boa articulação entre a citação e o tema histórico, e estrutura textual clara, embora com margem para maior profundidade analítica e maior rigor gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "'emediatamente' — grafia incorreta; o correto é 'imediatamente'.",
+      "'estado soviético' — 'Estado' deveria estar com inicial maiúscula, pois se refere à entidade política.",
+      "'A obra 1984 de George Orwell' — falta vírgula após '1984' para isolar o aposto: 'A obra 1984, de George Orwell,'.",
+      "'bem sucedidas' — o correto, conforme o Acordo Ortográfico, é 'bem-sucedidas' (com hífen).",
+      "'diferentes formas que as esquerdas lidaram' — regência inadequada; o correto é 'diferentes formas com que as esquerdas lidaram'.",
+      "'das URSS' — o artigo deveria ser 'da URSS' (singular).",
+      "'não só o caos político mas também' — falta vírgula antes de 'mas': 'não só o caos político, mas também'.",
+      "'bem sucedidas' (segunda ocorrência) — novamente, o correto é 'bem-sucedidas'."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura bem organizada, com introdução clara que conecta a citação de Machado de Assis ao tema escolhido (ascensão e queda do comunismo soviético e suas consequências para as esquerdas mundiais), desenvolvimento consistente e conclusão que retoma a citação de forma coerente.",
+      "O candidato demonstra boa capacidade argumentativa ao construir uma narrativa histórica que percorre desde o otimismo pós-guerra com o comunismo até a fragmentação da URSS, utilizando exemplos concretos (desestalinização, Grande Salto Adiante, Pol Pot, Gorbatchev, Pacto de Varsóvia, Bolsa Família). A argumentação é pertinente e bem articulada.",
+      "A interpretação da citação machadiana é inteligente e original: a distinção entre 'cair das nuvens' (abandonar ilusões idealistas de forma gradual e pragmática) e 'cair de um terceiro andar' (sofrer consequências concretas e devastadoras por não se adaptar a tempo) é bem explorada e aplicada de forma consistente ao longo do texto.",
+      "Há alguns deslizes factuais ou imprecisões que merecem nota: a obra '1984' de Orwell foi publicada em 1949, antes do processo de desestalinização (que se inicia com o discurso de Khrushchov em 1956), embora a crítica ao totalitarismo soviético já existisse. Além disso, a afirmação de que os EUA 'cooperavam com o regime do apartheid' é uma simplificação, embora haja base histórica para a alegação de tolerância americana com o regime sul-africano durante a Guerra Fria.",
+      "O texto poderia ter explorado com mais profundidade a dimensão cultural brasileira, já que o enunciado oferecia essa possibilidade e a citação é de um autor brasileiro. A menção ao Bolsa Família é breve e superficial.",
+      "Quanto à correção gramatical, foram identificados 8 erros, incluindo problemas de ortografia ('emediatamente'), uso de hífen ('bem sucedidas'), regência ('formas que'), concordância de artigo ('das URSS') e pontuação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'emediatamente' em vez de 'imediatamente'",
+      "'estado' sem maiúscula quando se refere ao Estado soviético (entidade política)",
+      "'A obra 1984 de George Orwell' — falta de vírgulas para isolar o título ou aposto: 'A obra 1984, de George Orwell,'",
+      "'as diferentes formas que as esquerdas lidaram' — regência incorreta: deveria ser 'as diferentes formas com que as esquerdas lidaram'",
+      "'o fim das URSS' — concordância inadequada: deveria ser 'o fim da URSS'",
+      "'bem sucedidas' — grafia correta conforme o Acordo Ortográfico: 'bem-sucedidas' (ocorre duas vezes)",
+      "'Coréia' — grafia atualizada pelo Acordo Ortográfico: 'Coreia'"
+    ],
+    "feedbacks": [
+      "A redação apresenta uma tese clara e bem articulada, relacionando de forma inteligente a citação de Machado de Assis ao declínio do comunismo soviético e às diferentes trajetórias das esquerdas mundiais.",
+      "O desenvolvimento argumentativo é consistente e bem encadeado, com boa progressão temporal e lógica: do otimismo pós-guerra à desestalinização, aos fracassos do modelo planificado, às reformas de Gorbatchev e ao colapso final.",
+      "A relação entre a citação e o fato histórico é explorada de maneira convincente, distinguindo entre as esquerdas que 'caíram das nuvens' (adaptaram-se) e as que 'caíram do terceiro andar' (sofreram consequências concretas).",
+      "A menção a exemplos concretos (Pol Pot, Mao, Bolsa Família, Polônia, Hungria, Coreia do Norte) enriquece a argumentação e demonstra repertório.",
+      "Há alguns deslizes factuais ou imprecisões: a obra 1984 de Orwell foi publicada em 1949, antes do processo de desestalinização (1956), portanto o enquadramento temporal é impreciso. Além disso, a afirmação de que os EUA 'cooperavam com o regime do apartheid' é uma simplificação.",
+      "A conclusão é adequada, retomando a tese e a citação, embora seja um pouco extensa e repetitiva em relação ao que já foi argumentado.",
+      "Alguns erros gramaticais e ortográficos comprometem levemente a qualidade formal do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'emediatamente' — grafia incorreta; o correto é 'imediatamente'.",
+      "'posteriores à 2ª Guerra Mundial' — uso inadequado de crase antes de numeral ordinal/expressão que não exige artigo feminino definido nesse contexto (aceitável, porém discutível).",
+      "'o estado soviético' — 'Estado', quando se refere a entidade política, deve ser grafado com inicial maiúscula.",
+      "'A obra 1984 de George Orwell' — falta vírgula após '1984' para isolar o aposto: 'A obra 1984, de George Orwell,'.",
+      "'as diferentes formas que as esquerdas lidaram' — falta a preposição 'com': 'as diferentes formas com que as esquerdas lidaram'.",
+      "'o fim das URSS' — concordância inadequada do artigo; o correto é 'o fim da URSS'.",
+      "'Coréia do Norte' — conforme o Acordo Ortográfico e a grafia oficial em português, o correto é 'Coreia do Norte' (sem acento)."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma tese clara e bem articulada, relacionando de forma inteligente a citação de Machado de Assis ao declínio do comunismo soviético e às diferentes trajetórias das esquerdas mundiais. A interpretação da metáfora é original e consistente ao longo do texto.",
+      "O desenvolvimento é bem estruturado, com progressão lógica: contextualização histórica do otimismo comunista, processo de desilusão, queda da URSS e consequências diferenciadas para as esquerdas que se adaptaram versus as que não se adaptaram. A argumentação é sólida e demonstra conhecimento histórico.",
+      "A relação entre a citação e o fato histórico é bem explorada em múltiplas dimensões — tanto para os países do bloco soviético ('caíram do terceiro andar') quanto para as esquerdas que se reformaram ('caíram das nuvens'). Isso demonstra capacidade analítica refinada.",
+      "Há alguns deslizes gramaticais que, embora não comprometam a compreensão, revelam falta de revisão (como 'emediatamente', 'estado' com minúscula, 'das URSS', 'Coréia'). A regência verbal também apresenta falha ('formas que' em vez de 'formas com que').",
+      "A conclusão é eficaz ao retomar a citação e sintetizar o argumento, embora o último período seja excessivamente longo e complexo, o que prejudica levemente a clareza. De modo geral, trata-se de uma redação de alto nível argumentativo com pequenas imperfeições formais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'emediatamente' em vez de 'imediatamente'",
+      "'estado' sem maiúscula quando se refere ao Estado soviético (entidade política)",
+      "'bem sucedidas' em vez de 'bem-sucedidas' (duas ocorrências)",
+      "Falta de vírgula após 'bem sucedidas' na frase inicial do quarto parágrafo: 'caindo das nuvens',foram' — falta espaço após a vírgula de fechamento das aspas",
+      "'as diferentes formas que as esquerdas lidaram' — regência inadequada: deveria ser 'as diferentes formas com que/pelas quais as esquerdas lidaram'",
+      "'da URSS' no trecho 'o fim das URSS' — uso indevido do artigo no plural",
+      "'Coréia' em vez de 'Coreia' (conforme o Acordo Ortográfico vigente)"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema escolhido — a ascensão e queda do comunismo soviético — e estabelece uma relação consistente e bem articulada com a citação de Machado de Assis ao longo de todo o texto.",
+      "A estrutura argumentativa é sólida: o candidato apresenta a tese no primeiro parágrafo, desenvolve o contexto histórico com competência, e retorna à citação de forma orgânica, demonstrando capacidade de reflexão e síntese.",
+      "O uso de exemplos concretos (desestalinização, Orwell, Pol Pot, Gorbatchev, Bolsa Família, Polônia, Hungria, Coreia do Norte) enriquece a argumentação e demonstra repertório cultural e histórico.",
+      "A distinção entre esquerdas que 'caíram das nuvens' (adaptaram-se) e as que 'caíram do terceiro andar' (sofreram consequências concretas) é uma interpretação criativa e bem fundamentada da citação machadiana.",
+      "Há alguns deslizes gramaticais e ortográficos que, embora não comprometam a compreensão, reduzem ligeiramente a nota no critério de correção gramatical.",
+      "A conclusão é bem construída e retoma adequadamente a tese e a citação, fechando o texto de forma coesa.",
+      "Pequena ressalva quanto à afirmação de que '1984' de Orwell se enquadra no contexto da desestalinização — a obra foi publicada em 1949, antes da morte de Stalin, embora a crítica ao totalitarismo seja pertinente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'emediatamente' — grafia incorreta; o correto é 'imediatamente'.",
+      "'estado soviético' — quando se refere à entidade política, 'Estado' deve ser grafado com inicial maiúscula.",
+      "'A obra 1984 de George Orwell' — falta vírgula após o título para isolar o aposto: 'A obra 1984, de George Orwell,'.",
+      "'bem sucedidas' — conforme a ortografia vigente, o correto é 'bem-sucedidas' (com hífen).",
+      "'bem sucedidas' (segunda ocorrência no penúltimo parágrafo) — mesmo erro: 'bem-sucedidas'.",
+      "'as diferentes formas que as esquerdas lidaram' — regência inadequada; o correto é 'as diferentes formas com que (ou pelas quais) as esquerdas lidaram'.",
+      "'Coréia do Norte' — conforme o Acordo Ortográfico vigente, a grafia correta é 'Coreia do Norte' (sem acento)."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão da citação machadiana e a aplica de forma criativa e pertinente ao contexto histórico da ascensão e queda do comunismo soviético, estabelecendo uma analogia coerente entre 'cair das nuvens' (abandonar o idealismo a tempo) e 'cair de um terceiro andar' (sofrer consequências concretas e graves).",
+      "A estrutura argumentativa é bem organizada: o texto parte do otimismo inicial com o comunismo, passa pela desilusão progressiva, chega ao colapso soviético e conclui com a comparação entre esquerdas que se adaptaram e as que não o fizeram. Há encadeamento lógico claro entre os parágrafos.",
+      "O repertório histórico mobilizado é amplo e pertinente — menções a Gorbatchev, Pol Pot, Mao, Orwell, descolonização, Pacto de Varsóvia, Bolsa Família, Coreia do Norte —, o que enriquece a argumentação e demonstra conhecimento sólido.",
+      "Um ponto de melhoria seria aprofundar a reflexão sobre a própria citação de Machado de Assis em seu contexto literário original, o que daria maior sofisticação à análise. A interpretação, embora válida, é relativamente linear e poderia explorar nuances adicionais da frase (por exemplo, a ironia machadiana, o conformismo implícito na preferência pela desilusão sobre a queda real).",
+      "Há alguns deslizes gramaticais e ortográficos que, embora não comprometam a compreensão, prejudicam a impressão de domínio pleno da norma culta, especialmente em um concurso de alto nível como o CACD.",
+      "A conclusão é eficaz ao retomar a citação e sintetizar o argumento, mas poderia ser mais concisa e evitar a enumeração excessiva de exemplos já mencionados no corpo do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'emediatamente' — grafia incorreta; o correto é 'imediatamente'.",
+      "'estado soviético' — quando se refere à entidade política, 'Estado' deve ser grafado com inicial maiúscula.",
+      "'A obra 1984 de George Orwell' — falta vírgula após o título para isolar o aposto: 'A obra 1984, de George Orwell,'.",
+      "'as diferentes formas que as esquerdas lidaram' — regência inadequada; o correto é 'as diferentes formas com que as esquerdas lidaram'.",
+      "'o fim das URSS' — concordância inadequada do artigo; o correto é 'o fim da URSS'.",
+      "'bem sucedidas' — conforme a ortografia vigente, o correto é 'bem-sucedidas' (com hífen)."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma interpretação criativa e pertinente da citação machadiana, aplicando-a ao processo de transformação das esquerdas diante da decadência e do fim da URSS. A tese é clara e bem definida desde a introdução.",
+      "O desenvolvimento é bem estruturado e segue uma linha cronológica coerente: do otimismo pós-guerra ao processo de desestalinização, passando pelos fracassos do comunismo em diferentes países, até as reformas de Gorbatchev e o colapso soviético. Isso confere boa organização ao texto.",
+      "A articulação entre a citação e o fato histórico é consistente e retomada ao longo do texto, o que demonstra capacidade argumentativa. A distinção entre as esquerdas que 'caíram das nuvens' (adaptaram-se) e as que 'caíram do terceiro andar' (sofreram consequências concretas) é uma leitura engenhosa da frase.",
+      "O texto poderia ganhar maior profundidade analítica ao explorar com mais nuance as razões internas do colapso soviético ou ao problematizar a própria metáfora machadiana — por exemplo, questionando se 'cair das nuvens' é sempre preferível ou se há perdas nesse pragmatismo. A argumentação, embora sólida, tende a ser um pouco linear e previsível.",
+      "Há alguns deslizes gramaticais (ortografia de 'imediatamente', regência de 'formas que', concordância em 'das URSS', hífen em 'bem-sucedidas'), que, embora não comprometam a compreensão, revelam falta de revisão final.",
+      "A conclusão é adequada e retoma a tese com exemplos concretos (Coreia do Norte, países do antigo bloco), mas poderia ser mais concisa e evitar a repetição de ideias já apresentadas no desenvolvimento."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "'emediatamente' — grafia incorreta; o correto é 'imediatamente'.",
+      "'estado soviético' — quando se refere à entidade política, 'Estado' deve ser grafado com inicial maiúscula.",
+      "'A obra 1984 de George Orwell' — falta vírgula após '1984' para isolar o aposto: 'A obra 1984, de George Orwell,'.",
+      "'bem sucedidas' — o correto, conforme o Acordo Ortográfico, é 'bem-sucedidas' (com hífen).",
+      "'bem sucedidas' (segunda ocorrência) — mesmo erro: 'bem-sucedidas'.",
+      "'as diferentes formas que as esquerdas lidaram' — falta a preposição 'com': 'as diferentes formas com que as esquerdas lidaram'.",
+      "'Coréia do Norte' — conforme o Acordo Ortográfico vigente, a grafia correta é 'Coreia do Norte' (sem acento)."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma interpretação criativa e pertinente da citação machadiana, aplicando-a ao processo de transformação das esquerdas diante do colapso soviético. A tese é clara desde a introdução e sustentada ao longo do texto.",
+      "O desenvolvimento é bem estruturado cronologicamente: parte do otimismo pós-guerra, passa pela desestalinização e pelas críticas internas ao comunismo, chega ao colapso da URSS e conclui com as diferentes trajetórias das esquerdas. Essa organização confere boa coesão ao texto.",
+      "A argumentação é consistente e demonstra conhecimento histórico sólido, com referências a Gorbatchev, Pol Pot, Mao, Orwell, Pacto de Varsóvia, Bolsa Família, Polônia e Hungria. Isso enriquece o texto e demonstra repertório.",
+      "A analogia entre 'cair das nuvens' (abandonar o idealismo a tempo) e 'cair de um terceiro andar' (sofrer consequências concretas da rigidez ideológica) é bem explorada e retomada em vários momentos, o que confere unidade temática.",
+      "Ponto de melhoria: a argumentação, embora competente, tende a ser um pouco esquemática e poderia ganhar maior profundidade analítica. Por exemplo, a afirmação de que 'não há mais uma esquerda significativa na maioria dos países do antigo bloco soviético' mereceria nuance. Da mesma forma, a menção ao Bolsa Família como exemplo de política que 'respeita o livre mercado' é simplificadora.",
+      "Há alguns erros gramaticais e ortográficos que, embora não comprometam a compreensão, prejudicam a avaliação de correção linguística em um concurso de alto nível como o CACD.",
+      "A conclusão é eficaz ao retomar a citação e sintetizar o argumento, embora seja um pouco longa e acumule exemplos que poderiam ter sido melhor desenvolvidos no corpo do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 7,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'Ao se analisar as inovações' — o correto seria 'Ao se analisarem as inovações', pois o verbo deve concordar com o sujeito 'inovações'.",
+      "Uso inadequado de 'antropófoga' em vez de 'antropofágica' — o adjetivo correto derivado de 'antropofagia' é 'antropofágica'.",
+      "Erro de concordância nominal: 'consolidação das ideais propostos' — o correto seria 'dos ideais propostos' (substantivo masculino plural) ou 'das ideias propostas' (substantivo feminino plural).",
+      "Uso impreciso da expressão 'saltar das nuvens' ao parafrasear a citação — a citação original diz 'cair das nuvens', não 'saltar das nuvens'. Embora não seja erro gramatical estrito, constitui imprecisão na retomada da citação que afeta a propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento e conclusão bem delimitados, além de parágrafos coesos e encadeados logicamente. O estilo é formal e adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A argumentação é consistente e bem fundamentada, com referências pertinentes a Oswald de Andrade (Manifesto Antropófago), Mário de Andrade (método epistolar e 'abrasileiramento do Brasil') e Silviano Santiago (conceito de 'entre-lugar'). Essas referências demonstram repertório cultural sólido e pertinente ao tema.",
+      "A relação entre a citação de Machado de Assis e o Modernismo é bem construída: a ideia de que é preferível arriscar um grande salto (cair das nuvens) a limitar-se a quedas menores (terceiro andar) é aplicada à ousadia dos modernistas em romper com o eurocentrismo cultural. Contudo, a interpretação da citação poderia ter sido mais aprofundada — a frase machadiana admite leituras sobre desilusão versus dano concreto, e o candidato optou por uma leitura mais linear sobre ousadia versus cautela.",
+      "A capacidade de análise e reflexão é boa, mas poderia ser mais aprofundada. O texto tende a reiterar a mesma ideia central (ousadia dos modernistas) sem explorar nuances ou tensões internas do movimento, como as divergências entre os grupos modernistas ou as contradições do projeto identitário.",
+      "Há poucos erros gramaticais, mas o erro de concordância verbal ('Ao se analisar as inovações') e o erro de concordância nominal ('das ideais propostos') são falhas relevantes. O uso de 'antropófoga' em vez de 'antropofágica' também compromete a propriedade vocabular.",
+      "No geral, trata-se de uma redação de alto nível, com boa articulação entre a citação e o fato cultural escolhido, linguagem adequada e argumentação coerente, embora com margem para maior profundidade analítica e algumas correções gramaticais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'Ao se analisar as inovações' — o correto seria 'Ao se analisarem as inovações', pois o verbo deve concordar com o sujeito 'inovações'.",
+      "Erro de grafia/vocabulário: 'metodologia antropófoga' — o correto seria 'metodologia antropofágica', referente à antropofagia.",
+      "Erro de concordância nominal: 'consolidação das ideais propostos' — o correto seria 'dos ideais propostos' (artigo masculino plural para 'ideais').",
+      "Uso impreciso da citação: 'saltar das nuvens' — na citação original, a expressão é 'cair das nuvens', não 'saltar das nuvens'. Embora seja uma adaptação interpretativa, a alteração do verbo pode ser considerada imprecisão."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento e conclusão bem delimitados. O texto é coeso, fluido e demonstra domínio estilístico sofisticado, adequado ao nível do CACD.",
+      "A argumentação é bem estruturada e pertinente, articulando de forma consistente a citação machadiana ao Modernismo brasileiro. O candidato mobiliza referências relevantes — Oswald de Andrade, Mário de Andrade, Silviano Santiago, o Manifesto Antropófago e a Semana de 1922 — demonstrando conhecimento sólido do tema.",
+      "A capacidade de análise e reflexão é boa, mas poderia ser aprofundada. A interpretação da citação machadiana, embora funcional, é relativamente linear: a preferência pelo risco grandioso em detrimento do risco menor. O candidato poderia ter explorado nuances adicionais da citação, como a ironia machadiana ou a dimensão da ilusão ('cair das nuvens' como desilusão). A relação entre a citação e o Modernismo, embora bem construída, tende a ser reiterada ao longo do texto sem ganhar camadas interpretativas significativamente novas a cada parágrafo.",
+      "Há alguns erros gramaticais pontuais que comprometem levemente a correção linguística: a concordância verbal com 'se analisar', o uso de 'antropófoga' em vez de 'antropofágica', e a concordância nominal em 'das ideais propostos'. São erros que, embora poucos, chamam atenção em um texto de nível elevado.",
+      "No geral, trata-se de uma redação de alto nível, com argumentação consistente, boa articulação entre a citação e o fato cultural escolhido, e domínio expressivo da língua portuguesa, apesar dos deslizes pontuais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'Ao se analisar as inovações' — o correto seria 'Ao se analisarem as inovações', pois o verbo deve concordar com o sujeito 'inovações'.",
+      "Erro de vocabulário/ortografia: 'metodologia antropófoga' — o correto seria 'metodologia antropofágica', referente à antropofagia.",
+      "Erro de concordância nominal: 'consolidação das ideais propostos' — o correto seria 'dos ideais propostos' (artigo masculino plural para 'ideais').",
+      "Uso impreciso da citação: 'saltar das nuvens' — a citação original diz 'cair das nuvens', não 'saltar das nuvens'. Embora seja uma releitura interpretativa, a alteração do verbo sem sinalização pode ser considerada imprecisão."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução, desenvolvimento e conclusão bem delimitados. O texto é coeso e fluido, com uso adequado de conectivos e transições entre parágrafos.",
+      "A argumentação é consistente e bem estruturada, articulando a citação machadiana ao Modernismo brasileiro de forma pertinente. O candidato demonstra conhecimento sólido sobre o tema, mencionando Oswald de Andrade, Mário de Andrade, o Manifesto Antropófago, a Semana de 1922 e o conceito de 'entre-lugar' de Silviano Santiago.",
+      "A capacidade de análise e reflexão é boa, porém a interpretação da citação machadiana poderia ser mais aprofundada. A frase original sugere que é preferível sofrer uma desilusão (cair das nuvens) a sofrer uma queda concreta e perigosa (de um terceiro andar) — ou seja, há uma dimensão de preferência pelo risco abstrato/idealista em detrimento do risco material/concreto. O candidato simplifica a citação como mera apologia à ousadia, sem explorar plenamente a oposição entre ilusão e realidade que Machado propõe.",
+      "O texto é bem escrito e demonstra domínio da norma culta, com vocabulário sofisticado e adequado ao registro formal exigido pelo CACD. Os poucos erros identificados não comprometem significativamente a qualidade geral.",
+      "A relação entre a citação e o fato histórico-cultural escolhido (Modernismo) é bem construída, embora por vezes a metáfora do 'salto' e da 'queda' seja repetida de forma um pouco mecânica ao longo do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 8,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"resignar-se com uma queda\" — regência inadequada: o verbo 'resignar-se' pede a preposição 'a' (resignar-se a), não 'com'.",
+      "\"debate político brasileiro\" — aparente erro de coerência/digitação; no contexto da Europa oriental, o adjetivo 'brasileiro' é incoerente, provavelmente deveria ser 'plural', 'pluralista' ou 'aberto'.",
+      "\"da1 década\" — erro de digitação/formatação: '1' inserido indevidamente na palavra 'da'.",
+      "\"o estado vigentes das coisas\" — erro de concordância: 'vigentes' deveria ser 'vigente' (singular, concordando com 'estado').",
+      "\"se isso fosse necessário\" — pronome 'se' em início de oração subordinada após vírgula, embora aceitável em registro coloquial, a colocação pronominal está adequada; porém a construção gera ambiguidade com o período anterior (problema de pontuação/estrutura).",
+      "\"aceite a mediocridade\" — erro de conjugação verbal: deveria ser 'aceitar' (infinitivo), não 'aceite' (subjuntivo).",
+      "\"a conduta social combatida dos europeus orientais\" — provável erro: 'combatida' parece inadequado; provavelmente deveria ser 'combativa'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara que conecta o tema histórico à citação de Machado de Assis, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma a metáfora do enunciado.",
+      "A interpretação da citação machadiana é pertinente: 'cair das nuvens' como o risco de buscar algo melhor (com resultado incerto) versus 'cair do terceiro andar' como a certeza da morte/estagnação. A metáfora é bem explorada ao longo do texto.",
+      "O conteúdo histórico é relevante e bem articulado: a redemocratização da Europa oriental é apresentada com exemplos concretos (Solidariedade na Polônia, queda do Muro de Berlim, Primavera de Praga), demonstrando conhecimento do candidato.",
+      "A extensão do argumento à Primavera Árabe é interessante e demonstra capacidade de análise comparativa, embora a conexão pudesse ser mais aprofundada.",
+      "Há erros que comprometem a qualidade do texto: 'debate político brasileiro' no contexto da Europa oriental é um erro grave de coerência (possível lapso); 'estado vigentes' é erro de concordância; 'aceite' por 'aceitar' é erro de conjugação; 'combatida' por 'combativa' altera o sentido.",
+      "A capacidade de reflexão é boa, mas poderia ser mais profunda na análise das nuances — por exemplo, discutir os custos humanos da transição ou as limitações do processo democrático pós-comunismo de forma mais detida.",
+      "O estilo é fluido e adequado ao gênero dissertativo, com vocabulário apropriado e boa articulação entre os parágrafos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "\"resignar-se com uma queda\" — regência inadequada: o verbo 'resignar-se' pede a preposição 'a' (resignar-se a), não 'com'.",
+      "\"debate político brasileiro\" — aparente erro de coerência/digitação; no contexto da Europa oriental, o adjetivo 'brasileiro' parece ser um lapso, devendo ser algo como 'plural', 'aberto' ou 'democrático'.",
+      "\"da1 década\" — erro de digitação/formatação: '1' inserido indevidamente na palavra 'da'.",
+      "\"o estado vigentes das coisas\" — erro de concordância nominal: 'vigentes' deveria ser 'vigente' (singular, concordando com 'estado').",
+      "\"a conduta social combatida dos europeus orientais\" — provável erro de escolha vocabular; o sentido pretendido parece ser 'combativa', não 'combatida'.",
+      "\"do que aceite a mediocridade lesiva\" — erro de conjugação verbal: deveria ser 'aceitar' (infinitivo), não 'aceite' (subjuntivo)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara que conecta a citação de Machado de Assis ao tema escolhido (queda do comunismo na Europa oriental), desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma a metáfora do enunciado.",
+      "A interpretação da citação machadiana é pertinente e bem articulada: 'cair das nuvens' como o risco de buscar algo melhor (liberdade, democracia) versus 'cair do terceiro andar' como a certeza da morte sob a repressão. A metáfora é retomada ao longo do texto de forma coerente.",
+      "O desenvolvimento histórico é sólido, percorrendo cronologicamente os eventos dos anos 1950-60 (revoltas na Hungria, Polônia, Tchecoslováquia, fuga de alemães orientais) até os anos 1980 (Solidariedade, queda do Muro de Berlim), demonstrando bom conhecimento factual.",
+      "A extensão do argumento à Primavera Árabe é um acréscimo interessante que demonstra capacidade de análise comparativa, embora o tratamento seja superficial e a conexão com a citação poderia ser mais aprofundada.",
+      "Há erros que comprometem a qualidade do texto: o uso de 'brasileiro' em contexto europeu é um lapso grave que prejudica a coerência; 'vigentes' no singular e 'aceite' em vez de 'aceitar' são erros gramaticais claros; 'combatida' em vez de 'combativa' altera o sentido pretendido.",
+      "A capacidade de reflexão é boa, mas poderia ser mais profunda na análise das nuances — por exemplo, discutir os custos e ambiguidades da transição democrática na Europa oriental, ou problematizar mais a ideia de que 'cair das nuvens' nem sempre resulta em melhoria (como o próprio caso da Primavera Árabe sugere)."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "\"resignar-se com uma queda\" — regência inadequada: o verbo 'resignar-se' pede a preposição 'a' (resignar-se a), não 'com'.",
+      "\"debate político brasileiro\" — aparente erro de coerência/digitação; no contexto da Europa oriental, o adjetivo 'brasileiro' é incoerente, devendo ser provavelmente 'plural' ou 'pluralista' ou outro termo adequado.",
+      "\"da1 década\" — erro de digitação/formatação: '1' inserido indevidamente na palavra 'da'.",
+      "\"o estado vigentes das coisas\" — erro de concordância nominal: 'vigentes' deveria ser 'vigente' (singular, concordando com 'estado').",
+      "\"Guerra fria\" — erro de convenção ortográfica: 'Fria' deveria estar com inicial maiúscula, pois 'Guerra Fria' é nome próprio de período histórico.",
+      "\"a conduta social combatida dos europeus orientais\" — provável erro de escolha vocabular; o sentido pretendido parece ser 'combativa', não 'combatida'.",
+      "\"do que aceite a mediocridade\" — erro de conjugação verbal: deveria ser 'aceitar' (infinitivo), não 'aceite' (subjuntivo)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara que conecta o tema histórico à citação de Machado de Assis, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma a metáfora do enunciado. O estilo é fluido e adequado ao registro formal exigido.",
+      "A argumentação é consistente e bem fundamentada, com referências históricas pertinentes (queda do comunismo na Europa oriental, Solidariedade na Polônia, Muro de Berlim, Primavera Árabe). Contudo, a menção a 'debate político brasileiro' no contexto da Europa oriental compromete a coerência e sugere desatenção na revisão.",
+      "A capacidade de análise e reflexão é satisfatória: o candidato interpreta a citação machadiana de forma criativa, associando 'cair das nuvens' à aspiração por liberdade e 'cair do terceiro andar' à resignação sob regimes autoritários. A extensão da análise à Primavera Árabe demonstra capacidade de estabelecer conexões históricas. Porém, a reflexão poderia ser mais aprofundada quanto às nuances — por exemplo, os custos humanos das revoluções e a complexidade dos resultados pós-redemocratização são tratados de forma superficial.",
+      "Há erros gramaticais e de revisão que prejudicam a nota de correção gramatical, incluindo problemas de concordância, regência, digitação e escolha vocabular inadequada. O erro 'debate político brasileiro' é particularmente grave por comprometer a coerência do argumento.",
+      "No geral, trata-se de uma redação bem construída, com boa articulação entre a citação e o fato histórico escolhido, mas que perde pontos por descuidos de revisão e por não aprofundar suficientemente certas dimensões analíticas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'resignar-se com' — regência inadequada; o correto seria 'resignar-se a' ou 'conformar-se com'",
+      "'debate político brasileiro' — aparente erro de digitação/distração; pelo contexto, deveria ser 'debate político aberto/plural' ou similar",
+      "'da1 década' — erro de digitação, faltando espaço: 'da década'",
+      "'o estado vigentes das coisas' — erro de concordância: 'o estado vigente das coisas'",
+      "'a conduta social combatida dos europeus orientais' — provável erro; o sentido pretendido parece ser 'combativa', não 'combatida'",
+      "'aceite a mediocridade' — erro de conjugação verbal; o correto seria 'aceitar a mediocridade'"
+    ],
+    "feedbacks": [
+      "A redação demonstra boa capacidade argumentativa e organização textual, com introdução, desenvolvimento e conclusão bem estruturados. O candidato relaciona adequadamente a citação de Machado de Assis ao tema escolhido (queda do comunismo na Europa oriental).",
+      "A interpretação da citação machadiana é pertinente: a metáfora de 'cair das nuvens' como risco assumido em busca de algo melhor versus 'cair do terceiro andar' como a certeza da morte/estagnação é bem explorada ao longo do texto.",
+      "O desenvolvimento histórico é consistente, percorrendo cronologicamente os eventos dos anos 1950-60 até os anos 1980, com exemplos concretos (Solidariedade, Muro de Berlim, Primavera Árabe).",
+      "Há erros que comprometem a qualidade do texto: 'debate político brasileiro' é claramente um lapso que prejudica a coerência; 'estado vigentes' é erro de concordância; 'aceite' por 'aceitar' é erro de conjugação.",
+      "A extensão do tema à Primavera Árabe é interessante, mas o enunciado pedia um fato relevante da história mundial do século XX, e a Primavera Árabe ocorreu no século XXI (2010-2011), o que pode ser visto como extrapolação, embora o fato central escolhido (queda do comunismo) esteja dentro do recorte temporal.",
+      "O texto poderia ter explorado mais diretamente a dimensão cultural da citação machadiana, já que o enunciado também oferecia a opção de comentar um fato da cultura brasileira."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'resignar-se com' — regência inadequada; o correto seria 'resignar-se a' ou 'conformar-se com'",
+      "'debate político brasileiro' — aparente erro de digitação/distração; pelo contexto, deveria ser 'debate político aberto/amplo' ou 'debate político plural'",
+      "'da1 década' — erro de digitação, faltando espaço ou caractere indevido ('da década')",
+      "'o estado vigentes das coisas' — erro de concordância; deveria ser 'o estado vigente das coisas'",
+      "'a conduta social combatida dos europeus orientais' — construção confusa/inadequada; provavelmente 'a conduta social combativa dos europeus orientais'",
+      "'do que aceite a mediocridade lesiva' — erro de conjugação; deveria ser 'do que aceitar a mediocridade lesiva'"
+    ],
+    "feedbacks": [
+      "A redação demonstra boa capacidade argumentativa e organização textual, com introdução, desenvolvimento e conclusão bem estruturados. O candidato relaciona adequadamente a citação de Machado de Assis ao tema escolhido (queda do comunismo na Europa oriental).",
+      "A interpretação da citação machadiana é pertinente: a metáfora de 'cair das nuvens' como risco assumido em busca de algo melhor versus 'cair do terceiro andar' como a certeza da morte/estagnação é bem explorada ao longo do texto.",
+      "O desenvolvimento histórico é consistente, percorrendo cronologicamente os eventos dos anos 1950-60 até os anos 1980, com exemplos concretos (Solidariedade na Polônia, Muro de Berlim).",
+      "A extensão do tema à Primavera Árabe é interessante e demonstra capacidade de articulação, embora o enunciado peça comentário sobre 'um fato relevante' — a dispersão temática pode ser vista como falta de foco.",
+      "Há erros pontuais que comprometem a qualidade linguística: 'debate político brasileiro' (aparente lapso), 'estado vigentes', 'aceite' em vez de 'aceitar', e 'conduta social combatida' em vez de 'combativa'. Esses erros, embora não numerosos, são significativos por revelarem desatenção na revisão.",
+      "O texto atende ao enunciado ao escolher um fato relevante da história mundial do século XX e relacioná-lo à citação, embora o tema seja de história mundial e não de cultura brasileira — o que é permitido pelo enunciado alternativo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'resignar-se com' — regência inadequada; o correto seria 'resignar-se a' ou 'conformar-se com'",
+      "'debate político brasileiro' — aparente erro de digitação/distração; pelo contexto, deveria ser 'debate político aberto/amplo' ou 'debate político plural'",
+      "'da1 década' — erro de digitação, faltando espaço: 'da década'",
+      "'o estado vigentes das coisas' — erro de concordância: 'o estado vigente das coisas'",
+      "'a conduta social combatida dos europeus orientais' — construção confusa e inadequada; provavelmente 'a conduta social combativa dos europeus orientais'",
+      "'aceite a mediocridade' — erro de conjugação verbal; o correto seria 'aceitar a mediocridade'"
+    ],
+    "feedbacks": [
+      "A redação demonstra boa organização textual, com introdução clara, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente. O encadeamento das ideias é lógico e fluido.",
+      "A interpretação da citação de Machado de Assis é pertinente e bem articulada ao tema escolhido (queda do comunismo na Europa oriental). A metáfora das nuvens versus terceiro andar é retomada ao longo do texto de forma consistente.",
+      "O candidato demonstra bom conhecimento histórico ao abordar eventos como o Solidariedade na Polônia, a queda do Muro de Berlim e a Primavera Árabe, estabelecendo conexões relevantes entre eles.",
+      "Há alguns erros que comprometem a qualidade do texto: 'debate político brasileiro' é claramente um lapso que prejudica a coerência; 'estado vigentes' é erro de concordância; 'aceite' em vez de 'aceitar' é erro de conjugação.",
+      "A extensão do tema à Primavera Árabe enriquece a argumentação, embora a conexão com o enunciado (fato do século XX) já estivesse bem estabelecida com a queda do comunismo.",
+      "A linguagem é, em geral, adequada ao registro formal exigido pelo concurso, com vocabulário variado e construções sintáticas bem elaboradas, apesar dos deslizes pontuais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'da1 década' — erro de digitação/formatação, deveria ser 'da década'",
+      "'o estado vigentes das coisas' — erro de concordância nominal, deveria ser 'o estado vigente das coisas'",
+      "'debate político brasileiro' — aparente erro de coerência/digitação, pois o contexto trata da Europa oriental; possivelmente deveria ser 'debate político abrangente' ou 'debate político robusto'",
+      "'aceite a mediocridade lesiva' — erro de conjugação verbal, deveria ser 'aceitar a mediocridade lesiva'",
+      "'a conduta social combatida dos europeus orientais' — construção confusa, possivelmente deveria ser 'a conduta social combativa dos europeus orientais'",
+      "'resignar-se com uma queda' — regência inadequada, o mais adequado seria 'resignar-se a uma queda' ou 'conformar-se com uma queda'"
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão da citação machadiana e a articula de forma pertinente com o tema escolhido — a queda dos regimes comunistas na Europa oriental. A metáfora de 'cair das nuvens' versus 'cair do terceiro andar' é bem explorada ao longo do texto.",
+      "A estrutura é bem organizada, com introdução que apresenta a tese, desenvolvimento histórico cronológico (anos 1950-60, anos 1980) e uma extensão contemporânea (Primavera Árabe), além de conclusão que retoma a citação.",
+      "A ampliação do argumento para a Primavera Árabe é um ponto positivo, pois demonstra capacidade de articulação e visão mais ampla, embora o enunciado peça comentário sobre um fato do século XX.",
+      "Há alguns erros que comprometem parcialmente a qualidade do texto: 'debate político brasileiro' parece ser um lapso grave de revisão, pois o contexto é europeu; 'aceite' em vez de 'aceitar' e 'vigentes' em vez de 'vigente' são descuidos que poderiam ser evitados.",
+      "A argumentação é coerente e bem encadeada, mas poderia ser mais sofisticada em termos analíticos — por exemplo, problematizando mais as consequências da transição (desigualdades pós-comunismo, ascensão de nacionalismos) em vez de apresentar uma visão predominantemente positiva da redemocratização.",
+      "O vocabulário é adequado e a linguagem é compatível com o nível esperado no CACD, embora os erros pontuais reduzam a impressão de domínio pleno da norma culta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 6,
+    "erros_gramaticais": [
+      "'debate político brasileiro' — aparente erro de digitação ou distração; o contexto exige algo como 'debate político aberto' ou 'debate político plural', já que o texto trata da Europa oriental, não do Brasil.",
+      "'da1 década' — erro de digitação; deveria ser 'da década'.",
+      "'Guerra fria' — 'Fria' deveria estar com inicial maiúscula, pois se trata de nome próprio de período histórico: 'Guerra Fria'.",
+      "'o estado vigentes das coisas' — erro de concordância; deveria ser 'o estado vigente das coisas'.",
+      "'a conduta social combatida dos europeus orientais' — provável erro; o sentido pretendido parece ser 'a conduta social combativa dos europeus orientais'.",
+      "'aceite a mediocridade lesiva' — erro de conjugação; deveria ser 'aceitar a mediocridade lesiva'."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa capacidade de articulação entre a citação machadiana e o fato histórico escolhido (a queda dos regimes comunistas na Europa oriental). A metáfora de 'cair das nuvens' versus 'cair do terceiro andar' é explorada de forma coerente ao longo do texto, o que confere unidade temática.",
+      "A estrutura é bem organizada, com introdução que apresenta a tese, desenvolvimento que percorre cronologicamente os eventos (décadas de 1950-60, 1980) e conclusão que amplia a reflexão para o século XXI e a Primavera Árabe. Essa progressão é um ponto forte.",
+      "A menção a 'debate político brasileiro' no terceiro parágrafo é um erro evidente que compromete a coerência local, pois o texto trata exclusivamente da Europa oriental naquele trecho. Esse tipo de deslize, em um concurso como o CACD, pode ser penalizado significativamente.",
+      "A argumentação, embora competente, tende a ser um pouco linear e previsível. Poderia haver maior problematização — por exemplo, discutir os custos da transição, as frustrações pós-redemocratização ou nuances sobre o que significa 'cair das nuvens' em contextos distintos.",
+      "A extensão do texto para a Primavera Árabe é pertinente e demonstra repertório, mas a análise permanece superficial nesse ponto. A afirmação de que 'seu aparente fracasso não reduz o valor das ações empreendidas' mereceria maior desenvolvimento.",
+      "A linguagem é, em geral, adequada ao registro formal exigido, com vocabulário pertinente e períodos bem construídos, embora os erros identificados (concordância, digitação, conjugação) prejudiquem a impressão de domínio pleno da norma culta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 9,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de marcação '1' após 'participação' e 'interferir', aparentando ser notas de rodapé inexistentes, o que configura inadequação textual.",
+      "'sem capacidade interferir' — falta da preposição 'de': 'sem capacidade de interferir'.",
+      "'que vigeu' — forma verbal não padrão; o pretérito perfeito de 'viger' é controverso, mas a forma mais aceita seria 'vigorou' ou construção alternativa. Embora 'vigeu' apareça em alguns dicionários, é forma de aceitação discutível."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema escolhido — o pleito brasileiro por um assento permanente no Conselho da Liga das Nações — e o articula de forma sofisticada com a citação machadiana. A interpretação da frase de Machado como uma reflexão sobre a preferência pelo idealismo ambicioso em detrimento da mediocridade segura é convincente e bem sustentada ao longo do texto.",
+      "A estrutura argumentativa é sólida: o candidato apresenta a tese, contextualiza historicamente o episódio, mobiliza referência historiográfica pertinente (Eugênio Vargas Garcia), analisa as motivações brasileiras tanto domésticas quanto internacionais, e conclui com uma reflexão que conecta passado e presente (reforma do CSNU).",
+      "A capacidade de análise e reflexão é notável. O candidato não se limita a narrar o episódio, mas avalia criticamente a autoimagem brasileira da época, pondera sobre as consequências da permanência na Liga (a hipótese contrafactual de 'cair de um terceiro andar') e reconhece tanto o equívoco quanto o acerto da posição brasileira, demonstrando maturidade analítica.",
+      "A relação entre a citação e o fato histórico é mantida de forma coerente ao longo de todo o texto, com retomadas bem posicionadas que reforçam a coesão temática.",
+      "Do ponto de vista gramatical, o texto é muito bem redigido, com vocabulário preciso e construções sintáticas complexas bem executadas. Os poucos deslizes identificados (falta de preposição 'de' em 'capacidade interferir' e as marcações numéricas que parecem notas de rodapé inexistentes) não comprometem a qualidade geral.",
+      "Sugestão de melhoria: evitar marcações de notas de rodapé ('1') que não encontram correspondência no texto, pois podem ser interpretadas como descuido ou inadequação ao formato dissertativo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de marcação '1' após 'participação' e 'interferir', aparentando ser notas de rodapé inexistentes, o que configura erro de apresentação textual.",
+      "'sem capacidade interferir' — falta a preposição 'de': 'sem capacidade de interferir'.",
+      "'possa ter servido' — o uso do subjuntivo 'possa' após 'têm argumentado que' é questionável; o mais adequado seria 'pode ter servido' (indicativo), já que se trata de uma constatação dos historiadores, não de uma hipótese duvidosa."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem estruturado, com parágrafos coesos e encadeamento lógico claro. O estilo é elegante e adequado ao registro formal exigido pelo CACD. A articulação entre a citação machadiana e o fato histórico escolhido é feita de forma orgânica e retomada ao longo de todo o texto, conferindo unidade temática. Pequeno desconto pela presença de marcações numéricas ('1') que parecem notas de rodapé inexistentes, prejudicando levemente a apresentação.",
+      "1B – Capacidade de argumentação: O candidato demonstra excelente domínio do conteúdo histórico, citando Eugênio Vargas Garcia, contextualizando o governo Artur Bernardes, o Concerto Europeu, a entrada da Alemanha na Liga e o sistema de rodízio. A argumentação é sistemática e objetiva, com informações pertinentes e bem articuladas. A conexão com a reforma do Conselho de Segurança da ONU enriquece a análise. A tese central — de que o pleito brasileiro, embora malogrado, representou uma escolha legítima e coerente com a metáfora machadiana — é sustentada com consistência.",
+      "1C – Capacidade de análise e reflexão: O texto vai além da mera narrativa histórica, oferecendo análise crítica sobre a autoimagem brasileira, as fragilidades da Liga das Nações e as consequências contrafactuais da permanência do Brasil na organização. A reflexão final, que conecta o episódio da década de 1920 aos debates contemporâneos sobre reforma do sistema multilateral, demonstra maturidade analítica. A interpretação da citação machadiana é sofisticada, distinguindo entre o idealismo arriscado ('cair das nuvens') e a mediocridade passiva ('cair de um terceiro andar').",
+      "Correção gramatical: O texto apresenta pouquíssimos erros. A omissão da preposição 'de' em 'sem capacidade interferir' é o erro mais evidente. As marcações numéricas soltas prejudicam a apresentação. No geral, o domínio da norma culta é exemplar, com uso adequado de conectivos, regências e concordâncias."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de marcação '1' após 'participação' e 'interferir', aparentando ser notas de rodapé inexistentes, o que configura erro de apresentação/convenção textual.",
+      "'sem capacidade interferir' — falta a preposição 'de': 'sem capacidade de interferir'.",
+      "'possa ter servido' — o uso do subjuntivo 'possa' após 'têm argumentado que' é questionável; o mais adequado seria 'pode ter servido' (indicativo), já que se trata de uma constatação de historiadores, não de uma hipótese duvidosa."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é muito bem estruturado, com parágrafos coesos e encadeamento lógico claro. O estilo é formal e adequado ao gênero dissertativo-argumentativo do CACD. A interpretação da citação machadiana é apresentada logo na introdução e retomada ao longo do texto de forma orgânica, conferindo unidade temática. A legibilidade é excelente. Pequeno desconto pela presença de marcações numéricas ('1') que parecem notas de rodapé inexistentes, prejudicando levemente a apresentação.",
+      "1B – Capacidade de argumentação: O candidato demonstra domínio notável do conteúdo histórico, mobilizando informações precisas e pertinentes sobre o pleito brasileiro por assento permanente no Conselho da Liga das Nações, o contexto do governo Artur Bernardes, a referência a Eugênio Vargas Garcia, o paralelo com o Concerto Europeu e a conexão com a reforma do CSNU. A argumentação é objetiva, sistemática e bem fundamentada. A relação entre o fato histórico e a citação é construída com clareza e coerência ao longo de todo o texto.",
+      "1C – Capacidade de análise e reflexão: O texto vai além da mera narrativa histórica, oferecendo análise crítica sobre a autoimagem brasileira, as motivações domésticas e internacionais do pleito, e as consequências da saída da Liga. A reflexão contrafactual (o que teria ocorrido se o Brasil permanecesse) é bem conduzida e enriquece a argumentação. A conclusão articula passado e presente de forma sofisticada, demonstrando maturidade analítica. A interpretação da citação machadiana — preferir o idealismo arriscado à mediocridade segura — é original e bem sustentada.",
+      "Correção gramatical: O texto apresenta pouquíssimos erros. A omissão da preposição 'de' em 'sem capacidade interferir' é o erro mais evidente. As marcações numéricas soltas no texto também configuram falha. No geral, o domínio da norma culta é excelente, com uso adequado de vocabulário, regência, concordância e pontuação."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de preposição em 'sem capacidade interferir' — o correto seria 'sem capacidade de interferir'",
+      "Uso de marcações numéricas ('1') no corpo do texto, inadequadas ao gênero dissertativo (aparece em 'participação1' e 'interferir1')",
+      "Uso do subjuntivo 'possa ter servido' após 'têm argumentado que' — embora defensável, a construção com indicativo seria mais adequada ao sentido assertivo pretendido"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema histórico escolhido — o pleito brasileiro por assento permanente no Conselho da Liga das Nações —, articulando-o de forma sofisticada e coerente com a citação machadiana.",
+      "A interpretação da citação como contraposição entre idealismo/ambição e mediocridade/passividade é bem construída e sustentada ao longo de todo o texto, com retomadas consistentes da metáfora.",
+      "O encadeamento argumentativo é muito bem estruturado: apresenta o contexto, desenvolve as motivações brasileiras, analisa o desfecho e projeta consequências, fechando com uma reflexão que conecta passado e presente.",
+      "O conhecimento histórico mobilizado é preciso e aprofundado, com referências a Eugênio Vargas Garcia, ao Concerto Europeu, ao governo Artur Bernardes e à reforma do CSNU, demonstrando erudição pertinente.",
+      "A linguagem é formal, adequada ao gênero e ao concurso, com vocabulário rico e variado. A construção sintática é predominantemente correta e sofisticada.",
+      "Ponto de atenção: as marcações numéricas no corpo do texto (aparentando ser notas de rodapé) são inadequadas ao formato de redação dissertativa do CACD.",
+      "A conclusão é eficaz ao retomar a citação e projetar a relevância histórica do episódio para o presente, conferindo unidade ao texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de preposição em 'sem capacidade interferir' — deveria ser 'sem capacidade de interferir'.",
+      "Uso de marcação '1' (nota de rodapé) no corpo do texto, inadequado para o formato de redação dissertativa ('participação1' e 'interferir1').",
+      "Uso questionável de 'vigeu' como pretérito perfeito de 'viger' — embora haja registro, a forma é controversa e pode ser considerada inadequada em contexto formal."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema histórico escolhido — o pleito brasileiro por assento permanente no Conselho da Liga das Nações —, articulando-o de forma sofisticada e coerente com a citação machadiana.",
+      "A interpretação da citação é original e bem fundamentada: a distinção entre 'cair das nuvens' (idealismo ambicioso) e 'cair de um terceiro andar' (mediocridade passiva) é explorada com consistência ao longo de todo o texto.",
+      "A estrutura argumentativa é sólida, com encadeamento lógico claro: apresentação da tese, contextualização histórica, análise das motivações brasileiras, desfecho do episódio e conexão com o presente (reforma do CSNU).",
+      "O candidato demonstra conhecimento historiográfico relevante, citando Eugênio Vargas Garcia e contextualizando adequadamente o governo Artur Bernardes, o Concerto Europeu e as consequências para a Segunda Guerra Mundial.",
+      "A linguagem é adequada ao registro formal exigido, com vocabulário preciso e variado. Há poucos erros gramaticais, sendo o mais notável a omissão da preposição 'de' em 'sem capacidade interferir'.",
+      "As marcações numéricas no corpo do texto (aparentando notas de rodapé) são inadequadas para o formato de redação e devem ser evitadas.",
+      "A conclusão é bem construída, retomando a citação e projetando a relevância do episódio para o presente, conferindo unidade ao texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de preposição em 'sem capacidade interferir' — o correto seria 'sem capacidade de interferir'.",
+      "Uso de notas de rodapé ('1') no corpo do texto, inadequado ao formato de redação dissertativa.",
+      "Uso do subjuntivo 'possa ter servido' após 'têm argumentado que' — embora defensável, a construção com indicativo seria mais natural e precisa nesse contexto."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema histórico escolhido — o pleito brasileiro por assento permanente no Conselho da Liga das Nações —, articulando-o de forma sofisticada e coerente com a citação machadiana.",
+      "A interpretação da citação como contraposição entre idealismo/ambição (cair das nuvens) e mediocridade/passividade (cair de um terceiro andar) é original e bem sustentada ao longo de todo o texto.",
+      "O encadeamento argumentativo é muito bem construído: o candidato contextualiza historicamente, apresenta motivações internas e externas, analisa as consequências da decisão e projeta reflexões para o presente, fechando o texto com coesão.",
+      "O vocabulário é rico e adequado ao registro formal exigido, com uso preciso de termos das relações internacionais.",
+      "A presença de marcadores de nota de rodapé ('1') é inadequada ao formato de redação e configura falha formal.",
+      "O erro de regência em 'sem capacidade interferir' (falta de 'de') é um deslize pontual em um texto de elevada qualidade linguística.",
+      "A conclusão é eficaz ao retomar a citação e projetar a relevância histórica do episódio para o presente, conferindo unidade ao texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Falta de preposição em 'sem capacidade interferir' — o correto seria 'sem capacidade de interferir'.",
+      "Uso de '1' como marca de nota de rodapé em 'participação1' e 'interferir1', inadequado no corpo de uma redação dissertativa de concurso.",
+      "Uso do subjuntivo 'possa ter servido' após 'têm argumentado que' é questionável; o indicativo 'pode ter servido' seria mais adequado nesse contexto assertivo."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema histórico escolhido — o pleito brasileiro por assento permanente no Conselho da Liga das Nações —, articulando-o de forma coerente e sofisticada com a citação machadiana.",
+      "A interpretação da citação é original e bem fundamentada: a distinção entre 'cair das nuvens' (idealismo ambicioso) e 'cair de um terceiro andar' (mediocridade passiva) é explorada com consistência ao longo de todo o texto.",
+      "O texto apresenta boa estrutura argumentativa, com progressão lógica: contextualização do pleito, motivações internas e externas, desenvolvimento da ação diplomática, desfecho e reflexão sobre as consequências.",
+      "A mobilização de referências historiográficas (Eugênio Vargas Garcia) e de paralelos históricos (Concerto Europeu, reforma do CSNU) enriquece a argumentação e demonstra conhecimento aprofundado.",
+      "O parágrafo final realiza um fechamento eficaz, conectando passado e presente e reforçando a tese central sobre o valor da ousadia mesmo diante do fracasso.",
+      "Pontos de melhoria: evitar marcas de nota de rodapé no corpo do texto; a construção contrafactual do penúltimo parágrafo, embora interessante, poderia ser mais concisa; e há um erro de regência ('sem capacidade interferir') que compromete levemente a fluência."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 10,
+    "ano": "2016"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"sem capacidade interferir\" — falta a preposição 'de': 'sem capacidade de interferir'",
+      "Uso de marcações numéricas no corpo do texto ('participação1', 'interferir1') que parecem ser chamadas de nota de rodapé sem correspondência, o que constitui inadequação formal",
+      "\"que vigeu\" — embora 'vigeu' seja registrado em alguns dicionários, a forma mais consagrada na norma culta é 'vigorou' ou 'que vigia'; trata-se de uso discutível"
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema histórico escolhido — o pleito brasileiro por assento permanente no Conselho da Liga das Nações —, articulando-o de forma coerente e criativa com a citação machadiana. A interpretação da frase ('antes cair das nuvens que de um terceiro andar') como metáfora da preferência pela ousadia idealista em detrimento da mediocridade passiva é bem construída e sustentada ao longo de todo o texto.",
+      "A estrutura argumentativa é sólida: o candidato contextualiza o episódio histórico, apresenta a perspectiva brasileira, analisa as consequências da decisão e retorna à citação no fechamento, criando um arco argumentativo completo e coeso.",
+      "O uso de referências historiográficas (Eugênio Vargas Garcia) e a conexão com questões contemporâneas (reforma do Conselho de Segurança da ONU) enriquecem a argumentação e demonstram repertório cultural adequado ao CACD.",
+      "A linguagem é formal, precisa e adequada ao contexto do concurso, com vocabulário rico e variado. A construção frasal é, em geral, bem elaborada, embora em alguns momentos a complexidade sintática torne a leitura um pouco densa.",
+      "Ponto de melhoria: o erro 'sem capacidade interferir' (falta de preposição) é um deslize que poderia ser evitado em revisão. As marcações numéricas no corpo do texto (aparentes notas de rodapé) são inadequadas no formato de redação dissertativa e prejudicam a apresentação formal.",
+      "A conclusão é eficaz ao retomar a citação e projetar a relevância histórica do episódio para o presente, conferindo ao texto um encerramento reflexivo e bem articulado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 10,
+    "ano": "2016"
+  }
+]

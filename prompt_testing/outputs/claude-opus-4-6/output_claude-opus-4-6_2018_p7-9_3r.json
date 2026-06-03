@@ -1,0 +1,1385 @@
+[
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' — o sujeito composto ('a rapidez e a abrangência') exige verbo no plural: 'fazem surgir'.",
+      "Erro de ortografia: 'canis' em vez de 'canais'.",
+      "Uso impreciso de referência temporal: 'como, segundo Oliveira Lima, fizeram os agentes diplomáticos brasileiros nos anos 1910' — Oliveira Lima referia-se aos diplomatas de sua época (início do século XX) que perderam o hábito de escrever, não necessariamente aos da década de 1910 de forma específica; embora não seja estritamente um erro gramatical, a construção gera ambiguidade factual. Contabilizado como imprecisão de conteúdo, não como erro gramatical."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem estruturado, com introdução clara que apresenta a tese, desenvolvimento em dois parágrafos centrais bem articulados e conclusão que retoma os argumentos. O estilo é formal e adequado ao gênero dissertativo do CACD. A coerência é mantida ao longo de todo o texto, com uso eficaz de conectivos e transições. A leitura flui bem. Nota: 9.0.",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade argumentativa, articulando o trecho de Oliveira Lima com a realidade contemporânea de forma pertinente. Os argumentos são organizados em torno de dois eixos claros: a confiabilidade e o caráter privilegiado da informação diplomática. Há objetividade e sistematização. Contudo, o texto poderia ter explorado exemplos mais concretos de situações em que a desinformação afetou relações internacionais, ou ter aprofundado a discussão sobre diplomacia digital com referências mais específicas (como a diplomacia via Twitter/X, por exemplo). A argumentação, embora sólida, permanece em um nível relativamente genérico. Nota: 8.5.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao contrastar os contextos históricos mencionados por Oliveira Lima com a realidade atual, identificando a mudança de papel do diplomata de detentor do monopólio informacional para agente que compete com múltiplas fontes. A reflexão sobre fake news e seus impactos na política externa é pertinente. No entanto, a análise poderia ser mais profunda: faltou problematizar tensões inerentes ao tema, como os limites da atuação diplomática em redes sociais (questões de protocolo, riscos de exposição), a diferença entre informação oficial e propaganda estatal, ou a complexidade de 'sobrepor-se' a notícias falsas em um ambiente de pós-verdade. A reflexão tende a ser mais descritiva e propositiva do que verdadeiramente crítica. Nota: 7.5.",
+      "CGPL – Correção gramatical e propriedade da linguagem: Foram identificados 2 erros gramaticais claros (concordância verbal 'faz' por 'fazem' e grafia 'canis' por 'canais'). A terceira observação listada é mais uma imprecisão de conteúdo do que erro gramatical propriamente dito, portanto contabilizam-se 2 erros gramaticais efetivos. A linguagem é, no geral, muito adequada, com vocabulário rico e registro formal apropriado. Desconto: 2 erros × 1.0 = 2.0 pontos. Nota CGPL: 28.0."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' — o sujeito composto ('a rapidez e a abrangência') exige verbo no plural: 'fazem surgir'.",
+      "Erro de ortografia: 'canis' em vez de 'canais'.",
+      "Uso impreciso/questionável: 'diminuírem seu ímpeto de produtores de informação' — 'ímpeto' não é o termo mais adequado nesse contexto; embora não seja erro gramatical estrito, a construção é semanticamente forçada. Contudo, pode ser considerado apenas impropriedade vocabular leve."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução clara que apresenta a tese, desenvolvimento em parágrafos coesos e conclusão que retoma os argumentos principais. O estilo é formal e adequado ao gênero dissertativo-argumentativo exigido pelo CACD. A coerência é mantida ao longo de todo o texto, com transições bem articuladas entre os parágrafos. Nota: 9.0.",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade argumentativa, articulando de forma objetiva e sistemática os dois eixos centrais do tema: a confiabilidade e o caráter privilegiado da informação diplomática. Há uso pertinente do texto de Oliveira Lima como ponto de partida e referência ao longo da argumentação. O conteúdo é relevante e bem direcionado ao enunciado. Contudo, a argumentação poderia ter sido enriquecida com exemplos mais concretos de situações em que fake news afetaram relações internacionais, ou com referências a práticas diplomáticas contemporâneas específicas (diplomacia digital, por exemplo). Nota: 8.5.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao contrastar os contextos históricos mencionados por Oliveira Lima (décadas de 1820 e 1910) com a realidade contemporânea. A reflexão sobre o papel do diplomata como contraponto às fake news é pertinente. No entanto, a análise poderia ter sido mais profunda: o texto tende a repetir a mesma ideia central (diplomata como fonte confiável vs. fake news) sem aprofundar significativamente as nuances do tema — como os limites da atuação diplomática nas redes sociais, tensões entre transparência e sigilo, ou a transformação da própria natureza da diplomacia na era digital. A reflexão, embora correta, permanece em um nível relativamente superficial. Nota: 7.5.",
+      "Correção gramatical: Foram identificados 2 erros claros (concordância verbal com 'faz' e grafia de 'canis') e 1 impropriedade vocabular menor. O texto, de modo geral, apresenta excelente domínio da norma culta, com períodos bem construídos e vocabulário adequado. Desconto de 2.0 pontos pelos erros identificados, resultando em 28.0 de 30.0 pontos no critério de correção gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 8.5,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' — o sujeito composto ('a rapidez e a abrangência') exige verbo no plural: 'fazem surgir'.",
+      "Erro de ortografia: 'canis' em vez de 'canais'.",
+      "Uso impreciso/questionável: 'levou os diplomatas a diminuírem' — embora aceitável em registros menos formais, a construção com infinitivo flexionado após 'levar a' é discutível; porém, considerando a norma culta contemporânea, pode ser aceito. Não contabilizado como erro grave, mas registrado como observação."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que apresenta a tese, desenvolvimento em dois parágrafos bem articulados e conclusão que retoma os argumentos principais. O texto é coeso e fluido, com uso adequado de conectivos e transições entre parágrafos.",
+      "O candidato demonstra boa capacidade de argumentação ao articular dois eixos principais: o diplomata como fonte de informação confiável (em contraposição às fake news) e como fonte de informação privilegiada (por representar o posicionamento oficial do Estado). A referência a Oliveira Lima é bem integrada ao argumento.",
+      "A capacidade de análise e reflexão é satisfatória, mas poderia ser aprofundada. O texto tende a ser um pouco repetitivo em seus argumentos centrais, reiterando a ideia de combate às fake news sem explorar outras dimensões do papel informacional do diplomata — como a análise geopolítica, a inteligência estratégica, a diplomacia pública ou as tensões entre transparência e sigilo. A reflexão sobre o uso das redes sociais pelo diplomata é mencionada, mas não desenvolvida com profundidade.",
+      "O erro de concordância verbal ('faz' por 'fazem') é relevante por se tratar de construção básica. O erro de ortografia ('canis' por 'canais') é provavelmente um lapso de digitação/escrita, mas deve ser contabilizado. No geral, o domínio da norma culta é muito bom, com vocabulário adequado e construções sintáticas bem elaboradas.",
+      "Nota do critério 2 (Correção gramatical): Considerando 2 erros efetivos (concordância e ortografia), a penalização é moderada. Partindo de 30.0 pontos, desconta-se aproximadamente 2.0 pontos, resultando em 28.0 pontos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' — o sujeito composto exige 'fazem surgir'.",
+      "Erro de grafia: 'canis' em vez de 'canais'.",
+      "Uso de 'cenário' grafado como 'cenário' na primeira ocorrência está correto, mas na segunda ocorrência ('cenário') também está correto — desconsiderado. Porém, 'nesse cenário' aparece duas vezes no texto, o que configura repetição estilística, não erro gramatical propriamente."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que apresenta a tese, desenvolvimento bem estruturado em dois eixos (confiabilidade e caráter privilegiado da informação diplomática) e conclusão que retoma e arremata o argumento.",
+      "O candidato demonstra boa capacidade de articulação com o texto de Oliveira Lima, utilizando-o como ponto de partida para uma reflexão atualizada sobre o papel do diplomata na era digital.",
+      "A argumentação é coerente e bem encadeada, com uso adequado de conectivos e progressão lógica das ideias.",
+      "A linguagem é formal, adequada ao contexto do concurso, com vocabulário preciso e variado.",
+      "Ponto de atenção: há certa repetitividade na argumentação — a ideia de que o diplomata deve combater fake news com informação confiável é reiterada diversas vezes sem grande aprofundamento ou variação de perspectiva. Faltou explorar mais dimensões do tema, como exemplos concretos, tensões entre transparência e sigilo diplomático, ou a diplomacia pública.",
+      "Erro de concordância ('faz' por 'fazem') e erro de digitação ('canis' por 'canais') prejudicam levemente a nota no aspecto gramatical."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' — o sujeito composto exige 'fazem surgir'.",
+      "Erro de grafia: 'canis' em vez de 'canais'.",
+      "Uso de 'cenário' grafado como 'cenário' na primeira ocorrência está correto, mas na segunda ocorrência aparece como 'cenário' — ambas estão corretas; porém, a repetição de 'cenário' em dois parágrafos próximos é uma questão estilística menor."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que apresenta a tese, desenvolvimento bem estruturado em dois eixos (confiabilidade e caráter privilegiado da informação diplomática) e conclusão que retoma e arremata o argumento.",
+      "O candidato demonstra boa capacidade de articulação com o texto de Oliveira Lima, utilizando-o como ponto de partida para uma reflexão atualizada sobre o papel do diplomata na era digital.",
+      "A argumentação é coerente e bem encadeada, com uso adequado de conectivos e progressão lógica das ideias.",
+      "A linguagem é formal, adequada ao contexto do concurso, com vocabulário preciso e variado.",
+      "Há um erro de concordância verbal relevante ('faz' em vez de 'fazem') e um erro de digitação/grafia ('canis' por 'canais') que comprometem levemente a correção gramatical.",
+      "A redação poderia ter explorado com maior profundidade exemplos concretos de situações em que a informação diplomática se contrapôs a fake news, ou ter aprofundado a reflexão sobre os riscos e limites do uso de redes sociais por diplomatas.",
+      "No geral, trata-se de um texto muito bem redigido, com argumentação sólida e boa articulação com o enunciado proposto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' — o sujeito composto exige 'fazem surgir'.",
+      "Erro de grafia: 'canis' em vez de 'canais'.",
+      "Uso de 'cenário' grafado como 'cenário' na primeira ocorrência está correto, mas na segunda ocorrência ('cenário') também está correto — desconsiderado. Porém, 'cenário' aparece grafado como 'cenário' em ambas as ocorrências, sem erro."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que apresenta a tese, desenvolvimento bem estruturado em dois eixos (confiabilidade e caráter privilegiado da informação diplomática) e conclusão que retoma e arremata o argumento.",
+      "O candidato demonstra boa capacidade de articulação com o texto de Oliveira Lima, utilizando-o como ponto de partida para uma reflexão atualizada sobre o papel do diplomata na era digital.",
+      "A argumentação é coerente e bem encadeada, com uso adequado de conectivos e progressão lógica das ideias.",
+      "A linguagem é formal, adequada ao contexto do concurso, com vocabulário preciso e variado.",
+      "Há um erro de concordância verbal relevante ('faz' em vez de 'fazem') e um erro de digitação/grafia ('canis' por 'canais') que comprometem levemente a correção gramatical.",
+      "O texto poderia ter explorado com maior profundidade exemplos concretos de situações em que a informação diplomática se contrapôs a fake news, ou ter aprofundado a reflexão sobre os riscos e oportunidades do uso de redes sociais por diplomatas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' — o sujeito composto exige 'fazem surgir'.",
+      "Erro de grafia: 'canis' em vez de 'canais'.",
+      "Uso impreciso: 'cenário' grafado como 'cenário' no segundo parágrafo e como 'cenário' no quarto — sem erro, mas 'cenário' aparece repetido em parágrafos distintos com a mesma função, o que é mais questão estilística."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura, com introdução, desenvolvimento em dois eixos (confiabilidade e caráter privilegiado da informação diplomática) e conclusão articulada. O encadeamento lógico é claro e coerente.",
+      "O candidato dialoga adequadamente com o texto de Oliveira Lima, utilizando-o como ponto de partida para a reflexão e retomando-o ao longo da argumentação, o que demonstra boa compreensão do enunciado.",
+      "A argumentação, embora bem construída, é relativamente previsível e circular: a ideia de que o diplomata deve produzir informação confiável para combater fake news é reiterada diversas vezes sem grande aprofundamento analítico ou exemplificação concreta. Faltam exemplos históricos ou contemporâneos que enriqueceriam a análise.",
+      "O texto poderia explorar com mais profundidade as tensões entre diplomacia tradicional e diplomacia digital, ou discutir casos concretos de desinformação que afetaram relações internacionais, elevando o nível de sofisticação argumentativa.",
+      "O domínio da norma culta é consistente, com vocabulário adequado ao registro formal exigido pelo CACD. Os poucos deslizes (concordância verbal e erro de digitação) não comprometem a qualidade geral do texto.",
+      "A conclusão retoma bem os argumentos desenvolvidos, mas poderia ser mais incisiva ou propositiva, indo além da reafirmação do papel do diplomata."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' — o sujeito composto exige 'fazem surgir'.",
+      "Erro de grafia: 'canis' em vez de 'canais'.",
+      "Uso impreciso: 'cenário' grafado como 'cenário' no segundo parágrafo e como 'cenário' no quarto — sem erro, mas 'cenário' aparece repetido em contextos próximos, o que é mais questão estilística."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura organizacional, com introdução, desenvolvimento em dois eixos (confiabilidade e caráter privilegiado da informação diplomática) e conclusão articulada. O encadeamento lógico é claro e coerente.",
+      "O candidato demonstra compreensão adequada do texto de Oliveira Lima e o utiliza de forma pertinente ao longo da argumentação, estabelecendo paralelos entre o contexto histórico e a realidade contemporânea.",
+      "A argumentação, embora bem construída, é relativamente previsível e circular: a ideia de que o diplomata deve produzir informação confiável para combater fake news é reiterada diversas vezes sem grande aprofundamento analítico ou exemplificação concreta. Falta maior sofisticação argumentativa — por exemplo, discutir tensões entre transparência e sigilo diplomático, ou o impacto da diplomacia pública e digital com exemplos concretos.",
+      "O vocabulário é adequado e formal, compatível com o registro esperado no CACD, embora com certa repetitividade lexical (informação confiável e privilegiada, notícias falsas, política externa).",
+      "O erro de concordância ('faz' por 'fazem') e o erro de digitação ('canis' por 'canais') são deslizes que, embora pontuais, comprometem levemente a impressão de domínio pleno da norma culta.",
+      "Para alcançar a faixa Excelente, seria necessário maior profundidade analítica, exemplos históricos ou contemporâneos concretos, e uma reflexão mais original sobre as transformações do papel do diplomata na era digital."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Erro de concordância verbal: 'a rapidez e a abrangência da difusão de notícias faz surgir' — o sujeito composto exige 'fazem surgir'.",
+      "Erro de grafia: 'canis' em vez de 'canais'.",
+      "Uso impreciso: 'cenário' grafado como 'cenário' no segundo parágrafo e como 'cenário' no quarto — sem erro, mas 'cenário' aparece repetido em parágrafos distintos com a mesma função, o que é mais questão estilística."
+    ],
+    "feedbacks": [
+      "O texto apresenta boa estrutura dissertativa, com introdução, desenvolvimento em dois eixos (confiabilidade e caráter privilegiado da informação diplomática) e conclusão articulada. A organização é clara e o encadeamento lógico é consistente.",
+      "O candidato demonstra compreensão adequada do enunciado e do trecho de Oliveira Lima, utilizando-o como ponto de partida para a reflexão sobre o papel contemporâneo do diplomata. A referência ao autor é bem integrada ao argumento.",
+      "A argumentação, embora coerente e bem conduzida, é relativamente previsível e circular: a ideia de que o diplomata deve produzir informação confiável para combater fake news é reiterada ao longo do texto sem grande aprofundamento analítico ou exemplificação concreta. Faltam referências históricas, teóricas ou factuais que enriquecessem a discussão (por exemplo, casos concretos de desinformação afetando relações internacionais, ou reflexões sobre diplomacia pública e digital).",
+      "O domínio da norma culta é bom, com vocabulário adequado ao registro formal exigido pelo CACD. Os poucos deslizes (concordância verbal com sujeito composto e o erro de digitação 'canis') não comprometem a qualidade geral, mas são perceptíveis.",
+      "Para alcançar uma faixa superior, o texto se beneficiaria de maior profundidade analítica, originalidade argumentativa e diversificação de referências — históricas, conceituais ou empíricas — que demonstrassem domínio mais amplo do tema e capacidade de reflexão sofisticada."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 1,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de vírgula ou conectivo entre 'computadores' e 'a difusão': falta de conjunção 'e' — 'a rede mundial de computadores e a difusão das redes sociais'.",
+      "'revela se equivocado' — falta de hífen no pronome reflexivo: 'revela-se equivocado'.",
+      "'A disseminação de discursos de ódio e de notícias falsas exemplificam' — erro de concordância verbal: o sujeito núcleo é 'disseminação' (singular), deveria ser 'exemplifica'.",
+      "'O diplomata continuará, sendo, dessa maneira' — vírgula indevida entre 'continuará' e 'sendo', quebrando a locução verbal.",
+      "'proscrição' — embora não seja erro estrito, o uso é adequado; porém a construção 'a proscrição do uso da força' poderia ser considerada redundante. (Desconsiderado como erro gramatical.)"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que dialoga com o texto de Oliveira Lima, desenvolvimento em parágrafos temáticos bem delimitados e conclusão que retoma os argumentos principais. O estilo é formal e adequado ao gênero dissertativo do CACD.",
+      "A argumentação é sólida e bem estruturada, abordando múltiplas dimensões do tema: a função analítica do diplomata frente às fake news, o uso das redes sociais como ferramenta de diplomacia pública (soft power), a transparência do processo decisório e a capacidade de resposta rápida. Os exemplos concretos (página do Itamaraty no Facebook, Operação Carne Fraca) conferem concretude à argumentação.",
+      "A capacidade de análise e reflexão é elevada, com o candidato demonstrando habilidade em articular conceitos como diplomacia pública, governança global, legitimidade e transparência. A reflexão sobre a transformação do papel do diplomata — de mero relator para produtor ativo de informação e gestor de imagem — é pertinente e bem desenvolvida. Poderia haver maior aprofundamento crítico sobre os riscos e limites do uso das redes sociais pela diplomacia.",
+      "Foram identificados 4 erros gramaticais efetivos: ausência de conectivo 'e' no primeiro parágrafo, falta de hífen em 'revela-se', erro de concordância verbal ('exemplificam' por 'exemplifica') e vírgula indevida na última frase separando locução verbal.",
+      "De modo geral, trata-se de uma redação de alto nível, com domínio do tema, boa articulação argumentativa e linguagem adequada, com poucos deslizes gramaticais."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de vírgula ou conectivo entre 'computadores' e 'a difusão': falta de conjunção 'e' — 'a rede mundial de computadores e a difusão das redes sociais'.",
+      "'revela se equivocado' — falta de hífen no pronome reflexivo: 'revela-se equivocado'.",
+      "'A disseminação de discursos de ódio e de notícias falsas exemplificam' — erro de concordância verbal: o sujeito núcleo é 'disseminação' (singular), deveria ser 'exemplifica'.",
+      "Vírgula indevida separando sujeito e predicado no último período: 'O diplomata continuará, sendo, dessa maneira' — a primeira vírgula após 'continuará' é inadequada.",
+      "'proscrição' — embora não seja erro estrito, o uso é aceitável; porém a construção 'a proscrição do uso da força' poderia ser mais precisa. (Nota: este item é discutível e pode ser desconsiderado.)"
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema a partir de Oliveira Lima, desenvolvimento em parágrafos bem estruturados com argumentos distintos e complementares, e conclusão que retoma as ideias centrais de forma coesa.",
+      "A argumentação é sólida e bem fundamentada, com exemplos concretos e pertinentes (Operação Carne Fraca, página do Itamaraty no Facebook, disseminação de fake news), que demonstram conhecimento da realidade diplomática brasileira contemporânea.",
+      "A capacidade de análise e reflexão é notável: o candidato não se limita a uma visão unilateral, mas explora múltiplas dimensões do tema — o diplomata como filtro qualitativo de informações, as redes sociais como oportunidade para diplomacia pública, a transparência do processo decisório e a capacidade de resposta célere.",
+      "O texto dialoga adequadamente com o enunciado, conectando a preocupação histórica de Oliveira Lima com os desafios contemporâneos, e demonstra compreensão da evolução do papel informacional do diplomata.",
+      "Há poucos erros gramaticais, sendo os mais relevantes a falta de hífen em 'revela-se', o erro de concordância em 'exemplificam' e a vírgula indevida no último período. A linguagem é formal, precisa e adequada ao gênero dissertativo exigido pelo CACD.",
+      "Ponto de melhoria: a reflexão poderia ter explorado com maior profundidade os riscos específicos das redes sociais para a atividade diplomática (como vazamentos, exposição indevida de posições negociais) e a tensão entre transparência e sigilo diplomático."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 9.0,
+    "nota_1B": 9.0,
+    "nota_1C": 9.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de conectivo ou vírgula entre 'computadores' e 'a difusão': falta a conjunção 'e' — 'a rede mundial de computadores e a difusão das redes sociais'.",
+      "'revela se equivocado' — falta hífen: 'revela-se equivocado'.",
+      "'A disseminação de discursos de ódio e de notícias falsas exemplificam' — erro de concordância verbal: o sujeito núcleo é 'disseminação' (singular), portanto deveria ser 'exemplifica'.",
+      "No último parágrafo, vírgula indevida separando sujeito e predicado: 'O diplomata continuará, sendo, dessa maneira, um produtor' — a vírgula após 'continuará' é inadequada.",
+      "'esse risco revela se equivocado' — além do hífen faltante, a construção 'risco revela-se equivocado' apresenta imprecisão semântica (o risco não se revela equivocado, mas sim o temor); embora seja mais questão de propriedade da linguagem, conta como impropriedade."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que dialoga com o texto de Oliveira Lima, desenvolvimento em parágrafos temáticos bem delimitados e conclusão que retoma os argumentos principais.",
+      "A argumentação é sólida e bem fundamentada, com exemplos concretos e pertinentes (Operação Carne Fraca, página do Itamaraty no Facebook, disseminação de fake news), demonstrando conhecimento da realidade diplomática brasileira.",
+      "A capacidade de análise e reflexão é notável: o candidato não se limita a constatar o desafio das novas tecnologias, mas explora múltiplas dimensões — a função analítica do diplomata frente à desinformação, o uso das redes como instrumento de soft power, a transparência do processo decisório e a capacidade de resposta célere.",
+      "Há poucos erros gramaticais, mas a concordância verbal com 'exemplificam' e a vírgula indevida no último parágrafo são falhas que merecem atenção.",
+      "A redação poderia ter explorado mais diretamente o trecho de Oliveira Lima ao longo do desenvolvimento, não apenas na introdução, para manter o diálogo com a fonte ao longo de todo o texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de conectivo ou vírgula em 'a rede mundial de computadores a difusão das redes sociais' — falta 'e' entre os dois sujeitos coordenados ('a rede mundial de computadores e a difusão das redes sociais').",
+      "'revela se equivocado' — falta hífen: 'revela-se equivocado'.",
+      "'A disseminação de discursos de ódio e de notícias falsas exemplificam' — erro de concordância verbal: o sujeito núcleo é 'disseminação' (singular), portanto o verbo deveria ser 'exemplifica'.",
+      "'O diplomata continuará, sendo, dessa maneira' — vírgula indevida entre 'continuará' e 'sendo', separando verbo auxiliar de verbo principal em locução verbal.",
+      "Uso de 'proscrição' em contexto que poderia gerar ambiguidade, embora aceitável; menor questão de propriedade lexical."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que dialoga com o texto de Oliveira Lima, desenvolvimento em múltiplos parágrafos bem articulados e conclusão coerente.",
+      "O candidato demonstra capacidade argumentativa sólida, abordando o tema sob diversas perspectivas: a função analítica do diplomata diante de fake news, o uso das redes sociais como ferramenta de soft power, a transparência do processo decisório e a agilidade de resposta diplomática.",
+      "Os exemplos concretos (página do Itamaraty no Facebook, Operação Carne Fraca) enriquecem a argumentação e demonstram conhecimento aplicado.",
+      "A linguagem é adequada ao contexto do concurso, com vocabulário sofisticado e registro formal bem mantido ao longo do texto.",
+      "Os erros gramaticais identificados, embora poucos, incluem falhas de concordância verbal e de pontuação que comprometem levemente a correção do texto.",
+      "A reflexão sobre a tensão entre tradição e inovação na função diplomática é bem conduzida e responde adequadamente ao enunciado proposto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de conectivo ou vírgula em 'a rede mundial de computadores a difusão das redes sociais' — falta 'e' entre os dois sujeitos compostos ('a rede mundial de computadores e a difusão das redes sociais').",
+      "'revela se equivocado' — falta hífen: 'revela-se equivocado'.",
+      "'A disseminação de discursos de ódio e de notícias falsas exemplificam' — erro de concordância verbal: o sujeito núcleo é 'disseminação' (singular), devendo ser 'exemplifica'.",
+      "'O diplomata continuará, sendo, dessa maneira' — vírgula indevida entre 'continuará' e 'sendo', separando verbo auxiliar de principal.",
+      "'a fim de que possam discernir a magnitude dos acontecimentos' — uso impreciso de 'magnitude' nesse contexto; embora não seja erro gramatical estrito, compromete a propriedade da linguagem."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que dialoga com o texto de Oliveira Lima, desenvolvimento em múltiplos parágrafos temáticos bem articulados e conclusão que retoma os argumentos centrais.",
+      "O candidato demonstra capacidade argumentativa sólida, explorando diferentes dimensões do tema: a função analítica do diplomata diante de fake news, o uso das redes sociais como ferramenta de diplomacia pública, a transparência do processo decisório e a agilidade comunicacional.",
+      "Os exemplos concretos (página do Itamaraty no Facebook, Operação Carne Fraca) enriquecem a argumentação e demonstram conhecimento aplicado da realidade diplomática brasileira.",
+      "O texto articula bem conceitos como soft power, governança global e legitimidade democrática da política externa, demonstrando repertório adequado ao CACD.",
+      "Há poucos erros gramaticais, mas a falta do conectivo 'e' no primeiro parágrafo e o erro de concordância verbal são falhas que comprometem a correção linguística. A vírgula indevida na última frase também prejudica o fechamento do texto.",
+      "A reflexão poderia ter explorado mais diretamente o contraste entre o diplomata 'escritor' de Oliveira Lima e o diplomata contemporâneo, aprofundando o diálogo com o texto motivador."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de conectivo ou vírgula em 'a rede mundial de computadores a difusão das redes sociais' — falta 'e' entre os dois sujeitos compostos: 'a rede mundial de computadores e a difusão das redes sociais'.",
+      "'revela se equivocado' — falta hífen no pronome reflexivo: 'revela-se equivocado'.",
+      "'A disseminação de discursos de ódio e de notícias falsas exemplificam' — erro de concordância verbal: o sujeito núcleo é 'disseminação' (singular), portanto o verbo deveria ser 'exemplifica'.",
+      "'O diplomata continuará, sendo, dessa maneira' — vírgula indevida entre 'continuará' e 'sendo', separando verbo auxiliar de verbo principal.",
+      "'a fim de que possam discernir a magnitude dos acontecimentos' — uso impreciso de 'magnitude' neste contexto; embora não seja erro gramatical estrito, há impropriedade lexical leve."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento em múltiplos parágrafos temáticos bem articulados e conclusão coerente que retoma os argumentos principais.",
+      "O candidato demonstra capacidade argumentativa sólida, articulando o tema proposto com conceitos relevantes como soft power, governança global, transparência e legitimidade democrática da política externa.",
+      "Os exemplos concretos utilizados (página do Itamaraty no Facebook, Operação Carne Fraca) enriquecem a argumentação e demonstram conhecimento atualizado.",
+      "O texto dialoga adequadamente com o trecho de Oliveira Lima apresentado no enunciado, contextualizando historicamente a questão e projetando-a para a contemporaneidade.",
+      "Há poucos erros gramaticais, mas a falta do conectivo 'e' no primeiro parágrafo e o erro de concordância verbal com 'exemplificam' são falhas que comprometem levemente a correção gramatical.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário preciso, demonstrando domínio da norma culta."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de conectivo ou vírgula entre 'computadores' e 'a difusão': falta a conjunção 'e' — 'a rede mundial de computadores e a difusão das redes sociais'.",
+      "Erro de concordância verbal: 'A disseminação de discursos de ódio e de notícias falsas exemplificam' — o sujeito núcleo é 'disseminação' (singular), devendo ser 'exemplifica'.",
+      "Erro de colocação do hífen em 'revela se equivocado': deveria ser 'revela-se equivocado'.",
+      "Vírgula indevida em 'O diplomata continuará, sendo, dessa maneira': a vírgula após 'continuará' separa indevidamente o verbo auxiliar do gerúndio.",
+      "Uso impreciso de 'representatividade' no contexto de política externa, onde 'legitimidade' ou 'credibilidade' seriam mais adequados em algumas ocorrências, embora não constitua erro gramatical estrito."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão, demonstrando planejamento textual.",
+      "O candidato articula bem o tema proposto, conectando a reflexão de Oliveira Lima sobre os relatos diplomáticos à realidade contemporânea das redes sociais e meios digitais.",
+      "A argumentação é pertinente e diversificada: aborda a função analítica do diplomata frente às fake news, o uso das redes como instrumento de soft power, a transparência do processo decisório e a capacidade de resposta diplomática.",
+      "Os exemplos concretos (página do Itamaraty no Facebook, Operação Carne Fraca) enriquecem a argumentação e demonstram conhecimento aplicado, embora pudessem ser mais aprofundados.",
+      "A linguagem é adequada ao contexto do CACD, com vocabulário pertinente à área de relações internacionais, embora em alguns momentos a argumentação se torne um pouco previsível e formulaica.",
+      "Há alguns erros gramaticais pontuais (concordância, ausência de conjunção, vírgula indevida) que, embora não comprometam a compreensão, impedem a classificação em faixa superior.",
+      "A reflexão poderia ser mais aprofundada no diálogo direto com o texto de Oliveira Lima, explorando com maior riqueza a tensão entre a tradição dos relatos diplomáticos e a comunicação digital contemporânea."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de conectivo ou vírgula entre 'computadores' e 'a difusão': falta a conjunção 'e' — 'a rede mundial de computadores e a difusão das redes sociais'.",
+      "'revela se equivocado' — falta hífen: 'revela-se equivocado'.",
+      "Erro de concordância verbal: 'A disseminação de discursos de ódio e de notícias falsas exemplificam' — o núcleo do sujeito é 'disseminação' (singular), devendo ser 'exemplifica'.",
+      "Vírgula indevida em 'continuará, sendo' — a vírgula separa verbo auxiliar de seu complemento sem justificativa.",
+      "Uso questionável de 'proscrição' sem maior contextualização, embora não seja erro gramatical estrito, é um deslize de precisão vocabular menor."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão articulada, demonstrando planejamento textual.",
+      "O candidato demonstra bom domínio do tema, articulando o papel informacional do diplomata com desafios contemporâneos como fake news, diplomacia pública, redes sociais e transparência institucional.",
+      "A argumentação é pertinente e bem encadeada, com exemplos concretos (Operação Carne Fraca, página do Itamaraty no Facebook) que enriquecem o texto, embora alguns argumentos sejam relativamente previsíveis para o contexto do CACD.",
+      "O texto dialoga adequadamente com o enunciado e com a citação de Oliveira Lima, contextualizando a evolução histórica da função informacional do diplomata.",
+      "Há alguns erros gramaticais pontuais (concordância, hífen, vírgula indevida) que, embora não comprometam a compreensão, impedem a classificação em faixa superior.",
+      "Para alcançar a faixa 'Excelente', o texto se beneficiaria de maior profundidade analítica, referências teóricas mais sofisticadas (como conceitos de soft power de Nye, ou discussões sobre diplomacia digital) e maior originalidade argumentativa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 5,
+    "erros_gramaticais": [
+      "Ausência de conectivo ou vírgula entre 'computadores' e 'a difusão': falta a conjunção 'e' — 'a rede mundial de computadores e a difusão das redes sociais'.",
+      "Erro de concordância verbal: 'A disseminação de discursos de ódio e de notícias falsas exemplificam' — o sujeito núcleo é 'disseminação' (singular), devendo ser 'exemplifica'.",
+      "Hífen ausente em 'revela se equivocado' — o correto é 'revela-se equivocado'.",
+      "Vírgula indevida em 'O diplomata continuará, sendo, dessa maneira' — a vírgula após 'continuará' separa indevidamente o verbo auxiliar do gerúndio.",
+      "Uso impreciso de 'representatividade' no contexto de política externa, onde 'legitimidade' ou 'credibilidade' seriam mais adequados em algumas ocorrências, embora não constitua erro gramatical estrito."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura bem organizada, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão articulada, demonstrando domínio da forma dissertativa exigida pelo CACD.",
+      "O candidato dialoga adequadamente com o texto de Oliveira Lima, utilizando-o como ponto de partida para uma reflexão sobre a atualização das funções informacionais do diplomata, o que demonstra boa compreensão do enunciado.",
+      "A argumentação é pertinente e diversificada: aborda a questão das fake news, o soft power e as redes sociais como ferramenta diplomática, a transparência do processo decisório e a capacidade de resposta célere. Contudo, a análise poderia ser mais aprofundada em cada ponto, evitando certa superficialidade.",
+      "Os exemplos concretos (página do Itamaraty no Facebook, Operação Carne Fraca) enriquecem a argumentação e demonstram conhecimento aplicado, embora pudessem ser mais desenvolvidos.",
+      "Há alguns deslizes gramaticais (concordância, pontuação, ausência de conjunção) que, embora não comprometam a compreensão, prejudicam a fluência e a correção esperadas no nível do CACD.",
+      "A reflexão, embora competente, tende a ser mais descritiva do que analítica em certos trechos, e poderia explorar com maior profundidade tensões e contradições (por exemplo, os riscos de exposição excessiva nas redes sociais ou os limites da diplomacia digital), o que a impede de alcançar a faixa 'Excelente'."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 2,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"colocou fim ao oligopólio\" — a expressão mais adequada seria \"pôs fim ao oligopólio\" ou \"acabou com o oligopólio\"; \"colocar fim\" é considerado inadequado no registro formal.",
+      "\"as mesmas que eram exigidas aos diplomatas\" — o verbo 'exigir' rege a preposição 'de' (exigidas dos diplomatas), não 'a'.",
+      "\"quase que instantaneamente\" — o \"que\" é expletivo desnecessário e considerado inadequado em registro formal culto; o correto seria \"quase instantaneamente\".",
+      "\"as mesmas que lhes eram exigidas\" — novamente, a regência de 'exigir' pede 'de' e não 'a' (deles, e não lhes)."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução clara que dialoga com o trecho de Oliveira Lima, desenvolvimento em parágrafos temáticos bem delimitados e conclusão que retoma os argumentos principais. O estilo é formal e adequado ao gênero dissertativo-argumentativo do CACD. A coerência é mantida ao longo de todo o texto, com uso adequado de conectivos e transições. A estrutura é previsível mas eficaz. Nota: 8.5.",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade argumentativa ao estruturar o texto em torno de três eixos: pluralização das fontes de informação, rapidez na disseminação e continuidade das habilidades diplomáticas. O exemplo concreto da vereadora assassinada (referência a Marielle Franco) é pertinente, embora pudesse ter sido desenvolvido com mais cuidado e precisão. A argumentação é objetiva e sistemática, mas poderia ter explorado mais aspectos do tema, como a diplomacia digital, o papel das embaixadas nas redes sociais, ou exemplos mais variados de desafios informacionais contemporâneos. Nota: 8.0.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao contrastar o contexto descrito por Oliveira Lima com a realidade contemporânea, identificando tanto rupturas (novos desafios) quanto continuidades (habilidades perenes). A reflexão sobre fake news e a multiplicidade de narrativas é relevante. Contudo, a análise poderia ser mais profunda: faltou explorar dimensões como a relação entre diplomacia pública e redes sociais, o impacto da transparência forçada (como WikiLeaks) na atividade diplomática, ou a tensão entre velocidade e qualidade da informação de forma mais sofisticada. O parágrafo sobre continuidades é relativamente superficial. Nota: 7.5.",
+      "Correção gramatical: O texto apresenta poucos erros gramaticais, demonstrando bom domínio da norma culta. Foram identificados 4 erros, predominantemente de regência verbal e impropriedade vocabular. A pontuação é geralmente adequada, embora haja uso abundante de vírgulas que, embora não incorreto, por vezes torna a leitura mais pesada."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"colocou fim ao oligopólio\" — a expressão mais adequada seria \"pôs fim ao oligopólio\" ou \"acabou com o oligopólio\"; \"colocar fim\" é considerado inadequado no registro formal.",
+      "\"as mesmas que eram exigidas aos diplomatas\" — o verbo 'exigir' rege a preposição 'de' (exigidas dos diplomatas), não 'a'.",
+      "\"quase que instantaneamente\" — o \"que\" é expletivo desnecessário e considerado inadequado em registro formal culto; o correto seria \"quase instantaneamente\".",
+      "\"uma vereadora recentemente assassinada no Rio de Janeiro teria relações com narcotraficantes\" — embora não seja erro gramatical estrito, a referência a Marielle Franco sem nomeá-la e com imprecisão factual (a informação falsa era sobre ligações com milícias/tráfico, mas o exemplo é apresentado de forma vaga) constitui imprecisão argumentativa; do ponto de vista gramatical, a construção é aceitável, porém a falta de especificidade enfraquece o argumento. Reclassificando: não é erro gramatical propriamente dito."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que dialoga com o texto de Oliveira Lima, desenvolvimento em parágrafos temáticos bem delimitados e conclusão que retoma as ideias centrais. A estrutura é clara e o texto flui com coerência.",
+      "A argumentação é sólida e pertinente ao tema proposto. O candidato aborda adequadamente os desafios impostos pela revolução digital à atividade diplomática — pluralização de fontes, fake news e velocidade de disseminação — e os conecta ao papel do diplomata como produtor de informação confiável. O exemplo concreto (caso da vereadora assassinada) demonstra tentativa de fundamentar o argumento, embora pudesse ser mais preciso.",
+      "A capacidade de análise e reflexão é satisfatória, mas poderia ser aprofundada. O candidato identifica corretamente elementos de continuidade e mudança na atividade diplomática, o que demonstra maturidade analítica. No entanto, a reflexão sobre as habilidades tradicionais do diplomata (penúltimo parágrafo) é algo genérica e repetitiva em relação ao que já havia sido dito. Faltou explorar com mais profundidade aspectos como a diplomacia pública, o papel das redes sociais na formação de opinião pública internacional, ou a relação entre informação privilegiada e tomada de decisão em política externa.",
+      "O texto apresenta poucos erros gramaticais, demonstrando bom domínio da norma culta. A linguagem é formal e adequada ao gênero dissertativo. Há boa variedade de conectivos e estruturas sintáticas.",
+      "A conclusão, embora coerente, é algo redundante, repetindo ideias já apresentadas sem acrescentar uma reflexão final mais elaborada ou provocativa. O texto se beneficiaria de uma conclusão mais sintética e impactante.",
+      "De modo geral, trata-se de uma redação bem construída, com argumentação pertinente e poucos desvios linguísticos, mas que poderia ganhar em profundidade analítica e originalidade reflexiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 7.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"colocou fim ao oligopólio\" — a expressão mais adequada seria \"pôs fim ao oligopólio\" ou \"acabou com o oligopólio\"; \"colocar fim\" é considerado inadequado no registro formal.",
+      "\"as mesmas que eram exigidas aos diplomatas\" — o verbo 'exigir' rege a preposição 'de' (exigidas dos diplomatas), não 'a'.",
+      "\"quase que instantaneamente\" — o 'que' é expletivo desnecessário e considerado inadequado em registro formal culto; o correto seria \"quase instantaneamente\".",
+      "\"à medida que o contexto atual é, cada vez mais, caracterizado\" — embora gramaticalmente correto, o uso de \"à medida que\" aqui tem valor causal e não proporcional, o que configura impropriedade; o mais adequado seria \"uma vez que\" ou \"dado que\"."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução clara que dialoga com o trecho de Oliveira Lima, desenvolvimento em parágrafos temáticos bem delimitados e conclusão que retoma os argumentos principais. O estilo é formal e adequado ao gênero dissertativo-argumentativo do CACD. A coerência é mantida ao longo de todo o texto, com uso eficaz de conectivos e transições. A estrutura é previsível, mas funcional. Nota: 8.5",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade argumentativa ao identificar os desafios impostos pela revolução tecnológica à atividade diplomática: pluralização de fontes, disseminação de fake news e velocidade da informação. O exemplo concreto (caso da vereadora assassinada no Rio de Janeiro, referência a Marielle Franco) é pertinente e demonstra conhecimento de fatos relevantes. Contudo, a argumentação poderia ser mais rica em referências históricas e conceituais sobre a diplomacia, e o diálogo com o texto de Oliveira Lima poderia ser mais aprofundado ao longo do desenvolvimento, não apenas na introdução. A abordagem das 'continuidades' no penúltimo parágrafo é um pouco genérica. Nota: 8.0",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade analítica ao contrastar o contexto descrito por Oliveira Lima com a realidade contemporânea, identificando tanto rupturas quanto continuidades. A reflexão sobre como o excesso de informação paradoxalmente dificulta (e não facilita) o trabalho diplomático é perspicaz. No entanto, a análise poderia ser mais profunda em alguns pontos: por exemplo, poderia explorar a dimensão da diplomacia pública nas redes sociais, o papel da inteligência artificial na produção de desinformação, ou as implicações geopolíticas da guerra informacional. A conclusão, embora coerente, é algo repetitiva em relação ao que já foi dito. Nota: 7.5"
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'colocou fim' em vez de 'pôs fim' — inadequação de colocação verbal.",
+      "'as mesmas que eram exigidas aos diplomatas' — a regência mais adequada seria 'exigidas dos diplomatas'.",
+      "'quase que instantaneamente' — o 'que' é expletivo desnecessário em registro formal, embora não constitua erro grave."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que dialoga com o texto de Oliveira Lima, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma os argumentos principais.",
+      "O candidato demonstra boa capacidade argumentativa ao identificar os desafios contemporâneos à atividade diplomática: pluralização de fontes, disseminação de notícias falsas e velocidade da informação.",
+      "O uso de exemplo concreto (caso da vereadora assassinada no Rio de Janeiro) enriquece a argumentação, embora pudesse ter sido desenvolvido com mais cuidado para evitar imprecisões.",
+      "O parágrafo sobre continuidades na atividade diplomática é pertinente e demonstra maturidade reflexiva, ao equilibrar mudanças e permanências.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. A construção frasal é clara e bem articulada.",
+      "Ponto de melhoria: a redação poderia ter explorado mais profundamente a especificidade da informação diplomática em relação à informação jornalística, bem como o papel analítico e interpretativo do diplomata, diferenciando-o de mero relator de fatos.",
+      "A conclusão, embora coerente, é algo repetitiva em relação ao que já foi dito no desenvolvimento, perdendo oportunidade de oferecer uma reflexão final mais original."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'colocou fim' em vez de 'pôs fim' — inadequação de colocação verbal.",
+      "'as mesmas que eram exigidas aos diplomatas' — a regência mais adequada seria 'exigidas dos diplomatas'.",
+      "'quase que instantaneamente' — o 'que' é expletivo desnecessário em registro formal, embora não constitua erro grave."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que dialoga com o texto de Oliveira Lima, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente que retoma os argumentos principais.",
+      "O candidato demonstra boa capacidade argumentativa ao identificar os desafios contemporâneos à atividade diplomática — pluralização de fontes, fake news, velocidade da informação — e ao conectá-los com a relevância crescente do papel do diplomata como produtor de informação confiável.",
+      "O uso de exemplo concreto (caso da vereadora assassinada no Rio de Janeiro) enriquece a argumentação e demonstra conhecimento de fatos relevantes, embora a referência pudesse ser mais precisa.",
+      "O parágrafo sobre continuidades na atividade diplomática é pertinente e demonstra maturidade reflexiva, ao equilibrar mudanças e permanências.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. A correção gramatical é bastante boa, com poucos deslizes.",
+      "Um ponto de melhoria seria aprofundar a reflexão com referências mais amplas à história diplomática brasileira ou a conceitos de relações internacionais, o que enriqueceria a análise e demonstraria maior erudição.",
+      "A conclusão, embora coerente, repete em grande medida o que já foi dito, sem acrescentar uma reflexão final mais original ou provocativa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'colocou fim' em vez de 'pôs fim' — inadequação de colocação verbal.",
+      "'as mesmas que eram exigidas aos diplomatas' — regência inadequada: o verbo 'exigir' pede 'de' e não 'a' (exigidas dos diplomatas).",
+      "'quase que instantaneamente' — o 'que' é expletivo desnecessário e considerado inadequado em registro formal."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que dialoga com o texto de Oliveira Lima, desenvolvimento bem estruturado em parágrafos temáticos e conclusão coerente que retoma os argumentos principais.",
+      "O candidato demonstra boa capacidade argumentativa ao identificar os desafios contemporâneos à atividade diplomática — pluralização de fontes, fake news e velocidade de disseminação — e ao conectá-los à relevância crescente do diplomata como produtor de informação confiável.",
+      "O uso de exemplo concreto (caso da vereadora assassinada no Rio de Janeiro) enriquece a argumentação, embora pudesse ter sido desenvolvido com mais cuidado para evitar imprecisões ou viés político.",
+      "O parágrafo sobre continuidades na atividade diplomática é pertinente e demonstra maturidade reflexiva, ao equilibrar mudanças e permanências.",
+      "A linguagem é predominantemente adequada ao registro formal exigido, com vocabulário preciso e construções sintáticas bem elaboradas, embora haja pequenos deslizes.",
+      "Ponto de melhoria: a redação poderia ter explorado mais profundamente a dimensão específica da diplomacia brasileira e do Itamaraty, bem como aspectos mais sofisticados do tema, como a diplomacia digital, a transparência versus sigilo diplomático, ou o papel das redes sociais na diplomacia pública.",
+      "A conclusão, embora coerente, é algo repetitiva em relação ao que já foi dito, sem acrescentar uma reflexão final mais original ou provocativa."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'colocou fim' em vez de 'pôs fim' — expressão mais adequada na norma culta.",
+      "'as mesmas que eram exigidas aos diplomatas' — a regência mais adequada seria 'exigidas dos diplomatas' (quem exige, exige algo de alguém).",
+      "'quase que instantaneamente' — o 'que' é expletivo desnecessário e considerado inadequado em registro formal ('quase instantaneamente')."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e bem organizada, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão. O encadeamento lógico é satisfatório e os conectivos são bem empregados.",
+      "A argumentação é pertinente e aborda aspectos relevantes do tema — pluralização de fontes, fake news, velocidade da informação —, mas permanece em um nível relativamente previsível, sem grande profundidade analítica ou originalidade. Faltam referências mais sofisticadas à história diplomática, à teoria das relações internacionais ou a exemplos mais variados.",
+      "O exemplo da vereadora assassinada (Marielle Franco), embora pertinente para ilustrar fake news, é apresentado de forma indireta e um tanto vaga, sem nomear a pessoa, o que enfraquece ligeiramente o argumento. Além disso, o exemplo é predominantemente doméstico, quando o tema pedia foco na atividade diplomática internacional.",
+      "O parágrafo sobre continuidades (habilidades tradicionais do diplomata) é interessante, mas poderia ter sido mais desenvolvido, com exemplos concretos ou menções a práticas diplomáticas específicas.",
+      "A conclusão é funcional, mas repete em grande medida o que já foi dito, sem acrescentar uma reflexão final mais elevada ou um insight novo.",
+      "O domínio da norma culta é bom, com poucos deslizes. A linguagem é adequada ao contexto do concurso, embora o vocabulário pudesse ser mais rico e variado.",
+      "Para alcançar faixas superiores, seria necessário maior profundidade analítica, referências teóricas ou históricas mais sofisticadas (por exemplo, menção a Oliveira Lima em maior detalhe, ao conceito de diplomacia pública, à era da pós-verdade com fundamentação teórica), e um estilo mais maduro e original."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'colocou fim' em vez de 'pôs fim' — expressão inadequada com o verbo 'colocar'.",
+      "'as mesmas que eram exigidas aos diplomatas' — a regência mais adequada seria 'exigidas dos diplomatas' ou 'exigidas de diplomatas'.",
+      "'quase que instantaneamente' — o 'que' é expletivo desnecessário e considerado inadequado em registro formal ('quase instantaneamente')."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara e bem organizada, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão. O encadeamento lógico é satisfatório e o texto é coerente do início ao fim.",
+      "O candidato demonstra compreensão adequada do tema proposto, articulando a citação de Oliveira Lima com a realidade contemporânea das redes sociais e da disseminação de informações. A conexão entre o texto motivador e a argumentação é bem estabelecida.",
+      "A argumentação, embora competente, é relativamente previsível e carece de maior profundidade analítica. O texto poderia se beneficiar de referências mais sofisticadas — por exemplo, mencionando conceitos como 'pós-verdade', a diplomacia digital, ou exemplos históricos mais variados da atuação diplomática brasileira.",
+      "O exemplo da vereadora assassinada (referência a Marielle Franco), embora pertinente para ilustrar fake news, é apresentado de forma um tanto vaga e poderia ter sido melhor contextualizado. Além disso, a redação poderia explorar mais a dimensão propriamente diplomática (relações entre Estados, negociações, política externa) em vez de se concentrar predominantemente na questão informacional genérica.",
+      "O parágrafo sobre continuidades é interessante, mas acaba sendo algo genérico, listando habilidades sem aprofundá-las. A conclusão repete ideias já apresentadas sem acrescentar uma reflexão final mais elaborada.",
+      "O domínio da norma culta é bom, com poucos deslizes. A linguagem é adequada ao contexto do concurso, embora o vocabulário pudesse ser mais rico e variado em alguns trechos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Uso de 'colocou fim' em vez de 'pôs fim' — expressão mais adequada na norma culta.",
+      "'as mesmas que eram exigidas aos diplomatas' — a regência mais adequada seria 'exigidas dos diplomatas'.",
+      "'quase que instantaneamente' — o 'que' é expletivo desnecessário e considerado inadequado em registro formal."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara e bem organizada, com introdução, desenvolvimento em múltiplos parágrafos temáticos e conclusão. O encadeamento lógico é competente, com uso adequado de conectivos e transições.",
+      "A argumentação é pertinente e aborda o tema proposto com razoável profundidade, identificando desafios como a pluralização de fontes, a disseminação de notícias falsas e a exigência de rapidez. O exemplo concreto (caso da vereadora assassinada no Rio de Janeiro, referência a Marielle Franco) demonstra tentativa de ancoragem factual, embora pudesse ser mais bem contextualizado.",
+      "Um ponto fraco é a repetitividade: a ideia de que as habilidades exigidas são as mesmas de antes é reiterada sem aprofundamento significativo. O parágrafo sobre continuidades é relativamente superficial e previsível.",
+      "A redação dialoga com o texto de Oliveira Lima na introdução, mas poderia ter explorado mais a citação ao longo do desenvolvimento, integrando-a de forma mais orgânica à argumentação.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e vocabulário apropriado. Os erros gramaticais são poucos e de menor gravidade.",
+      "Para alcançar uma faixa superior, seria necessário maior sofisticação argumentativa, referências teóricas ou históricas mais ricas (por exemplo, menção a conceitos de diplomacia pública, soft power, ou exemplos históricos comparativos), e maior originalidade na reflexão, evitando a circularidade presente especialmente na conclusão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 3,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "Início de frase com letra minúscula: 'se nos tempos de oliveira lima' — após ponto final, deveria iniciar com maiúscula ('Se').",
+      "'oliveira lima' sem maiúsculas — nome próprio deve ser grafado 'Oliveira Lima' (ocorre no segundo parágrafo).",
+      "'notícias de procedência duvidosas' — erro de concordância nominal; o correto é 'procedência duvidosa' (o adjetivo deve concordar com 'procedência', não com 'notícias').",
+      "'têm a legitimada questionada' — erro de digitação/ortografia; o correto é 'têm a legitimidade questionada'.",
+      "'De outro lado, as mídias digitais são acusadas, da mesma forma, de difundirem' — após preposição 'de' com sujeito diferente do da oração principal, o infinitivo flexionado é aceitável, mas há inconsistência com o padrão do texto; não constitui erro grave, porém é discutível.",
+      "'f iltros' — espaço indevido no interior da palavra 'filtros'.",
+      "'tende as ser renovada' — erro de grafia; o correto é 'tende a ser renovada' (uso indevido de 'as' em vez de 'a').",
+      "'politica externa' — falta de acento gráfico em 'política'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara que contextualiza o tema, desenvolvimento em parágrafos bem estruturados e conclusão que retoma e amplia a discussão. O estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A argumentação é consistente e bem articulada: o candidato parte do excesso de informações, passa pela crise de legitimidade das mídias tradicionais e digitais, e chega ao papel renovado do diplomata como produtor de informação confiável. A referência a Mário Vargas Llosa e à 'Civilização do Espetáculo' enriquece a argumentação, embora pudesse haver mais referências a autores de Relações Internacionais ou da área diplomática.",
+      "A capacidade de análise e reflexão é demonstrada de forma satisfatória. O candidato estabelece um paradoxo interessante entre a obsolescência aparente da função analítica do diplomata e sua renovada importância no contexto contemporâneo. A menção à diplomacia pública e à política externa como política pública demonstra maturidade reflexiva. Contudo, a análise poderia ter explorado mais profundamente exemplos concretos da atuação diplomática brasileira na produção de informação.",
+      "Quanto à correção gramatical, foram identificados erros que, embora não comprometam gravemente a compreensão, revelam descuidos: falta de maiúsculas em nomes próprios, erro de concordância nominal, erro de digitação ('legitimada' por 'legitimidade'), espaço indevido em palavra e falta de acento. Esses erros, no contexto do CACD, são penalizados.",
+      "No geral, trata-se de uma redação de bom nível, com argumentação coerente e pertinente ao tema proposto, demonstrando conhecimento do papel do diplomata e capacidade de articular ideias de forma clara e organizada."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "Início de frase com letra minúscula: 'se nos tempos de oliveira lima' — após ponto final, deveria iniciar com maiúscula ('Se').",
+      "'oliveira lima' sem maiúsculas — nome próprio deve ser grafado 'Oliveira Lima' (ocorre no segundo período do primeiro parágrafo).",
+      "'notícias de procedência duvidosas' — erro de concordância nominal; o correto é 'procedência duvidosa' (o adjetivo deve concordar com 'procedência', não com 'notícias').",
+      "'têm a legitimada questionada' — erro de digitação/ortografia; o correto é 'têm a legitimidade questionada'.",
+      "'de difundirem informações falsas' — após 'acusadas de', o infinitivo não flexionado seria preferível ('de difundir'), embora haja controvérsia; mais relevante é a inconsistência de regência no paralelismo.",
+      "'f iltros' — espaço indevido no interior da palavra; o correto é 'filtros'.",
+      "'tende as ser renovada' — erro de grafia; o correto é 'tende a ser renovada' (preposição 'a', não artigo 'as').",
+      "'politica externa' — falta de acento gráfico em 'política'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura argumentativa, com introdução que contextualiza o tema, desenvolvimento em parágrafos temáticos bem definidos (excesso de informações, crise de legitimidade das mídias, papel renovado do diplomata) e conclusão que amplia a reflexão para a diplomacia pública.",
+      "O candidato demonstra capacidade de articular o texto de Oliveira Lima com a realidade contemporânea, estabelecendo um paradoxo interessante: a mesma evolução tecnológica que tornou obsoletas as longas memórias diplomáticas agora demanda novamente a capacidade analítica dos diplomatas.",
+      "A referência a Mário Vargas Llosa e à 'Civilização do Espetáculo' é pertinente e enriquece a argumentação, embora pudesse ter sido mais aprofundada.",
+      "A menção ao Itamaraty e às mídias sociais das chancelarias confere concretude ao argumento e demonstra conhecimento do candidato sobre a prática diplomática contemporânea.",
+      "A ampliação final para o conceito de 'diplomacia pública' e 'política externa como política pública' demonstra boa capacidade de reflexão e conhecimento do campo, embora pudesse ter sido mais desenvolvida.",
+      "Do ponto de vista gramatical, há erros que comprometem parcialmente a qualidade do texto, como a troca de 'legitimidade' por 'legitimada', o uso de 'as' em vez de 'a' antes de 'ser', e a falta de acentuação em 'política'. São erros que, embora não numerosos, incluem alguns de natureza básica.",
+      "O estilo é adequado ao gênero dissertativo-argumentativo, com linguagem formal e vocabulário apropriado. A coesão textual é bem trabalhada, com uso de conectivos variados."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.5,
+    "nota_1B": 8.0,
+    "nota_1C": 8.0,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "Início de frase com letra minúscula: 'se nos tempos de oliveira lima' — após ponto final, deveria iniciar com maiúscula ('Se').",
+      "'oliveira lima' sem maiúsculas em 'se nos tempos de oliveira lima' — nome próprio deve ser grafado 'Oliveira Lima'.",
+      "'notícias de procedência duvidosas' — erro de concordância nominal; o correto é 'procedência duvidosa' (o adjetivo deve concordar com 'procedência', não com 'notícias').",
+      "'têm a legitimada questionada' — erro de digitação/ortografia; o correto é 'têm a legitimidade questionada'.",
+      "'de difundirem informações falsas' — após 'acusadas de', o infinitivo não flexionado seria preferível ('de difundir'), embora haja controvérsia; considerado erro leve de regência/flexão.",
+      "'f iltros' — espaço indevido no interior da palavra; o correto é 'filtros'.",
+      "'tende as ser renovada' — erro de grafia; o correto é 'tende a ser renovada' (preposição 'a', não artigo 'as').",
+      "'politica externa' — falta de acento gráfico em 'política'."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa estrutura argumentativa, com introdução clara que contextualiza o tema, desenvolvimento em parágrafos bem delimitados e conclusão que retoma a tese central e a amplia com o conceito de diplomacia pública.",
+      "O candidato demonstra capacidade analítica ao articular o excesso de informações, a crise de legitimidade das mídias e o papel renovado do diplomata, construindo um raciocínio coerente e progressivo.",
+      "A referência a Mário Vargas Llosa e à 'Civilização do Espetáculo' enriquece a argumentação, embora o texto pudesse se beneficiar de mais exemplos concretos da atuação diplomática contemporânea na produção de informação.",
+      "O diálogo com o texto de Oliveira Lima é bem conduzido, retomando a expressão 'escrevinhadores' e contextualizando-a na realidade atual, o que demonstra boa compreensão do enunciado.",
+      "A conclusão que conecta a produção de informação diplomática ao conceito de diplomacia pública e política externa como política pública é pertinente e demonstra maturidade reflexiva.",
+      "Há erros gramaticais que, embora não comprometam gravemente a compreensão, revelam falta de revisão cuidadosa — especialmente o erro de concordância ('procedência duvidosas'), a troca de 'legitimidade' por 'legitimada', e a confusão entre 'a' e 'as' em 'tende as ser'.",
+      "O estilo é adequado ao gênero dissertativo-argumentativo, com linguagem formal e vocabulário apropriado, embora em alguns momentos haja certa repetitividade lexical (uso recorrente de 'informações', 'mídias', 'legitimidade')."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Início de frase com letra minúscula: 'se nos tempos de oliveira lima' — deveria iniciar com maiúscula 'Se'.",
+      "'oliveira lima' sem maiúsculas: deveria ser 'Oliveira Lima' (ocorrência no segundo período do primeiro parágrafo).",
+      "'notícias de procedência duvidosas' — erro de concordância: deveria ser 'procedência duvidosa' ou 'procedências duvidosas'.",
+      "'têm a legitimada questionada' — erro de digitação/ortografia: deveria ser 'legitimidade'.",
+      "'tende as ser renovada' — erro de grafia: deveria ser 'tende a ser renovada'.",
+      "'f iltros' — espaço indevido na palavra 'filtros'.",
+      "'politica externa' — falta de acento: deveria ser 'política externa' (última ocorrência no texto)."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma o tema de forma coerente.",
+      "O candidato demonstra boa capacidade argumentativa, articulando o trecho de Oliveira Lima com a realidade contemporânea de forma pertinente e original, inclusive com o paradoxo de que a função analítica do diplomata se torna mais relevante justamente na era da informação instantânea.",
+      "A referência a Mário Vargas Llosa e à 'Civilização do Espetáculo' enriquece a argumentação, embora pudesse ser mais aprofundada.",
+      "O texto demonstra conhecimento do tema ao mencionar diplomacia pública, política externa como política pública e a atuação do Itamaraty nas redes sociais.",
+      "Há alguns erros gramaticais e de digitação que comprometem parcialmente a correção formal, como problemas de concordância, acentuação e grafia.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. O encadeamento lógico entre os parágrafos é bem conduzido, com uso adequado de conectivos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Início de frase com letra minúscula: 'se nos tempos de oliveira lima' — deveria iniciar com maiúscula 'Se'.",
+      "'oliveira lima' sem maiúsculas — nome próprio deve ser grafado 'Oliveira Lima' (ocorrência no segundo período do primeiro parágrafo).",
+      "'notícias de procedência duvidosas' — erro de concordância nominal; o correto é 'procedência duvidosa' (o adjetivo deve concordar com 'procedência', não com 'notícias').",
+      "'têm a legitimada questionada' — erro de digitação/ortografia; o correto é 'têm a legitimidade questionada'.",
+      "'tende as ser renovada' — erro de grafia; o correto é 'tende a ser renovada' (preposição 'a', não artigo 'as').",
+      "'f iltros' — espaço indevido no interior da palavra; o correto é 'filtros'.",
+      "'politica externa' — falta de acento gráfico; o correto é 'política externa'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara que contextualiza o tema, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma e amplia a discussão.",
+      "O candidato demonstra boa capacidade argumentativa ao articular o papel do diplomata como produtor de informação confiável com o contexto contemporâneo de excesso informacional e questionamento da legitimidade das mídias.",
+      "A referência a Mário Vargas Llosa e à obra 'Civilização do Espetáculo' enriquece a argumentação, assim como a menção ao Itamaraty e à diplomacia pública.",
+      "O texto dialoga adequadamente com o enunciado e com a citação de Oliveira Lima, retomando a expressão 'escrevinhadores' de forma pertinente.",
+      "A linguagem é, em geral, adequada ao registro formal exigido, com vocabulário preciso e construções sintáticas bem elaboradas.",
+      "Os erros gramaticais identificados, embora poucos, incluem falhas de concordância, acentuação e digitação que comprometem levemente a correção formal do texto.",
+      "A argumentação poderia ter sido ainda mais aprofundada com exemplos concretos de situações em que a informação diplomática se mostrou superior às fontes midiáticas, o que fortaleceria a tese central."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 54.0,
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Início de frase com letra minúscula: 'se nos tempos de oliveira lima' — deveria iniciar com maiúscula 'Se'.",
+      "'oliveira lima' sem maiúsculas — nome próprio deve ser grafado 'Oliveira Lima' (ocorre no segundo parágrafo).",
+      "'notícias de procedência duvidosas' — erro de concordância nominal; o correto é 'procedência duvidosa'.",
+      "'têm a legitimada questionada' — erro de digitação/ortografia; o correto é 'têm a legitimidade questionada'.",
+      "'tende as ser renovada' — erro de grafia; o correto é 'tende a ser renovada'.",
+      "'f iltros' — espaço indevido na palavra 'filtros'.",
+      "'politica externa' — falta de acento em 'política'."
+    ],
+    "feedbacks": [
+      "A redação apresenta excelente organização textual, com introdução clara, desenvolvimento bem estruturado em parágrafos temáticos e conclusão que retoma e amplia a tese inicial.",
+      "O candidato demonstra boa capacidade argumentativa ao articular o excesso de informações, a crise de legitimidade das mídias e o papel renovado do diplomata, construindo um raciocínio coerente e progressivo.",
+      "A referência a Mário Vargas Llosa e à 'Civilização do Espetáculo' enriquece a argumentação, assim como a menção à diplomacia pública e ao Itamaraty como exemplo concreto.",
+      "O texto dialoga adequadamente com o enunciado e com a citação de Oliveira Lima, retomando a expressão 'escrevinhadores' de forma pertinente.",
+      "Há alguns erros gramaticais pontuais (concordância, digitação, acentuação) que, embora não comprometam a compreensão global, reduzem ligeiramente a nota na correção gramatical.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário preciso, demonstrando maturidade intelectual."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Início de frase com letra minúscula: 'se nos tempos de oliveira lima' — deveria iniciar com maiúscula ('Se').",
+      "'oliveira lima' sem maiúsculas: deveria ser 'Oliveira Lima' (nome próprio).",
+      "Erro de concordância: 'notícias de procedência duvidosas' — o correto seria 'procedência duvidosa' (concordância com 'procedência') ou 'procedências duvidosas'.",
+      "Erro de concordância: 'as mídias sociais não têm sido consideradas eficazes' — falta concordância com o sujeito composto 'Os meios tradicionais de comunicação e as mídias sociais não têm sido considerados eficazes'.",
+      "'têm a legitimada questionada' — erro de digitação: deveria ser 'legitimidade questionada'.",
+      "Erro de digitação/espaçamento: 'os f iltros' — deveria ser 'os filtros'.",
+      "'tende as ser renovada' — erro: deveria ser 'tende a ser renovada'.",
+      "'politica externa' — falta acento: 'política externa'."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura bem organizada, com introdução clara, desenvolvimento em parágrafos temáticos e conclusão que retoma o tema e amplia a reflexão. O encadeamento lógico entre os parágrafos é consistente.",
+      "O candidato demonstra boa compreensão do tema proposto, articulando o trecho de Oliveira Lima com a realidade contemporânea de forma pertinente. A ideia de que o excesso de informações paradoxalmente revaloriza a função analítica do diplomata é bem desenvolvida.",
+      "A referência a Mário Vargas Llosa e à 'Civilização do Espetáculo' enriquece a argumentação, embora pudesse ser mais aprofundada. A menção à diplomacia pública e ao Itamaraty confere concretude ao texto.",
+      "A argumentação é sólida e coerente, mas em alguns momentos tende à repetição de ideias (o excesso de informações e a necessidade de análise crítica são reiterados em vários parágrafos sem acréscimo substancial).",
+      "Há erros gramaticais e de digitação que, embora não comprometam a compreensão, prejudicam a qualidade formal do texto — especialmente em um concurso de alto nível como o CACD. Recomenda-se maior atenção à revisão.",
+      "O texto poderia ter explorado com mais profundidade exemplos históricos ou contemporâneos concretos do papel informacional do diplomata, bem como tensões específicas entre informação diplomática e informação midiática."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Início de frase com letra minúscula: 'se nos tempos de oliveira lima' — deveria iniciar com maiúscula ('Se').",
+      "'oliveira lima' sem maiúsculas: deveria ser 'Oliveira Lima' (nome próprio).",
+      "Erro de concordância: 'notícias de procedência duvidosas' — o correto seria 'procedência duvidosa' (concordância com 'procedência') ou 'procedências duvidosas'.",
+      "Erro de concordância: 'as mídias sociais não têm sido consideradas eficazes' — o sujeito composto inclui 'os meios tradicionais de comunicação' (masculino), exigindo concordância no masculino: 'considerados eficazes'.",
+      "Erro de digitação/ortografia: 'a legitimada questionada' — deveria ser 'a legitimidade questionada'.",
+      "Erro de digitação: 'f iltros' — espaço indevido em 'filtros'.",
+      "Erro de acentuação: 'politica externa' — deveria ser 'política externa'.",
+      "Erro de digitação/gramática: 'tende as ser renovada' — deveria ser 'tende a ser renovada'."
+    ],
+    "feedbacks": [
+      "A redação apresenta uma estrutura bem organizada, com introdução clara, desenvolvimento em parágrafos temáticos e conclusão que retoma o tema e amplia a reflexão. O encadeamento lógico entre os parágrafos é consistente.",
+      "O candidato demonstra boa compreensão do tema proposto, articulando o trecho de Oliveira Lima com a realidade contemporânea de forma pertinente. A ideia de que o excesso de informações e a crise de legitimidade das fontes renovam o papel analítico do diplomata é bem desenvolvida.",
+      "A referência a Mário Vargas Llosa e à 'Civilização do Espetáculo' enriquece a argumentação, embora pudesse ser mais aprofundada. A menção à diplomacia pública e ao Itamaraty confere concretude ao texto.",
+      "Há certa repetitividade em alguns trechos — a ideia de 'excesso de informações' e 'questionamento da legitimidade' é reiterada diversas vezes sem acréscimo substancial de conteúdo, o que compromete levemente a profundidade analítica.",
+      "Os erros gramaticais identificados, embora não numerosos, incluem falhas de concordância e digitação que poderiam ser evitadas com revisão mais cuidadosa. A ausência de maiúscula no início de período e em nomes próprios é particularmente relevante em um concurso desse nível.",
+      "A conclusão é bem construída, conectando a função informativa do diplomata à noção de política externa como política pública, o que demonstra maturidade reflexiva e conhecimento do campo."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 7,
+    "erros_gramaticais": [
+      "Início de frase com letra minúscula: 'se nos tempos de oliveira lima' — deveria iniciar com maiúscula ('Se').",
+      "'oliveira lima' sem maiúsculas: deveria ser 'Oliveira Lima' (ocorrência no segundo período do primeiro parágrafo).",
+      "Erro de concordância: 'notícias de procedência duvidosas' — o correto seria 'procedência duvidosa' (concordância com 'procedência') ou 'procedências duvidosas'.",
+      "Erro de digitação/ortografia: 'legitimada' em vez de 'legitimidade' em 'têm a legitimada questionada'.",
+      "Erro de concordância verbal/nominal: 'as mídias sociais não têm sido consideradas' — embora aceitável, há inconsistência com 'Os meios tradicionais de comunicação' (masculino) e 'mídias sociais' (feminino) no mesmo sujeito composto, gerando 'consideradas' apenas no feminino.",
+      "Erro de digitação: 'f iltros' com espaço indevido — deveria ser 'filtros'.",
+      "Falta de acento: 'politica externa' — deveria ser 'política externa' (último parágrafo)."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do tema e articula de forma coerente o papel do diplomata como produtor de informação confiável no contexto contemporâneo de excesso informacional e questionamento da legitimidade das fontes.",
+      "A estrutura é bem organizada, com introdução que contextualiza o problema, desenvolvimento em parágrafos temáticos (excesso de informações, crise de legitimidade das mídias, papel renovado do diplomata) e conclusão que amplia a reflexão para a diplomacia pública.",
+      "A referência a Mário Vargas Llosa e à 'Civilização do Espetáculo' enriquece a argumentação, embora pudesse haver mais referências a autores ou conceitos de relações internacionais e teoria diplomática.",
+      "O texto dialoga adequadamente com o enunciado e com a citação de Oliveira Lima, retomando a ideia dos diplomatas como 'escrevinhadores' e atualizando-a para o contexto contemporâneo.",
+      "A argumentação é consistente, mas em alguns momentos tende à repetição de ideias (excesso de informações, questionamento de legitimidade), o que poderia ser substituído por aprofundamento analítico ou exemplos concretos.",
+      "A conclusão sobre diplomacia pública e política externa como política pública é pertinente e demonstra maturidade reflexiva, embora pudesse ser mais desenvolvida.",
+      "Há alguns erros gramaticais e de digitação que, embora não comprometam a compreensão, prejudicam a qualidade formal esperada no nível do CACD."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 4,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"política publica\" — falta de acento: o correto é \"política pública\".",
+      "\"o diálogo com a sociedade fundamental\" — falta do verbo \"é\": o correto seria \"o diálogo com a sociedade é fundamental\".",
+      "\"Não cabe ao diplomata, apenas, repassar informações prontas\" — uso inadequado das vírgulas isolando \"apenas\", que nesse contexto funciona como advérbio de exclusão ligado ao verbo e não deveria ser isolado por vírgulas (o sentido pretendido seria \"Não cabe ao diplomata apenas repassar informações prontas\")."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução clara, desenvolvimento em parágrafos temáticos e conclusão que retoma a tese. O estilo é formal e adequado ao gênero dissertativo-argumentativo. A coerência é mantida ao longo do texto, com boa progressão temática. Há, porém, certa repetitividade vocabular e de estruturas argumentativas (expressões como 'informação confiável e privilegiada', 'tomadores de decisão', 'interesses nacionais' são reiteradas excessivamente), o que prejudica levemente a fluidez e a elegância do texto. Nota: 8.0.",
+      "1B – Capacidade de argumentação: O candidato apresenta argumentos pertinentes e bem estruturados: a formação rigorosa do diplomata, o papel de intérprete da realidade (e não mero repassador de informações), a diplomacia pública e o exemplo concreto das negociações Mercosul-UE. Contudo, a argumentação é algo circular, retornando frequentemente aos mesmos pontos sem aprofundá-los substancialmente. O diálogo com o texto de Oliveira Lima é feito na introdução e na conclusão, mas poderia ter sido explorado com mais profundidade ao longo do desenvolvimento. Faltou maior diversidade de exemplos históricos ou contemporâneos e referências mais densas à realidade da difusão de informações por redes sociais, tema central do enunciado. Nota: 7.5.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade de reflexão ao distinguir o papel do diplomata como intérprete (e não mero transmissor), ao vincular diplomacia pública à democracia e ao contextualizar a relevância do diplomata frente à desinformação contemporânea. No entanto, a análise permanece em nível relativamente superficial: não há problematização mais profunda sobre os desafios concretos que as redes sociais e a imediatez da informação impõem ao trabalho diplomático, nem sobre possíveis tensões entre transparência e sigilo diplomático. A reflexão sobre o contraste entre o passado descrito por Oliveira Lima e o presente é feita de modo genérico. A redação carece de maior originalidade e profundidade analítica. Nota: 6.5.",
+      "Correção gramatical: Foram identificados 3 erros. O texto apresenta, de modo geral, boa correção gramatical e propriedade da linguagem, com vocabulário adequado ao registro formal. Os erros encontrados são pontuais: falta de acento em 'pública', omissão do verbo 'é' em uma oração e uso questionável de vírgulas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "\"política publica\" — falta de acento: o correto é \"política pública\".",
+      "\"o diálogo com a sociedade fundamental\" — falta do verbo \"é\": deveria ser \"o diálogo com a sociedade é fundamental\".",
+      "\"Não cabe ao diplomata, apenas, repassar informações prontas\" — uso inadequado das vírgulas isolando \"apenas\", que neste contexto funciona como advérbio de exclusão ligado ao verbo e não deveria ser intercalado por vírgulas (o sentido pretendido seria \"Não cabe ao diplomata apenas repassar informações prontas\")."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução clara, desenvolvimento em parágrafos temáticos e conclusão que retoma a tese. O estilo é formal e adequado ao gênero dissertativo-argumentativo exigido pelo CACD. A coerência é mantida ao longo do texto, com boa progressão temática. Há, contudo, certa repetitividade vocabular e de estruturas argumentativas (expressões como 'informação confiável e privilegiada', 'tomadores de decisão', 'interesses nacionais' aparecem muitas vezes), o que prejudica levemente a fluidez e a elegância do texto. Nota: 8.0.",
+      "1B – Capacidade de argumentação: O candidato demonstra boa capacidade de sistematização, dividindo o texto em eixos claros: formação do diplomata, atuação em negociações (exemplo do Mercosul-UE), diplomacia pública e contexto de desinformação. O exemplo concreto das negociações Mercosul-UE é pertinente e confere objetividade. No entanto, a argumentação poderia ser mais densa e diversificada: o texto tende a reiterar a mesma ideia central (o diplomata produz informação confiável) sem aprofundar suficientemente as nuances ou apresentar contrapontos. A referência ao texto de Oliveira Lima é feita na introdução e na conclusão, mas poderia ter sido mais explorada ao longo do desenvolvimento. Nota: 7.5.",
+      "1C – Capacidade de análise e reflexão: O candidato demonstra capacidade de reflexão ao conectar o papel do diplomata à democracia, à diplomacia pública e ao contexto de desinformação. Contudo, a análise permanece em nível relativamente superficial: não há aprofundamento sobre como exatamente a era digital transforma o trabalho diplomático, nem sobre os desafios específicos que as redes sociais impõem à produção de informação diplomática. A reflexão sobre o contraste entre o passado descrito por Oliveira Lima e o presente poderia ser mais elaborada, explorando, por exemplo, como a velocidade da informação altera a natureza da análise diplomática, ou como a transparência exigida pela democracia pode entrar em tensão com o sigilo diplomático. A análise carece de maior profundidade crítica e originalidade. Nota: 6.5.",
+      "Correção gramatical: Foram identificados 3 erros. A redação apresenta bom domínio da norma culta, com vocabulário adequado e construções sintáticas geralmente corretas. Os erros encontrados são pontuais: falta de acento em 'pública', omissão do verbo 'é' em uma oração e uso questionável de vírgulas. Considerando o limite de 30 pontos e a proporção de erros, a nota de CGPL é 27.0 (desconto de 1.0 por erro)."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 7.5,
+    "nota_1C": 6.5,
+    "numero_de_erros_gramaticais": 4,
+    "erros_gramaticais": [
+      "\"política publica\" — falta de acento em 'pública'.",
+      "\"o diálogo com a sociedade fundamental\" — falta do verbo 'é' (\"o diálogo com a sociedade é fundamental\").",
+      "\"Não cabe ao diplomata, apenas, repassar informações\" — uso inadequado das vírgulas isolando 'apenas', que neste caso funciona como advérbio focalizador e não deveria ser separado por vírgulas nessa posição (o sentido pretendido seria 'Não cabe ao diplomata apenas repassar').",
+      "\"informar, precisamente, os tomadores de decisão\" — uso desnecessário de vírgulas isolando o advérbio 'precisamente', que funciona como modificador direto do verbo e não como intercalação."
+    ],
+    "feedbacks": [
+      "1A – Apresentação e impressão geral: O texto é bem organizado, com introdução clara, desenvolvimento em parágrafos temáticos e conclusão que retoma a tese. O estilo é adequado ao gênero dissertativo-argumentativo e a linguagem é formal e coerente. A estrutura é previsível, mas funcional. Há boa coesão entre os parágrafos, com uso de conectivos adequados. Nota: 8.0.",
+      "1B – Capacidade de argumentação: O candidato apresenta argumentos pertinentes sobre a formação do diplomata, seu papel em negociações (exemplo do Mercosul-UE) e a diplomacia pública. Contudo, há certa repetitividade nas ideias — a noção de que o diplomata produz informação confiável e privilegiada é reiterada diversas vezes sem aprofundamento substancial. O exemplo do Mercosul-UE é pertinente, mas poderia ser mais desenvolvido com dados ou referências concretas. A menção ao texto de Oliveira Lima aparece na introdução e na conclusão, mas o diálogo com o trecho poderia ser mais aprofundado ao longo do desenvolvimento. Nota: 7.5.",
+      "1C – Capacidade de análise e reflexão: O texto demonstra capacidade analítica razoável ao abordar a tensão entre o fluxo caótico de informações contemporâneo e o papel do diplomata. No entanto, a reflexão permanece em nível relativamente superficial: não há problematização mais profunda sobre os desafios concretos que as redes sociais e a desinformação impõem à atividade diplomática, nem sobre possíveis tensões entre transparência e sigilo diplomático. A análise sobre diplomacia pública é interessante, mas carece de maior profundidade crítica. O candidato poderia ter explorado melhor a contraposição entre o passado descrito por Oliveira Lima e o presente, refletindo sobre o que se ganha e o que se perde com a transformação do papel informacional do diplomata. Nota: 6.5.",
+      "Correção gramatical: Foram identificados 4 erros, incluindo falta de acento ('publica' por 'pública'), omissão do verbo 'é' em uma oração, e uso questionável de vírgulas em dois trechos. O texto, de modo geral, apresenta boa correção gramatical e propriedade vocabular. Desconto: 4 × 0.5 = 2.0 pontos. Nota CGPL: 28.0."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de acento em 'publica' — o correto é 'pública' (erro de acentuação gráfica).",
+      "Falta de verbo na frase 'o diálogo com a sociedade fundamental para a formulação da política externa nacional' — deveria ser 'o diálogo com a sociedade é fundamental'.",
+      "Uso inadequado de vírgulas isolando 'apenas' em 'Não cabe ao diplomata, apenas, repassar informações prontas' — a intercalação é desnecessária e prejudica a fluidez."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara, desenvolvimento em parágrafos temáticos bem definidos e conclusão que retoma o enunciado. O encadeamento das ideias é lógico e coerente.",
+      "O candidato demonstra compreensão adequada do tema proposto, articulando o trecho de Oliveira Lima com a realidade contemporânea da produção de informação pelo diplomata. A menção à diplomacia pública e ao contexto de desinformação é pertinente.",
+      "O exemplo das negociações Mercosul-UE é adequado e confere concretude à argumentação, embora pudesse ser mais aprofundado com dados ou referências históricas adicionais.",
+      "A reflexão, embora competente, tende a ser algo repetitiva em certos pontos — a ideia de que o diplomata produz informação confiável e privilegiada é reiterada diversas vezes sem aprofundamento substancial adicional a cada retomada.",
+      "A linguagem é formal e adequada ao contexto do CACD, com vocabulário apropriado. Os erros gramaticais identificados são poucos, mas a omissão do verbo 'é' em um trecho compromete a clareza da frase.",
+      "Seria desejável maior profundidade analítica e originalidade na argumentação, explorando, por exemplo, tensões entre transparência e sigilo diplomático, ou o impacto específico das redes sociais na atividade diplomática, conforme sugerido pelo enunciado."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de acento em 'publica' — o correto é 'pública' (erro de acentuação gráfica).",
+      "Falta de verbo na frase 'o diálogo com a sociedade fundamental para a formulação da política externa nacional' — deveria ser 'o diálogo com a sociedade é fundamental'.",
+      "Uso inadequado de vírgulas isolando 'apenas' em 'Não cabe ao diplomata, apenas, repassar informações prontas' — a intercalação é desnecessária e prejudica a fluidez."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara, desenvolvimento em parágrafos temáticos bem definidos (formação do diplomata, negociações comerciais, diplomacia pública) e conclusão que retoma o enunciado de Oliveira Lima.",
+      "O candidato demonstra capacidade argumentativa sólida, articulando o papel do diplomata como produtor de informação confiável e privilegiada com o contexto contemporâneo de desinformação e redes sociais, conforme solicitado pelo enunciado.",
+      "O texto dialoga adequadamente com o trecho de Oliveira Lima, estabelecendo contraste entre o passado e o presente da atividade diplomática, embora pudesse explorar mais profundamente a citação original.",
+      "A exemplificação com o caso Mercosul-União Europeia é pertinente e confere concretude à argumentação, embora o desenvolvimento pudesse ser mais aprofundado com outros exemplos ou referências históricas.",
+      "Há certa repetitividade em algumas formulações (a expressão 'informação confiável e privilegiada' e 'tomadores de decisão' aparecem diversas vezes), o que prejudica levemente a qualidade estilística do texto.",
+      "A omissão do verbo 'é' no quarto parágrafo constitui erro que compromete a compreensão da frase e deve ser evitado em um texto dissertativo formal.",
+      "O texto poderia ter explorado com mais profundidade a tensão entre a imediatez das redes sociais e o trabalho analítico do diplomata, aspecto central do enunciado que foi tratado de forma relativamente superficial."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.0,
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de acento em 'publica' — o correto é 'pública' (erro de acentuação gráfica).",
+      "Falta de verbo na frase 'o diálogo com a sociedade fundamental para a formulação da política externa nacional' — deveria ser 'o diálogo com a sociedade é fundamental'.",
+      "Uso inadequado de vírgulas isolando 'apenas' em 'Não cabe ao diplomata, apenas, repassar informações prontas' — a construção com vírgulas nessa posição é questionável e prejudica a fluidez."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução clara, desenvolvimento em parágrafos temáticos bem definidos e conclusão que retoma o enunciado. O encadeamento das ideias é lógico e coerente.",
+      "O candidato demonstra compreensão adequada do tema proposto, articulando o trecho de Oliveira Lima com a realidade contemporânea da produção de informação pelo diplomata. A menção à diplomacia pública e ao contexto de desinformação é pertinente.",
+      "O exemplo das negociações Mercosul-UE é adequado e confere concretude à argumentação, embora pudesse ser mais aprofundado com dados ou referências mais específicas.",
+      "A argumentação, embora competente, tende à repetição de ideias centrais (a importância do diplomata como produtor de informação confiável é reiterada diversas vezes sem grande aprofundamento analítico a cada retomada). Maior diversidade argumentativa e profundidade reflexiva elevariam a qualidade do texto.",
+      "A omissão do verbo 'é' no quarto parágrafo constitui erro relevante que compromete a clareza da frase. O erro de acentuação em 'publica' também é significativo.",
+      "A linguagem é adequada ao contexto do concurso, com registro formal e vocabulário apropriado. A estrutura sintática é, em geral, bem construída."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de acento em 'publica' — o correto é 'pública' (erro de acentuação gráfica).",
+      "Falta de verbo na frase 'o diálogo com a sociedade fundamental para a formulação da política externa nacional' — deveria ser 'o diálogo com a sociedade é fundamental'.",
+      "Uso inadequado de vírgulas em 'Não cabe ao diplomata, apenas, repassar informações prontas' — a intercalação de 'apenas' entre vírgulas altera o sentido pretendido e é desnecessária."
+    ],
+    "feedbacks": [
+      "O texto apresenta estrutura clara, com introdução, desenvolvimento em parágrafos temáticos e conclusão, o que demonstra organização textual adequada.",
+      "A argumentação, embora coerente, é predominantemente previsível e circular: repete-se diversas vezes a ideia de que o diplomata produz informação confiável e privilegiada, sem aprofundar significativamente cada iteração. Há redundância entre parágrafos.",
+      "O diálogo com o texto de Oliveira Lima é feito na introdução e na conclusão, mas poderia ser mais explorado ao longo do desenvolvimento, estabelecendo contrastes mais ricos entre o papel do diplomata no século XIX e no século XXI.",
+      "O exemplo do Mercosul-UE é pertinente e confere concretude à argumentação, mas é o único exemplo substantivo utilizado. Mais exemplos históricos ou contemporâneos enriqueceriam o texto.",
+      "A referência à obra 'Formação histórica da nacionalidade brasileira' como fonte do trecho de Oliveira Lima é imprecisa — o enunciado indica que o trecho provém de conferências proferidas na Sorbonne em 1911, não necessariamente daquela obra específica. Embora haja relação, a atribuição direta pode ser considerada um deslize factual.",
+      "O conceito de diplomacia pública é bem introduzido e agrega valor à discussão, mas a reflexão sobre redes sociais e meios de comunicação — elementos centrais do enunciado — permanece superficial. O texto não explora como as redes sociais desafiam concretamente o trabalho diplomático ou como o diplomata pode atuar nesse ambiente.",
+      "A linguagem é adequada ao contexto do CACD, com registro formal e vocabulário apropriado, embora sem grande sofisticação estilística.",
+      "A omissão do verbo 'é' no quarto parágrafo constitui erro que compromete a clareza da frase e deve ser evitada em textos de concurso."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de acento em 'publica' — o correto é 'pública' (erro de acentuação gráfica).",
+      "Falta de verbo na frase 'o diálogo com a sociedade fundamental para a formulação da política externa nacional' — deveria ser 'o diálogo com a sociedade é fundamental'.",
+      "Uso inadequado de vírgulas em 'Não cabe ao diplomata, apenas, repassar informações prontas' — a intercalação de 'apenas' entre vírgulas altera o sentido pretendido e é desnecessária."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara, com introdução, desenvolvimento em parágrafos temáticos e conclusão, o que demonstra organização textual adequada.",
+      "O texto aborda o tema proposto com pertinência, relacionando a citação de Oliveira Lima ao papel contemporâneo do diplomata como produtor de informação confiável. Contudo, a argumentação é predominantemente genérica e previsível, sem aprofundamento analítico ou exemplos históricos mais ricos que demonstrem domínio sofisticado do tema.",
+      "O exemplo do Mercosul-UE é pertinente, mas poderia ter sido explorado com mais profundidade e concretude, em vez de permanecer em nível abstrato.",
+      "Há repetitividade significativa ao longo do texto: expressões como 'informação confiável e privilegiada', 'tomadores de decisão e a sociedade', 'interesses nacionais' e 'diplomacia pública' são reiteradas sem acréscimo substancial de conteúdo, o que enfraquece a progressão argumentativa.",
+      "A reflexão sobre redes sociais e a difusão imediata de notícias — elemento central do enunciado — é tratada de forma superficial, mencionada apenas de passagem na introdução e na conclusão, sem desenvolvimento analítico próprio.",
+      "O domínio da norma culta é razoável, com poucos erros, mas a omissão do verbo 'é' no quarto parágrafo constitui falha relevante que compromete a clareza.",
+      "Para alcançar faixas superiores, seria necessário maior originalidade argumentativa, referências históricas ou teóricas mais densas (aproveitando melhor o contexto de Oliveira Lima e o período 1823-1825), e uma análise mais aprofundada do impacto das redes sociais e da era da informação sobre a função diplomática."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Bom",
+    "numero_de_erros_gramaticais": 3,
+    "erros_gramaticais": [
+      "Ausência de acento em 'publica' — o correto é 'pública' (erro de acentuação gráfica).",
+      "Falta de verbo na frase 'o diálogo com a sociedade fundamental para a formulação da política externa nacional' — deveria ser 'o diálogo com a sociedade é fundamental...'.",
+      "Uso inadequado de vírgulas em 'Não cabe ao diplomata, apenas, repassar informações prontas' — a intercalação de 'apenas' entre vírgulas altera o sentido pretendido e é desnecessária."
+    ],
+    "feedbacks": [
+      "A redação apresenta estrutura clara, com introdução, desenvolvimento em parágrafos temáticos e conclusão, o que demonstra organização textual adequada.",
+      "O texto aborda o tema proposto com pertinência, relacionando a citação de Oliveira Lima ao papel contemporâneo do diplomata como produtor de informação confiável. Contudo, a argumentação é predominantemente genérica e previsível, sem aprofundamento analítico ou exemplos históricos mais ricos que demonstrem domínio sofisticado do tema.",
+      "O exemplo do Mercosul-UE é pertinente, mas poderia ter sido explorado com mais profundidade e concretude, em vez de permanecer em nível abstrato.",
+      "Há certa repetitividade ao longo do texto: a ideia de que o diplomata produz 'informação confiável e privilegiada' e de que isso é 'fundamental' é reiterada diversas vezes sem acréscimo substantivo de conteúdo.",
+      "A reflexão sobre diplomacia pública é interessante e agrega ao texto, mas a omissão do verbo 'é' no quarto parágrafo compromete a clareza de uma frase central do argumento.",
+      "O texto demonstra domínio razoável da norma culta, com linguagem formal e adequada ao contexto do CACD, embora os erros identificados — especialmente a omissão do verbo — prejudiquem a fluidez.",
+      "Para alcançar faixas superiores, seria recomendável incorporar referências históricas, teóricas ou conceituais mais sofisticadas, além de desenvolver uma argumentação menos circular e mais analítica, que vá além da constatação de que o diplomata é importante."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 5,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 10,
+    "erros_gramaticais": [
+      "\"atividade diplomáticas\" — erro de concordância nominal; deveria ser \"atividade diplomática\" ou \"atividades diplomáticas\".",
+      "\"o papel do diplomata é, cada vez menos o de relatar\" — vírgula indevida após \"é\", separando verbo de ligação do predicativo, ou falta de vírgula simétrica (\"é, cada vez menos, o de relatar\").",
+      "\"tenha diminuído, consideravelmente o sigilo\" — vírgula indevida separando o verbo do advérbio/complemento; deveria ser \"tenha diminuído consideravelmente o sigilo\" ou \"tenha diminuído, consideravelmente, o sigilo\".",
+      "\"a responsabilidade da burocracia e dos diplomatas, em particular, de assegurar\" — construção com regência truncada; a responsabilidade é \"de assegurar\", mas a intercalação gera ambiguidade e problema de regência.",
+      "\"A importância da diplomacia pública é, dessa forma, reforçada\" — concordância: deveria ser \"A importância... é reforçada\" está correto gramaticalmente, mas o uso do particípio com \"é\" gera voz passiva adequada. Desconsiderado como erro.",
+      "\"para além das consequências imediatas*\" — frase iniciada com letra minúscula após ponto final, configurando erro de convenção/maiúscula. Além disso, o asterisco é inadequado.",
+      "\"a base da avaliação histórico\" — erro de concordância nominal; deveria ser \"avaliação histórica\".",
+      "\"para contribuirem\" — erro de acentuação; a forma correta é \"contribuírem\" (com acento no hiato).",
+      "\"em Sorbonne\" — deveria ser \"na Sorbonne\" (uso do artigo definido com o nome da universidade).",
+      "\"má fé\" — erro ortográfico; a grafia correta é \"má-fé\" (com hífen)."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução contextualizadora, desenvolvimento em múltiplos eixos temáticos e conclusão que retoma o texto de Oliveira Lima. O estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A capacidade de argumentação é sólida: o candidato aborda múltiplas dimensões do papel do diplomata como produtor de informação — sigilo, diplomacia pública, combate à desinformação, formação de narrativas históricas — com pertinência e sistematização. A menção a exemplos concretos (tecnologias sensíveis, manipulações eleitorais, vazamentos) enriquece a argumentação.",
+      "A capacidade de análise e reflexão é elevada: o candidato demonstra compreensão profunda da transformação do papel diplomático, distinguindo entre a função de relato (século XIX) e a de curadoria e análise de informações (atualidade). A reflexão sobre a formação de narrativas e memória nacional a partir dos registros diplomáticos é particularmente sofisticada.",
+      "Há erros gramaticais que comprometem parcialmente a correção linguística, incluindo problemas de concordância nominal (\"atividade diplomáticas\", \"avaliação histórico\"), pontuação inadequada, uso de minúscula após ponto final e erro ortográfico (\"má fé\"). Esses erros, embora não numerosos, são relevantes para o nível de exigência do CACD.",
+      "O texto dialoga adequadamente com o enunciado e com o trecho de Oliveira Lima, estabelecendo um contraste produtivo entre o passado e o presente da atividade diplomática. A conclusão fecha o arco argumentativo de forma coerente."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 10,
+    "erros_gramaticais": [
+      "\"atividade diplomáticas\" — erro de concordância nominal; deveria ser \"atividade diplomática\" ou \"atividades diplomáticas\".",
+      "\"o papel do diplomata é, cada vez menos o de relatar\" — vírgula indevida após \"é\", separando verbo de predicativo, ou falta de vírgula simétrica (\"é, cada vez menos, o de relatar\").",
+      "\"tenha diminuído, consideravelmente o sigilo\" — vírgula mal posicionada; deveria ser \"diminuído consideravelmente o sigilo\" ou \"diminuído, consideravelmente, o sigilo\".",
+      "\"a responsabilidade da burocracia e dos diplomatas, em particular, de assegurar\" — construção sintaticamente ambígua e com regência inadequada; \"responsabilidade\" pede complemento mais claro.",
+      "\"para além das consequências imediatas*\" — uso de asterisco inadequado e falta de maiúscula no início do período (\"Para além\").",
+      "\"a base da avaliação histórico\" — erro de concordância nominal; deveria ser \"avaliação histórica\".",
+      "\"para contribuirem\" — erro de acentuação; a forma correta é \"contribuírem\" (com acento no hiato).",
+      "\"má fé\" — erro ortográfico; a grafia correta é \"má-fé\" (com hífen).",
+      "\"em Sorbonne\" — falta do artigo; o usual é \"na Sorbonne\".",
+      "\"circulações rápidas\" — embora não seja erro gramatical estrito, a colocação é imprecisa; menor gravidade, mas registra-se a impropriedade lexical."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução contextualizadora, desenvolvimento em múltiplos eixos temáticos e conclusão que retoma o texto de Oliveira Lima. O estilo é formal e adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A capacidade de argumentação é sólida: o candidato aborda o sigilo diplomático, a diplomacia pública, a desinformação nas redes sociais e o papel do diplomata como produtor de narrativas históricas. Os argumentos são pertinentes e bem articulados, com exemplos concretos (acordos sobre tecnologias sensíveis, manipulações eleitorais, atuação consular).",
+      "A capacidade de análise e reflexão é elevada: o candidato demonstra compreensão das transformações históricas na atividade diplomática, distingue diferentes dimensões do papel informacional do diplomata (confidencialidade, prestação de contas, formação de memória) e estabelece contraste produtivo entre o contexto de Oliveira Lima e a realidade contemporânea.",
+      "Há erros gramaticais que comprometem parcialmente a correção linguística, incluindo falhas de concordância nominal (\"atividade diplomáticas\", \"avaliação histórico\"), pontuação inadequada em mais de um trecho, e erros ortográficos (\"má fé\", \"contribuirem\"). Esses erros, embora não numerosos, são de natureza relevante para o nível exigido pelo concurso.",
+      "Recomenda-se maior atenção à revisão de concordância nominal e ao uso de vírgulas, especialmente em intercalações e na separação entre termos essenciais da oração. O texto se beneficiaria também de uma revisão final para eliminar marcas como o asterisco presente no corpo do texto."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_1A": 8.0,
+    "nota_1B": 8.5,
+    "nota_1C": 8.5,
+    "numero_de_erros_gramaticais": 10,
+    "erros_gramaticais": [
+      "\"atividade diplomáticas\" — erro de concordância nominal; deveria ser \"atividade diplomática\" ou \"atividades diplomáticas\".",
+      "\"o papel do diplomata é, cada vez menos o de relatar\" — vírgula indevida após \"é\", separando verbo de predicativo, ou falta de vírgula simétrica (\"é, cada vez menos, o de relatar\").",
+      "\"Embora o fim dos pactos secretos tenha diminuído, consideravelmente o sigilo\" — vírgula indevida entre o verbo \"diminuído\" e o advérbio/objeto \"consideravelmente o sigilo\", quebrando a estrutura sintática.",
+      "\"a responsabilidade da burocracia e dos diplomatas, em particular, de assegurar\" — construção sintaticamente ambígua e com pontuação que dificulta a leitura; a regência de \"responsabilidade\" fica prejudicada.",
+      "\"para além das consequências imediatas*\" — uso de asterisco inadequado e falta de letra maiúscula no início do período (\"para\" deveria ser \"Para\").",
+      "\"a base da avaliação histórico\" — erro de concordância nominal; deveria ser \"avaliação histórica\".",
+      "\"para contribuirem\" — erro de acentuação; a forma correta é \"contribuírem\" (com acento no hiato).",
+      "\"em Sorbonne\" — deveria ser \"na Sorbonne\", com artigo definido.",
+      "\"divulgadas por desconhecimento ou má fé\" — \"má-fé\" deve ser grafado com hífen.",
+      "\"Frente a essa realidade\" — embora de uso corrente, a forma mais adequada na norma culta seria \"Diante de\" ou \"Em face de\"; uso questionável de \"frente a\" como locução prepositiva."
+    ],
+    "feedbacks": [
+      "A redação apresenta boa organização textual, com introdução que contextualiza historicamente o tema, desenvolvimento em múltiplos eixos argumentativos (sigilo, diplomacia pública, desinformação, narrativa histórica) e conclusão que retoma o texto de Oliveira Lima. A estrutura é coerente e o estilo é adequado ao gênero dissertativo-argumentativo exigido pelo CACD.",
+      "A capacidade de argumentação é sólida: o candidato aborda com pertinência a tensão entre sigilo e transparência, a diplomacia pública em sua vertente interna, o combate à desinformação e o papel do diplomata como produtor de narrativas históricas. As informações são pertinentes e bem articuladas, demonstrando conhecimento do tema. Poderia haver maior aprofundamento em exemplos concretos (como o caso WikiLeaks, que é apenas sugerido) para fortalecer a argumentação.",
+      "A capacidade de análise e reflexão é elevada: o candidato demonstra pensamento crítico ao distinguir diferentes dimensões do papel informacional do diplomata (coleta e análise vs. relato; informação sigilosa vs. pública; narrativa presente vs. memória futura). A reflexão sobre a especificidade brasileira — onde a política externa raramente mobiliza a opinião pública — é pertinente e demonstra maturidade analítica. A conclusão que contrasta o papel do diplomata no século XIX (relatar em contexto de escassez informacional) com o atual (filtrar em contexto de abundância) é bem construída.",
+      "Há erros gramaticais que comprometem parcialmente a correção linguística, incluindo problemas de concordância nominal (\"atividade diplomáticas\", \"avaliação histórico\"), pontuação inadequada que quebra a estrutura sintática, e erros de grafia (\"má fé\" sem hífen). O asterisco no meio do texto também é inadequado e sugere descuido na revisão."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 7,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"atividade diplomáticas\" — erro de concordância nominal; deveria ser \"atividade diplomática\" ou \"atividades diplomáticas\".",
+      "\"o papel do diplomata é, cada vez menos o de relatar\" — vírgula indevida separando sujeito do predicativo, quebrando a estrutura correlativa \"cada vez menos... cada vez mais\".",
+      "\"tenha diminuído, consideravelmente o sigilo\" — vírgula indevida separando o verbo de seu objeto direto.",
+      "\"para além das consequências imediatas*\" — uso de asterisco inadequado e falta de letra maiúscula no início do período (\"para\" deveria ser \"Para\").",
+      "\"a base da avaliação histórico\" — erro de concordância nominal; deveria ser \"avaliação histórica\".",
+      "\"para contribuirem\" — acento indevido; a forma correta é \"contribuírem\" (com acento no 'i') ou, dependendo da análise, \"contribuírem\" — mas o acento está no 'e', o que é incorreto.",
+      "\"má fé\" — grafia incorreta; o correto é \"má-fé\" (com hífen).",
+      "\"Frente a essa realidade\" — uso questionável; a forma consagrada é \"Em face de\" ou \"Diante de\", embora \"Frente a\" venha sendo aceito em registros menos formais."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, abordando múltiplas dimensões do papel do diplomata como produtor de informação: sigilo, diplomacia pública, combate à desinformação e construção de narrativas históricas.",
+      "A organização textual é muito boa, com progressão lógica clara: parte do contexto histórico, passa pela questão do sigilo, avança para a diplomacia pública e conclui com a dimensão narrativa/histórica, retomando Oliveira Lima no fechamento.",
+      "A argumentação é sofisticada e bem fundamentada, com referências pertinentes (pactos secretos, tecnologias sensíveis, manipulações eleitorais, comunicação direta), demonstrando conhecimento amplo e capacidade analítica.",
+      "Há alguns erros gramaticais que comprometem parcialmente a qualidade formal do texto, especialmente os de concordância nominal e uso inadequado de vírgulas, que são falhas relevantes em um concurso desse nível.",
+      "O texto dialoga adequadamente com o enunciado, tanto com a citação de Oliveira Lima quanto com a questão proposta sobre o papel do diplomata na era da informação digital, estabelecendo contraste produtivo entre passado e presente.",
+      "A conclusão é eficaz ao retomar o ponto de partida e sintetizar a transformação do papel do diplomata, embora pudesse ser um pouco mais desenvolvida."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"atividade diplomáticas\" — erro de concordância nominal; deveria ser \"atividade diplomática\" ou \"atividades diplomáticas\".",
+      "\"o papel do diplomata é, cada vez menos o de relatar\" — vírgula indevida separando sujeito do predicado (\"é, cada vez menos o de\").",
+      "\"tenha diminuído, consideravelmente o sigilo\" — vírgula indevida separando verbo de seu objeto (\"diminuído, consideravelmente o sigilo\").",
+      "\"para além das consequências imediatas*\" — uso de asterisco inadequado e falta de letra maiúscula no início do período (\"para\" deveria ser \"Para\").",
+      "\"a base da avaliação histórico\" — erro de concordância nominal; deveria ser \"avaliação histórica\".",
+      "\"para contribuirem\" — acento indevido; a forma correta é \"contribuírem\" (com acento no 'i') ou, dependendo da análise, a construção \"para contribuir\".",
+      "\"em Sorbonne\" — deveria ser \"na Sorbonne\".",
+      "\"má fé\" — grafia incorreta; o correto é \"má-fé\" (com hífen)."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, abordando múltiplas dimensões do papel do diplomata como produtor de informação: sigilo, diplomacia pública, combate à desinformação e construção de narrativas históricas.",
+      "A estrutura argumentativa é bem organizada, com progressão lógica clara: parte do contexto histórico evocado por Oliveira Lima, passa pelas transformações contemporâneas e conclui com uma reflexão sobre o papel atual do diplomata.",
+      "O texto demonstra conhecimento sofisticado de conceitos relevantes (diplomacia pública, interesse nacional, legitimidade democrática da política externa), o que enriquece significativamente a argumentação.",
+      "A conclusão retoma adequadamente o enunciado, estabelecendo contraste entre o papel do diplomata no século XIX e no presente, conferindo circularidade ao texto.",
+      "Há alguns erros gramaticais pontuais (concordância, pontuação indevida, grafia) que, embora não comprometam a compreensão, reduzem a nota na dimensão de correção linguística.",
+      "O uso de vírgulas por vezes é excessivo ou inadequado, criando pausas que fragmentam a leitura em alguns trechos."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "nota_final": 52.5,
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"atividade diplomáticas\" — erro de concordância nominal; deveria ser \"atividade diplomática\" ou \"atividades diplomáticas\".",
+      "\"é, cada vez menos o de relatar\" — vírgula indevida separando sujeito de predicado (após \"é\").",
+      "\"tenha diminuído, consideravelmente o sigilo\" — vírgula indevida separando verbo de complemento; a vírgula após \"diminuído\" está mal posicionada.",
+      "\"para além das consequências imediatas*\" — uso de asterisco inadequado e início de frase com letra minúscula (\"para\" deveria ser \"Para\").",
+      "\"a base da avaliação histórico\" — erro de concordância nominal; deveria ser \"avaliação histórica\".",
+      "\"para contribuirem\" — acento indevido; a forma correta é \"contribuírem\" (com acento no 'i') ou, dependendo da análise, o infinitivo flexionado não leva acento nessa posição — mas o acento circunflexo está ausente/incorreto.",
+      "\"em Sorbonne\" — deveria ser \"na Sorbonne\" (com artigo definido).",
+      "\"má fé\" — grafia incorreta; o correto é \"má-fé\" (com hífen)."
+    ],
+    "feedbacks": [
+      "A redação demonstra excelente domínio do tema, abordando múltiplas dimensões do papel do diplomata como produtor de informação: sigilo, diplomacia pública, combate à desinformação e construção de narrativas históricas.",
+      "A organização textual é muito boa, com progressão lógica clara: parte do contexto histórico, passa pela questão do sigilo, avança para a diplomacia pública e conclui com a dimensão narrativa/memorial da atividade diplomática.",
+      "A argumentação é sofisticada e bem fundamentada, com referências pertinentes a temas como pactos secretos, vazamentos de informações, manipulações eleitorais e interesse nacional.",
+      "O texto dialoga adequadamente com o enunciado e com a citação de Oliveira Lima, retomando-os no parágrafo final de forma coerente.",
+      "Há alguns erros gramaticais pontuais (concordância, pontuação, grafia) que, embora não comprometam a compreensão, prejudicam a correção formal esperada no nível do CACD.",
+      "O uso do asterisco no meio do texto e a letra minúscula no início de parágrafo são falhas formais que devem ser evitadas."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 8,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"atividade diplomáticas\" — erro de concordância nominal; deveria ser \"atividade diplomática\" ou \"atividades diplomáticas\".",
+      "\"o papel do diplomata é, cada vez menos o de relatar\" — vírgula indevida após \"é\", separando sujeito de predicativo, ou falta de vírgula simétrica (deveria ser \"é cada vez menos o de relatar\" ou \"é, cada vez menos, o de relatar\").",
+      "\"tenha diminuído, consideravelmente o sigilo\" — vírgula indevida separando o verbo de seu objeto; deveria ser \"tenha diminuído consideravelmente o sigilo\".",
+      "\"para além das consequências imediatas*\" — uso de asterisco inadequado e falta de maiúscula no início do período (\"Para além\").",
+      "\"a base da avaliação histórico\" — erro de concordância nominal; deveria ser \"avaliação histórica\".",
+      "\"para contribuirem\" — acento indevido; a forma correta do infinitivo flexionado é \"contribuírem\" (com acento agudo no 'i'), mas no contexto a regra de acentuação exige \"contribuírem\".",
+      "\"divulgadas por desconhecimento ou má fé\" — \"má-fé\" deve ser grafado com hífen.",
+      "\"a seu turno\" — embora aceitável, a construção \"a seu turno\" é menos usual que \"por seu turno\" ou \"por sua vez\"; trata-se de questão estilística menor."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do tema e articula múltiplas dimensões do papel do diplomata como produtor de informação: sigilo, diplomacia pública, combate à desinformação e construção de narrativas históricas. Isso evidencia reflexão e conhecimento do campo.",
+      "A estrutura do texto é lógica e bem encadeada, com transições claras entre os parágrafos. O candidato parte do contexto histórico mencionado no enunciado, avança para os desafios contemporâneos e conclui retomando Oliveira Lima, o que confere circularidade ao texto.",
+      "A argumentação é pertinente e demonstra familiaridade com conceitos relevantes (diplomacia pública, interesse nacional, pactos secretos, redes sociais), embora em alguns momentos a análise pudesse ser mais aprofundada — por exemplo, ao tratar do papel das redes sociais na desinformação.",
+      "Há erros gramaticais pontuais (concordância nominal, pontuação inadequada, grafia de 'má-fé') que, embora não comprometam a compreensão, prejudicam a avaliação de correção linguística em um concurso de alto nível como o CACD.",
+      "O texto poderia ter explorado com mais profundidade o diálogo com o trecho de Oliveira Lima ao longo da redação, e não apenas na introdução e na conclusão. Além disso, exemplos concretos (como o caso WikiLeaks ou episódios históricos brasileiros) poderiam enriquecer a argumentação.",
+      "A conclusão é eficaz ao contrastar o papel do diplomata no século XIX com o atual, mas poderia ser mais incisiva e propositiva."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 1,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"atividade diplomáticas\" — erro de concordância nominal; deveria ser \"atividade diplomática\" ou \"atividades diplomáticas\".",
+      "\"o papel do diplomata é, cada vez menos o de relatar\" — vírgula indevida entre o verbo de ligação e o predicativo, quebrando a estrutura sintática.",
+      "\"tenha diminuído, consideravelmente o sigilo\" — vírgula indevida separando o verbo de seu complemento; a vírgula após \"diminuído\" é inadequada.",
+      "\"para além das consequências imediatas*\" — uso de asterisco sem justificativa aparente e início de frase com letra minúscula após ponto final.",
+      "\"a base da avaliação histórico\" — erro de concordância nominal; deveria ser \"avaliação histórica\".",
+      "\"para contribuirem\" — a forma correta do infinitivo flexionado com acento é \"contribuírem\" (com acento agudo no 'i').",
+      "\"má fé\" — a grafia correta é \"má-fé\" (com hífen).",
+      "\"Sorbonne\" — no texto original do enunciado aparece com minúscula, mas o candidato usou maiúscula sem artigo definido; menor deslize de regência/uso: deveria ser \"na Sorbonne\"."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do tema e articula múltiplas dimensões relevantes: sigilo diplomático, diplomacia pública, desinformação nas redes sociais e a função narrativa/histórica do diplomata. Isso evidencia reflexão e conhecimento do campo.",
+      "A estrutura é bem organizada, com parágrafos que tratam de aspectos distintos e complementares do tema, criando uma progressão argumentativa coerente — do sigilo à transparência, da diplomacia pública ao combate à desinformação, e finalmente à dimensão histórica/narrativa.",
+      "O diálogo com o texto de Oliveira Lima é bem conduzido, especialmente no parágrafo final, que retoma a citação e a ressignifica no contexto contemporâneo, conferindo circularidade ao texto.",
+      "Há alguns erros gramaticais que, embora não comprometam a compreensão, prejudicam a qualidade formal esperada em um concurso de alto nível — especialmente os erros de concordância ('atividade diplomáticas', 'avaliação histórico') e as vírgulas indevidas que quebram a estrutura sintática.",
+      "A argumentação, embora competente, poderia ser mais sofisticada em alguns pontos: por exemplo, a discussão sobre redes sociais e desinformação é pertinente mas relativamente genérica. Exemplos concretos (como o caso WikiLeaks, que tangencia o tema de vazamentos mencionado) poderiam enriquecer a análise.",
+      "O uso do asterisco no meio do texto é inadequado e sugere uma anotação pessoal não removida, o que prejudica a apresentação formal."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 2,
+    "essay": 6,
+    "ano": "2018"
+  },
+  {
+    "faixa": "Ótimo",
+    "numero_de_erros_gramaticais": 8,
+    "erros_gramaticais": [
+      "\"atividade diplomáticas\" — erro de concordância nominal; deveria ser \"atividade diplomática\" ou \"atividades diplomáticas\".",
+      "\"o papel do diplomata é, cada vez menos o de relatar\" — vírgula indevida entre o verbo de ligação e o predicativo, quebrando a estrutura sintática.",
+      "\"tenha diminuído, consideravelmente o sigilo\" — vírgula indevida separando o verbo de seu complemento; a vírgula após \"diminuído\" é inadequada.",
+      "\"para além das consequências imediatas*\" — uso de asterisco sem justificativa aparente e início de frase com letra minúscula após ponto final.",
+      "\"a base da avaliação histórico\" — erro de concordância nominal; deveria ser \"avaliação histórica\".",
+      "\"para contribuirem\" — a forma correta do infinitivo flexionado com acento é \"contribuírem\" (com acento agudo no 'i').",
+      "\"má fé\" — a grafia correta é \"má-fé\" (com hífen).",
+      "\"Sorbonne\" — no texto original do enunciado aparece com minúscula, mas o candidato usou maiúscula sem artigo definido; menor deslize de regência/uso: deveria ser \"na Sorbonne\"."
+    ],
+    "feedbacks": [
+      "A redação demonstra boa compreensão do tema e articula múltiplas dimensões relevantes: sigilo diplomático, diplomacia pública, desinformação nas redes sociais e a função narrativa/histórica do diplomata. Isso evidencia reflexão e conhecimento do campo.",
+      "A estrutura é bem organizada, com parágrafos que tratam de aspectos distintos e complementares do tema, criando uma progressão argumentativa coerente — do sigilo à transparência, da diplomacia pública ao combate à desinformação, e finalmente à dimensão histórica/narrativa.",
+      "O diálogo com o texto de Oliveira Lima é bem conduzido, especialmente no parágrafo final, que retoma a citação e a ressignifica no contexto contemporâneo, conferindo circularidade ao texto.",
+      "Há alguns erros gramaticais que, embora não comprometam a compreensão, prejudicam a qualidade formal esperada em um concurso de alto nível — especialmente os erros de concordância ('atividade diplomáticas', 'avaliação histórico') e as vírgulas indevidas que quebram a estrutura sintática.",
+      "A argumentação, embora competente, poderia ser mais sofisticada em alguns pontos: por exemplo, a discussão sobre redes sociais e desinformação é pertinente mas relativamente genérica. Exemplos concretos (como o caso WikiLeaks, que tangencia o tema de vazamentos mencionado) poderiam enriquecer a análise.",
+      "O uso do asterisco no meio do texto é inadequado e sugere uma anotação pessoal não removida, o que prejudica a apresentação formal."
+    ],
+    "modelo": "claude-opus-4-6",
+    "prompt": 9,
+    "temp": 0.0,
+    "versao": 3,
+    "essay": 6,
+    "ano": "2018"
+  }
+]
