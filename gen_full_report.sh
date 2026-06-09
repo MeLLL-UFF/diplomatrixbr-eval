@@ -10,7 +10,11 @@ full_report(){
 }
 
 models=(
-	#Models to gen report for
+	"claude-opus-4-6"
+    "gemma-4-31B-it"
+    "gpt-oss-120b"
+    "Qwen3.6-35B-A3B"
+    "sabia-4"
 )
 
 NUM_RUNS="3"
