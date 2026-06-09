@@ -1,4 +1,4 @@
-from .full_report import get_full_model_df
+from .full_report import get_full_model_df, get_full_human_df
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -95,6 +95,23 @@ def inter_model_QWK(complete_df, model_list, bins:int=5):
     plt.suptitle("QWK Inter-Modelos", fontsize=30.0)
     plt.savefig(os.path.join("prompt_testing", "reports", "QWK_inter_modelos.png"))
 
+def inter_model_boxplot(complete_df):
+    fig, ax = plt.subplots(1, figsize=(8, 6))
+    human_df = get_full_human_df(os.path.join(os.getcwd(), "prompt_testing", "sheets", "notas_humanas"))
+    
+    complete_df["judge"] = complete_df["judge"].apply(model_name_abbreviation)
+    complete_df["prompt"] = complete_df["prompt"].apply(real_prompt_name)
+    complete_df = pd.concat([human_df, complete_df], ignore_index=True)
+    complete_df.loc[complete_df["judge"] == "humano", "prompt"] = "Nota Humana"
+
+    sns.boxplot(complete_df, x="judge", y="nota_final", hue="prompt", showfliers=False, palette=["#FF6B6B", "#11F9DE", "#FFD918", "#A3FF22"])
+
+    ax.set_yticks(range(20, 70, 5))
+    ax.set_xlabel("Avaliadores")
+    ax.set_ylabel("Notas")
+    sns.move_legend(ax, loc="best", title="")
+    plt.suptitle("Boxplot das notas por modelo")
+    plt.savefig(os.path.join("prompt_testing", "reports", "Boxplot_inter_modelos.png"))
         
 def main(model_list, num_runs):
     models_dfs = []
@@ -112,9 +129,13 @@ def main(model_list, num_runs):
         models_dfs.append(full_model_df)
 
     complete_df = pd.concat(models_dfs, ignore_index=True)
+    complete_df["nota_final"] = complete_df["nota_final"].astype(float)
 
-    inter_model_correlation(complete_df, model_list)
-    inter_model_QWK(complete_df, model_list, 5)
+    #inter_model_correlation(complete_df, model_list)
+    #inter_model_QWK(complete_df, model_list, 5)
+
+    complete_df = complete_df[complete_df["nota_final"] > 0]
+    inter_model_boxplot(complete_df)
 
 
 if __name__ == "__main__":

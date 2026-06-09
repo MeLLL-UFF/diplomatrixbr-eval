@@ -182,13 +182,8 @@ def get_full_model_df(path_model_sheets, num_runs):
 
     return pd.concat(sheet_list, ignore_index=True)
 
-def full_report(num_runs, num_redacoes, model_name):
-    path_model_sheets = os.path.join(os.getcwd(), "prompt_testing", "sheets", model_name)
-
-    model_df = get_full_model_df(path_model_sheets, num_runs)
-
-    path_human_sheets = os.path.join(os.getcwd(), "prompt_testing", "sheets", "notas_humanas")
-
+def get_full_human_df(path_human_sheets):
+    
     list_path_human_sheets = os.listdir(path_human_sheets)
     list_path_human_sheets.sort()
 
@@ -206,7 +201,16 @@ def full_report(num_runs, num_redacoes, model_name):
         sheet.insert(len(sheet.columns), "ano", year)
         sheet_list.append(sheet)
 
-    human_df = pd.concat(sheet_list, ignore_index=True)
+    return pd.concat(sheet_list, ignore_index=True)
+
+def full_report(num_runs, num_redacoes, model_name):
+    path_model_sheets = os.path.join(os.getcwd(), "prompt_testing", "sheets", model_name)
+
+    model_df = get_full_model_df(path_model_sheets, num_runs)
+
+    path_human_sheets = os.path.join(os.getcwd(), "prompt_testing", "sheets", "notas_humanas")
+
+    human_df = get_full_human_df(path_human_sheets)
 
     df = model_df.merge(human_df, on=["ano", "redacao"], how='inner', suffixes=("_model", "_human"))
 
