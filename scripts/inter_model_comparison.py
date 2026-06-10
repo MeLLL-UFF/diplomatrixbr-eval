@@ -106,7 +106,7 @@ def inter_model_boxplot(complete_df):
 
     sns.boxplot(complete_df, x="judge", y="nota_final", hue="prompt", showfliers=False, palette=["#FF6B6B", "#11F9DE", "#FFD918", "#A3FF22"])
 
-    ax.set_yticks(range(20, 70, 5))
+    ax.set_yticks(range(20, 71, 2.5))
     ax.set_xlabel("Avaliadores")
     ax.set_ylabel("Notas")
     sns.move_legend(ax, loc="best", title="")
