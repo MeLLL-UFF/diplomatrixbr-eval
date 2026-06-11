@@ -123,6 +123,8 @@ def inter_model_error_scatterplot(complete_df):
 
     #complete_df = complete_df.loc[abs(complete_df["erro"]) < 100]
 
+    #complete_df = complete_df.loc[(complete_df["judge_model"] == "gpt-oss-120b") | (complete_df["judge_model"] == "claude-opus-4-6") | (complete_df["judge_model"] == "Qwen3.6-35B-A3B")]
+
     complete_df["judge_model"] = complete_df["judge_model"].apply(model_name_abbreviation)
     complete_df["prompt"] = complete_df["prompt"].apply(real_prompt_name)
 
@@ -134,11 +136,16 @@ def inter_model_error_scatterplot(complete_df):
     sns.scatterplot(complete_df, x="nota_final_human", y="erro", hue="Modelos", style="Prompts", markers=["o", "X", "D"], palette=["#FF9D00", "#61ADFF", "#BB0000", "#800B9B", "#2F8600"])
     sns.move_legend(ax, loc="best", title="", fontsize=tam_fonte-2)
     ax.set_ylim(-41, 30)
-    ax.set_xlim(30, 70.5)
+    ax.set_xlim(29.5, 70.5)
     ax.set_xlabel("Notas Humanas", fontsize=tam_fonte)
     ax.set_ylabel("Erro", fontsize=tam_fonte)
 
-    plt.axhline(y=0, color='black', linestyle='dashed')
+    plt.axhline(y=0, color='black', linestyle=(0, (1, 1)))
+
+    inversa_afim_x = np.linspace(30, 70, 200)
+    m = -1
+    n = 50
+    plt.plot(inversa_afim_x, m*inversa_afim_x+n, color="black", linestyle=(5, (10, 3)))
 
     plt.suptitle("Scatterplot do erro dos modelos", fontsize=tam_fonte+5)
     plt.savefig(os.path.join("prompt_testing", "reports", "Scatterplot_inter_modelos_erro.png"))
