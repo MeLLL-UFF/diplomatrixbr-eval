@@ -114,31 +114,33 @@ def inter_model_boxplot(complete_df):
     plt.savefig(os.path.join("prompt_testing", "reports", "Boxplot_inter_modelos.png"))
         
 def inter_model_error_scatterplot(complete_df):
-    fig, ax = plt.subplots(figsize=(8, 8))
+    fig, ax = plt.subplots(figsize=(12, 12))
 
     human_df = get_full_human_df(os.path.join(os.getcwd(), "prompt_testing", "sheets", "notas_humanas"))
     complete_df = complete_df.merge(human_df, on=["redacao"], how='inner', suffixes=("_model", "_human"))
 
     complete_df["erro"] = complete_df["nota_final_model"] - complete_df["nota_final_human"]
 
-    complete_df = complete_df.loc[abs(complete_df["erro"]) < 100]
+    #complete_df = complete_df.loc[abs(complete_df["erro"]) < 100]
 
     complete_df["judge_model"] = complete_df["judge_model"].apply(model_name_abbreviation)
     complete_df["prompt"] = complete_df["prompt"].apply(real_prompt_name)
 
     complete_df = complete_df.rename(columns={"judge_model":"Modelos", "prompt":"Prompts"})
 
-    #ax.set_yticks(range(-max_value, max_value+1, 5))
+    tam_fonte=15.0
+
+    #ax.set_yticks(range(-42, 32, 10), fontsize=tam_fonte-5)
     sns.scatterplot(complete_df, x="nota_final_human", y="erro", hue="Modelos", style="Prompts", markers=["o", "X", "D"], palette=["#FF9D00", "#61ADFF", "#BB0000", "#800B9B", "#2F8600"])
-    sns.move_legend(ax, loc="best", title="")
+    sns.move_legend(ax, loc="best", title="", fontsize=tam_fonte-2)
     ax.set_ylim(-41, 30)
     ax.set_xlim(30, 70.5)
-    ax.set_xlabel("Notas Humanas")
-    ax.set_ylabel("Erro")
+    ax.set_xlabel("Notas Humanas", fontsize=tam_fonte)
+    ax.set_ylabel("Erro", fontsize=tam_fonte)
 
     plt.axhline(y=0, color='black', linestyle='dashed')
 
-    plt.suptitle("Scatterplot do erro dos modelos")
+    plt.suptitle("Scatterplot do erro dos modelos", fontsize=tam_fonte+5)
     plt.savefig(os.path.join("prompt_testing", "reports", "Scatterplot_inter_modelos_erro.png"))
 
 def inter_model_scores_scatterplot(complete_df):
