@@ -1,8 +1,8 @@
 # Relatório de Avaliação: sabia-3.1 - 3 execuções
-**Gerado em: 09/04/2026 17:39:52**
+**Gerado em: 25/06/2026 22:16:58**
 
 ## 1. Distribuição de Notas
-Nesta seção comparamos as notas atribuídas pelo modelo sabia em diferentes prompts/temperaturas versus a correção humana.
+Nesta seção comparamos as notas atribuídas pelo modelo sabia-3.1 em diferentes prompts/temperaturas versus a correção humana.
 
 ![Distribuição de Notas](distribuicao_notas.png)
 

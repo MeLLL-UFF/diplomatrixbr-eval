@@ -113,7 +113,7 @@ def plot_eval_human_scores(df, output_path, year, *, temp=None, prompt=None):
     df = df.sort_values(by=["prompt", "nota_humana"], ascending=[True, False])
     df["redacao"] = df["redacao"].astype(str)
     df["prompt"] = df["prompt"].astype(str)
-    df["prompt"] = df["prompt"].replace({"7": "7 - Critério SEM padrão", "8":"8 - Total SEM padrão", "9":"9 - Faixa SEM padrão", "10":"10 - Critério COM padrão", "11":"11 - Total COM padrão", "12":"12 - Faixa COM padrão", "13":"13 - Critério COM genérico", "14":"14 - Total COM genérico", "15":"15 - Faixa COM genérico"})
+    df["prompt"] = df["prompt"].replace({"7": "Critério SEM padrão", "8":"Total SEM padrão", "9":"Faixa SEM padrão", "10":"Critério COM padrão", "11":"Total COM padrão", "12":"Faixa COM padrão", "13":"Critério COM genérico", "14":"Total COM genérico", "15":"Faixa COM genérico"})
 
     if prompt is not None:
         df["temp"] = df["temp"].astype(str)
